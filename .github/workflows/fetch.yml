@@ -1,4 +1,4 @@
-name: Update CSV
+name: Update CSVs
 
 on:
   workflow_dispatch: # Allow manual triggering
@@ -6,7 +6,7 @@ on:
     - cron: "*/5 * * * *" # Run every 5 minutes
 
 jobs:
-  update-csv:
+  update-csvs:
     runs-on: ubuntu-latest
 
     steps:
@@ -25,10 +25,10 @@ jobs:
       - name: Run fetch script
         run: python fetch.py
 
-      - name: Commit CSV
+      - name: Commit
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add *.csv
-          git commit -m "Update CSV file" || echo "No change"
+          git commit -m "Update CSV files" || echo "No change"
           git push
