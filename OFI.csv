@@ -1,7 +1,7 @@
 Chemical_Name,Community_URL,Indication,Therapeutic_group
 Abiraterone Acetate,/apptracker/s/application-public/a102P000008puQ9,"Prostate Cancer, metastatic, naive/hormone sensitive",Oncology Agents and Immunosuppressants
-"Adalimumab, etanercept and secukinumab",/apptracker/s/application-public/a102P00000BaHCo,"Psoriatic arthritis, SA review of number of csDMARDs previously trialled",Oncology Agents and Immunosuppressants
 "Adalimumab, etanercept and secukinumab",/apptracker/s/application-public/a102P00000BNlQr,"Psoriatic arthritis, remove SA criteria relating to CRP",Oncology Agents and Immunosuppressants
+"Adalimumab, etanercept and secukinumab",/apptracker/s/application-public/a102P00000BaHCo,"Psoriatic arthritis, SA review of number of csDMARDs previously trialled",Oncology Agents and Immunosuppressants
 Adalimumab/etanercept,/apptracker/s/application-public/a102P000009lJ0Y,"Rheumatoid arthritis, reduce number of prior DMARDs from 3 to 2",Musculoskeletal System
 Agalsidase alfa,/apptracker/s/application-public/a102P000008puS1,Fabry disease (a-galactosidase A deficiency),Alimentary Tract and Metabolism
 Agalsidase beta,/apptracker/s/application-public/a102P000008ptsH,Fabry disease (a-galactosidase deficiency) by enzyme replacment therapy,Alimentary Tract and Metabolism
@@ -10,14 +10,14 @@ Apalutamide,/apptracker/s/application-public/a10OZ000000BBbF,For the treatment o
 Aprepitant,/apptracker/s/application-public/a102P000008ptty,People at high risk of post-operative nausea and vomiting,Nervous System
 Atezolizumab (with chemotherapy),/apptracker/s/application-public/a102P00000B08F7,"Extensive-stage small cell lung cancer (ES-SCLC), first-line",Oncology Agents and Immunosuppressants
 Atezolizumab and bevacizumab,/apptracker/s/application-public/a102P00000AlzxU,"Hepatocellular carcinoma, unresectable, 1st line",Oncology Agents and Immunosuppressants
-Atogepant,/apptracker/s/application-public/a10OZ00000019Fl,Prophylaxis of chronic migraine in adults,
 Atogepant,/apptracker/s/application-public/a10OZ00000019E9,Prophylaxis of episodic migraine in adults,
+Atogepant,/apptracker/s/application-public/a10OZ00000019Fl,Prophylaxis of chronic migraine in adults,
 Axitinib,/apptracker/s/application-public/a102P000008pu4I,"Renal cell carcinoma, metastatic, clear cell, 2nd line",Oncology Agents and Immunosuppressants
 Azacitidine,/apptracker/s/application-public/a102P00000B0gUX,"AML, blast count above 30% -widened access",Oncology Agents and Immunosuppressants
 Benralizumab,/apptracker/s/application-public/a102P00000BNz5p,"Eosinophilic asthma, ACT and >300 cells/ul eosinophil count criteria (widening access)",
-Bevacizumab,/apptracker/s/application-public/a102P000008pufP,"Ovarian cancer, advanced, 1st line",Oncology Agents and Immunosuppressants
-Bevacizumab,/apptracker/s/application-public/a102P000008ptxU,"Cervical cancer, advanced",Oncology Agents and Immunosuppressants
 Bevacizumab,/apptracker/s/application-public/a102P000008ptpo,"Metastatic colorectal cancer , neoadjuvant treatment for metastatic disease confined to the liver",Oncology Agents and Immunosuppressants
+Bevacizumab,/apptracker/s/application-public/a102P000008ptxU,"Cervical cancer, advanced",Oncology Agents and Immunosuppressants
+Bevacizumab,/apptracker/s/application-public/a102P000008pufP,"Ovarian cancer, advanced, 1st line",Oncology Agents and Immunosuppressants
 Bruton tyrosine kinase inhibitor (BTKi),/apptracker/s/application-public/a10OZ000000LuVR,"chronic lymphocytic leukaemia, first line monotherapy, with TP53 mutation",
 Budesonide and Formoterol Inhalers,/apptracker/s/application-public/a102P00000AlhdU,"Asthma, dispensing in greater quantities than one (STAT dispensing) and add to Practitioner's supply order (PSO) list",Respiratory System and Allergies
 Budesonide controlled-release,/apptracker/s/application-public/a102P000008pu9g,"Ulcerative colitis, mild to moderately active",Alimentary Tract and Metabolism
@@ -25,10 +25,10 @@ Budesonide orodispersible tablets,/apptracker/s/application-public/a102P00000BY1
 Buprenorphine injection (Buvidal),/apptracker/s/application-public/a102P00000BHRv4,"Opioid dependence, maintenance treatment",Nervous System
 Buprenorphine modified release solution for injection (Sublocade),/apptracker/s/application-public/a102P00000Al9Ir,"Opioid dependence, maintenance treatment",Nervous System
 Cannabidiol,/apptracker/s/application-public/a102P00000BTLIN,"Dravet Syndrome, adjunctive therapy",Nervous System
-Carfilzomib,/apptracker/s/application-public/a102P00000BIsC8,"Multiple myeloma, relapsed or refractory, 2nd line",
 Carfilzomib,/apptracker/s/application-public/a102P000008pug4,Relapsed or refractory multiple myeloma,Oncology Agents and Immunosuppressants
-Carglumic acid,/apptracker/s/application-public/a102P000008pubu,"Hyperammonaemia resulting from isovaleric, methylmalonic and propionic organic acidaemias",Alimentary Tract and Metabolism
+Carfilzomib,/apptracker/s/application-public/a102P00000BIsC8,"Multiple myeloma, relapsed or refractory, 2nd line",
 Carglumic acid,/apptracker/s/application-public/a102P000008pu8I,Hyperammonaemia resulting from CPS1 and NAGs deficiencies of urea cycle.,Alimentary Tract and Metabolism
+Carglumic acid,/apptracker/s/application-public/a102P000008pubu,"Hyperammonaemia resulting from isovaleric, methylmalonic and propionic organic acidaemias",Alimentary Tract and Metabolism
 Ceftazidime with avibactam,/apptracker/s/application-public/a102P000008pu7I,Salvage therapy for infections caused by carbapenem resistant Enterobacteriaceae (CPEs),Infections - Agents for Systemic Use
 Ciclosporin eye preparation,/apptracker/s/application-public/a102P000008pu7u,"Severe keratoconjunctivitis sicca, severe atopic keratoconjunctivitis and severe vernal keratoconjunctivitis",Sensory Organs
 Crizotinib,/apptracker/s/application-public/a102P000009rnDX,"Non-small cell lung cancer, locally advanced or metastatic, ROS1 gene translocation",Oncology Agents and Immunosuppressants
@@ -46,10 +46,10 @@ Durvalumab,/apptracker/s/application-public/a102P00000Bajp3,"biliary tract cance
 Empagliflozin,/apptracker/s/application-public/a102P00000BNybx,"Chronic heart failure, NYHA II-IV and LVEF ≤40%",Cardiovascular System
 Entrectinib,/apptracker/s/application-public/a102P00000ASxy1,"Non-small cell lung cancer (NSCLC) - adult patients with ROS1-positive, locally advanced or metastatic",Oncology Agents and Immunosuppressants
 Enzalutamide,/apptracker/s/application-public/a102P00000BKbSL,"Prostate cancer, metastatic, castration resistant, contraindicated to abiraterone",Oncology Agents and Immunosuppressants
-Eplerenone,/apptracker/s/application-public/a102P000008puaw,Primary aldosteronism; intolerant to spironolactone,Cardiovascular System
 Eplerenone,/apptracker/s/application-public/a102P000008puD9,"Hypertension, treatment refractory, intolerant to spironolactone",Cardiovascular System
-Erenumab,/apptracker/s/application-public/a10OZ0000000zI1,Treatment of episodic migraine,
+Eplerenone,/apptracker/s/application-public/a102P000008puaw,Primary aldosteronism; intolerant to spironolactone,Cardiovascular System
 Erenumab,/apptracker/s/application-public/a102P00000BIw0I,Treatment of chronic migraine,Nervous System
+Erenumab,/apptracker/s/application-public/a10OZ0000000zI1,Treatment of episodic migraine,
 Febuxostat,/apptracker/s/application-public/a102P000008ptr6,Gout - widen access,Musculoskeletal System
 Female/internal condoms,/apptracker/s/application-public/a102P000008pugE,Sexually transmitted infection (STI) prevention and contraception,Genito-Urinary System
 Fomepizole,/apptracker/s/application-public/a102P000008ptyT,Methanol poisoning,Various
@@ -59,10 +59,10 @@ Guselkumab,/apptracker/s/application-public/a102P00000Ba2XE,"Plaque psoriasis, m
 Guselkumab,/apptracker/s/application-public/a102P00000BaNat,"Plaque psoriasis, moderate to severe, 2nd line biologic",Dermatologicals
 Ibrutinib,/apptracker/s/application-public/a102P000008puXu,Relapsed or refractory mantle cell lymphoma (R/R MCL),Oncology Agents and Immunosuppressants
 Infliximab,/apptracker/s/application-public/a102P00000AlWG7,"Crohn's disease and ulcerative colitis, dose escalation, widening access",Alimentary Tract and Metabolism
-Influenza vaccine,/apptracker/s/application-public/a102P00000BROGR,Children up to 18 years of age - widen access,National Immunisation Schedule
 Influenza vaccine,/apptracker/s/application-public/a102P00000BRGrN,Options for widened access - Open listing,National Immunisation Schedule
 Influenza vaccine,/apptracker/s/application-public/a102P00000BRODX,"Maori and Pacific people, 50 to 64 years of age",National Immunisation Schedule
 Influenza vaccine,/apptracker/s/application-public/a102P00000BROFJ,People over 50 years of age -widen access,National Immunisation Schedule
+Influenza vaccine,/apptracker/s/application-public/a102P00000BROGR,Children up to 18 years of age - widen access,National Immunisation Schedule
 Inotuzumab,/apptracker/s/application-public/a102P00000BK0rY,"Acute lymphoblastic leukaemia (ALL), eligible and ineligible for transplant, relapsed/refractory CD22-positive, adults",Oncology Agents and Immunosuppressants
 Inotuzumab,/apptracker/s/application-public/a102P00000BQ7JF,"Acute lymphoblastic leukaemia (ALL), bridge to transplant, relapsed/refractory CD22-positive, adults",
 Ipilimumab and nivolumab,/apptracker/s/application-public/a102P00000BarIR,"Renal cell carcinoma, metastatic, clear-cell, 1st line, intermediate and poor prognosis",Oncology Agents and Immunosuppressants
@@ -71,52 +71,52 @@ Lanreotide Acetate,/apptracker/s/application-public/a102P000008puZP,"Gastroenter
 Letermovir,/apptracker/s/application-public/a102P000008puFK,"Cytomegalovirus infection prophylaxis, stem cell transplant patients",Infections - Agents for Systemic Use
 Low Protein Foods,/apptracker/s/application-public/a102P000009LHTR,PKU phenylketonuria,Special Foods
 "Lubricant, non-irritant, water-based, single use packets",/apptracker/s/application-public/a102P000008puQw,Sexual health,Genito-Urinary System
-"Meningococcal  A, C, Y And W-135 Vaccine,Meningococcal C Conjugated Vaccine",/apptracker/s/application-public/a102P000008pu9d,Children 1 year of age plus 1 to 4 years with catchup (one year only),National Immunisation Schedule
 "Meningococcal  A, C, Y And W-135 Vaccine,Meningococcal C Conjugated Vaccine",/apptracker/s/application-public/a102P000008ptzk,Adolescents at 14 years of age,National Immunisation Schedule
 "Meningococcal  A, C, Y And W-135 Vaccine,Meningococcal C Conjugated Vaccine",/apptracker/s/application-public/a102P000008pu50,"Adolescents 5 to 21 years with catchup (one year only), ongoing 14 years old",National Immunisation Schedule
+"Meningococcal  A, C, Y And W-135 Vaccine,Meningococcal C Conjugated Vaccine",/apptracker/s/application-public/a102P000008pu9d,Children 1 year of age plus 1 to 4 years with catchup (one year only),National Immunisation Schedule
 "Meningococcal  A, C, Y And W-135 Vaccine,Meningococcal C Conjugated Vaccine",/apptracker/s/application-public/a102P000008puDK,"Adolescents 13 to 21 years with catchup (one year only), ongoing 14 year olds",National Immunisation Schedule
-Mepolizumab,/apptracker/s/application-public/a102P00000AnQL4,"Eosinophilic asthma, remove requirement for Asthma Control Test (ACT)",Respiratory System and Allergies
 Mepolizumab,/apptracker/s/application-public/a102P00000AYn1O,Severe eosinophilic asthma 300 cells/ul -widening access,Respiratory System and Allergies
+Mepolizumab,/apptracker/s/application-public/a102P00000AnQL4,"Eosinophilic asthma, remove requirement for Asthma Control Test (ACT)",Respiratory System and Allergies
 Migalastat,/apptracker/s/application-public/a102P000008pu0n,Fabry disease,Alimentary Tract and Metabolism
 Multivitamin with trace elements,/apptracker/s/application-public/a102P000008puae,"Bariatric surgery, prevention of micronutrient deficiencies",Alimentary Tract and Metabolism
-Nab-paclitaxel,/apptracker/s/application-public/a102P00000BQdRd,"Metastatic breast cancer, contraindicated or intolerant to taxane chemotherapy",
 Nab-paclitaxel,/apptracker/s/application-public/a102P000008ptow,Metastatic breast cancer,Oncology Agents and Immunosuppressants
-Nab-paclitaxel,/apptracker/s/application-public/a102P00000BX13e,"Metastatic breast cancer , following grade 3+ hypersensitivity reaction on paclitaxel",Oncology Agents and Immunosuppressants
 Nab-paclitaxel,/apptracker/s/application-public/a102P000008pu1I,"Pancreatic cancer, metastatic, 1st line",Oncology Agents and Immunosuppressants
+Nab-paclitaxel,/apptracker/s/application-public/a102P00000BQdRd,"Metastatic breast cancer, contraindicated or intolerant to taxane chemotherapy",
+Nab-paclitaxel,/apptracker/s/application-public/a102P00000BX13e,"Metastatic breast cancer , following grade 3+ hypersensitivity reaction on paclitaxel",Oncology Agents and Immunosuppressants
 Nitisinone,/apptracker/s/application-public/a102P000008ptrM,Tyrosinaemia Type 1,Alimentary Tract and Metabolism
 Non-latex condoms,/apptracker/s/application-public/a102P000008puaC,Sexually transmitted infection (STI) prevention and contraception in patients with latex allergies,Genito-Urinary System
 Oral feed 1.5k cal/ml liquid ONS,/apptracker/s/application-public/a102P000008ptz6,Head and Neck Cancer,Special Foods
 Pegylated liposomal doxorubicin,/apptracker/s/application-public/a102P000008ptxf,"Ovarian cancer, advanced, epithelial, platinum sensitive/ partially sensitive/ intolerant, third line",Oncology Agents and Immunosuppressants
-Pembrolizumab,/apptracker/s/application-public/a102P00000BajR0,Biliary tract cancer,Oncology Agents and Immunosuppressants
 Pembrolizumab,/apptracker/s/application-public/a102P000008ptx2,"Melanoma, Resected Stage III, Adjuvant treatment",Oncology Agents and Immunosuppressants
+Pembrolizumab,/apptracker/s/application-public/a102P00000BajR0,Biliary tract cancer,Oncology Agents and Immunosuppressants
 Perampanel,/apptracker/s/application-public/a102P00000AlVHF,Focal epilepsy,Nervous System
 Pneumococcal vaccine (PCV13),/apptracker/s/application-public/a102P00000BZUOn,"Prevention of IPD, supplemental dose, individuals aged 12 to 59 months",National Immunisation Schedule
 Prednisolone oral liquid,/apptracker/s/application-public/a102P000008ptqh,Removal of restrictions,Hormone Preparations - Systemic Excluding Contraceptive Hormones
 Prucalopride succinate,/apptracker/s/application-public/a102P000008ptz8,Chronic slow transit constipation,Alimentary Tract and Metabolism
 Raltitrexed,/apptracker/s/application-public/a102P000008pua2,"Colorectal cancer, intolerant or contraindicated to fluoropyrimidine due to cardiac toxicity",Oncology Agents and Immunosuppressants
-Recombinant Zoster Vaccine,/apptracker/s/application-public/a102P00000BUKp9,People over 65 years of age who require a Shingrix catch-up at least 5 years post Zostavax,National Immunisation Schedule
-Recombinant Zoster Vaccine,/apptracker/s/application-public/a10OZ000000UvLp,Catch-up programme due to COVID-19 pandemic disruption,
 Recombinant Zoster Vaccine,/apptracker/s/application-public/a102P00000BUKoR,Māori and Pacific people aged 60 years and over for the prevention of herpes zoster and post-herpetic neuralgia,
+Recombinant Zoster Vaccine,/apptracker/s/application-public/a102P00000BUKp9,People over 65 years of age who require a Shingrix catch-up at least 5 years post Zostavax,National Immunisation Schedule
 Recombinant Zoster Vaccine,/apptracker/s/application-public/a102P00000BUKrt,"Prevention of herpes zoster and post-herpetic neuralgia, people at 50 years of age and a catch-up program  for people 51 to 64 years",National Immunisation Schedule
+Recombinant Zoster Vaccine,/apptracker/s/application-public/a10OZ000000UvLp,Catch-up programme due to COVID-19 pandemic disruption,
 Ring pessary,/apptracker/s/application-public/a102P00000Au6xl,"Treatment for pelvic prolapse, vaginal or rectal in women",Genito-Urinary System
 Ripretinib,/apptracker/s/application-public/a102P00000BNzPa,For people with advanced metastatic or unresectable GIST who have experienced disease progression following treatment with imatinib and sunitinib,Oncology Agents and Immunosuppressants
 Risankizumab,/apptracker/s/application-public/a102P000008puXW,"Chronic plaque psoriasis, 1st line biologic",Dermatologicals
 Risankizumab,/apptracker/s/application-public/a102P00000B1Jf9,"Chronic plaque psoriasis, 2nd line biologic",
 Rufinamide,/apptracker/s/application-public/a102P00000BHRQO,Developmental and epileptic encephalopathies,Nervous System
+SMA treatments,/apptracker/s/application-public/a10OZ0000000uQP,"People with SMA types IIIb, IIIc and undefined III aged 18 years and under (symptomatic after 3 years of age)",
 Sapropterin,/apptracker/s/application-public/a102P000008puXt,Phenylketonuria (PKU),Alimentary Tract and Metabolism
 Sirolimus (Rapamycin),/apptracker/s/application-public/a102P00000BYYkJ,Facial angiofibromas associated with Tuberous Sclerosis Complex,
-SMA treatments,/apptracker/s/application-public/a10OZ0000000uQP,"People with SMA types IIIb, IIIc and undefined III aged 18 years and under (symptomatic after 3 years of age)",
 "Sodium hypochlorite, 5% diluted",/apptracker/s/application-public/a102P000008pu0U,"Eczema, secondary bacterial infection",Dermatologicals
-Somatropin,/apptracker/s/application-public/a102P00000BPnSy,"Short stature due to chronic renal insufficiency, amending GFR to 60ml/min/1.73m2",Hormone Preparations - Systemic Excluding Contraceptive Hormones
 Somatropin,/apptracker/s/application-public/a102P000008ptyS,"Prader-Willi Syndrome, widened access for adults and adolescents",Hormone Preparations - Systemic Excluding Contraceptive Hormones
+Somatropin,/apptracker/s/application-public/a102P00000BPnSy,"Short stature due to chronic renal insufficiency, amending GFR to 60ml/min/1.73m2",Hormone Preparations - Systemic Excluding Contraceptive Hormones
 Somatropin Growth Hormone,/apptracker/s/application-public/a102P000008puY5,Short children born small for gestational age,Hormone Preparations - Systemic Excluding Contraceptive Hormones
-Teduglutide,/apptracker/s/application-public/a10OZ0000000uTd,Short bowel syndrome intestinal failure for children,
 Teduglutide,/apptracker/s/application-public/a102P000008puRo,Short bowel syndrome intestinal failure for adults,Alimentary Tract and Metabolism
-Upadacitinib,/apptracker/s/application-public/a102P00000BZ6Rw,"Crohn's disease, severe, 2nd line biologic",Alimentary Tract and Metabolism
-Upadacitinib,/apptracker/s/application-public/a102P00000BR3Xe,"Psoriatic arthritis (PsA), 3rd line biologic",Oncology Agents and Immunosuppressants
-Upadacitinib,/apptracker/s/application-public/a102P00000BNnhH,"Psoriatic arthritis, 2nd line biologic",Oncology Agents and Immunosuppressants
-Upadacitinib,/apptracker/s/application-public/a102P00000BTnki,"Ulcerative colitis, moderate to severe, 2nd line",Alimentary Tract and Metabolism
+Teduglutide,/apptracker/s/application-public/a10OZ0000000uTd,Short bowel syndrome intestinal failure for children,
 Upadacitinib,/apptracker/s/application-public/a102P00000BLJLJ,"Atopic dermatitis, moderate to severe",Dermatologicals
+Upadacitinib,/apptracker/s/application-public/a102P00000BNnhH,"Psoriatic arthritis, 2nd line biologic",Oncology Agents and Immunosuppressants
+Upadacitinib,/apptracker/s/application-public/a102P00000BR3Xe,"Psoriatic arthritis (PsA), 3rd line biologic",Oncology Agents and Immunosuppressants
+Upadacitinib,/apptracker/s/application-public/a102P00000BTnki,"Ulcerative colitis, moderate to severe, 2nd line",Alimentary Tract and Metabolism
+Upadacitinib,/apptracker/s/application-public/a102P00000BZ6Rw,"Crohn's disease, severe, 2nd line biologic",Alimentary Tract and Metabolism
 Ustekinumab,/apptracker/s/application-public/a102P000008pucX,"Psoriasis, chronic plaque, 1st line",Dermatologicals
 Ustekinumab,/apptracker/s/application-public/a10OZ000000H0lC,"Psoriasis, chronic plaque, 2nd line",
 Venetoclax (w current access azacitidine or low dose cytarabine),/apptracker/s/application-public/a102P00000AmyhI,"AML, newly diagnosed,  ineligible for intensive chemotherapy",Oncology Agents and Immunosuppressants
