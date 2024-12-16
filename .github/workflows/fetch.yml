@@ -27,8 +27,8 @@ jobs:
 
       - name: Commit CSV
         run: |
-          git config --global user.name "github-actions"
-          git config --global user.email "github-actions@users.noreply.github.com"
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
           git add *.csv
           git commit -m "Update CSV file" || echo "No change"
           git push
