@@ -27,7 +27,7 @@ jobs:
         run: |
           python fetch.py
 
-      - name: Check for CSV changes
+      - name: Commit CSV
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@users.noreply.github.com"
