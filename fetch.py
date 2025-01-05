@@ -13,6 +13,7 @@ resp = requests.post(URL, headers={
 
 df = pd.DataFrame(resp)
 df.sort_values(df.columns.tolist(), inplace=True)
+print(df)
 df.to_csv("OFI.csv", index=False)
 
 resp = requests.post(URL, headers={
@@ -22,6 +23,7 @@ resp = requests.post(URL, headers={
 )
 df = pd.DataFrame(resp.json()["actions"][1]["returnValue"])
 df.sort_values(df.columns.tolist(), inplace=True)
+print(df)
 df.to_csv("CS_CN.csv", index=False)
 
 resp = requests.post(URL, headers={
@@ -31,4 +33,5 @@ resp = requests.post(URL, headers={
 )
 df = pd.DataFrame(resp.json()["actions"][1]["returnValue"])
 df.sort_values(df.columns.tolist(), inplace=True)
+print(df)
 df.to_csv("Decline.csv", index=False)
