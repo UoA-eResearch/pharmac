@@ -6,6 +6,7 @@ Alirocumab,/apptracker/s/application-public/a102P000008puS0,hypercholesterolaemi
 Aprepitant,/apptracker/s/application-public/a102P00000AmySz,"Nausea and vomiting, carboplatin-based chemotherapy, widen access",Oncology Agents and Immunosuppressants
 Aprepitant,/apptracker/s/application-public/a102P00000BOI2z,Nausea and vomiting associated with moderately emetogenic chemotherapy,Nervous System
 Atezolizumab,/apptracker/s/application-public/a102P000008puFH,Advanced NSCLC 1L combination therapy with platinum chemotherapy,Oncology Agents and Immunosuppressants
+Atezolizumab,/apptracker/s/application-public/a102P000008pufQ,"Urothelial carcinoma, locally advanced or metastatic, 2nd line",Oncology Agents and Immunosuppressants
 Atezolizumab,/apptracker/s/application-public/a102P000009rmyy,"Non-small cell lung cancer, locally advanced or metastatic, high (>50%) PD-L1 expression, 1st line monotherapy",Oncology Agents and Immunosuppressants
 Baclofen oral liquid,/apptracker/s/application-public/a102P000008pudA,Muscle relaxant,Musculoskeletal System
 Bee and wasp venom allergy treatment,/apptracker/s/application-public/a102P000008puiG,Removal of Special Authority,Respiratory System and Allergies
@@ -34,6 +35,7 @@ Fixed duration Ibrutinib plus venetoclax,/apptracker/s/application-public/a10OZ0
 "Fluticasone with salmeterol, high dose",/apptracker/s/application-public/a102P000008ptpV,Asthma and chronic obstructive pulmonary disease,Respiratory System and Allergies
 Fosfomycin,/apptracker/s/application-public/a102P000008puim,Extended spectrum beta lactamase infections,Infections - Agents for Systemic Use
 Fosfomycin IV,/apptracker/s/application-public/a102P000008puC6,Salvage therapy for infections caused by carbapenem resistant Enterobacteriaceae (CREs) in adults,Infections - Agents for Systemic Use
+Freestyle Libre Flash Glucose Monitoring System,/apptracker/s/application-public/a102P000008pucQ,Type 1 diabetes,Alimentary Tract and Metabolism
 Furosemide 20mg tablets,/apptracker/s/application-public/a102P000008puk8,Paediatric congenital heart disease,Cardiovascular System
 Gemtuzumab ozogamicin,/apptracker/s/application-public/a102P000008puZc,"Acute myeloid leukaemia, favourable and intermediate-risk (AML-19 trial)",Oncology Agents and Immunosuppressants
 Guselkumab,/apptracker/s/application-public/a10OZ0000001PUD,"First-line biologic, psoriatic arthritis where DMARDs are not effective",
@@ -41,6 +43,7 @@ INSULIN PUMP,/apptracker/s/application-public/a10OZ000000dKoT,"Diabetes, DANA in
 INSULIN PUMP INFUSION SET (STEEL CANNULA),/apptracker/s/application-public/a10OZ000000dKYL,"Diabetes,  DANA insulin pumps",Alimentary Tract and Metabolism
 INSULIN PUMP INFUSION SET (TEFLON CANNULA),/apptracker/s/application-public/a10OZ000000dKjd,"Diabetes, DANA insulin pumps",Alimentary Tract and Metabolism
 INSULIN PUMP RESERVOIR,/apptracker/s/application-public/a10OZ000000dKmr,"Diabetes, DANA insulin pumps",Alimentary Tract and Metabolism
+Ibrutinib,/apptracker/s/application-public/a102P000008pu4v,"Chronic lymphocytic leukaemia (CLL),  previously untreated patients (17p deletion) and relapsed/refractory patients for whom ibrutinib is a more appropriate option (alternate)",Oncology Agents and Immunosuppressants
 Ibrutinib,/apptracker/s/application-public/a102P00000Baabl,"Waldenstroms Macroglobulinaemia, relapsed within 5 years of treatment,  under 55 years",Oncology Agents and Immunosuppressants
 "Inactivated quadrivalent influenza vaccine, split virion (high dose)",/apptracker/s/application-public/a102P00000BUk3C,"Given the indication will be for 60 plus, it is proposed to replace SD on the Schedule, for people aged 60 plus who meet the criteria",
 Insujet,/apptracker/s/application-public/a102P000008ptwy,Insulin administration,Alimentary Tract and Metabolism
@@ -58,6 +61,7 @@ Macitentan,/apptracker/s/application-public/a102P000008puIy,Pulmonary arterial h
 Medtronic Guardian 3 and Guardian Connect continuous glucose monitoring system,/apptracker/s/application-public/a102P000008pueD,Type 1 diabetes,Alimentary Tract and Metabolism
 Memantine hydrochloride,/apptracker/s/application-public/a102P00000BVtzr,"Dementia, 1st line",Nervous System
 Memantine hydrochloride,/apptracker/s/application-public/a102P00000BVu0Q,"Dementia, moderate, cholinesterases not tolerable",Nervous System
+"Meningococcal  A, C, Y And W-135 Vaccine, Meningococcal C Conjugated Vaccine",/apptracker/s/application-public/a102P000008ptxX,Children 1 year of age,National Immunisation Schedule
 Meningococcal group B vaccine - Invasive meningococcal disease,/apptracker/s/application-public/a10OZ0000000NB7,All adolescents 13-25 years,
 Methoxyflurane,/apptracker/s/application-public/a102P000008puQf,Pain relief,Nervous System
 Metronidazole,/apptracker/s/application-public/a102P000008puDF,Fungating wounds,Dermatologicals
