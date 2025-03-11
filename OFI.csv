@@ -5,6 +5,7 @@ Abiraterone Acetate,/apptracker/s/application-public/a102P000008puQ9,"Prostate C
 Adalimumab/etanercept,/apptracker/s/application-public/a102P000009lJ0Y,"Rheumatoid arthritis, reduce number of prior DMARDs from 3 to 2",Musculoskeletal System
 Agalsidase alfa,/apptracker/s/application-public/a102P000008puS1,Fabry disease (a-galactosidase A deficiency),Alimentary Tract and Metabolism
 Agalsidase beta,/apptracker/s/application-public/a102P000008ptsH,Fabry disease (a-galactosidase deficiency) by enzyme replacment therapy,Alimentary Tract and Metabolism
+Alitretinoin,/apptracker/s/application-public/a102P00000BPyuG,Severe chronic hand eczema in adults unresponsive to potent topical corticosteroids.,Dermatologicals
 Apalutamide,/apptracker/s/application-public/a102P000008pttm,"Prostate cancer ,  non-metastatic, castration-resistant, high risk",Oncology Agents and Immunosuppressants
 Apalutamide,/apptracker/s/application-public/a10OZ000000BBbF,For the treatment of men with: metastatic hormone-sensitive prostate cancer (mHSPC) / metastatic castrate-sensitive prostate cancer (mHSPC).,Oncology Agents and Immunosuppressants
 Aprepitant,/apptracker/s/application-public/a102P000008ptty,People at high risk of post-operative nausea and vomiting,Nervous System
@@ -38,6 +39,7 @@ Daratumumab IV (with bortezomib and dexamethasone),/apptracker/s/application-pub
 Daratumumab subcutaneous,/apptracker/s/application-public/a102P00000BD0yw,"Multiple myeloma, received one prior line of myeloma therapy (1PL).",Oncology Agents and Immunosuppressants
 Darolutamide,/apptracker/s/application-public/a102P00000BSUIe,for patients with high risk non-metastatic-castration resistant prostate cancer (nmCRPC).,
 Durvalumab,/apptracker/s/application-public/a102P00000Bajp3,"biliary tract cancer, Locally advanced or metastatic, in combination with chemotherapy",Oncology Agents and Immunosuppressants
+Empagliflozin,/apptracker/s/application-public/a102P00000BaVPW,"Chronic kidney disease (CKD), non-diabetic",Genito-Urinary System
 Entrectinib,/apptracker/s/application-public/a102P00000ASxy1,"Non-small cell lung cancer (NSCLC) - adult patients with ROS1-positive, locally advanced or metastatic",Oncology Agents and Immunosuppressants
 Enzalutamide,/apptracker/s/application-public/a102P00000BKbSL,"Prostate cancer, metastatic, castration resistant, contraindicated to abiraterone",Oncology Agents and Immunosuppressants
 Eplerenone,/apptracker/s/application-public/a102P000008puD9,"Hypertension, treatment refractory, intolerant to spironolactone",Cardiovascular System
@@ -98,6 +100,7 @@ Risankizumab,/apptracker/s/application-public/a102P00000B1Jf9,"Chronic plaque ps
 Rufinamide,/apptracker/s/application-public/a102P00000BHRQO,Developmental and epileptic encephalopathies,Nervous System
 SMA treatments,/apptracker/s/application-public/a10OZ0000000uQP,"People with SMA types IIIb, IIIc and undefined III aged 18 years and under (symptomatic after 3 years of age)",
 Sapropterin,/apptracker/s/application-public/a102P000008puXt,Phenylketonuria (PKU),Alimentary Tract and Metabolism
+Silver Diamine Fluoride,/apptracker/s/application-public/a102P00000BYJtQ,Dental caries,Various
 Sirolimus (Rapamycin),/apptracker/s/application-public/a102P00000BYYkJ,Facial angiofibromas associated with Tuberous Sclerosis Complex,
 "Sodium hypochlorite, 5% diluted",/apptracker/s/application-public/a102P000008pu0U,"Eczema, secondary bacterial infection",Dermatologicals
 Somatropin,/apptracker/s/application-public/a102P000008ptyS,"Prader-Willi Syndrome, widened access for adults and adolescents",Hormone Preparations - Systemic Excluding Contraceptive Hormones
@@ -112,6 +115,7 @@ Upadacitinib,/apptracker/s/application-public/a102P00000BTnki,"Ulcerative coliti
 Upadacitinib,/apptracker/s/application-public/a102P00000BZ6Rw,"Crohn's disease, severe, 2nd line biologic",Alimentary Tract and Metabolism
 Ustekinumab,/apptracker/s/application-public/a102P000008pucX,"Psoriasis, chronic plaque, 1st line",Dermatologicals
 Ustekinumab,/apptracker/s/application-public/a10OZ000000H0lC,"Psoriasis, chronic plaque, 2nd line",
+Venetoclax & Ibrutinib,/apptracker/s/application-public/a102P00000BZCKU,"CLL, Widen access for late relapse",Oncology Agents and Immunosuppressants
 Venetoclax (w current access azacitidine or low dose cytarabine),/apptracker/s/application-public/a102P00000AmyhI,"AML, newly diagnosed,  ineligible for intensive chemotherapy",Oncology Agents and Immunosuppressants
 Venetoclax (w widened access to azacitidine or low dose cytarabine),/apptracker/s/application-public/a102P00000BIsBP,"Acute myeloid leukaemia, newly diagnosed, ineligible for intensive induction chemotherapy",Oncology Agents and Immunosuppressants
 Vismodegib,/apptracker/s/application-public/a102P000008puDo,"Basal cell carcinoma, locally advanced or metatastic",Oncology Agents and Immunosuppressants
