@@ -1,5 +1,7 @@
 Chemical_Name,Community_URL,Indication,Therapeutic_group
 15-valent pneumococcal conjugate vaccine (PCV15),/apptracker/s/application-public/a102P00000BUmR1,Prevention of invasive pneumococcal disease,
+AdVital (special food product),/apptracker/s/application-public/a102P000008ptpj,Malnutrition with taste fatigue,Special Foods
+AdVital (special food product),/apptracker/s/application-public/a102P000008puWi,"Malnutrition, peri-surgery, tube feeding, and similar",Special Foods
 Alemtuzumab,/apptracker/s/application-public/a102P000008puRJ,Chronic lymphocytic leukaemia (CLL) (3rd-line treatment),Oncology Agents and Immunosuppressants
 Alirocumab,/apptracker/s/application-public/a102P000008puNX,"Heterozygous familial hypercholesterolaemia (HeFH), prevention of CV events",Cardiovascular System
 Alirocumab,/apptracker/s/application-public/a102P000008puS0,hypercholesterolaemia in people with diabetes and acute coronary syndrome (ACS),Cardiovascular System
@@ -29,6 +31,7 @@ Elemental Formula - Alfare,/apptracker/s/application-public/a102P000008puNz,"Cow
 Eribulin,/apptracker/s/application-public/a102P00000BVRE2,Locally advanced or metastatic breast cancer (following progression on chemotherapy),Oncology Agents and Immunosuppressants
 Esketamine,/apptracker/s/application-public/a10OZ0000001EDp,"treatment resistant depression, post augmentation",
 Fampridine,/apptracker/s/application-public/a102P000008puL3,Symptomatic walking improvement for people with MS,Musculoskeletal System
+Ferric Carboxymaltose,/apptracker/s/application-public/a10OZ000001SFLJ,"Hereditary Haemorrhagic Telangiectasia (HHT), serum ferritin 50 mcg/L or less or transferrin saturation is 20% or less, widening access",Blood and Blood Forming Organs
 Fexofenadine hydrochloride,/apptracker/s/application-public/a102P00000AX1tz,"Urticaria, children aged 6 months to 2 years",
 Fixed duration Ibrutinib plus venetoclax,/apptracker/s/application-public/a10OZ0000000aOT,previously untreated Chronic Lymphocytic Leukaemia (CLL) or Small Lymphocytic Leukaemia (SLL) patients without TP53 mutation,
 "Fluticasone with Vilanterol, 200/25, high dose, severe asthma",/apptracker/s/application-public/a102P000008pu6h,Asthma,Respiratory System and Allergies
@@ -82,6 +85,7 @@ Rituximab,/apptracker/s/application-public/a102P00000BYOiJ,For use in the treatm
 SMA treatments,/apptracker/s/application-public/a10OZ0000000uVF,People with SMA type IV (aged 19 years and over at symptom onset),
 Secura Extra Protective Cream,/apptracker/s/application-public/a102P000008puZU,"Pressure injury prevention, incontinence",Dermatologicals
 Sevelamer hydrochloride,/apptracker/s/application-public/a102P000008ptpJ,Hyperphosphataemia in people with chronic kidney disease on dialysis,Genito-Urinary System
+"Sunitinib, pazopanib",/apptracker/s/application-public/a102P00000AUfIW,"Renal cell carcinoma (RCC), advanced or metastatic, 2nd line after prior TKI treatment",Oncology Agents and Immunosuppressants
 Tislelizumab,/apptracker/s/application-public/a102P00000BTxbA,"Advanced non-small cell lung cancer, 2nd line monotherapy irrespective of PDL-1 status",
 Tislelizumab (with platinum-based chemotherapy),/apptracker/s/application-public/a102P00000BTxb5,"Advanced non-small cell lung cancer, 1st line combination therapy, irrespective of PDL-1 status",
 "Topical non-steroidal anti-inflammatory drugs (NSAIDs) - Diclofenac, Ibuprofen, Ketoprofen, Piroxicam",/apptracker/s/application-public/a102P000008puNS,Osteoarthritis,Musculoskeletal System
