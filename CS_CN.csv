@@ -7,9 +7,12 @@ Amphotericin B,/apptracker/s/application-public/a10OZ0000001Qzl,"Prophylaxis of 
 Apixaban,/apptracker/s/application-public/a102P000008puNw,Stroke prevention in atrial fibrillation,Blood and Blood Forming Organs
 "Aspirin, atorvastatin, and ramipril combination pill",/apptracker/s/application-public/a102P000008puCm,Secondary prevention of cardiovascular events,Cardiovascular System
 Atezolizumab,/apptracker/s/application-public/a10OZ000000ohY1,"Subcutaneous formulation, NSCLC, and all other IV atezolizumab indications",
+Bictegravir 50 mg / Emtricitabine 200 mg / Tenofovir alafenamide 25 mg,/apptracker/s/application-public/a102P00000AW9pI,HIV-1 infection in adults,Infections - Agents for Systemic Use
+Cabozantanib Nivolumab,/apptracker/s/application-public/a102P00000BarHT,First line treatment for metastatic IMDC score intermediate and poor prognosis kidney cancer with a clear cell component.,Oncology Agents and Immunosuppressants
 Caspofungin,/apptracker/s/application-public/a10OZ0000001Qy9,"Prophylaxis of invasive fungal infections in people with high risk malignancies, lung and liver transplant recipients",
 Cholecalciferol (Vitamin D) 1000 IU tablets,/apptracker/s/application-public/a102P000008pueX,Vitamin D deficiency,Alimentary Tract and Metabolism
 Cladribine,/apptracker/s/application-public/a102P000008puCH,relapsing-remitting multiple sclerosis,Nervous System
+Eliglustat,/apptracker/s/application-public/a10OZ0000011wKj,type 1 or type 3 Gaucher disease,
 Emtricitabine - tenofovir alafenamide,/apptracker/s/application-public/a102P000008pucu,HIV 1,Infections - Agents for Systemic Use
 Ferrous Sulfate 325mg with Ascorbic Acid 500mg,/apptracker/s/application-public/a102P000008ptyp,Open listing,Alimentary Tract and Metabolism
 Fixed duration ibrutinib plus venetoclax,/apptracker/s/application-public/a10OZ000000Ltb0,previously untreated chronic lymphocytic leaukaemia (CLL) with TP53 mutation,
@@ -32,6 +35,8 @@ Ofatumumab,/apptracker/s/application-public/a102P00000BXRxM,Relapsing Remitting 
 Oral Feed 1.5Kcal/ml - Fortijuce,/apptracker/s/application-public/a102P000008ptz9,Malnutrition,Special Foods
 Oral feed 1.5k cal/ml liquid,/apptracker/s/application-public/a102P000008pu3M,Cystic fibrosis patients > 10 years old,Special Foods
 Paracetamol 1000 mg with ibuprofen 300 mg in 100 mL solution for infusion,/apptracker/s/application-public/a102P00000A9y1G,Acute pain (hospital use),Nervous System
+Pembrolizumab Axitinib,/apptracker/s/application-public/a10OZ000000APQ9,"Pembrolizumab and axitinib, first line treatment of advanced clear cell renal cell carcinoma",Oncology Agents and Immunosuppressants
+Pembrolizumab Lenvatinib,/apptracker/s/application-public/a10OZ000000Ac41,"advanced clear cell renal cell carcinoma, first line",Oncology Agents and Immunosuppressants
 "Pertuzumab and trastuzumab (SC, as PHESGO)",/apptracker/s/application-public/a102P00000BZPBk,HER2-positive metastatic or locally recurrent unresectable breast cancer in combination with docetaxel,Oncology Agents and Immunosuppressants
 Prasugrel,/apptracker/s/application-public/a102P00000AnpIO,"Acute coronary syndrome, STEMI or non-STEMI",
 "Pre-thickened fluids: functional juices, milk based beverages, hot beverages",/apptracker/s/application-public/a102P000008puCR,Dysphagia (hospital),Special Foods
@@ -44,5 +49,6 @@ Taurolidine and citrate,/apptracker/s/application-public/a102P000008puSV,Cathete
 Terbinafine creams and gels,/apptracker/s/application-public/a102P000008pu7b,Antifungal cream,Dermatologicals
 "Trastuzumab, subcutaneous",/apptracker/s/application-public/a102P000008ptpR,"Breast cancer, same indication as IV trastuzumab",Oncology Agents and Immunosuppressants
 Varenicline Tartrate,/apptracker/s/application-public/a102P000008ptwz,"Smoking cessation, open-listing",Nervous System
+Vemurafenib and cobimetinib,/apptracker/s/application-public/a102P000008pu9e,"Melanoma, stage III/IV with BRAF V600 mutation",Oncology Agents and Immunosuppressants
 Zanubrutinib,/apptracker/s/application-public/a102P00000BahNf,"Relapsed or refractory Chronic lymphocytic leukemia (CLL) or Small lymphocytic lymphoma (SLL) , 17p deletion or TP53 mutation disease, second line",
 Zanubrutinib,/apptracker/s/application-public/a102P00000BahwZ,"Relapsed or refractory Chronic lymphocytic leukemia (CLL) or Small lymphocytic lymphoma (SLL)﻿, third line",
