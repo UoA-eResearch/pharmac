@@ -3,8 +3,6 @@ Chemical_Name,Community_URL,Indication,Therapeutic_group
 AdVital (special food product),/apptracker/s/application-public/a102P000008ptpj,Malnutrition with taste fatigue,Special Foods
 AdVital (special food product),/apptracker/s/application-public/a102P000008puWi,"Malnutrition, peri-surgery, tube feeding, and similar",Special Foods
 Alemtuzumab,/apptracker/s/application-public/a102P000008puRJ,Chronic lymphocytic leukaemia (CLL) (3rd-line treatment),Oncology Agents and Immunosuppressants
-Aprepitant,/apptracker/s/application-public/a102P00000AmySz,"Nausea and vomiting, carboplatin-based chemotherapy, widen access",Oncology Agents and Immunosuppressants
-Aprepitant,/apptracker/s/application-public/a102P00000BOI2z,Nausea and vomiting associated with moderately emetogenic chemotherapy,Nervous System
 Atezolizumab,/apptracker/s/application-public/a102P000008puFH,Advanced NSCLC 1L combination therapy with platinum chemotherapy,Oncology Agents and Immunosuppressants
 Atezolizumab,/apptracker/s/application-public/a102P000008pufQ,"Urothelial carcinoma, locally advanced or metastatic, 2nd line",Oncology Agents and Immunosuppressants
 Atezolizumab,/apptracker/s/application-public/a102P000009rmyy,"Non-small cell lung cancer, locally advanced or metastatic, high (>50%) PD-L1 expression, 1st line monotherapy",Oncology Agents and Immunosuppressants
@@ -13,12 +11,10 @@ Azelastine hydrochloride with fluticasone propionate,/apptracker/s/application-p
 Bee and wasp venom allergy treatment,/apptracker/s/application-public/a102P000008puiG,Removal of Special Authority,Respiratory System and Allergies
 Bevacizumab,/apptracker/s/application-public/a102P00000BTk6R,Second-line treatment of high-risk advanced ovarian cancer,Oncology Agents and Immunosuppressants
 Bruton tyrosine kinase inhibitor (BTKi),/apptracker/s/application-public/a10OZ000000LvBN,"Chronic lymphocytic leukaemia, (CLL) without TP53 mutation, relapsed or refractory or experienced intolerable side effects to venetoclax plus rituximab",
-Buprenorphine sublingual tablets,/apptracker/s/application-public/a102P000008ptoz,Acute pain,Nervous System
 Cavilon barrier cream,/apptracker/s/application-public/a102P000008puBc,Skin integrity,Dermatologicals
 Cefuroxime,/apptracker/s/application-public/a102P000008puk7,"Endophthalmitis prophylaxis, post-cataract surgery",Sensory Organs
 Certolizumab pegol,/apptracker/s/application-public/a102P000008puDN,Rheumatoid athritis,Oncology Agents and Immunosuppressants
 Clindamycin vaginal cream,/apptracker/s/application-public/a102P000008ptyF,Bacterial vaginosis and desquamative inflammatory vaginitis,Genito-Urinary System
-Collagenase clostridium histolyticum,/apptracker/s/application-public/a102P000008ptpi,Dupuytren's contracture,Musculoskeletal System
 D-mannose,/apptracker/s/application-public/a102P000008puQG,"Cystitis, uncomplicated during pregnancy or associated neurogenic bladder",Infections - Agents for Systemic Use
 Dabrafenib,/apptracker/s/application-public/a102P000008pu2y,"Melanoma, stage III/IV with BRAF V600 mutation",Oncology Agents and Immunosuppressants
 Deflazacort,/apptracker/s/application-public/a102P000008pujy,Duchenne muscular dystrophy,Musculoskeletal System
@@ -60,9 +56,7 @@ Metronidazole,/apptracker/s/application-public/a102P000008puDF,Fungating wounds,
 Micronutrient formulas,/apptracker/s/application-public/a102P000008puPl,ADHD and or mood dysregulation,Nervous System
 Mirabegron,/apptracker/s/application-public/a102P000008pudo,"Overactive bladder, 2nd line",Genito-Urinary System
 Mirabegron,/apptracker/s/application-public/a102P00000BOI18,Open listing,Genito-Urinary System
-Morphine sulphate (5 mg / 5 mL pre-filled syringes),/apptracker/s/application-public/a102P00000A0EJ7,Acute Pain,Various
 Moxifloxacin ophthalmic (0.5% USP),/apptracker/s/application-public/a102P00000AvPBI,Prophylaxisis of post-operative endophthalmitis (POE) following intra-ocular surgery.,
-Naltrexone hydrochloride,/apptracker/s/application-public/a102P000008puVE,Removal of Special Authority,Nervous System
 Netupitant/palonosetron,/apptracker/s/application-public/a10OZ0000000WPh,Prevention of acute and delayed nausea and vomiting associated with initial and repeat courses of moderately emetogenic anti-cancer treatments.,
 Nivolumab,/apptracker/s/application-public/a102P000008puDw,"Non-small cell lung cancer, locally advanced or metastatic, 2nd line",Oncology Agents and Immunosuppressants
 Nivolumab (with ipilimumab and platinum-based chemotherapy),/apptracker/s/application-public/a102P00000BUI9R,"Advanced non-small cell lung cancer, 1st line combination therapy, irrespective of PDL-1 status",
