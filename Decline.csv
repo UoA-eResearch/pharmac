@@ -3,8 +3,6 @@ Chemical_Name,Community_URL,Indication,Therapeutic_group
 AdVital (special food product),/apptracker/s/application-public/a102P000008ptpj,Malnutrition with taste fatigue,Special Foods
 AdVital (special food product),/apptracker/s/application-public/a102P000008puWi,"Malnutrition, peri-surgery, tube feeding, and similar",Special Foods
 Alemtuzumab,/apptracker/s/application-public/a102P000008puRJ,Chronic lymphocytic leukaemia (CLL) (3rd-line treatment),Oncology Agents and Immunosuppressants
-Alirocumab,/apptracker/s/application-public/a102P000008puNX,"Heterozygous familial hypercholesterolaemia (HeFH), prevention of CV events",Cardiovascular System
-Alirocumab,/apptracker/s/application-public/a102P000008puS0,hypercholesterolaemia in people with diabetes and acute coronary syndrome (ACS),Cardiovascular System
 Aprepitant,/apptracker/s/application-public/a102P00000AmySz,"Nausea and vomiting, carboplatin-based chemotherapy, widen access",Oncology Agents and Immunosuppressants
 Aprepitant,/apptracker/s/application-public/a102P00000BOI2z,Nausea and vomiting associated with moderately emetogenic chemotherapy,Nervous System
 Atezolizumab,/apptracker/s/application-public/a102P000008puFH,Advanced NSCLC 1L combination therapy with platinum chemotherapy,Oncology Agents and Immunosuppressants
@@ -47,11 +45,8 @@ Fosfomycin IV,/apptracker/s/application-public/a102P000008puC6,Salvage therapy f
 Furosemide 20mg tablets,/apptracker/s/application-public/a102P000008puk8,Paediatric congenital heart disease,Cardiovascular System
 Gemtuzumab ozogamicin,/apptracker/s/application-public/a102P000008puZc,"Acute myeloid leukaemia, favourable and intermediate-risk (AML-19 trial)",Oncology Agents and Immunosuppressants
 Guselkumab,/apptracker/s/application-public/a10OZ0000001PUD,"First-line biologic, psoriatic arthritis where DMARDs are not effective",
-INSULIN PUMP INFUSION SET (TEFLON CANNULA),/apptracker/s/application-public/a10OZ000000dKjd,"Diabetes, DANA insulin pumps",Alimentary Tract and Metabolism
-INSULIN PUMP RESERVOIR,/apptracker/s/application-public/a10OZ000000dKmr,"Diabetes, DANA insulin pumps",Alimentary Tract and Metabolism
 Ibrutinib,/apptracker/s/application-public/a102P00000Baabl,"Waldenstroms Macroglobulinaemia, relapsed within 5 years of treatment,  under 55 years",Oncology Agents and Immunosuppressants
 "Inactivated quadrivalent influenza vaccine, split virion (high dose)",/apptracker/s/application-public/a102P00000BUk3C,"Given the indication will be for 60 plus, it is proposed to replace SD on the Schedule, for people aged 60 plus who meet the criteria",
-Insujet,/apptracker/s/application-public/a102P000008ptwy,Insulin administration,Alimentary Tract and Metabolism
 Insulin pump (including consumables),/apptracker/s/application-public/a102P000008puM6,Diabetes during pregnancy,Alimentary Tract and Metabolism
 Ixekizumab,/apptracker/s/application-public/a10OZ00000017Dx,Inflammatory conditions,Dermatologicals
 Lacosamide,/apptracker/s/application-public/a102P000008pu5w,"Epilepsy, move up to 5th line",Nervous System
@@ -77,7 +72,6 @@ Naltrexone hydrochloride,/apptracker/s/application-public/a102P000008puVE,Remova
 Netupitant/palonosetron,/apptracker/s/application-public/a10OZ0000000WPh,Prevention of acute and delayed nausea and vomiting associated with initial and repeat courses of moderately emetogenic anti-cancer treatments.,
 Nivolumab,/apptracker/s/application-public/a102P000008puDw,"Non-small cell lung cancer, locally advanced or metastatic, 2nd line",Oncology Agents and Immunosuppressants
 Nivolumab (with ipilimumab and platinum-based chemotherapy),/apptracker/s/application-public/a102P00000BUI9R,"Advanced non-small cell lung cancer, 1st line combination therapy, irrespective of PDL-1 status",
-Octreotide LAR,/apptracker/s/application-public/a102P00000BZ6SQ,"polycystic liver disease, symptomatic relief",Alimentary Tract and Metabolism
 Pegylated liposomal doxorubicin,/apptracker/s/application-public/a102P000008ptxY,Advanced epithelial ovarian cancer (3rd-line treatment) - platinum resistant,Oncology Agents and Immunosuppressants
 Pegylated liposomal doxorubicin,/apptracker/s/application-public/a102P000008ptxf,"Ovarian cancer, advanced, epithelial, platinum sensitive/ partially sensitive/ intolerant, third line",Oncology Agents and Immunosuppressants
 Pembrolizumab,/apptracker/s/application-public/a102P000008puZ2,"Non small cell lung cancer, locally advanced or metastatic, PD-L1 positive, 2nd line",Oncology Agents and Immunosuppressants
