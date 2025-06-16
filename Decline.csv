@@ -1,5 +1,4 @@
 Chemical_Name,Community_URL,Indication,Therapeutic_group
-15-valent pneumococcal conjugate vaccine (PCV15),/apptracker/s/application-public/a102P00000BUmR1,Prevention of invasive pneumococcal disease,
 AdVital (special food product),/apptracker/s/application-public/a102P000008ptpj,Malnutrition with taste fatigue,Special Foods
 AdVital (special food product),/apptracker/s/application-public/a102P000008puWi,"Malnutrition, peri-surgery, tube feeding, and similar",Special Foods
 Alemtuzumab,/apptracker/s/application-public/a102P000008puRJ,Chronic lymphocytic leukaemia (CLL) (3rd-line treatment),Oncology Agents and Immunosuppressants
@@ -20,7 +19,6 @@ Dexcom G5 Continuous Glucose Monitors,/apptracker/s/application-public/a102P0000
 Diflunisal,/apptracker/s/application-public/a102P00000ABk8y,ATTRwt induced cardiomyopathy,Blood and Blood Forming Organs
 Dimethyl ether and propane,/apptracker/s/application-public/a102P000008ptro,Warts,Dermatologicals
 Dostarlimab-gxly,/apptracker/s/application-public/a10OZ000002WKQf,"endometrial cancer, treatment of advanced or recurrent, irrespective of dMMR status, second line",
-Elemental Formula - Alfare,/apptracker/s/application-public/a102P000008puNz,"Cow's milk protein allergy, food intolerance and hypersensitivity",Special Foods
 Eribulin,/apptracker/s/application-public/a102P00000BVRE2,Locally advanced or metastatic breast cancer (following progression on chemotherapy),Oncology Agents and Immunosuppressants
 Esketamine,/apptracker/s/application-public/a10OZ0000001EDp,"treatment resistant depression, post augmentation",
 Fampridine,/apptracker/s/application-public/a102P000008puL3,Symptomatic walking improvement for people with MS,Musculoskeletal System
@@ -29,7 +27,6 @@ Ferric carboxymaltose,/apptracker/s/application-public/a10OZ000003lVzX,"heart fa
 Fexofenadine hydrochloride,/apptracker/s/application-public/a102P00000AX1tz,"Urticaria, children aged 6 months to 2 years",
 Fixed duration Ibrutinib plus venetoclax,/apptracker/s/application-public/a10OZ0000000aOT,previously untreated Chronic Lymphocytic Leukaemia (CLL) or Small Lymphocytic Leukaemia (SLL) patients without TP53 mutation,
 "Fluticasone with Vilanterol, 200/25, high dose, severe asthma",/apptracker/s/application-public/a102P000008pu6h,Asthma,Respiratory System and Allergies
-"Fluticasone with salmeterol, high dose",/apptracker/s/application-public/a102P000008ptpV,Asthma and chronic obstructive pulmonary disease,Respiratory System and Allergies
 Furosemide 20mg tablets,/apptracker/s/application-public/a102P000008puk8,Paediatric congenital heart disease,Cardiovascular System
 Guselkumab,/apptracker/s/application-public/a10OZ0000001PUD,"First-line biologic, psoriatic arthritis where DMARDs are not effective",
 "Inactivated quadrivalent influenza vaccine, split virion (high dose)",/apptracker/s/application-public/a102P00000BUk3C,"Given the indication will be for 60 plus, it is proposed to replace SD on the Schedule, for people aged 60 plus who meet the criteria",
@@ -51,19 +48,15 @@ Metronidazole,/apptracker/s/application-public/a102P000008puDF,Fungating wounds,
 Micronutrient formulas,/apptracker/s/application-public/a102P000008puPl,ADHD and or mood dysregulation,Nervous System
 Mirabegron,/apptracker/s/application-public/a102P000008pudo,"Overactive bladder, 2nd line",Genito-Urinary System
 Mirabegron,/apptracker/s/application-public/a102P00000BOI18,Open listing,Genito-Urinary System
-Moxifloxacin ophthalmic (0.5% USP),/apptracker/s/application-public/a102P00000AvPBI,Prophylaxisis of post-operative endophthalmitis (POE) following intra-ocular surgery.,
 Netupitant/palonosetron,/apptracker/s/application-public/a10OZ0000000WPh,Prevention of acute and delayed nausea and vomiting associated with initial and repeat courses of moderately emetogenic anti-cancer treatments.,
 Pegylated liposomal doxorubicin,/apptracker/s/application-public/a102P000008ptxY,Advanced epithelial ovarian cancer (3rd-line treatment) - platinum resistant,Oncology Agents and Immunosuppressants
 Pegylated liposomal doxorubicin,/apptracker/s/application-public/a102P000008ptxf,"Ovarian cancer, advanced, epithelial, platinum sensitive/ partially sensitive/ intolerant, third line",Oncology Agents and Immunosuppressants
-Pembrolizumab,/apptracker/s/application-public/a102P000008puZ2,"Non small cell lung cancer, locally advanced or metastatic, PD-L1 positive, 2nd line",Oncology Agents and Immunosuppressants
 "Pre-thickened fluids, pudding-thick (extremely thick)",/apptracker/s/application-public/a102P000008pu2I,Dysphagia (hospital),Special Foods
 "Quadrivalent Influenza virus haemagglutinin, surface antigen, inactivated, prepared in cell cultures",/apptracker/s/application-public/a102P00000BUjqp,Prevention of influenza caused by Influenza Virus Types A and B,
 SMA treatments,/apptracker/s/application-public/a10OZ0000000uVF,People with SMA type IV (aged 19 years and over at symptom onset),
 Secukinumab,/apptracker/s/application-public/a102P000008puMJ,"Ankylosing spondylitis, 1st biologic line",Musculoskeletal System
 Sofosbuvir,/apptracker/s/application-public/a102P000008pu04,"Hepatitis C, direct-acting antiviral",Infections - Agents for Systemic Use
 "Sunitinib, pazopanib",/apptracker/s/application-public/a102P00000AUfIW,"Renal cell carcinoma (RCC), advanced or metastatic, 2nd line after prior TKI treatment",Oncology Agents and Immunosuppressants
-Tislelizumab,/apptracker/s/application-public/a102P00000BTxbA,"Advanced non-small cell lung cancer, 2nd line monotherapy irrespective of PDL-1 status",
-Tislelizumab (with platinum-based chemotherapy),/apptracker/s/application-public/a102P00000BTxb5,"Advanced non-small cell lung cancer, 1st line combination therapy, irrespective of PDL-1 status",
 "Topical non-steroidal anti-inflammatory drugs (NSAIDs) - Diclofenac, Ibuprofen, Ketoprofen, Piroxicam",/apptracker/s/application-public/a102P000008puNS,Osteoarthritis,Musculoskeletal System
 Trastuzumab,/apptracker/s/application-public/a102P000008ptzX,Breast cancer-treatment beyond disease progression,Oncology Agents and Immunosuppressants
 "Tyrosine kinase inhibitors (eg. sunitinib, pazopanib)",/apptracker/s/application-public/a102P000008puY1,"Renal cell carcinoma (RCC), advanced or metastatic with a good prognosis",Oncology Agents and Immunosuppressants
