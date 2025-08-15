@@ -2,7 +2,7 @@ Chemical_Name,Community_URL,Indication,Therapeutic_group
 Abiraterone Acetate,/apptracker/s/application-public/a102P000008puQ9,"Prostate cancer, metastatic, naive/hormone sensitive",Oncology Agents and Immunosuppressants
 "Adalimumab, etanercept and secukinumab",/apptracker/s/application-public/a102P00000BNlQr,"Psoriatic arthritis, remove SA criteria relating to CRP",Oncology Agents and Immunosuppressants
 "Adalimumab, etanercept and secukinumab",/apptracker/s/application-public/a102P00000BaHCo,"Psoriatic arthritis, SA review of number of csDMARDs previously trialled",Oncology Agents and Immunosuppressants
-Adalimumab/etanercept,/apptracker/s/application-public/a102P000009lJ0Y,"Rheumatoid arthritis, reduce number of prior DMARDs from 3 to 2",Musculoskeletal System
+Adalimumab/etanercept,/apptracker/s/application-public/a102P000009lJ0Y,"Rheumatoid arthritis, reduce number of prior DMARDs from 3 to 2",Oncology Agents and Immunosuppressants
 Agalsidase alfa,/apptracker/s/application-public/a102P000008puS1,Fabry disease (a-galactosidase A deficiency),Alimentary Tract and Metabolism
 Agalsidase beta,/apptracker/s/application-public/a102P000008ptsH,Fabry disease (a-galactosidase deficiency) by enzyme replacment therapy,Alimentary Tract and Metabolism
 Alitretinoin,/apptracker/s/application-public/a102P00000BPyuG,Severe chronic hand eczema in adults unresponsive to potent topical corticosteroids,Dermatologicals
@@ -12,7 +12,7 @@ Aprepitant,/apptracker/s/application-public/a102P000008ptty,People at high risk 
 Atezolizumab (with chemotherapy),/apptracker/s/application-public/a102P00000B08F7,"Extensive-stage small cell lung cancer (ES-SCLC), first-line",Oncology Agents and Immunosuppressants
 Atogepant,/apptracker/s/application-public/a10OZ00000019E9,Prophylaxis of episodic migraine in adults,
 Atogepant,/apptracker/s/application-public/a10OZ00000019Fl,Prophylaxis of chronic migraine in adults,
-Benralizumab,/apptracker/s/application-public/a102P00000BNz5p,"Eosinophilic asthma, ACT and >300 cells/ul eosinophil count criteria (widening access)",
+Benralizumab,/apptracker/s/application-public/a102P00000BNz5p,"Eosinophilic asthma, ACT and >300 cells/ul eosinophil count criteria (widening access)",Oncology Agents and Immunosuppressants
 Bevacizumab,/apptracker/s/application-public/a102P000008ptpo,"Metastatic colorectal cancer , neoadjuvant treatment for metastatic disease confined to the liver",Oncology Agents and Immunosuppressants
 Bevacizumab,/apptracker/s/application-public/a102P000008ptxU,"Cervical cancer, advanced",Oncology Agents and Immunosuppressants
 Bruton tyrosine kinase inhibitor (BTKi),/apptracker/s/application-public/a10OZ000000LuVR,"chronic lymphocytic leukaemia, first line monotherapy, with TP53 mutation",
