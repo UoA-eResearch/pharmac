@@ -10,6 +10,7 @@ Bee and wasp venom allergy treatment,/apptracker/s/application-public/a102P00000
 Bevacizumab,/apptracker/s/application-public/a102P00000BTk6R,Second-line treatment of high-risk advanced ovarian cancer,Oncology Agents and Immunosuppressants
 Bruton tyrosine kinase inhibitor (BTKi),/apptracker/s/application-public/a10OZ000000LvBN,"Chronic lymphocytic leukaemia, (CLL) without TP53 mutation, relapsed or refractory or experienced intolerable side effects to venetoclax plus rituximab",
 Cefuroxime,/apptracker/s/application-public/a102P000008puk7,"Endophthalmitis prophylaxis, post-cataract surgery",Sensory Organs
+Cyanocobalamin (1mg sub-lingual),/apptracker/s/application-public/a10OZ000000witV,Vitamin B12 deficiency,Alimentary Tract and Metabolism
 D-mannose,/apptracker/s/application-public/a102P000008puQG,"Cystitis, uncomplicated during pregnancy or associated neurogenic bladder",Infections - Agents for Systemic Use
 Dabrafenib,/apptracker/s/application-public/a102P000008pu2y,"Melanoma, stage III/IV with BRAF V600 mutation",Oncology Agents and Immunosuppressants
 Deflazacort,/apptracker/s/application-public/a102P000008pujy,Duchenne muscular dystrophy,Musculoskeletal System
@@ -17,6 +18,8 @@ Desmopressin,/apptracker/s/application-public/a10OZ000000qI8v,"Arginine vasopres
 Dexcom G5 Continuous Glucose Monitors,/apptracker/s/application-public/a102P00000BBg62,Type 2 diabetes,Alimentary Tract and Metabolism
 Diflunisal,/apptracker/s/application-public/a102P00000ABk8y,ATTRwt induced cardiomyopathy,Blood and Blood Forming Organs
 Dostarlimab-gxly,/apptracker/s/application-public/a10OZ000002WKQf,"endometrial cancer, treatment of advanced or recurrent, irrespective of dMMR status, second line",
+Dupilumab,/apptracker/s/application-public/a102P00000BMJQf,"Moderate to severe atopic dermatitis, following 2nd line treatment(s)",Dermatologicals
+Dupilumab,/apptracker/s/application-public/a102P00000BMh6q,"Chronic rhinosinusitis with nasal polyposis (CRSwNP), maintenance treatment of uncontrolled disease",Respiratory System and Allergies
 Esketamine,/apptracker/s/application-public/a10OZ0000001EDp,"treatment resistant depression, post augmentation",
 Fampridine,/apptracker/s/application-public/a102P000008puL3,Symptomatic walking improvement for people with MS,Musculoskeletal System
 Ferric Carboxymaltose,/apptracker/s/application-public/a10OZ000001SFLJ,"Hereditary Haemorrhagic Telangiectasia (HHT), serum ferritin 50 mcg/L or less or transferrin saturation is 20% or less, widening access",Blood and Blood Forming Organs
@@ -42,15 +45,22 @@ Meningococcal group B vaccine - Invasive meningococcal disease,/apptracker/s/app
 Methoxyflurane,/apptracker/s/application-public/a102P000008puQf,Pain relief,Nervous System
 Metronidazole,/apptracker/s/application-public/a102P000008puDF,Fungating wounds,Dermatologicals
 Micronutrient formulas,/apptracker/s/application-public/a102P000008puPl,ADHD and or mood dysregulation,Nervous System
+Naltrexone hydrochloride,/apptracker/s/application-public/a102P000008pu3T,Opioid-induced constipation and treatment-resistant cholestasis,Alimentary Tract and Metabolism
 Netupitant/palonosetron,/apptracker/s/application-public/a10OZ0000000WPh,Prevention of acute and delayed nausea and vomiting associated with initial and repeat courses of moderately emetogenic anti-cancer treatments.,
 Pegylated liposomal doxorubicin,/apptracker/s/application-public/a102P000008ptxY,Advanced epithelial ovarian cancer (3rd-line treatment) - platinum resistant,Oncology Agents and Immunosuppressants
 Pegylated liposomal doxorubicin,/apptracker/s/application-public/a102P000008ptxf,"Ovarian cancer, advanced, epithelial, platinum sensitive/ partially sensitive/ intolerant, third line",Oncology Agents and Immunosuppressants
+Pembrolizumab,/apptracker/s/application-public/a102P00000BQMFj,Pembrolizumab in combination with chemotherapy for those with recurrent or metastatic head and neck squamous cell carcinoma irrespective of Combined Positive Score (ie. an all-comers population),
+"Quadrivalent Influenza virus haemagglutinin, surface antigen, inactivated, prepared in cell cultures",/apptracker/s/application-public/a102P00000BUjqp,Prevention of influenza caused by Influenza Virus Types A and B,
+Ribavirin,/apptracker/s/application-public/a10OZ0000002AHp,"Measles, complicated",Infections - Agents for Systemic Use
+SARS-CoV-2 rS (Omicron XBB.1.5),/apptracker/s/application-public/a10OZ000000N49N,prevention of COVID-19,
 SMA treatments,/apptracker/s/application-public/a10OZ0000000uVF,People with SMA type IV (aged 19 years and over at symptom onset),
 Secukinumab,/apptracker/s/application-public/a102P000008puMJ,"Ankylosing spondylitis, 1st biologic line",Musculoskeletal System
 Sofosbuvir,/apptracker/s/application-public/a102P000008pu04,"Hepatitis C, direct-acting antiviral",Infections - Agents for Systemic Use
+Sofosbuvir plus glecapravir with pribrentasvir,/apptracker/s/application-public/a10OZ0000001Quv,"Hepatitis C, second-line treatment in combination with glecaprevir and pibrentasvir after prior direct-acting antiviral treatment",
 "Sunitinib, pazopanib",/apptracker/s/application-public/a102P00000AUfIW,"Renal cell carcinoma (RCC), advanced or metastatic, 2nd line after prior TKI treatment",Oncology Agents and Immunosuppressants
 "Topical non-steroidal anti-inflammatory drugs (NSAIDs) - Diclofenac, Ibuprofen, Ketoprofen, Piroxicam",/apptracker/s/application-public/a102P000008puNS,Osteoarthritis,Musculoskeletal System
 Trastuzumab,/apptracker/s/application-public/a102P000008ptzX,Breast cancer-treatment beyond disease progression,Oncology Agents and Immunosuppressants
 "Tyrosine kinase inhibitors (eg. sunitinib, pazopanib)",/apptracker/s/application-public/a102P000008puY1,"Renal cell carcinoma (RCC), advanced or metastatic with a good prognosis",Oncology Agents and Immunosuppressants
 Vemurafenib,/apptracker/s/application-public/a102P000008puJX,"Melanoma, Stage IIIC/IV with BRAF V600 mutation",Oncology Agents and Immunosuppressants
+Ziv Aflibercept  (Aflibercept),/apptracker/s/application-public/a102P00000BQki1,Ocular neovascularisation,
 tacrolimus prolonged - release capsules,/apptracker/s/application-public/a102P00000BXyQv,Immunosuppresssion for all adolescents and young adults ( 12 - 30 years) living with solid organ transplants in New Zealand.,Oncology Agents and Immunosuppressants

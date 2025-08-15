@@ -13,6 +13,10 @@ Cholecalciferol (Vitamin D) 1000 IU tablets,/apptracker/s/application-public/a10
 Cladribine,/apptracker/s/application-public/a102P000008puCH,relapsing-remitting multiple sclerosis,Nervous System
 Eliglustat,/apptracker/s/application-public/a10OZ0000011wKj,type 1 or type 3 Gaucher disease,
 Emtricitabine - tenofovir alafenamide,/apptracker/s/application-public/a102P000008pucu,HIV 1,Infections - Agents for Systemic Use
+Entrectinib,/apptracker/s/application-public/a102P00000ASxy1,"Non-small cell lung cancer (NSCLC) - adult patients with ROS1-positive, locally advanced or metastatic",Oncology Agents and Immunosuppressants
+Faricimab,/apptracker/s/application-public/a10OZ0000001GxB,Vabysmo (faricimab) for the second-line treatment of patients with neovascular (wet) age-related macular degeneration,
+Faricimab,/apptracker/s/application-public/a10OZ0000001GxB,Vabysmo (faricimab) for the second-line treatment of patients with neovascular (wet) age-related macular degeneration,
+Faricimab,/apptracker/s/application-public/a10OZ0000001Gyn,Vabysmo (faricimab) for the second-line treatment of patients with diabetic macular oedema (DMO).,
 Ferrous Sulfate 325mg with Ascorbic Acid 500mg,/apptracker/s/application-public/a102P000008ptyp,Open listing,Alimentary Tract and Metabolism
 Fixed duration ibrutinib plus venetoclax,/apptracker/s/application-public/a10OZ000000Ltb0,previously untreated chronic lymphocytic leaukaemia (CLL) with TP53 mutation,
 HCU LOPHLEX POWDER,/apptracker/s/application-public/a102P00000ATdn0,Homocystinuria,Special Foods
@@ -29,7 +33,10 @@ Lanreotide acetate,/apptracker/s/application-public/a102P000008puW6,Acromegaly a
 MSUD LOPHLEX POWDER,/apptracker/s/application-public/a102P00000ATdqi,Maple Syrup Urine Disease,Special Foods
 "Mesalazine, granules, 2 g sachets",/apptracker/s/application-public/a102P000008ptyl,Inflammatory bowel disease and similar,Alimentary Tract and Metabolism
 Modafinil,/apptracker/s/application-public/a102P000008pu2H,Narcolepsy - first-line,Nervous System
+Nab-paclitaxel,/apptracker/s/application-public/a10OZ0000001REH,"Any cancer, contraindicated or intolerant to taxane chemotherapy",Oncology Agents and Immunosuppressants
+Nab-paclitaxel,/apptracker/s/application-public/a10OZ0000001RFt,"Any cancer, following grade 3+ hypersensitivity reaction on paclitaxel",Oncology Agents and Immunosuppressants
 Natalizumab (subcutaneous administration),/apptracker/s/application-public/a102P00000BYlWI,Relapsing-remitting multiple sclerosis (RRMS),Nervous System
+Ocrelizumab subcutaneous formulation,/apptracker/s/application-public/a10OZ0000024MK9,"Same indications as the intravenous formulation (relapsing remitting multiple sclerosis, and primary progressive multiple sclerosis)",Nervous System
 Ofatumumab,/apptracker/s/application-public/a102P00000BXRxM,Relapsing Remitting Multiple Sclerosis (MS),Nervous System
 Oral Feed 1.5Kcal/ml - Fortijuce,/apptracker/s/application-public/a102P000008ptz9,Malnutrition,Special Foods
 Oral feed 1.5k cal/ml liquid,/apptracker/s/application-public/a102P000008pu3M,Cystic fibrosis patients > 10 years old,Special Foods
@@ -43,10 +50,13 @@ Pre-thickened standard supplement,/apptracker/s/application-public/a102P000008pu
 Protein drink MSUD,/apptracker/s/application-public/a102P000008puac,Maple Syrup Urine Disease,Special Foods
 Riboflavin,/apptracker/s/application-public/a102P00000Au6e0,Perioperative use (cystoscopy),Genito-Urinary System
 SYMBICORT® RAPIHALER® 100/3; metered aerosol inhaler,/apptracker/s/application-public/a102P00000AYn0Z,Asthma,Respiratory System and Allergies
+Sofosbuvir with velpatasvir and voxilaprevir,/apptracker/s/application-public/a102P000008pu4P,"Hepatitis C, second-line after prior direct-acting antiviral treatment, NS5A resistance",Infections - Agents for Systemic Use
+Sofosbuvir with velpatasvir and voxilaprevir,/apptracker/s/application-public/a10OZ0000001QtJ,"Hepatitis C, second-line after prior direct-acting antiviral treatment",
 TYR LOPHLEX POWDER,/apptracker/s/application-public/a102P00000ATdkf,For use from 3 years of age and adults for the dietary management of Tyrosinaemia (TYR).,Special Foods
 Taurolidine and citrate,/apptracker/s/application-public/a102P000008puSV,Catheter lock solution,Blood and Blood Forming Organs
 Terbinafine creams and gels,/apptracker/s/application-public/a102P000008pu7b,Antifungal cream,Dermatologicals
 "Trastuzumab, subcutaneous",/apptracker/s/application-public/a102P000008ptpR,"Breast cancer, same indication as IV trastuzumab",Oncology Agents and Immunosuppressants
+Vanzacaftor with tezacaftor and deutivacaftor (Alyftrek),/apptracker/s/application-public/a10OZ000003lLVW,"Cystic fibrosis, aged 6 years and older, with F508del mutation(s) or another responsive mutation in the cystic fibrosis transmembrane conductance regulator (CFTR) gene, eligible for elexacaftor/tezacaftor/ivacaftor and ivacaftor",Respiratory System and Allergies
 Varenicline Tartrate,/apptracker/s/application-public/a102P000008ptwz,"Smoking cessation, open-listing",Nervous System
 Vemurafenib and cobimetinib,/apptracker/s/application-public/a102P000008pu9e,"Melanoma, stage III/IV with BRAF V600 mutation",Oncology Agents and Immunosuppressants
 Zanubrutinib,/apptracker/s/application-public/a102P00000BahNf,"Relapsed or refractory Chronic lymphocytic leukemia (CLL) or Small lymphocytic lymphoma (SLL) , 17p deletion or TP53 mutation disease, second line",
