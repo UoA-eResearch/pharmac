@@ -30,6 +30,7 @@ KetoCal 4:1 LQ,/apptracker/s/application-public/a102P00000ATdft,"Epilepsy treate
 Lacosamide syrup,/apptracker/s/application-public/a102P00000BVtwY,"Epilepsy,  same line as current special authority criteria",Nervous System
 Lanreotide acetate,/apptracker/s/application-public/a102P000008puW6,Acromegaly and Neuroendocrine tumours,Oncology Agents and Immunosuppressants
 MSUD LOPHLEX POWDER,/apptracker/s/application-public/a102P00000ATdqi,Maple Syrup Urine Disease,Special Foods
+Macitentan,/apptracker/s/application-public/a10OZ000001jcWn,Portopulmonary hypertension,
 "Mesalazine, granules, 2 g sachets",/apptracker/s/application-public/a102P000008ptyl,Inflammatory bowel disease and similar,Alimentary Tract and Metabolism
 Modafinil,/apptracker/s/application-public/a102P000008pu2H,Narcolepsy - first-line,Nervous System
 Nab-paclitaxel,/apptracker/s/application-public/a10OZ0000001REH,"Any cancer, contraindicated or intolerant to taxane chemotherapy",Oncology Agents and Immunosuppressants
@@ -48,6 +49,7 @@ Prasugrel,/apptracker/s/application-public/a102P00000AnpIO,"Acute coronary syndr
 Pre-thickened standard supplement,/apptracker/s/application-public/a102P000008puZY,Dysphagia with malnutrition (hospital),Special Foods
 Protein drink MSUD,/apptracker/s/application-public/a102P000008puac,Maple Syrup Urine Disease,Special Foods
 Riboflavin,/apptracker/s/application-public/a102P00000Au6e0,Perioperative use (cystoscopy),Genito-Urinary System
+Rifampicin/Isoniazid/Pyrazinamide/Ethambutol - fixed dose combinations,/apptracker/s/application-public/a102P000008puVC,Tuberculosis,Infections - Agents for Systemic Use
 SYMBICORT® RAPIHALER® 100/3; metered aerosol inhaler,/apptracker/s/application-public/a102P00000AYn0Z,Asthma,Respiratory System and Allergies
 Sofosbuvir with velpatasvir and voxilaprevir,/apptracker/s/application-public/a102P000008pu4P,"Hepatitis C, second-line after prior direct-acting antiviral treatment, NS5A resistance",Infections - Agents for Systemic Use
 Sofosbuvir with velpatasvir and voxilaprevir,/apptracker/s/application-public/a10OZ0000001QtJ,"Hepatitis C, second-line after prior direct-acting antiviral treatment",
@@ -55,6 +57,7 @@ TYR LOPHLEX POWDER,/apptracker/s/application-public/a102P00000ATdkf,For use from
 Taurolidine and citrate,/apptracker/s/application-public/a102P000008puSV,Catheter lock solution,Blood and Blood Forming Organs
 Terbinafine creams and gels,/apptracker/s/application-public/a102P000008pu7b,Antifungal cream,Dermatologicals
 "Trastuzumab, subcutaneous",/apptracker/s/application-public/a102P000008ptpR,"Breast cancer, same indication as IV trastuzumab",Oncology Agents and Immunosuppressants
+Upadacitinib,/apptracker/s/application-public/a10OZ000000ul13,"Crohn's disease, severe, 1st line biologic",Alimentary Tract and Metabolism
 Vanzacaftor with tezacaftor and deutivacaftor (Alyftrek),/apptracker/s/application-public/a10OZ000003lLVW,"Cystic fibrosis, aged 6 years and older, with F508del mutation(s) or another responsive mutation in the cystic fibrosis transmembrane conductance regulator (CFTR) gene, eligible for elexacaftor/tezacaftor/ivacaftor and ivacaftor",Respiratory System and Allergies
 Varenicline Tartrate,/apptracker/s/application-public/a102P000008ptwz,"Smoking cessation, open-listing",Nervous System
 Vemurafenib and cobimetinib,/apptracker/s/application-public/a102P000008pu9e,"Melanoma, stage III/IV with BRAF V600 mutation",Oncology Agents and Immunosuppressants
