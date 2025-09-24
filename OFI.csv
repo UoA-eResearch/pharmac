@@ -18,6 +18,7 @@ Benralizumab and mepolizumab,/apptracker/s/application-public/a10OZ000002Be2c,"S
 Bevacizumab,/apptracker/s/application-public/a102P000008ptpo,"Metastatic colorectal cancer , neoadjuvant treatment for metastatic disease confined to the liver",Oncology Agents and Immunosuppressants
 Bevacizumab,/apptracker/s/application-public/a102P000008ptxU,"Cervical cancer, advanced",Oncology Agents and Immunosuppressants
 Brentuximab vedotin,/apptracker/s/application-public/a10OZ0000000hzR,Previously untreated systemic anaplastic large-cell lymphoma (sALCL),Oncology Agents and Immunosuppressants
+Bruton kinase inhibitor (BTKi),/apptracker/s/application-public/a10OZ000000LuNN,First-line for chronic lymphocytic leukaemia (CLL) without TP53 mutation,Oncology Agents and Immunosuppressants
 Bruton tyrosine kinase inhibitor (BTKi),/apptracker/s/application-public/a10OZ000000LuVR,"chronic lymphocytic leukaemia, first line monotherapy, with TP53 mutation",
 Budesonide controlled-release,/apptracker/s/application-public/a102P000008pu9g,"Ulcerative colitis, mild to moderately active",Alimentary Tract and Metabolism
 Budesonide orodispersible tablets,/apptracker/s/application-public/a102P00000BY17Q,"Eosinophilic oesophagitis, 2nd line after fluticasone",Alimentary Tract and Metabolism
@@ -48,6 +49,8 @@ Female/internal condoms,/apptracker/s/application-public/a102P000008pugE,Sexuall
 Fixed duration venetoclax with obinutuzumab,/apptracker/s/application-public/a102P000009sDbV,"Chronic lymphocytic leukaemia (CLL),  previously untreated",Oncology Agents and Immunosuppressants
 Fixed-duration ibrutinib plus venetoclax,/apptracker/s/application-public/a102P00000BYfHQ,"Chronic Lymphocytic Leukaemia (CLL) or Small Lymphocytic Leukaemia (SLL), previously untreated, without TP53 mutation",Oncology Agents and Immunosuppressants
 Fomepizole,/apptracker/s/application-public/a102P000008ptyT,Methanol poisoning,Various
+Fremanezumab,/apptracker/s/application-public/a10OZ000004REhJ,Episodic migraine prevention,Nervous System
+Fremanezumab,/apptracker/s/application-public/a10OZ000004REnl,Chronic migraine prevention,Nervous System
 Galcanezumab,/apptracker/s/application-public/a102P00000BXRxH,Chronic migraine prevention,Nervous System
 Galcanezumab,/apptracker/s/application-public/a102P00000BYQiM,Episodic migraine prevention,Nervous System
 Guselkumab,/apptracker/s/application-public/a102P00000Ba2XE,"Plaque psoriasis, moderate to severe, 1st line biologic",Dermatologicals
@@ -67,7 +70,6 @@ Low Protein Foods,/apptracker/s/application-public/a102P000009LHTR,PKU phenylket
 "Lubricant, non-irritant, water-based, single use packets",/apptracker/s/application-public/a102P000008puQw,Sexual health,Genito-Urinary System
 "Meningococcal  A, C, Y And W-135 Vaccine",/apptracker/s/application-public/a102P000008pu9d,Children aged 1 to 4 years,National Immunisation Schedule
 "Meningococcal  A, C, Y And W-135 Vaccine",/apptracker/s/application-public/a102P000008puDK,"Young people aged 13 to 21 years, ongoing vaccination at 14 years of age",National Immunisation Schedule
-"Meningococcal A, C, Y And W-135 Vaccine",/apptracker/s/application-public/a102P000008ptzk,Adolescents at 14 years of age,National Immunisation Schedule
 "Meningococcal A, C, Y And W-135 Vaccine",/apptracker/s/application-public/a102P000008pu50,"Young people aged 5 to 21 years, ongoing vaccination at 14 years of age",National Immunisation Schedule
 Mepolizumab,/apptracker/s/application-public/a102P00000AYn1O,"Eosinophilic asthma, lowering minimum blood eosinophil count to 300 cells per microlitre",Oncology Agents and Immunosuppressants
 Mepolizumab,/apptracker/s/application-public/a102P00000AnQL4,"Eosinophilic asthma, remove requirement for Asthma Control Test (ACT)",Oncology Agents and Immunosuppressants
@@ -81,6 +83,7 @@ Nitisinone,/apptracker/s/application-public/a102P000008ptrM,Tyrosinaemia Type 1,
 Non-latex condoms,/apptracker/s/application-public/a102P000008puaC,Sexually transmitted infection (STI) prevention and contraception in patients with latex allergies,Genito-Urinary System
 Onasemnogene abeparvovec,/apptracker/s/application-public/a102P00000BY8r2,"Spinal muscular atrophy (SMA), pre-symptomatic or type 1",Nervous System
 Oral feed 1.5k cal/ml liquid ONS,/apptracker/s/application-public/a102P000008ptz6,Head and Neck Cancer,Special Foods
+Pembrolizumab,/apptracker/s/application-public/a102P00000BYrky,"Breast cancer, triple negative, early Stage II or III, neoadjuvant treatment followed by adjuvant monotherapy",Oncology Agents and Immunosuppressants
 Pembrolizumab,/apptracker/s/application-public/a102P00000BajR0,Biliary tract cancer,Oncology Agents and Immunosuppressants
 Perampanel,/apptracker/s/application-public/a102P00000AlVHF,Focal epilepsy,Nervous System
 Pertussis-containing vaccine,/apptracker/s/application-public/a10OZ000003t4vh,Additional dose of pertussis-containing vaccine in the second year of life: Widening access ,National Immunisation Schedule
@@ -109,6 +112,7 @@ Somatropin,/apptracker/s/application-public/a102P00000BPnSy,"Short stature due t
 Somatropin Growth Hormone,/apptracker/s/application-public/a102P000008puY5,Short children born small for gestational age,Hormone Preparations - Systemic Excluding Contraceptive Hormones
 Teduglutide,/apptracker/s/application-public/a102P000008puRo,Short bowel syndrome intestinal failure for adults,Alimentary Tract and Metabolism
 Teduglutide,/apptracker/s/application-public/a10OZ0000000uTd,Short bowel syndrome intestinal failure for children,
+Trastuzumab deruxtecan,/apptracker/s/application-public/a10OZ000001A07q,"breast cancer, unresectable or metastatic, HER2 low (IHC 1+ or IHC 2+ or ISH negative)",Oncology Agents and Immunosuppressants
 Upadacitinib,/apptracker/s/application-public/a102P00000BNnhH,"Psoriatic arthritis, 2nd line biologic",Oncology Agents and Immunosuppressants
 Upadacitinib,/apptracker/s/application-public/a102P00000BR3Xe,"Psoriatic arthritis (PsA), 3rd line biologic",Oncology Agents and Immunosuppressants
 Ustekinumab,/apptracker/s/application-public/a102P000008pucX,"Psoriasis, chronic plaque, 1st line",Dermatologicals
