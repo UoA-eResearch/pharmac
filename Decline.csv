@@ -7,8 +7,11 @@ Atezolizumab,/apptracker/s/application-public/a102P000008pufQ,"Urothelial carcin
 Atezolizumab (with chemotherapy),/apptracker/s/application-public/a102P00000ANEYB,"Triple-negative breast cancer (TNBC), advanced or metastatic, PDL1 expression over 1%",Oncology Agents and Immunosuppressants
 Azelastine hydrochloride with fluticasone propionate,/apptracker/s/application-public/a10OZ000003Nbd3,Adenoid hypertrophy,Respiratory System and Allergies
 Bee and wasp venom allergy treatment,/apptracker/s/application-public/a102P000008puiG,Removal of Special Authority,Respiratory System and Allergies
+Bevacizumab,/apptracker/s/application-public/a102P000008ptvh,"Glioblastoma multiforme, relapsed or recurrent",Oncology Agents and Immunosuppressants
+Bevacizumab with lomustine,/apptracker/s/application-public/a102P000008puCg,"High-grade glioma, relapsed or recurrent",Oncology Agents and Immunosuppressants
 Bruton tyrosine kinase inhibitor (BTKi),/apptracker/s/application-public/a10OZ000000LvBN,"Chronic lymphocytic leukaemia, (CLL) without TP53 mutation, relapsed or refractory or experienced intolerable side effects to venetoclax plus rituximab",
 Cefuroxime,/apptracker/s/application-public/a102P000008puk7,"Endophthalmitis prophylaxis, post-cataract surgery",Sensory Organs
+Crisantaspase (Erwinia L-asparaginase),/apptracker/s/application-public/a102P000008puKX,"Acute lymphoblastic leukemia, allergic to L-asparaginase",Oncology Agents and Immunosuppressants
 Cyanocobalamin (1mg sub-lingual),/apptracker/s/application-public/a10OZ000000witV,Vitamin B12 deficiency,Alimentary Tract and Metabolism
 D-mannose,/apptracker/s/application-public/a102P000008puQG,"Cystitis, uncomplicated during pregnancy or associated neurogenic bladder",Infections - Agents for Systemic Use
 Dabrafenib,/apptracker/s/application-public/a102P000008pu2y,"Melanoma, stage III/IV with BRAF V600 mutation",Oncology Agents and Immunosuppressants
@@ -27,6 +30,7 @@ Fexofenadine hydrochloride,/apptracker/s/application-public/a102P00000AX1tz,"Urt
 Fixed duration Ibrutinib plus venetoclax,/apptracker/s/application-public/a10OZ0000000aOT,previously untreated Chronic Lymphocytic Leukaemia (CLL) or Small Lymphocytic Leukaemia (SLL) patients without TP53 mutation,
 Furosemide 20mg tablets,/apptracker/s/application-public/a102P000008puk8,Paediatric congenital heart disease,Cardiovascular System
 Guselkumab,/apptracker/s/application-public/a10OZ0000001PUD,"First-line biologic, psoriatic arthritis where DMARDs are not effective",
+Ibrutinib,/apptracker/s/application-public/a102P000008pu1K,"Chronic lymphocytic leukemia (CLL), previously untreated, chemoimmunotherapy is inappropriate (BTKi class recommendation received)",Oncology Agents and Immunosuppressants
 Insulin pump (including consumables),/apptracker/s/application-public/a102P000008puM6,Diabetes during pregnancy,Alimentary Tract and Metabolism
 Lacosamide,/apptracker/s/application-public/a102P000008pu5w,"Epilepsy, move up to 5th line",Nervous System
 Latex oral dams,/apptracker/s/application-public/a102P000008ptz7,Prevention of sexually transmitted infections,Genito-Urinary System
@@ -53,6 +57,7 @@ Ribavirin,/apptracker/s/application-public/a10OZ0000002AHp,"Measles, complicated
 SARS-CoV-2 rS (Omicron XBB.1.5),/apptracker/s/application-public/a10OZ000000N49N,prevention of COVID-19,
 SMA treatments,/apptracker/s/application-public/a10OZ0000000uVF,People with SMA type IV (aged 19 years and over at symptom onset),
 Secukinumab,/apptracker/s/application-public/a102P000008puMJ,"Ankylosing spondylitis, 1st biologic line",Musculoskeletal System
+Secukinumab,/apptracker/s/application-public/a10OZ000002qLdW,"moderate to severe hidradenitis suppurativa, first-line biologic treatment",Dermatologicals
 Sofosbuvir,/apptracker/s/application-public/a102P000008pu04,"Hepatitis C, direct-acting antiviral",Infections - Agents for Systemic Use
 Sofosbuvir,/apptracker/s/application-public/a10OZ0000001Quv,"Hepatitis C, second-line treatment in combination with glecaprevir and pibrentasvir after prior direct-acting antiviral treatment",
 "Sunitinib, pazopanib",/apptracker/s/application-public/a102P00000AUfIW,"Renal cell carcinoma (RCC), advanced or metastatic, 2nd line after prior TKI treatment",Oncology Agents and Immunosuppressants
