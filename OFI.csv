@@ -83,6 +83,7 @@ Nitisinone,/apptracker/s/application-public/a102P000008ptrM,Tyrosinaemia Type 1,
 Non-latex condoms,/apptracker/s/application-public/a102P000008puaC,Sexually transmitted infection (STI) prevention and contraception in patients with latex allergies,Genito-Urinary System
 Onasemnogene abeparvovec,/apptracker/s/application-public/a102P00000BY8r2,"Spinal muscular atrophy (SMA), pre-symptomatic or type 1",Nervous System
 Oral feed 1.5k cal/ml liquid ONS,/apptracker/s/application-public/a102P000008ptz6,Head and Neck Cancer,Special Foods
+Pegunigalsidase alfa-iwxj,/apptracker/s/application-public/a10OZ00000466q1,Fabry Disease,
 Pembrolizumab,/apptracker/s/application-public/a102P00000BYrky,"Breast cancer, triple negative, early Stage II or III, neoadjuvant treatment followed by adjuvant monotherapy",Oncology Agents and Immunosuppressants
 Pembrolizumab,/apptracker/s/application-public/a102P00000BajR0,Biliary tract cancer,Oncology Agents and Immunosuppressants
 Perampanel,/apptracker/s/application-public/a102P00000AlVHF,Focal epilepsy,Nervous System
@@ -103,6 +104,7 @@ Risankizumab,/apptracker/s/application-public/a102P000008puXW,"Chronic plaque ps
 Risankizumab,/apptracker/s/application-public/a102P00000B1Jf9,"Chronic plaque psoriasis, 2nd line biologic",
 Rufinamide,/apptracker/s/application-public/a102P00000BHRQO,Developmental and epileptic encephalopathies,Nervous System
 SMA treatments,/apptracker/s/application-public/a10OZ0000000uQP,"People with SMA types IIIb, IIIc and undefined III aged 18 years and under (symptomatic after 3 years of age)",
+Sacituzumab govitecan,/apptracker/s/application-public/a10OZ0000000O2L,"Breast Cancer,  Triple-Negative,Locally Advanced or Metastatic",Oncology Agents and Immunosuppressants
 Sapropterin,/apptracker/s/application-public/a102P000008puXt,Phenylketonuria (PKU),Alimentary Tract and Metabolism
 Sirolimus (Rapamycin),/apptracker/s/application-public/a102P00000BYYkJ,Facial angiofibromas associated with Tuberous Sclerosis Complex,
 "Sodium hypochlorite, 5% diluted",/apptracker/s/application-public/a102P000008pu0U,"Eczema, secondary bacterial infection",Dermatologicals
@@ -116,7 +118,9 @@ Upadacitinib,/apptracker/s/application-public/a102P00000BNnhH,"Psoriatic arthrit
 Upadacitinib,/apptracker/s/application-public/a102P00000BR3Xe,"Psoriatic arthritis (PsA), 3rd line biologic",Oncology Agents and Immunosuppressants
 Ustekinumab,/apptracker/s/application-public/a102P000008pucX,"Psoriasis, chronic plaque, 1st line",Dermatologicals
 Ustekinumab,/apptracker/s/application-public/a10OZ000000H0lC,"Psoriasis, chronic plaque, 2nd line",
+Vanzacaftor with tezacaftor and deutivacaftor (Alyftrek),/apptracker/s/application-public/a10OZ000004nC7O,"Cystic fibrosis in people aged 6 years and older with F508del mutation(s) or another responsive mutation in the cystic fibrosis transmembrane conductance regulator (CTFR) gene, ineligible for elexacaftor/tezacaftor/ivacaftor and ivacaftor",
 Vismodegib,/apptracker/s/application-public/a102P000008puDo,"Basal cell carcinoma, locally advanced or metastatic",Oncology Agents and Immunosuppressants
+Voretigene neparvovec,/apptracker/s/application-public/a102P00000BXTtD,"inherited retinal dystrophy, biallelic RPE65 mutations",Sensory Organs
 Zanubrutinib,/apptracker/s/application-public/a102P00000BaaQE,Relapsed or refractory mantle cell lymphoma (R/R MCL),Oncology Agents and Immunosuppressants
 Zanubrutinib,/apptracker/s/application-public/a102P00000Babqi,"Chronic lymphocytic leukemia (CLL) or small lymphocytic lymphoma (SLL), relapsed or refractory, second line",Oncology Agents and Immunosuppressants
 Zonisamide,/apptracker/s/application-public/a102P000009qscT,Developmental and epileptic encephalopathies,Nervous System
