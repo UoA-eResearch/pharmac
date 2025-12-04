@@ -9,10 +9,12 @@ Agalsidase beta,/apptracker/s/application-public/a102P000008ptsH,Fabry disease (
 Alitretinoin,/apptracker/s/application-public/a102P00000BPyuG,Severe chronic hand eczema in adults unresponsive to potent topical corticosteroids,Dermatologicals
 Apalutamide,/apptracker/s/application-public/a102P000008pttm,"Prostate cancer,  non-metastatic, castration-resistant, high risk",Oncology Agents and Immunosuppressants
 Apalutamide,/apptracker/s/application-public/a10OZ000000BBbF,"Prostate cancer, metastatic hormone-sensitive (mHSPC)",Oncology Agents and Immunosuppressants
+Apixaban,/apptracker/s/application-public/a10OZ0000000WuL,Anticoagulation therapy - open listing,Blood and Blood Forming Organs
 Aprepitant 40 mg,/apptracker/s/application-public/a102P000008ptty,People at high risk of post-operative nausea and vomiting,Nervous System
 Atezolizumab (with chemotherapy),/apptracker/s/application-public/a102P00000B08F7,"Extensive-stage small cell lung cancer (ES-SCLC), first-line",Oncology Agents and Immunosuppressants
 Atogepant,/apptracker/s/application-public/a10OZ00000019E9,Episodic migraine prevention,
 Atogepant,/apptracker/s/application-public/a10OZ00000019Fl,Chronic migraine prevention,Nervous System
+Azelastine hydrochloride with fluticasone propionate,/apptracker/s/application-public/a10OZ000000Um41,Rhinitis or rhinoconjunctivitis not adequately responding to standard treatments,Respiratory System and Allergies
 Benralizumab,/apptracker/s/application-public/a102P00000BNz5p,"Eosinophilic asthma, ACT and >300 cells/ul eosinophil count criteria (widening access)",Oncology Agents and Immunosuppressants
 Benralizumab and mepolizumab,/apptracker/s/application-public/a10OZ000002Be2c,"Severe eosinophilic asthma, waning efficacy from current anti-IL5 biologic agent - widen access to allow switching between anti-IL5 biologic agents beyond 12 months",Respiratory System and Allergies
 Bevacizumab,/apptracker/s/application-public/a102P000008ptpo,"Metastatic colorectal cancer , neoadjuvant treatment for metastatic disease confined to the liver",Oncology Agents and Immunosuppressants
@@ -35,6 +37,8 @@ Daratumumab,/apptracker/s/application-public/a10OZ0000001LOz,2L SC + 4L IV - Mul
 Daratumumab IV (with bortezomib and dexamethasone),/apptracker/s/application-public/a102P000008ptxu,"Multiple myeloma, relapsed or refractory, 2nd line",Oncology Agents and Immunosuppressants
 Daratumumab subcutaneous,/apptracker/s/application-public/a102P00000BD0yw,"Multiple myeloma, received one prior line of myeloma therapy (1PL).",Oncology Agents and Immunosuppressants
 Darolutamide,/apptracker/s/application-public/a102P00000BSUIe,"Prostate cancer, high risk,  non-metastatic, castration-resistant (nmCRPC)",
+Dostarlimab-gxly,/apptracker/s/application-public/a10OZ000000e2xZ,"endometrial cancer, advanced or recurrent, with deficient mismatch repair (dMMR) status, first line",Oncology Agents and Immunosuppressants
+Dostarlimab-gxly,/apptracker/s/application-public/a10OZ000002WKNR,"endometrial cancer, treatment of advanced or recurrent, irrespective of dMMR status, first line",
 Durvalumab,/apptracker/s/application-public/a102P00000Bajp3,"biliary tract cancer, Locally advanced or metastatic, in combination with chemotherapy",Oncology Agents and Immunosuppressants
 Durvalumab,/apptracker/s/application-public/a10OZ0000038EnF,"Extensive-stage small cell lung cancer (ES-SCLC),  first-line",Oncology Agents and Immunosuppressants
 Elexacaftor/tezacaftor/ivacaftor and ivacaftor,/apptracker/s/application-public/a10OZ000000hRHt,"Cystic fibrosis, aged 2-5 years, with F508del mutation(s) in the CFTR gene, G551D mutation or other mutation responsive in vitro to Trikafta",Respiratory System and Allergies
@@ -53,6 +57,7 @@ Fremanezumab,/apptracker/s/application-public/a10OZ000004REhJ,Episodic migraine 
 Fremanezumab,/apptracker/s/application-public/a10OZ000004REnl,Chronic migraine prevention,Nervous System
 Galcanezumab,/apptracker/s/application-public/a102P00000BXRxH,Chronic migraine prevention,Nervous System
 Galcanezumab,/apptracker/s/application-public/a102P00000BYQiM,Episodic migraine prevention,Nervous System
+Garadacimab,/apptracker/s/application-public/a10OZ0000049FYb,Hereditary angioedema (HAE),
 Guselkumab,/apptracker/s/application-public/a102P00000Ba2XE,"Plaque psoriasis, moderate to severe, 1st line biologic",Dermatologicals
 Guselkumab,/apptracker/s/application-public/a102P00000BaNat,"Plaque psoriasis, moderate to severe, 2nd line biologic",Dermatologicals
 Guselkumab,/apptracker/s/application-public/a10OZ000000uZcc,"Psoriatic arthritis, 2nd line biologic",
@@ -64,6 +69,7 @@ Influenza vaccine,/apptracker/s/application-public/a102P00000BROFJ,People over 5
 Influenza vaccine,/apptracker/s/application-public/a102P00000BROGR,Children up to 18 years of age - widen access,National Immunisation Schedule
 Influenza vaccine,/apptracker/s/application-public/a10OZ000001rzeI,Individuals aged 0 to 59 months,
 Ketamine,/apptracker/s/application-public/a102P000008puUd,Emergency use for primary care,Nervous System
+Lanadelumab,/apptracker/s/application-public/a10OZ000000MfFp,Routine prevention of recurrent attacks of hereditary angioedema,Respiratory System and Allergies
 Lanreotide acetate,/apptracker/s/application-public/a102P000008puZP,"Gastroenteropancreatic neuroendocrine tumours, non-functional",Oncology Agents and Immunosuppressants
 Letermovir,/apptracker/s/application-public/a102P000008puFK,"Cytomegalovirus infection prophylaxis, stem cell transplant patients",Infections - Agents for Systemic Use
 Low Protein Foods,/apptracker/s/application-public/a102P000009LHTR,PKU phenylketonuria,Special Foods
@@ -79,6 +85,7 @@ Nab-paclitaxel,/apptracker/s/application-public/a102P000008ptow,Metastatic breas
 Nab-paclitaxel,/apptracker/s/application-public/a102P000008pu1I,"Pancreatic cancer, metastatic, 1st line",Oncology Agents and Immunosuppressants
 Nab-paclitaxel,/apptracker/s/application-public/a102P00000BQdRd,"Metastatic breast cancer, contraindicated or intolerant to taxane chemotherapy",
 Nab-paclitaxel,/apptracker/s/application-public/a102P00000BX13e,"Metastatic breast cancer, following grade 3+ hypersensitivity reaction on paclitaxel",Oncology Agents and Immunosuppressants
+Neoadjuvant nivolumab in combination with ipilimumab,/apptracker/s/application-public/a10OZ00000599Ar,for the treatment of resectable cutaneous melanoma (Stage III),Oncology Agents and Immunosuppressants
 Nitisinone,/apptracker/s/application-public/a102P000008ptrM,Tyrosinaemia Type 1,Alimentary Tract and Metabolism
 Non-latex condoms,/apptracker/s/application-public/a102P000008puaC,Sexually transmitted infection (STI) prevention and contraception in patients with latex allergies,Genito-Urinary System
 Onasemnogene abeparvovec,/apptracker/s/application-public/a102P00000BY8r2,"Spinal muscular atrophy (SMA), pre-symptomatic or type 1",Nervous System
@@ -103,6 +110,7 @@ Ripretinib,/apptracker/s/application-public/a102P00000BNzPa,For people with adva
 Risankizumab,/apptracker/s/application-public/a102P000008puXW,"Chronic plaque psoriasis, 1st line biologic",Dermatologicals
 Risankizumab,/apptracker/s/application-public/a102P00000B1Jf9,"Chronic plaque psoriasis, 2nd line biologic",
 Rufinamide,/apptracker/s/application-public/a102P00000BHRQO,Developmental and epileptic encephalopathies,Nervous System
+SMA treatments,/apptracker/s/application-public/a102P00000BYT2Q,People with SMA type II and III who are aged 19 years and over,Nervous System
 SMA treatments,/apptracker/s/application-public/a10OZ0000000uQP,"People with SMA types IIIb, IIIc and undefined III aged 18 years and under (symptomatic after 3 years of age)",
 Sacituzumab govitecan,/apptracker/s/application-public/a10OZ0000000O2L,"Breast Cancer,  Triple-Negative,Locally Advanced or Metastatic",Oncology Agents and Immunosuppressants
 Sapropterin,/apptracker/s/application-public/a102P000008puXt,Phenylketonuria (PKU),Alimentary Tract and Metabolism
