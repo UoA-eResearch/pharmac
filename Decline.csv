@@ -3,13 +3,16 @@ AdVital (special food product),/apptracker/s/application-public/a102P000008ptpj,
 AdVital (special food product),/apptracker/s/application-public/a102P000008puWi,"Malnutrition, peri-surgery, tube feeding, and similar",Special Foods
 Aflibercept,/apptracker/s/application-public/a102P000008pudS,"Wet age-related macular degeneration, 3rd-line",Sensory Organs
 Alemtuzumab,/apptracker/s/application-public/a102P000008puRJ,Chronic lymphocytic leukaemia (CLL) (3rd-line treatment),Oncology Agents and Immunosuppressants
+Alglucosidase alfa,/apptracker/s/application-public/a102P000008pujd,Pompe's disease,Alimentary Tract and Metabolism
 Atezolizumab,/apptracker/s/application-public/a102P000008pufQ,"Urothelial carcinoma, locally advanced or metastatic, 2nd line",Oncology Agents and Immunosuppressants
+Atezolizumab,/apptracker/s/application-public/a102P00000BaPb0,"Non-Small Cell Lung Cancer (NSCLC), PD-L1 positive, Adjuvant treatment",Oncology Agents and Immunosuppressants
 Atezolizumab (with chemotherapy),/apptracker/s/application-public/a102P00000ANEYB,"Triple-negative breast cancer (TNBC), advanced or metastatic, PDL1 expression over 1%",Oncology Agents and Immunosuppressants
 Azelastine hydrochloride with fluticasone propionate,/apptracker/s/application-public/a10OZ000003Nbd3,Adenoid hypertrophy,Respiratory System and Allergies
 Bee and wasp venom allergy treatment,/apptracker/s/application-public/a102P000008puiG,Removal of Special Authority,Respiratory System and Allergies
 Bevacizumab,/apptracker/s/application-public/a102P000008ptvh,"Glioblastoma multiforme, relapsed or recurrent",Oncology Agents and Immunosuppressants
 Bevacizumab with lomustine,/apptracker/s/application-public/a102P000008puCg,"High-grade glioma, relapsed or recurrent",Oncology Agents and Immunosuppressants
 Bruton tyrosine kinase inhibitor (BTKi),/apptracker/s/application-public/a10OZ000000LvBN,"Chronic lymphocytic leukaemia (CLL), without TP53 mutation, relapsed or refractory or experienced intolerable side effects to venetoclax plus rituximab",
+Cannabidiol with tetrahydrocannabinol,/apptracker/s/application-public/a102P000008ptyj,"Multiple sclerosis spasticity, epilepsy, pain and spasticity",Nervous System
 Cefuroxime,/apptracker/s/application-public/a102P000008puk7,"Endophthalmitis prophylaxis, post-cataract surgery",Sensory Organs
 Crisantaspase (Erwinia L-asparaginase),/apptracker/s/application-public/a102P000008puKX,"Acute lymphoblastic leukemia, allergic to L-asparaginase",Oncology Agents and Immunosuppressants
 Cyanocobalamin (1mg sub-lingual),/apptracker/s/application-public/a10OZ000000witV,Vitamin B12 deficiency,Alimentary Tract and Metabolism
@@ -34,11 +37,13 @@ Ibrutinib,/apptracker/s/application-public/a102P000008pu1K,"Chronic lymphocytic 
 Insulin pump (including consumables),/apptracker/s/application-public/a102P000008puM6,Diabetes during pregnancy,Alimentary Tract and Metabolism
 Lacosamide,/apptracker/s/application-public/a102P000008pu5w,"Epilepsy, move up to 5th line",Nervous System
 Latex oral dams,/apptracker/s/application-public/a102P000008ptz7,Prevention of sexually transmitted infections,Genito-Urinary System
+Leptospermum - Active 100% (16+UMF MGO Manuka Honey),/apptracker/s/application-public/a102P00000BP6tQ,"1st and 2nd degree burns, pressure ulcers, wounds, and diabetic ulcers",Dermatologicals
 Levofloxacin,/apptracker/s/application-public/a102P000008ptpQ,Helicobacter pylori - second line use,Alimentary Tract and Metabolism
 Lidocaine [Lignocaine] With Prilocaine,/apptracker/s/application-public/a102P000008puWa,Widening community access for adults,Nervous System
 Lidocaine [lignocaine] with adrenaline and tetracaine (4%; 0.1%; 0.5%),/apptracker/s/application-public/a102P000008pufj,Wound repair for children,Nervous System
 Lidocaine [lignocaine] with adrenaline and tetracaine (4%; 0.1%; 0.5%),/apptracker/s/application-public/a102P000008puhU,Wound repair (not restricted by age),Nervous System
 Liraglutide,/apptracker/s/application-public/a102P000008pu13,Diabetes - type 2,Alimentary Tract and Metabolism
+Liraglutide,/apptracker/s/application-public/a102P00000BZ6Xf,"PCOS, weight loss due to insulin resistance",Alimentary Tract and Metabolism
 Macitentan,/apptracker/s/application-public/a102P000008puIy,Pulmonary arterial hypertension,Cardiovascular System
 Memantine hydrochloride,/apptracker/s/application-public/a102P00000BVtzr,"Dementia, 1st line",Nervous System
 Memantine hydrochloride,/apptracker/s/application-public/a102P00000BVu0Q,"Dementia, moderate, cholinesterases not tolerable",Nervous System
@@ -46,6 +51,10 @@ Meningococcal group B vaccine - Invasive meningococcal disease,/apptracker/s/app
 Methoxyflurane,/apptracker/s/application-public/a102P000008puQf,Pain relief,Nervous System
 Metronidazole,/apptracker/s/application-public/a102P000008puDF,Fungating wounds,Dermatologicals
 Micronutrient formulas,/apptracker/s/application-public/a102P000008puPl,ADHD and or mood dysregulation,Nervous System
+Miglustat,/apptracker/s/application-public/a102P000008ptzs,Niemann Pick Type C,Alimentary Tract and Metabolism
+Naloxone hydrochloride dihydrate,/apptracker/s/application-public/a10OZ0000015Wpu,"Reversal of opioid overdose, as part of a 'take-home naloxone' program",
+Naloxone hydrochloride dihydrate nasal spray,/apptracker/s/application-public/a10OZ0000015bb3,"Reversal of opioid overdose, use by non-paramedic first responders (ie fire service, police)",
+Naloxone nasal spray,/apptracker/s/application-public/a102P00000BWuid,"Reversal of opioid overdose, use by emergency medical service personnel",Various
 Naltrexone hydrochloride,/apptracker/s/application-public/a102P000008pu3T,Opioid-induced constipation and treatment-resistant cholestasis,Alimentary Tract and Metabolism
 Netupitant/palonosetron,/apptracker/s/application-public/a10OZ0000000WPh,Prevention of acute and delayed nausea and vomiting associated with initial and repeat courses of moderately emetogenic anti-cancer treatments.,
 Pegylated liposomal doxorubicin,/apptracker/s/application-public/a102P000008ptxY,Advanced epithelial ovarian cancer (3rd-line treatment) - platinum resistant,Oncology Agents and Immunosuppressants
@@ -65,4 +74,5 @@ Sofosbuvir,/apptracker/s/application-public/a10OZ0000001Quv,"Hepatitis C, second
 Trastuzumab,/apptracker/s/application-public/a102P000008ptzX,Breast cancer-treatment beyond disease progression,Oncology Agents and Immunosuppressants
 Vemurafenib,/apptracker/s/application-public/a102P000008puJX,"Melanoma, Stage IIIC/IV with BRAF V600 mutation",Oncology Agents and Immunosuppressants
 Ziv Aflibercept  (Aflibercept),/apptracker/s/application-public/a102P00000BQki1,Ocular neovascularisation,
+pembrolizumab,/apptracker/s/application-public/a10OZ000001jcQL,"First line persistent, recurrent or metastatic cervical cancer in addition to chemotherapy, for patients with a PD-L1 combined positive score of 1 or more, with bevacizumab",
 tacrolimus prolonged - release capsules,/apptracker/s/application-public/a102P00000BXyQv,Immunosuppresssion for all adolescents and young adults ( 12 - 30 years) living with solid organ transplants in New Zealand.,Oncology Agents and Immunosuppressants
