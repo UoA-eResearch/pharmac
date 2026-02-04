@@ -12,6 +12,7 @@ Bevacizumab,/apptracker/s/application-public/a102P000008ptvh,"Glioblastoma multi
 Bevacizumab with lomustine,/apptracker/s/application-public/a102P000008puCg,"High-grade glioma, relapsed or recurrent",Oncology Agents and Immunosuppressants
 Bruton tyrosine kinase inhibitor (BTKi),/apptracker/s/application-public/a10OZ000000LvBN,"Chronic lymphocytic leukaemia (CLL), without TP53 mutation, relapsed or refractory or experienced intolerable side effects to venetoclax plus rituximab",
 Cannabidiol with tetrahydrocannabinol,/apptracker/s/application-public/a102P000008ptyj,"Multiple sclerosis spasticity, epilepsy, pain and spasticity",Nervous System
+Carboxypeptidase G2,/apptracker/s/application-public/a102P000008pu4B,Methotrexate overdose,Oncology Agents and Immunosuppressants
 Cefuroxime,/apptracker/s/application-public/a102P000008puk7,"Endophthalmitis prophylaxis, post-cataract surgery",Sensory Organs
 Crisantaspase (Erwinia L-asparaginase),/apptracker/s/application-public/a102P000008puKX,"Acute lymphoblastic leukemia, allergic to L-asparaginase",Oncology Agents and Immunosuppressants
 Cyanocobalamin (1mg sub-lingual),/apptracker/s/application-public/a10OZ000000witV,Vitamin B12 deficiency,Alimentary Tract and Metabolism
@@ -30,6 +31,7 @@ Ferric Carboxymaltose,/apptracker/s/application-public/a10OZ000001SFLJ,"Heredita
 Ferric carboxymaltose,/apptracker/s/application-public/a10OZ000003lVzX,"heart failure, without anaemia, with low serum ferritin",
 Fexofenadine hydrochloride,/apptracker/s/application-public/a102P00000AX1tz,"Urticaria, children aged 6 months to 2 years",
 Fixed duration Ibrutinib plus venetoclax,/apptracker/s/application-public/a10OZ0000000aOT,"Previously untreated chronic lymphocytic leukaemia (CLL) or small lymphocytic leukaemia (SLL), patients without TP53 mutation",
+"Fluticasone with Vilanterol, 200/25, high dose, severe asthma",/apptracker/s/application-public/a102P000008pu6h,Asthma,Respiratory System and Allergies
 Furosemide 20mg tablets,/apptracker/s/application-public/a102P000008puk8,Paediatric congenital heart disease,Cardiovascular System
 Guselkumab,/apptracker/s/application-public/a10OZ0000001PUD,"First-line biologic, psoriatic arthritis where DMARDs are not effective",
 Ibrutinib,/apptracker/s/application-public/a102P000008pu1K,"Chronic lymphocytic leukemia (CLL), previously untreated, chemoimmunotherapy is inappropriate (BTKi class recommendation received)",Oncology Agents and Immunosuppressants
@@ -59,12 +61,15 @@ Naloxone hydrochloride dihydrate nasal spray,/apptracker/s/application-public/a1
 Naloxone nasal spray,/apptracker/s/application-public/a102P00000BWuid,"Reversal of opioid overdose, use by emergency medical service personnel",Various
 Naltrexone hydrochloride,/apptracker/s/application-public/a102P000008pu3T,Opioid-induced constipation and treatment-resistant cholestasis,Alimentary Tract and Metabolism
 Netupitant/palonosetron,/apptracker/s/application-public/a10OZ0000000WPh,Prevention of acute and delayed nausea and vomiting associated with initial and repeat courses of moderately emetogenic anti-cancer treatments.,
+Olaparib,/apptracker/s/application-public/a10OZ000002C9Kv,"breast cancer, metastatic, germline PALB2 pathogenic variant HER2-negative",
 Pegylated liposomal doxorubicin,/apptracker/s/application-public/a102P000008ptxY,Advanced epithelial ovarian cancer (3rd-line treatment) - platinum resistant,Oncology Agents and Immunosuppressants
 Pegylated liposomal doxorubicin,/apptracker/s/application-public/a102P000008ptxf,"Ovarian cancer, advanced, epithelial, platinum sensitive/ partially sensitive/ intolerant, third line",Oncology Agents and Immunosuppressants
 Pembrolizumab,/apptracker/s/application-public/a102P00000BQMFj,Pembrolizumab in combination with chemotherapy for those with recurrent or metastatic head and neck squamous cell carcinoma irrespective of Combined Positive Score (ie. an all-comers population),
 "Quadrivalent Influenza virus haemagglutinin, surface antigen, inactivated, prepared in cell cultures",/apptracker/s/application-public/a102P00000BUjqp,Prevention of influenza caused by Influenza Virus Types A and B,
 Quinidine Bisulphate,/apptracker/s/application-public/a102P000008ptxp,Brugada syndrome,Cardiovascular System
 Ribavirin,/apptracker/s/application-public/a10OZ0000002AHp,"Measles, complicated",Infections - Agents for Systemic Use
+Rotigotine,/apptracker/s/application-public/a102P00000BXb9N,Parkinson's disease,Nervous System
+Rotigotine,/apptracker/s/application-public/a102P00000BXb9h,Restless leg syndrome,Nervous System
 SARS-CoV-2 rS (Omicron XBB.1.5),/apptracker/s/application-public/a10OZ000000N49N,prevention of COVID-19,
 SMA treatments,/apptracker/s/application-public/a10OZ0000000uVF,People with SMA type IV (aged 19 years and over at symptom onset),
 Secukinumab,/apptracker/s/application-public/a102P000008puMJ,"Ankylosing spondylitis, 1st biologic line",Musculoskeletal System
