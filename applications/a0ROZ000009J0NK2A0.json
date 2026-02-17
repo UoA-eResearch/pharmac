@@ -1,0 +1,1232 @@
+[
+  {
+    "text": "<p>New funding applications are referred to one of Pharmac's Funding Application Advisors (FAAs), who'll review the application to ensure they have the relevant information to undertake a preliminary analysis.&nbsp; They may seek more information if required.</p>\r\n<p><a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/new-funding-applications/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/new-funding-applications/</a></p>",
+    "position": 0,
+    "name": "Application Received",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Feb 2018",
+          "fs": "Feb 2018",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Application received",
+          "fs": "Application received",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000Mc0Gr2AJ"
+          },
+          "Id": "a0POZ00000Mc0Gr2AJ",
+          "Event_Date__c": "2018-02-05",
+          "Event_Description__c": "Application received",
+          "Stage__c": "Application Received",
+          "Formatted_Date__c": "Feb 2018",
+          "Status_History__c": "a132P000000ArOyQAK"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Feb 2018",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Pharmac is identifying and gathering information required to get clinical advice.  The <a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/pharmacology-and-therapeutics-advisory-committee-ptac/\" rel=\"nofollow\">Pharmacology and Therapeutics Advisory Committee (PTAC)</a>  meets quarterly. There are also around 20 expert <a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/specialist-advisory-committees/\" rel=\"nofollow\">Specialist Advisory Committees (SACs)</a>, previously expert Subcommittees, which provide clinical evaluations in specialist areas. Specialist Advisory Committees meet as required to discuss issues referred to them by PTAC or Pharmac.</p>\n<p style=\"height: 20px\">&nbsp;</p>\n<p>In November 2021, we introduced separate terms of reference for the SACs to make clear that these committees have different, but complementary, roles, expertise and perspectives to PTAC.</p>\n<p style=\"height: 15px\">&nbsp;</p>\n<p>PTAC and SACs may make recommendations to Pharmac that differ from each other when looking at the same evidence. Pharmac considers the recommendations provided by all our clinical advisory committees when assessing applications.</p>\n<p style=\"height: 20px\">&nbsp;</p>\n<p><a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/pharmacology-and-therapeutics-advisory-committee-ptac/ptac-terms-of-reference-july-2021/\" rel=\"nofollow\">PTAC</a>  and <a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/specialist-advisory-committees/specialist-advisory-committee-terms-of-reference//\" rel=\"nofollow\">Specialist Advisory Committees</a> records of the meeting will be published on this website in accordance with the Terms of Reference.</p>",
+    "position": 1,
+    "name": "Seeking Clinical Advice",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Mar 2019",
+          "fs": "Mar 2019",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Clinical advice required",
+          "fs": "Clinical advice required",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000Mc0Gs2AJ"
+          },
+          "Id": "a0POZ00000Mc0Gs2AJ",
+          "Event_Date__c": "2019-03-19",
+          "Event_Description__c": "Clinical advice required",
+          "Stage__c": "Seeking Clinical Advice",
+          "Formatted_Date__c": "Mar 2019",
+          "Status_History__c": "a132P000000ArdVQAS"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": "<p>The Subcommittee recommended that the FreeStyle Libre Flash Glucose Monitoring System be funded with high priority for certain patients with type 1 diabetes subject to the following Special Authority criteria: </p><p>Initial application \u2013 only from a relevant specialist or nurse practitioner. Approvals valid for 9 months for applications meeting the following criteria: </p><p>All of the following: </p><p>1. Patient has type 1 diabetes or has undergone a pancreatectomy or has cystic fibrosis-related diabetes; and </p><p>2. Either: </p><p>2.1. Patient is aged 18 years or under; or </p><p>2.2. Patient is aged over 18 years; and </p><p>2.3. Any of the following: </p><p>2.3.1.Patient has impaired awareness of hypoglycaemia and has been admitted to hospital at least twice in the previous  12 months with hypoglycaemia requiring medical intervention; or </p><p>2.3.2.Patient has been admitted to hospital at least twice in the previous 12 months with diabetic ketoacidosis; or 2.3.3.Patient is pregnant, breastfeeding, or actively planning pregnancy. </p><p><br></p><p>Renewal application \u2013 only from a relevant specialist or nurse practitioner. Approvals valid for 24 months for applications meeting the following criteria: </p><p>1. Either: </p><p>1.1. Both: </p><p>1.1.1.Patient is continuing to derive benefit from flash glucose monitoring by achieving and maintaining a reduction of HbA1c from baseline of 10mmol/mol; and </p><p>1.1.2.The number of hypoglycaemic episodes has not increased from baseline; or </p><p>1.2. Both: </p><p>1.2.1.Patient is continuing to derive benefit from flash glucose monitoring by achieving a 50% reduction from baseline in hypoglycaemic events; and </p><p>1.2.2.HbA1c has not increased by more than 5mmol/mol from baseline.</p>",
+          "fs": "<p>The Subcommittee recommended that the FreeStyle Libre Flash Glucose Monitoring System be funded with high priority for certain patients with type 1 diabetes subject to the following Special Authority criteria: </p><p>Initial application \u2013 only from a relevant specialist or nurse practitioner. Approvals valid for 9 months for applications meeting the following criteria: </p><p>All of the following: </p><p>1. Patient has type 1 diabetes or has undergone a pancreatectomy or has cystic fibrosis-related diabetes; and </p><p>2. Either: </p><p>2.1. Patient is aged 18 years or under; or </p><p>2.2. Patient is aged over 18 years; and </p><p>2.3. Any of the following: </p><p>2.3.1.Patient has impaired awareness of hypoglycaemia and has been admitted to hospital at least twice in the previous  12 months with hypoglycaemia requiring medical intervention; or </p><p>2.3.2.Patient has been admitted to hospital at least twice in the previous 12 months with diabetic ketoacidosis; or 2.3.3.Patient is pregnant, breastfeeding, or actively planning pregnancy. </p><p><br></p><p>Renewal application \u2013 only from a relevant specialist or nurse practitioner. Approvals valid for 24 months for applications meeting the following criteria: </p><p>1. Either: </p><p>1.1. Both: </p><p>1.1.1.Patient is continuing to derive benefit from flash glucose monitoring by achieving and maintaining a reduction of HbA1c from baseline of 10mmol/mol; and </p><p>1.1.2.The number of hypoglycaemic episodes has not increased from baseline; or </p><p>1.2. Both: </p><p>1.2.1.Patient is continuing to derive benefit from flash glucose monitoring by achieving a 50% reduction from baseline in hypoglycaemic events; and </p><p>1.2.2.HbA1c has not increased by more than 5mmol/mol from baseline.</p>",
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": "<p>The Subcommittee noted a number of submissions from consumers and clinicians in support of funding for the FreeStyle Libre Flash Glucose Monitoring system. </p><p><br></p><p>The Subcommittee noted that type 1 diabetes is a chronic disease resulting from the autoimmune destruction of pancreatic \u03b2-cells resulting in insulin deficiency; and considered that there are likely to be approximately 25,000 individuals with type 1 diabetes in New Zealand. </p><p><br></p><p>The Subcommittee considered that while the prevalence of type 1 diabetes is higher in European/Pakeha than M\u0101ori and Pacific peoples, M\u0101ori and Pacific peoples have poorer long-term outcomes. Members considered that there was significant data regarding the inequities of outcomes for M\u0101ori and Pacific with type 2 diabetes and there was no reason to expect this would differ for type 1 patients.</p><p><br></p><p>The Subcommittee noted that individuals with type 1 diabetes use exogenous insulin to manage blood glucose levels but that maintaining a normal range can be difficult. The Subcommittee considered that to reduce the risk and avoid hypoglycaemia, patients often maintain their blood glucose levels in the mild-to-moderate hyperglycaemic range, which can result in long-term microvascular and macrovascular damage. </p><p><br></p><p>The Subcommittee noted that type 1 diabetes can also have a negative impact on quality of life for affected individuals, particularly regarding physical functioning and wellbeing. The Subcommittee noted that the intensive management requirements, the fear of hypoglycaemia and hyperglycaemia, and the fear of long-term consequences, can result in significant stress and anxiety. The Subcommittee noted there is also a significant impact on the family and caregivers of individuals with type 1 diabetes. </p><p><br></p><p>The Subcommittee noted that the current standard of care for glucose monitoring in New Zealand is self-monitoring via a finger-prick blood test and patients are testing on average between four and ten times per day. The Subcommittee noted that diagnostic blood glucose test meters and consumables are funded for patients meeting certain eligibility criteria, including individuals receiving insulin. </p><p><br></p><p>The Subcommittee noted that the FreeStyle Libre is a Flash Glucose Monitoring (FGM) system that has three components: a disposable sensor, a reader, and optional software. </p><p><br></p><p>The Subcommittee noted that the sensor is applied usually to the upper arm using a disposable applicator, has a thin filament which is inserted under the skin, and that the sensor records data for up to 14 days with readings updated every minute and data stored every 15 minutes. </p><p><br></p><p>The Subcommittee noted that optional software allows monitoring of glucose using a smart phone, use of this software means that data is sent to a cloud-based server which can be accessed by the patient\u2019s healthcare professional. This data is also able to be accessed by the supplier.</p><p><br></p><p>The Subcommittee noted that the FreeStyle Libre has been registered on the Web Assisted Notification of Devices (WAND) database, which is a mandatory requirement for importers, exporters, and local manufacturers, and the sensor registration (15 January 2018; WAND reference: 180115-WAND-6PM9ZF) states the sensor is \u2018indicated for measuring interstitial fluid glucose levels in people (age 4 and older) with insulin dependent diabetes mellitus. The indication for children (age 4 - 17) is limited to those who are supervised by a caregiver who is at least 18 years of age\u2019. </p><p><br></p><p>The Subcommittee noted that the FreeStyle Libre does not require calibration, however patients would still be required to measure blood glucose via a finger-prick test during times of rapidly changing glucose levels or impending hypoglycaemia (approximately once every second day). The Subcommittee noted that the supplier indicates blood glucose levels as assessed by finger prick are better at informing treatment decisions in these situations. The Subcommittee noted that the FreeStyle reader could be used as a blood glucose meter; however only FreeStyle brand test strips could be used and these were no longer funded in New Zealand. </p><p><br></p><p>The Subcommittee noted that FreeStyle Libre FGM system differs from continuous glucose monitoring (CGM) systems primarily as it does not integrate with insulin pump devices, or provide continuous glucose monitoring, and does not have a hypoglycaemia alarm function which are features found in CGM technology. </p><p><br></p><p>The Subcommittee noted that the primary evidence for the use of FreeStyle Libre for the measurement of interstitial fluid glucose levels in individuals with type 1 diabetes is provided by the IMPACT trial (Bolinder et al. Lancet. 2016;388:2254- 2263). The Subcommittee noted that IMPACT was a prospective, non-masked, randomised controlled trial which assessed whether FreeStyle Libre or selfmonitored glucose testing reduced exposure to hypoglycaemia in 328 adults with well-controlled type 1 diabetes. The Subcommittee noted that the mean time spent in hypoglycaemia reduced by 1.39 hours per day in the FreeStyle Libre group compared with a reduction of 0.14 hours in the control group (between group difference -1.24; SE 0.239; P&lt;0.0001). The Subcommittee noted that no devicerelated hypoglycaemia or safety concerns were reported. The Subcommittee noted that there was no significant difference in diabetes quality of life score between the groups (adjusted between-group difference -0.08; SE 0.039; P=0.0524).</p><p><br></p><p>The Subcommittee noted published correspondence to and from the authors of the IMPACT trial regarding concerns about skin adverse reactions (Brahimi et al. Lancet 2017. 389:1396; Bolinder et al. Lancet. 2017;389:1396-1397; Aerts et al. Lancet. 2017;390:1644). The Subcommittee considered that there would be a small proportion of patients who would experience adverse reactions to the adhesive used on the FreeStyle Libre sensor. The Subcommittee noted that there would also likely be incidents where the adhesive failed or the sensor was displaced, meaning that patients would require another sensor prior to the 14 day period was up and had the potential to be a fiscal risk. Members considered that the supplier appeared to be currently providing replacements sensors in the private market in these circumstances. </p><p><br></p><p>The Subcommittee noted that supporting evidence for the use of FreeStyle Libre in children and young adults is provided by the SELFY study, which was a single-arm, open-label study in 76 individuals aged 4 to 17 years with type 1 diabetes (Campbell et al. Diabetologia. 2017;60 [Suppl 1]:S1-S608 [conference abstract only]). The Subcommittee noted that the time in normoglycemic range (3.9 to 10.0 mmol/L) increased from baseline by a mean of 1.0\u00b12.8 hours per day (P=0.0056), and that HbA1c reduced from baseline by -4.4\u00b15.9 mmol/mol (P&lt;0.0001). The Subcommittee noted that three device-related adverse events were reported, and that there were no device-related serious adverse events. </p><p><br></p><p>The Subcommittee considered that there are a significant number of patients selffunding FreeStyle Libre in New Zealand and that this was resulting in further inequities in outcome for patients with type 1 diabetes. </p><p><br></p><p>The Subcommittee considered that the frequency with which patients with type 1 diabetes see health care providers is dependent on age and glycaemic control. If FreeStyle Libre were funded, the Subcommittee considered there may be some requirement for additional appointments with health care providers particularly initially and that the time required for patient management would be increased if data from the device were to be utilised. However, there may be a longer term reduction in management requirements if individuals improved glycaemic control and this could be significant if severe hypoglycaemic episodes and DKA were avoided. </p><p><br></p><p>The Subcommittee considered that access to a FGM system such as FreeStyle Libre for patients under the age of four could provide significant benefits but noted that there is currently no data available for this age group and it is outside the WAND registration. </p><p><br></p><p>The Subcommittee considered that if FreeStyle Libre were to be funded, that the uptake would be high, particularly for children and young adults. The Subcommittee considered that the main benefits of FGM appeared to be the convenience of testing, an increasing frequency of glucose testing and an associated flow on effect to improved glycaemic control. However, the Subcommittee considered this appeared to be a time bound effect in many patients. </p><p><br></p><p>The Subcommittee considered that for some patients who are not currently fingerprick testing for various reasons, having access to FGM technology could provide the data and motivation for improved glycaemic management. </p><p><br></p><p>The Subcommittee considered that approximately half of patients initially provided with FreeStyle Libre would continue using it long-term, either constantly or sporadically. </p><p><br></p><p>The Subcommittee considered that evidence for FGM was still developing and evolving but that this was a promising technology. The Subcommittee considered that the currently available evidence to support the efficacy and safety of FreeStyle Libre is of moderate quality. </p><p><br></p><p>The Subcommittee considered that funded access to an FGM system would benefit all patients with type 1 diabetes and as such there would likely be a significant fiscal impact associated with the funding of FreeStyle Libre. The Subcommittee considered that there are specific populations who have the highest health need for improved glycaemic control and who are likely to receive the most benefit from FreeStyle Libre and that it would be appropriate for funding to be initially targeted to these groups. </p><p><br></p><p>The Subcommittee considered that the highest priority for funding and patients most likely to benefit from FGM systems are children and young adults with type 1 diabetes. The Subcommittee considered other groups who could be targeted based on greater potential to benefit were patients with cystic fibrosis-related diabetes; patients with type 1 diabetes who are pregnant, breastfeeding, or actively planning pregnancy; patients with hypoglycaemia unawareness; and patients who have been admitted to hospital at least twice in the previous twelve months due to diabetic ketoacidosis or hypoglycaemia. The Subcommittee acknowledged that the population of people who would use FGM system during pregnancy, breastfeeding and those planning pregnancy would represent a very large number of patients and, as had been encountered with insulin pump funding, could be difficult to further define. </p><p><br></p><p>The Subcommittee noted that it would be important for ongoing funding criteria to require improvement in HbA1c and/or hypoglycaemic events to be demonstrated and that use should be discontinued where patients were not achieving an improvement in glycaemic control. </p><p><br></p><p><i>General Comments regarding CGM and FGM </i></p><p>The Subcommittee noted that there were several types of glucose monitoring technologies, currently available and under development, including continuous glucose monitoring (CGM) systems, flash glucose monitoring (FGM) systems, sensor- and flash-augmented pump therapy, hybrid closed-loop pump therapy, and fully closed loop therapy. </p><p><br></p><p>The Subcommittee considered that there were some major differences between CGM and FGM currently. Namely, CGM systems available at this time provide continuous data, require 12-hourly blood glucose calibration, have alarms that can be set to detect out of range glucose levels, can be integrated with insulin pumps and some have predictive algorithms to suspend and resume insulin delivery; FGM systems while they do provide glucose level trend arrows to encourage closer monitoring or intervention and are factory calibrated, they currently require the sensor to be manually scanned and are not designed to be integrated with insulin pumps or provide alarm features for predicted hypoglycaemia. </p><p><br></p><p>The Subcommittee noted that some patients are using open-source transmitter attachments available on the market for use with FGM systems that allow for continuous glucose readings and alarm functionality (e.g. the MIAOMIAO Smart Reader).</p><p><br></p><p> The Subcommittee considered that this raised several areas of concern that were broader issues for PHARMAC with the use of community devices, particularly given the limited regulatory controls around devices products in New Zealand currently. Members considered that safety for diabetes patients using devices was a significant concern especially where closed loop systems were being used. Members considered that it was unclear whether support from suppliers would be provided for patients using open-source or other \u201cDIY\u201d technology who ran into technical issues, had device failure or experienced adverse events. </p><p><br></p><p>The Subcommittee considered that the use of devices in this way also raised a number of data governance and privacy considerations including: who owned the data generated; how it was shared, accessed and interpreted; appropriately gained consent for its use; and the training and resourcing of health professionals to manage this. </p><p><br></p><p>The Subcommittee considered that the field of glucose monitoring technologies is developing rapidly, in regard to both hardware and software. The Subcommittee considered that as the technology develops additional features will likely include improved sensitivity, reduced requirement for calibration, and closed-loop functionality. </p><p><br></p><p>The Subcommittee considered that that given the interlinked nature of insulin pump and CGM technology, any future decisions to fund these devices in the New Zealand market should consider how these technologies integrate with each other. The Subcommittee considered there would be a preference for pump \u2018agnostic\u2019 interstitial glucose monitoring technology. </p><p><br></p><p>The Subcommittee considered that the fast moving pace of technology development in the devices field, and the complexity of the devices themselves, meant that consideration needed to be given to the availability of appropriate systems and services so that patients and healthcare professionals were adequately supported to use these products. The Subcommittee considered it was particularly important that accurate, reliable and useful information could be accessed easily to troubleshoot any issues that arose. </p><p><br></p><p>The Subcommittee considered that the introduction of any CGM or FGM technology would impart a significant burden on health care system due to the resources required to adequately train and educate healthcare professionals, patients, and caregivers on the use of the devices. The Subcommittee considered that the volume of information provided by these technologies would be clinically beneficial but would likely significantly increase the time required for health care professionals to incorporate this into their clinical decision-making. </p><p><br></p><p>The Subcommittee considered that it will be critical that appropriate education be provided to health care professionals for any CGM or FGM technology introduced to New Zealand. The Subcommittee considered that it would be important that this is product specific, but also that there is a centrally collated information source with resources available regarding all products and technologies that patients may be using and practical details guiding where further information can be found, and how and where to get replacement products. </p><p><br></p><p>The Subcommittee considered it would likely be important for the contractual requirements for suppliers address issues specific to devices such as training, support, data governance as well as terms for discontinuation scenarios and replacement of devices. </p><p><br></p><p>The Subcommittee considered that the quality of evidence available regarding the efficacy and safety of CGM and FGM technologies is affected by the inability to conduct blinded randomised controlled trials, as the intent of the devices is that blood glucose monitoring is visible (in other words, it is not possible to use a \u2018sham\u2019 device in an randomised controlled trial setting). The Subcommittee considered that much of the data currently available was based on relatively short follow up of 3-6 months for what was a long-term disease and that data with longer timeframes would be of more interest.</p><p><br></p><p>The Subcommittee considered that future review of CGM and FGM funding applications will require data indicating the impact of the technology on blood glucose time in range and haemoglobin A1c (HbA1c) levels, utility in broader patient groups, and long-term efficacy and safety data. The Subcommittee considered that it was likely for diabetes patients using CGM technology they would reduce the volume of blood glucose test strips. </p><p><br></p><p>Members considered that the impact of this technology was more complex than just changes in HbA1c as it would also provide convenience that would impact on a diabetic patients\u2019 lifestyle and reduce stress associated with managing their condition; and that there may be challenges for translating these kinds of benefits in a health technology assessment. </p><p><br></p><p>The Subcommittee considered that real-world analyses may provide the most valuable data for glucose monitoring technologies. Members noted that evaluation of CGM in Australia was currently underway and that analysis of 12 month data would likely be available soon. Members considered the 6 month data indicated a reduction in hypoglycaemic events and a mild benefit in terms of HbA1c from use of CGM. T</p><p><br></p><p>he Subcommittee considered that further data was needed to help inform which populations gained benefit from use of CGM. The Subcommittee considered that the data required would likely need to come from rich and diverse sources and was likely to be different from that traditionally provided to support medicines funding. </p><p><br></p><p>The Subcommittee considered that glucose monitoring systems such as CGM and FGM are likely to provide significant benefit to certain patients who are receptive and responsive to the technology, but that it will be difficult to prospectively identify who these individuals will be. Members considered that based on observations in the private market there were clearly some patients who benefitted and others who did not however, any access criteria needed to be carefully considered so that disparities would not be exacerbated.\u00a0</p>",
+          "fs": "<p>The Subcommittee noted a number of submissions from consumers and clinicians in support of funding for the FreeStyle Libre Flash Glucose Monitoring system. </p><p><br></p><p>The Subcommittee noted that type 1 diabetes is a chronic disease resulting from the autoimmune destruction of pancreatic \u03b2-cells resulting in insulin deficiency; and considered that there are likely to be approximately 25,000 individuals with type 1 diabetes in New Zealand. </p><p><br></p><p>The Subcommittee considered that while the prevalence of type 1 diabetes is higher in European/Pakeha than M\u0101ori and Pacific peoples, M\u0101ori and Pacific peoples have poorer long-term outcomes. Members considered that there was significant data regarding the inequities of outcomes for M\u0101ori and Pacific with type 2 diabetes and there was no reason to expect this would differ for type 1 patients.</p><p><br></p><p>The Subcommittee noted that individuals with type 1 diabetes use exogenous insulin to manage blood glucose levels but that maintaining a normal range can be difficult. The Subcommittee considered that to reduce the risk and avoid hypoglycaemia, patients often maintain their blood glucose levels in the mild-to-moderate hyperglycaemic range, which can result in long-term microvascular and macrovascular damage. </p><p><br></p><p>The Subcommittee noted that type 1 diabetes can also have a negative impact on quality of life for affected individuals, particularly regarding physical functioning and wellbeing. The Subcommittee noted that the intensive management requirements, the fear of hypoglycaemia and hyperglycaemia, and the fear of long-term consequences, can result in significant stress and anxiety. The Subcommittee noted there is also a significant impact on the family and caregivers of individuals with type 1 diabetes. </p><p><br></p><p>The Subcommittee noted that the current standard of care for glucose monitoring in New Zealand is self-monitoring via a finger-prick blood test and patients are testing on average between four and ten times per day. The Subcommittee noted that diagnostic blood glucose test meters and consumables are funded for patients meeting certain eligibility criteria, including individuals receiving insulin. </p><p><br></p><p>The Subcommittee noted that the FreeStyle Libre is a Flash Glucose Monitoring (FGM) system that has three components: a disposable sensor, a reader, and optional software. </p><p><br></p><p>The Subcommittee noted that the sensor is applied usually to the upper arm using a disposable applicator, has a thin filament which is inserted under the skin, and that the sensor records data for up to 14 days with readings updated every minute and data stored every 15 minutes. </p><p><br></p><p>The Subcommittee noted that optional software allows monitoring of glucose using a smart phone, use of this software means that data is sent to a cloud-based server which can be accessed by the patient\u2019s healthcare professional. This data is also able to be accessed by the supplier.</p><p><br></p><p>The Subcommittee noted that the FreeStyle Libre has been registered on the Web Assisted Notification of Devices (WAND) database, which is a mandatory requirement for importers, exporters, and local manufacturers, and the sensor registration (15 January 2018; WAND reference: 180115-WAND-6PM9ZF) states the sensor is \u2018indicated for measuring interstitial fluid glucose levels in people (age 4 and older) with insulin dependent diabetes mellitus. The indication for children (age 4 - 17) is limited to those who are supervised by a caregiver who is at least 18 years of age\u2019. </p><p><br></p><p>The Subcommittee noted that the FreeStyle Libre does not require calibration, however patients would still be required to measure blood glucose via a finger-prick test during times of rapidly changing glucose levels or impending hypoglycaemia (approximately once every second day). The Subcommittee noted that the supplier indicates blood glucose levels as assessed by finger prick are better at informing treatment decisions in these situations. The Subcommittee noted that the FreeStyle reader could be used as a blood glucose meter; however only FreeStyle brand test strips could be used and these were no longer funded in New Zealand. </p><p><br></p><p>The Subcommittee noted that FreeStyle Libre FGM system differs from continuous glucose monitoring (CGM) systems primarily as it does not integrate with insulin pump devices, or provide continuous glucose monitoring, and does not have a hypoglycaemia alarm function which are features found in CGM technology. </p><p><br></p><p>The Subcommittee noted that the primary evidence for the use of FreeStyle Libre for the measurement of interstitial fluid glucose levels in individuals with type 1 diabetes is provided by the IMPACT trial (Bolinder et al. Lancet. 2016;388:2254- 2263). The Subcommittee noted that IMPACT was a prospective, non-masked, randomised controlled trial which assessed whether FreeStyle Libre or selfmonitored glucose testing reduced exposure to hypoglycaemia in 328 adults with well-controlled type 1 diabetes. The Subcommittee noted that the mean time spent in hypoglycaemia reduced by 1.39 hours per day in the FreeStyle Libre group compared with a reduction of 0.14 hours in the control group (between group difference -1.24; SE 0.239; P&lt;0.0001). The Subcommittee noted that no devicerelated hypoglycaemia or safety concerns were reported. The Subcommittee noted that there was no significant difference in diabetes quality of life score between the groups (adjusted between-group difference -0.08; SE 0.039; P=0.0524).</p><p><br></p><p>The Subcommittee noted published correspondence to and from the authors of the IMPACT trial regarding concerns about skin adverse reactions (Brahimi et al. Lancet 2017. 389:1396; Bolinder et al. Lancet. 2017;389:1396-1397; Aerts et al. Lancet. 2017;390:1644). The Subcommittee considered that there would be a small proportion of patients who would experience adverse reactions to the adhesive used on the FreeStyle Libre sensor. The Subcommittee noted that there would also likely be incidents where the adhesive failed or the sensor was displaced, meaning that patients would require another sensor prior to the 14 day period was up and had the potential to be a fiscal risk. Members considered that the supplier appeared to be currently providing replacements sensors in the private market in these circumstances. </p><p><br></p><p>The Subcommittee noted that supporting evidence for the use of FreeStyle Libre in children and young adults is provided by the SELFY study, which was a single-arm, open-label study in 76 individuals aged 4 to 17 years with type 1 diabetes (Campbell et al. Diabetologia. 2017;60 [Suppl 1]:S1-S608 [conference abstract only]). The Subcommittee noted that the time in normoglycemic range (3.9 to 10.0 mmol/L) increased from baseline by a mean of 1.0\u00b12.8 hours per day (P=0.0056), and that HbA1c reduced from baseline by -4.4\u00b15.9 mmol/mol (P&lt;0.0001). The Subcommittee noted that three device-related adverse events were reported, and that there were no device-related serious adverse events. </p><p><br></p><p>The Subcommittee considered that there are a significant number of patients selffunding FreeStyle Libre in New Zealand and that this was resulting in further inequities in outcome for patients with type 1 diabetes. </p><p><br></p><p>The Subcommittee considered that the frequency with which patients with type 1 diabetes see health care providers is dependent on age and glycaemic control. If FreeStyle Libre were funded, the Subcommittee considered there may be some requirement for additional appointments with health care providers particularly initially and that the time required for patient management would be increased if data from the device were to be utilised. However, there may be a longer term reduction in management requirements if individuals improved glycaemic control and this could be significant if severe hypoglycaemic episodes and DKA were avoided. </p><p><br></p><p>The Subcommittee considered that access to a FGM system such as FreeStyle Libre for patients under the age of four could provide significant benefits but noted that there is currently no data available for this age group and it is outside the WAND registration. </p><p><br></p><p>The Subcommittee considered that if FreeStyle Libre were to be funded, that the uptake would be high, particularly for children and young adults. The Subcommittee considered that the main benefits of FGM appeared to be the convenience of testing, an increasing frequency of glucose testing and an associated flow on effect to improved glycaemic control. However, the Subcommittee considered this appeared to be a time bound effect in many patients. </p><p><br></p><p>The Subcommittee considered that for some patients who are not currently fingerprick testing for various reasons, having access to FGM technology could provide the data and motivation for improved glycaemic management. </p><p><br></p><p>The Subcommittee considered that approximately half of patients initially provided with FreeStyle Libre would continue using it long-term, either constantly or sporadically. </p><p><br></p><p>The Subcommittee considered that evidence for FGM was still developing and evolving but that this was a promising technology. The Subcommittee considered that the currently available evidence to support the efficacy and safety of FreeStyle Libre is of moderate quality. </p><p><br></p><p>The Subcommittee considered that funded access to an FGM system would benefit all patients with type 1 diabetes and as such there would likely be a significant fiscal impact associated with the funding of FreeStyle Libre. The Subcommittee considered that there are specific populations who have the highest health need for improved glycaemic control and who are likely to receive the most benefit from FreeStyle Libre and that it would be appropriate for funding to be initially targeted to these groups. </p><p><br></p><p>The Subcommittee considered that the highest priority for funding and patients most likely to benefit from FGM systems are children and young adults with type 1 diabetes. The Subcommittee considered other groups who could be targeted based on greater potential to benefit were patients with cystic fibrosis-related diabetes; patients with type 1 diabetes who are pregnant, breastfeeding, or actively planning pregnancy; patients with hypoglycaemia unawareness; and patients who have been admitted to hospital at least twice in the previous twelve months due to diabetic ketoacidosis or hypoglycaemia. The Subcommittee acknowledged that the population of people who would use FGM system during pregnancy, breastfeeding and those planning pregnancy would represent a very large number of patients and, as had been encountered with insulin pump funding, could be difficult to further define. </p><p><br></p><p>The Subcommittee noted that it would be important for ongoing funding criteria to require improvement in HbA1c and/or hypoglycaemic events to be demonstrated and that use should be discontinued where patients were not achieving an improvement in glycaemic control. </p><p><br></p><p><i>General Comments regarding CGM and FGM </i></p><p>The Subcommittee noted that there were several types of glucose monitoring technologies, currently available and under development, including continuous glucose monitoring (CGM) systems, flash glucose monitoring (FGM) systems, sensor- and flash-augmented pump therapy, hybrid closed-loop pump therapy, and fully closed loop therapy. </p><p><br></p><p>The Subcommittee considered that there were some major differences between CGM and FGM currently. Namely, CGM systems available at this time provide continuous data, require 12-hourly blood glucose calibration, have alarms that can be set to detect out of range glucose levels, can be integrated with insulin pumps and some have predictive algorithms to suspend and resume insulin delivery; FGM systems while they do provide glucose level trend arrows to encourage closer monitoring or intervention and are factory calibrated, they currently require the sensor to be manually scanned and are not designed to be integrated with insulin pumps or provide alarm features for predicted hypoglycaemia. </p><p><br></p><p>The Subcommittee noted that some patients are using open-source transmitter attachments available on the market for use with FGM systems that allow for continuous glucose readings and alarm functionality (e.g. the MIAOMIAO Smart Reader).</p><p><br></p><p> The Subcommittee considered that this raised several areas of concern that were broader issues for PHARMAC with the use of community devices, particularly given the limited regulatory controls around devices products in New Zealand currently. Members considered that safety for diabetes patients using devices was a significant concern especially where closed loop systems were being used. Members considered that it was unclear whether support from suppliers would be provided for patients using open-source or other \u201cDIY\u201d technology who ran into technical issues, had device failure or experienced adverse events. </p><p><br></p><p>The Subcommittee considered that the use of devices in this way also raised a number of data governance and privacy considerations including: who owned the data generated; how it was shared, accessed and interpreted; appropriately gained consent for its use; and the training and resourcing of health professionals to manage this. </p><p><br></p><p>The Subcommittee considered that the field of glucose monitoring technologies is developing rapidly, in regard to both hardware and software. The Subcommittee considered that as the technology develops additional features will likely include improved sensitivity, reduced requirement for calibration, and closed-loop functionality. </p><p><br></p><p>The Subcommittee considered that that given the interlinked nature of insulin pump and CGM technology, any future decisions to fund these devices in the New Zealand market should consider how these technologies integrate with each other. The Subcommittee considered there would be a preference for pump \u2018agnostic\u2019 interstitial glucose monitoring technology. </p><p><br></p><p>The Subcommittee considered that the fast moving pace of technology development in the devices field, and the complexity of the devices themselves, meant that consideration needed to be given to the availability of appropriate systems and services so that patients and healthcare professionals were adequately supported to use these products. The Subcommittee considered it was particularly important that accurate, reliable and useful information could be accessed easily to troubleshoot any issues that arose. </p><p><br></p><p>The Subcommittee considered that the introduction of any CGM or FGM technology would impart a significant burden on health care system due to the resources required to adequately train and educate healthcare professionals, patients, and caregivers on the use of the devices. The Subcommittee considered that the volume of information provided by these technologies would be clinically beneficial but would likely significantly increase the time required for health care professionals to incorporate this into their clinical decision-making. </p><p><br></p><p>The Subcommittee considered that it will be critical that appropriate education be provided to health care professionals for any CGM or FGM technology introduced to New Zealand. The Subcommittee considered that it would be important that this is product specific, but also that there is a centrally collated information source with resources available regarding all products and technologies that patients may be using and practical details guiding where further information can be found, and how and where to get replacement products. </p><p><br></p><p>The Subcommittee considered it would likely be important for the contractual requirements for suppliers address issues specific to devices such as training, support, data governance as well as terms for discontinuation scenarios and replacement of devices. </p><p><br></p><p>The Subcommittee considered that the quality of evidence available regarding the efficacy and safety of CGM and FGM technologies is affected by the inability to conduct blinded randomised controlled trials, as the intent of the devices is that blood glucose monitoring is visible (in other words, it is not possible to use a \u2018sham\u2019 device in an randomised controlled trial setting). The Subcommittee considered that much of the data currently available was based on relatively short follow up of 3-6 months for what was a long-term disease and that data with longer timeframes would be of more interest.</p><p><br></p><p>The Subcommittee considered that future review of CGM and FGM funding applications will require data indicating the impact of the technology on blood glucose time in range and haemoglobin A1c (HbA1c) levels, utility in broader patient groups, and long-term efficacy and safety data. The Subcommittee considered that it was likely for diabetes patients using CGM technology they would reduce the volume of blood glucose test strips. </p><p><br></p><p>Members considered that the impact of this technology was more complex than just changes in HbA1c as it would also provide convenience that would impact on a diabetic patients\u2019 lifestyle and reduce stress associated with managing their condition; and that there may be challenges for translating these kinds of benefits in a health technology assessment. </p><p><br></p><p>The Subcommittee considered that real-world analyses may provide the most valuable data for glucose monitoring technologies. Members noted that evaluation of CGM in Australia was currently underway and that analysis of 12 month data would likely be available soon. Members considered the 6 month data indicated a reduction in hypoglycaemic events and a mild benefit in terms of HbA1c from use of CGM. T</p><p><br></p><p>he Subcommittee considered that further data was needed to help inform which populations gained benefit from use of CGM. The Subcommittee considered that the data required would likely need to come from rich and diverse sources and was likely to be different from that traditionally provided to support medicines funding. </p><p><br></p><p>The Subcommittee considered that glucose monitoring systems such as CGM and FGM are likely to provide significant benefit to certain patients who are receptive and responsive to the technology, but that it will be difficult to prospectively identify who these individuals will be. Members considered that based on observations in the private market there were clearly some patients who benefitted and others who did not however, any access criteria needed to be carefully considered so that disparities would not be exacerbated.\u00a0</p>",
+          "change": null
+        },
+        "Published_Application": {
+          "s": "<p>The Subcommittee reviewed an application from Abbott Laboratories NZ for the funding of the FreeStyle Libre Flash Glucose Monitoring system for the measurement of interstitial fluid glucose levels in individuals 4 years of age and over with type 1 diabetes. </p><p><br></p><p>The Subcommittee took into account, where applicable, PHARMAC\u2019s relevant decision-making framework when considering these agenda items.\u00a0</p>",
+          "fs": "<p>The Subcommittee reviewed an application from Abbott Laboratories NZ for the funding of the FreeStyle Libre Flash Glucose Monitoring system for the measurement of interstitial fluid glucose levels in individuals 4 years of age and over with type 1 diabetes. </p><p><br></p><p>The Subcommittee took into account, where applicable, PHARMAC\u2019s relevant decision-making framework when considering these agenda items.\u00a0</p>",
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": "High",
+          "fs": "High",
+          "change": null
+        },
+        "Links": {
+          "s": "<a href=\"https://www.pharmac.govt.nz/assets/ptac-diabetes-subcommittee-minutes-2019-03.pdf\" target=\"_blank\">Diabetes Subcommittee minutes</a>",
+          "fs": "<a href=\"https://www.pharmac.govt.nz/assets/ptac-diabetes-subcommittee-minutes-2019-03.pdf\" target=\"_blank\">Diabetes Subcommittee minutes</a>",
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Mar 2019",
+          "fs": "Mar 2019",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Clinical advice received from Diabetes Subcommittee at meeting Tuesday 19 March 2019.",
+          "fs": "Clinical advice received from Diabetes Subcommittee at meeting Tuesday 19 March 2019.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000Mc0Gt2AJ"
+          },
+          "Id": "a0POZ00000Mc0Gt2AJ",
+          "Event_Date__c": "2019-03-19",
+          "Event_Description__c": "Clinical advice received from Diabetes Subcommittee at meeting Tuesday 19 March 2019.",
+          "Stage__c": "Seeking Clinical Advice",
+          "Links__c": "<a href=\"https://www.pharmac.govt.nz/assets/ptac-diabetes-subcommittee-minutes-2019-03.pdf\" target=\"_blank\">Diabetes Subcommittee minutes</a>",
+          "Outcome__c": "High",
+          "Formatted_Date__c": "Mar 2019",
+          "Published_Recommendation__c": "<p>The Subcommittee recommended that the FreeStyle Libre Flash Glucose Monitoring System be funded with high priority for certain patients with type 1 diabetes subject to the following Special Authority criteria: </p><p>Initial application \u2013 only from a relevant specialist or nurse practitioner. Approvals valid for 9 months for applications meeting the following criteria: </p><p>All of the following: </p><p>1. Patient has type 1 diabetes or has undergone a pancreatectomy or has cystic fibrosis-related diabetes; and </p><p>2. Either: </p><p>2.1. Patient is aged 18 years or under; or </p><p>2.2. Patient is aged over 18 years; and </p><p>2.3. Any of the following: </p><p>2.3.1.Patient has impaired awareness of hypoglycaemia and has been admitted to hospital at least twice in the previous  12 months with hypoglycaemia requiring medical intervention; or </p><p>2.3.2.Patient has been admitted to hospital at least twice in the previous 12 months with diabetic ketoacidosis; or 2.3.3.Patient is pregnant, breastfeeding, or actively planning pregnancy. </p><p><br></p><p>Renewal application \u2013 only from a relevant specialist or nurse practitioner. Approvals valid for 24 months for applications meeting the following criteria: </p><p>1. Either: </p><p>1.1. Both: </p><p>1.1.1.Patient is continuing to derive benefit from flash glucose monitoring by achieving and maintaining a reduction of HbA1c from baseline of 10mmol/mol; and </p><p>1.1.2.The number of hypoglycaemic episodes has not increased from baseline; or </p><p>1.2. Both: </p><p>1.2.1.Patient is continuing to derive benefit from flash glucose monitoring by achieving a 50% reduction from baseline in hypoglycaemic events; and </p><p>1.2.2.HbA1c has not increased by more than 5mmol/mol from baseline.</p>",
+          "Published_Application__c": "<p>The Subcommittee reviewed an application from Abbott Laboratories NZ for the funding of the FreeStyle Libre Flash Glucose Monitoring system for the measurement of interstitial fluid glucose levels in individuals 4 years of age and over with type 1 diabetes. </p><p><br></p><p>The Subcommittee took into account, where applicable, PHARMAC\u2019s relevant decision-making framework when considering these agenda items.\u00a0</p>",
+          "Published_Discussion__c": "<p>The Subcommittee noted a number of submissions from consumers and clinicians in support of funding for the FreeStyle Libre Flash Glucose Monitoring system. </p><p><br></p><p>The Subcommittee noted that type 1 diabetes is a chronic disease resulting from the autoimmune destruction of pancreatic \u03b2-cells resulting in insulin deficiency; and considered that there are likely to be approximately 25,000 individuals with type 1 diabetes in New Zealand. </p><p><br></p><p>The Subcommittee considered that while the prevalence of type 1 diabetes is higher in European/Pakeha than M\u0101ori and Pacific peoples, M\u0101ori and Pacific peoples have poorer long-term outcomes. Members considered that there was significant data regarding the inequities of outcomes for M\u0101ori and Pacific with type 2 diabetes and there was no reason to expect this would differ for type 1 patients.</p><p><br></p><p>The Subcommittee noted that individuals with type 1 diabetes use exogenous insulin to manage blood glucose levels but that maintaining a normal range can be difficult. The Subcommittee considered that to reduce the risk and avoid hypoglycaemia, patients often maintain their blood glucose levels in the mild-to-moderate hyperglycaemic range, which can result in long-term microvascular and macrovascular damage. </p><p><br></p><p>The Subcommittee noted that type 1 diabetes can also have a negative impact on quality of life for affected individuals, particularly regarding physical functioning and wellbeing. The Subcommittee noted that the intensive management requirements, the fear of hypoglycaemia and hyperglycaemia, and the fear of long-term consequences, can result in significant stress and anxiety. The Subcommittee noted there is also a significant impact on the family and caregivers of individuals with type 1 diabetes. </p><p><br></p><p>The Subcommittee noted that the current standard of care for glucose monitoring in New Zealand is self-monitoring via a finger-prick blood test and patients are testing on average between four and ten times per day. The Subcommittee noted that diagnostic blood glucose test meters and consumables are funded for patients meeting certain eligibility criteria, including individuals receiving insulin. </p><p><br></p><p>The Subcommittee noted that the FreeStyle Libre is a Flash Glucose Monitoring (FGM) system that has three components: a disposable sensor, a reader, and optional software. </p><p><br></p><p>The Subcommittee noted that the sensor is applied usually to the upper arm using a disposable applicator, has a thin filament which is inserted under the skin, and that the sensor records data for up to 14 days with readings updated every minute and data stored every 15 minutes. </p><p><br></p><p>The Subcommittee noted that optional software allows monitoring of glucose using a smart phone, use of this software means that data is sent to a cloud-based server which can be accessed by the patient\u2019s healthcare professional. This data is also able to be accessed by the supplier.</p><p><br></p><p>The Subcommittee noted that the FreeStyle Libre has been registered on the Web Assisted Notification of Devices (WAND) database, which is a mandatory requirement for importers, exporters, and local manufacturers, and the sensor registration (15 January 2018; WAND reference: 180115-WAND-6PM9ZF) states the sensor is \u2018indicated for measuring interstitial fluid glucose levels in people (age 4 and older) with insulin dependent diabetes mellitus. The indication for children (age 4 - 17) is limited to those who are supervised by a caregiver who is at least 18 years of age\u2019. </p><p><br></p><p>The Subcommittee noted that the FreeStyle Libre does not require calibration, however patients would still be required to measure blood glucose via a finger-prick test during times of rapidly changing glucose levels or impending hypoglycaemia (approximately once every second day). The Subcommittee noted that the supplier indicates blood glucose levels as assessed by finger prick are better at informing treatment decisions in these situations. The Subcommittee noted that the FreeStyle reader could be used as a blood glucose meter; however only FreeStyle brand test strips could be used and these were no longer funded in New Zealand. </p><p><br></p><p>The Subcommittee noted that FreeStyle Libre FGM system differs from continuous glucose monitoring (CGM) systems primarily as it does not integrate with insulin pump devices, or provide continuous glucose monitoring, and does not have a hypoglycaemia alarm function which are features found in CGM technology. </p><p><br></p><p>The Subcommittee noted that the primary evidence for the use of FreeStyle Libre for the measurement of interstitial fluid glucose levels in individuals with type 1 diabetes is provided by the IMPACT trial (Bolinder et al. Lancet. 2016;388:2254- 2263). The Subcommittee noted that IMPACT was a prospective, non-masked, randomised controlled trial which assessed whether FreeStyle Libre or selfmonitored glucose testing reduced exposure to hypoglycaemia in 328 adults with well-controlled type 1 diabetes. The Subcommittee noted that the mean time spent in hypoglycaemia reduced by 1.39 hours per day in the FreeStyle Libre group compared with a reduction of 0.14 hours in the control group (between group difference -1.24; SE 0.239; P&lt;0.0001). The Subcommittee noted that no devicerelated hypoglycaemia or safety concerns were reported. The Subcommittee noted that there was no significant difference in diabetes quality of life score between the groups (adjusted between-group difference -0.08; SE 0.039; P=0.0524).</p><p><br></p><p>The Subcommittee noted published correspondence to and from the authors of the IMPACT trial regarding concerns about skin adverse reactions (Brahimi et al. Lancet 2017. 389:1396; Bolinder et al. Lancet. 2017;389:1396-1397; Aerts et al. Lancet. 2017;390:1644). The Subcommittee considered that there would be a small proportion of patients who would experience adverse reactions to the adhesive used on the FreeStyle Libre sensor. The Subcommittee noted that there would also likely be incidents where the adhesive failed or the sensor was displaced, meaning that patients would require another sensor prior to the 14 day period was up and had the potential to be a fiscal risk. Members considered that the supplier appeared to be currently providing replacements sensors in the private market in these circumstances. </p><p><br></p><p>The Subcommittee noted that supporting evidence for the use of FreeStyle Libre in children and young adults is provided by the SELFY study, which was a single-arm, open-label study in 76 individuals aged 4 to 17 years with type 1 diabetes (Campbell et al. Diabetologia. 2017;60 [Suppl 1]:S1-S608 [conference abstract only]). The Subcommittee noted that the time in normoglycemic range (3.9 to 10.0 mmol/L) increased from baseline by a mean of 1.0\u00b12.8 hours per day (P=0.0056), and that HbA1c reduced from baseline by -4.4\u00b15.9 mmol/mol (P&lt;0.0001). The Subcommittee noted that three device-related adverse events were reported, and that there were no device-related serious adverse events. </p><p><br></p><p>The Subcommittee considered that there are a significant number of patients selffunding FreeStyle Libre in New Zealand and that this was resulting in further inequities in outcome for patients with type 1 diabetes. </p><p><br></p><p>The Subcommittee considered that the frequency with which patients with type 1 diabetes see health care providers is dependent on age and glycaemic control. If FreeStyle Libre were funded, the Subcommittee considered there may be some requirement for additional appointments with health care providers particularly initially and that the time required for patient management would be increased if data from the device were to be utilised. However, there may be a longer term reduction in management requirements if individuals improved glycaemic control and this could be significant if severe hypoglycaemic episodes and DKA were avoided. </p><p><br></p><p>The Subcommittee considered that access to a FGM system such as FreeStyle Libre for patients under the age of four could provide significant benefits but noted that there is currently no data available for this age group and it is outside the WAND registration. </p><p><br></p><p>The Subcommittee considered that if FreeStyle Libre were to be funded, that the uptake would be high, particularly for children and young adults. The Subcommittee considered that the main benefits of FGM appeared to be the convenience of testing, an increasing frequency of glucose testing and an associated flow on effect to improved glycaemic control. However, the Subcommittee considered this appeared to be a time bound effect in many patients. </p><p><br></p><p>The Subcommittee considered that for some patients who are not currently fingerprick testing for various reasons, having access to FGM technology could provide the data and motivation for improved glycaemic management. </p><p><br></p><p>The Subcommittee considered that approximately half of patients initially provided with FreeStyle Libre would continue using it long-term, either constantly or sporadically. </p><p><br></p><p>The Subcommittee considered that evidence for FGM was still developing and evolving but that this was a promising technology. The Subcommittee considered that the currently available evidence to support the efficacy and safety of FreeStyle Libre is of moderate quality. </p><p><br></p><p>The Subcommittee considered that funded access to an FGM system would benefit all patients with type 1 diabetes and as such there would likely be a significant fiscal impact associated with the funding of FreeStyle Libre. The Subcommittee considered that there are specific populations who have the highest health need for improved glycaemic control and who are likely to receive the most benefit from FreeStyle Libre and that it would be appropriate for funding to be initially targeted to these groups. </p><p><br></p><p>The Subcommittee considered that the highest priority for funding and patients most likely to benefit from FGM systems are children and young adults with type 1 diabetes. The Subcommittee considered other groups who could be targeted based on greater potential to benefit were patients with cystic fibrosis-related diabetes; patients with type 1 diabetes who are pregnant, breastfeeding, or actively planning pregnancy; patients with hypoglycaemia unawareness; and patients who have been admitted to hospital at least twice in the previous twelve months due to diabetic ketoacidosis or hypoglycaemia. The Subcommittee acknowledged that the population of people who would use FGM system during pregnancy, breastfeeding and those planning pregnancy would represent a very large number of patients and, as had been encountered with insulin pump funding, could be difficult to further define. </p><p><br></p><p>The Subcommittee noted that it would be important for ongoing funding criteria to require improvement in HbA1c and/or hypoglycaemic events to be demonstrated and that use should be discontinued where patients were not achieving an improvement in glycaemic control. </p><p><br></p><p><i>General Comments regarding CGM and FGM </i></p><p>The Subcommittee noted that there were several types of glucose monitoring technologies, currently available and under development, including continuous glucose monitoring (CGM) systems, flash glucose monitoring (FGM) systems, sensor- and flash-augmented pump therapy, hybrid closed-loop pump therapy, and fully closed loop therapy. </p><p><br></p><p>The Subcommittee considered that there were some major differences between CGM and FGM currently. Namely, CGM systems available at this time provide continuous data, require 12-hourly blood glucose calibration, have alarms that can be set to detect out of range glucose levels, can be integrated with insulin pumps and some have predictive algorithms to suspend and resume insulin delivery; FGM systems while they do provide glucose level trend arrows to encourage closer monitoring or intervention and are factory calibrated, they currently require the sensor to be manually scanned and are not designed to be integrated with insulin pumps or provide alarm features for predicted hypoglycaemia. </p><p><br></p><p>The Subcommittee noted that some patients are using open-source transmitter attachments available on the market for use with FGM systems that allow for continuous glucose readings and alarm functionality (e.g. the MIAOMIAO Smart Reader).</p><p><br></p><p> The Subcommittee considered that this raised several areas of concern that were broader issues for PHARMAC with the use of community devices, particularly given the limited regulatory controls around devices products in New Zealand currently. Members considered that safety for diabetes patients using devices was a significant concern especially where closed loop systems were being used. Members considered that it was unclear whether support from suppliers would be provided for patients using open-source or other \u201cDIY\u201d technology who ran into technical issues, had device failure or experienced adverse events. </p><p><br></p><p>The Subcommittee considered that the use of devices in this way also raised a number of data governance and privacy considerations including: who owned the data generated; how it was shared, accessed and interpreted; appropriately gained consent for its use; and the training and resourcing of health professionals to manage this. </p><p><br></p><p>The Subcommittee considered that the field of glucose monitoring technologies is developing rapidly, in regard to both hardware and software. The Subcommittee considered that as the technology develops additional features will likely include improved sensitivity, reduced requirement for calibration, and closed-loop functionality. </p><p><br></p><p>The Subcommittee considered that that given the interlinked nature of insulin pump and CGM technology, any future decisions to fund these devices in the New Zealand market should consider how these technologies integrate with each other. The Subcommittee considered there would be a preference for pump \u2018agnostic\u2019 interstitial glucose monitoring technology. </p><p><br></p><p>The Subcommittee considered that the fast moving pace of technology development in the devices field, and the complexity of the devices themselves, meant that consideration needed to be given to the availability of appropriate systems and services so that patients and healthcare professionals were adequately supported to use these products. The Subcommittee considered it was particularly important that accurate, reliable and useful information could be accessed easily to troubleshoot any issues that arose. </p><p><br></p><p>The Subcommittee considered that the introduction of any CGM or FGM technology would impart a significant burden on health care system due to the resources required to adequately train and educate healthcare professionals, patients, and caregivers on the use of the devices. The Subcommittee considered that the volume of information provided by these technologies would be clinically beneficial but would likely significantly increase the time required for health care professionals to incorporate this into their clinical decision-making. </p><p><br></p><p>The Subcommittee considered that it will be critical that appropriate education be provided to health care professionals for any CGM or FGM technology introduced to New Zealand. The Subcommittee considered that it would be important that this is product specific, but also that there is a centrally collated information source with resources available regarding all products and technologies that patients may be using and practical details guiding where further information can be found, and how and where to get replacement products. </p><p><br></p><p>The Subcommittee considered it would likely be important for the contractual requirements for suppliers address issues specific to devices such as training, support, data governance as well as terms for discontinuation scenarios and replacement of devices. </p><p><br></p><p>The Subcommittee considered that the quality of evidence available regarding the efficacy and safety of CGM and FGM technologies is affected by the inability to conduct blinded randomised controlled trials, as the intent of the devices is that blood glucose monitoring is visible (in other words, it is not possible to use a \u2018sham\u2019 device in an randomised controlled trial setting). The Subcommittee considered that much of the data currently available was based on relatively short follow up of 3-6 months for what was a long-term disease and that data with longer timeframes would be of more interest.</p><p><br></p><p>The Subcommittee considered that future review of CGM and FGM funding applications will require data indicating the impact of the technology on blood glucose time in range and haemoglobin A1c (HbA1c) levels, utility in broader patient groups, and long-term efficacy and safety data. The Subcommittee considered that it was likely for diabetes patients using CGM technology they would reduce the volume of blood glucose test strips. </p><p><br></p><p>Members considered that the impact of this technology was more complex than just changes in HbA1c as it would also provide convenience that would impact on a diabetic patients\u2019 lifestyle and reduce stress associated with managing their condition; and that there may be challenges for translating these kinds of benefits in a health technology assessment. </p><p><br></p><p>The Subcommittee considered that real-world analyses may provide the most valuable data for glucose monitoring technologies. Members noted that evaluation of CGM in Australia was currently underway and that analysis of 12 month data would likely be available soon. Members considered the 6 month data indicated a reduction in hypoglycaemic events and a mild benefit in terms of HbA1c from use of CGM. T</p><p><br></p><p>he Subcommittee considered that further data was needed to help inform which populations gained benefit from use of CGM. The Subcommittee considered that the data required would likely need to come from rich and diverse sources and was likely to be different from that traditionally provided to support medicines funding. </p><p><br></p><p>The Subcommittee considered that glucose monitoring systems such as CGM and FGM are likely to provide significant benefit to certain patients who are receptive and responsive to the technology, but that it will be difficult to prospectively identify who these individuals will be. Members considered that based on observations in the private market there were clearly some patients who benefitted and others who did not however, any access criteria needed to be carefully considered so that disparities would not be exacerbated.\u00a0</p>",
+          "Status_History__c": "a132P000000ArdXQAS"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": "The Committee considered that it was unable to endorse a high priority recommendation based on the quality of the evidence reviewed, the absence of data demonstrating HRQoL benefits and uncertainty regarding the level of health need given currently funded alternatives.",
+          "fs": "The Committee considered that it was unable to endorse a high priority recommendation based on the quality of the evidence reviewed, the absence of data demonstrating HRQoL benefits and uncertainty regarding the level of health need given currently funded alternatives.",
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": "No Formal Recommendation",
+          "fs": "No Formal Recommendation",
+          "change": null
+        },
+        "Links": {
+          "s": "<a href=\"https://www.pharmac.govt.nz/assets/ptac-minutes-2019-05.pdf\" target=\"_blank\">PTAC minutes</a>",
+          "fs": "<a href=\"https://www.pharmac.govt.nz/assets/ptac-minutes-2019-05.pdf\" target=\"_blank\">PTAC minutes</a>",
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "May 2019",
+          "fs": "May 2019",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Clinical advice received from Pharmacology and Therapeutics Advisory Committee (PTAC) at meeting Thursday 23 May 2019.",
+          "fs": "Clinical advice received from Pharmacology and Therapeutics Advisory Committee (PTAC) at meeting Thursday 23 May 2019.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000Mc0Gu2AJ"
+          },
+          "Id": "a0POZ00000Mc0Gu2AJ",
+          "Event_Date__c": "2019-05-23",
+          "Event_Description__c": "Clinical advice received from Pharmacology and Therapeutics Advisory Committee (PTAC) at meeting Thursday 23 May 2019.",
+          "Stage__c": "Seeking Clinical Advice",
+          "Links__c": "<a href=\"https://www.pharmac.govt.nz/assets/ptac-minutes-2019-05.pdf\" target=\"_blank\">PTAC minutes</a>",
+          "Outcome__c": "No Formal Recommendation",
+          "Summary__c": "The Committee considered that it was unable to endorse a high priority recommendation based on the quality of the evidence reviewed, the absence of data demonstrating HRQoL benefits and uncertainty regarding the level of health need given currently funded alternatives.",
+          "Formatted_Date__c": "May 2019",
+          "Status_History__c": "a132P000000Arg4QAC"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Mar 2019",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Following Clinical Advice, Pharmac staff considers the advice and the funding application under goes an assessment using our&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/factors-for-consideration/\" rel=\"nofollow\">Factors for Consideration</a>&nbsp;framework and seeks additional information as required.</p>\r\n<p>&nbsp;</p>\r\n<p>Research and Economic analysis are undertaken.&nbsp; This focuses on the costs and benefits of a proposed course of action. Economics is based on three fundamental concepts that summarise the issues Pharmac faces daily:&nbsp;</p>\r\n<ul>\r\n<li>Scarcity &ndash; resources will always be insufficient to support all possible activities.</li>\r\n<li>Choices &ndash; due to scarce resources, decisions must be made about how best to use them.</li>\r\n<li>Opportunity cost &ndash; by choosing to use resources one way, we forgo other opportunities to use the same resources.</li>\r\n</ul>\r\n<p>&nbsp;</p>\r\n<p>For further information on the purpose of, and techniques for, undertaking economic analysis in health care, please refer&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/economic-analysis/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/economic-analysis/</a></p>",
+    "position": 2,
+    "name": "Under Assessment",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": "<p><span style=\"font-size: 16px;\">Assessment of the patient group as defined by the\u00a0Special Authority criteria proposed by the </span><a href=\"https://pharmac.govt.nz/assets/ptac-diabetes-subcommittee-minutes-2019-03.pdf\" target=\"_blank\" style=\"font-size: 16px; background-color: rgb(255, 255, 255);\">Diabetes Subcommittee at its March 2019 meeting</a><span style=\"font-size: 16px;\">.</span></p>",
+          "fs": "<p><span style=\"font-size: 16px;\">Assessment of the patient group as defined by the\u00a0Special Authority criteria proposed by the </span><a href=\"https://pharmac.govt.nz/assets/ptac-diabetes-subcommittee-minutes-2019-03.pdf\" target=\"_blank\" style=\"font-size: 16px; background-color: rgb(255, 255, 255);\">Diabetes Subcommittee at its March 2019 meeting</a><span style=\"font-size: 16px;\">.</span></p>",
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Oct 2019",
+          "fs": "Oct 2019",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Working to compare options",
+          "fs": "Working to compare options",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000Mc0Gv2AJ"
+          },
+          "Id": "a0POZ00000Mc0Gv2AJ",
+          "Event_Date__c": "2019-10-21",
+          "Event_Description__c": "Working to compare options",
+          "Stage__c": "Under Assessment",
+          "Summary__c": "<p><span style=\"font-size: 16px;\">Assessment of the patient group as defined by the\u00a0Special Authority criteria proposed by the </span><a href=\"https://pharmac.govt.nz/assets/ptac-diabetes-subcommittee-minutes-2019-03.pdf\" target=\"_blank\" style=\"font-size: 16px; background-color: rgb(255, 255, 255);\">Diabetes Subcommittee at its March 2019 meeting</a><span style=\"font-size: 16px;\">.</span></p>",
+          "Formatted_Date__c": "Oct 2019",
+          "Status_History__c": "a132P000000B48FQAS"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": "Assessment to include all patients with type 1 diabetes.",
+          "fs": "Assessment to include all patients with type 1 diabetes.",
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "May 2020",
+          "fs": "May 2020",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Working to compare options",
+          "fs": "Working to compare options",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000Mc0Gx2AJ"
+          },
+          "Id": "a0POZ00000Mc0Gx2AJ",
+          "Event_Date__c": "2020-05-25",
+          "Event_Description__c": "Working to compare options",
+          "Stage__c": "Under Assessment",
+          "Summary__c": "Assessment to include all patients with type 1 diabetes.",
+          "Formatted_Date__c": "May 2020",
+          "Status_History__c": "a132P000000Bn3mQAC"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Oct 2019",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Pharmac staff uses a prioritisation process to compare and rank funding options. Possible opportunities for new investment will always exceed the budget Pharmac has available; therefore, prioritisation is an intrinsic part of Pharmac\u2019s decision-making process.</p>\r\n<p>The relative ranking of options aims to support Pharmac&rsquo;s statutory objective &ldquo;to secure for eligible people in need of pharmaceuticals, the best health outcomes that are reasonably achievable from pharmaceutical treatment and from within the amount of funding provided&rdquo;.</p>\r\n<p>A funding application or proposal is considered ready for prioritisation when sufficient information is available to permit it to be reviewed against Pharmac's Factors for Consideration and to inform a comparison with other possible investment decisions.</p>\r\n<p>There is no guarantee when or if a ranked medicine will be funded.&nbsp;&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/prioritisation/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/prioritisation/</a></p>",
+    "position": 3,
+    "name": "Options Compared",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": "<p>This application has been ranked, according to the patient group as defined by the <a href=\"https://pharmac.govt.nz/assets/ptac-diabetes-subcommittee-minutes-2019-03.pdf\" target=\"_blank\">Diabetes Subcommittee at its March 2019 meeting</a>.</p>",
+          "fs": "<p>This application has been ranked, according to the patient group as defined by the <a href=\"https://pharmac.govt.nz/assets/ptac-diabetes-subcommittee-minutes-2019-03.pdf\" target=\"_blank\">Diabetes Subcommittee at its March 2019 meeting</a>.</p>",
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Jan 2020",
+          "fs": "Jan 2020",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "The relative ranking of the pharmaceutical application has been completed.",
+          "fs": "The relative ranking of the pharmaceutical application has been completed.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000Mc0Gw2AJ"
+          },
+          "Id": "a0POZ00000Mc0Gw2AJ",
+          "Event_Date__c": "2020-01-24",
+          "Event_Description__c": "The relative ranking of the pharmaceutical application has been completed.",
+          "Stage__c": "Options Compared",
+          "Summary__c": "<p>This application has been ranked, according to the patient group as defined by the <a href=\"https://pharmac.govt.nz/assets/ptac-diabetes-subcommittee-minutes-2019-03.pdf\" target=\"_blank\">Diabetes Subcommittee at its March 2019 meeting</a>.</p>",
+          "Formatted_Date__c": "Jan 2020",
+          "Status_History__c": "a132P000000BPt8QAG"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Jun 2020",
+          "fs": "Jun 2020",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "The relative ranking of the pharmaceutical application has been completed.",
+          "fs": "The relative ranking of the pharmaceutical application has been completed.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000Mc0Gy2AJ"
+          },
+          "Id": "a0POZ00000Mc0Gy2AJ",
+          "Event_Date__c": "2020-06-23",
+          "Event_Description__c": "The relative ranking of the pharmaceutical application has been completed.",
+          "Stage__c": "Options Compared",
+          "Formatted_Date__c": "Jun 2020",
+          "Status_History__c": "a132P000000BtQVQA0"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Mar 2022",
+          "fs": "Mar 2022",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "The relative ranking of the pharmaceutical application has been completed.",
+          "fs": "The relative ranking of the pharmaceutical application has been completed.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000Mc0Gz2AJ"
+          },
+          "Id": "a0POZ00000Mc0Gz2AJ",
+          "Event_Date__c": "2022-03-04",
+          "Event_Description__c": "The relative ranking of the pharmaceutical application has been completed.",
+          "Stage__c": "Options Compared",
+          "Formatted_Date__c": "Mar 2022",
+          "Status_History__c": "a132P000000DaPvQAK"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Sep 2024",
+          "fs": "Sep 2024",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "The relative ranking of the pharmaceutical application has been completed.",
+          "fs": "The relative ranking of the pharmaceutical application has been completed.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000Mc0H02AJ"
+          },
+          "Id": "a0POZ00000Mc0H02AJ",
+          "Event_Date__c": "2024-09-25",
+          "Event_Description__c": "The relative ranking of the pharmaceutical application has been completed.",
+          "Stage__c": "Options Compared",
+          "Formatted_Date__c": "Sep 2024",
+          "Status_History__c": "a13OZ00000EbMXlYAN"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Sep 2024",
+          "fs": "Sep 2024",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "The relative ranking of the pharmaceutical application has been completed.",
+          "fs": "The relative ranking of the pharmaceutical application has been completed.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000Mc0H12AJ"
+          },
+          "Id": "a0POZ00000Mc0H12AJ",
+          "Event_Date__c": "2024-09-25",
+          "Event_Description__c": "The relative ranking of the pharmaceutical application has been completed.",
+          "Stage__c": "Options Compared",
+          "Formatted_Date__c": "Sep 2024",
+          "Status_History__c": "a13OZ00000EbsnpYAB"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Dec 2024",
+          "fs": "Dec 2024",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "The relative ranking of the pharmaceutical application has been completed.",
+          "fs": "The relative ranking of the pharmaceutical application has been completed.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000Mc0H42AJ"
+          },
+          "Id": "a0POZ00000Mc0H42AJ",
+          "Event_Date__c": "2024-12-09",
+          "Event_Description__c": "The relative ranking of the pharmaceutical application has been completed.",
+          "Stage__c": "Options Compared",
+          "Formatted_Date__c": "Dec 2024",
+          "Status_History__c": "a13OZ00000HVeIsYAL"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Dec 2024",
+          "fs": "Dec 2024",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "The relative ranking of the pharmaceutical application has been completed.",
+          "fs": "The relative ranking of the pharmaceutical application has been completed.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000Mc0H52AJ"
+          },
+          "Id": "a0POZ00000Mc0H52AJ",
+          "Event_Date__c": "2024-12-11",
+          "Event_Description__c": "The relative ranking of the pharmaceutical application has been completed.",
+          "Stage__c": "Options Compared",
+          "Formatted_Date__c": "Dec 2024",
+          "Status_History__c": "a13OZ00000HcK7CYAV"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Feb 2025",
+          "fs": "Feb 2025",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "The relative ranking of the pharmaceutical application has been completed.",
+          "fs": "The relative ranking of the pharmaceutical application has been completed.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000Mc0H62AJ"
+          },
+          "Id": "a0POZ00000Mc0H62AJ",
+          "Event_Date__c": "2025-02-05",
+          "Event_Description__c": "The relative ranking of the pharmaceutical application has been completed.",
+          "Stage__c": "Options Compared",
+          "Formatted_Date__c": "Feb 2025",
+          "Status_History__c": "a13OZ00000JhdEUYAZ"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Feb 2025",
+          "fs": "Feb 2025",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "The relative ranking of the pharmaceutical application has been completed.",
+          "fs": "The relative ranking of the pharmaceutical application has been completed.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000Mc0H72AJ"
+          },
+          "Id": "a0POZ00000Mc0H72AJ",
+          "Event_Date__c": "2025-02-05",
+          "Event_Description__c": "The relative ranking of the pharmaceutical application has been completed.",
+          "Stage__c": "Options Compared",
+          "Formatted_Date__c": "Feb 2025",
+          "Status_History__c": "a13OZ00000JhjTbYAJ"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Feb 2025",
+          "fs": "Feb 2025",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "The relative ranking of the pharmaceutical application has been completed.",
+          "fs": "The relative ranking of the pharmaceutical application has been completed.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000Mc0H82AJ"
+          },
+          "Id": "a0POZ00000Mc0H82AJ",
+          "Event_Date__c": "2025-02-19",
+          "Event_Description__c": "The relative ranking of the pharmaceutical application has been completed.",
+          "Stage__c": "Options Compared",
+          "Formatted_Date__c": "Feb 2025",
+          "Status_History__c": "a13OZ00000KHY6iYAH"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Jan 2020",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Pharmac is consulting on a proposal to either approve or decline the application.&nbsp;We seek the views of all people who have an interest in our proposals, or who may be affected by them, to obtain feedback on our proposed approaches.</p>\r\n<p><a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/having-your-say/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/having-your-say/</a></p>",
+    "position": 4,
+    "name": "Under Consultation",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": "<p><a href=\"https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/proposal-to-decline-inactive-applications-oct24\" target=\"_blank\">Consultation</a></p>",
+          "fs": "<p><a href=\"https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/proposal-to-decline-inactive-applications-oct24\" target=\"_blank\">Consultation</a></p>",
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Oct 2024",
+          "fs": "Oct 2024",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Public consultation for this application is active.",
+          "fs": "Public consultation for this application is active.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000Mc0H22AJ"
+          },
+          "Id": "a0POZ00000Mc0H22AJ",
+          "Event_Date__c": "2024-10-17",
+          "Event_Description__c": "Public consultation for this application is active.",
+          "Stage__c": "Under Consultation",
+          "Links__c": "<p><a href=\"https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/proposal-to-decline-inactive-applications-oct24\" target=\"_blank\">Consultation</a></p>",
+          "Formatted_Date__c": "Oct 2024",
+          "Status_History__c": "a13OZ00000FTGQXYA5"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Oct 2024",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Following the consultation process, Pharmac staff considers the feedback and identifies any additional information required as part of a gap analysis.&nbsp; The proposal may require further clinical advice, research, and assessment.</p>",
+    "position": 5,
+    "name": "Reviewing Consultation Feedback",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Nov 2024",
+          "fs": "Nov 2024",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Public consultation for this application is now closed. Pharmac is reviewing consultation feedback.",
+          "fs": "Public consultation for this application is now closed. Pharmac is reviewing consultation feedback.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000Mc0H32AJ"
+          },
+          "Id": "a0POZ00000Mc0H32AJ",
+          "Event_Date__c": "2024-11-30",
+          "Event_Description__c": "Public consultation for this application is now closed. Pharmac is reviewing consultation feedback.",
+          "Stage__c": "Reviewing Consultation Feedback",
+          "Formatted_Date__c": "Nov 2024",
+          "Status_History__c": "a13OZ00000HCkIFYA1"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Nov 2024",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>We refer to our decisions about whether and how particular pharmaceuticals are publicly-funded, as &ldquo;funding decisions&rdquo;.</p>\r\n<p>We consider and assess all funding decisions using the&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/about/operating-policies-and-procedures/#factorsfc\" rel=\"nofollow\">Factors for Consideration</a>. When we do so, we carefully evaluate clinical and other evidence for the benefits and suitability of a proposal, and to identify and understand the people who will be affected by it.</p>\r\n<p>While our main task is to allocate pharmaceutical funding, we consider the benefits and costs across the whole health system now and with a long-term focus, including the effects for hospitals and primary care, and consider direct costs to patients as well as to all health sector budgets.</p>\r\n<p>Final funding decisions are made by the Pharmac Board or delegated to senior Pharmac staff as required by the Board.</p>\r\n<p>&nbsp;</p>",
+    "position": 6,
+    "name": "Decision",
+    "last": true,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": "<p><a href=\"https://www.pharmac.govt.nz/news-and-resources/consultations-and-decisions/2025-06-decision-to-decline-inactive-applications-for-the-funding-of-some-medicines\" target=\"_blank\">Decision notification</a></p>",
+          "fs": "<p><a href=\"https://www.pharmac.govt.nz/news-and-resources/consultations-and-decisions/2025-06-decision-to-decline-inactive-applications-for-the-funding-of-some-medicines\" target=\"_blank\">Decision notification</a></p>",
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Jun 2025",
+          "fs": "Jun 2025",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "The funding application has been declined.",
+          "fs": "The funding application has been declined.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000Mc0H92AJ"
+          },
+          "Id": "a0POZ00000Mc0H92AJ",
+          "Event_Date__c": "2025-06-17",
+          "Event_Description__c": "The funding application has been declined.",
+          "Stage__c": "Decision",
+          "Links__c": "<p><a href=\"https://www.pharmac.govt.nz/news-and-resources/consultations-and-decisions/2025-06-decision-to-decline-inactive-applications-for-the-funding-of-some-medicines\" target=\"_blank\">Decision notification</a></p>",
+          "Formatted_Date__c": "Jun 2025",
+          "Status_History__c": "a13OZ00000OhM97YAF"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Jun 2025",
+    "collapsed": false,
+    "checked": true
+  }
+]

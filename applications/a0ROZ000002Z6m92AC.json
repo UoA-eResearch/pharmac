@@ -1,0 +1,811 @@
+[
+  {
+    "text": "<p>New funding applications are referred to one of Pharmac's Funding Application Advisors (FAAs), who'll review the application to ensure they have the relevant information to undertake a preliminary analysis.&nbsp; They may seek more information if required.</p>\r\n<p><a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/new-funding-applications/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/new-funding-applications/</a></p>",
+    "position": 0,
+    "name": "Application Received",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Aug 2018",
+          "fs": "Aug 2018",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Application received",
+          "fs": "Application received",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ000007TiMk2AK"
+          },
+          "Id": "a0POZ000007TiMk2AK",
+          "Event_Date__c": "2018-08-13",
+          "Event_Description__c": "Application received",
+          "Stage__c": "Application Received",
+          "Formatted_Date__c": "Aug 2018",
+          "Status_History__c": "a132P000000ArVfQAK"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Aug 2018",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Pharmac is identifying and gathering information required to get clinical advice.  The <a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/pharmacology-and-therapeutics-advisory-committee-ptac/\" rel=\"nofollow\">Pharmacology and Therapeutics Advisory Committee (PTAC)</a>  meets quarterly. There are also around 20 expert <a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/specialist-advisory-committees/\" rel=\"nofollow\">Specialist Advisory Committees (SACs)</a>, previously expert Subcommittees, which provide clinical evaluations in specialist areas. Specialist Advisory Committees meet as required to discuss issues referred to them by PTAC or Pharmac.</p>\n<p style=\"height: 20px\">&nbsp;</p>\n<p>In November 2021, we introduced separate terms of reference for the SACs to make clear that these committees have different, but complementary, roles, expertise and perspectives to PTAC.</p>\n<p style=\"height: 15px\">&nbsp;</p>\n<p>PTAC and SACs may make recommendations to Pharmac that differ from each other when looking at the same evidence. Pharmac considers the recommendations provided by all our clinical advisory committees when assessing applications.</p>\n<p style=\"height: 20px\">&nbsp;</p>\n<p><a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/pharmacology-and-therapeutics-advisory-committee-ptac/ptac-terms-of-reference-july-2021/\" rel=\"nofollow\">PTAC</a>  and <a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/specialist-advisory-committees/specialist-advisory-committee-terms-of-reference//\" rel=\"nofollow\">Specialist Advisory Committees</a> records of the meeting will be published on this website in accordance with the Terms of Reference.</p>",
+    "position": 1,
+    "name": "Seeking Clinical Advice",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Mar 2019",
+          "fs": "Mar 2019",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Clinical advice required",
+          "fs": "Clinical advice required",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ000007TiMl2AK"
+          },
+          "Id": "a0POZ000007TiMl2AK",
+          "Event_Date__c": "2019-03-05",
+          "Event_Description__c": "Clinical advice required",
+          "Stage__c": "Seeking Clinical Advice",
+          "Formatted_Date__c": "Mar 2019",
+          "Status_History__c": "a132P000000ArcxQAC"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": "<p>The Committee <b>recommended</b> that fluticasone furoate (FF) / umeclidinium bromide (UMEC) / vilanterol trifenatate (VI) (Trelegy Ellipta) be listed as<b> cost neutral</b> to future prices of triple therapy agents that include an inhaled corticosteroid (ICS), long-acting beta-adrenoceptor agonist (LABA) and long-acting muscarinic antagonist (LAMA) that are listed on the Pharmaceutical Schedule as either individual components or as combination inhalers.\u00a0\u00a0</p>",
+          "fs": "<p>The Committee <b>recommended</b> that fluticasone furoate (FF) / umeclidinium bromide (UMEC) / vilanterol trifenatate (VI) (Trelegy Ellipta) be listed as<b> cost neutral</b> to future prices of triple therapy agents that include an inhaled corticosteroid (ICS), long-acting beta-adrenoceptor agonist (LABA) and long-acting muscarinic antagonist (LAMA) that are listed on the Pharmaceutical Schedule as either individual components or as combination inhalers.\u00a0\u00a0</p>",
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": "<p><span style=\"font-size: 7pt;\">\u00a0</span>The Committee noted that COPD attributes the third and fourth highest loss of health in New Zealand in males and females, respectively (NZ Ministry of Health 2016) and is the second leading cause of amenable mortality in New Zealand (NZ Ministry of Health 2018).</p><p><br></p><p>The Committee noted that the Impact of Respiratory Disease in New Zealand: 2016 update report estimated that in 2015 there were nearly 37,000 New Zealanders living with severe and ever-hospitalised COPD. The Committee noted that approximately 96% of COPD cases are in those over the age of 45, making the population prevalence of severe and ever-hospitalised COPD 1.9% in people aged 45 and over.</p><p><br></p><p>The Committee noted that M\u0101ori and Pacific populations have higher rates of COPD at 3.7 times and 2.8 times the non-M\u0101ori, non-Pacific and non-Asian rate (non-MPA), respectively. Members noted that M\u0101ori and Pacific populations also have higher rates of morbidity and mortality, and develop COPD significantly earlier: the average age of M\u0101ori with COPD was 63.4 years, compared with 66.2 for Pacific peoples, 69.7 for Asian peoples, and 73.3 for individuals with other ethnicities (Barnard and Zhang, The Impact of Respiratory Disease in New Zealand: 2016 update).</p><p><br></p><p>The Committee noted that a high degree of inequity across both the socio-economic spectrum and different ethnic groups has been observed for COPD. The Committee noted that COPD rates are 5.7 times higher in the most deprived NZDep quintile than in the least deprived, with the gradient persisting across M\u0101ori, Pacific, Asian and non-MPA ethnic groups.</p><p><br></p><p>The Committee noted that Trelegy Ellipta contains an inhaled corticosteroid (ICS), long-acting beta-adrenoceptor agonist (LABA) and long-acting muscarinic antagonist (LAMA) in one inhaler. Members noted that Trelegy Ellipta contains 100mcg fluticasone furoate, 62.5mcg umeclidinium bromide and 25mcg vilanterol trifenatate, powder for inhalation.</p><p><br></p><p>The Committee noted that prior to 2016, LABA and ICS (as single inhalers or in combination) were easier to access/prescribe than LAMA (which required severe COPD confirmed by spirometry), which may have meant that ICS has been prescribed inappropriately for patients with mild-moderate COPD.</p><p><br></p><p>The Committee reviewed the NICE 2018 guidelines (NICE 2018. Chronic obstructive pulmonary disease in over 16s: diagnosis and management: www.nice.org.uk/NG115) for non-pharmacological management and use of inhaled therapies for COPD and noted that the treatment paradigm steps up from 1. short-acting beta-adrenoceptor agonists(SABA)/short-acting muscarinic antagonists (SAMA), then 2. LAMA, LABA, both LAMA and LABA used in combination, and only then 3. an ICS is introduced. The Committee noted that the use of ICS in COPD management is less clear than LABA and LAMA therapy, and noted that most guidelines advise triple therapy for severe COPD (GOLD D: \u22652 courses of oral steroids per year or \u22651 hospital admission per year and more symptoms [mMRC\u2265 2 or CAT\u2265 10]). Members noted that the use of ICS in COPD is associated with higher rates of pneumonia.</p><p><br></p><p><span style=\"font-size: 11pt; color: rgb(62, 62, 60); font-family: Arial, sans-serif;\">The Committee noted the supplier has advised that the pivotal evidence for the use of Trelegy Ellipta is provided by the IMPACT trial (Lipson et al. N Engl J Med. 2018;378:1671-80). Members noted that the IMPACT trial was a large Phase 3 randomised control trial of high quality. The Committee noted that the trial compared triple therapy with FF/UMEC /VI (ICS + LAMA + LABA) vs dual therapy with VI/FF (LABA + ICS) or with UMEC/VI (LAMA + LABA) and each intervention was administered in a single Ellipta inhaler. The Committee considered that dual therapy was the wrong comparator for the study and the appropriate comparator would have been triple therapy administered as separate components. Members noted that the rate of moderate or severe exacerbation per year was 0.91 with triple therapy vs 1.07 (FF + VI, p&lt;0.001) vs\u00a01.21 (UMEC + VI, p&lt;0.001), and the mean change from baseline trough forced expiratory volume (FEV1) between ICS/LABA/LAMA and ICS/LABA was 97ml and LAMA/LABA was 54ml (noting that the minimal clinically important difference [MCID] was 100 mLs).</span></p><p><br></p><p>The Committee reviewed the health-related quality of life (HRQoL) data from the Lipson et al publication and noted that the mean change from baseline was -5.5 for triple therapy vs -3.7 for both dual therapy combinations, noting that the Minimally Clinically Important Difference (MCID) was 5 on 0-100 score. Members noted that the rate of pneumonia was more than 50% higher with ICS-containing inhalers than with the LAMA/LABA combination (9.6 vs. 6.1 per 100 patient-years). Members noted that a greater reduction in exacerbation rate with triple therapy was observed for patients with eosinophils &gt;150 cells/\u00b5L.</p><p><br></p><p>The Committee noted that 38% of patients enrolled in the trial were already receiving treatment with triple therapy and approximately 70% were receiving an inhaled glucocorticoid prior to enrolment. Members noted that patients with a history of asthma were included, and considered that of the LAMA/LABA group, many would have abruptly stopped their ICS at randomization. Members considered this could explain the early upsurge in exacerbations in that group and may explain the finding that ICS/LABA group had fewer exacerbations than the LAMA/LABA group, which is a different finding than was reported in the FLAME trial (Wedzicha et al. N Eng J Med. 2016;374:2222-34).</p><p><br></p><p><span style=\"font-size: 7pt;\">\u00a0</span>The Committee also reviewed the results of the FULFIL trial (Lipson et al. Am J Respir Crit Care Med. 2017;196:438-46) that compared once daily triple therapy as Trelegy vs twice daily FF/budesonide (ICS + LABA). Members noted that mean changes from baseline in FEV1 were 142 ml for patients administered Trelegy vs -29 ml for patients administered the dual therapy, and mean changes from baseline in St George\u2019s Respiratory Questionnaire (SGRQ) scores were -6.6 and -4.3, respectively.</p><p><br></p><p><span style=\"font-size: 7pt;\">\u00a0</span>The Committee considered that there are numerous ICS, LABA, LAMA, LABA/LAMA and ICS/LAMA inhalers listed on the Pharmaceutical Schedule that would have the same effect as Trelegy when used in appropriate combinations, and therefore funding Trelegy would not address an unmet health need.</p><p><br></p><p>The Committee considered that the patient number estimates provided by the supplier were underestimated and considered that over 50% of patients with COPD currently on triple therapy would be likely to change to a single inhaler.</p><p><br></p><p>Members noted that there is some evidence from an open-label, sponsor-designed, cross-over study that reported patient preference, reduced instruction time and less critical errors (errors likely to result in no or significantly reduced medication being inhaled) with the Ellipta inhaler device (van der Palen et al. Int J of COPD. 2018;13:2515-23).</p><p><br></p><p>The Committee reviewed a non-inferiority study of once daily FF/VI /UMEC (using a single inhaler) vs FF/VI and UMEC (using two inhalers) and noted that the single inhaler was found to be non-inferior to treatment with two inhalers in change from baseline of trough FEV1 after 24 weeks, and secondary endpoints, including exacerbation rates and HR-QoL (Bremner et al. Respir Res. 2018;19:19).</p><p><br></p><p>Members noted that patients with severe (GOLD D) COPD that are mixing up their inhalers may benefit from a single inhaler therapy.</p><p><br></p><p><span style=\"font-size: 7pt;\">\u00a0</span>The Committee considered that there are risks of side-effects, including pneumonia, with high dose ICS and noted that the fluticasone foroate 100 mcg provided per inhalation in the Trelegy inhaler is equal to 500 mcg fluticasone proprionate and would therefore be considered a very high dose of ICS.\u00a0<span style=\"font-size: 12px;\">.</span></p><p><br></p><p>The Committee considered that there was some clinical concern regarding triple therapy, and noted that an editorial by Suissa and Drazen, (N Eng J Med. 2018:378:1723-24) cautions that \u201calthough single-inhaler triple therapy offers simplicity in treating COPD, any potential benefit could be lost and potential undue harm induced if triple therapy is expanded to patients with GOLD groups A, B, and C COPD\u201d.</p><p><br></p><p>The Committee considered a double-blind, parallel group study (the Withdrawal of Inhaled Steroids during Optimized Bronchodilator Management [WISDOM] trial) (Magnussen et al. N Eng J Med. 2014;271:1285-94) investigating whether patients with COPD receiving both LAMA and LABA therapy with inhaled glucocorticoids would have similar outcomes regardless of whether the glucocorticoids were withdrawn or continued. Members noted that there was no difference in the primary end point of exacerbations but a significant 43 mL (MCID 100ml) mean fall in FEV1 after ICS withdrawal and no difference in pneumonia incidence. The Committee noted that post hoc analysis revealed a 43% increase in exacerbations after ICS withdrawal in those patients who had blood eosinophils of at least 300 cells/\u00b5L in conjunction with two or more exacerbations in the past year, whereas there was no difference in patients with eosinophils less than 300 cells/\u00b5L.</p><p><br></p><p>The Committee considered that there was high quality (GRADE 1) evidence that Trelegy is superior to dual therapy with ICS/LABA and LAMA/LAMA for rate of exacerbations, minor improvements in HRQoL and trough FEV1 favouring Trelegy. However, Members considered that the pivotal trial does not answer the question of how Trelegy compares to triple therapy with multiple inhalers for severe COPD, as is standard of care in NZ at present.</p><p><br></p><p>The Committee acknowledged that severe COPD impacts on the quality of life for family/whanau but considered that there was no evidence that single inhaler therapy produces health benefit for family/whanau/society over multiple inhalers.</p><p><br></p><p><span style=\"font-size: 7pt;\">\u00a0</span>The Committee considered that there is a risk is that prescribers/patients will switch to the single inhaler product, resulting in reduced opportunities for savings on other inhaled medicines for COPD that could be used to invest in other medicines. Members considered that the all in one triple therapy inhaler would not provide an added health benefit that is not addressed through currently funded products, and no premium should be paid for the combined product.</p><p><br></p><p>The Committee considered that Trelegy Ellipta would be used in combination with short-acting beta-adrenoceptor agonist inhalers, intermittent oral corticosteroids and with or without antibiotics. Members noted that Trelegy Ellipta would replace dual inhalers for patients already on triple therapy (ICS/LABA + LAMA combination or ICS + LAMA/LABA combination) and raised concern that it would replace LAMA/LABA as step up therapy.</p><p><br></p><p>The Committee considered that Trelegy Ellipta would not be appropriate as an initial therapy for COPD and considered that if it were to be open listed, patients with mild to moderate COPD would be starting on treatment with an ICS. The Committee requested that PHARMAC seek advice from the Respiratory Subcommittee to whether Special Authority criteria should be put in place to restrict use to COPD patients with severe disease to prevent inappropriate prescribing.</p><p><br></p><p>The Committee considered that there was no evidence base to support device delivery systems as a way to improve equity in COPD. Members considered that there are a number of other issues that are more important to address, such as accessibility of pulmonary rehabilitation programs, influenza vaccination, education, access to services and smoking cessation. Members were not convinced that adherence arguments could be used as a substitute for real life outcomes and considered that if adherence made a huge difference to COPD outcomes, that this would be reflected in the trials.</p>",
+          "fs": "<p><span style=\"font-size: 7pt;\">\u00a0</span>The Committee noted that COPD attributes the third and fourth highest loss of health in New Zealand in males and females, respectively (NZ Ministry of Health 2016) and is the second leading cause of amenable mortality in New Zealand (NZ Ministry of Health 2018).</p><p><br></p><p>The Committee noted that the Impact of Respiratory Disease in New Zealand: 2016 update report estimated that in 2015 there were nearly 37,000 New Zealanders living with severe and ever-hospitalised COPD. The Committee noted that approximately 96% of COPD cases are in those over the age of 45, making the population prevalence of severe and ever-hospitalised COPD 1.9% in people aged 45 and over.</p><p><br></p><p>The Committee noted that M\u0101ori and Pacific populations have higher rates of COPD at 3.7 times and 2.8 times the non-M\u0101ori, non-Pacific and non-Asian rate (non-MPA), respectively. Members noted that M\u0101ori and Pacific populations also have higher rates of morbidity and mortality, and develop COPD significantly earlier: the average age of M\u0101ori with COPD was 63.4 years, compared with 66.2 for Pacific peoples, 69.7 for Asian peoples, and 73.3 for individuals with other ethnicities (Barnard and Zhang, The Impact of Respiratory Disease in New Zealand: 2016 update).</p><p><br></p><p>The Committee noted that a high degree of inequity across both the socio-economic spectrum and different ethnic groups has been observed for COPD. The Committee noted that COPD rates are 5.7 times higher in the most deprived NZDep quintile than in the least deprived, with the gradient persisting across M\u0101ori, Pacific, Asian and non-MPA ethnic groups.</p><p><br></p><p>The Committee noted that Trelegy Ellipta contains an inhaled corticosteroid (ICS), long-acting beta-adrenoceptor agonist (LABA) and long-acting muscarinic antagonist (LAMA) in one inhaler. Members noted that Trelegy Ellipta contains 100mcg fluticasone furoate, 62.5mcg umeclidinium bromide and 25mcg vilanterol trifenatate, powder for inhalation.</p><p><br></p><p>The Committee noted that prior to 2016, LABA and ICS (as single inhalers or in combination) were easier to access/prescribe than LAMA (which required severe COPD confirmed by spirometry), which may have meant that ICS has been prescribed inappropriately for patients with mild-moderate COPD.</p><p><br></p><p>The Committee reviewed the NICE 2018 guidelines (NICE 2018. Chronic obstructive pulmonary disease in over 16s: diagnosis and management: www.nice.org.uk/NG115) for non-pharmacological management and use of inhaled therapies for COPD and noted that the treatment paradigm steps up from 1. short-acting beta-adrenoceptor agonists(SABA)/short-acting muscarinic antagonists (SAMA), then 2. LAMA, LABA, both LAMA and LABA used in combination, and only then 3. an ICS is introduced. The Committee noted that the use of ICS in COPD management is less clear than LABA and LAMA therapy, and noted that most guidelines advise triple therapy for severe COPD (GOLD D: \u22652 courses of oral steroids per year or \u22651 hospital admission per year and more symptoms [mMRC\u2265 2 or CAT\u2265 10]). Members noted that the use of ICS in COPD is associated with higher rates of pneumonia.</p><p><br></p><p><span style=\"font-size: 11pt; color: rgb(62, 62, 60); font-family: Arial, sans-serif;\">The Committee noted the supplier has advised that the pivotal evidence for the use of Trelegy Ellipta is provided by the IMPACT trial (Lipson et al. N Engl J Med. 2018;378:1671-80). Members noted that the IMPACT trial was a large Phase 3 randomised control trial of high quality. The Committee noted that the trial compared triple therapy with FF/UMEC /VI (ICS + LAMA + LABA) vs dual therapy with VI/FF (LABA + ICS) or with UMEC/VI (LAMA + LABA) and each intervention was administered in a single Ellipta inhaler. The Committee considered that dual therapy was the wrong comparator for the study and the appropriate comparator would have been triple therapy administered as separate components. Members noted that the rate of moderate or severe exacerbation per year was 0.91 with triple therapy vs 1.07 (FF + VI, p&lt;0.001) vs\u00a01.21 (UMEC + VI, p&lt;0.001), and the mean change from baseline trough forced expiratory volume (FEV1) between ICS/LABA/LAMA and ICS/LABA was 97ml and LAMA/LABA was 54ml (noting that the minimal clinically important difference [MCID] was 100 mLs).</span></p><p><br></p><p>The Committee reviewed the health-related quality of life (HRQoL) data from the Lipson et al publication and noted that the mean change from baseline was -5.5 for triple therapy vs -3.7 for both dual therapy combinations, noting that the Minimally Clinically Important Difference (MCID) was 5 on 0-100 score. Members noted that the rate of pneumonia was more than 50% higher with ICS-containing inhalers than with the LAMA/LABA combination (9.6 vs. 6.1 per 100 patient-years). Members noted that a greater reduction in exacerbation rate with triple therapy was observed for patients with eosinophils &gt;150 cells/\u00b5L.</p><p><br></p><p>The Committee noted that 38% of patients enrolled in the trial were already receiving treatment with triple therapy and approximately 70% were receiving an inhaled glucocorticoid prior to enrolment. Members noted that patients with a history of asthma were included, and considered that of the LAMA/LABA group, many would have abruptly stopped their ICS at randomization. Members considered this could explain the early upsurge in exacerbations in that group and may explain the finding that ICS/LABA group had fewer exacerbations than the LAMA/LABA group, which is a different finding than was reported in the FLAME trial (Wedzicha et al. N Eng J Med. 2016;374:2222-34).</p><p><br></p><p><span style=\"font-size: 7pt;\">\u00a0</span>The Committee also reviewed the results of the FULFIL trial (Lipson et al. Am J Respir Crit Care Med. 2017;196:438-46) that compared once daily triple therapy as Trelegy vs twice daily FF/budesonide (ICS + LABA). Members noted that mean changes from baseline in FEV1 were 142 ml for patients administered Trelegy vs -29 ml for patients administered the dual therapy, and mean changes from baseline in St George\u2019s Respiratory Questionnaire (SGRQ) scores were -6.6 and -4.3, respectively.</p><p><br></p><p><span style=\"font-size: 7pt;\">\u00a0</span>The Committee considered that there are numerous ICS, LABA, LAMA, LABA/LAMA and ICS/LAMA inhalers listed on the Pharmaceutical Schedule that would have the same effect as Trelegy when used in appropriate combinations, and therefore funding Trelegy would not address an unmet health need.</p><p><br></p><p>The Committee considered that the patient number estimates provided by the supplier were underestimated and considered that over 50% of patients with COPD currently on triple therapy would be likely to change to a single inhaler.</p><p><br></p><p>Members noted that there is some evidence from an open-label, sponsor-designed, cross-over study that reported patient preference, reduced instruction time and less critical errors (errors likely to result in no or significantly reduced medication being inhaled) with the Ellipta inhaler device (van der Palen et al. Int J of COPD. 2018;13:2515-23).</p><p><br></p><p>The Committee reviewed a non-inferiority study of once daily FF/VI /UMEC (using a single inhaler) vs FF/VI and UMEC (using two inhalers) and noted that the single inhaler was found to be non-inferior to treatment with two inhalers in change from baseline of trough FEV1 after 24 weeks, and secondary endpoints, including exacerbation rates and HR-QoL (Bremner et al. Respir Res. 2018;19:19).</p><p><br></p><p>Members noted that patients with severe (GOLD D) COPD that are mixing up their inhalers may benefit from a single inhaler therapy.</p><p><br></p><p><span style=\"font-size: 7pt;\">\u00a0</span>The Committee considered that there are risks of side-effects, including pneumonia, with high dose ICS and noted that the fluticasone foroate 100 mcg provided per inhalation in the Trelegy inhaler is equal to 500 mcg fluticasone proprionate and would therefore be considered a very high dose of ICS.\u00a0<span style=\"font-size: 12px;\">.</span></p><p><br></p><p>The Committee considered that there was some clinical concern regarding triple therapy, and noted that an editorial by Suissa and Drazen, (N Eng J Med. 2018:378:1723-24) cautions that \u201calthough single-inhaler triple therapy offers simplicity in treating COPD, any potential benefit could be lost and potential undue harm induced if triple therapy is expanded to patients with GOLD groups A, B, and C COPD\u201d.</p><p><br></p><p>The Committee considered a double-blind, parallel group study (the Withdrawal of Inhaled Steroids during Optimized Bronchodilator Management [WISDOM] trial) (Magnussen et al. N Eng J Med. 2014;271:1285-94) investigating whether patients with COPD receiving both LAMA and LABA therapy with inhaled glucocorticoids would have similar outcomes regardless of whether the glucocorticoids were withdrawn or continued. Members noted that there was no difference in the primary end point of exacerbations but a significant 43 mL (MCID 100ml) mean fall in FEV1 after ICS withdrawal and no difference in pneumonia incidence. The Committee noted that post hoc analysis revealed a 43% increase in exacerbations after ICS withdrawal in those patients who had blood eosinophils of at least 300 cells/\u00b5L in conjunction with two or more exacerbations in the past year, whereas there was no difference in patients with eosinophils less than 300 cells/\u00b5L.</p><p><br></p><p>The Committee considered that there was high quality (GRADE 1) evidence that Trelegy is superior to dual therapy with ICS/LABA and LAMA/LAMA for rate of exacerbations, minor improvements in HRQoL and trough FEV1 favouring Trelegy. However, Members considered that the pivotal trial does not answer the question of how Trelegy compares to triple therapy with multiple inhalers for severe COPD, as is standard of care in NZ at present.</p><p><br></p><p>The Committee acknowledged that severe COPD impacts on the quality of life for family/whanau but considered that there was no evidence that single inhaler therapy produces health benefit for family/whanau/society over multiple inhalers.</p><p><br></p><p><span style=\"font-size: 7pt;\">\u00a0</span>The Committee considered that there is a risk is that prescribers/patients will switch to the single inhaler product, resulting in reduced opportunities for savings on other inhaled medicines for COPD that could be used to invest in other medicines. Members considered that the all in one triple therapy inhaler would not provide an added health benefit that is not addressed through currently funded products, and no premium should be paid for the combined product.</p><p><br></p><p>The Committee considered that Trelegy Ellipta would be used in combination with short-acting beta-adrenoceptor agonist inhalers, intermittent oral corticosteroids and with or without antibiotics. Members noted that Trelegy Ellipta would replace dual inhalers for patients already on triple therapy (ICS/LABA + LAMA combination or ICS + LAMA/LABA combination) and raised concern that it would replace LAMA/LABA as step up therapy.</p><p><br></p><p>The Committee considered that Trelegy Ellipta would not be appropriate as an initial therapy for COPD and considered that if it were to be open listed, patients with mild to moderate COPD would be starting on treatment with an ICS. The Committee requested that PHARMAC seek advice from the Respiratory Subcommittee to whether Special Authority criteria should be put in place to restrict use to COPD patients with severe disease to prevent inappropriate prescribing.</p><p><br></p><p>The Committee considered that there was no evidence base to support device delivery systems as a way to improve equity in COPD. Members considered that there are a number of other issues that are more important to address, such as accessibility of pulmonary rehabilitation programs, influenza vaccination, education, access to services and smoking cessation. Members were not convinced that adherence arguments could be used as a substitute for real life outcomes and considered that if adherence made a huge difference to COPD outcomes, that this would be reflected in the trials.</p>",
+          "change": null
+        },
+        "Published_Application": {
+          "s": "<p>The Committee reviewed the application from GSK NZ Ltd for the funding of a combined inhaler containing fluticasone furoate / umeclidinium bromide / vilanterol trifenatate (Trelegy Ellipta) for the management and treatment of Chronic Obstructive Pulmonary Disease (COPD).</p><p><br></p><p>The Committee took into account, where applicable, PHARMAC\u2019s relevant decision-making framework when considering this agenda item.\u00a0</p>",
+          "fs": "<p>The Committee reviewed the application from GSK NZ Ltd for the funding of a combined inhaler containing fluticasone furoate / umeclidinium bromide / vilanterol trifenatate (Trelegy Ellipta) for the management and treatment of Chronic Obstructive Pulmonary Disease (COPD).</p><p><br></p><p>The Committee took into account, where applicable, PHARMAC\u2019s relevant decision-making framework when considering this agenda item.\u00a0</p>",
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": "Cost Neutral",
+          "fs": "Cost Neutral",
+          "change": null
+        },
+        "Links": {
+          "s": "<a href=\"https://www.pharmac.govt.nz/assets/ptac-minutes-2019-05.pdf\" target=\"_blank\">PTAC minutes</a>",
+          "fs": "<a href=\"https://www.pharmac.govt.nz/assets/ptac-minutes-2019-05.pdf\" target=\"_blank\">PTAC minutes</a>",
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "May 2019",
+          "fs": "May 2019",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Clinical advice received from Pharmacology and Therapeutics Advisory Committee (PTAC) at meeting Thursday 23 May 2019.",
+          "fs": "Clinical advice received from Pharmacology and Therapeutics Advisory Committee (PTAC) at meeting Thursday 23 May 2019.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ000007TiMm2AK"
+          },
+          "Id": "a0POZ000007TiMm2AK",
+          "Event_Date__c": "2019-05-23",
+          "Event_Description__c": "Clinical advice received from Pharmacology and Therapeutics Advisory Committee (PTAC) at meeting Thursday 23 May 2019.",
+          "Stage__c": "Seeking Clinical Advice",
+          "Links__c": "<a href=\"https://www.pharmac.govt.nz/assets/ptac-minutes-2019-05.pdf\" target=\"_blank\">PTAC minutes</a>",
+          "Outcome__c": "Cost Neutral",
+          "Formatted_Date__c": "May 2019",
+          "Published_Recommendation__c": "<p>The Committee <b>recommended</b> that fluticasone furoate (FF) / umeclidinium bromide (UMEC) / vilanterol trifenatate (VI) (Trelegy Ellipta) be listed as<b> cost neutral</b> to future prices of triple therapy agents that include an inhaled corticosteroid (ICS), long-acting beta-adrenoceptor agonist (LABA) and long-acting muscarinic antagonist (LAMA) that are listed on the Pharmaceutical Schedule as either individual components or as combination inhalers.\u00a0\u00a0</p>",
+          "Published_Application__c": "<p>The Committee reviewed the application from GSK NZ Ltd for the funding of a combined inhaler containing fluticasone furoate / umeclidinium bromide / vilanterol trifenatate (Trelegy Ellipta) for the management and treatment of Chronic Obstructive Pulmonary Disease (COPD).</p><p><br></p><p>The Committee took into account, where applicable, PHARMAC\u2019s relevant decision-making framework when considering this agenda item.\u00a0</p>",
+          "Published_Discussion__c": "<p><span style=\"font-size: 7pt;\">\u00a0</span>The Committee noted that COPD attributes the third and fourth highest loss of health in New Zealand in males and females, respectively (NZ Ministry of Health 2016) and is the second leading cause of amenable mortality in New Zealand (NZ Ministry of Health 2018).</p><p><br></p><p>The Committee noted that the Impact of Respiratory Disease in New Zealand: 2016 update report estimated that in 2015 there were nearly 37,000 New Zealanders living with severe and ever-hospitalised COPD. The Committee noted that approximately 96% of COPD cases are in those over the age of 45, making the population prevalence of severe and ever-hospitalised COPD 1.9% in people aged 45 and over.</p><p><br></p><p>The Committee noted that M\u0101ori and Pacific populations have higher rates of COPD at 3.7 times and 2.8 times the non-M\u0101ori, non-Pacific and non-Asian rate (non-MPA), respectively. Members noted that M\u0101ori and Pacific populations also have higher rates of morbidity and mortality, and develop COPD significantly earlier: the average age of M\u0101ori with COPD was 63.4 years, compared with 66.2 for Pacific peoples, 69.7 for Asian peoples, and 73.3 for individuals with other ethnicities (Barnard and Zhang, The Impact of Respiratory Disease in New Zealand: 2016 update).</p><p><br></p><p>The Committee noted that a high degree of inequity across both the socio-economic spectrum and different ethnic groups has been observed for COPD. The Committee noted that COPD rates are 5.7 times higher in the most deprived NZDep quintile than in the least deprived, with the gradient persisting across M\u0101ori, Pacific, Asian and non-MPA ethnic groups.</p><p><br></p><p>The Committee noted that Trelegy Ellipta contains an inhaled corticosteroid (ICS), long-acting beta-adrenoceptor agonist (LABA) and long-acting muscarinic antagonist (LAMA) in one inhaler. Members noted that Trelegy Ellipta contains 100mcg fluticasone furoate, 62.5mcg umeclidinium bromide and 25mcg vilanterol trifenatate, powder for inhalation.</p><p><br></p><p>The Committee noted that prior to 2016, LABA and ICS (as single inhalers or in combination) were easier to access/prescribe than LAMA (which required severe COPD confirmed by spirometry), which may have meant that ICS has been prescribed inappropriately for patients with mild-moderate COPD.</p><p><br></p><p>The Committee reviewed the NICE 2018 guidelines (NICE 2018. Chronic obstructive pulmonary disease in over 16s: diagnosis and management: www.nice.org.uk/NG115) for non-pharmacological management and use of inhaled therapies for COPD and noted that the treatment paradigm steps up from 1. short-acting beta-adrenoceptor agonists(SABA)/short-acting muscarinic antagonists (SAMA), then 2. LAMA, LABA, both LAMA and LABA used in combination, and only then 3. an ICS is introduced. The Committee noted that the use of ICS in COPD management is less clear than LABA and LAMA therapy, and noted that most guidelines advise triple therapy for severe COPD (GOLD D: \u22652 courses of oral steroids per year or \u22651 hospital admission per year and more symptoms [mMRC\u2265 2 or CAT\u2265 10]). Members noted that the use of ICS in COPD is associated with higher rates of pneumonia.</p><p><br></p><p><span style=\"font-size: 11pt; color: rgb(62, 62, 60); font-family: Arial, sans-serif;\">The Committee noted the supplier has advised that the pivotal evidence for the use of Trelegy Ellipta is provided by the IMPACT trial (Lipson et al. N Engl J Med. 2018;378:1671-80). Members noted that the IMPACT trial was a large Phase 3 randomised control trial of high quality. The Committee noted that the trial compared triple therapy with FF/UMEC /VI (ICS + LAMA + LABA) vs dual therapy with VI/FF (LABA + ICS) or with UMEC/VI (LAMA + LABA) and each intervention was administered in a single Ellipta inhaler. The Committee considered that dual therapy was the wrong comparator for the study and the appropriate comparator would have been triple therapy administered as separate components. Members noted that the rate of moderate or severe exacerbation per year was 0.91 with triple therapy vs 1.07 (FF + VI, p&lt;0.001) vs\u00a01.21 (UMEC + VI, p&lt;0.001), and the mean change from baseline trough forced expiratory volume (FEV1) between ICS/LABA/LAMA and ICS/LABA was 97ml and LAMA/LABA was 54ml (noting that the minimal clinically important difference [MCID] was 100 mLs).</span></p><p><br></p><p>The Committee reviewed the health-related quality of life (HRQoL) data from the Lipson et al publication and noted that the mean change from baseline was -5.5 for triple therapy vs -3.7 for both dual therapy combinations, noting that the Minimally Clinically Important Difference (MCID) was 5 on 0-100 score. Members noted that the rate of pneumonia was more than 50% higher with ICS-containing inhalers than with the LAMA/LABA combination (9.6 vs. 6.1 per 100 patient-years). Members noted that a greater reduction in exacerbation rate with triple therapy was observed for patients with eosinophils &gt;150 cells/\u00b5L.</p><p><br></p><p>The Committee noted that 38% of patients enrolled in the trial were already receiving treatment with triple therapy and approximately 70% were receiving an inhaled glucocorticoid prior to enrolment. Members noted that patients with a history of asthma were included, and considered that of the LAMA/LABA group, many would have abruptly stopped their ICS at randomization. Members considered this could explain the early upsurge in exacerbations in that group and may explain the finding that ICS/LABA group had fewer exacerbations than the LAMA/LABA group, which is a different finding than was reported in the FLAME trial (Wedzicha et al. N Eng J Med. 2016;374:2222-34).</p><p><br></p><p><span style=\"font-size: 7pt;\">\u00a0</span>The Committee also reviewed the results of the FULFIL trial (Lipson et al. Am J Respir Crit Care Med. 2017;196:438-46) that compared once daily triple therapy as Trelegy vs twice daily FF/budesonide (ICS + LABA). Members noted that mean changes from baseline in FEV1 were 142 ml for patients administered Trelegy vs -29 ml for patients administered the dual therapy, and mean changes from baseline in St George\u2019s Respiratory Questionnaire (SGRQ) scores were -6.6 and -4.3, respectively.</p><p><br></p><p><span style=\"font-size: 7pt;\">\u00a0</span>The Committee considered that there are numerous ICS, LABA, LAMA, LABA/LAMA and ICS/LAMA inhalers listed on the Pharmaceutical Schedule that would have the same effect as Trelegy when used in appropriate combinations, and therefore funding Trelegy would not address an unmet health need.</p><p><br></p><p>The Committee considered that the patient number estimates provided by the supplier were underestimated and considered that over 50% of patients with COPD currently on triple therapy would be likely to change to a single inhaler.</p><p><br></p><p>Members noted that there is some evidence from an open-label, sponsor-designed, cross-over study that reported patient preference, reduced instruction time and less critical errors (errors likely to result in no or significantly reduced medication being inhaled) with the Ellipta inhaler device (van der Palen et al. Int J of COPD. 2018;13:2515-23).</p><p><br></p><p>The Committee reviewed a non-inferiority study of once daily FF/VI /UMEC (using a single inhaler) vs FF/VI and UMEC (using two inhalers) and noted that the single inhaler was found to be non-inferior to treatment with two inhalers in change from baseline of trough FEV1 after 24 weeks, and secondary endpoints, including exacerbation rates and HR-QoL (Bremner et al. Respir Res. 2018;19:19).</p><p><br></p><p>Members noted that patients with severe (GOLD D) COPD that are mixing up their inhalers may benefit from a single inhaler therapy.</p><p><br></p><p><span style=\"font-size: 7pt;\">\u00a0</span>The Committee considered that there are risks of side-effects, including pneumonia, with high dose ICS and noted that the fluticasone foroate 100 mcg provided per inhalation in the Trelegy inhaler is equal to 500 mcg fluticasone proprionate and would therefore be considered a very high dose of ICS.\u00a0<span style=\"font-size: 12px;\">.</span></p><p><br></p><p>The Committee considered that there was some clinical concern regarding triple therapy, and noted that an editorial by Suissa and Drazen, (N Eng J Med. 2018:378:1723-24) cautions that \u201calthough single-inhaler triple therapy offers simplicity in treating COPD, any potential benefit could be lost and potential undue harm induced if triple therapy is expanded to patients with GOLD groups A, B, and C COPD\u201d.</p><p><br></p><p>The Committee considered a double-blind, parallel group study (the Withdrawal of Inhaled Steroids during Optimized Bronchodilator Management [WISDOM] trial) (Magnussen et al. N Eng J Med. 2014;271:1285-94) investigating whether patients with COPD receiving both LAMA and LABA therapy with inhaled glucocorticoids would have similar outcomes regardless of whether the glucocorticoids were withdrawn or continued. Members noted that there was no difference in the primary end point of exacerbations but a significant 43 mL (MCID 100ml) mean fall in FEV1 after ICS withdrawal and no difference in pneumonia incidence. The Committee noted that post hoc analysis revealed a 43% increase in exacerbations after ICS withdrawal in those patients who had blood eosinophils of at least 300 cells/\u00b5L in conjunction with two or more exacerbations in the past year, whereas there was no difference in patients with eosinophils less than 300 cells/\u00b5L.</p><p><br></p><p>The Committee considered that there was high quality (GRADE 1) evidence that Trelegy is superior to dual therapy with ICS/LABA and LAMA/LAMA for rate of exacerbations, minor improvements in HRQoL and trough FEV1 favouring Trelegy. However, Members considered that the pivotal trial does not answer the question of how Trelegy compares to triple therapy with multiple inhalers for severe COPD, as is standard of care in NZ at present.</p><p><br></p><p>The Committee acknowledged that severe COPD impacts on the quality of life for family/whanau but considered that there was no evidence that single inhaler therapy produces health benefit for family/whanau/society over multiple inhalers.</p><p><br></p><p><span style=\"font-size: 7pt;\">\u00a0</span>The Committee considered that there is a risk is that prescribers/patients will switch to the single inhaler product, resulting in reduced opportunities for savings on other inhaled medicines for COPD that could be used to invest in other medicines. Members considered that the all in one triple therapy inhaler would not provide an added health benefit that is not addressed through currently funded products, and no premium should be paid for the combined product.</p><p><br></p><p>The Committee considered that Trelegy Ellipta would be used in combination with short-acting beta-adrenoceptor agonist inhalers, intermittent oral corticosteroids and with or without antibiotics. Members noted that Trelegy Ellipta would replace dual inhalers for patients already on triple therapy (ICS/LABA + LAMA combination or ICS + LAMA/LABA combination) and raised concern that it would replace LAMA/LABA as step up therapy.</p><p><br></p><p>The Committee considered that Trelegy Ellipta would not be appropriate as an initial therapy for COPD and considered that if it were to be open listed, patients with mild to moderate COPD would be starting on treatment with an ICS. The Committee requested that PHARMAC seek advice from the Respiratory Subcommittee to whether Special Authority criteria should be put in place to restrict use to COPD patients with severe disease to prevent inappropriate prescribing.</p><p><br></p><p>The Committee considered that there was no evidence base to support device delivery systems as a way to improve equity in COPD. Members considered that there are a number of other issues that are more important to address, such as accessibility of pulmonary rehabilitation programs, influenza vaccination, education, access to services and smoking cessation. Members were not convinced that adherence arguments could be used as a substitute for real life outcomes and considered that if adherence made a huge difference to COPD outcomes, that this would be reflected in the trials.</p>",
+          "Status_History__c": "a132P000000ArfkQAC"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Oct 2020",
+          "fs": "Oct 2020",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Assigned to Respiratory Subcommittee meeting to provide advice on Wednesday 28 October 2020",
+          "fs": "Assigned to Respiratory Subcommittee meeting to provide advice on Wednesday 28 October 2020",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ000007TiMp2AK"
+          },
+          "Id": "a0POZ000007TiMp2AK",
+          "Event_Date__c": "2020-10-19",
+          "Event_Description__c": "Assigned to Respiratory Subcommittee meeting to provide advice on Wednesday 28 October 2020",
+          "Stage__c": "Seeking Clinical Advice",
+          "Formatted_Date__c": "Oct 2020",
+          "Status_History__c": "a132P000000CMoxQAG"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": "<p><span style=\"color: black;\">1.1.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee <b>recommended</b> that fluticasone furoate /umeclidinium bromide/vilanterol trifenatate (Trelegy Ellipta) be funded only if it was <b>cost-neutral</b> to the pricing of the same components received from multiple inhalers (fluticasone furoate/vilanterol trifenatate 100/25 [Breo Ellipta] in combination with umeclidinium [Incruse Ellipta]), within the context of treatment of respiratory disease, and subject to the following Special Authority criteria: </p><p><br></p><p><b style=\"font-size: 9pt;\">Initial application</b><span style=\"font-size: 9pt;\"> \u2014 from any relevant practitioner. Approvals valid for 2 years for applications meeting the following criteria:</span></p><p><b style=\"font-size: 9pt;\">All of the following</b></p><p><span style=\"font-size: 9pt;\">1 Patient has a diagnosis of COPD confirmed by spirometry; and</span></p><p><span style=\"font-size: 9pt;\">2 Patient is currently receiving an ICS/LABA or LAMA/LABA treatment; and</span></p><p><span style=\"font-size: 9pt;\">3 Any of the following:</span></p><p><span style=\"font-size: 9pt;\">2.1 Patient has a COPD Assessment Test (CAT) score greater than 10; or</span></p><p><span style=\"font-size: 9pt;\">2.2 Patient has had greater than 2 exacerbations in the previous 12 months; or</span></p><p><span style=\"font-size: 9pt;\">2.3 Patient has had an eosinophil count greater than or equal to 0.3 x 10</span><sup style=\"font-size: 9pt;\">9</sup><span style=\"font-size: 9pt;\"> cells/L in the previous 12 months</span></p><p><span style=\"font-size: 9pt;\">\u00a0</span></p><p><b style=\"font-size: 9pt;\">Renewal </b><span style=\"font-size: 9pt;\">\u2014 from any relevant practitioner. Approvals valid for 2 years for applications meeting the following criteria:</span></p><p><span style=\"font-size: 9pt;\">Both:</span></p><p><span style=\"font-size: 9pt;\">1 Patient is adherent with medication; and</span></p><p><span style=\"font-size: 9pt;\">2 The treatment remains appropriate and patient is benefitting from treatment.</span></p><p><br></p><p><span style=\"color: black;\">1.2.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee made this recommendation on the basis that the clinical data indicates equivalent benefit from FF/UMEC/VI when compared with multiple inhaler triple therapy, but that the benefit over combination therapies containing two active treatments (LAMA/LABA and ICS/LABA) is not of particular relevance. The Subcommittee however considered that there may be the potential for improved adherence to treatment and decreased patient costs due to only having to use and pay the co-payment for one inhaler instead of two or three inhalers. The Subcommittee therefore considered that the appropriate comparator would be the same components received from multiple inhalers.\u00a0</p>",
+          "fs": "<p><span style=\"color: black;\">1.1.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee <b>recommended</b> that fluticasone furoate /umeclidinium bromide/vilanterol trifenatate (Trelegy Ellipta) be funded only if it was <b>cost-neutral</b> to the pricing of the same components received from multiple inhalers (fluticasone furoate/vilanterol trifenatate 100/25 [Breo Ellipta] in combination with umeclidinium [Incruse Ellipta]), within the context of treatment of respiratory disease, and subject to the following Special Authority criteria: </p><p><br></p><p><b style=\"font-size: 9pt;\">Initial application</b><span style=\"font-size: 9pt;\"> \u2014 from any relevant practitioner. Approvals valid for 2 years for applications meeting the following criteria:</span></p><p><b style=\"font-size: 9pt;\">All of the following</b></p><p><span style=\"font-size: 9pt;\">1 Patient has a diagnosis of COPD confirmed by spirometry; and</span></p><p><span style=\"font-size: 9pt;\">2 Patient is currently receiving an ICS/LABA or LAMA/LABA treatment; and</span></p><p><span style=\"font-size: 9pt;\">3 Any of the following:</span></p><p><span style=\"font-size: 9pt;\">2.1 Patient has a COPD Assessment Test (CAT) score greater than 10; or</span></p><p><span style=\"font-size: 9pt;\">2.2 Patient has had greater than 2 exacerbations in the previous 12 months; or</span></p><p><span style=\"font-size: 9pt;\">2.3 Patient has had an eosinophil count greater than or equal to 0.3 x 10</span><sup style=\"font-size: 9pt;\">9</sup><span style=\"font-size: 9pt;\"> cells/L in the previous 12 months</span></p><p><span style=\"font-size: 9pt;\">\u00a0</span></p><p><b style=\"font-size: 9pt;\">Renewal </b><span style=\"font-size: 9pt;\">\u2014 from any relevant practitioner. Approvals valid for 2 years for applications meeting the following criteria:</span></p><p><span style=\"font-size: 9pt;\">Both:</span></p><p><span style=\"font-size: 9pt;\">1 Patient is adherent with medication; and</span></p><p><span style=\"font-size: 9pt;\">2 The treatment remains appropriate and patient is benefitting from treatment.</span></p><p><br></p><p><span style=\"color: black;\">1.2.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee made this recommendation on the basis that the clinical data indicates equivalent benefit from FF/UMEC/VI when compared with multiple inhaler triple therapy, but that the benefit over combination therapies containing two active treatments (LAMA/LABA and ICS/LABA) is not of particular relevance. The Subcommittee however considered that there may be the potential for improved adherence to treatment and decreased patient costs due to only having to use and pay the co-payment for one inhaler instead of two or three inhalers. The Subcommittee therefore considered that the appropriate comparator would be the same components received from multiple inhalers.\u00a0</p>",
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": "<p><span style=\"color: black;\">1.1.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that in <a href=\"https://pharmac.govt.nz/assets/ptac-minutes-2019-05.pdf\" target=\"_blank\">May 2019</a>, PTAC recommended that fluticasone furoate (FF)/umeclidinium bromide (UMEC)/vilanterol trifenatate (VI) (Trelegy Ellipta) be listed only if it was cost-neutral to the future prices of triple therapy agents that include an inhaled corticosteroid (ICS), long-acting beta agonist (LABA) and long-acting muscarinic antagonist (LAMA) that are listed on the Pharmaceutical Schedule as either individual components or as combination inhalers.</p><p><br></p><p><span style=\"color: black;\">1.2.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that there are currently many funded options for triple therapy (ICS/LAMA/LABA) combinations, but no funded single inhaler triple therapy options in New Zealand. The Subcommittee considered that the most appropriate comparator for FF/UMEC/VI is the same components delivered via multiple inhalers (fluticasone furoate/vilanterol trifenatate 100/25 [Breo Ellipta] in combination with the umeclidinium [Incruse Ellipta]). </p><p><br></p><p><span style=\"color: black;\">1.3.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that M\u0101ori and Pacific people are evidenced to have a high burden of disease for COPD compared to non-M\u0101ori, non-Pacific people. The Subcommittee considered that a single inhaler triple therapy would contribute to reducing the barriers to access for population groups known to be experiencing inequities such as M\u0101ori, Pacific and people from more socioeconomically deprived areas (for example by needing to pay a only single co-payment when collecting their prescription). In addition, the Subcommittee considered that the reduction in complexity due to the provision of triple therapy from a single inhaler may provide additional benefit.</p><p><br></p><p><span style=\"color: black;\">1.4.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted the correspondence provided by the supplier in response to the 2019 PTAC recommendation, presenting updated clinical evidence for FF/UMEC/VI in this patient population. </p><p><br></p><p>1.4.1.<span style=\"font-size: 7pt;\">\u00a0\u00a0</span>The Subcommittee noted a Phase III, randomised, double-blind trial (IMPACT trial) of patients aged 40 years or older with symptomatic COPD (n=10,355) who were randomised 2:2:1 to FF/UMEC/VI 100/62.5/25 mg, FF/VI 100/25 mg, or UMEC/VI 62.5/25 mg following a run-in on their COPD therapies over 52 weeks (<a href=\"https://www.ncbi.nlm.nih.gov/pubmed/29668352\" target=\"_blank\">Lipson et al. N Engl J Med. 2018;378:1671-80</a>), in which the incidence of moderate or severe exacerbations per year was 0.91 with FF/UMEC/VI vs 1.07 with FF/VI (p&lt;0.001) vs 1.21 with UMEC/VI (p&lt;0.001), and the rate of hospitalisation per year was 0.13 with FF/UMEC/VI vs 0.15 with FF/VI (p&lt;0.06) vs 0.19 with UMEC/VI (p&lt;0.001).</p><p><br></p><p>1.4.2.<span style=\"font-size: 7pt;\">\u00a0\u00a0</span>The Subcommittee noted a post-hoc analysis of the IMPACT trial investigating all-cause mortality (<a href=\"https://pubmed.ncbi.nlm.nih.gov/32162970/\" target=\"_blank\">Lipson et al. Am J Resp Crit Care Med 2020;201:1508-16</a>).</p><p><br></p><p>1.4.3.<span style=\"font-size: 7pt;\">\u00a0\u00a0</span>The Subcommittee noted the results reported to date of a randomised, open-label, phase IV effectiveness trial (INTREPID) of patients aged 40 years or older with symptomatic COPD (CAT score \u226510 at screening and receiving non-Ellipta maintenance therapy for at least 16 weeks prior to entry) randomised 1:1 to receive FF/UMEC/VI or Non-Ellipta MITT for 24 weeks (Halpin et al. Treatment of Obstructive Lung Disease. Poster. ATS Annual Scientific Meeting 2020 - unpublished). </p><p><br></p><p>1.4.4.<span style=\"font-size: 7pt;\">\u00a0\u00a0</span>The Subcommittee noted the results of the study by Bremner et al., which demonstrated non-inferiority of FF/UMEC/VI to FF/VI + UMEC in patients with COPD (<a href=\"https://respiratory-research.biomedcentral.com/articles/10.1186/s12931-018-0724-0\" target=\"_blank\">Bremner et al. Respiratory Research. 2018;19:19</a>).</p><p><br></p><p><span style=\"color: black;\">1.5.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Subcommittee considered that the clinical data indicated equivalent benefit from FF/UMEC/VI when compared to MITT, but that the benefit over combination therapies containing two active treatments (LAMA/LABA and ICS/LABA) was not of particular relevance as the comparator treatments were not triple therapies. </p><p><br></p><p><span style=\"color: black;\">1.6.</span><span style=\"color: black; font-size: 7pt;\">\u00a0 </span>The Subcommittee considered that patients\u2019 behaviours change when part of a clinical trial and that this would likely improve the adherence of patients while on the trial. The Subcommittee considered that any benefit that could be attributed to improved adherence in a trial is difficult to extrapolate to everyday clinical settings.</p><p><br></p><p><span style=\"color: black;\">1.7.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Subcommittee noted that there is evidence that multiple device types have a negative association with correct handling technique and patient adherence. The Subcommittee noted that, historically, when multi-therapy single inhalers have reached reach cost-neutrality, they have been favoured over regimens including the same components from multiple inhalers. The Subcommittee considered that having more than one device increases the chance of critical errors, and that different devices, brands, concentrations, and formulations can be confusing for both prescribers and patients which may perpetuate adherence problems. The Subcommittee considered that, if adherence was improved through use of a single inhaler triple therapy regimen, that there is a potential for decrease in cost associated with COPD exacerbations and hospitalisations. </p><p><br></p><p><span style=\"color: black;\">1.8.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Subcommittee considered that most COPD patients currently receiving triple therapy would likely switch to a single-inhaler regimen if available. The Subcommittee considered that a key driver for uptake of FF/UMEC/VI would be if clinicians considered that a single inhaler would help improve control for patients currently symptomatic while receiving an ICS/LABA or LABA/LAMA dual therapy. As a result, the Subcommittee considered that patients numbers may exceed the current estimate of 14-19,000 patients, which is the estimated number of prevalent patients currently receiving a triple therapy regimen. </p><p><br></p><p><span style=\"color: black;\">1.9.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee considered that it would be important that the Special Authority criteria for FF/UMEC/VI prevent patients from automatically switching to triple therapy when treatment with an ICS may not be an appropriate treatment option.</p>",
+          "fs": "<p><span style=\"color: black;\">1.1.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that in <a href=\"https://pharmac.govt.nz/assets/ptac-minutes-2019-05.pdf\" target=\"_blank\">May 2019</a>, PTAC recommended that fluticasone furoate (FF)/umeclidinium bromide (UMEC)/vilanterol trifenatate (VI) (Trelegy Ellipta) be listed only if it was cost-neutral to the future prices of triple therapy agents that include an inhaled corticosteroid (ICS), long-acting beta agonist (LABA) and long-acting muscarinic antagonist (LAMA) that are listed on the Pharmaceutical Schedule as either individual components or as combination inhalers.</p><p><br></p><p><span style=\"color: black;\">1.2.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that there are currently many funded options for triple therapy (ICS/LAMA/LABA) combinations, but no funded single inhaler triple therapy options in New Zealand. The Subcommittee considered that the most appropriate comparator for FF/UMEC/VI is the same components delivered via multiple inhalers (fluticasone furoate/vilanterol trifenatate 100/25 [Breo Ellipta] in combination with the umeclidinium [Incruse Ellipta]). </p><p><br></p><p><span style=\"color: black;\">1.3.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that M\u0101ori and Pacific people are evidenced to have a high burden of disease for COPD compared to non-M\u0101ori, non-Pacific people. The Subcommittee considered that a single inhaler triple therapy would contribute to reducing the barriers to access for population groups known to be experiencing inequities such as M\u0101ori, Pacific and people from more socioeconomically deprived areas (for example by needing to pay a only single co-payment when collecting their prescription). In addition, the Subcommittee considered that the reduction in complexity due to the provision of triple therapy from a single inhaler may provide additional benefit.</p><p><br></p><p><span style=\"color: black;\">1.4.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted the correspondence provided by the supplier in response to the 2019 PTAC recommendation, presenting updated clinical evidence for FF/UMEC/VI in this patient population. </p><p><br></p><p>1.4.1.<span style=\"font-size: 7pt;\">\u00a0\u00a0</span>The Subcommittee noted a Phase III, randomised, double-blind trial (IMPACT trial) of patients aged 40 years or older with symptomatic COPD (n=10,355) who were randomised 2:2:1 to FF/UMEC/VI 100/62.5/25 mg, FF/VI 100/25 mg, or UMEC/VI 62.5/25 mg following a run-in on their COPD therapies over 52 weeks (<a href=\"https://www.ncbi.nlm.nih.gov/pubmed/29668352\" target=\"_blank\">Lipson et al. N Engl J Med. 2018;378:1671-80</a>), in which the incidence of moderate or severe exacerbations per year was 0.91 with FF/UMEC/VI vs 1.07 with FF/VI (p&lt;0.001) vs 1.21 with UMEC/VI (p&lt;0.001), and the rate of hospitalisation per year was 0.13 with FF/UMEC/VI vs 0.15 with FF/VI (p&lt;0.06) vs 0.19 with UMEC/VI (p&lt;0.001).</p><p><br></p><p>1.4.2.<span style=\"font-size: 7pt;\">\u00a0\u00a0</span>The Subcommittee noted a post-hoc analysis of the IMPACT trial investigating all-cause mortality (<a href=\"https://pubmed.ncbi.nlm.nih.gov/32162970/\" target=\"_blank\">Lipson et al. Am J Resp Crit Care Med 2020;201:1508-16</a>).</p><p><br></p><p>1.4.3.<span style=\"font-size: 7pt;\">\u00a0\u00a0</span>The Subcommittee noted the results reported to date of a randomised, open-label, phase IV effectiveness trial (INTREPID) of patients aged 40 years or older with symptomatic COPD (CAT score \u226510 at screening and receiving non-Ellipta maintenance therapy for at least 16 weeks prior to entry) randomised 1:1 to receive FF/UMEC/VI or Non-Ellipta MITT for 24 weeks (Halpin et al. Treatment of Obstructive Lung Disease. Poster. ATS Annual Scientific Meeting 2020 - unpublished). </p><p><br></p><p>1.4.4.<span style=\"font-size: 7pt;\">\u00a0\u00a0</span>The Subcommittee noted the results of the study by Bremner et al., which demonstrated non-inferiority of FF/UMEC/VI to FF/VI + UMEC in patients with COPD (<a href=\"https://respiratory-research.biomedcentral.com/articles/10.1186/s12931-018-0724-0\" target=\"_blank\">Bremner et al. Respiratory Research. 2018;19:19</a>).</p><p><br></p><p><span style=\"color: black;\">1.5.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Subcommittee considered that the clinical data indicated equivalent benefit from FF/UMEC/VI when compared to MITT, but that the benefit over combination therapies containing two active treatments (LAMA/LABA and ICS/LABA) was not of particular relevance as the comparator treatments were not triple therapies. </p><p><br></p><p><span style=\"color: black;\">1.6.</span><span style=\"color: black; font-size: 7pt;\">\u00a0 </span>The Subcommittee considered that patients\u2019 behaviours change when part of a clinical trial and that this would likely improve the adherence of patients while on the trial. The Subcommittee considered that any benefit that could be attributed to improved adherence in a trial is difficult to extrapolate to everyday clinical settings.</p><p><br></p><p><span style=\"color: black;\">1.7.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Subcommittee noted that there is evidence that multiple device types have a negative association with correct handling technique and patient adherence. The Subcommittee noted that, historically, when multi-therapy single inhalers have reached reach cost-neutrality, they have been favoured over regimens including the same components from multiple inhalers. The Subcommittee considered that having more than one device increases the chance of critical errors, and that different devices, brands, concentrations, and formulations can be confusing for both prescribers and patients which may perpetuate adherence problems. The Subcommittee considered that, if adherence was improved through use of a single inhaler triple therapy regimen, that there is a potential for decrease in cost associated with COPD exacerbations and hospitalisations. </p><p><br></p><p><span style=\"color: black;\">1.8.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Subcommittee considered that most COPD patients currently receiving triple therapy would likely switch to a single-inhaler regimen if available. The Subcommittee considered that a key driver for uptake of FF/UMEC/VI would be if clinicians considered that a single inhaler would help improve control for patients currently symptomatic while receiving an ICS/LABA or LABA/LAMA dual therapy. As a result, the Subcommittee considered that patients numbers may exceed the current estimate of 14-19,000 patients, which is the estimated number of prevalent patients currently receiving a triple therapy regimen. </p><p><br></p><p><span style=\"color: black;\">1.9.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee considered that it would be important that the Special Authority criteria for FF/UMEC/VI prevent patients from automatically switching to triple therapy when treatment with an ICS may not be an appropriate treatment option.</p>",
+          "change": null
+        },
+        "Published_Application": {
+          "s": "<p><span style=\"color: black;\">1.1.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee reviewed a funding application, and subsequent related correspondence, for the triple therapy fluticasone furoate (FF) /umeclidinium bromide (UMEC) /vilanterol trifenatate (VI) (brand name Trelegy Ellipta) inhaler for the treatment of chronic obstructive pulmonary disease (COPD). </p><p><span style=\"color: black;\">1.2.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee took into account, where applicable, PHARMAC\u2019s relevant decision-making framework when considering this agenda item.\u00a0</p>",
+          "fs": "<p><span style=\"color: black;\">1.1.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee reviewed a funding application, and subsequent related correspondence, for the triple therapy fluticasone furoate (FF) /umeclidinium bromide (UMEC) /vilanterol trifenatate (VI) (brand name Trelegy Ellipta) inhaler for the treatment of chronic obstructive pulmonary disease (COPD). </p><p><span style=\"color: black;\">1.2.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee took into account, where applicable, PHARMAC\u2019s relevant decision-making framework when considering this agenda item.\u00a0</p>",
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": "<p>1.1.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>In regards to Subcommittee record item 7 and the Respiratory Subcommittee\u2019s consideration of fluticasone furoate with umeclidinium bromide and vilanterol trifenatate for the treatment of chronic obstructive pulmonary disease:</p><p>1.1.1.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted its previous recommendation regarding fluticasone furoate with umeclidinium bromide and vilanterol trifenatate. The Committee noted the Subcommittee\u2019s recommendation to fund fluticasone furoate with umeclidinium bromide and vilanterol trifenatate if it was cost-neutral to the pricing of the same components received from multiple inhalers (fluticasone furoate/vilanterol trifenatate 100/25 [Breo Ellipta] in combination with umeclidinium [Incruse Ellipta]) within the context of respiratory disease. The Committee considered that the Respiratory Subcommittee\u2019s recommendation was more appropriate and agreed with its recommendation, and considered that it would be important for patients currently receiving triple therapy via multiple inhalers to be eligible for fluticasone furoate with umeclidinium bromide and vilanterol trifenatate, if funded.</p>",
+          "fs": "<p>1.1.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>In regards to Subcommittee record item 7 and the Respiratory Subcommittee\u2019s consideration of fluticasone furoate with umeclidinium bromide and vilanterol trifenatate for the treatment of chronic obstructive pulmonary disease:</p><p>1.1.1.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted its previous recommendation regarding fluticasone furoate with umeclidinium bromide and vilanterol trifenatate. The Committee noted the Subcommittee\u2019s recommendation to fund fluticasone furoate with umeclidinium bromide and vilanterol trifenatate if it was cost-neutral to the pricing of the same components received from multiple inhalers (fluticasone furoate/vilanterol trifenatate 100/25 [Breo Ellipta] in combination with umeclidinium [Incruse Ellipta]) within the context of respiratory disease. The Committee considered that the Respiratory Subcommittee\u2019s recommendation was more appropriate and agreed with its recommendation, and considered that it would be important for patients currently receiving triple therapy via multiple inhalers to be eligible for fluticasone furoate with umeclidinium bromide and vilanterol trifenatate, if funded.</p>",
+          "change": null
+        },
+        "Outcome": {
+          "s": "Cost Neutral",
+          "fs": "Cost Neutral",
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Mar 2021",
+          "fs": "Mar 2021",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Clinical advice received from Respiratory Subcommittee at meeting Wednesday 28 October 2020.",
+          "fs": "Clinical advice received from Respiratory Subcommittee at meeting Wednesday 28 October 2020.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ000007TiMq2AK"
+          },
+          "Id": "a0POZ000007TiMq2AK",
+          "Event_Date__c": "2021-03-12",
+          "Event_Description__c": "Clinical advice received from Respiratory Subcommittee at meeting Wednesday 28 October 2020.",
+          "Stage__c": "Seeking Clinical Advice",
+          "Outcome__c": "Cost Neutral",
+          "Formatted_Date__c": "Mar 2021",
+          "Published_Recommendation__c": "<p><span style=\"color: black;\">1.1.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee <b>recommended</b> that fluticasone furoate /umeclidinium bromide/vilanterol trifenatate (Trelegy Ellipta) be funded only if it was <b>cost-neutral</b> to the pricing of the same components received from multiple inhalers (fluticasone furoate/vilanterol trifenatate 100/25 [Breo Ellipta] in combination with umeclidinium [Incruse Ellipta]), within the context of treatment of respiratory disease, and subject to the following Special Authority criteria: </p><p><br></p><p><b style=\"font-size: 9pt;\">Initial application</b><span style=\"font-size: 9pt;\"> \u2014 from any relevant practitioner. Approvals valid for 2 years for applications meeting the following criteria:</span></p><p><b style=\"font-size: 9pt;\">All of the following</b></p><p><span style=\"font-size: 9pt;\">1 Patient has a diagnosis of COPD confirmed by spirometry; and</span></p><p><span style=\"font-size: 9pt;\">2 Patient is currently receiving an ICS/LABA or LAMA/LABA treatment; and</span></p><p><span style=\"font-size: 9pt;\">3 Any of the following:</span></p><p><span style=\"font-size: 9pt;\">2.1 Patient has a COPD Assessment Test (CAT) score greater than 10; or</span></p><p><span style=\"font-size: 9pt;\">2.2 Patient has had greater than 2 exacerbations in the previous 12 months; or</span></p><p><span style=\"font-size: 9pt;\">2.3 Patient has had an eosinophil count greater than or equal to 0.3 x 10</span><sup style=\"font-size: 9pt;\">9</sup><span style=\"font-size: 9pt;\"> cells/L in the previous 12 months</span></p><p><span style=\"font-size: 9pt;\">\u00a0</span></p><p><b style=\"font-size: 9pt;\">Renewal </b><span style=\"font-size: 9pt;\">\u2014 from any relevant practitioner. Approvals valid for 2 years for applications meeting the following criteria:</span></p><p><span style=\"font-size: 9pt;\">Both:</span></p><p><span style=\"font-size: 9pt;\">1 Patient is adherent with medication; and</span></p><p><span style=\"font-size: 9pt;\">2 The treatment remains appropriate and patient is benefitting from treatment.</span></p><p><br></p><p><span style=\"color: black;\">1.2.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee made this recommendation on the basis that the clinical data indicates equivalent benefit from FF/UMEC/VI when compared with multiple inhaler triple therapy, but that the benefit over combination therapies containing two active treatments (LAMA/LABA and ICS/LABA) is not of particular relevance. The Subcommittee however considered that there may be the potential for improved adherence to treatment and decreased patient costs due to only having to use and pay the co-payment for one inhaler instead of two or three inhalers. The Subcommittee therefore considered that the appropriate comparator would be the same components received from multiple inhalers.\u00a0</p>",
+          "Published_Application__c": "<p><span style=\"color: black;\">1.1.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee reviewed a funding application, and subsequent related correspondence, for the triple therapy fluticasone furoate (FF) /umeclidinium bromide (UMEC) /vilanterol trifenatate (VI) (brand name Trelegy Ellipta) inhaler for the treatment of chronic obstructive pulmonary disease (COPD). </p><p><span style=\"color: black;\">1.2.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee took into account, where applicable, PHARMAC\u2019s relevant decision-making framework when considering this agenda item.\u00a0</p>",
+          "Published_Discussion__c": "<p><span style=\"color: black;\">1.1.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that in <a href=\"https://pharmac.govt.nz/assets/ptac-minutes-2019-05.pdf\" target=\"_blank\">May 2019</a>, PTAC recommended that fluticasone furoate (FF)/umeclidinium bromide (UMEC)/vilanterol trifenatate (VI) (Trelegy Ellipta) be listed only if it was cost-neutral to the future prices of triple therapy agents that include an inhaled corticosteroid (ICS), long-acting beta agonist (LABA) and long-acting muscarinic antagonist (LAMA) that are listed on the Pharmaceutical Schedule as either individual components or as combination inhalers.</p><p><br></p><p><span style=\"color: black;\">1.2.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that there are currently many funded options for triple therapy (ICS/LAMA/LABA) combinations, but no funded single inhaler triple therapy options in New Zealand. The Subcommittee considered that the most appropriate comparator for FF/UMEC/VI is the same components delivered via multiple inhalers (fluticasone furoate/vilanterol trifenatate 100/25 [Breo Ellipta] in combination with the umeclidinium [Incruse Ellipta]). </p><p><br></p><p><span style=\"color: black;\">1.3.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that M\u0101ori and Pacific people are evidenced to have a high burden of disease for COPD compared to non-M\u0101ori, non-Pacific people. The Subcommittee considered that a single inhaler triple therapy would contribute to reducing the barriers to access for population groups known to be experiencing inequities such as M\u0101ori, Pacific and people from more socioeconomically deprived areas (for example by needing to pay a only single co-payment when collecting their prescription). In addition, the Subcommittee considered that the reduction in complexity due to the provision of triple therapy from a single inhaler may provide additional benefit.</p><p><br></p><p><span style=\"color: black;\">1.4.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted the correspondence provided by the supplier in response to the 2019 PTAC recommendation, presenting updated clinical evidence for FF/UMEC/VI in this patient population. </p><p><br></p><p>1.4.1.<span style=\"font-size: 7pt;\">\u00a0\u00a0</span>The Subcommittee noted a Phase III, randomised, double-blind trial (IMPACT trial) of patients aged 40 years or older with symptomatic COPD (n=10,355) who were randomised 2:2:1 to FF/UMEC/VI 100/62.5/25 mg, FF/VI 100/25 mg, or UMEC/VI 62.5/25 mg following a run-in on their COPD therapies over 52 weeks (<a href=\"https://www.ncbi.nlm.nih.gov/pubmed/29668352\" target=\"_blank\">Lipson et al. N Engl J Med. 2018;378:1671-80</a>), in which the incidence of moderate or severe exacerbations per year was 0.91 with FF/UMEC/VI vs 1.07 with FF/VI (p&lt;0.001) vs 1.21 with UMEC/VI (p&lt;0.001), and the rate of hospitalisation per year was 0.13 with FF/UMEC/VI vs 0.15 with FF/VI (p&lt;0.06) vs 0.19 with UMEC/VI (p&lt;0.001).</p><p><br></p><p>1.4.2.<span style=\"font-size: 7pt;\">\u00a0\u00a0</span>The Subcommittee noted a post-hoc analysis of the IMPACT trial investigating all-cause mortality (<a href=\"https://pubmed.ncbi.nlm.nih.gov/32162970/\" target=\"_blank\">Lipson et al. Am J Resp Crit Care Med 2020;201:1508-16</a>).</p><p><br></p><p>1.4.3.<span style=\"font-size: 7pt;\">\u00a0\u00a0</span>The Subcommittee noted the results reported to date of a randomised, open-label, phase IV effectiveness trial (INTREPID) of patients aged 40 years or older with symptomatic COPD (CAT score \u226510 at screening and receiving non-Ellipta maintenance therapy for at least 16 weeks prior to entry) randomised 1:1 to receive FF/UMEC/VI or Non-Ellipta MITT for 24 weeks (Halpin et al. Treatment of Obstructive Lung Disease. Poster. ATS Annual Scientific Meeting 2020 - unpublished). </p><p><br></p><p>1.4.4.<span style=\"font-size: 7pt;\">\u00a0\u00a0</span>The Subcommittee noted the results of the study by Bremner et al., which demonstrated non-inferiority of FF/UMEC/VI to FF/VI + UMEC in patients with COPD (<a href=\"https://respiratory-research.biomedcentral.com/articles/10.1186/s12931-018-0724-0\" target=\"_blank\">Bremner et al. Respiratory Research. 2018;19:19</a>).</p><p><br></p><p><span style=\"color: black;\">1.5.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Subcommittee considered that the clinical data indicated equivalent benefit from FF/UMEC/VI when compared to MITT, but that the benefit over combination therapies containing two active treatments (LAMA/LABA and ICS/LABA) was not of particular relevance as the comparator treatments were not triple therapies. </p><p><br></p><p><span style=\"color: black;\">1.6.</span><span style=\"color: black; font-size: 7pt;\">\u00a0 </span>The Subcommittee considered that patients\u2019 behaviours change when part of a clinical trial and that this would likely improve the adherence of patients while on the trial. The Subcommittee considered that any benefit that could be attributed to improved adherence in a trial is difficult to extrapolate to everyday clinical settings.</p><p><br></p><p><span style=\"color: black;\">1.7.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Subcommittee noted that there is evidence that multiple device types have a negative association with correct handling technique and patient adherence. The Subcommittee noted that, historically, when multi-therapy single inhalers have reached reach cost-neutrality, they have been favoured over regimens including the same components from multiple inhalers. The Subcommittee considered that having more than one device increases the chance of critical errors, and that different devices, brands, concentrations, and formulations can be confusing for both prescribers and patients which may perpetuate adherence problems. The Subcommittee considered that, if adherence was improved through use of a single inhaler triple therapy regimen, that there is a potential for decrease in cost associated with COPD exacerbations and hospitalisations. </p><p><br></p><p><span style=\"color: black;\">1.8.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Subcommittee considered that most COPD patients currently receiving triple therapy would likely switch to a single-inhaler regimen if available. The Subcommittee considered that a key driver for uptake of FF/UMEC/VI would be if clinicians considered that a single inhaler would help improve control for patients currently symptomatic while receiving an ICS/LABA or LABA/LAMA dual therapy. As a result, the Subcommittee considered that patients numbers may exceed the current estimate of 14-19,000 patients, which is the estimated number of prevalent patients currently receiving a triple therapy regimen. </p><p><br></p><p><span style=\"color: black;\">1.9.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee considered that it would be important that the Special Authority criteria for FF/UMEC/VI prevent patients from automatically switching to triple therapy when treatment with an ICS may not be an appropriate treatment option.</p>",
+          "PTAC_Comments__c": "<p>1.1.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>In regards to Subcommittee record item 7 and the Respiratory Subcommittee\u2019s consideration of fluticasone furoate with umeclidinium bromide and vilanterol trifenatate for the treatment of chronic obstructive pulmonary disease:</p><p>1.1.1.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted its previous recommendation regarding fluticasone furoate with umeclidinium bromide and vilanterol trifenatate. The Committee noted the Subcommittee\u2019s recommendation to fund fluticasone furoate with umeclidinium bromide and vilanterol trifenatate if it was cost-neutral to the pricing of the same components received from multiple inhalers (fluticasone furoate/vilanterol trifenatate 100/25 [Breo Ellipta] in combination with umeclidinium [Incruse Ellipta]) within the context of respiratory disease. The Committee considered that the Respiratory Subcommittee\u2019s recommendation was more appropriate and agreed with its recommendation, and considered that it would be important for patients currently receiving triple therapy via multiple inhalers to be eligible for fluticasone furoate with umeclidinium bromide and vilanterol trifenatate, if funded.</p>",
+          "Status_History__c": "a132P000000Cg7zQAC"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Mar 2019",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Following Clinical Advice, Pharmac staff considers the advice and the funding application under goes an assessment using our&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/factors-for-consideration/\" rel=\"nofollow\">Factors for Consideration</a>&nbsp;framework and seeks additional information as required.</p>\r\n<p>&nbsp;</p>\r\n<p>Research and Economic analysis are undertaken.&nbsp; This focuses on the costs and benefits of a proposed course of action. Economics is based on three fundamental concepts that summarise the issues Pharmac faces daily:&nbsp;</p>\r\n<ul>\r\n<li>Scarcity &ndash; resources will always be insufficient to support all possible activities.</li>\r\n<li>Choices &ndash; due to scarce resources, decisions must be made about how best to use them.</li>\r\n<li>Opportunity cost &ndash; by choosing to use resources one way, we forgo other opportunities to use the same resources.</li>\r\n</ul>\r\n<p>&nbsp;</p>\r\n<p>For further information on the purpose of, and techniques for, undertaking economic analysis in health care, please refer&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/economic-analysis/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/economic-analysis/</a></p>",
+    "position": 2,
+    "name": "Under Assessment",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "May 2019",
+          "fs": "May 2019",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Working to compare options",
+          "fs": "Working to compare options",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ000007TiMn2AK"
+          },
+          "Id": "a0POZ000007TiMn2AK",
+          "Event_Date__c": "2019-05-23",
+          "Event_Description__c": "Working to compare options",
+          "Stage__c": "Under Assessment",
+          "Formatted_Date__c": "May 2019",
+          "Status_History__c": "a132P000000ArfrQAC"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Mar 2021",
+          "fs": "Mar 2021",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Working to compare options",
+          "fs": "Working to compare options",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ000007TiMr2AK"
+          },
+          "Id": "a0POZ000007TiMr2AK",
+          "Event_Date__c": "2021-03-28",
+          "Event_Description__c": "Working to compare options",
+          "Stage__c": "Under Assessment",
+          "Formatted_Date__c": "Mar 2021",
+          "Status_History__c": "a132P000000CigZQAS"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "May 2019",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Pharmac staff uses a prioritisation process to compare and rank funding options. Possible opportunities for new investment will always exceed the budget Pharmac has available; therefore, prioritisation is an intrinsic part of Pharmac\u2019s decision-making process.</p>\r\n<p>The relative ranking of options aims to support Pharmac&rsquo;s statutory objective &ldquo;to secure for eligible people in need of pharmaceuticals, the best health outcomes that are reasonably achievable from pharmaceutical treatment and from within the amount of funding provided&rdquo;.</p>\r\n<p>A funding application or proposal is considered ready for prioritisation when sufficient information is available to permit it to be reviewed against Pharmac's Factors for Consideration and to inform a comparison with other possible investment decisions.</p>\r\n<p>There is no guarantee when or if a ranked medicine will be funded.&nbsp;&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/prioritisation/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/prioritisation/</a></p>",
+    "position": 3,
+    "name": "Options Compared",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Jun 2019",
+          "fs": "Jun 2019",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "The relative ranking of the pharmaceutical application has been completed.",
+          "fs": "The relative ranking of the pharmaceutical application has been completed.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ000007TiMo2AK"
+          },
+          "Id": "a0POZ000007TiMo2AK",
+          "Event_Date__c": "2019-06-03",
+          "Event_Description__c": "The relative ranking of the pharmaceutical application has been completed.",
+          "Stage__c": "Options Compared",
+          "Formatted_Date__c": "Jun 2019",
+          "Status_History__c": "a132P000000ArgfQAC"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "May 2021",
+          "fs": "May 2021",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "The relative ranking of the pharmaceutical application has been completed.",
+          "fs": "The relative ranking of the pharmaceutical application has been completed.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ000007TiMs2AK"
+          },
+          "Id": "a0POZ000007TiMs2AK",
+          "Event_Date__c": "2021-05-27",
+          "Event_Description__c": "The relative ranking of the pharmaceutical application has been completed.",
+          "Stage__c": "Options Compared",
+          "Formatted_Date__c": "May 2021",
+          "Status_History__c": "a132P000000CsgaQAC"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Jun 2019",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Pharmac is consulting on a proposal to either approve or decline the application.&nbsp;We seek the views of all people who have an interest in our proposals, or who may be affected by them, to obtain feedback on our proposed approaches.</p>\r\n<p><a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/having-your-say/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/having-your-say/</a></p>",
+    "position": 4,
+    "name": "Under Consultation",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": "<p><a href=\"https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/proposal-to-fund-treatments-for-ovarian-cancer-respiratory-disorders-infectious-diseases-and-vasculitis\" target=\"_blank\">Consultation Letter</a></p>",
+          "fs": "<p><a href=\"https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/proposal-to-fund-treatments-for-ovarian-cancer-respiratory-disorders-infectious-diseases-and-vasculitis\" target=\"_blank\">Consultation Letter</a></p>",
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Feb 2024",
+          "fs": "Feb 2024",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Public consultation for this application is active.",
+          "fs": "Public consultation for this application is active.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ000007TiMt2AK"
+          },
+          "Id": "a0POZ000007TiMt2AK",
+          "Event_Date__c": "2024-02-15",
+          "Event_Description__c": "Public consultation for this application is active.",
+          "Stage__c": "Under Consultation",
+          "Links__c": "<p><a href=\"https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/proposal-to-fund-treatments-for-ovarian-cancer-respiratory-disorders-infectious-diseases-and-vasculitis\" target=\"_blank\">Consultation Letter</a></p>",
+          "Formatted_Date__c": "Feb 2024",
+          "Status_History__c": "a13OZ000007tOP9YAM"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Feb 2024",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Following the consultation process, Pharmac staff considers the feedback and identifies any additional information required as part of a gap analysis.&nbsp; The proposal may require further clinical advice, research, and assessment.</p>",
+    "position": 5,
+    "name": "Reviewing Consultation Feedback",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Feb 2024",
+          "fs": "Feb 2024",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Public consultation for this application is now closed. Pharmac is reviewing consultation feedback.",
+          "fs": "Public consultation for this application is now closed. Pharmac is reviewing consultation feedback.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ000007TiMu2AK"
+          },
+          "Id": "a0POZ000007TiMu2AK",
+          "Event_Date__c": "2024-02-29",
+          "Event_Description__c": "Public consultation for this application is now closed. Pharmac is reviewing consultation feedback.",
+          "Stage__c": "Reviewing Consultation Feedback",
+          "Formatted_Date__c": "Feb 2024",
+          "Status_History__c": "a13OZ000007tW6TYAU"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Feb 2024",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>We refer to our decisions about whether and how particular pharmaceuticals are publicly-funded, as &ldquo;funding decisions&rdquo;.</p>\r\n<p>We consider and assess all funding decisions using the&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/about/operating-policies-and-procedures/#factorsfc\" rel=\"nofollow\">Factors for Consideration</a>. When we do so, we carefully evaluate clinical and other evidence for the benefits and suitability of a proposal, and to identify and understand the people who will be affected by it.</p>\r\n<p>While our main task is to allocate pharmaceutical funding, we consider the benefits and costs across the whole health system now and with a long-term focus, including the effects for hospitals and primary care, and consider direct costs to patients as well as to all health sector budgets.</p>\r\n<p>Final funding decisions are made by the Pharmac Board or delegated to senior Pharmac staff as required by the Board.</p>\r\n<p>&nbsp;</p>",
+    "position": 6,
+    "name": "Decision",
+    "last": true,
+    "events": [
+      {
+        "Summary": {
+          "s": "https://pharmac.govt.nz/news-and-resources/news/summary-of-decision-single-inhaler-triple-therapy-for-copd",
+          "fs": "https://pharmac.govt.nz/news-and-resources/news/summary-of-decision-single-inhaler-triple-therapy-for-copd",
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Apr 2024",
+          "fs": "Apr 2024",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "The funding application has been approved.",
+          "fs": "The funding application has been approved.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ000007TiMv2AK"
+          },
+          "Id": "a0POZ000007TiMv2AK",
+          "Event_Date__c": "2024-04-18",
+          "Event_Description__c": "The funding application has been approved.",
+          "Stage__c": "Decision",
+          "Summary__c": "https://pharmac.govt.nz/news-and-resources/news/summary-of-decision-single-inhaler-triple-therapy-for-copd",
+          "Formatted_Date__c": "Apr 2024",
+          "Status_History__c": "a13OZ0000096cQTYAY"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Apr 2024",
+    "collapsed": false,
+    "checked": true
+  }
+]

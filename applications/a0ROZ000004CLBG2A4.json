@@ -1,0 +1,872 @@
+[
+  {
+    "text": "<p>New funding applications are referred to one of Pharmac's Funding Application Advisors (FAAs), who'll review the application to ensure they have the relevant information to undertake a preliminary analysis.&nbsp; They may seek more information if required.</p>\r\n<p><a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/new-funding-applications/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/new-funding-applications/</a></p>",
+    "position": 0,
+    "name": "Application Received",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Jul 2018",
+          "fs": "Jul 2018",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Application received",
+          "fs": "Application received",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000B4BYK2A3"
+          },
+          "Id": "a0POZ00000B4BYK2A3",
+          "Event_Date__c": "2018-07-11",
+          "Event_Description__c": "Application received",
+          "Stage__c": "Application Received",
+          "Formatted_Date__c": "Jul 2018",
+          "Status_History__c": "a132P000000ArUeQAK"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Jul 2018",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Pharmac is identifying and gathering information required to get clinical advice.  The <a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/pharmacology-and-therapeutics-advisory-committee-ptac/\" rel=\"nofollow\">Pharmacology and Therapeutics Advisory Committee (PTAC)</a>  meets quarterly. There are also around 20 expert <a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/specialist-advisory-committees/\" rel=\"nofollow\">Specialist Advisory Committees (SACs)</a>, previously expert Subcommittees, which provide clinical evaluations in specialist areas. Specialist Advisory Committees meet as required to discuss issues referred to them by PTAC or Pharmac.</p>\n<p style=\"height: 20px\">&nbsp;</p>\n<p>In November 2021, we introduced separate terms of reference for the SACs to make clear that these committees have different, but complementary, roles, expertise and perspectives to PTAC.</p>\n<p style=\"height: 15px\">&nbsp;</p>\n<p>PTAC and SACs may make recommendations to Pharmac that differ from each other when looking at the same evidence. Pharmac considers the recommendations provided by all our clinical advisory committees when assessing applications.</p>\n<p style=\"height: 20px\">&nbsp;</p>\n<p><a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/pharmacology-and-therapeutics-advisory-committee-ptac/ptac-terms-of-reference-july-2021/\" rel=\"nofollow\">PTAC</a>  and <a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/specialist-advisory-committees/specialist-advisory-committee-terms-of-reference//\" rel=\"nofollow\">Specialist Advisory Committees</a> records of the meeting will be published on this website in accordance with the Terms of Reference.</p>",
+    "position": 1,
+    "name": "Seeking Clinical Advice",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Mar 2019",
+          "fs": "Mar 2019",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Clinical advice required",
+          "fs": "Clinical advice required",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000B4BYL2A3"
+          },
+          "Id": "a0POZ00000B4BYL2A3",
+          "Event_Date__c": "2019-03-06",
+          "Event_Description__c": "Clinical advice required",
+          "Stage__c": "Seeking Clinical Advice",
+          "Formatted_Date__c": "Mar 2019",
+          "Status_History__c": "a132P000000Ard3QAC"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": "<p>The Committee recommended that capsaicin cream 0.075% for the treatment of cannabinoid hyperemesis syndrome be declined based on limited evidence of benefit, an unclear mechanism of action of the treatment in the proposed indication and funded alternatives.</p>",
+          "fs": "<p>The Committee recommended that capsaicin cream 0.075% for the treatment of cannabinoid hyperemesis syndrome be declined based on limited evidence of benefit, an unclear mechanism of action of the treatment in the proposed indication and funded alternatives.</p>",
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": "<p>The Committee considered data released by the Ministry of Health which reported that 11% of adults aged 15 years and older reported using cannabis in the last 12 months. Of these, 34% reported using cannabis at least weekly. M\u0101ori men and women were significantly more likely to report cannabis use compared to non-M\u0101ori men and women, as were adults living in the most deprived areas compared to adults living in the least deprived areas. </p><p><br></p><p>The Committee considered a single-centre study by Habboushe J et al. (Basic Clin Pharmacol Toxicol 2018;122:660-2). The Committee noted that this study investigated the prevalence of cannabinoid hyperemesis syndrome, among 155 people reporting marijuana usage 20 or more days per month, and that 51 (32.9%) were categorised as having experienced mild-severe cannabinoid hyperemesis syndrome symptoms in the past 6 months. The Committee considered that the authors of this study reported a number of limitations, including the potential for under-reporting of marijuana use which may have introduced bias to the sample. </p><p><br></p><p>The Committee considered that the epidemiology of cannabinoid hyperemesis syndrome is not well characterised, but that based on the available published literature and the estimated number of weekly cannabis users in NZ, up to ~32,000 New Zealanders could have experienced cannabinoid hyperemesis syndrome at some level of severity in the last 6 months. The Committee considered that the true prevalence of cannabinoid hyperemesis syndrome has potential to increase over time with increasing recreational and/or medicinal use of cannabinoids. Furthermore, the Committee considered that increased recognition of the syndrome may lead to increased diagnosed prevalence in future. </p><p><br></p><p>The Committee considered that based on anecdotal reports from different DHB hospital emergency departments there could be roughly 2000 \u2013 4000 presentations to emergency departments or after hours clinics for cannabinoid hyperemesis syndrome in New Zealand each year. </p><p><br></p><p>The Committee considered a case series of 98 patients with cannabinoid hyperemesis syndrome (Simonetto et al. Mayo Clin Proc. 2012;87:114-9) and noted that cannabinoid hyperemesis syndrome is characterised by paradoxical, intractable vomiting on a background of chronic marijuana use. A pathognomonic feature is temporary relief of symptoms with compulsive use of hot-water bathing. </p><p><br></p><p>The Committee considered a systematic review describing the pharmacologic treatment of cannabinoid hyperemesis syndrome (Richards JR et al. Pharmacotherapy 2017;37:725-34.). The Committee noted that cannabinoid hyperemesis syndrome is associated with frequent emergency department presentations and diagnostic delay.</p><p><br></p><p>The Committee noted that patients with cannabinoid hyperemesis syndrome typically receive multiple diagnostic tests and procedures, with symptoms generally refractory to standard treatments. The Committee noted that cannabinoid hyperemesis syndrome has also been associated with further sequelae, including acute renal failure. The Committee considered that anecdotal reports from NZ clinicians suggest that patients presenting with cannabinoid hyperemesis syndrome are often extremely distressed, are slow to discharge from the emergency department or require hospital admission. </p><p><br></p><p>The Committee noted that a number of authors have concluded that the most effective treatment for cannabinoid hyperemesis syndrome appears to be cannabis cessation (Sorensen CJ et al. J Med Toxicol 2017;13:71-87., Richards JR et al. Pharmacotherapy 2017;37:725-34., Lapoint J et al. West J Emerg Med 2018;19:380-6.). The Committee considered that other treatments considered for use are supportive care with intravenous fluids, benzodiazepines and dopamine antagonists. The Committee considered that currently funded anti-emetics (including ondansetron, cyclizine and metoclopramide), have been reported to be often ineffective (Richards JR et al. Pharmacotherapy 2017;37:725-34.); and, that intravenous haloperidol has some limited evidence of efficacy (Sorensen CJ et al. J Med Toxicol 2017;13:71-87., Richards JR et al. Pharmacotherapy 2017;37:725-34.). The Committee considered that the evidence in support of the treatments for cannabinoid hyperemesis syndrome was of poor quality. The Committee considered that current treatment approaches in New Zealand include cannabis cessation, intravenous fluids, high dose haloperidol and antiemetics in addition to hot showers. The Committee considered that anecdotal reports from NZ clinicians suggested that the current treatment options are considered to have limited efficacy and that the addition of capsaicin cream to the therapeutic armamentarium would lead to shorter length of stays, more self-management at home and lower risks of treatment toxicity. The Committee considered that some NZ clinicians are suggesting patients purchase capsaicin cream over the counter to manage the symptoms of cannabinoid hyperemesis syndrome. </p><p><br></p><p>The Committee considered that one 45g tube of capsaicin cream would allow for at least 1.5 applications of capsaicin cream to the entire body. The Committee considered that the application area for cannabinoid hyperemesis syndrome would be smaller than the entire body and therefore 1 tube would likely be sufficient for one patient per cannabinoid hyperemesis syndrome episode. The Committee considered that there would be community use of capsaicin cream but that funding could be limited to the hospital setting to allow use in the emergency department setting, with additional tubes purchased from a pharmacy if required. </p><p><br></p><p>The Committee considered three published case reports/series that provide the primary evidence for the health benefits of capsaicin cream for the treatment of cannabinoid hyperemesis syndrome:</p><ul><li>A case series published by <a href=\"https://www.ncbi.nlm.nih.gov/pubmed/28494183\" target=\"_blank\">Dezieck L et al</a>. (Clin Toxicol 2017;55:908-13), described 13 cases of suspected cannabinoid hyperemesis syndrome treated with capsaicin cream. All 13 patients experienced symptom relief after administration of capsaicin cream, with a median time to discharge of 216 minutes. Some patients (not quantified) found burning sensation intolerable resulting in refusal of further dosing.</li><li>A case series published by <a href=\"https://www.ncbi.nlm.nih.gov/pubmed/29122973\" target=\"_blank\">Graham J et al</a>. (Pediatrics 2017;140:e20163796), described 2 cases of diagnosed cannabinoid hyperemesis syndrome in adolescent patients treated with capsaicin cream. Both patients experienced abdominal pain and nausea symptom improvement after administration of capsaicin cream. Both patients reported a burning sensation.</li><li>A case study published by <a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5758720/\" target=\"_blank\">Moon AM et al</a>. (ACG Case Rep J 2018;5:e3), described a patient with diagnosed cannabinoid hyperemesis syndrome whose symptoms improved with capsaicin cream. The patient reported burning of the skin.</li></ul><p>The Committee considered that the evidence to support the use of capsaicin cream in the management of cannabinoid hyperemesis syndrome was limited to a small number of case studies, was of poor quality, and that a randomised controlled trial would be needed to demonstrate efficacy in comparison to alternative funded treatments. </p><p><br></p><p>The Committee noted that capsaicin cream has not been approved by Medsafe for the treatment of cannabinoid hyperemesis syndrome. The Committee considered that the mechanism of action of capsaicin cream in cannabinoid hyperemesis syndrome was unclear and would not support empirical use. </p><p><br></p><p>The Committee suggested that NZ clinicians involved in the management of cannabinoid hyperemesis syndrome could investigate the option of conducting a small study to demonstrate the efficacy of capsaicin cream in comparison to alternative treatments in the New Zealand clinical setting.</p><p>\u00a0The Committee considered that randomised controlled trial evidence of treatment effect would be needed to justify a positive recommendation for the funding of capsaicin cream for cannabinoid hyperemesis syndrome.</p>",
+          "fs": "<p>The Committee considered data released by the Ministry of Health which reported that 11% of adults aged 15 years and older reported using cannabis in the last 12 months. Of these, 34% reported using cannabis at least weekly. M\u0101ori men and women were significantly more likely to report cannabis use compared to non-M\u0101ori men and women, as were adults living in the most deprived areas compared to adults living in the least deprived areas. </p><p><br></p><p>The Committee considered a single-centre study by Habboushe J et al. (Basic Clin Pharmacol Toxicol 2018;122:660-2). The Committee noted that this study investigated the prevalence of cannabinoid hyperemesis syndrome, among 155 people reporting marijuana usage 20 or more days per month, and that 51 (32.9%) were categorised as having experienced mild-severe cannabinoid hyperemesis syndrome symptoms in the past 6 months. The Committee considered that the authors of this study reported a number of limitations, including the potential for under-reporting of marijuana use which may have introduced bias to the sample. </p><p><br></p><p>The Committee considered that the epidemiology of cannabinoid hyperemesis syndrome is not well characterised, but that based on the available published literature and the estimated number of weekly cannabis users in NZ, up to ~32,000 New Zealanders could have experienced cannabinoid hyperemesis syndrome at some level of severity in the last 6 months. The Committee considered that the true prevalence of cannabinoid hyperemesis syndrome has potential to increase over time with increasing recreational and/or medicinal use of cannabinoids. Furthermore, the Committee considered that increased recognition of the syndrome may lead to increased diagnosed prevalence in future. </p><p><br></p><p>The Committee considered that based on anecdotal reports from different DHB hospital emergency departments there could be roughly 2000 \u2013 4000 presentations to emergency departments or after hours clinics for cannabinoid hyperemesis syndrome in New Zealand each year. </p><p><br></p><p>The Committee considered a case series of 98 patients with cannabinoid hyperemesis syndrome (Simonetto et al. Mayo Clin Proc. 2012;87:114-9) and noted that cannabinoid hyperemesis syndrome is characterised by paradoxical, intractable vomiting on a background of chronic marijuana use. A pathognomonic feature is temporary relief of symptoms with compulsive use of hot-water bathing. </p><p><br></p><p>The Committee considered a systematic review describing the pharmacologic treatment of cannabinoid hyperemesis syndrome (Richards JR et al. Pharmacotherapy 2017;37:725-34.). The Committee noted that cannabinoid hyperemesis syndrome is associated with frequent emergency department presentations and diagnostic delay.</p><p><br></p><p>The Committee noted that patients with cannabinoid hyperemesis syndrome typically receive multiple diagnostic tests and procedures, with symptoms generally refractory to standard treatments. The Committee noted that cannabinoid hyperemesis syndrome has also been associated with further sequelae, including acute renal failure. The Committee considered that anecdotal reports from NZ clinicians suggest that patients presenting with cannabinoid hyperemesis syndrome are often extremely distressed, are slow to discharge from the emergency department or require hospital admission. </p><p><br></p><p>The Committee noted that a number of authors have concluded that the most effective treatment for cannabinoid hyperemesis syndrome appears to be cannabis cessation (Sorensen CJ et al. J Med Toxicol 2017;13:71-87., Richards JR et al. Pharmacotherapy 2017;37:725-34., Lapoint J et al. West J Emerg Med 2018;19:380-6.). The Committee considered that other treatments considered for use are supportive care with intravenous fluids, benzodiazepines and dopamine antagonists. The Committee considered that currently funded anti-emetics (including ondansetron, cyclizine and metoclopramide), have been reported to be often ineffective (Richards JR et al. Pharmacotherapy 2017;37:725-34.); and, that intravenous haloperidol has some limited evidence of efficacy (Sorensen CJ et al. J Med Toxicol 2017;13:71-87., Richards JR et al. Pharmacotherapy 2017;37:725-34.). The Committee considered that the evidence in support of the treatments for cannabinoid hyperemesis syndrome was of poor quality. The Committee considered that current treatment approaches in New Zealand include cannabis cessation, intravenous fluids, high dose haloperidol and antiemetics in addition to hot showers. The Committee considered that anecdotal reports from NZ clinicians suggested that the current treatment options are considered to have limited efficacy and that the addition of capsaicin cream to the therapeutic armamentarium would lead to shorter length of stays, more self-management at home and lower risks of treatment toxicity. The Committee considered that some NZ clinicians are suggesting patients purchase capsaicin cream over the counter to manage the symptoms of cannabinoid hyperemesis syndrome. </p><p><br></p><p>The Committee considered that one 45g tube of capsaicin cream would allow for at least 1.5 applications of capsaicin cream to the entire body. The Committee considered that the application area for cannabinoid hyperemesis syndrome would be smaller than the entire body and therefore 1 tube would likely be sufficient for one patient per cannabinoid hyperemesis syndrome episode. The Committee considered that there would be community use of capsaicin cream but that funding could be limited to the hospital setting to allow use in the emergency department setting, with additional tubes purchased from a pharmacy if required. </p><p><br></p><p>The Committee considered three published case reports/series that provide the primary evidence for the health benefits of capsaicin cream for the treatment of cannabinoid hyperemesis syndrome:</p><ul><li>A case series published by <a href=\"https://www.ncbi.nlm.nih.gov/pubmed/28494183\" target=\"_blank\">Dezieck L et al</a>. (Clin Toxicol 2017;55:908-13), described 13 cases of suspected cannabinoid hyperemesis syndrome treated with capsaicin cream. All 13 patients experienced symptom relief after administration of capsaicin cream, with a median time to discharge of 216 minutes. Some patients (not quantified) found burning sensation intolerable resulting in refusal of further dosing.</li><li>A case series published by <a href=\"https://www.ncbi.nlm.nih.gov/pubmed/29122973\" target=\"_blank\">Graham J et al</a>. (Pediatrics 2017;140:e20163796), described 2 cases of diagnosed cannabinoid hyperemesis syndrome in adolescent patients treated with capsaicin cream. Both patients experienced abdominal pain and nausea symptom improvement after administration of capsaicin cream. Both patients reported a burning sensation.</li><li>A case study published by <a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5758720/\" target=\"_blank\">Moon AM et al</a>. (ACG Case Rep J 2018;5:e3), described a patient with diagnosed cannabinoid hyperemesis syndrome whose symptoms improved with capsaicin cream. The patient reported burning of the skin.</li></ul><p>The Committee considered that the evidence to support the use of capsaicin cream in the management of cannabinoid hyperemesis syndrome was limited to a small number of case studies, was of poor quality, and that a randomised controlled trial would be needed to demonstrate efficacy in comparison to alternative funded treatments. </p><p><br></p><p>The Committee noted that capsaicin cream has not been approved by Medsafe for the treatment of cannabinoid hyperemesis syndrome. The Committee considered that the mechanism of action of capsaicin cream in cannabinoid hyperemesis syndrome was unclear and would not support empirical use. </p><p><br></p><p>The Committee suggested that NZ clinicians involved in the management of cannabinoid hyperemesis syndrome could investigate the option of conducting a small study to demonstrate the efficacy of capsaicin cream in comparison to alternative treatments in the New Zealand clinical setting.</p><p>\u00a0The Committee considered that randomised controlled trial evidence of treatment effect would be needed to justify a positive recommendation for the funding of capsaicin cream for cannabinoid hyperemesis syndrome.</p>",
+          "change": null
+        },
+        "Published_Application": {
+          "s": "<p>The Committee reviewed an application from a clinician for capsaicin cream 0.075% for the treatment of cannabinoid hyperemesis syndrome. </p><p><br></p><p>The Committee took into account, where applicable, PHARMAC\u2019s relevant decision-making framework when considering this agenda item.\u00a0</p>",
+          "fs": "<p>The Committee reviewed an application from a clinician for capsaicin cream 0.075% for the treatment of cannabinoid hyperemesis syndrome. </p><p><br></p><p>The Committee took into account, where applicable, PHARMAC\u2019s relevant decision-making framework when considering this agenda item.\u00a0</p>",
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": "Decline",
+          "fs": "Decline",
+          "change": null
+        },
+        "Links": {
+          "s": "<a href=\"https://www.pharmac.govt.nz/assets/ptac-minutes-2019-05.pdf\" target=\"_blank\">PTAC minutes</a>",
+          "fs": "<a href=\"https://www.pharmac.govt.nz/assets/ptac-minutes-2019-05.pdf\" target=\"_blank\">PTAC minutes</a>",
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "May 2019",
+          "fs": "May 2019",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Clinical advice received from Pharmacology and Therapeutics Advisory Committee (PTAC) at meeting Thursday 23 May 2019.",
+          "fs": "Clinical advice received from Pharmacology and Therapeutics Advisory Committee (PTAC) at meeting Thursday 23 May 2019.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000B4BYM2A3"
+          },
+          "Id": "a0POZ00000B4BYM2A3",
+          "Event_Date__c": "2019-05-23",
+          "Event_Description__c": "Clinical advice received from Pharmacology and Therapeutics Advisory Committee (PTAC) at meeting Thursday 23 May 2019.",
+          "Stage__c": "Seeking Clinical Advice",
+          "Links__c": "<a href=\"https://www.pharmac.govt.nz/assets/ptac-minutes-2019-05.pdf\" target=\"_blank\">PTAC minutes</a>",
+          "Outcome__c": "Decline",
+          "Formatted_Date__c": "May 2019",
+          "Published_Recommendation__c": "<p>The Committee recommended that capsaicin cream 0.075% for the treatment of cannabinoid hyperemesis syndrome be declined based on limited evidence of benefit, an unclear mechanism of action of the treatment in the proposed indication and funded alternatives.</p>",
+          "Published_Application__c": "<p>The Committee reviewed an application from a clinician for capsaicin cream 0.075% for the treatment of cannabinoid hyperemesis syndrome. </p><p><br></p><p>The Committee took into account, where applicable, PHARMAC\u2019s relevant decision-making framework when considering this agenda item.\u00a0</p>",
+          "Published_Discussion__c": "<p>The Committee considered data released by the Ministry of Health which reported that 11% of adults aged 15 years and older reported using cannabis in the last 12 months. Of these, 34% reported using cannabis at least weekly. M\u0101ori men and women were significantly more likely to report cannabis use compared to non-M\u0101ori men and women, as were adults living in the most deprived areas compared to adults living in the least deprived areas. </p><p><br></p><p>The Committee considered a single-centre study by Habboushe J et al. (Basic Clin Pharmacol Toxicol 2018;122:660-2). The Committee noted that this study investigated the prevalence of cannabinoid hyperemesis syndrome, among 155 people reporting marijuana usage 20 or more days per month, and that 51 (32.9%) were categorised as having experienced mild-severe cannabinoid hyperemesis syndrome symptoms in the past 6 months. The Committee considered that the authors of this study reported a number of limitations, including the potential for under-reporting of marijuana use which may have introduced bias to the sample. </p><p><br></p><p>The Committee considered that the epidemiology of cannabinoid hyperemesis syndrome is not well characterised, but that based on the available published literature and the estimated number of weekly cannabis users in NZ, up to ~32,000 New Zealanders could have experienced cannabinoid hyperemesis syndrome at some level of severity in the last 6 months. The Committee considered that the true prevalence of cannabinoid hyperemesis syndrome has potential to increase over time with increasing recreational and/or medicinal use of cannabinoids. Furthermore, the Committee considered that increased recognition of the syndrome may lead to increased diagnosed prevalence in future. </p><p><br></p><p>The Committee considered that based on anecdotal reports from different DHB hospital emergency departments there could be roughly 2000 \u2013 4000 presentations to emergency departments or after hours clinics for cannabinoid hyperemesis syndrome in New Zealand each year. </p><p><br></p><p>The Committee considered a case series of 98 patients with cannabinoid hyperemesis syndrome (Simonetto et al. Mayo Clin Proc. 2012;87:114-9) and noted that cannabinoid hyperemesis syndrome is characterised by paradoxical, intractable vomiting on a background of chronic marijuana use. A pathognomonic feature is temporary relief of symptoms with compulsive use of hot-water bathing. </p><p><br></p><p>The Committee considered a systematic review describing the pharmacologic treatment of cannabinoid hyperemesis syndrome (Richards JR et al. Pharmacotherapy 2017;37:725-34.). The Committee noted that cannabinoid hyperemesis syndrome is associated with frequent emergency department presentations and diagnostic delay.</p><p><br></p><p>The Committee noted that patients with cannabinoid hyperemesis syndrome typically receive multiple diagnostic tests and procedures, with symptoms generally refractory to standard treatments. The Committee noted that cannabinoid hyperemesis syndrome has also been associated with further sequelae, including acute renal failure. The Committee considered that anecdotal reports from NZ clinicians suggest that patients presenting with cannabinoid hyperemesis syndrome are often extremely distressed, are slow to discharge from the emergency department or require hospital admission. </p><p><br></p><p>The Committee noted that a number of authors have concluded that the most effective treatment for cannabinoid hyperemesis syndrome appears to be cannabis cessation (Sorensen CJ et al. J Med Toxicol 2017;13:71-87., Richards JR et al. Pharmacotherapy 2017;37:725-34., Lapoint J et al. West J Emerg Med 2018;19:380-6.). The Committee considered that other treatments considered for use are supportive care with intravenous fluids, benzodiazepines and dopamine antagonists. The Committee considered that currently funded anti-emetics (including ondansetron, cyclizine and metoclopramide), have been reported to be often ineffective (Richards JR et al. Pharmacotherapy 2017;37:725-34.); and, that intravenous haloperidol has some limited evidence of efficacy (Sorensen CJ et al. J Med Toxicol 2017;13:71-87., Richards JR et al. Pharmacotherapy 2017;37:725-34.). The Committee considered that the evidence in support of the treatments for cannabinoid hyperemesis syndrome was of poor quality. The Committee considered that current treatment approaches in New Zealand include cannabis cessation, intravenous fluids, high dose haloperidol and antiemetics in addition to hot showers. The Committee considered that anecdotal reports from NZ clinicians suggested that the current treatment options are considered to have limited efficacy and that the addition of capsaicin cream to the therapeutic armamentarium would lead to shorter length of stays, more self-management at home and lower risks of treatment toxicity. The Committee considered that some NZ clinicians are suggesting patients purchase capsaicin cream over the counter to manage the symptoms of cannabinoid hyperemesis syndrome. </p><p><br></p><p>The Committee considered that one 45g tube of capsaicin cream would allow for at least 1.5 applications of capsaicin cream to the entire body. The Committee considered that the application area for cannabinoid hyperemesis syndrome would be smaller than the entire body and therefore 1 tube would likely be sufficient for one patient per cannabinoid hyperemesis syndrome episode. The Committee considered that there would be community use of capsaicin cream but that funding could be limited to the hospital setting to allow use in the emergency department setting, with additional tubes purchased from a pharmacy if required. </p><p><br></p><p>The Committee considered three published case reports/series that provide the primary evidence for the health benefits of capsaicin cream for the treatment of cannabinoid hyperemesis syndrome:</p><ul><li>A case series published by <a href=\"https://www.ncbi.nlm.nih.gov/pubmed/28494183\" target=\"_blank\">Dezieck L et al</a>. (Clin Toxicol 2017;55:908-13), described 13 cases of suspected cannabinoid hyperemesis syndrome treated with capsaicin cream. All 13 patients experienced symptom relief after administration of capsaicin cream, with a median time to discharge of 216 minutes. Some patients (not quantified) found burning sensation intolerable resulting in refusal of further dosing.</li><li>A case series published by <a href=\"https://www.ncbi.nlm.nih.gov/pubmed/29122973\" target=\"_blank\">Graham J et al</a>. (Pediatrics 2017;140:e20163796), described 2 cases of diagnosed cannabinoid hyperemesis syndrome in adolescent patients treated with capsaicin cream. Both patients experienced abdominal pain and nausea symptom improvement after administration of capsaicin cream. Both patients reported a burning sensation.</li><li>A case study published by <a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5758720/\" target=\"_blank\">Moon AM et al</a>. (ACG Case Rep J 2018;5:e3), described a patient with diagnosed cannabinoid hyperemesis syndrome whose symptoms improved with capsaicin cream. The patient reported burning of the skin.</li></ul><p>The Committee considered that the evidence to support the use of capsaicin cream in the management of cannabinoid hyperemesis syndrome was limited to a small number of case studies, was of poor quality, and that a randomised controlled trial would be needed to demonstrate efficacy in comparison to alternative funded treatments. </p><p><br></p><p>The Committee noted that capsaicin cream has not been approved by Medsafe for the treatment of cannabinoid hyperemesis syndrome. The Committee considered that the mechanism of action of capsaicin cream in cannabinoid hyperemesis syndrome was unclear and would not support empirical use. </p><p><br></p><p>The Committee suggested that NZ clinicians involved in the management of cannabinoid hyperemesis syndrome could investigate the option of conducting a small study to demonstrate the efficacy of capsaicin cream in comparison to alternative treatments in the New Zealand clinical setting.</p><p>\u00a0The Committee considered that randomised controlled trial evidence of treatment effect would be needed to justify a positive recommendation for the funding of capsaicin cream for cannabinoid hyperemesis syndrome.</p>",
+          "Status_History__c": "a132P000000ArfqQAC"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Aug 2021",
+          "fs": "Aug 2021",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Clinical advice required",
+          "fs": "Clinical advice required",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000B4BYQ2A3"
+          },
+          "Id": "a0POZ00000B4BYQ2A3",
+          "Event_Date__c": "2021-08-18",
+          "Event_Description__c": "Clinical advice required",
+          "Stage__c": "Seeking Clinical Advice",
+          "Formatted_Date__c": "Aug 2021",
+          "Status_History__c": "a132P000000ED9zQAG"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": "<p>The Committee recommended that capsaicin cream 0.075% for the treatment of cannabinoid hyperemesis syndrome be declined, based on limited evidence of benefit.</p>",
+          "fs": "<p>The Committee recommended that capsaicin cream 0.075% for the treatment of cannabinoid hyperemesis syndrome be declined, based on limited evidence of benefit.</p>",
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": "<p>7.1.7. The Committee considered correspondence submitted from a DHB pharmacist relating to a funding application for capsaicin 0.075% cream for cannabinoid hyperemesis syndrome. The Committee noted it had previously considered this application at its meeting in May 2019 and had recommended it be declined based on limited evidence of benefit, an unclear mechanism of action, and availability of funded alternatives.</p><p><br></p><p>7.1.8. The Committee noted that the applicant had provided updated evidence (Dean et al. Acad Emerg Med. 2020 Nov;27(11):1166-1172), that had been published after its meeting in May 2019.\u00a0</p><p><br></p><p>7.1.8.1. The Committee considered the publication by Dean et al. (Acad Emerg Med. 2020), a randomized, double-blind, placebo-controlled trial for capsaicin 0.075% cream for the treatment of cannabinoid hyperemesis syndrome (CHS).</p><p><br></p><p>7.1.8.2. The Committee noted the trial enrolled 30 patients, 17 in the capsaicin arm and 13 in the placebo arm. The primary outcome was the severity of nausea on a visual analog scale (VAS), and the authors reported a reduction of mean nausea severity of 6.4 \u00b1 2.8 cm versus 3.2 \u00b1 3.2 cm (difference -3.2 cm, 95% CI, -0.9 to -5.4 cm) at 60 minutes post treatment. The Committee noted there was no significant difference in the mean nausea score at the 30-minute interval, with a mean nausea severity of 4.1 \u00b1 2.3 cm in the capsaicin arm, and 6.1 \u00b1 3.3 cm in the placebo arm (difference -2.0 cm, 95% CI, 0.2 to -4.2 cm). The Committee noted overlapping confidence intervals and that a higher proportion of the treatment group had complete cessation of nausea (29.4% vs. 0%).</p><p><br></p><p>7.1.8.3. The Committee considered that even though the study was designed as a randomized double-blind placebo-controlled trial that it would have been difficult to control for the burning and/or itching that may occur when the product is applied.</p><p><br></p><p>7.1.9. The Committee noted a retrospective study (Lee et al. Ann Pharmacother. 2021 May 17;10600280211018516) that investigated the use of capsaicin cream in patients presenting to the emergency department (ED) with suspected CHS. The authors of the study reported a median pain score decrease from 8 [IQR, 2-9] to 5.5 [IQR, 0-8]. The Committee considered that despite treatment with capsaicin cream, further treatment was required in 58% of participants.</p><p><br></p><p>7.1.10.The Committee noted a single-centre retrospective study (Kum et al. Am J Emerg Med. 2021 Nov;49:343-351) that evaluated the efficacy of capsaicin in patients presenting to the ED with suspected or confirmed CHS. The Committee noted the authors reported the treatment group using 0.025% capsaicin cream achieved 58% efficacy, defined as only requiring \u22641 rescue medication for symptom relief after capsaicin treatment, compared to 21% in the patient group without capsaicin. A secondary outcome of time to discharge after administration was 3.7 hours in the treatment group compared to 6.1 hours without capsaicin.</p><p><br></p><p>7.1.11.The Committee considered a retrospective cohort analysis (Wagner et al. Clin Toxicol (Phila). 2020 Jun;58(6):471-475) that evaluated the safety and efficacy of topical capsaicin (multiple concentrations) for patients presenting with cannabinoid hyperemesis syndrome. The Committee noted that the authors reported the length of stay (LOS) in ED decreased by 22 minutes with capsaicin treatment.</p><p><br></p><p>7.1.12.The Committee considered that in the NZ context patients who present to ED are repeatedly admitted (~4 months between visits), and often present with recurrent abdominal symptoms and use of recreational drugs. However, the Committee considered that it had not seen robust evidence to support that treatment with capsaicin cream 0.075% would have an effect on the number of presentations, time in hospital, or reduction in symptoms.</p><p><br></p><p>7.1.13.The Committee considered that its previous estimated patient numbers of 2,000- 3,000 per year were likely an overestimate and that the Pharmac staff estimate of 1,000 patients per year seemed more realistic. </p><p><br></p><p>7.1.14.Overall, the Committee considered that there was a lack of consensus on the definition for CHS between studies and considered that clinically meaningful benefits were uncertain based on the low quality and low strength of evidence. The Committee considered that it is an area of emerging research and would be happy to review the application should new evidence become available.</p><p><br></p><p>7.1.15.The Committee considered that the price of capsaicin was approximately $12 per tube and that the impact to the Combined Pharmaceutical Budget if capsaicin cream was to be funded for CHS would likely be low. However, the Committee considered that due to the poor quality of evidence that its recommendation for the application to be declined remained.</p><p><br></p><p>7.1.16.The Committee noted that the applicant\u2019s DHB was considering running a trial to investigate the use of capsaicin cream for the treatment of CHS in the NZ population and that it would be happy to review the results from the trial once available.</p>",
+          "fs": "<p>7.1.7. The Committee considered correspondence submitted from a DHB pharmacist relating to a funding application for capsaicin 0.075% cream for cannabinoid hyperemesis syndrome. The Committee noted it had previously considered this application at its meeting in May 2019 and had recommended it be declined based on limited evidence of benefit, an unclear mechanism of action, and availability of funded alternatives.</p><p><br></p><p>7.1.8. The Committee noted that the applicant had provided updated evidence (Dean et al. Acad Emerg Med. 2020 Nov;27(11):1166-1172), that had been published after its meeting in May 2019.\u00a0</p><p><br></p><p>7.1.8.1. The Committee considered the publication by Dean et al. (Acad Emerg Med. 2020), a randomized, double-blind, placebo-controlled trial for capsaicin 0.075% cream for the treatment of cannabinoid hyperemesis syndrome (CHS).</p><p><br></p><p>7.1.8.2. The Committee noted the trial enrolled 30 patients, 17 in the capsaicin arm and 13 in the placebo arm. The primary outcome was the severity of nausea on a visual analog scale (VAS), and the authors reported a reduction of mean nausea severity of 6.4 \u00b1 2.8 cm versus 3.2 \u00b1 3.2 cm (difference -3.2 cm, 95% CI, -0.9 to -5.4 cm) at 60 minutes post treatment. The Committee noted there was no significant difference in the mean nausea score at the 30-minute interval, with a mean nausea severity of 4.1 \u00b1 2.3 cm in the capsaicin arm, and 6.1 \u00b1 3.3 cm in the placebo arm (difference -2.0 cm, 95% CI, 0.2 to -4.2 cm). The Committee noted overlapping confidence intervals and that a higher proportion of the treatment group had complete cessation of nausea (29.4% vs. 0%).</p><p><br></p><p>7.1.8.3. The Committee considered that even though the study was designed as a randomized double-blind placebo-controlled trial that it would have been difficult to control for the burning and/or itching that may occur when the product is applied.</p><p><br></p><p>7.1.9. The Committee noted a retrospective study (Lee et al. Ann Pharmacother. 2021 May 17;10600280211018516) that investigated the use of capsaicin cream in patients presenting to the emergency department (ED) with suspected CHS. The authors of the study reported a median pain score decrease from 8 [IQR, 2-9] to 5.5 [IQR, 0-8]. The Committee considered that despite treatment with capsaicin cream, further treatment was required in 58% of participants.</p><p><br></p><p>7.1.10.The Committee noted a single-centre retrospective study (Kum et al. Am J Emerg Med. 2021 Nov;49:343-351) that evaluated the efficacy of capsaicin in patients presenting to the ED with suspected or confirmed CHS. The Committee noted the authors reported the treatment group using 0.025% capsaicin cream achieved 58% efficacy, defined as only requiring \u22641 rescue medication for symptom relief after capsaicin treatment, compared to 21% in the patient group without capsaicin. A secondary outcome of time to discharge after administration was 3.7 hours in the treatment group compared to 6.1 hours without capsaicin.</p><p><br></p><p>7.1.11.The Committee considered a retrospective cohort analysis (Wagner et al. Clin Toxicol (Phila). 2020 Jun;58(6):471-475) that evaluated the safety and efficacy of topical capsaicin (multiple concentrations) for patients presenting with cannabinoid hyperemesis syndrome. The Committee noted that the authors reported the length of stay (LOS) in ED decreased by 22 minutes with capsaicin treatment.</p><p><br></p><p>7.1.12.The Committee considered that in the NZ context patients who present to ED are repeatedly admitted (~4 months between visits), and often present with recurrent abdominal symptoms and use of recreational drugs. However, the Committee considered that it had not seen robust evidence to support that treatment with capsaicin cream 0.075% would have an effect on the number of presentations, time in hospital, or reduction in symptoms.</p><p><br></p><p>7.1.13.The Committee considered that its previous estimated patient numbers of 2,000- 3,000 per year were likely an overestimate and that the Pharmac staff estimate of 1,000 patients per year seemed more realistic. </p><p><br></p><p>7.1.14.Overall, the Committee considered that there was a lack of consensus on the definition for CHS between studies and considered that clinically meaningful benefits were uncertain based on the low quality and low strength of evidence. The Committee considered that it is an area of emerging research and would be happy to review the application should new evidence become available.</p><p><br></p><p>7.1.15.The Committee considered that the price of capsaicin was approximately $12 per tube and that the impact to the Combined Pharmaceutical Budget if capsaicin cream was to be funded for CHS would likely be low. However, the Committee considered that due to the poor quality of evidence that its recommendation for the application to be declined remained.</p><p><br></p><p>7.1.16.The Committee noted that the applicant\u2019s DHB was considering running a trial to investigate the use of capsaicin cream for the treatment of CHS in the NZ population and that it would be happy to review the results from the trial once available.</p>",
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": "Decline",
+          "fs": "Decline",
+          "change": null
+        },
+        "Links": {
+          "s": "<p><a href=\"https://pharmac.govt.nz/assets/2021-11-PTAC-meeting-record.pdf\" target=\"_blank\">Meeting record</a></p>",
+          "fs": "<p><a href=\"https://pharmac.govt.nz/assets/2021-11-PTAC-meeting-record.pdf\" target=\"_blank\">Meeting record</a></p>",
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Feb 2022",
+          "fs": "Feb 2022",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Clinical advice received from Pharmacology and Therapeutics Advisory Committee (PTAC) at meeting Thursday 18 November 2021.",
+          "fs": "Clinical advice received from Pharmacology and Therapeutics Advisory Committee (PTAC) at meeting Thursday 18 November 2021.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000B4BYR2A3"
+          },
+          "Id": "a0POZ00000B4BYR2A3",
+          "Event_Date__c": "2022-02-23",
+          "Event_Description__c": "Clinical advice received from Pharmacology and Therapeutics Advisory Committee (PTAC) at meeting Thursday 18 November 2021.",
+          "Stage__c": "Seeking Clinical Advice",
+          "Links__c": "<p><a href=\"https://pharmac.govt.nz/assets/2021-11-PTAC-meeting-record.pdf\" target=\"_blank\">Meeting record</a></p>",
+          "Outcome__c": "Decline",
+          "Formatted_Date__c": "Feb 2022",
+          "Published_Recommendation__c": "<p>The Committee recommended that capsaicin cream 0.075% for the treatment of cannabinoid hyperemesis syndrome be declined, based on limited evidence of benefit.</p>",
+          "Published_Discussion__c": "<p>7.1.7. The Committee considered correspondence submitted from a DHB pharmacist relating to a funding application for capsaicin 0.075% cream for cannabinoid hyperemesis syndrome. The Committee noted it had previously considered this application at its meeting in May 2019 and had recommended it be declined based on limited evidence of benefit, an unclear mechanism of action, and availability of funded alternatives.</p><p><br></p><p>7.1.8. The Committee noted that the applicant had provided updated evidence (Dean et al. Acad Emerg Med. 2020 Nov;27(11):1166-1172), that had been published after its meeting in May 2019.\u00a0</p><p><br></p><p>7.1.8.1. The Committee considered the publication by Dean et al. (Acad Emerg Med. 2020), a randomized, double-blind, placebo-controlled trial for capsaicin 0.075% cream for the treatment of cannabinoid hyperemesis syndrome (CHS).</p><p><br></p><p>7.1.8.2. The Committee noted the trial enrolled 30 patients, 17 in the capsaicin arm and 13 in the placebo arm. The primary outcome was the severity of nausea on a visual analog scale (VAS), and the authors reported a reduction of mean nausea severity of 6.4 \u00b1 2.8 cm versus 3.2 \u00b1 3.2 cm (difference -3.2 cm, 95% CI, -0.9 to -5.4 cm) at 60 minutes post treatment. The Committee noted there was no significant difference in the mean nausea score at the 30-minute interval, with a mean nausea severity of 4.1 \u00b1 2.3 cm in the capsaicin arm, and 6.1 \u00b1 3.3 cm in the placebo arm (difference -2.0 cm, 95% CI, 0.2 to -4.2 cm). The Committee noted overlapping confidence intervals and that a higher proportion of the treatment group had complete cessation of nausea (29.4% vs. 0%).</p><p><br></p><p>7.1.8.3. The Committee considered that even though the study was designed as a randomized double-blind placebo-controlled trial that it would have been difficult to control for the burning and/or itching that may occur when the product is applied.</p><p><br></p><p>7.1.9. The Committee noted a retrospective study (Lee et al. Ann Pharmacother. 2021 May 17;10600280211018516) that investigated the use of capsaicin cream in patients presenting to the emergency department (ED) with suspected CHS. The authors of the study reported a median pain score decrease from 8 [IQR, 2-9] to 5.5 [IQR, 0-8]. The Committee considered that despite treatment with capsaicin cream, further treatment was required in 58% of participants.</p><p><br></p><p>7.1.10.The Committee noted a single-centre retrospective study (Kum et al. Am J Emerg Med. 2021 Nov;49:343-351) that evaluated the efficacy of capsaicin in patients presenting to the ED with suspected or confirmed CHS. The Committee noted the authors reported the treatment group using 0.025% capsaicin cream achieved 58% efficacy, defined as only requiring \u22641 rescue medication for symptom relief after capsaicin treatment, compared to 21% in the patient group without capsaicin. A secondary outcome of time to discharge after administration was 3.7 hours in the treatment group compared to 6.1 hours without capsaicin.</p><p><br></p><p>7.1.11.The Committee considered a retrospective cohort analysis (Wagner et al. Clin Toxicol (Phila). 2020 Jun;58(6):471-475) that evaluated the safety and efficacy of topical capsaicin (multiple concentrations) for patients presenting with cannabinoid hyperemesis syndrome. The Committee noted that the authors reported the length of stay (LOS) in ED decreased by 22 minutes with capsaicin treatment.</p><p><br></p><p>7.1.12.The Committee considered that in the NZ context patients who present to ED are repeatedly admitted (~4 months between visits), and often present with recurrent abdominal symptoms and use of recreational drugs. However, the Committee considered that it had not seen robust evidence to support that treatment with capsaicin cream 0.075% would have an effect on the number of presentations, time in hospital, or reduction in symptoms.</p><p><br></p><p>7.1.13.The Committee considered that its previous estimated patient numbers of 2,000- 3,000 per year were likely an overestimate and that the Pharmac staff estimate of 1,000 patients per year seemed more realistic. </p><p><br></p><p>7.1.14.Overall, the Committee considered that there was a lack of consensus on the definition for CHS between studies and considered that clinically meaningful benefits were uncertain based on the low quality and low strength of evidence. The Committee considered that it is an area of emerging research and would be happy to review the application should new evidence become available.</p><p><br></p><p>7.1.15.The Committee considered that the price of capsaicin was approximately $12 per tube and that the impact to the Combined Pharmaceutical Budget if capsaicin cream was to be funded for CHS would likely be low. However, the Committee considered that due to the poor quality of evidence that its recommendation for the application to be declined remained.</p><p><br></p><p>7.1.16.The Committee noted that the applicant\u2019s DHB was considering running a trial to investigate the use of capsaicin cream for the treatment of CHS in the NZ population and that it would be happy to review the results from the trial once available.</p>",
+          "Status_History__c": "a132P000000EDABQA4"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Mar 2019",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Following Clinical Advice, Pharmac staff considers the advice and the funding application under goes an assessment using our&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/factors-for-consideration/\" rel=\"nofollow\">Factors for Consideration</a>&nbsp;framework and seeks additional information as required.</p>\r\n<p>&nbsp;</p>\r\n<p>Research and Economic analysis are undertaken.&nbsp; This focuses on the costs and benefits of a proposed course of action. Economics is based on three fundamental concepts that summarise the issues Pharmac faces daily:&nbsp;</p>\r\n<ul>\r\n<li>Scarcity &ndash; resources will always be insufficient to support all possible activities.</li>\r\n<li>Choices &ndash; due to scarce resources, decisions must be made about how best to use them.</li>\r\n<li>Opportunity cost &ndash; by choosing to use resources one way, we forgo other opportunities to use the same resources.</li>\r\n</ul>\r\n<p>&nbsp;</p>\r\n<p>For further information on the purpose of, and techniques for, undertaking economic analysis in health care, please refer&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/economic-analysis/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/economic-analysis/</a></p>",
+    "position": 2,
+    "name": "Under Assessment",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Jan 2023",
+          "fs": "Jan 2023",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Working to compare options",
+          "fs": "Working to compare options",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000B4BYS2A3"
+          },
+          "Id": "a0POZ00000B4BYS2A3",
+          "Event_Date__c": "2023-01-12",
+          "Event_Description__c": "Working to compare options",
+          "Stage__c": "Under Assessment",
+          "Formatted_Date__c": "Jan 2023",
+          "Status_History__c": "a132P000000EDEDQA4"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Jan 2023",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Pharmac staff uses a prioritisation process to compare and rank funding options. Possible opportunities for new investment will always exceed the budget Pharmac has available; therefore, prioritisation is an intrinsic part of Pharmac\u2019s decision-making process.</p>\r\n<p>The relative ranking of options aims to support Pharmac&rsquo;s statutory objective &ldquo;to secure for eligible people in need of pharmaceuticals, the best health outcomes that are reasonably achievable from pharmaceutical treatment and from within the amount of funding provided&rdquo;.</p>\r\n<p>A funding application or proposal is considered ready for prioritisation when sufficient information is available to permit it to be reviewed against Pharmac's Factors for Consideration and to inform a comparison with other possible investment decisions.</p>\r\n<p>There is no guarantee when or if a ranked medicine will be funded.&nbsp;&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/prioritisation/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/prioritisation/</a></p>",
+    "position": 3,
+    "name": "Options Compared",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Jun 2019",
+          "fs": "Jun 2019",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "The relative ranking of the pharmaceutical application has been completed.",
+          "fs": "The relative ranking of the pharmaceutical application has been completed.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000B4BYN2A3"
+          },
+          "Id": "a0POZ00000B4BYN2A3",
+          "Event_Date__c": "2019-06-03",
+          "Event_Description__c": "The relative ranking of the pharmaceutical application has been completed.",
+          "Stage__c": "Options Compared",
+          "Formatted_Date__c": "Jun 2019",
+          "Status_History__c": "a132P000000ArgeQAC"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Jan 2023",
+          "fs": "Jan 2023",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "The relative ranking of the pharmaceutical application has been completed.",
+          "fs": "The relative ranking of the pharmaceutical application has been completed.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000B4BYT2A3"
+          },
+          "Id": "a0POZ00000B4BYT2A3",
+          "Event_Date__c": "2023-01-26",
+          "Event_Description__c": "The relative ranking of the pharmaceutical application has been completed.",
+          "Stage__c": "Options Compared",
+          "Formatted_Date__c": "Jan 2023",
+          "Status_History__c": "a132P000000EDJlQAO"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Jun 2019",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Pharmac is consulting on a proposal to either approve or decline the application.&nbsp;We seek the views of all people who have an interest in our proposals, or who may be affected by them, to obtain feedback on our proposed approaches.</p>\r\n<p><a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/having-your-say/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/having-your-say/</a></p>",
+    "position": 4,
+    "name": "Under Consultation",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": "<p><a href=\"https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/2021-06-29-proposal-to-decline-inactive-funding-applications\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255);\">https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/2021-06-29-proposal-to-decline-inactive-funding-applications</a></p>",
+          "fs": "<p><a href=\"https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/2021-06-29-proposal-to-decline-inactive-funding-applications\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255);\">https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/2021-06-29-proposal-to-decline-inactive-funding-applications</a></p>",
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Jun 2021",
+          "fs": "Jun 2021",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Public consultation for this application is active.",
+          "fs": "Public consultation for this application is active.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000B4BYO2A3"
+          },
+          "Id": "a0POZ00000B4BYO2A3",
+          "Event_Date__c": "2021-06-29",
+          "Event_Description__c": "Public consultation for this application is active.",
+          "Stage__c": "Under Consultation",
+          "Links__c": "<p><a href=\"https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/2021-06-29-proposal-to-decline-inactive-funding-applications\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255);\">https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/2021-06-29-proposal-to-decline-inactive-funding-applications</a></p>",
+          "Formatted_Date__c": "Jun 2021",
+          "Status_History__c": "a132P000000CxvCQAS"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": "<p><a href=\"https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/2023-12-proposal-to-decline-inactive-funding-applications-2\" target=\"_blank\">Consultation notification</a></p>",
+          "fs": "<p><a href=\"https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/2023-12-proposal-to-decline-inactive-funding-applications-2\" target=\"_blank\">Consultation notification</a></p>",
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Dec 2023",
+          "fs": "Dec 2023",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Public consultation for this application is active.",
+          "fs": "Public consultation for this application is active.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000B4BYU2A3"
+          },
+          "Id": "a0POZ00000B4BYU2A3",
+          "Event_Date__c": "2023-12-18",
+          "Event_Description__c": "Public consultation for this application is active.",
+          "Stage__c": "Under Consultation",
+          "Links__c": "<p><a href=\"https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/2023-12-proposal-to-decline-inactive-funding-applications-2\" target=\"_blank\">Consultation notification</a></p>",
+          "Formatted_Date__c": "Dec 2023",
+          "Status_History__c": "a13OZ000004kHZrYAM"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Jun 2021",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Following the consultation process, Pharmac staff considers the feedback and identifies any additional information required as part of a gap analysis.&nbsp; The proposal may require further clinical advice, research, and assessment.</p>",
+    "position": 5,
+    "name": "Reviewing Consultation Feedback",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": "<p><a href=\"https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/decision-2022-03-08-inactive-declines/\" target=\"_blank\">Consultation outcome notification</a></p>",
+          "fs": "<p><a href=\"https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/decision-2022-03-08-inactive-declines/\" target=\"_blank\">Consultation outcome notification</a></p>",
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Aug 2021",
+          "fs": "Aug 2021",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Public consultation for this application is now closed. Pharmac is reviewing consultation feedback.",
+          "fs": "Public consultation for this application is now closed. Pharmac is reviewing consultation feedback.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000B4BYP2A3"
+          },
+          "Id": "a0POZ00000B4BYP2A3",
+          "Event_Date__c": "2021-08-02",
+          "Event_Description__c": "Public consultation for this application is now closed. Pharmac is reviewing consultation feedback.",
+          "Stage__c": "Reviewing Consultation Feedback",
+          "Links__c": "<p><a href=\"https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/decision-2022-03-08-inactive-declines/\" target=\"_blank\">Consultation outcome notification</a></p>",
+          "Formatted_Date__c": "Aug 2021",
+          "Status_History__c": "a132P000000D3xDQAS"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Feb 2024",
+          "fs": "Feb 2024",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Public consultation for this application is now closed. Pharmac is reviewing consultation feedback.",
+          "fs": "Public consultation for this application is now closed. Pharmac is reviewing consultation feedback.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000B4BYV2A3"
+          },
+          "Id": "a0POZ00000B4BYV2A3",
+          "Event_Date__c": "2024-02-12",
+          "Event_Description__c": "Public consultation for this application is now closed. Pharmac is reviewing consultation feedback.",
+          "Stage__c": "Reviewing Consultation Feedback",
+          "Formatted_Date__c": "Feb 2024",
+          "Status_History__c": "a13OZ000006m2AYYAY"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Aug 2021",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>We refer to our decisions about whether and how particular pharmaceuticals are publicly-funded, as &ldquo;funding decisions&rdquo;.</p>\r\n<p>We consider and assess all funding decisions using the&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/about/operating-policies-and-procedures/#factorsfc\" rel=\"nofollow\">Factors for Consideration</a>. When we do so, we carefully evaluate clinical and other evidence for the benefits and suitability of a proposal, and to identify and understand the people who will be affected by it.</p>\r\n<p>While our main task is to allocate pharmaceutical funding, we consider the benefits and costs across the whole health system now and with a long-term focus, including the effects for hospitals and primary care, and consider direct costs to patients as well as to all health sector budgets.</p>\r\n<p>Final funding decisions are made by the Pharmac Board or delegated to senior Pharmac staff as required by the Board.</p>\r\n<p>&nbsp;</p>",
+    "position": 6,
+    "name": "Decision",
+    "last": true,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": "<p><a href=\"https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/decision-to-decline-inactive-funding-applications-july-24\" target=\"_blank\">Decision notification</a></p>",
+          "fs": "<p><a href=\"https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/decision-to-decline-inactive-funding-applications-july-24\" target=\"_blank\">Decision notification</a></p>",
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Jul 2024",
+          "fs": "Jul 2024",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "The funding application has been declined.",
+          "fs": "The funding application has been declined.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000B4BYW2A3"
+          },
+          "Id": "a0POZ00000B4BYW2A3",
+          "Event_Date__c": "2024-07-23",
+          "Event_Description__c": "The funding application has been declined.",
+          "Stage__c": "Decision",
+          "Links__c": "<p><a href=\"https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/decision-to-decline-inactive-funding-applications-july-24\" target=\"_blank\">Decision notification</a></p>",
+          "Formatted_Date__c": "Jul 2024",
+          "Status_History__c": "a13OZ00000CTZRkYAP"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Jul 2024",
+    "collapsed": false,
+    "checked": true
+  }
+]

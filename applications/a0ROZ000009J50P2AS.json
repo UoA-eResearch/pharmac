@@ -1,0 +1,686 @@
+[
+  {
+    "text": "<p>New funding applications are referred to one of Pharmac's Funding Application Advisors (FAAs), who'll review the application to ensure they have the relevant information to undertake a preliminary analysis.&nbsp; They may seek more information if required.</p>\r\n<p><a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/new-funding-applications/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/new-funding-applications/</a></p>",
+    "position": 0,
+    "name": "Application Received",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Jul 2022",
+          "fs": "Jul 2022",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Application received",
+          "fs": "Application received",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000McEv12AF"
+          },
+          "Id": "a0POZ00000McEv12AF",
+          "Event_Date__c": "2022-07-16",
+          "Event_Description__c": "Application received",
+          "Stage__c": "Application Received",
+          "Formatted_Date__c": "Jul 2022",
+          "Status_History__c": "a132P000000Dv3ZQAS"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Jul 2022",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Pharmac is identifying and gathering information required to get clinical advice.  The <a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/pharmacology-and-therapeutics-advisory-committee-ptac/\" rel=\"nofollow\">Pharmacology and Therapeutics Advisory Committee (PTAC)</a>  meets quarterly. There are also around 20 expert <a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/specialist-advisory-committees/\" rel=\"nofollow\">Specialist Advisory Committees (SACs)</a>, previously expert Subcommittees, which provide clinical evaluations in specialist areas. Specialist Advisory Committees meet as required to discuss issues referred to them by PTAC or Pharmac.</p>\n<p style=\"height: 20px\">&nbsp;</p>\n<p>In November 2021, we introduced separate terms of reference for the SACs to make clear that these committees have different, but complementary, roles, expertise and perspectives to PTAC.</p>\n<p style=\"height: 15px\">&nbsp;</p>\n<p>PTAC and SACs may make recommendations to Pharmac that differ from each other when looking at the same evidence. Pharmac considers the recommendations provided by all our clinical advisory committees when assessing applications.</p>\n<p style=\"height: 20px\">&nbsp;</p>\n<p><a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/pharmacology-and-therapeutics-advisory-committee-ptac/ptac-terms-of-reference-july-2021/\" rel=\"nofollow\">PTAC</a>  and <a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/specialist-advisory-committees/specialist-advisory-committee-terms-of-reference//\" rel=\"nofollow\">Specialist Advisory Committees</a> records of the meeting will be published on this website in accordance with the Terms of Reference.</p>",
+    "position": 1,
+    "name": "Seeking Clinical Advice",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Jul 2022",
+          "fs": "Jul 2022",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Clinical advice required",
+          "fs": "Clinical advice required",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000McEv22AF"
+          },
+          "Id": "a0POZ00000McEv22AF",
+          "Event_Date__c": "2022-07-20",
+          "Event_Description__c": "Clinical advice required",
+          "Stage__c": "Seeking Clinical Advice",
+          "Formatted_Date__c": "Jul 2022",
+          "Status_History__c": "a132P000000Dv3oQAC"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Oct 2022",
+          "fs": "Oct 2022",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Assigned to Cancer Treatments Advisory Committee meeting to provide advice on Friday 14 October 2022",
+          "fs": "Assigned to Cancer Treatments Advisory Committee meeting to provide advice on Friday 14 October 2022",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000McEv32AF"
+          },
+          "Id": "a0POZ00000McEv32AF",
+          "Event_Date__c": "2022-10-07",
+          "Event_Description__c": "Assigned to Cancer Treatments Advisory Committee meeting to provide advice on Friday 14 October 2022",
+          "Stage__c": "Seeking Clinical Advice",
+          "Formatted_Date__c": "Oct 2022",
+          "Status_History__c": "a132P000000EDP0QAO"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": "<p>1.1.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Advisory Committee <strong>recommended</strong> that an agent in the immune checkpoint inhibitor class be recommended with a <strong>high</strong> priority for the first-line combination treatment of advanced non-small cell lung cancer within the context <span style=\"color: black;\">of treatments of malignancy</span>, subject to the following Special Authority criteria:</p><p><strong style=\"font-size: 9pt;\">Initial application \u2013 (non-small cell lung cancer first-line combination)</strong><span style=\"font-size: 9pt;\"> only from a medical oncologist or any relevant practitioner on the recommendation of a medical oncologist. Approvals valid for 3 months for applications meeting the following criteria:</span></p><p><span style=\"font-size: 9pt;\">All of the following:</span></p><p><span style=\"font-size: 9pt;\">1.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Patient has locally advanced or metastatic, unresectable, non-small cell lung cancer; and</span></p><p><span style=\"font-size: 9pt;\">2.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">The patient has not had chemotherapy for their disease in the palliative setting; and</span></p><p><span style=\"font-size: 9pt;\">3.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Patient has not received prior funded treatment with an immune checkpoint inhibitor for NSCLC; and</span></p><p><span style=\"font-size: 9pt;\">4.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">There is documentation confirming that the disease does not express activating mutations of EGFR or ALK tyrosine kinase unless not possible to ascertain; and</span></p><p><span style=\"font-size: 9pt;\">5.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">XXXXX to be used in combination with platinum-based chemotherapy; or</span></p><p><span style=\"font-size: 9pt;\">6.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Patient has an ECOG 0-2; and</span></p><p><span style=\"font-size: 9pt;\">7.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">XXXXX to be used at a maximum dose of XXX every XXX weeks (or equivalent) for a maximum of 12 weeks; and</span></p><p><span style=\"font-size: 9pt;\">8.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Baseline measurement of overall tumour burden is documented clinically and radiologically.</span></p><p><strong style=\"font-size: 9pt;\">\u00a0</strong></p><p><strong style=\"font-size: 9pt;\">Renewal \u2013 (non-small cell lung cancer first line combination therapy)</strong><span style=\"font-size: 9pt;\"> only from a medical oncologist or any relevant practitioner on the recommendation of a medical oncologist. Approvals valid for 3 months for applications meeting the following criteria:</span></p><p><span style=\"font-size: 9pt;\">All of the following</span></p><p><span style=\"font-size: 9pt;\">1.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Any of the following:</span></p><p><span style=\"font-size: 9pt;\">1.1.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Patient\u2019s disease has had a complete response to treatment; or</span></p><p><span style=\"font-size: 9pt;\">1.2.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Patient\u2019s disease has had a partial response to treatment; or</span></p><p><span style=\"font-size: 9pt;\">1.3.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Patient has stable disease; and</span></p><p><span style=\"font-size: 9pt;\">2.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Response to treatment in target lesions has been determined by comparable radiologic assessment following the most recent treatment period; and</span></p><p><span style=\"font-size: 9pt;\">3.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">No evidence of disease progression; and</span></p><p><span style=\"font-size: 9pt;\">4.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">The treatment remains clinically appropriate and patient is benefitting from treatment; and</span></p><p><span style=\"font-size: 9pt;\">5.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">XXXX to be used at a maximum dose of XXXX every XXXX weeks (or equivalent); and</span></p><p><span style=\"font-size: 9pt;\">6.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">XXXX to be discontinued at signs of disease progression; and</span></p><p><span style=\"font-size: 9pt;\">7.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Treatment with XXXXX to cease after a total duration of 24 months from commencement (or equivalent).</span></p><p><br></p><p>1.2.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that the agents within this class are likely to provide similar health benefits. The Committee considered that the evidence strength and quality is highly variable between these agents in the given population, however, that there appears to be a class effect across the ICIs discussed. The Committee considered that funding an agent within this class in combination with chemotherapy in the first line setting would have a significant impact on addressing the unmet need for those with advanced NSCLC. The Committee considered that the infusion burden and health sector costs of each agent should be considered, beyond just cost in determining the agent progressed for funding. The Committee considered that selecting a treatment which is practical, improves accessibility, and addresses equity issues is pertinent.</p>",
+          "fs": "<p>1.1.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Advisory Committee <strong>recommended</strong> that an agent in the immune checkpoint inhibitor class be recommended with a <strong>high</strong> priority for the first-line combination treatment of advanced non-small cell lung cancer within the context <span style=\"color: black;\">of treatments of malignancy</span>, subject to the following Special Authority criteria:</p><p><strong style=\"font-size: 9pt;\">Initial application \u2013 (non-small cell lung cancer first-line combination)</strong><span style=\"font-size: 9pt;\"> only from a medical oncologist or any relevant practitioner on the recommendation of a medical oncologist. Approvals valid for 3 months for applications meeting the following criteria:</span></p><p><span style=\"font-size: 9pt;\">All of the following:</span></p><p><span style=\"font-size: 9pt;\">1.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Patient has locally advanced or metastatic, unresectable, non-small cell lung cancer; and</span></p><p><span style=\"font-size: 9pt;\">2.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">The patient has not had chemotherapy for their disease in the palliative setting; and</span></p><p><span style=\"font-size: 9pt;\">3.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Patient has not received prior funded treatment with an immune checkpoint inhibitor for NSCLC; and</span></p><p><span style=\"font-size: 9pt;\">4.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">There is documentation confirming that the disease does not express activating mutations of EGFR or ALK tyrosine kinase unless not possible to ascertain; and</span></p><p><span style=\"font-size: 9pt;\">5.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">XXXXX to be used in combination with platinum-based chemotherapy; or</span></p><p><span style=\"font-size: 9pt;\">6.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Patient has an ECOG 0-2; and</span></p><p><span style=\"font-size: 9pt;\">7.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">XXXXX to be used at a maximum dose of XXX every XXX weeks (or equivalent) for a maximum of 12 weeks; and</span></p><p><span style=\"font-size: 9pt;\">8.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Baseline measurement of overall tumour burden is documented clinically and radiologically.</span></p><p><strong style=\"font-size: 9pt;\">\u00a0</strong></p><p><strong style=\"font-size: 9pt;\">Renewal \u2013 (non-small cell lung cancer first line combination therapy)</strong><span style=\"font-size: 9pt;\"> only from a medical oncologist or any relevant practitioner on the recommendation of a medical oncologist. Approvals valid for 3 months for applications meeting the following criteria:</span></p><p><span style=\"font-size: 9pt;\">All of the following</span></p><p><span style=\"font-size: 9pt;\">1.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Any of the following:</span></p><p><span style=\"font-size: 9pt;\">1.1.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Patient\u2019s disease has had a complete response to treatment; or</span></p><p><span style=\"font-size: 9pt;\">1.2.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Patient\u2019s disease has had a partial response to treatment; or</span></p><p><span style=\"font-size: 9pt;\">1.3.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Patient has stable disease; and</span></p><p><span style=\"font-size: 9pt;\">2.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Response to treatment in target lesions has been determined by comparable radiologic assessment following the most recent treatment period; and</span></p><p><span style=\"font-size: 9pt;\">3.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">No evidence of disease progression; and</span></p><p><span style=\"font-size: 9pt;\">4.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">The treatment remains clinically appropriate and patient is benefitting from treatment; and</span></p><p><span style=\"font-size: 9pt;\">5.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">XXXX to be used at a maximum dose of XXXX every XXXX weeks (or equivalent); and</span></p><p><span style=\"font-size: 9pt;\">6.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">XXXX to be discontinued at signs of disease progression; and</span></p><p><span style=\"font-size: 9pt;\">7.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Treatment with XXXXX to cease after a total duration of 24 months from commencement (or equivalent).</span></p><p><br></p><p>1.2.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that the agents within this class are likely to provide similar health benefits. The Committee considered that the evidence strength and quality is highly variable between these agents in the given population, however, that there appears to be a class effect across the ICIs discussed. The Committee considered that funding an agent within this class in combination with chemotherapy in the first line setting would have a significant impact on addressing the unmet need for those with advanced NSCLC. The Committee considered that the infusion burden and health sector costs of each agent should be considered, beyond just cost in determining the agent progressed for funding. The Committee considered that selecting a treatment which is practical, improves accessibility, and addresses equity issues is pertinent.</p>",
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": "<h3><em>M\u0101ori Impact </em></h3><p><span style=\"color: rgb(68, 68, 68);\">1.1.</span><span style=\"color: rgb(68, 68, 68); font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><em style=\"color: rgb(68, 68, 68); font-size: 7pt;\">\u00a0</em><span style=\"color: rgb(68, 68, 68);\">The Committee considered that the disproportionate impact of advanced NSCLC for M\u0101ori had been described well in its previous considerations for agents for funding in this context (non small cell lung cancer).The Committee considered that the impact of funding an agent for this indication on M\u0101ori health outcomes would be substantial given the disproportionate rates of diagnosis, the late stage of disease at diagnosis, and the inequitable outcomes for M\u0101ori.</span></p><p><br></p><h3><em>Tislelizumab</em></h3><p>1.1.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that the funding application for tislelizumab was submitted by BeiGene in July 2022 in response to the advanced NSCLC RFP for treatment in combination with pemetrexed + platinum containing chemotherapy for the first-line treatment of those with locally advanced or metastatic non-squamous NSCLC, and for treatment in combination with carboplatin + paclitaxel for the first-line treatment of those with locally advanced or metastatic squamous NSCLC.</p><p>1.2.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that tislelizumab is not currently Medsafe approved, however an application has been submitted for the proposed indications. The Committee considered that Medsafe approval is required to ensure product quality. The Committee also considered that many New Zealand centres have experience with tislelizumab due to clinical trial participation, and the side effect profile seems to reflect that of other agents in this class. The Committee noted that applications for the registration of tislelizumab remain under evaluation in the United States, European Union, and Australia at the time of writing. The Committee noted that the indications proposed for submission to Medsafe for approval are identical to those proposed for approval in the European Union and Australia, and that in the United States approval for use in advanced NSCLC has not been sought at this time.</p><p>1.3.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that the recommended dosage of tislelizumab is 200mg (flat dosing) IV every 3 weeks until progression in combination with carboplatin + paclitaxel/nab-paclitaxel for advanced squamous NSCLC, and pemetrexed + platinum containing chemotherapy for advanced non-squamous NSCLC. The Committee noted that the RATIONALE-304 and RATIONALE-307 administered tislelizumab over 1 hour for the first two doses, and over 30 minutes for remaining doses, and considered this to be appropriate.</p><p>1.4.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that the key evidence for tislelizumab comes from two clinical trials, RATIONALE-304 (non-squamous NSCLC) and RATIONALE-307 (squamous NSCLC):</p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>RATIONALE-304 is an open label, randomised, multicentre, phase III trial investigating the effectiveness of platinum-based chemotherapy with (Arm A; n=222) and without (Arm B; n=110) 200 mg tislelizumab in 332 adult patients (18 to 75 years) with treatment na\u00efve, histologically con\ufb01rmed locally advanced (stage IIIB) or metastatic (stage IV) advanced non-squamous NSCLC. The Committee noted that after a median follow-up of 9.8 months, a signi\ufb01cantly longer PFS was observed in arm A compared with arm B (HR 0.645, 95% CI 0.462 to 0.902, <em>P</em>=0.0044), and the median PFS<sub> </sub>was 9.7 months (95% CI: 7.7 to 11.5) and 7.6 months (95% CI: 5.6 to 8.0) in arms A and B, respectively. The Committee also noted that a higher ORR was observed in Arm A (57.4%; 95% CI 50.6 to 64.0) compared with Arm B (36.9%; 95% CI 28.0 to 46.6), and that median OS was not reached in either arm (<a href=\"https://www.jto.org/article/S1556-0864(21)02176-6/fulltext\" target=\"_blank\">Lu et al. J Thorac Oncol. 2021;16:1512-22</a>).</p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>RATIONALE-307 is an open label, randomised, multicentre, phase III clinical trial investigating the effectiveness of tislelizumab in adult patients (18 to 75 years) with treatment na\u00efve, histologically confirmed locally advanced (stage IIIB) or metastatic (stage IV) squamous NSCLC. The Committee noted that patients were randomised to receive tislelizumab (200 mg, day 1) + paclitaxel (175 mg/m<sup>2</sup>, day 1) + carboplatin (AUC of 5, day 1) (arm A, n=120); tislelizumab (200 mg day 1) + nab-paclitaxel (100 mg/m<sup>2</sup>, days 1, 8, and 15) + carboplatin (AUC of 5, day 1) (arm B, n=119); and paclitaxel (175 mg/m<sup>2</sup>, day 1) + carboplatin (AUC of 5, day 1) (arm C, n=121). The Committee noted that after a median follow-up of 8.6 months (95% CI, 8.1 to 9.0 months), tislelizumab plus chemotherapy (arms A and B) vs chemotherapy (arm C) significantly prolonged PFS. The Committee noted that the median PFS for arms A, B, and C was 7.6 months (95% CI 6.0 to 9.8), 7.6 months (95% CI 5.8 to 11.0), and 5.5 months (95% CI 4.2 to 5.7), respectively. The Committee noted that higher response rates were observed in arms A (73%; 95% CI 63.6% to 80.3%) and B (75%; 95% CI 66.0% to 82.3%) vs C (50%; 95% CI to 40.4% to 58.8%) (<a href=\"https://jamanetwork.com/journals/jamaoncology/fullarticle/2777901\" target=\"_blank\">Wang et al. JAMA Oncol. 2021;7:709-17</a>).</p><p>1.5.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted the following additional sub-analysis studies:</p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>RATIONALE-304 Study (1L Non-Squamous NSCLC) Sub-analysis: Smokers vs Non-Smokers</p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>RATIONALE -307 Study (1L Squamous NSCLC) Sub-analysis: Stage IIIB vs Stage IV Patients</p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>RATIONALE -307 Study (1L Squamous NSCLC) Sub-analysis: Patients Aged \u226565 years</p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>RATIONALE -307 Study (1L Squamous NSCLC) Sub-analysis: Smokers vs Non-Smokers</p><p>1.6.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered the strength and quality of evidence for tislelizumab combination therapy for advanced NSCLC to be limited but not poor. The Committee considered that two studies are well designed however reported with short follow-up and have a PFS endpoint with no patient reported outcomes. The Committee however considered that the chemotherapy backbones are applicable to New Zealand, and that the population demographics (other than ethnicity) appear similar.</p><h3><em>Health Need </em></h3><p>1.7.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered the health need for this population to be high, in line with its considerations at previous meetings. The Committee considered that those receiving combination chemotherapy alongside immunotherapy would need to be of good performance status.</p><h3><em>Suitability </em></h3><p>1.8.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that a key issue for New Zealand Blood and Cancer Centres is the pressure on infusion services, including infrastructure and staffing, compounding space and staffing, and medical staff. The Committee considered that if one of these treatments were to be funded for advanced NSCLC, this would result in a significant increment in numbers of people both at implementation and with conditional survival improvements, leading to increased pressure on infusion services. The Committee also considered that infusion times with increasing numbers of agents included in regimens would exacerbate the burden on infusion services.</p><p>1.9.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered the shelf life of the treatments to be crucial in terms of equity of access. The Committee considered that a minimum of 24 hours (ideally 7 days) stability is required for pressured compounding and day unit infusion services. Members however considered that stability data may vary between compounding facilities depending on the availability of stability data. The Committee noted the lack of stability data for tislelizumab and considered this may result in implementation issues.</p><p>1.10.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered it would be preferable for the treatment to have the widest dosing interval as possible, ideally with the option for widening treatment intervals to beyond 3 weeks. The Committee also considered that toxicity of treatments is likely to add to pressures on the health sector by creating a need for outpatient medical review and inpatient care.</p><h3><em>Cost and Savings</em></h3><p>1.11.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that funding an ICI for first-line combination therapy for advanced NSCLC will increase health sector expenditure due to the increased impact on infusion services and management of toxicities related to treatment.</p><p>1.12.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that approximately 25-30% of individuals who have disease progression on chemotherapy would receive docetaxel as a subsequent treatment. The Committee agreed that this estimate replaced their previous estimate of 50%.</p><h3><em>Funding Criteria</em></h3><p>1.13.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that Special Authority criteria for an ICI for first-line combination therapy for advanced NSCLC should:</p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>Target individuals with ECOG performance status of zero to two instead of zero to one. </p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>No requirement for documentation that the disease does not express activating mutations of EGFR or ALK as this might create a barrier to access due to reliance on biopsy for tissue testing, and that such a criterion should be pragmatic and equitable.</p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>Omit the requirement for the use of RECIST for assessment, as this assessment is onerous to the current health system constraints. Members considered that RECIST is not an ideal measure for lung tumour burden, that radiologist availability and cost are factors which can create barriers, and that it is challenging to have consistent assessment. However, the Committee noted the need to document disease burden at baseline to enable subsequent assessment.</p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>Require confirmation that there is no evidence of disease progression at renewal, and that it would be important that the same modality was used to establish response to treatment.</p><h3><em>Summary for Assessment</em></h3><p>1.1.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Advisory Committee considered that the table below summarises its interpretation of the most appropriate PICOs (population, intervention, comparator, outcomes) information for pembrolizumab, atezolizumab +/- bevacizumab, nivolumab + ipilimumab and tislelizumab in combination with chemotherapy, if each were to be funded in New Zealand for first-line treatment of advanced NSCLC. This PICO captures key clinical aspects of the proposal and may be used to frame any future economic assessment by Pharmac staff. This PICO is based on the Advisory Committee\u2019s assessment at this time and may differ from that requested by the applicant. The PICO may change based on new information, additional clinical advice, or further analysis by Pharmac staff.</p><p><img src=\"/apptracker/servlet/rtaImage?eid=a0POZ00000McEv4&amp;feoid=00N2P000000YsIc&amp;refid=0EM2P000002eNb9\" alt=\"image.png\"></img></p>",
+          "fs": "<h3><em>M\u0101ori Impact </em></h3><p><span style=\"color: rgb(68, 68, 68);\">1.1.</span><span style=\"color: rgb(68, 68, 68); font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><em style=\"color: rgb(68, 68, 68); font-size: 7pt;\">\u00a0</em><span style=\"color: rgb(68, 68, 68);\">The Committee considered that the disproportionate impact of advanced NSCLC for M\u0101ori had been described well in its previous considerations for agents for funding in this context (non small cell lung cancer).The Committee considered that the impact of funding an agent for this indication on M\u0101ori health outcomes would be substantial given the disproportionate rates of diagnosis, the late stage of disease at diagnosis, and the inequitable outcomes for M\u0101ori.</span></p><p><br></p><h3><em>Tislelizumab</em></h3><p>1.1.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that the funding application for tislelizumab was submitted by BeiGene in July 2022 in response to the advanced NSCLC RFP for treatment in combination with pemetrexed + platinum containing chemotherapy for the first-line treatment of those with locally advanced or metastatic non-squamous NSCLC, and for treatment in combination with carboplatin + paclitaxel for the first-line treatment of those with locally advanced or metastatic squamous NSCLC.</p><p>1.2.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that tislelizumab is not currently Medsafe approved, however an application has been submitted for the proposed indications. The Committee considered that Medsafe approval is required to ensure product quality. The Committee also considered that many New Zealand centres have experience with tislelizumab due to clinical trial participation, and the side effect profile seems to reflect that of other agents in this class. The Committee noted that applications for the registration of tislelizumab remain under evaluation in the United States, European Union, and Australia at the time of writing. The Committee noted that the indications proposed for submission to Medsafe for approval are identical to those proposed for approval in the European Union and Australia, and that in the United States approval for use in advanced NSCLC has not been sought at this time.</p><p>1.3.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that the recommended dosage of tislelizumab is 200mg (flat dosing) IV every 3 weeks until progression in combination with carboplatin + paclitaxel/nab-paclitaxel for advanced squamous NSCLC, and pemetrexed + platinum containing chemotherapy for advanced non-squamous NSCLC. The Committee noted that the RATIONALE-304 and RATIONALE-307 administered tislelizumab over 1 hour for the first two doses, and over 30 minutes for remaining doses, and considered this to be appropriate.</p><p>1.4.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that the key evidence for tislelizumab comes from two clinical trials, RATIONALE-304 (non-squamous NSCLC) and RATIONALE-307 (squamous NSCLC):</p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>RATIONALE-304 is an open label, randomised, multicentre, phase III trial investigating the effectiveness of platinum-based chemotherapy with (Arm A; n=222) and without (Arm B; n=110) 200 mg tislelizumab in 332 adult patients (18 to 75 years) with treatment na\u00efve, histologically con\ufb01rmed locally advanced (stage IIIB) or metastatic (stage IV) advanced non-squamous NSCLC. The Committee noted that after a median follow-up of 9.8 months, a signi\ufb01cantly longer PFS was observed in arm A compared with arm B (HR 0.645, 95% CI 0.462 to 0.902, <em>P</em>=0.0044), and the median PFS<sub> </sub>was 9.7 months (95% CI: 7.7 to 11.5) and 7.6 months (95% CI: 5.6 to 8.0) in arms A and B, respectively. The Committee also noted that a higher ORR was observed in Arm A (57.4%; 95% CI 50.6 to 64.0) compared with Arm B (36.9%; 95% CI 28.0 to 46.6), and that median OS was not reached in either arm (<a href=\"https://www.jto.org/article/S1556-0864(21)02176-6/fulltext\" target=\"_blank\">Lu et al. J Thorac Oncol. 2021;16:1512-22</a>).</p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>RATIONALE-307 is an open label, randomised, multicentre, phase III clinical trial investigating the effectiveness of tislelizumab in adult patients (18 to 75 years) with treatment na\u00efve, histologically confirmed locally advanced (stage IIIB) or metastatic (stage IV) squamous NSCLC. The Committee noted that patients were randomised to receive tislelizumab (200 mg, day 1) + paclitaxel (175 mg/m<sup>2</sup>, day 1) + carboplatin (AUC of 5, day 1) (arm A, n=120); tislelizumab (200 mg day 1) + nab-paclitaxel (100 mg/m<sup>2</sup>, days 1, 8, and 15) + carboplatin (AUC of 5, day 1) (arm B, n=119); and paclitaxel (175 mg/m<sup>2</sup>, day 1) + carboplatin (AUC of 5, day 1) (arm C, n=121). The Committee noted that after a median follow-up of 8.6 months (95% CI, 8.1 to 9.0 months), tislelizumab plus chemotherapy (arms A and B) vs chemotherapy (arm C) significantly prolonged PFS. The Committee noted that the median PFS for arms A, B, and C was 7.6 months (95% CI 6.0 to 9.8), 7.6 months (95% CI 5.8 to 11.0), and 5.5 months (95% CI 4.2 to 5.7), respectively. The Committee noted that higher response rates were observed in arms A (73%; 95% CI 63.6% to 80.3%) and B (75%; 95% CI 66.0% to 82.3%) vs C (50%; 95% CI to 40.4% to 58.8%) (<a href=\"https://jamanetwork.com/journals/jamaoncology/fullarticle/2777901\" target=\"_blank\">Wang et al. JAMA Oncol. 2021;7:709-17</a>).</p><p>1.5.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted the following additional sub-analysis studies:</p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>RATIONALE-304 Study (1L Non-Squamous NSCLC) Sub-analysis: Smokers vs Non-Smokers</p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>RATIONALE -307 Study (1L Squamous NSCLC) Sub-analysis: Stage IIIB vs Stage IV Patients</p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>RATIONALE -307 Study (1L Squamous NSCLC) Sub-analysis: Patients Aged \u226565 years</p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>RATIONALE -307 Study (1L Squamous NSCLC) Sub-analysis: Smokers vs Non-Smokers</p><p>1.6.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered the strength and quality of evidence for tislelizumab combination therapy for advanced NSCLC to be limited but not poor. The Committee considered that two studies are well designed however reported with short follow-up and have a PFS endpoint with no patient reported outcomes. The Committee however considered that the chemotherapy backbones are applicable to New Zealand, and that the population demographics (other than ethnicity) appear similar.</p><h3><em>Health Need </em></h3><p>1.7.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered the health need for this population to be high, in line with its considerations at previous meetings. The Committee considered that those receiving combination chemotherapy alongside immunotherapy would need to be of good performance status.</p><h3><em>Suitability </em></h3><p>1.8.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that a key issue for New Zealand Blood and Cancer Centres is the pressure on infusion services, including infrastructure and staffing, compounding space and staffing, and medical staff. The Committee considered that if one of these treatments were to be funded for advanced NSCLC, this would result in a significant increment in numbers of people both at implementation and with conditional survival improvements, leading to increased pressure on infusion services. The Committee also considered that infusion times with increasing numbers of agents included in regimens would exacerbate the burden on infusion services.</p><p>1.9.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered the shelf life of the treatments to be crucial in terms of equity of access. The Committee considered that a minimum of 24 hours (ideally 7 days) stability is required for pressured compounding and day unit infusion services. Members however considered that stability data may vary between compounding facilities depending on the availability of stability data. The Committee noted the lack of stability data for tislelizumab and considered this may result in implementation issues.</p><p>1.10.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered it would be preferable for the treatment to have the widest dosing interval as possible, ideally with the option for widening treatment intervals to beyond 3 weeks. The Committee also considered that toxicity of treatments is likely to add to pressures on the health sector by creating a need for outpatient medical review and inpatient care.</p><h3><em>Cost and Savings</em></h3><p>1.11.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that funding an ICI for first-line combination therapy for advanced NSCLC will increase health sector expenditure due to the increased impact on infusion services and management of toxicities related to treatment.</p><p>1.12.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that approximately 25-30% of individuals who have disease progression on chemotherapy would receive docetaxel as a subsequent treatment. The Committee agreed that this estimate replaced their previous estimate of 50%.</p><h3><em>Funding Criteria</em></h3><p>1.13.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that Special Authority criteria for an ICI for first-line combination therapy for advanced NSCLC should:</p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>Target individuals with ECOG performance status of zero to two instead of zero to one. </p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>No requirement for documentation that the disease does not express activating mutations of EGFR or ALK as this might create a barrier to access due to reliance on biopsy for tissue testing, and that such a criterion should be pragmatic and equitable.</p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>Omit the requirement for the use of RECIST for assessment, as this assessment is onerous to the current health system constraints. Members considered that RECIST is not an ideal measure for lung tumour burden, that radiologist availability and cost are factors which can create barriers, and that it is challenging to have consistent assessment. However, the Committee noted the need to document disease burden at baseline to enable subsequent assessment.</p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>Require confirmation that there is no evidence of disease progression at renewal, and that it would be important that the same modality was used to establish response to treatment.</p><h3><em>Summary for Assessment</em></h3><p>1.1.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Advisory Committee considered that the table below summarises its interpretation of the most appropriate PICOs (population, intervention, comparator, outcomes) information for pembrolizumab, atezolizumab +/- bevacizumab, nivolumab + ipilimumab and tislelizumab in combination with chemotherapy, if each were to be funded in New Zealand for first-line treatment of advanced NSCLC. This PICO captures key clinical aspects of the proposal and may be used to frame any future economic assessment by Pharmac staff. This PICO is based on the Advisory Committee\u2019s assessment at this time and may differ from that requested by the applicant. The PICO may change based on new information, additional clinical advice, or further analysis by Pharmac staff.</p><p><img src=\"/apptracker/servlet/rtaImage?eid=a0POZ00000McEv4&amp;feoid=00N2P000000YsIc&amp;refid=0EM2P000002eNb9\" alt=\"image.png\"></img></p>",
+          "change": null
+        },
+        "Published_Application": {
+          "s": "<p>1.1.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Advisory Committee reviewed the following funding applications for the first-line combination therapy of advanced non-small cell lung cancer (NSCLC):</p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>Pembrolizumab (submitted by Merck Sharp and Dohme [MSD] in August 2018)</p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>Atezolizumab +/- bevacizumab (submitted by Roche in November 2018)</p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>Nivolumab + ipilimumab (submitted Bristol-Myers Squibb NZ Limited in August 2022)</p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>Tislelizumab (submitted by BeiGene in July 2022)</p><p>1.2.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that Pharmac staff sought advice in the context of this RFP for ICIs for advanced NSCLC, noting that Pharmac has received previous advice regarding atezolizumab, nivolumab and pembrolizumab in this setting.</p><p>1.3.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Advisory Committee took into account, where applicable, Pharmac\u2019s relevant decision-making framework when considering this agenda item.\u00a0</p>",
+          "fs": "<p>1.1.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Advisory Committee reviewed the following funding applications for the first-line combination therapy of advanced non-small cell lung cancer (NSCLC):</p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>Pembrolizumab (submitted by Merck Sharp and Dohme [MSD] in August 2018)</p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>Atezolizumab +/- bevacizumab (submitted by Roche in November 2018)</p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>Nivolumab + ipilimumab (submitted Bristol-Myers Squibb NZ Limited in August 2022)</p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>Tislelizumab (submitted by BeiGene in July 2022)</p><p>1.2.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that Pharmac staff sought advice in the context of this RFP for ICIs for advanced NSCLC, noting that Pharmac has received previous advice regarding atezolizumab, nivolumab and pembrolizumab in this setting.</p><p>1.3.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Advisory Committee took into account, where applicable, Pharmac\u2019s relevant decision-making framework when considering this agenda item.\u00a0</p>",
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": "High",
+          "fs": "High",
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Feb 2023",
+          "fs": "Feb 2023",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Clinical advice received from Cancer Treatments Advisory Committee at meeting Friday 14 October 2022.",
+          "fs": "Clinical advice received from Cancer Treatments Advisory Committee at meeting Friday 14 October 2022.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000McEv42AF"
+          },
+          "Id": "a0POZ00000McEv42AF",
+          "Event_Date__c": "2023-02-13",
+          "Event_Description__c": "Clinical advice received from Cancer Treatments Advisory Committee at meeting Friday 14 October 2022.",
+          "Stage__c": "Seeking Clinical Advice",
+          "Outcome__c": "High",
+          "Formatted_Date__c": "Feb 2023",
+          "Published_Recommendation__c": "<p>1.1.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Advisory Committee <strong>recommended</strong> that an agent in the immune checkpoint inhibitor class be recommended with a <strong>high</strong> priority for the first-line combination treatment of advanced non-small cell lung cancer within the context <span style=\"color: black;\">of treatments of malignancy</span>, subject to the following Special Authority criteria:</p><p><strong style=\"font-size: 9pt;\">Initial application \u2013 (non-small cell lung cancer first-line combination)</strong><span style=\"font-size: 9pt;\"> only from a medical oncologist or any relevant practitioner on the recommendation of a medical oncologist. Approvals valid for 3 months for applications meeting the following criteria:</span></p><p><span style=\"font-size: 9pt;\">All of the following:</span></p><p><span style=\"font-size: 9pt;\">1.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Patient has locally advanced or metastatic, unresectable, non-small cell lung cancer; and</span></p><p><span style=\"font-size: 9pt;\">2.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">The patient has not had chemotherapy for their disease in the palliative setting; and</span></p><p><span style=\"font-size: 9pt;\">3.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Patient has not received prior funded treatment with an immune checkpoint inhibitor for NSCLC; and</span></p><p><span style=\"font-size: 9pt;\">4.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">There is documentation confirming that the disease does not express activating mutations of EGFR or ALK tyrosine kinase unless not possible to ascertain; and</span></p><p><span style=\"font-size: 9pt;\">5.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">XXXXX to be used in combination with platinum-based chemotherapy; or</span></p><p><span style=\"font-size: 9pt;\">6.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Patient has an ECOG 0-2; and</span></p><p><span style=\"font-size: 9pt;\">7.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">XXXXX to be used at a maximum dose of XXX every XXX weeks (or equivalent) for a maximum of 12 weeks; and</span></p><p><span style=\"font-size: 9pt;\">8.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Baseline measurement of overall tumour burden is documented clinically and radiologically.</span></p><p><strong style=\"font-size: 9pt;\">\u00a0</strong></p><p><strong style=\"font-size: 9pt;\">Renewal \u2013 (non-small cell lung cancer first line combination therapy)</strong><span style=\"font-size: 9pt;\"> only from a medical oncologist or any relevant practitioner on the recommendation of a medical oncologist. Approvals valid for 3 months for applications meeting the following criteria:</span></p><p><span style=\"font-size: 9pt;\">All of the following</span></p><p><span style=\"font-size: 9pt;\">1.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Any of the following:</span></p><p><span style=\"font-size: 9pt;\">1.1.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Patient\u2019s disease has had a complete response to treatment; or</span></p><p><span style=\"font-size: 9pt;\">1.2.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Patient\u2019s disease has had a partial response to treatment; or</span></p><p><span style=\"font-size: 9pt;\">1.3.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Patient has stable disease; and</span></p><p><span style=\"font-size: 9pt;\">2.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Response to treatment in target lesions has been determined by comparable radiologic assessment following the most recent treatment period; and</span></p><p><span style=\"font-size: 9pt;\">3.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">No evidence of disease progression; and</span></p><p><span style=\"font-size: 9pt;\">4.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">The treatment remains clinically appropriate and patient is benefitting from treatment; and</span></p><p><span style=\"font-size: 9pt;\">5.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">XXXX to be used at a maximum dose of XXXX every XXXX weeks (or equivalent); and</span></p><p><span style=\"font-size: 9pt;\">6.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">XXXX to be discontinued at signs of disease progression; and</span></p><p><span style=\"font-size: 9pt;\">7.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Treatment with XXXXX to cease after a total duration of 24 months from commencement (or equivalent).</span></p><p><br></p><p>1.2.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that the agents within this class are likely to provide similar health benefits. The Committee considered that the evidence strength and quality is highly variable between these agents in the given population, however, that there appears to be a class effect across the ICIs discussed. The Committee considered that funding an agent within this class in combination with chemotherapy in the first line setting would have a significant impact on addressing the unmet need for those with advanced NSCLC. The Committee considered that the infusion burden and health sector costs of each agent should be considered, beyond just cost in determining the agent progressed for funding. The Committee considered that selecting a treatment which is practical, improves accessibility, and addresses equity issues is pertinent.</p>",
+          "Published_Application__c": "<p>1.1.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Advisory Committee reviewed the following funding applications for the first-line combination therapy of advanced non-small cell lung cancer (NSCLC):</p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>Pembrolizumab (submitted by Merck Sharp and Dohme [MSD] in August 2018)</p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>Atezolizumab +/- bevacizumab (submitted by Roche in November 2018)</p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>Nivolumab + ipilimumab (submitted Bristol-Myers Squibb NZ Limited in August 2022)</p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>Tislelizumab (submitted by BeiGene in July 2022)</p><p>1.2.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that Pharmac staff sought advice in the context of this RFP for ICIs for advanced NSCLC, noting that Pharmac has received previous advice regarding atezolizumab, nivolumab and pembrolizumab in this setting.</p><p>1.3.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Advisory Committee took into account, where applicable, Pharmac\u2019s relevant decision-making framework when considering this agenda item.\u00a0</p>",
+          "Published_Discussion__c": "<h3><em>M\u0101ori Impact </em></h3><p><span style=\"color: rgb(68, 68, 68);\">1.1.</span><span style=\"color: rgb(68, 68, 68); font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><em style=\"color: rgb(68, 68, 68); font-size: 7pt;\">\u00a0</em><span style=\"color: rgb(68, 68, 68);\">The Committee considered that the disproportionate impact of advanced NSCLC for M\u0101ori had been described well in its previous considerations for agents for funding in this context (non small cell lung cancer).The Committee considered that the impact of funding an agent for this indication on M\u0101ori health outcomes would be substantial given the disproportionate rates of diagnosis, the late stage of disease at diagnosis, and the inequitable outcomes for M\u0101ori.</span></p><p><br></p><h3><em>Tislelizumab</em></h3><p>1.1.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that the funding application for tislelizumab was submitted by BeiGene in July 2022 in response to the advanced NSCLC RFP for treatment in combination with pemetrexed + platinum containing chemotherapy for the first-line treatment of those with locally advanced or metastatic non-squamous NSCLC, and for treatment in combination with carboplatin + paclitaxel for the first-line treatment of those with locally advanced or metastatic squamous NSCLC.</p><p>1.2.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that tislelizumab is not currently Medsafe approved, however an application has been submitted for the proposed indications. The Committee considered that Medsafe approval is required to ensure product quality. The Committee also considered that many New Zealand centres have experience with tislelizumab due to clinical trial participation, and the side effect profile seems to reflect that of other agents in this class. The Committee noted that applications for the registration of tislelizumab remain under evaluation in the United States, European Union, and Australia at the time of writing. The Committee noted that the indications proposed for submission to Medsafe for approval are identical to those proposed for approval in the European Union and Australia, and that in the United States approval for use in advanced NSCLC has not been sought at this time.</p><p>1.3.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that the recommended dosage of tislelizumab is 200mg (flat dosing) IV every 3 weeks until progression in combination with carboplatin + paclitaxel/nab-paclitaxel for advanced squamous NSCLC, and pemetrexed + platinum containing chemotherapy for advanced non-squamous NSCLC. The Committee noted that the RATIONALE-304 and RATIONALE-307 administered tislelizumab over 1 hour for the first two doses, and over 30 minutes for remaining doses, and considered this to be appropriate.</p><p>1.4.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that the key evidence for tislelizumab comes from two clinical trials, RATIONALE-304 (non-squamous NSCLC) and RATIONALE-307 (squamous NSCLC):</p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>RATIONALE-304 is an open label, randomised, multicentre, phase III trial investigating the effectiveness of platinum-based chemotherapy with (Arm A; n=222) and without (Arm B; n=110) 200 mg tislelizumab in 332 adult patients (18 to 75 years) with treatment na\u00efve, histologically con\ufb01rmed locally advanced (stage IIIB) or metastatic (stage IV) advanced non-squamous NSCLC. The Committee noted that after a median follow-up of 9.8 months, a signi\ufb01cantly longer PFS was observed in arm A compared with arm B (HR 0.645, 95% CI 0.462 to 0.902, <em>P</em>=0.0044), and the median PFS<sub> </sub>was 9.7 months (95% CI: 7.7 to 11.5) and 7.6 months (95% CI: 5.6 to 8.0) in arms A and B, respectively. The Committee also noted that a higher ORR was observed in Arm A (57.4%; 95% CI 50.6 to 64.0) compared with Arm B (36.9%; 95% CI 28.0 to 46.6), and that median OS was not reached in either arm (<a href=\"https://www.jto.org/article/S1556-0864(21)02176-6/fulltext\" target=\"_blank\">Lu et al. J Thorac Oncol. 2021;16:1512-22</a>).</p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>RATIONALE-307 is an open label, randomised, multicentre, phase III clinical trial investigating the effectiveness of tislelizumab in adult patients (18 to 75 years) with treatment na\u00efve, histologically confirmed locally advanced (stage IIIB) or metastatic (stage IV) squamous NSCLC. The Committee noted that patients were randomised to receive tislelizumab (200 mg, day 1) + paclitaxel (175 mg/m<sup>2</sup>, day 1) + carboplatin (AUC of 5, day 1) (arm A, n=120); tislelizumab (200 mg day 1) + nab-paclitaxel (100 mg/m<sup>2</sup>, days 1, 8, and 15) + carboplatin (AUC of 5, day 1) (arm B, n=119); and paclitaxel (175 mg/m<sup>2</sup>, day 1) + carboplatin (AUC of 5, day 1) (arm C, n=121). The Committee noted that after a median follow-up of 8.6 months (95% CI, 8.1 to 9.0 months), tislelizumab plus chemotherapy (arms A and B) vs chemotherapy (arm C) significantly prolonged PFS. The Committee noted that the median PFS for arms A, B, and C was 7.6 months (95% CI 6.0 to 9.8), 7.6 months (95% CI 5.8 to 11.0), and 5.5 months (95% CI 4.2 to 5.7), respectively. The Committee noted that higher response rates were observed in arms A (73%; 95% CI 63.6% to 80.3%) and B (75%; 95% CI 66.0% to 82.3%) vs C (50%; 95% CI to 40.4% to 58.8%) (<a href=\"https://jamanetwork.com/journals/jamaoncology/fullarticle/2777901\" target=\"_blank\">Wang et al. JAMA Oncol. 2021;7:709-17</a>).</p><p>1.5.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted the following additional sub-analysis studies:</p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>RATIONALE-304 Study (1L Non-Squamous NSCLC) Sub-analysis: Smokers vs Non-Smokers</p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>RATIONALE -307 Study (1L Squamous NSCLC) Sub-analysis: Stage IIIB vs Stage IV Patients</p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>RATIONALE -307 Study (1L Squamous NSCLC) Sub-analysis: Patients Aged \u226565 years</p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>RATIONALE -307 Study (1L Squamous NSCLC) Sub-analysis: Smokers vs Non-Smokers</p><p>1.6.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered the strength and quality of evidence for tislelizumab combination therapy for advanced NSCLC to be limited but not poor. The Committee considered that two studies are well designed however reported with short follow-up and have a PFS endpoint with no patient reported outcomes. The Committee however considered that the chemotherapy backbones are applicable to New Zealand, and that the population demographics (other than ethnicity) appear similar.</p><h3><em>Health Need </em></h3><p>1.7.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered the health need for this population to be high, in line with its considerations at previous meetings. The Committee considered that those receiving combination chemotherapy alongside immunotherapy would need to be of good performance status.</p><h3><em>Suitability </em></h3><p>1.8.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that a key issue for New Zealand Blood and Cancer Centres is the pressure on infusion services, including infrastructure and staffing, compounding space and staffing, and medical staff. The Committee considered that if one of these treatments were to be funded for advanced NSCLC, this would result in a significant increment in numbers of people both at implementation and with conditional survival improvements, leading to increased pressure on infusion services. The Committee also considered that infusion times with increasing numbers of agents included in regimens would exacerbate the burden on infusion services.</p><p>1.9.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered the shelf life of the treatments to be crucial in terms of equity of access. The Committee considered that a minimum of 24 hours (ideally 7 days) stability is required for pressured compounding and day unit infusion services. Members however considered that stability data may vary between compounding facilities depending on the availability of stability data. The Committee noted the lack of stability data for tislelizumab and considered this may result in implementation issues.</p><p>1.10.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered it would be preferable for the treatment to have the widest dosing interval as possible, ideally with the option for widening treatment intervals to beyond 3 weeks. The Committee also considered that toxicity of treatments is likely to add to pressures on the health sector by creating a need for outpatient medical review and inpatient care.</p><h3><em>Cost and Savings</em></h3><p>1.11.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that funding an ICI for first-line combination therapy for advanced NSCLC will increase health sector expenditure due to the increased impact on infusion services and management of toxicities related to treatment.</p><p>1.12.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that approximately 25-30% of individuals who have disease progression on chemotherapy would receive docetaxel as a subsequent treatment. The Committee agreed that this estimate replaced their previous estimate of 50%.</p><h3><em>Funding Criteria</em></h3><p>1.13.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that Special Authority criteria for an ICI for first-line combination therapy for advanced NSCLC should:</p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>Target individuals with ECOG performance status of zero to two instead of zero to one. </p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>No requirement for documentation that the disease does not express activating mutations of EGFR or ALK as this might create a barrier to access due to reliance on biopsy for tissue testing, and that such a criterion should be pragmatic and equitable.</p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>Omit the requirement for the use of RECIST for assessment, as this assessment is onerous to the current health system constraints. Members considered that RECIST is not an ideal measure for lung tumour burden, that radiologist availability and cost are factors which can create barriers, and that it is challenging to have consistent assessment. However, the Committee noted the need to document disease burden at baseline to enable subsequent assessment.</p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>Require confirmation that there is no evidence of disease progression at renewal, and that it would be important that the same modality was used to establish response to treatment.</p><h3><em>Summary for Assessment</em></h3><p>1.1.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Advisory Committee considered that the table below summarises its interpretation of the most appropriate PICOs (population, intervention, comparator, outcomes) information for pembrolizumab, atezolizumab +/- bevacizumab, nivolumab + ipilimumab and tislelizumab in combination with chemotherapy, if each were to be funded in New Zealand for first-line treatment of advanced NSCLC. This PICO captures key clinical aspects of the proposal and may be used to frame any future economic assessment by Pharmac staff. This PICO is based on the Advisory Committee\u2019s assessment at this time and may differ from that requested by the applicant. The PICO may change based on new information, additional clinical advice, or further analysis by Pharmac staff.</p><p><img src=\"/apptracker/servlet/rtaImage?eid=a0POZ00000McEv4&amp;feoid=00N2P000000YsIc&amp;refid=0EM2P000002eNb9\" alt=\"image.png\"></img></p>",
+          "Status_History__c": "a132P000000EDPEQA4"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Jul 2022",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Following Clinical Advice, Pharmac staff considers the advice and the funding application under goes an assessment using our&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/factors-for-consideration/\" rel=\"nofollow\">Factors for Consideration</a>&nbsp;framework and seeks additional information as required.</p>\r\n<p>&nbsp;</p>\r\n<p>Research and Economic analysis are undertaken.&nbsp; This focuses on the costs and benefits of a proposed course of action. Economics is based on three fundamental concepts that summarise the issues Pharmac faces daily:&nbsp;</p>\r\n<ul>\r\n<li>Scarcity &ndash; resources will always be insufficient to support all possible activities.</li>\r\n<li>Choices &ndash; due to scarce resources, decisions must be made about how best to use them.</li>\r\n<li>Opportunity cost &ndash; by choosing to use resources one way, we forgo other opportunities to use the same resources.</li>\r\n</ul>\r\n<p>&nbsp;</p>\r\n<p>For further information on the purpose of, and techniques for, undertaking economic analysis in health care, please refer&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/economic-analysis/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/economic-analysis/</a></p>",
+    "position": 2,
+    "name": "Under Assessment",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Sep 2024",
+          "fs": "Sep 2024",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Working to compare options",
+          "fs": "Working to compare options",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000McEv62AF"
+          },
+          "Id": "a0POZ00000McEv62AF",
+          "Event_Date__c": "2024-09-25",
+          "Event_Description__c": "Working to compare options",
+          "Stage__c": "Under Assessment",
+          "Formatted_Date__c": "Sep 2024",
+          "Status_History__c": "a13OZ00000EbcpRYAR"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Sep 2024",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Pharmac staff uses a prioritisation process to compare and rank funding options. Possible opportunities for new investment will always exceed the budget Pharmac has available; therefore, prioritisation is an intrinsic part of Pharmac\u2019s decision-making process.</p>\r\n<p>The relative ranking of options aims to support Pharmac&rsquo;s statutory objective &ldquo;to secure for eligible people in need of pharmaceuticals, the best health outcomes that are reasonably achievable from pharmaceutical treatment and from within the amount of funding provided&rdquo;.</p>\r\n<p>A funding application or proposal is considered ready for prioritisation when sufficient information is available to permit it to be reviewed against Pharmac's Factors for Consideration and to inform a comparison with other possible investment decisions.</p>\r\n<p>There is no guarantee when or if a ranked medicine will be funded.&nbsp;&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/prioritisation/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/prioritisation/</a></p>",
+    "position": 3,
+    "name": "Options Compared",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": "<p><a href=\"https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/2023-03-07-decision-to-fund-two-new-treatments-for-people-with-advanced-non-small-cell-lung-cancer/\" target=\"_blank\">Notification Letter</a></p>",
+          "fs": "<p><a href=\"https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/2023-03-07-decision-to-fund-two-new-treatments-for-people-with-advanced-non-small-cell-lung-cancer/\" target=\"_blank\">Notification Letter</a></p>",
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Mar 2023",
+          "fs": "Mar 2023",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "The relative ranking of the pharmaceutical application has been completed.",
+          "fs": "The relative ranking of the pharmaceutical application has been completed.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000McEv52AF"
+          },
+          "Id": "a0POZ00000McEv52AF",
+          "Event_Date__c": "2023-03-06",
+          "Event_Description__c": "The relative ranking of the pharmaceutical application has been completed.",
+          "Stage__c": "Options Compared",
+          "Links__c": "<p><a href=\"https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/2023-03-07-decision-to-fund-two-new-treatments-for-people-with-advanced-non-small-cell-lung-cancer/\" target=\"_blank\">Notification Letter</a></p>",
+          "Formatted_Date__c": "Mar 2023",
+          "Status_History__c": "a13OZ0000010dgrYAA"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Sep 2024",
+          "fs": "Sep 2024",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "The relative ranking of the pharmaceutical application has been completed.",
+          "fs": "The relative ranking of the pharmaceutical application has been completed.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000McEv72AF"
+          },
+          "Id": "a0POZ00000McEv72AF",
+          "Event_Date__c": "2024-09-25",
+          "Event_Description__c": "The relative ranking of the pharmaceutical application has been completed.",
+          "Stage__c": "Options Compared",
+          "Formatted_Date__c": "Sep 2024",
+          "Status_History__c": "a13OZ00000Ebso3YAB"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Mar 2023",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Pharmac is consulting on a proposal to either approve or decline the application.&nbsp;We seek the views of all people who have an interest in our proposals, or who may be affected by them, to obtain feedback on our proposed approaches.</p>\r\n<p><a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/having-your-say/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/having-your-say/</a></p>",
+    "position": 4,
+    "name": "Under Consultation",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": "<p><a href=\"https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/proposal-to-decline-inactive-applications-oct24\" target=\"_blank\">Consultation</a></p>",
+          "fs": "<p><a href=\"https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/proposal-to-decline-inactive-applications-oct24\" target=\"_blank\">Consultation</a></p>",
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Oct 2024",
+          "fs": "Oct 2024",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Public consultation for this application is active.",
+          "fs": "Public consultation for this application is active.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000McEv82AF"
+          },
+          "Id": "a0POZ00000McEv82AF",
+          "Event_Date__c": "2024-10-31",
+          "Event_Description__c": "Public consultation for this application is active.",
+          "Stage__c": "Under Consultation",
+          "Links__c": "<p><a href=\"https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/proposal-to-decline-inactive-applications-oct24\" target=\"_blank\">Consultation</a></p>",
+          "Formatted_Date__c": "Oct 2024",
+          "Status_History__c": "a13OZ00000G6GDoYAN"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Oct 2024",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Following the consultation process, Pharmac staff considers the feedback and identifies any additional information required as part of a gap analysis.&nbsp; The proposal may require further clinical advice, research, and assessment.</p>",
+    "position": 5,
+    "name": "Reviewing Consultation Feedback",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Nov 2024",
+          "fs": "Nov 2024",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Public consultation for this application is now closed. Pharmac is reviewing consultation feedback.",
+          "fs": "Public consultation for this application is now closed. Pharmac is reviewing consultation feedback.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000McEv92AF"
+          },
+          "Id": "a0POZ00000McEv92AF",
+          "Event_Date__c": "2024-11-30",
+          "Event_Description__c": "Public consultation for this application is now closed. Pharmac is reviewing consultation feedback.",
+          "Stage__c": "Reviewing Consultation Feedback",
+          "Formatted_Date__c": "Nov 2024",
+          "Status_History__c": "a13OZ00000HCrV1YAL"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Nov 2024",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>We refer to our decisions about whether and how particular pharmaceuticals are publicly-funded, as &ldquo;funding decisions&rdquo;.</p>\r\n<p>We consider and assess all funding decisions using the&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/about/operating-policies-and-procedures/#factorsfc\" rel=\"nofollow\">Factors for Consideration</a>. When we do so, we carefully evaluate clinical and other evidence for the benefits and suitability of a proposal, and to identify and understand the people who will be affected by it.</p>\r\n<p>While our main task is to allocate pharmaceutical funding, we consider the benefits and costs across the whole health system now and with a long-term focus, including the effects for hospitals and primary care, and consider direct costs to patients as well as to all health sector budgets.</p>\r\n<p>Final funding decisions are made by the Pharmac Board or delegated to senior Pharmac staff as required by the Board.</p>\r\n<p>&nbsp;</p>",
+    "position": 6,
+    "name": "Decision",
+    "last": true,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": "<p><a href=\"https://www.pharmac.govt.nz/news-and-resources/consultations-and-decisions/2025-06-decision-to-decline-inactive-applications-for-the-funding-of-some-medicines\" target=\"_blank\">Notification of the decision</a> </p>",
+          "fs": "<p><a href=\"https://www.pharmac.govt.nz/news-and-resources/consultations-and-decisions/2025-06-decision-to-decline-inactive-applications-for-the-funding-of-some-medicines\" target=\"_blank\">Notification of the decision</a> </p>",
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Jun 2025",
+          "fs": "Jun 2025",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "The funding application has been declined.",
+          "fs": "The funding application has been declined.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000McEvA2AV"
+          },
+          "Id": "a0POZ00000McEvA2AV",
+          "Event_Date__c": "2025-06-17",
+          "Event_Description__c": "The funding application has been declined.",
+          "Stage__c": "Decision",
+          "Links__c": "<p><a href=\"https://www.pharmac.govt.nz/news-and-resources/consultations-and-decisions/2025-06-decision-to-decline-inactive-applications-for-the-funding-of-some-medicines\" target=\"_blank\">Notification of the decision</a> </p>",
+          "Formatted_Date__c": "Jun 2025",
+          "Status_History__c": "a13OZ00000OhSRUYA3"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Jun 2025",
+    "collapsed": false,
+    "checked": true
+  }
+]

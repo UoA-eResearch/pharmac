@@ -1,0 +1,938 @@
+[
+  {
+    "text": "<p>New funding applications are referred to one of Pharmac's Funding Application Advisors (FAAs), who'll review the application to ensure they have the relevant information to undertake a preliminary analysis.&nbsp; They may seek more information if required.</p>\r\n<p><a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/new-funding-applications/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/new-funding-applications/</a></p>",
+    "position": 0,
+    "name": "Application Received",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": "No formal application, this was generated in response to a Subcommittee recommendation",
+          "fs": "No formal application, this was generated in response to a Subcommittee recommendation",
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Oct 2011",
+          "fs": "Oct 2011",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Application received",
+          "fs": "Application received",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ000004Agbb2AC"
+          },
+          "Id": "a0POZ000004Agbb2AC",
+          "Event_Date__c": "2011-10-01",
+          "Event_Description__c": "Application received",
+          "Stage__c": "Application Received",
+          "Summary__c": "No formal application, this was generated in response to a Subcommittee recommendation",
+          "Formatted_Date__c": "Oct 2011",
+          "Status_History__c": "a132P000000AptjQAC"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Oct 2011",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Pharmac is identifying and gathering information required to get clinical advice.  The <a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/pharmacology-and-therapeutics-advisory-committee-ptac/\" rel=\"nofollow\">Pharmacology and Therapeutics Advisory Committee (PTAC)</a>  meets quarterly. There are also around 20 expert <a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/specialist-advisory-committees/\" rel=\"nofollow\">Specialist Advisory Committees (SACs)</a>, previously expert Subcommittees, which provide clinical evaluations in specialist areas. Specialist Advisory Committees meet as required to discuss issues referred to them by PTAC or Pharmac.</p>\n<p style=\"height: 20px\">&nbsp;</p>\n<p>In November 2021, we introduced separate terms of reference for the SACs to make clear that these committees have different, but complementary, roles, expertise and perspectives to PTAC.</p>\n<p style=\"height: 15px\">&nbsp;</p>\n<p>PTAC and SACs may make recommendations to Pharmac that differ from each other when looking at the same evidence. Pharmac considers the recommendations provided by all our clinical advisory committees when assessing applications.</p>\n<p style=\"height: 20px\">&nbsp;</p>\n<p><a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/pharmacology-and-therapeutics-advisory-committee-ptac/ptac-terms-of-reference-july-2021/\" rel=\"nofollow\">PTAC</a>  and <a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/specialist-advisory-committees/specialist-advisory-committee-terms-of-reference//\" rel=\"nofollow\">Specialist Advisory Committees</a> records of the meeting will be published on this website in accordance with the Terms of Reference.</p>",
+    "position": 1,
+    "name": "Seeking Clinical Advice",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": "The Subcommitee recommended against listing these gel formulations, but did suppot listing a 5% solution of benzoyl peroxide.",
+          "fs": "The Subcommitee recommended against listing these gel formulations, but did suppot listing a 5% solution of benzoyl peroxide.",
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": "Not recommended for inclusion (HML)",
+          "fs": "Not recommended for inclusion (HML)",
+          "change": null
+        },
+        "Links": {
+          "s": "<a href=\"https://www.pharmac.govt.nz/assets/ptac-dermatologicals-group-minutes-2012-11.pdf \" target=\"_blank\">Hospital Pharmaceuticals Subcommittee minutes</a>",
+          "fs": "<a href=\"https://www.pharmac.govt.nz/assets/ptac-dermatologicals-group-minutes-2012-11.pdf \" target=\"_blank\">Hospital Pharmaceuticals Subcommittee minutes</a>",
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Oct 2011",
+          "fs": "Oct 2011",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Clinical advice received from Hospital Pharmaceuticals Subcommittee at meeting Tuesday 4 October 2011.",
+          "fs": "Clinical advice received from Hospital Pharmaceuticals Subcommittee at meeting Tuesday 4 October 2011.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ000004Agbc2AC"
+          },
+          "Id": "a0POZ000004Agbc2AC",
+          "Event_Date__c": "2011-10-04",
+          "Event_Description__c": "Clinical advice received from Hospital Pharmaceuticals Subcommittee at meeting Tuesday 4 October 2011.",
+          "Stage__c": "Seeking Clinical Advice",
+          "Links__c": "<a href=\"https://www.pharmac.govt.nz/assets/ptac-dermatologicals-group-minutes-2012-11.pdf \" target=\"_blank\">Hospital Pharmaceuticals Subcommittee minutes</a>",
+          "Outcome__c": "Not recommended for inclusion (HML)",
+          "Summary__c": "The Subcommitee recommended against listing these gel formulations, but did suppot listing a 5% solution of benzoyl peroxide.",
+          "Formatted_Date__c": "Oct 2011",
+          "Status_History__c": "a132P000000ApuHQAS"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": "The Subcommittee recommended that a low strength benzoyl peroxide cream/gel, be included in a national PML, but that this should be a community lead listing.",
+          "fs": "The Subcommittee recommended that a low strength benzoyl peroxide cream/gel, be included in a national PML, but that this should be a community lead listing.",
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": "Recommended for funding with no priority",
+          "fs": "Recommended for funding with no priority",
+          "change": null
+        },
+        "Links": {
+          "s": "<a href=\"https://www.pharmac.govt.nz/assets/ptac-dermatologicals-group-minutes-2012-11.pdf \" target=\"_blank\">Dermatology Subcommittee minutes</a>",
+          "fs": "<a href=\"https://www.pharmac.govt.nz/assets/ptac-dermatologicals-group-minutes-2012-11.pdf \" target=\"_blank\">Dermatology Subcommittee minutes</a>",
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "May 2012",
+          "fs": "May 2012",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Clinical advice received from Dermatology Subcommittee at meeting Tuesday 15 May 2012.",
+          "fs": "Clinical advice received from Dermatology Subcommittee at meeting Tuesday 15 May 2012.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ000004Agbd2AC"
+          },
+          "Id": "a0POZ000004Agbd2AC",
+          "Event_Date__c": "2012-05-15",
+          "Event_Description__c": "Clinical advice received from Dermatology Subcommittee at meeting Tuesday 15 May 2012.",
+          "Stage__c": "Seeking Clinical Advice",
+          "Links__c": "<a href=\"https://www.pharmac.govt.nz/assets/ptac-dermatologicals-group-minutes-2012-11.pdf \" target=\"_blank\">Dermatology Subcommittee minutes</a>",
+          "Outcome__c": "Recommended for funding with no priority",
+          "Summary__c": "The Subcommittee recommended that a low strength benzoyl peroxide cream/gel, be included in a national PML, but that this should be a community lead listing.",
+          "Formatted_Date__c": "May 2012",
+          "Status_History__c": "a132P000000Aq2cQAC"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": "PTAC recommended against listing benzoyl peroxide gels at 2.5%, 5% or 10% strength. Instead, PTAC did recommend a benzoyl peroxide 5% solution.",
+          "fs": "PTAC recommended against listing benzoyl peroxide gels at 2.5%, 5% or 10% strength. Instead, PTAC did recommend a benzoyl peroxide 5% solution.",
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": "Not recommended for inclusion (HML)",
+          "fs": "Not recommended for inclusion (HML)",
+          "change": null
+        },
+        "Links": {
+          "s": "<a href=\"https://www.pharmac.govt.nz/assets/ptac-dermatologicals-group-minutes-2012-11.pdf \" target=\"_blank\">PTAC minutes</a>",
+          "fs": "<a href=\"https://www.pharmac.govt.nz/assets/ptac-dermatologicals-group-minutes-2012-11.pdf \" target=\"_blank\">PTAC minutes</a>",
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Nov 2012",
+          "fs": "Nov 2012",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Clinical advice received from Pharmacology and Therapeutics Advisory Committee (PTAC) at meeting Thursday 8 November 2012.",
+          "fs": "Clinical advice received from Pharmacology and Therapeutics Advisory Committee (PTAC) at meeting Thursday 8 November 2012.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ000004Agbe2AC"
+          },
+          "Id": "a0POZ000004Agbe2AC",
+          "Event_Date__c": "2012-11-08",
+          "Event_Description__c": "Clinical advice received from Pharmacology and Therapeutics Advisory Committee (PTAC) at meeting Thursday 8 November 2012.",
+          "Stage__c": "Seeking Clinical Advice",
+          "Links__c": "<a href=\"https://www.pharmac.govt.nz/assets/ptac-dermatologicals-group-minutes-2012-11.pdf \" target=\"_blank\">PTAC minutes</a>",
+          "Outcome__c": "Not recommended for inclusion (HML)",
+          "Summary__c": "PTAC recommended against listing benzoyl peroxide gels at 2.5%, 5% or 10% strength. Instead, PTAC did recommend a benzoyl peroxide 5% solution.",
+          "Formatted_Date__c": "Nov 2012",
+          "Status_History__c": "a132P000000AqDdQAK"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": "These minutes have been ratified by the Pharmacology and Therapeutic Advisory Committee.",
+          "fs": "These minutes have been ratified by the Pharmacology and Therapeutic Advisory Committee.",
+          "change": null
+        },
+        "Outcome": {
+          "s": "Medium",
+          "fs": "Medium",
+          "change": null
+        },
+        "Links": {
+          "s": "<a href=\"https://www.pharmac.govt.nz/assets/ptac-dermatology-subcommittee-minutes-2013-12.pdf\" target=\"_blank\">Dermatology Subcommittee minutes</a>",
+          "fs": "<a href=\"https://www.pharmac.govt.nz/assets/ptac-dermatology-subcommittee-minutes-2013-12.pdf\" target=\"_blank\">Dermatology Subcommittee minutes</a>",
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Dec 2013",
+          "fs": "Dec 2013",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Clinical advice received from Dermatology Subcommittee at meeting Monday 9 December 2013.",
+          "fs": "Clinical advice received from Dermatology Subcommittee at meeting Monday 9 December 2013.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ000004Agbf2AC"
+          },
+          "Id": "a0POZ000004Agbf2AC",
+          "Event_Date__c": "2013-12-09",
+          "Event_Description__c": "Clinical advice received from Dermatology Subcommittee at meeting Monday 9 December 2013.",
+          "Stage__c": "Seeking Clinical Advice",
+          "Links__c": "<a href=\"https://www.pharmac.govt.nz/assets/ptac-dermatology-subcommittee-minutes-2013-12.pdf\" target=\"_blank\">Dermatology Subcommittee minutes</a>",
+          "Outcome__c": "Medium",
+          "Formatted_Date__c": "Dec 2013",
+          "PTAC_Comments__c": "These minutes have been ratified by the Pharmacology and Therapeutic Advisory Committee.",
+          "Status_History__c": "a132P000000AqZUQA0"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": "Medium",
+          "fs": "Medium",
+          "change": null
+        },
+        "Links": {
+          "s": "<a href=\"https://www.pharmac.govt.nz/assets/ptac-minutes-2014-05.pdf\" target=\"_blank\">PTAC minutes</a>",
+          "fs": "<a href=\"https://www.pharmac.govt.nz/assets/ptac-minutes-2014-05.pdf\" target=\"_blank\">PTAC minutes</a>",
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "May 2014",
+          "fs": "May 2014",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Clinical advice received from Pharmacology and Therapeutics Advisory Committee (PTAC) at meeting Thursday 8 May 2014.",
+          "fs": "Clinical advice received from Pharmacology and Therapeutics Advisory Committee (PTAC) at meeting Thursday 8 May 2014.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ000004Agbh2AC"
+          },
+          "Id": "a0POZ000004Agbh2AC",
+          "Event_Date__c": "2014-05-08",
+          "Event_Description__c": "Clinical advice received from Pharmacology and Therapeutics Advisory Committee (PTAC) at meeting Thursday 8 May 2014.",
+          "Stage__c": "Seeking Clinical Advice",
+          "Links__c": "<a href=\"https://www.pharmac.govt.nz/assets/ptac-minutes-2014-05.pdf\" target=\"_blank\">PTAC minutes</a>",
+          "Outcome__c": "Medium",
+          "Formatted_Date__c": "May 2014",
+          "Status_History__c": "a132P000000AqgGQAS"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": "High",
+          "fs": "High",
+          "change": null
+        },
+        "Links": {
+          "s": "<a href=\"https://www.pharmac.govt.nz/assets/ptac-dermatology-subcommittee-minutes-2015-11.pdf\" target=\"_blank\">Dermatology Subcommittee minutes</a>",
+          "fs": "<a href=\"https://www.pharmac.govt.nz/assets/ptac-dermatology-subcommittee-minutes-2015-11.pdf\" target=\"_blank\">Dermatology Subcommittee minutes</a>",
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Nov 2015",
+          "fs": "Nov 2015",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Clinical advice received from Dermatology Subcommittee at meeting Monday 30 November 2015.",
+          "fs": "Clinical advice received from Dermatology Subcommittee at meeting Monday 30 November 2015.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ000004Agbi2AC"
+          },
+          "Id": "a0POZ000004Agbi2AC",
+          "Event_Date__c": "2015-11-30",
+          "Event_Description__c": "Clinical advice received from Dermatology Subcommittee at meeting Monday 30 November 2015.",
+          "Stage__c": "Seeking Clinical Advice",
+          "Links__c": "<a href=\"https://www.pharmac.govt.nz/assets/ptac-dermatology-subcommittee-minutes-2015-11.pdf\" target=\"_blank\">Dermatology Subcommittee minutes</a>",
+          "Outcome__c": "High",
+          "Formatted_Date__c": "Nov 2015",
+          "Status_History__c": "a132P000000Ar2uQAC"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": "PTAC members considered that a funding application on topical benzyl peroxide for the treatment of acne should be brought the Committee for its review.",
+          "fs": "PTAC members considered that a funding application on topical benzyl peroxide for the treatment of acne should be brought the Committee for its review.",
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": "No Formal Recommendation",
+          "fs": "No Formal Recommendation",
+          "change": null
+        },
+        "Links": {
+          "s": "<a href=\"https://www.pharmac.govt.nz/assets/ptac-minutes-2016-05.pdf\" target=\"_blank\">PTAC minutes</a>",
+          "fs": "<a href=\"https://www.pharmac.govt.nz/assets/ptac-minutes-2016-05.pdf\" target=\"_blank\">PTAC minutes</a>",
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "May 2016",
+          "fs": "May 2016",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Clinical advice received from Pharmacology and Therapeutics Advisory Committee (PTAC) at meeting Thursday 5 May 2016.",
+          "fs": "Clinical advice received from Pharmacology and Therapeutics Advisory Committee (PTAC) at meeting Thursday 5 May 2016.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ000004Agbj2AC"
+          },
+          "Id": "a0POZ000004Agbj2AC",
+          "Event_Date__c": "2016-05-05",
+          "Event_Description__c": "Clinical advice received from Pharmacology and Therapeutics Advisory Committee (PTAC) at meeting Thursday 5 May 2016.",
+          "Stage__c": "Seeking Clinical Advice",
+          "Links__c": "<a href=\"https://www.pharmac.govt.nz/assets/ptac-minutes-2016-05.pdf\" target=\"_blank\">PTAC minutes</a>",
+          "Outcome__c": "No Formal Recommendation",
+          "Summary__c": "PTAC members considered that a funding application on topical benzyl peroxide for the treatment of acne should be brought the Committee for its review.",
+          "Formatted_Date__c": "May 2016",
+          "Status_History__c": "a132P000000Ar89QAC"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Aug 2016",
+          "fs": "Aug 2016",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "There is currently no known supplier to support a funding application for PTAC consideration",
+          "fs": "There is currently no known supplier to support a funding application for PTAC consideration",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ000004Agbk2AC"
+          },
+          "Id": "a0POZ000004Agbk2AC",
+          "Event_Date__c": "2016-08-08",
+          "Event_Description__c": "There is currently no known supplier to support a funding application for PTAC consideration",
+          "Stage__c": "Seeking Clinical Advice",
+          "Formatted_Date__c": "Aug 2016",
+          "Status_History__c": "a132P000000ArAZQA0"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "May 2023",
+          "fs": "May 2023",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Clinical advice required",
+          "fs": "Clinical advice required",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ000004Agbl2AC"
+          },
+          "Id": "a0POZ000004Agbl2AC",
+          "Event_Date__c": "2023-05-16",
+          "Event_Description__c": "Clinical advice required",
+          "Stage__c": "Seeking Clinical Advice",
+          "Formatted_Date__c": "May 2023",
+          "Status_History__c": "a132P000000EDuDQAW"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "May 2023",
+          "fs": "May 2023",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Assigned to Dermatology Advisory Committee meeting to provide advice on Friday 9 June 2023",
+          "fs": "Assigned to Dermatology Advisory Committee meeting to provide advice on Friday 9 June 2023",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ000004Agbm2AC"
+          },
+          "Id": "a0POZ000004Agbm2AC",
+          "Event_Date__c": "2023-05-23",
+          "Event_Description__c": "Assigned to Dermatology Advisory Committee meeting to provide advice on Friday 9 June 2023",
+          "Stage__c": "Seeking Clinical Advice",
+          "Formatted_Date__c": "May 2023",
+          "Status_History__c": "a132P000000EE01QAG"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": "<p><em>M\u0101ori impact</em></p><p><em>1.1.</em><em style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</em>The<em> </em>Committee discussed the impact of funding benzoyl peroxide for the treatment of acne vulgaris on M\u0101ori health areas of focus and M\u0101ori health outcomes. The Committee considered that it is unknown whether acne disproportionately affects M\u0101ori individuals compared to people of other ethnicities, though a higher proportion of M\u0101ori compared to non-M\u0101ori are among age groups where the prevalence of acne is highest. The Committee noted that M\u0101ori face barriers to accessing primary health care (<a href=\"https://minhealthnz.shinyapps.io/nz-health-survey-2021-22-annual-data-explorer/_w_5cabad17/#!/explore-topics\" target=\"_blank\">New Zealand Health Survey 2021/22</a>), and as treatment for acne is typically access in primary care, M\u0101ori may face disproportionate barriers to accessing acne treatments.</p><p><em>Background</em></p><p>1.2.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Dermatology Committee noted the application for benzoyl peroxide has been reviewed by the following Committees:\u00a0Anti-infectives Advisory Committee, 2022; Dermatology Subcommittee, 2020, 2017, 2015, 2013; and PTAC, 2016.</p><p class=\"ql-indent-1\">1.2.1.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>In 2013, the <a href=\"https://pharmac.govt.nz/assets/ptac-dermatology-subcommittee-minutes-2013-12.pdf\" target=\"_blank\">Dermatology Subcommittee</a> recommended the listing of topical benzoyl peroxide preparation with a medium priority, due to the unmet need for anti-acne options especially for pregnant individuals.</p><p class=\"ql-indent-1\">1.2.2.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>In 2014, <a href=\"https://pharmac.govt.nz/assets/ptac-minutes-2014-05.pdf\" target=\"_blank\">PTAC</a> recommended the listing of topical benzoyl peroxide preparation with a medium priority.</p><p class=\"ql-indent-1\">1.2.3.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>In 2015, the <a href=\"https://pharmac.govt.nz/assets/ptac-dermatology-subcommittee-minutes-2015-11.pdf\" target=\"_blank\">Dermatology Subcommittee</a> recommended the listing of topical benzoyl peroxide preparation with a high priority, due to the unmet need for anti-acne options especially for pregnant individuals.</p><p class=\"ql-indent-1\">1.2.4.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>In 2016, <a href=\"https://pharmac.govt.nz/assets/ptac-minutes-2016-05.pdf\" target=\"_blank\">PTAC</a> noted a change in the treatment algorithm for acne since the Dermatology Subcommittee meeting in November 2015. Members considered a funding application on topical benzoyl peroxide should be brought to the Committee for its review.</p><p class=\"ql-indent-1\">1.2.5.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>In 2017, the <a href=\"https://pharmac.govt.nz/assets/ptac-dermatology-subcommittee-minutes-2017-11.pdf\" target=\"_blank\">Dermatology Subcommittee</a> noted its 2015 recommendation to list a topical benzoyl peroxide product and reiterated that funding benzoyl peroxide would help to reduce antibiotic use in the treatment of acne. The Subcommittee considered that there was a lack of funded alternatives for individuals unable to use systemic therapy. Members noted that oral isotretinoin was contraindicated in pregnancy.</p><p class=\"ql-indent-1\">1.2.6.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>In 2020, the <a href=\"https://pharmac.govt.nz/assets/2020-11-25-Dermatology-Subcommittee-Record-Published-26-February-2021.pdf\" target=\"_blank\">Dermatology Subcommittee</a> reiterated its 2015 and 2017 recommendations to list benzoyl peroxide product. Members suggested that Pharmac approach the New Zealand Dermatological Society to request a funding application for topical benzoyl peroxide. The Subcommittee suggested that topical benzoyl peroxide could be funded as a Pharmacist-Only medicine (i.e. not requiring a doctor\u2019s prescription) to improve equity of access.</p><p class=\"ql-indent-1\">1.2.7.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>In 2022, the <a href=\"https://pharmac.govt.nz/assets/ptac-anti-infective-advisory-committee-record-2022-09.pdf\" target=\"_blank\">Anti-infectives Advisory Committee</a> noted that due to the prevalence of acne that funded use of topical benzoyl peroxide could potentially be widespread. The Committee also considered that funding topical benzoyl peroxide would have positive equity and anti-microbial stewardship implications as currently people may receive non-funded alternatives (which are relatively expensive) or funded doxycycline, with negative anti-microbial stewardship implications. The Committee considered that Pharmac should attempt to source topical benzoyl peroxide and consider it for funding.</p><p class=\"ql-indent-1\"><br></p><p><em>Health need</em></p><p>1.3.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that acne is a chronic inflammatory disease of the pilosebaceous unit, which includes the hair follicle, hair shaft and the sebaceous gland. Four processes are believed to contribute to acne development: increased sebum production, follicular hyperkeratinisation, colonisation of skin bacteria, and inflammation.</p><p>1.4.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted acne vulgaris affects nearly all adolescents and adults at some time in their lives, with an 85% prevalence in those aged 12-24 years old and visible adult acne, experienced by 64% and 43% of individuals aged 20-29 and 30-39 years old, respectively.</p><p>1.5.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that the acne is diagnosed clinically, and is phenotypically characterised by its severity; mild, moderate, or severe. The Committee noted that there is an emphasis to focus more on the experience of the individual and the impact of their quality of life to determine the severity of the acne.</p><p>1.6.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that acne has a substantial impact on the physical, mental, and social well-being of the individual. The Committee noted that in a New Zealand cross-sectional study of 9,567 high school students, \u2018problematic acne\u2019 was self-reported by 14% of students. Compared to students without the condition, individuals with problematic acne were more likely to have clinically relevant depressive symptoms (OR=2.04; 95% CI, 1.70 to 2.45), clinical significant anxiety (OR=2.30; 95% CI, 1.74 to 3.00), suicidal ideation (OR=1.74; 95% CI, 1.54 to 1.97) and report that they had attempted suicide (OR=1.83; 95% CI, 1.51 to 2.22) (<a href=\"https://pubmed.ncbi.nlm.nih.gov/17096715/\" target=\"_blank\">Purvis et al. J Paediatr Child Health. 2006; 42: 793-6</a>).</p><p>1.7.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that antibiotic resistance is associated with courses of antibiotics, used for the treatment of acne, increase the risk of antibiotic resistance developing in <em>Cutibacterium acnes </em>(formerly named <em>Propionibacterium acnes</em>) and other commensal bacteria. <a href=\"https://3d.communityhealthpathways.org/20774.htm\" target=\"_blank\">Community Health Pathways</a> and <a href=\"https://www.choosingwisely.org.au/recommendations/acd5\" target=\"_blank\">The Australasian College of Dermatologists</a> report that antibiotic monotherapy (topic or oral) is not recommended due to concerns around the development of antibiotic resistance. Although antibiotics have been important for managing moderate to severe acne, most treatment protocols suggest that they be used for a limited amount of time and should be used in combination with a non-topical antibiotic topical preparation such as benzoyl peroxide, retinoids or azelaic acid (<a href=\"https://orca.cardiff.ac.uk/id/eprint/102767/1/acne.pdf\" target=\"_blank\">Walsh et al. Lancet. 2016;16:e22-32</a>).</p><p><br></p><p><em>Health benefit</em></p><p>1.8.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that benzoyl peroxide is a bactericidal, oxidising agent, that has anti-inflammatory action and may reduce antibiotic resistance when combined with oral or topical antibiotic. The mechanisms of action are complementary to antibiotics and retinoids thus contribute to the synergistic activity.</p><p>1.9.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that BPO is an effective treatment of acne vulgaris and should be applied to the entire affected area rather than as a spot treatment. The Committee noted that health benefits would be noticed by the individual after a minimum 3 months of consistent use.</p><p><br></p><p><em>Suitability</em></p><p>1.10.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Committee noted their previous recommendation for a 2.5 or 5% (w/v) preparation of benzoyl peroxide are effective options for the treatment of acne and the lower incidence of irritation when compared to the 10% w/v benzoyl peroxide preparation. The Committee noted that BPO is an effective treatment for acne irrespective of whether a gel or cream preparation is used.</p><p>1.11.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>A Committee member noted people may experience whakama (<em>shame, embarrassment</em>) if prescribed acne treatments that are also oral contraceptives, or when contraceptives are co-prescribed with teratogenic treatments such as isotretinoin. As a topical treatment BPO may provide an alternative option for treatment.</p><p><em>Cost and savings</em></p><p>1.12.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Committee considered that if benzoyl peroxide was funded without restrictions in New Zealand, benzoyl peroxide would be used to treat acne of any severity. The Committee considered that funding benzoyl peroxide was unlikely to substantially increase the overall numbers of people accessing funded medications for acne.</p><p>1.13.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Committee considered that in the setting of mild to moderate acne, some individuals currently receiving topical retinoids may switch to receiving benzoyl peroxide. The Committee considered that for individuals starting funded treatment for acne, benzoyl peroxide would be used as the first line topical treatment of choice, ahead of other funded topical treatments such as adapalene.</p><p>1.14.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Committee considered that in the setting of severe acne, individuals currently receiving oral antibiotics or oral isotretinoin for acne may begin receiving benzoyl peroxide. Members noted the potential for benzoyl peroxide to aggravate the asteototic effect of isotretinoin but that such an effect was uncommon at the lower doses of isotretinoin commonly used in New Zealand to treat acne. The Committee noted that benzoyl peroxide has synergistic effects when used with other anti-acne treatments and could be used with the intent of reducing the risk of developing antibiotic resistance.</p><p>1.15.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Committee considered that most new users of benzoyl peroxide in the first few years of funding would be people newly initiating funded treatment for acne rather than people switching from or already receiving other topical or oral therapies. The Committee noted that some individuals may be accessing privately funded benzoyl peroxide and may switch to publicly funded benzoyl peroxide. The Committee considered that the number of individuals in this group would be relatively small.</p><p>1.16.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Committee considered that the duration of treatment for benzoyl peroxide would vary between individuals, with roughly 50% of individuals discontinuing the treatment in the first two weeks due to skin irritation or perceived lack of efficacy. The Committee considered that the remaining proportion of individuals may continue to use benzoyl peroxide long-term.</p><p>1.17.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Committee noted that the natural history of acne among teenagers spans an average of four to five years, and long-term users of benzoyl peroxide were likely to have discontinued the treatment after this period.</p><p><br></p><p><em>Summary for assessment</em></p><p>1.18.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The <span style=\"color: black;\">Advisory Committee considered that the table below summarises its interpretation of the most appropriate PICO (population, intervention, comparator, outcomes) information for [the pharmaceutical] if it were to be funded in New Zealand for [the indication]. This PICO captures key clinical aspects of the proposal and may be used to frame any future economic assessment by Pharmac staff. This PICO is based on the Advisory Committee\u2019s assessment at this time and may differ from that requested by the applicant. The PICO may change based on new information, additional clinical advice, or further analysis by Pharmac staff.</span></p><p><img src=\"/apptracker/servlet/rtaImage?eid=a0POZ000004Agbn&amp;feoid=00N2P000000YsIc&amp;refid=0EMOZ000000cldq\" alt=\"image.png\"></img></p><p><br></p>",
+          "fs": "<p><em>M\u0101ori impact</em></p><p><em>1.1.</em><em style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</em>The<em> </em>Committee discussed the impact of funding benzoyl peroxide for the treatment of acne vulgaris on M\u0101ori health areas of focus and M\u0101ori health outcomes. The Committee considered that it is unknown whether acne disproportionately affects M\u0101ori individuals compared to people of other ethnicities, though a higher proportion of M\u0101ori compared to non-M\u0101ori are among age groups where the prevalence of acne is highest. The Committee noted that M\u0101ori face barriers to accessing primary health care (<a href=\"https://minhealthnz.shinyapps.io/nz-health-survey-2021-22-annual-data-explorer/_w_5cabad17/#!/explore-topics\" target=\"_blank\">New Zealand Health Survey 2021/22</a>), and as treatment for acne is typically access in primary care, M\u0101ori may face disproportionate barriers to accessing acne treatments.</p><p><em>Background</em></p><p>1.2.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Dermatology Committee noted the application for benzoyl peroxide has been reviewed by the following Committees:\u00a0Anti-infectives Advisory Committee, 2022; Dermatology Subcommittee, 2020, 2017, 2015, 2013; and PTAC, 2016.</p><p class=\"ql-indent-1\">1.2.1.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>In 2013, the <a href=\"https://pharmac.govt.nz/assets/ptac-dermatology-subcommittee-minutes-2013-12.pdf\" target=\"_blank\">Dermatology Subcommittee</a> recommended the listing of topical benzoyl peroxide preparation with a medium priority, due to the unmet need for anti-acne options especially for pregnant individuals.</p><p class=\"ql-indent-1\">1.2.2.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>In 2014, <a href=\"https://pharmac.govt.nz/assets/ptac-minutes-2014-05.pdf\" target=\"_blank\">PTAC</a> recommended the listing of topical benzoyl peroxide preparation with a medium priority.</p><p class=\"ql-indent-1\">1.2.3.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>In 2015, the <a href=\"https://pharmac.govt.nz/assets/ptac-dermatology-subcommittee-minutes-2015-11.pdf\" target=\"_blank\">Dermatology Subcommittee</a> recommended the listing of topical benzoyl peroxide preparation with a high priority, due to the unmet need for anti-acne options especially for pregnant individuals.</p><p class=\"ql-indent-1\">1.2.4.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>In 2016, <a href=\"https://pharmac.govt.nz/assets/ptac-minutes-2016-05.pdf\" target=\"_blank\">PTAC</a> noted a change in the treatment algorithm for acne since the Dermatology Subcommittee meeting in November 2015. Members considered a funding application on topical benzoyl peroxide should be brought to the Committee for its review.</p><p class=\"ql-indent-1\">1.2.5.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>In 2017, the <a href=\"https://pharmac.govt.nz/assets/ptac-dermatology-subcommittee-minutes-2017-11.pdf\" target=\"_blank\">Dermatology Subcommittee</a> noted its 2015 recommendation to list a topical benzoyl peroxide product and reiterated that funding benzoyl peroxide would help to reduce antibiotic use in the treatment of acne. The Subcommittee considered that there was a lack of funded alternatives for individuals unable to use systemic therapy. Members noted that oral isotretinoin was contraindicated in pregnancy.</p><p class=\"ql-indent-1\">1.2.6.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>In 2020, the <a href=\"https://pharmac.govt.nz/assets/2020-11-25-Dermatology-Subcommittee-Record-Published-26-February-2021.pdf\" target=\"_blank\">Dermatology Subcommittee</a> reiterated its 2015 and 2017 recommendations to list benzoyl peroxide product. Members suggested that Pharmac approach the New Zealand Dermatological Society to request a funding application for topical benzoyl peroxide. The Subcommittee suggested that topical benzoyl peroxide could be funded as a Pharmacist-Only medicine (i.e. not requiring a doctor\u2019s prescription) to improve equity of access.</p><p class=\"ql-indent-1\">1.2.7.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>In 2022, the <a href=\"https://pharmac.govt.nz/assets/ptac-anti-infective-advisory-committee-record-2022-09.pdf\" target=\"_blank\">Anti-infectives Advisory Committee</a> noted that due to the prevalence of acne that funded use of topical benzoyl peroxide could potentially be widespread. The Committee also considered that funding topical benzoyl peroxide would have positive equity and anti-microbial stewardship implications as currently people may receive non-funded alternatives (which are relatively expensive) or funded doxycycline, with negative anti-microbial stewardship implications. The Committee considered that Pharmac should attempt to source topical benzoyl peroxide and consider it for funding.</p><p class=\"ql-indent-1\"><br></p><p><em>Health need</em></p><p>1.3.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that acne is a chronic inflammatory disease of the pilosebaceous unit, which includes the hair follicle, hair shaft and the sebaceous gland. Four processes are believed to contribute to acne development: increased sebum production, follicular hyperkeratinisation, colonisation of skin bacteria, and inflammation.</p><p>1.4.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted acne vulgaris affects nearly all adolescents and adults at some time in their lives, with an 85% prevalence in those aged 12-24 years old and visible adult acne, experienced by 64% and 43% of individuals aged 20-29 and 30-39 years old, respectively.</p><p>1.5.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that the acne is diagnosed clinically, and is phenotypically characterised by its severity; mild, moderate, or severe. The Committee noted that there is an emphasis to focus more on the experience of the individual and the impact of their quality of life to determine the severity of the acne.</p><p>1.6.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that acne has a substantial impact on the physical, mental, and social well-being of the individual. The Committee noted that in a New Zealand cross-sectional study of 9,567 high school students, \u2018problematic acne\u2019 was self-reported by 14% of students. Compared to students without the condition, individuals with problematic acne were more likely to have clinically relevant depressive symptoms (OR=2.04; 95% CI, 1.70 to 2.45), clinical significant anxiety (OR=2.30; 95% CI, 1.74 to 3.00), suicidal ideation (OR=1.74; 95% CI, 1.54 to 1.97) and report that they had attempted suicide (OR=1.83; 95% CI, 1.51 to 2.22) (<a href=\"https://pubmed.ncbi.nlm.nih.gov/17096715/\" target=\"_blank\">Purvis et al. J Paediatr Child Health. 2006; 42: 793-6</a>).</p><p>1.7.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that antibiotic resistance is associated with courses of antibiotics, used for the treatment of acne, increase the risk of antibiotic resistance developing in <em>Cutibacterium acnes </em>(formerly named <em>Propionibacterium acnes</em>) and other commensal bacteria. <a href=\"https://3d.communityhealthpathways.org/20774.htm\" target=\"_blank\">Community Health Pathways</a> and <a href=\"https://www.choosingwisely.org.au/recommendations/acd5\" target=\"_blank\">The Australasian College of Dermatologists</a> report that antibiotic monotherapy (topic or oral) is not recommended due to concerns around the development of antibiotic resistance. Although antibiotics have been important for managing moderate to severe acne, most treatment protocols suggest that they be used for a limited amount of time and should be used in combination with a non-topical antibiotic topical preparation such as benzoyl peroxide, retinoids or azelaic acid (<a href=\"https://orca.cardiff.ac.uk/id/eprint/102767/1/acne.pdf\" target=\"_blank\">Walsh et al. Lancet. 2016;16:e22-32</a>).</p><p><br></p><p><em>Health benefit</em></p><p>1.8.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that benzoyl peroxide is a bactericidal, oxidising agent, that has anti-inflammatory action and may reduce antibiotic resistance when combined with oral or topical antibiotic. The mechanisms of action are complementary to antibiotics and retinoids thus contribute to the synergistic activity.</p><p>1.9.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that BPO is an effective treatment of acne vulgaris and should be applied to the entire affected area rather than as a spot treatment. The Committee noted that health benefits would be noticed by the individual after a minimum 3 months of consistent use.</p><p><br></p><p><em>Suitability</em></p><p>1.10.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Committee noted their previous recommendation for a 2.5 or 5% (w/v) preparation of benzoyl peroxide are effective options for the treatment of acne and the lower incidence of irritation when compared to the 10% w/v benzoyl peroxide preparation. The Committee noted that BPO is an effective treatment for acne irrespective of whether a gel or cream preparation is used.</p><p>1.11.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>A Committee member noted people may experience whakama (<em>shame, embarrassment</em>) if prescribed acne treatments that are also oral contraceptives, or when contraceptives are co-prescribed with teratogenic treatments such as isotretinoin. As a topical treatment BPO may provide an alternative option for treatment.</p><p><em>Cost and savings</em></p><p>1.12.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Committee considered that if benzoyl peroxide was funded without restrictions in New Zealand, benzoyl peroxide would be used to treat acne of any severity. The Committee considered that funding benzoyl peroxide was unlikely to substantially increase the overall numbers of people accessing funded medications for acne.</p><p>1.13.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Committee considered that in the setting of mild to moderate acne, some individuals currently receiving topical retinoids may switch to receiving benzoyl peroxide. The Committee considered that for individuals starting funded treatment for acne, benzoyl peroxide would be used as the first line topical treatment of choice, ahead of other funded topical treatments such as adapalene.</p><p>1.14.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Committee considered that in the setting of severe acne, individuals currently receiving oral antibiotics or oral isotretinoin for acne may begin receiving benzoyl peroxide. Members noted the potential for benzoyl peroxide to aggravate the asteototic effect of isotretinoin but that such an effect was uncommon at the lower doses of isotretinoin commonly used in New Zealand to treat acne. The Committee noted that benzoyl peroxide has synergistic effects when used with other anti-acne treatments and could be used with the intent of reducing the risk of developing antibiotic resistance.</p><p>1.15.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Committee considered that most new users of benzoyl peroxide in the first few years of funding would be people newly initiating funded treatment for acne rather than people switching from or already receiving other topical or oral therapies. The Committee noted that some individuals may be accessing privately funded benzoyl peroxide and may switch to publicly funded benzoyl peroxide. The Committee considered that the number of individuals in this group would be relatively small.</p><p>1.16.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Committee considered that the duration of treatment for benzoyl peroxide would vary between individuals, with roughly 50% of individuals discontinuing the treatment in the first two weeks due to skin irritation or perceived lack of efficacy. The Committee considered that the remaining proportion of individuals may continue to use benzoyl peroxide long-term.</p><p>1.17.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Committee noted that the natural history of acne among teenagers spans an average of four to five years, and long-term users of benzoyl peroxide were likely to have discontinued the treatment after this period.</p><p><br></p><p><em>Summary for assessment</em></p><p>1.18.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The <span style=\"color: black;\">Advisory Committee considered that the table below summarises its interpretation of the most appropriate PICO (population, intervention, comparator, outcomes) information for [the pharmaceutical] if it were to be funded in New Zealand for [the indication]. This PICO captures key clinical aspects of the proposal and may be used to frame any future economic assessment by Pharmac staff. This PICO is based on the Advisory Committee\u2019s assessment at this time and may differ from that requested by the applicant. The PICO may change based on new information, additional clinical advice, or further analysis by Pharmac staff.</span></p><p><img src=\"/apptracker/servlet/rtaImage?eid=a0POZ000004Agbn&amp;feoid=00N2P000000YsIc&amp;refid=0EMOZ000000cldq\" alt=\"image.png\"></img></p><p><br></p>",
+          "change": null
+        },
+        "Published_Application": {
+          "s": "<p>1.1.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Advisory Committee reviewed the application for benzoyl peroxide in the treatment of acne vulgaris and provided further information to aid in the economic assessment of benzoyl peroxide.</p><p>1.2.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Advisory Committee took into account, where applicable, Pharmac\u2019s relevant decision-making framework when considering this agenda item.</p>",
+          "fs": "<p>1.1.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Advisory Committee reviewed the application for benzoyl peroxide in the treatment of acne vulgaris and provided further information to aid in the economic assessment of benzoyl peroxide.</p><p>1.2.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Advisory Committee took into account, where applicable, Pharmac\u2019s relevant decision-making framework when considering this agenda item.</p>",
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": "High",
+          "fs": "High",
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Nov 2023",
+          "fs": "Nov 2023",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Clinical advice received from Dermatology Advisory Committee at meeting Friday 9 June 2023.",
+          "fs": "Clinical advice received from Dermatology Advisory Committee at meeting Friday 9 June 2023.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ000004Agbn2AC"
+          },
+          "Id": "a0POZ000004Agbn2AC",
+          "Event_Date__c": "2023-11-29",
+          "Event_Description__c": "Clinical advice received from Dermatology Advisory Committee at meeting Friday 9 June 2023.",
+          "Stage__c": "Seeking Clinical Advice",
+          "Outcome__c": "High",
+          "Formatted_Date__c": "Nov 2023",
+          "Published_Application__c": "<p>1.1.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Advisory Committee reviewed the application for benzoyl peroxide in the treatment of acne vulgaris and provided further information to aid in the economic assessment of benzoyl peroxide.</p><p>1.2.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Advisory Committee took into account, where applicable, Pharmac\u2019s relevant decision-making framework when considering this agenda item.</p>",
+          "Published_Discussion__c": "<p><em>M\u0101ori impact</em></p><p><em>1.1.</em><em style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</em>The<em> </em>Committee discussed the impact of funding benzoyl peroxide for the treatment of acne vulgaris on M\u0101ori health areas of focus and M\u0101ori health outcomes. The Committee considered that it is unknown whether acne disproportionately affects M\u0101ori individuals compared to people of other ethnicities, though a higher proportion of M\u0101ori compared to non-M\u0101ori are among age groups where the prevalence of acne is highest. The Committee noted that M\u0101ori face barriers to accessing primary health care (<a href=\"https://minhealthnz.shinyapps.io/nz-health-survey-2021-22-annual-data-explorer/_w_5cabad17/#!/explore-topics\" target=\"_blank\">New Zealand Health Survey 2021/22</a>), and as treatment for acne is typically access in primary care, M\u0101ori may face disproportionate barriers to accessing acne treatments.</p><p><em>Background</em></p><p>1.2.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Dermatology Committee noted the application for benzoyl peroxide has been reviewed by the following Committees:\u00a0Anti-infectives Advisory Committee, 2022; Dermatology Subcommittee, 2020, 2017, 2015, 2013; and PTAC, 2016.</p><p class=\"ql-indent-1\">1.2.1.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>In 2013, the <a href=\"https://pharmac.govt.nz/assets/ptac-dermatology-subcommittee-minutes-2013-12.pdf\" target=\"_blank\">Dermatology Subcommittee</a> recommended the listing of topical benzoyl peroxide preparation with a medium priority, due to the unmet need for anti-acne options especially for pregnant individuals.</p><p class=\"ql-indent-1\">1.2.2.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>In 2014, <a href=\"https://pharmac.govt.nz/assets/ptac-minutes-2014-05.pdf\" target=\"_blank\">PTAC</a> recommended the listing of topical benzoyl peroxide preparation with a medium priority.</p><p class=\"ql-indent-1\">1.2.3.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>In 2015, the <a href=\"https://pharmac.govt.nz/assets/ptac-dermatology-subcommittee-minutes-2015-11.pdf\" target=\"_blank\">Dermatology Subcommittee</a> recommended the listing of topical benzoyl peroxide preparation with a high priority, due to the unmet need for anti-acne options especially for pregnant individuals.</p><p class=\"ql-indent-1\">1.2.4.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>In 2016, <a href=\"https://pharmac.govt.nz/assets/ptac-minutes-2016-05.pdf\" target=\"_blank\">PTAC</a> noted a change in the treatment algorithm for acne since the Dermatology Subcommittee meeting in November 2015. Members considered a funding application on topical benzoyl peroxide should be brought to the Committee for its review.</p><p class=\"ql-indent-1\">1.2.5.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>In 2017, the <a href=\"https://pharmac.govt.nz/assets/ptac-dermatology-subcommittee-minutes-2017-11.pdf\" target=\"_blank\">Dermatology Subcommittee</a> noted its 2015 recommendation to list a topical benzoyl peroxide product and reiterated that funding benzoyl peroxide would help to reduce antibiotic use in the treatment of acne. The Subcommittee considered that there was a lack of funded alternatives for individuals unable to use systemic therapy. Members noted that oral isotretinoin was contraindicated in pregnancy.</p><p class=\"ql-indent-1\">1.2.6.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>In 2020, the <a href=\"https://pharmac.govt.nz/assets/2020-11-25-Dermatology-Subcommittee-Record-Published-26-February-2021.pdf\" target=\"_blank\">Dermatology Subcommittee</a> reiterated its 2015 and 2017 recommendations to list benzoyl peroxide product. Members suggested that Pharmac approach the New Zealand Dermatological Society to request a funding application for topical benzoyl peroxide. The Subcommittee suggested that topical benzoyl peroxide could be funded as a Pharmacist-Only medicine (i.e. not requiring a doctor\u2019s prescription) to improve equity of access.</p><p class=\"ql-indent-1\">1.2.7.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>In 2022, the <a href=\"https://pharmac.govt.nz/assets/ptac-anti-infective-advisory-committee-record-2022-09.pdf\" target=\"_blank\">Anti-infectives Advisory Committee</a> noted that due to the prevalence of acne that funded use of topical benzoyl peroxide could potentially be widespread. The Committee also considered that funding topical benzoyl peroxide would have positive equity and anti-microbial stewardship implications as currently people may receive non-funded alternatives (which are relatively expensive) or funded doxycycline, with negative anti-microbial stewardship implications. The Committee considered that Pharmac should attempt to source topical benzoyl peroxide and consider it for funding.</p><p class=\"ql-indent-1\"><br></p><p><em>Health need</em></p><p>1.3.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that acne is a chronic inflammatory disease of the pilosebaceous unit, which includes the hair follicle, hair shaft and the sebaceous gland. Four processes are believed to contribute to acne development: increased sebum production, follicular hyperkeratinisation, colonisation of skin bacteria, and inflammation.</p><p>1.4.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted acne vulgaris affects nearly all adolescents and adults at some time in their lives, with an 85% prevalence in those aged 12-24 years old and visible adult acne, experienced by 64% and 43% of individuals aged 20-29 and 30-39 years old, respectively.</p><p>1.5.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that the acne is diagnosed clinically, and is phenotypically characterised by its severity; mild, moderate, or severe. The Committee noted that there is an emphasis to focus more on the experience of the individual and the impact of their quality of life to determine the severity of the acne.</p><p>1.6.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that acne has a substantial impact on the physical, mental, and social well-being of the individual. The Committee noted that in a New Zealand cross-sectional study of 9,567 high school students, \u2018problematic acne\u2019 was self-reported by 14% of students. Compared to students without the condition, individuals with problematic acne were more likely to have clinically relevant depressive symptoms (OR=2.04; 95% CI, 1.70 to 2.45), clinical significant anxiety (OR=2.30; 95% CI, 1.74 to 3.00), suicidal ideation (OR=1.74; 95% CI, 1.54 to 1.97) and report that they had attempted suicide (OR=1.83; 95% CI, 1.51 to 2.22) (<a href=\"https://pubmed.ncbi.nlm.nih.gov/17096715/\" target=\"_blank\">Purvis et al. J Paediatr Child Health. 2006; 42: 793-6</a>).</p><p>1.7.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that antibiotic resistance is associated with courses of antibiotics, used for the treatment of acne, increase the risk of antibiotic resistance developing in <em>Cutibacterium acnes </em>(formerly named <em>Propionibacterium acnes</em>) and other commensal bacteria. <a href=\"https://3d.communityhealthpathways.org/20774.htm\" target=\"_blank\">Community Health Pathways</a> and <a href=\"https://www.choosingwisely.org.au/recommendations/acd5\" target=\"_blank\">The Australasian College of Dermatologists</a> report that antibiotic monotherapy (topic or oral) is not recommended due to concerns around the development of antibiotic resistance. Although antibiotics have been important for managing moderate to severe acne, most treatment protocols suggest that they be used for a limited amount of time and should be used in combination with a non-topical antibiotic topical preparation such as benzoyl peroxide, retinoids or azelaic acid (<a href=\"https://orca.cardiff.ac.uk/id/eprint/102767/1/acne.pdf\" target=\"_blank\">Walsh et al. Lancet. 2016;16:e22-32</a>).</p><p><br></p><p><em>Health benefit</em></p><p>1.8.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that benzoyl peroxide is a bactericidal, oxidising agent, that has anti-inflammatory action and may reduce antibiotic resistance when combined with oral or topical antibiotic. The mechanisms of action are complementary to antibiotics and retinoids thus contribute to the synergistic activity.</p><p>1.9.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that BPO is an effective treatment of acne vulgaris and should be applied to the entire affected area rather than as a spot treatment. The Committee noted that health benefits would be noticed by the individual after a minimum 3 months of consistent use.</p><p><br></p><p><em>Suitability</em></p><p>1.10.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Committee noted their previous recommendation for a 2.5 or 5% (w/v) preparation of benzoyl peroxide are effective options for the treatment of acne and the lower incidence of irritation when compared to the 10% w/v benzoyl peroxide preparation. The Committee noted that BPO is an effective treatment for acne irrespective of whether a gel or cream preparation is used.</p><p>1.11.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>A Committee member noted people may experience whakama (<em>shame, embarrassment</em>) if prescribed acne treatments that are also oral contraceptives, or when contraceptives are co-prescribed with teratogenic treatments such as isotretinoin. As a topical treatment BPO may provide an alternative option for treatment.</p><p><em>Cost and savings</em></p><p>1.12.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Committee considered that if benzoyl peroxide was funded without restrictions in New Zealand, benzoyl peroxide would be used to treat acne of any severity. The Committee considered that funding benzoyl peroxide was unlikely to substantially increase the overall numbers of people accessing funded medications for acne.</p><p>1.13.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Committee considered that in the setting of mild to moderate acne, some individuals currently receiving topical retinoids may switch to receiving benzoyl peroxide. The Committee considered that for individuals starting funded treatment for acne, benzoyl peroxide would be used as the first line topical treatment of choice, ahead of other funded topical treatments such as adapalene.</p><p>1.14.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Committee considered that in the setting of severe acne, individuals currently receiving oral antibiotics or oral isotretinoin for acne may begin receiving benzoyl peroxide. Members noted the potential for benzoyl peroxide to aggravate the asteototic effect of isotretinoin but that such an effect was uncommon at the lower doses of isotretinoin commonly used in New Zealand to treat acne. The Committee noted that benzoyl peroxide has synergistic effects when used with other anti-acne treatments and could be used with the intent of reducing the risk of developing antibiotic resistance.</p><p>1.15.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Committee considered that most new users of benzoyl peroxide in the first few years of funding would be people newly initiating funded treatment for acne rather than people switching from or already receiving other topical or oral therapies. The Committee noted that some individuals may be accessing privately funded benzoyl peroxide and may switch to publicly funded benzoyl peroxide. The Committee considered that the number of individuals in this group would be relatively small.</p><p>1.16.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Committee considered that the duration of treatment for benzoyl peroxide would vary between individuals, with roughly 50% of individuals discontinuing the treatment in the first two weeks due to skin irritation or perceived lack of efficacy. The Committee considered that the remaining proportion of individuals may continue to use benzoyl peroxide long-term.</p><p>1.17.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Committee noted that the natural history of acne among teenagers spans an average of four to five years, and long-term users of benzoyl peroxide were likely to have discontinued the treatment after this period.</p><p><br></p><p><em>Summary for assessment</em></p><p>1.18.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The <span style=\"color: black;\">Advisory Committee considered that the table below summarises its interpretation of the most appropriate PICO (population, intervention, comparator, outcomes) information for [the pharmaceutical] if it were to be funded in New Zealand for [the indication]. This PICO captures key clinical aspects of the proposal and may be used to frame any future economic assessment by Pharmac staff. This PICO is based on the Advisory Committee\u2019s assessment at this time and may differ from that requested by the applicant. The PICO may change based on new information, additional clinical advice, or further analysis by Pharmac staff.</span></p><p><img src=\"/apptracker/servlet/rtaImage?eid=a0POZ000004Agbn&amp;feoid=00N2P000000YsIc&amp;refid=0EMOZ000000cldq\" alt=\"image.png\"></img></p><p><br></p>",
+          "Status_History__c": "a13OZ000004Hb0xYAC"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Oct 2011",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Following Clinical Advice, Pharmac staff considers the advice and the funding application under goes an assessment using our&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/factors-for-consideration/\" rel=\"nofollow\">Factors for Consideration</a>&nbsp;framework and seeks additional information as required.</p>\r\n<p>&nbsp;</p>\r\n<p>Research and Economic analysis are undertaken.&nbsp; This focuses on the costs and benefits of a proposed course of action. Economics is based on three fundamental concepts that summarise the issues Pharmac faces daily:&nbsp;</p>\r\n<ul>\r\n<li>Scarcity &ndash; resources will always be insufficient to support all possible activities.</li>\r\n<li>Choices &ndash; due to scarce resources, decisions must be made about how best to use them.</li>\r\n<li>Opportunity cost &ndash; by choosing to use resources one way, we forgo other opportunities to use the same resources.</li>\r\n</ul>\r\n<p>&nbsp;</p>\r\n<p>For further information on the purpose of, and techniques for, undertaking economic analysis in health care, please refer&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/economic-analysis/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/economic-analysis/</a></p>",
+    "position": 2,
+    "name": "Under Assessment",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Dec 2013",
+          "fs": "Dec 2013",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Working to compare options",
+          "fs": "Working to compare options",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ000004Agbg2AC"
+          },
+          "Id": "a0POZ000004Agbg2AC",
+          "Event_Date__c": "2013-12-09",
+          "Event_Description__c": "Working to compare options",
+          "Stage__c": "Under Assessment",
+          "Formatted_Date__c": "Dec 2013",
+          "Status_History__c": "a132P000000AqZZQA0"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Jan 2024",
+          "fs": "Jan 2024",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Working to compare options",
+          "fs": "Working to compare options",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ000004Agbo2AC"
+          },
+          "Id": "a0POZ000004Agbo2AC",
+          "Event_Date__c": "2024-01-17",
+          "Event_Description__c": "Working to compare options",
+          "Stage__c": "Under Assessment",
+          "Formatted_Date__c": "Jan 2024",
+          "Status_History__c": "a13OZ000005kU57YAE"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Dec 2013",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Pharmac staff uses a prioritisation process to compare and rank funding options. Possible opportunities for new investment will always exceed the budget Pharmac has available; therefore, prioritisation is an intrinsic part of Pharmac\u2019s decision-making process.</p>\r\n<p>The relative ranking of options aims to support Pharmac&rsquo;s statutory objective &ldquo;to secure for eligible people in need of pharmaceuticals, the best health outcomes that are reasonably achievable from pharmaceutical treatment and from within the amount of funding provided&rdquo;.</p>\r\n<p>A funding application or proposal is considered ready for prioritisation when sufficient information is available to permit it to be reviewed against Pharmac's Factors for Consideration and to inform a comparison with other possible investment decisions.</p>\r\n<p>There is no guarantee when or if a ranked medicine will be funded.&nbsp;&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/prioritisation/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/prioritisation/</a></p>",
+    "position": 3,
+    "name": "Options Compared",
+    "last": false,
+    "events": null,
+    "dateString": null,
+    "collapsed": false,
+    "checked": false
+  },
+  {
+    "text": "<p>Pharmac is consulting on a proposal to either approve or decline the application.&nbsp;We seek the views of all people who have an interest in our proposals, or who may be affected by them, to obtain feedback on our proposed approaches.</p>\r\n<p><a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/having-your-say/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/having-your-say/</a></p>",
+    "position": 4,
+    "name": "Under Consultation",
+    "last": false,
+    "events": null,
+    "dateString": null,
+    "collapsed": false,
+    "checked": false
+  },
+  {
+    "text": "<p>Following the consultation process, Pharmac staff considers the feedback and identifies any additional information required as part of a gap analysis.&nbsp; The proposal may require further clinical advice, research, and assessment.</p>",
+    "position": 5,
+    "name": "Reviewing Consultation Feedback",
+    "last": false,
+    "events": null,
+    "dateString": null,
+    "collapsed": false,
+    "checked": false
+  },
+  {
+    "text": "<p>We refer to our decisions about whether and how particular pharmaceuticals are publicly-funded, as &ldquo;funding decisions&rdquo;.</p>\r\n<p>We consider and assess all funding decisions using the&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/about/operating-policies-and-procedures/#factorsfc\" rel=\"nofollow\">Factors for Consideration</a>. When we do so, we carefully evaluate clinical and other evidence for the benefits and suitability of a proposal, and to identify and understand the people who will be affected by it.</p>\r\n<p>While our main task is to allocate pharmaceutical funding, we consider the benefits and costs across the whole health system now and with a long-term focus, including the effects for hospitals and primary care, and consider direct costs to patients as well as to all health sector budgets.</p>\r\n<p>Final funding decisions are made by the Pharmac Board or delegated to senior Pharmac staff as required by the Board.</p>\r\n<p>&nbsp;</p>",
+    "position": 6,
+    "name": "Decision",
+    "last": true,
+    "events": null,
+    "dateString": null,
+    "collapsed": false,
+    "checked": false
+  }
+]

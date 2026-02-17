@@ -1,0 +1,379 @@
+[
+  {
+    "text": "<p>New funding applications are referred to one of Pharmac's Funding Application Advisors (FAAs), who'll review the application to ensure they have the relevant information to undertake a preliminary analysis.&nbsp; They may seek more information if required.</p>\r\n<p><a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/new-funding-applications/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/new-funding-applications/</a></p>",
+    "position": 0,
+    "name": "Application Received",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Mar 2022",
+          "fs": "Mar 2022",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Application received",
+          "fs": "Application received",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ000004AoMD2A0"
+          },
+          "Id": "a0POZ000004AoMD2A0",
+          "Event_Date__c": "2022-03-29",
+          "Event_Description__c": "Application received",
+          "Stage__c": "Application Received",
+          "Formatted_Date__c": "Mar 2022",
+          "Status_History__c": "a132P000000DiAVQA0"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Mar 2022",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Pharmac is identifying and gathering information required to get clinical advice.  The <a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/pharmacology-and-therapeutics-advisory-committee-ptac/\" rel=\"nofollow\">Pharmacology and Therapeutics Advisory Committee (PTAC)</a>  meets quarterly. There are also around 20 expert <a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/specialist-advisory-committees/\" rel=\"nofollow\">Specialist Advisory Committees (SACs)</a>, previously expert Subcommittees, which provide clinical evaluations in specialist areas. Specialist Advisory Committees meet as required to discuss issues referred to them by PTAC or Pharmac.</p>\n<p style=\"height: 20px\">&nbsp;</p>\n<p>In November 2021, we introduced separate terms of reference for the SACs to make clear that these committees have different, but complementary, roles, expertise and perspectives to PTAC.</p>\n<p style=\"height: 15px\">&nbsp;</p>\n<p>PTAC and SACs may make recommendations to Pharmac that differ from each other when looking at the same evidence. Pharmac considers the recommendations provided by all our clinical advisory committees when assessing applications.</p>\n<p style=\"height: 20px\">&nbsp;</p>\n<p><a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/pharmacology-and-therapeutics-advisory-committee-ptac/ptac-terms-of-reference-july-2021/\" rel=\"nofollow\">PTAC</a>  and <a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/specialist-advisory-committees/specialist-advisory-committee-terms-of-reference//\" rel=\"nofollow\">Specialist Advisory Committees</a> records of the meeting will be published on this website in accordance with the Terms of Reference.</p>",
+    "position": 1,
+    "name": "Seeking Clinical Advice",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Jul 2022",
+          "fs": "Jul 2022",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Clinical advice required",
+          "fs": "Clinical advice required",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ000004AoME2A0"
+          },
+          "Id": "a0POZ000004AoME2A0",
+          "Event_Date__c": "2022-07-13",
+          "Event_Description__c": "Clinical advice required",
+          "Stage__c": "Seeking Clinical Advice",
+          "Formatted_Date__c": "Jul 2022",
+          "Status_History__c": "a132P000000EChvQAG"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Oct 2022",
+          "fs": "Oct 2022",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Assigned to Haematology Advisory Committee meeting to provide advice on Wednesday 9 November 2022",
+          "fs": "Assigned to Haematology Advisory Committee meeting to provide advice on Wednesday 9 November 2022",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ000004AoMF2A0"
+          },
+          "Id": "a0POZ000004AoMF2A0",
+          "Event_Date__c": "2022-10-05",
+          "Event_Description__c": "Assigned to Haematology Advisory Committee meeting to provide advice on Wednesday 9 November 2022",
+          "Stage__c": "Seeking Clinical Advice",
+          "Formatted_Date__c": "Oct 2022",
+          "Status_History__c": "a132P000000ECi5QAG"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": "<p><span style=\"color: black;\">2.1.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee <strong>recommended</strong> that desmopressin acetate (DDAVP) 15mcg/mL vial be funded in the community for management of acute bleeding or prophylaxis for minor surgery in people with moderate and mild Haemophilia A, von Willebrand Disease or inherited platelet disorders with a <strong>high</strong> <strong>priority</strong>, within the context of haematology treatments.</p><p><span style=\"color: black;\">2.2.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>In making this recommendation, the Committee considered that listing this product for community use would provide meaningful benefits to those living with the above conditions by improving the ease of access and timeliness of desmopressin treatment.</p>",
+          "fs": "<p><span style=\"color: black;\">2.1.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee <strong>recommended</strong> that desmopressin acetate (DDAVP) 15mcg/mL vial be funded in the community for management of acute bleeding or prophylaxis for minor surgery in people with moderate and mild Haemophilia A, von Willebrand Disease or inherited platelet disorders with a <strong>high</strong> <strong>priority</strong>, within the context of haematology treatments.</p><p><span style=\"color: black;\">2.2.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>In making this recommendation, the Committee considered that listing this product for community use would provide meaningful benefits to those living with the above conditions by improving the ease of access and timeliness of desmopressin treatment.</p>",
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": "<p><em>M\u0101ori impact</em></p><p><br></p><p><span style=\"color: black;\">3.1.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that the unmet need in relation to the impact of mild to moderate Haemophilia A, von Willebrand disease or inherited platelet disorders on M\u0101ori health outcomes was similar to that of non-M\u0101ori in terms of ease of access to treatment.</p><p><br></p><p><em>Need</em></p><p><br></p><p><span style=\"color: black;\">3.2.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that this application aimed to target people with:</p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>Haemophilia A (predominantly mild, also a small proportion of individuals with moderate haemophilia A) or haemophilia A carriers; and especially those with high-risk mutations who would benefit from avoiding factor VIII [FVIII] exposure where possible.</p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>Mild von Willebrand disease, predominantly type I without a von Willebrand Factor [VWF] gene variant, but also some people with type II (not IIB or III)</p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>A small proportion of people with clinically impactful, nonspecific, bleeding disorders (eg including some inherited platelet disorders).</p><p><span style=\"color: black;\">3.3.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that the type of bleed that has occurred (eg mild muscle bleeds or epistaxis, not joint bleeds) and/or the type of low-risk surgery planned (eg dental procedure or skin lesion removal or biopsy) determines the approach to management . The Committee noted that more significant bleeds or surgeries would require the use of FVIII or FVIII with von Willebrand\u2019s factor (Biostate).</p><p><span style=\"color: black;\">3.4.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that treatment protocols including desmopressin are developed according to an individual\u2019s need and procedure or bleed type, taking into account baseline FVIII level and the desired FVIII response (typically at least 30%) and duration. The Committee noted that current best practice is for these individuals to receive an initial dose of desmopressin under the supervision of a haematologist to identify those who benefit, given variable responses are anticipated due to factors including von Willebrand genotype and FVIII levels.</p><p><span style=\"color: black;\">3.5.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that von Willebrand disease prevalence in New Zealand is approximately 0.01% based on the current literature and real-world experience in Auckland. The Committee noted that in Auckland there are about 160 people with von Willebrand disease (mostly type I), 178 with mild haemophilia A, 10 haemophilia A carriers, and a small number of individuals with nonspecific bleeding disorders. The Committee noted that in Auckland in the previous 12 months, 10 people with von Willebrand disease and two individuals with mild haemophilia A received desmopressin for minor surgery and muscle bleeds, respectively.</p><p><span style=\"color: black;\">3.6.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that the majority of people with mild haemophilia A or von Willebrand disease currently receive desmopressin in a hospital setting alongside their treatment protocol and are well known to their closest haemophilia treatment centre. However, the Committee considered that there are differences in access in different parts of the country and in some regions individuals need to travel several hours to attend their closest centre.</p><p><span style=\"color: black;\">3.7.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that the health need in this population resulted from the challenges in accessing this formulation of desmopressin in a timely manner for offsite use, predominantly for minor surgical procedures and minor bleeding issues which do not require blood products. The Committee considered that the unmet need in relation to the impact of mild to moderate Haemophilia A, von Willebrand disease or inherited platelet disorders on M\u0101ori health outcomes was similar to that of non-M\u0101ori in terms of ease of access to treatment.</p><p><br></p><p><em>Health Benefit</em></p><p><br></p><p><span style=\"color: black;\">3.8.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that desmopressin is a synthetic form of the normal human hormone arginine vasopressin (the antidiuretic hormone, or ADH) which mimics the FVIII stress response and increases vWF/VIII levels. The Committee noted that a number of desmopressin presentations are already funded for community and hospital use without restriction and that the requested presentation (15mcg/mL vial; Octostim brand) is listed in Section H.</p><p><span style=\"color: black;\">3.9.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that that DDAVP 15mcg/mL vial <a href=\"https://www.medsafe.govt.nz/profs/Datasheet/o/Octostiminj.pdf\" target=\"_blank\">Octostim</a>) is approved by Medsafe for the therapeutic control of bleeding and bleeding prophylaxis in connection with minor surgical procedures in those with mild haemophilia A and von Willebrand\u2019s disease who respond positively to a test dose (although must not be used in von Willebrand\u2019s disease type IIB).</p><p><span style=\"color: black;\">3.10.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that the application recommends desmopressin acetate (DDAVP) 15mcg/mL vial be used at a dose of 0.3 mcg per kg subcutaneously (SC) for acute bleeding (either a single dose or with a second dose 12 hours later if required), or prophylaxis (a single dose prior to a surgical procedure with one or two doses postoperatively if required). Members considered that this reflected the dosing used for standard of care in New Zealand and noted that the maximum volume administered would be up to 2.0 mL with a response expected to peak in about two or three hours. The Committee considered that there is extensive clinical experience with desmopressin in New Zealand for bleeding disorders and that it is often used in combination with tranexamic acid.</p><p><span style=\"color: black;\">3.11.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that the submission included six publications providing evidence and guidelines regarding the use of desmopressin in this context, and that Pharmac staff identified three additional publications of relevance:</p><p><span style=\"color: windowtext; font-family: Symbol;\">\u00b7</span><span style=\"color: windowtext; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://www.sciencedirect.com/science/article/abs/pii/S0015028205027895\" target=\"_blank\">Kadir et al. Fertil Steril. 2005;84:1352-9</a></p><p><span style=\"color: windowtext; font-family: Symbol;\">\u00b7</span><span style=\"color: windowtext; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29305412/\" target=\"_blank\">Loomans et al. Haematologica. 2018;103:550-7</a></p><p><span style=\"color: windowtext; font-family: Symbol;\">\u00b7</span><span style=\"color: windowtext; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://www1.wfh.org/publication/files/pdf-1131.pdf\" target=\"_blank\">Mannucci P M. Treatment of Haemophilia. 2012;11</a></p><p><span style=\"color: windowtext; font-family: Symbol;\">\u00b7</span><span style=\"color: windowtext; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://onlinelibrary.wiley.com/doi/abs/10.1046/j.1365-2516.2000.00059.x?sid=nlm%3Apubmed\" target=\"_blank\">Mannucci P M. Haemophilia. 2000;6 Suppl 1:60-7</a></p><p><span style=\"color: windowtext; font-family: Symbol;\">\u00b7</span><span style=\"color: windowtext; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://doi.org/10.1111/j.1365-2516.2011.02573.x\" target=\"_blank\">Trigg et al. Haemophilia. 2012;18:25-33</a></p><p><span style=\"color: windowtext; font-family: Symbol;\">\u00b7</span><span style=\"color: windowtext; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://doi.org/10.1111/hae.13586\" target=\"_blank\">Hews-Girard et al. Haemophilia. 2018;24:720-5</a></p><p><span style=\"color: windowtext; font-family: Symbol;\">\u00b7</span><span style=\"color: windowtext; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://doi.org/10.1002/14651858.CD009824.pub4\" target=\"_blank\">Karanth et al. Cochrane Database Syst Rev. 2019;2:CD009824</a></p><p><span style=\"color: windowtext; font-family: Symbol;\">\u00b7</span><span style=\"color: windowtext; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://linkinghub.elsevier.com/retrieve/pii/S0049-3848(22)00063-9\" target=\"_blank\">Sreeraman et al. Thromb Res. 2022;213:16-26</a></p><p><span style=\"color: windowtext; font-family: Symbol;\">\u00b7</span><span style=\"color: windowtext; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://www.tandfonline.com/doi/full/10.1179/1607845412Y.0000000051\" target=\"_blank\">Akin M. Hematology. 2013;18:115-8</a></p><p><span style=\"color: black;\">3.12.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that funding the 15mcg/mL vial in the community would not be expected to reduce FVIII usage due to the mild phenotype seen in those affected. The Committee considered there might be a small reduction in hospital visits where telephone management occurs instead.</p><p><span style=\"color: black;\">3.13.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that desmopressin doses are limited to avoid tachyphylaxis (ie only one or two doses over 48 hours), that the risks of fluid retention and occasional severe hyponatraemia are managed with a cautious approach for the very young and the elderly (eg with vascular disease), that people with nonspecific bleeding disorders and normal or high FVIII levels may develop very high FVIII levels leading to an increased thrombotic risk, and that risks associated with intravenous fluids would not be expected with minor surgery or minor bleeds. The Committee considered that the known risks would not increase substantially if the 15mcg/mL vial were funded in the community, as current practice involves an initial trial dose to determine response, careful management, and age selection.</p><p><span style=\"color: black;\">3.14.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that clinical use of desmopressin would not be expected to increase significantly if the 15mcg/mL vial were funded in the community, and it would continue to not be used for all bleeding events (eg not for unexplained perioperative bleeds, and not for severe haemophilia A or von Willebrand disease types IIB or III where little benefit would be expected). The Committee considered that desmopressin would unlikely be used as a primary treatment for individuals with mild bleeding or menorrhagia although a small proportion of those so affected would be diagnosed with von Willebrand disease and therefore use desmopressin in later lines after tranexamic acid and other treatments.</p><p><span style=\"color: black;\">3.15.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered there would likely be a small increase in the total use of desmopressin if it were to be funded in the community, as some people who live further away from a hospital currently go without treatment for some milder bleeding events. The Committee considered that these individuals would be expected to receive desmopressin if it were to be funded in the community. The Committee considered that this would represent a minority of individuals, and that the majority of community desmopressin use would be among those who are currently receiving it in a hospital setting.</p><p><br></p><p><em>Suitability</em></p><p><br></p><p><span style=\"color: black;\">3.16.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that the key benefits of funding desmopressin 15mcg/mL vial in the community would be improved ease of access and earlier access to treatment, which might prevent ongoing bleeds and be especially beneficial for those individuals who live at a distance from their haemophilia treatment centre. The Committee considered that those known to respond to desmopressin could also avoid an additional visit to their haemophilia treatment centre and could receive desmopressin in the community either prior to, other treatments (if needed), or instead of receiving treatment in hospital. The Committee further considered this would enable them to access minor surgery in the community with minimal risk and would be useful for those who may need to or wish to travel (eg for work or recreation).</p><p><span style=\"color: black;\">3.17.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that funding the 15mcg/mL vial for community use would not pose challenges in terms of subcutaneous administration given that many people living with haemophilia and their caregivers are familiar with the technique. The Committee considered it could also be used easily by primary care nurses, or in private hospitals, with support from the haemophilia treatment centre regarding dosing, timing and management of side effects. The Committee noted that appropriate disposal of the syringe and sharps would be required.</p><p>\u00a0</p><p><em>Costs and Savings</em></p><p><br></p><p><span style=\"color: black;\">3.18.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that funding the 15mcg/mL vial for community use would not significantly change desmopressin use overall due to current practice. However, the Committee noted that a dispensing fee would be applied at point of collection.</p><p><span style=\"color: black;\">3.19.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that most individuals who would switch to using desmopressin 15mcg/mL vial in the community would previously have been receiving this in hospital, although most of these individuals would not have received FVIII or Biostate given the mild disease phenotype of the target population.</p><p><span style=\"color: black;\">3.20.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that the usage of combination therapy with desmopressin and FVIII (eg for significant procedures) would be unchanged, and therefore that a reduction in FVIII usage would not be expected and overall treatment cost would likely be unchanged.</p><p><br></p><p><em>Special Authority criteria</em></p><p><br></p><p><span style=\"color: black;\">3.21.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that specific funding criteria was not required given the appropriate and careful use of current treatments, including treatment protocols, for this population group.</p><p><br></p><p><em>Summary for Assessment</em></p><p><br></p><p><span style=\"color: black;\">3.1.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that the table below summarises its interpretation of the most appropriate PICO (population, intervention, comparator, outcomes) information for desmopressin acetate (DDAVP) 15mcg/mL vial if it were to be funded in New Zealand for the community management of acute bleeding or prophylaxis for minor surgery in people with moderate and mild Haemophilia A, von Willebrand Disease or nonspecific bleeding disorders. This PICO captures key clinical aspects of the proposal and may be used to frame any future economic assessment by Pharmac staff. This PICO is based on the Advisory Committee\u2019s assessment at this time and may differ from that requested by the applicant. The PICO may change based on new information, additional clinical advice, or further analysis by Pharmac staff.</p><p><br></p><p><img src=\"/apptracker/servlet/rtaImage?eid=a0POZ000004AoMG&amp;feoid=00N2P000000YsIc&amp;refid=0EMOZ0000002EA9\" alt=\"Desmopressin PICO Table.png\"></img></p>",
+          "fs": "<p><em>M\u0101ori impact</em></p><p><br></p><p><span style=\"color: black;\">3.1.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that the unmet need in relation to the impact of mild to moderate Haemophilia A, von Willebrand disease or inherited platelet disorders on M\u0101ori health outcomes was similar to that of non-M\u0101ori in terms of ease of access to treatment.</p><p><br></p><p><em>Need</em></p><p><br></p><p><span style=\"color: black;\">3.2.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that this application aimed to target people with:</p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>Haemophilia A (predominantly mild, also a small proportion of individuals with moderate haemophilia A) or haemophilia A carriers; and especially those with high-risk mutations who would benefit from avoiding factor VIII [FVIII] exposure where possible.</p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>Mild von Willebrand disease, predominantly type I without a von Willebrand Factor [VWF] gene variant, but also some people with type II (not IIB or III)</p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>A small proportion of people with clinically impactful, nonspecific, bleeding disorders (eg including some inherited platelet disorders).</p><p><span style=\"color: black;\">3.3.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that the type of bleed that has occurred (eg mild muscle bleeds or epistaxis, not joint bleeds) and/or the type of low-risk surgery planned (eg dental procedure or skin lesion removal or biopsy) determines the approach to management . The Committee noted that more significant bleeds or surgeries would require the use of FVIII or FVIII with von Willebrand\u2019s factor (Biostate).</p><p><span style=\"color: black;\">3.4.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that treatment protocols including desmopressin are developed according to an individual\u2019s need and procedure or bleed type, taking into account baseline FVIII level and the desired FVIII response (typically at least 30%) and duration. The Committee noted that current best practice is for these individuals to receive an initial dose of desmopressin under the supervision of a haematologist to identify those who benefit, given variable responses are anticipated due to factors including von Willebrand genotype and FVIII levels.</p><p><span style=\"color: black;\">3.5.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that von Willebrand disease prevalence in New Zealand is approximately 0.01% based on the current literature and real-world experience in Auckland. The Committee noted that in Auckland there are about 160 people with von Willebrand disease (mostly type I), 178 with mild haemophilia A, 10 haemophilia A carriers, and a small number of individuals with nonspecific bleeding disorders. The Committee noted that in Auckland in the previous 12 months, 10 people with von Willebrand disease and two individuals with mild haemophilia A received desmopressin for minor surgery and muscle bleeds, respectively.</p><p><span style=\"color: black;\">3.6.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that the majority of people with mild haemophilia A or von Willebrand disease currently receive desmopressin in a hospital setting alongside their treatment protocol and are well known to their closest haemophilia treatment centre. However, the Committee considered that there are differences in access in different parts of the country and in some regions individuals need to travel several hours to attend their closest centre.</p><p><span style=\"color: black;\">3.7.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that the health need in this population resulted from the challenges in accessing this formulation of desmopressin in a timely manner for offsite use, predominantly for minor surgical procedures and minor bleeding issues which do not require blood products. The Committee considered that the unmet need in relation to the impact of mild to moderate Haemophilia A, von Willebrand disease or inherited platelet disorders on M\u0101ori health outcomes was similar to that of non-M\u0101ori in terms of ease of access to treatment.</p><p><br></p><p><em>Health Benefit</em></p><p><br></p><p><span style=\"color: black;\">3.8.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that desmopressin is a synthetic form of the normal human hormone arginine vasopressin (the antidiuretic hormone, or ADH) which mimics the FVIII stress response and increases vWF/VIII levels. The Committee noted that a number of desmopressin presentations are already funded for community and hospital use without restriction and that the requested presentation (15mcg/mL vial; Octostim brand) is listed in Section H.</p><p><span style=\"color: black;\">3.9.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that that DDAVP 15mcg/mL vial <a href=\"https://www.medsafe.govt.nz/profs/Datasheet/o/Octostiminj.pdf\" target=\"_blank\">Octostim</a>) is approved by Medsafe for the therapeutic control of bleeding and bleeding prophylaxis in connection with minor surgical procedures in those with mild haemophilia A and von Willebrand\u2019s disease who respond positively to a test dose (although must not be used in von Willebrand\u2019s disease type IIB).</p><p><span style=\"color: black;\">3.10.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that the application recommends desmopressin acetate (DDAVP) 15mcg/mL vial be used at a dose of 0.3 mcg per kg subcutaneously (SC) for acute bleeding (either a single dose or with a second dose 12 hours later if required), or prophylaxis (a single dose prior to a surgical procedure with one or two doses postoperatively if required). Members considered that this reflected the dosing used for standard of care in New Zealand and noted that the maximum volume administered would be up to 2.0 mL with a response expected to peak in about two or three hours. The Committee considered that there is extensive clinical experience with desmopressin in New Zealand for bleeding disorders and that it is often used in combination with tranexamic acid.</p><p><span style=\"color: black;\">3.11.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that the submission included six publications providing evidence and guidelines regarding the use of desmopressin in this context, and that Pharmac staff identified three additional publications of relevance:</p><p><span style=\"color: windowtext; font-family: Symbol;\">\u00b7</span><span style=\"color: windowtext; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://www.sciencedirect.com/science/article/abs/pii/S0015028205027895\" target=\"_blank\">Kadir et al. Fertil Steril. 2005;84:1352-9</a></p><p><span style=\"color: windowtext; font-family: Symbol;\">\u00b7</span><span style=\"color: windowtext; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29305412/\" target=\"_blank\">Loomans et al. Haematologica. 2018;103:550-7</a></p><p><span style=\"color: windowtext; font-family: Symbol;\">\u00b7</span><span style=\"color: windowtext; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://www1.wfh.org/publication/files/pdf-1131.pdf\" target=\"_blank\">Mannucci P M. Treatment of Haemophilia. 2012;11</a></p><p><span style=\"color: windowtext; font-family: Symbol;\">\u00b7</span><span style=\"color: windowtext; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://onlinelibrary.wiley.com/doi/abs/10.1046/j.1365-2516.2000.00059.x?sid=nlm%3Apubmed\" target=\"_blank\">Mannucci P M. Haemophilia. 2000;6 Suppl 1:60-7</a></p><p><span style=\"color: windowtext; font-family: Symbol;\">\u00b7</span><span style=\"color: windowtext; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://doi.org/10.1111/j.1365-2516.2011.02573.x\" target=\"_blank\">Trigg et al. Haemophilia. 2012;18:25-33</a></p><p><span style=\"color: windowtext; font-family: Symbol;\">\u00b7</span><span style=\"color: windowtext; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://doi.org/10.1111/hae.13586\" target=\"_blank\">Hews-Girard et al. Haemophilia. 2018;24:720-5</a></p><p><span style=\"color: windowtext; font-family: Symbol;\">\u00b7</span><span style=\"color: windowtext; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://doi.org/10.1002/14651858.CD009824.pub4\" target=\"_blank\">Karanth et al. Cochrane Database Syst Rev. 2019;2:CD009824</a></p><p><span style=\"color: windowtext; font-family: Symbol;\">\u00b7</span><span style=\"color: windowtext; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://linkinghub.elsevier.com/retrieve/pii/S0049-3848(22)00063-9\" target=\"_blank\">Sreeraman et al. Thromb Res. 2022;213:16-26</a></p><p><span style=\"color: windowtext; font-family: Symbol;\">\u00b7</span><span style=\"color: windowtext; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://www.tandfonline.com/doi/full/10.1179/1607845412Y.0000000051\" target=\"_blank\">Akin M. Hematology. 2013;18:115-8</a></p><p><span style=\"color: black;\">3.12.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that funding the 15mcg/mL vial in the community would not be expected to reduce FVIII usage due to the mild phenotype seen in those affected. The Committee considered there might be a small reduction in hospital visits where telephone management occurs instead.</p><p><span style=\"color: black;\">3.13.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that desmopressin doses are limited to avoid tachyphylaxis (ie only one or two doses over 48 hours), that the risks of fluid retention and occasional severe hyponatraemia are managed with a cautious approach for the very young and the elderly (eg with vascular disease), that people with nonspecific bleeding disorders and normal or high FVIII levels may develop very high FVIII levels leading to an increased thrombotic risk, and that risks associated with intravenous fluids would not be expected with minor surgery or minor bleeds. The Committee considered that the known risks would not increase substantially if the 15mcg/mL vial were funded in the community, as current practice involves an initial trial dose to determine response, careful management, and age selection.</p><p><span style=\"color: black;\">3.14.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that clinical use of desmopressin would not be expected to increase significantly if the 15mcg/mL vial were funded in the community, and it would continue to not be used for all bleeding events (eg not for unexplained perioperative bleeds, and not for severe haemophilia A or von Willebrand disease types IIB or III where little benefit would be expected). The Committee considered that desmopressin would unlikely be used as a primary treatment for individuals with mild bleeding or menorrhagia although a small proportion of those so affected would be diagnosed with von Willebrand disease and therefore use desmopressin in later lines after tranexamic acid and other treatments.</p><p><span style=\"color: black;\">3.15.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered there would likely be a small increase in the total use of desmopressin if it were to be funded in the community, as some people who live further away from a hospital currently go without treatment for some milder bleeding events. The Committee considered that these individuals would be expected to receive desmopressin if it were to be funded in the community. The Committee considered that this would represent a minority of individuals, and that the majority of community desmopressin use would be among those who are currently receiving it in a hospital setting.</p><p><br></p><p><em>Suitability</em></p><p><br></p><p><span style=\"color: black;\">3.16.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that the key benefits of funding desmopressin 15mcg/mL vial in the community would be improved ease of access and earlier access to treatment, which might prevent ongoing bleeds and be especially beneficial for those individuals who live at a distance from their haemophilia treatment centre. The Committee considered that those known to respond to desmopressin could also avoid an additional visit to their haemophilia treatment centre and could receive desmopressin in the community either prior to, other treatments (if needed), or instead of receiving treatment in hospital. The Committee further considered this would enable them to access minor surgery in the community with minimal risk and would be useful for those who may need to or wish to travel (eg for work or recreation).</p><p><span style=\"color: black;\">3.17.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that funding the 15mcg/mL vial for community use would not pose challenges in terms of subcutaneous administration given that many people living with haemophilia and their caregivers are familiar with the technique. The Committee considered it could also be used easily by primary care nurses, or in private hospitals, with support from the haemophilia treatment centre regarding dosing, timing and management of side effects. The Committee noted that appropriate disposal of the syringe and sharps would be required.</p><p>\u00a0</p><p><em>Costs and Savings</em></p><p><br></p><p><span style=\"color: black;\">3.18.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that funding the 15mcg/mL vial for community use would not significantly change desmopressin use overall due to current practice. However, the Committee noted that a dispensing fee would be applied at point of collection.</p><p><span style=\"color: black;\">3.19.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that most individuals who would switch to using desmopressin 15mcg/mL vial in the community would previously have been receiving this in hospital, although most of these individuals would not have received FVIII or Biostate given the mild disease phenotype of the target population.</p><p><span style=\"color: black;\">3.20.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that the usage of combination therapy with desmopressin and FVIII (eg for significant procedures) would be unchanged, and therefore that a reduction in FVIII usage would not be expected and overall treatment cost would likely be unchanged.</p><p><br></p><p><em>Special Authority criteria</em></p><p><br></p><p><span style=\"color: black;\">3.21.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that specific funding criteria was not required given the appropriate and careful use of current treatments, including treatment protocols, for this population group.</p><p><br></p><p><em>Summary for Assessment</em></p><p><br></p><p><span style=\"color: black;\">3.1.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that the table below summarises its interpretation of the most appropriate PICO (population, intervention, comparator, outcomes) information for desmopressin acetate (DDAVP) 15mcg/mL vial if it were to be funded in New Zealand for the community management of acute bleeding or prophylaxis for minor surgery in people with moderate and mild Haemophilia A, von Willebrand Disease or nonspecific bleeding disorders. This PICO captures key clinical aspects of the proposal and may be used to frame any future economic assessment by Pharmac staff. This PICO is based on the Advisory Committee\u2019s assessment at this time and may differ from that requested by the applicant. The PICO may change based on new information, additional clinical advice, or further analysis by Pharmac staff.</p><p><br></p><p><img src=\"/apptracker/servlet/rtaImage?eid=a0POZ000004AoMG&amp;feoid=00N2P000000YsIc&amp;refid=0EMOZ0000002EA9\" alt=\"Desmopressin PICO Table.png\"></img></p>",
+          "change": null
+        },
+        "Published_Application": {
+          "s": "<p><span style=\"color: black;\">1.1.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee reviewed the application seeking listing of desmopressin acetate (DDAVP) 15 mcg/mL vial in the community (currently only listed in HML), submitted on behalf of the National Haemophilia Treaters Group by a member of the Haematology Advisory Committee.</p><p><span style=\"color: black;\">1.2.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee took into account, where applicable, Pharmac\u2019s relevant decision-making framework when considering this agenda item.\u00a0</p>",
+          "fs": "<p><span style=\"color: black;\">1.1.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee reviewed the application seeking listing of desmopressin acetate (DDAVP) 15 mcg/mL vial in the community (currently only listed in HML), submitted on behalf of the National Haemophilia Treaters Group by a member of the Haematology Advisory Committee.</p><p><span style=\"color: black;\">1.2.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee took into account, where applicable, Pharmac\u2019s relevant decision-making framework when considering this agenda item.\u00a0</p>",
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": "High",
+          "fs": "High",
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Jul 2023",
+          "fs": "Jul 2023",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Clinical advice received from Haematology Advisory Committee at meeting Wednesday 9 November 2022.",
+          "fs": "Clinical advice received from Haematology Advisory Committee at meeting Wednesday 9 November 2022.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ000004AoMG2A0"
+          },
+          "Id": "a0POZ000004AoMG2A0",
+          "Event_Date__c": "2023-07-10",
+          "Event_Description__c": "Clinical advice received from Haematology Advisory Committee at meeting Wednesday 9 November 2022.",
+          "Stage__c": "Seeking Clinical Advice",
+          "Outcome__c": "High",
+          "Formatted_Date__c": "Jul 2023",
+          "Published_Recommendation__c": "<p><span style=\"color: black;\">2.1.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee <strong>recommended</strong> that desmopressin acetate (DDAVP) 15mcg/mL vial be funded in the community for management of acute bleeding or prophylaxis for minor surgery in people with moderate and mild Haemophilia A, von Willebrand Disease or inherited platelet disorders with a <strong>high</strong> <strong>priority</strong>, within the context of haematology treatments.</p><p><span style=\"color: black;\">2.2.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>In making this recommendation, the Committee considered that listing this product for community use would provide meaningful benefits to those living with the above conditions by improving the ease of access and timeliness of desmopressin treatment.</p>",
+          "Published_Application__c": "<p><span style=\"color: black;\">1.1.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee reviewed the application seeking listing of desmopressin acetate (DDAVP) 15 mcg/mL vial in the community (currently only listed in HML), submitted on behalf of the National Haemophilia Treaters Group by a member of the Haematology Advisory Committee.</p><p><span style=\"color: black;\">1.2.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee took into account, where applicable, Pharmac\u2019s relevant decision-making framework when considering this agenda item.\u00a0</p>",
+          "Published_Discussion__c": "<p><em>M\u0101ori impact</em></p><p><br></p><p><span style=\"color: black;\">3.1.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that the unmet need in relation to the impact of mild to moderate Haemophilia A, von Willebrand disease or inherited platelet disorders on M\u0101ori health outcomes was similar to that of non-M\u0101ori in terms of ease of access to treatment.</p><p><br></p><p><em>Need</em></p><p><br></p><p><span style=\"color: black;\">3.2.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that this application aimed to target people with:</p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>Haemophilia A (predominantly mild, also a small proportion of individuals with moderate haemophilia A) or haemophilia A carriers; and especially those with high-risk mutations who would benefit from avoiding factor VIII [FVIII] exposure where possible.</p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>Mild von Willebrand disease, predominantly type I without a von Willebrand Factor [VWF] gene variant, but also some people with type II (not IIB or III)</p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>A small proportion of people with clinically impactful, nonspecific, bleeding disorders (eg including some inherited platelet disorders).</p><p><span style=\"color: black;\">3.3.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that the type of bleed that has occurred (eg mild muscle bleeds or epistaxis, not joint bleeds) and/or the type of low-risk surgery planned (eg dental procedure or skin lesion removal or biopsy) determines the approach to management . The Committee noted that more significant bleeds or surgeries would require the use of FVIII or FVIII with von Willebrand\u2019s factor (Biostate).</p><p><span style=\"color: black;\">3.4.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that treatment protocols including desmopressin are developed according to an individual\u2019s need and procedure or bleed type, taking into account baseline FVIII level and the desired FVIII response (typically at least 30%) and duration. The Committee noted that current best practice is for these individuals to receive an initial dose of desmopressin under the supervision of a haematologist to identify those who benefit, given variable responses are anticipated due to factors including von Willebrand genotype and FVIII levels.</p><p><span style=\"color: black;\">3.5.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that von Willebrand disease prevalence in New Zealand is approximately 0.01% based on the current literature and real-world experience in Auckland. The Committee noted that in Auckland there are about 160 people with von Willebrand disease (mostly type I), 178 with mild haemophilia A, 10 haemophilia A carriers, and a small number of individuals with nonspecific bleeding disorders. The Committee noted that in Auckland in the previous 12 months, 10 people with von Willebrand disease and two individuals with mild haemophilia A received desmopressin for minor surgery and muscle bleeds, respectively.</p><p><span style=\"color: black;\">3.6.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that the majority of people with mild haemophilia A or von Willebrand disease currently receive desmopressin in a hospital setting alongside their treatment protocol and are well known to their closest haemophilia treatment centre. However, the Committee considered that there are differences in access in different parts of the country and in some regions individuals need to travel several hours to attend their closest centre.</p><p><span style=\"color: black;\">3.7.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that the health need in this population resulted from the challenges in accessing this formulation of desmopressin in a timely manner for offsite use, predominantly for minor surgical procedures and minor bleeding issues which do not require blood products. The Committee considered that the unmet need in relation to the impact of mild to moderate Haemophilia A, von Willebrand disease or inherited platelet disorders on M\u0101ori health outcomes was similar to that of non-M\u0101ori in terms of ease of access to treatment.</p><p><br></p><p><em>Health Benefit</em></p><p><br></p><p><span style=\"color: black;\">3.8.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that desmopressin is a synthetic form of the normal human hormone arginine vasopressin (the antidiuretic hormone, or ADH) which mimics the FVIII stress response and increases vWF/VIII levels. The Committee noted that a number of desmopressin presentations are already funded for community and hospital use without restriction and that the requested presentation (15mcg/mL vial; Octostim brand) is listed in Section H.</p><p><span style=\"color: black;\">3.9.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that that DDAVP 15mcg/mL vial <a href=\"https://www.medsafe.govt.nz/profs/Datasheet/o/Octostiminj.pdf\" target=\"_blank\">Octostim</a>) is approved by Medsafe for the therapeutic control of bleeding and bleeding prophylaxis in connection with minor surgical procedures in those with mild haemophilia A and von Willebrand\u2019s disease who respond positively to a test dose (although must not be used in von Willebrand\u2019s disease type IIB).</p><p><span style=\"color: black;\">3.10.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that the application recommends desmopressin acetate (DDAVP) 15mcg/mL vial be used at a dose of 0.3 mcg per kg subcutaneously (SC) for acute bleeding (either a single dose or with a second dose 12 hours later if required), or prophylaxis (a single dose prior to a surgical procedure with one or two doses postoperatively if required). Members considered that this reflected the dosing used for standard of care in New Zealand and noted that the maximum volume administered would be up to 2.0 mL with a response expected to peak in about two or three hours. The Committee considered that there is extensive clinical experience with desmopressin in New Zealand for bleeding disorders and that it is often used in combination with tranexamic acid.</p><p><span style=\"color: black;\">3.11.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that the submission included six publications providing evidence and guidelines regarding the use of desmopressin in this context, and that Pharmac staff identified three additional publications of relevance:</p><p><span style=\"color: windowtext; font-family: Symbol;\">\u00b7</span><span style=\"color: windowtext; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://www.sciencedirect.com/science/article/abs/pii/S0015028205027895\" target=\"_blank\">Kadir et al. Fertil Steril. 2005;84:1352-9</a></p><p><span style=\"color: windowtext; font-family: Symbol;\">\u00b7</span><span style=\"color: windowtext; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29305412/\" target=\"_blank\">Loomans et al. Haematologica. 2018;103:550-7</a></p><p><span style=\"color: windowtext; font-family: Symbol;\">\u00b7</span><span style=\"color: windowtext; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://www1.wfh.org/publication/files/pdf-1131.pdf\" target=\"_blank\">Mannucci P M. Treatment of Haemophilia. 2012;11</a></p><p><span style=\"color: windowtext; font-family: Symbol;\">\u00b7</span><span style=\"color: windowtext; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://onlinelibrary.wiley.com/doi/abs/10.1046/j.1365-2516.2000.00059.x?sid=nlm%3Apubmed\" target=\"_blank\">Mannucci P M. Haemophilia. 2000;6 Suppl 1:60-7</a></p><p><span style=\"color: windowtext; font-family: Symbol;\">\u00b7</span><span style=\"color: windowtext; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://doi.org/10.1111/j.1365-2516.2011.02573.x\" target=\"_blank\">Trigg et al. Haemophilia. 2012;18:25-33</a></p><p><span style=\"color: windowtext; font-family: Symbol;\">\u00b7</span><span style=\"color: windowtext; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://doi.org/10.1111/hae.13586\" target=\"_blank\">Hews-Girard et al. Haemophilia. 2018;24:720-5</a></p><p><span style=\"color: windowtext; font-family: Symbol;\">\u00b7</span><span style=\"color: windowtext; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://doi.org/10.1002/14651858.CD009824.pub4\" target=\"_blank\">Karanth et al. Cochrane Database Syst Rev. 2019;2:CD009824</a></p><p><span style=\"color: windowtext; font-family: Symbol;\">\u00b7</span><span style=\"color: windowtext; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://linkinghub.elsevier.com/retrieve/pii/S0049-3848(22)00063-9\" target=\"_blank\">Sreeraman et al. Thromb Res. 2022;213:16-26</a></p><p><span style=\"color: windowtext; font-family: Symbol;\">\u00b7</span><span style=\"color: windowtext; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://www.tandfonline.com/doi/full/10.1179/1607845412Y.0000000051\" target=\"_blank\">Akin M. Hematology. 2013;18:115-8</a></p><p><span style=\"color: black;\">3.12.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that funding the 15mcg/mL vial in the community would not be expected to reduce FVIII usage due to the mild phenotype seen in those affected. The Committee considered there might be a small reduction in hospital visits where telephone management occurs instead.</p><p><span style=\"color: black;\">3.13.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that desmopressin doses are limited to avoid tachyphylaxis (ie only one or two doses over 48 hours), that the risks of fluid retention and occasional severe hyponatraemia are managed with a cautious approach for the very young and the elderly (eg with vascular disease), that people with nonspecific bleeding disorders and normal or high FVIII levels may develop very high FVIII levels leading to an increased thrombotic risk, and that risks associated with intravenous fluids would not be expected with minor surgery or minor bleeds. The Committee considered that the known risks would not increase substantially if the 15mcg/mL vial were funded in the community, as current practice involves an initial trial dose to determine response, careful management, and age selection.</p><p><span style=\"color: black;\">3.14.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that clinical use of desmopressin would not be expected to increase significantly if the 15mcg/mL vial were funded in the community, and it would continue to not be used for all bleeding events (eg not for unexplained perioperative bleeds, and not for severe haemophilia A or von Willebrand disease types IIB or III where little benefit would be expected). The Committee considered that desmopressin would unlikely be used as a primary treatment for individuals with mild bleeding or menorrhagia although a small proportion of those so affected would be diagnosed with von Willebrand disease and therefore use desmopressin in later lines after tranexamic acid and other treatments.</p><p><span style=\"color: black;\">3.15.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered there would likely be a small increase in the total use of desmopressin if it were to be funded in the community, as some people who live further away from a hospital currently go without treatment for some milder bleeding events. The Committee considered that these individuals would be expected to receive desmopressin if it were to be funded in the community. The Committee considered that this would represent a minority of individuals, and that the majority of community desmopressin use would be among those who are currently receiving it in a hospital setting.</p><p><br></p><p><em>Suitability</em></p><p><br></p><p><span style=\"color: black;\">3.16.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that the key benefits of funding desmopressin 15mcg/mL vial in the community would be improved ease of access and earlier access to treatment, which might prevent ongoing bleeds and be especially beneficial for those individuals who live at a distance from their haemophilia treatment centre. The Committee considered that those known to respond to desmopressin could also avoid an additional visit to their haemophilia treatment centre and could receive desmopressin in the community either prior to, other treatments (if needed), or instead of receiving treatment in hospital. The Committee further considered this would enable them to access minor surgery in the community with minimal risk and would be useful for those who may need to or wish to travel (eg for work or recreation).</p><p><span style=\"color: black;\">3.17.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that funding the 15mcg/mL vial for community use would not pose challenges in terms of subcutaneous administration given that many people living with haemophilia and their caregivers are familiar with the technique. The Committee considered it could also be used easily by primary care nurses, or in private hospitals, with support from the haemophilia treatment centre regarding dosing, timing and management of side effects. The Committee noted that appropriate disposal of the syringe and sharps would be required.</p><p>\u00a0</p><p><em>Costs and Savings</em></p><p><br></p><p><span style=\"color: black;\">3.18.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that funding the 15mcg/mL vial for community use would not significantly change desmopressin use overall due to current practice. However, the Committee noted that a dispensing fee would be applied at point of collection.</p><p><span style=\"color: black;\">3.19.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that most individuals who would switch to using desmopressin 15mcg/mL vial in the community would previously have been receiving this in hospital, although most of these individuals would not have received FVIII or Biostate given the mild disease phenotype of the target population.</p><p><span style=\"color: black;\">3.20.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that the usage of combination therapy with desmopressin and FVIII (eg for significant procedures) would be unchanged, and therefore that a reduction in FVIII usage would not be expected and overall treatment cost would likely be unchanged.</p><p><br></p><p><em>Special Authority criteria</em></p><p><br></p><p><span style=\"color: black;\">3.21.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that specific funding criteria was not required given the appropriate and careful use of current treatments, including treatment protocols, for this population group.</p><p><br></p><p><em>Summary for Assessment</em></p><p><br></p><p><span style=\"color: black;\">3.1.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that the table below summarises its interpretation of the most appropriate PICO (population, intervention, comparator, outcomes) information for desmopressin acetate (DDAVP) 15mcg/mL vial if it were to be funded in New Zealand for the community management of acute bleeding or prophylaxis for minor surgery in people with moderate and mild Haemophilia A, von Willebrand Disease or nonspecific bleeding disorders. This PICO captures key clinical aspects of the proposal and may be used to frame any future economic assessment by Pharmac staff. This PICO is based on the Advisory Committee\u2019s assessment at this time and may differ from that requested by the applicant. The PICO may change based on new information, additional clinical advice, or further analysis by Pharmac staff.</p><p><br></p><p><img src=\"/apptracker/servlet/rtaImage?eid=a0POZ000004AoMG&amp;feoid=00N2P000000YsIc&amp;refid=0EMOZ0000002EA9\" alt=\"Desmopressin PICO Table.png\"></img></p>",
+          "Status_History__c": "a13OZ000004DnK1YAK"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Jul 2022",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Following Clinical Advice, Pharmac staff considers the advice and the funding application under goes an assessment using our&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/factors-for-consideration/\" rel=\"nofollow\">Factors for Consideration</a>&nbsp;framework and seeks additional information as required.</p>\r\n<p>&nbsp;</p>\r\n<p>Research and Economic analysis are undertaken.&nbsp; This focuses on the costs and benefits of a proposed course of action. Economics is based on three fundamental concepts that summarise the issues Pharmac faces daily:&nbsp;</p>\r\n<ul>\r\n<li>Scarcity &ndash; resources will always be insufficient to support all possible activities.</li>\r\n<li>Choices &ndash; due to scarce resources, decisions must be made about how best to use them.</li>\r\n<li>Opportunity cost &ndash; by choosing to use resources one way, we forgo other opportunities to use the same resources.</li>\r\n</ul>\r\n<p>&nbsp;</p>\r\n<p>For further information on the purpose of, and techniques for, undertaking economic analysis in health care, please refer&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/economic-analysis/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/economic-analysis/</a></p>",
+    "position": 2,
+    "name": "Under Assessment",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Jan 2024",
+          "fs": "Jan 2024",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Working to compare options",
+          "fs": "Working to compare options",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ000004AoMH2A0"
+          },
+          "Id": "a0POZ000004AoMH2A0",
+          "Event_Date__c": "2024-01-17",
+          "Event_Description__c": "Working to compare options",
+          "Stage__c": "Under Assessment",
+          "Formatted_Date__c": "Jan 2024",
+          "Status_History__c": "a13OZ000005kq5cYAA"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Jan 2024",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Pharmac staff uses a prioritisation process to compare and rank funding options. Possible opportunities for new investment will always exceed the budget Pharmac has available; therefore, prioritisation is an intrinsic part of Pharmac\u2019s decision-making process.</p>\r\n<p>The relative ranking of options aims to support Pharmac&rsquo;s statutory objective &ldquo;to secure for eligible people in need of pharmaceuticals, the best health outcomes that are reasonably achievable from pharmaceutical treatment and from within the amount of funding provided&rdquo;.</p>\r\n<p>A funding application or proposal is considered ready for prioritisation when sufficient information is available to permit it to be reviewed against Pharmac's Factors for Consideration and to inform a comparison with other possible investment decisions.</p>\r\n<p>There is no guarantee when or if a ranked medicine will be funded.&nbsp;&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/prioritisation/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/prioritisation/</a></p>",
+    "position": 3,
+    "name": "Options Compared",
+    "last": false,
+    "events": null,
+    "dateString": null,
+    "collapsed": false,
+    "checked": false
+  },
+  {
+    "text": "<p>Pharmac is consulting on a proposal to either approve or decline the application.&nbsp;We seek the views of all people who have an interest in our proposals, or who may be affected by them, to obtain feedback on our proposed approaches.</p>\r\n<p><a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/having-your-say/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/having-your-say/</a></p>",
+    "position": 4,
+    "name": "Under Consultation",
+    "last": false,
+    "events": null,
+    "dateString": null,
+    "collapsed": false,
+    "checked": false
+  },
+  {
+    "text": "<p>Following the consultation process, Pharmac staff considers the feedback and identifies any additional information required as part of a gap analysis.&nbsp; The proposal may require further clinical advice, research, and assessment.</p>",
+    "position": 5,
+    "name": "Reviewing Consultation Feedback",
+    "last": false,
+    "events": null,
+    "dateString": null,
+    "collapsed": false,
+    "checked": false
+  },
+  {
+    "text": "<p>We refer to our decisions about whether and how particular pharmaceuticals are publicly-funded, as &ldquo;funding decisions&rdquo;.</p>\r\n<p>We consider and assess all funding decisions using the&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/about/operating-policies-and-procedures/#factorsfc\" rel=\"nofollow\">Factors for Consideration</a>. When we do so, we carefully evaluate clinical and other evidence for the benefits and suitability of a proposal, and to identify and understand the people who will be affected by it.</p>\r\n<p>While our main task is to allocate pharmaceutical funding, we consider the benefits and costs across the whole health system now and with a long-term focus, including the effects for hospitals and primary care, and consider direct costs to patients as well as to all health sector budgets.</p>\r\n<p>Final funding decisions are made by the Pharmac Board or delegated to senior Pharmac staff as required by the Board.</p>\r\n<p>&nbsp;</p>",
+    "position": 6,
+    "name": "Decision",
+    "last": true,
+    "events": null,
+    "dateString": null,
+    "collapsed": false,
+    "checked": false
+  }
+]

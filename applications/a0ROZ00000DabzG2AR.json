@@ -1,0 +1,562 @@
+[
+  {
+    "text": "<p>New funding applications are referred to one of Pharmac's Funding Application Advisors (FAAs), who'll review the application to ensure they have the relevant information to undertake a preliminary analysis.&nbsp; They may seek more information if required.</p>\r\n<p><a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/new-funding-applications/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/new-funding-applications/</a></p>",
+    "position": 0,
+    "name": "Application Received",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Jan 2023",
+          "fs": "Jan 2023",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Application received",
+          "fs": "Application received",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000Wfu8h2AB"
+          },
+          "Id": "a0POZ00000Wfu8h2AB",
+          "Event_Date__c": "2023-01-23",
+          "Event_Description__c": "Application received",
+          "Stage__c": "Application Received",
+          "Formatted_Date__c": "Jan 2023",
+          "Status_History__c": "a132P000000EDJVQA4"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Jan 2023",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Pharmac is identifying and gathering information required to get clinical advice.  The <a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/pharmacology-and-therapeutics-advisory-committee-ptac/\" rel=\"nofollow\">Pharmacology and Therapeutics Advisory Committee (PTAC)</a>  meets quarterly. There are also around 20 expert <a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/specialist-advisory-committees/\" rel=\"nofollow\">Specialist Advisory Committees (SACs)</a>, previously expert Subcommittees, which provide clinical evaluations in specialist areas. Specialist Advisory Committees meet as required to discuss issues referred to them by PTAC or Pharmac.</p>\n<p style=\"height: 20px\">&nbsp;</p>\n<p>In November 2021, we introduced separate terms of reference for the SACs to make clear that these committees have different, but complementary, roles, expertise and perspectives to PTAC.</p>\n<p style=\"height: 15px\">&nbsp;</p>\n<p>PTAC and SACs may make recommendations to Pharmac that differ from each other when looking at the same evidence. Pharmac considers the recommendations provided by all our clinical advisory committees when assessing applications.</p>\n<p style=\"height: 20px\">&nbsp;</p>\n<p><a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/pharmacology-and-therapeutics-advisory-committee-ptac/ptac-terms-of-reference-july-2021/\" rel=\"nofollow\">PTAC</a>  and <a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/specialist-advisory-committees/specialist-advisory-committee-terms-of-reference//\" rel=\"nofollow\">Specialist Advisory Committees</a> records of the meeting will be published on this website in accordance with the Terms of Reference.</p>",
+    "position": 1,
+    "name": "Seeking Clinical Advice",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Mar 2023",
+          "fs": "Mar 2023",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Clinical advice required",
+          "fs": "Clinical advice required",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000Wfu8i2AB"
+          },
+          "Id": "a0POZ00000Wfu8i2AB",
+          "Event_Date__c": "2023-03-16",
+          "Event_Description__c": "Clinical advice required",
+          "Stage__c": "Seeking Clinical Advice",
+          "Formatted_Date__c": "Mar 2023",
+          "Status_History__c": "a132P000000EDXcQAO"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Mar 2023",
+          "fs": "Mar 2023",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Assigned to Pharmacology and Therapeutics Advisory Committee (PTAC) meeting to provide advice on Friday 19 May 2023",
+          "fs": "Assigned to Pharmacology and Therapeutics Advisory Committee (PTAC) meeting to provide advice on Friday 19 May 2023",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000Wfu8j2AB"
+          },
+          "Id": "a0POZ00000Wfu8j2AB",
+          "Event_Date__c": "2023-03-23",
+          "Event_Description__c": "Assigned to Pharmacology and Therapeutics Advisory Committee (PTAC) meeting to provide advice on Friday 19 May 2023",
+          "Stage__c": "Seeking Clinical Advice",
+          "Formatted_Date__c": "Mar 2023",
+          "Status_History__c": "a13OZ0000018lirYAA"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": "<p><span style=\"color: black;\">1.1.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee <strong>recommended</strong> that empagliflozin for the treatment of HFpEF/HFmrEF, as an add-on to optimal standard CHF treatments, in individuals with NYHA class II-IV and LVEF &gt;40% be <strong>declined</strong>. In making this recommendation, the Committee considered:</p><p class=\"ql-indent-1\">1.1.1.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The high health need of individuals with HFpEF/HFmrEF and the lack of HFpEF/HFmrEF specific-avaliable therapies, and</p><p class=\"ql-indent-1\">1.1.2.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The limited evidence that empagliflozin provides a health benefit for individuals with HFpEF/HFmrEF other than reduced frequency of hospitalisations with symptomatic heart failure, above currently funded treatments.\u00a0</p>",
+          "fs": "<p><span style=\"color: black;\">1.1.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee <strong>recommended</strong> that empagliflozin for the treatment of HFpEF/HFmrEF, as an add-on to optimal standard CHF treatments, in individuals with NYHA class II-IV and LVEF &gt;40% be <strong>declined</strong>. In making this recommendation, the Committee considered:</p><p class=\"ql-indent-1\">1.1.1.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The high health need of individuals with HFpEF/HFmrEF and the lack of HFpEF/HFmrEF specific-avaliable therapies, and</p><p class=\"ql-indent-1\">1.1.2.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The limited evidence that empagliflozin provides a health benefit for individuals with HFpEF/HFmrEF other than reduced frequency of hospitalisations with symptomatic heart failure, above currently funded treatments.\u00a0</p>",
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": "<h2><em>M\u0101ori impact</em></h2><p><span style=\"color: black;\">1.1.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that heart failure falls under one of Pharmac\u2019s Hauora Arotahi (M\u0101ori health areas of focus): <em>Manawa Ora - Heart health, high blood pressure and stroke</em>. The Committee noted that M\u0101ori are on average 10 to 15 years younger at age of diagnosis with heart failure, compared to non-M\u0101ori. The Committee also noted that M\u0101ori with heart failure have higher hospitalisation rates (four times as likely as non-M\u0101ori) and experience reduced survival compared to non-M\u0101ori.</p><p><span style=\"color: black;\">1.2.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that M\u0101ori with heart failure (HF) experience reduced access to optimal care compared to non-M\u0101ori due to barriers to specialist and hospital care and a lack of culturally safe health services for the management of HF. The Committee noted that there is limited evidence on the experience of M\u0101ori in the setting of HFpEF/HFmrEF specifically but noted that there is evidence of access-related inequities to health services and medicines for M\u0101ori in cardiovascular health<span style=\"font-family: Calibri, sans-serif; font-size: 8pt;\"> </span>generally.</p><h2><em>Background</em></h2><p><span style=\"color: black;\">1.3.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that a funding application for the funding of empagliflozin for heart failure with reduced ejection fraction (HFrEF) was reviewed by <a href=\"https://pharmac.govt.nz/assets/2022-02-PTAC-meeting-record-web-version.pdf\" target=\"_blank\">PTAC in February 2022</a> and was recommended for decline due to the limited evidence that empagliflozin offered a health benefit to individuals with HFrEF over currently available treatments.\u00a0</p><p><span style=\"color: black;\">1.4.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that the funding application for empagliflozin in HFrEF was subsequently reviewed by the <a href=\"https://connect.pharmac.govt.nz/apptracker/s/application-public/a102P00000BNybx/p001743\" target=\"_blank\">Cardiovascular Advisory Committee in May 2022</a> and was recommended for funding with a high priority. The Cardiovascular Advisory Committee considered the high health need and severe impact of HFrEF on the individual and their family/wh\u0101nau, the evidence showed that empagliflozin provides a health benefit in reducing hospitalisation, reducing all-cause mortality, and improving quality of life in those with HFrEF and the suitability benefit of empagliflozin allowing for the improved adherence with heart-failure treatments.</p><h2><em>Health need</em></h2><p><span style=\"color: black;\">1.5.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that HF is a complex clinical syndrome with symptoms resulting from abnormalities in cardiac function or structural abnormalities that impair the heart\u2019s ability to fill with blood at normal pressure or eject sufficient volumes of blood to fulfil the needs of the body.</p><p><span style=\"color: black;\">1.6.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that <span style=\"color: black;\">HFpEF is characterised by abnormal diastolic function, a normal LVEF and normal LV end-diastolic volume. The Committee noted that in HFpEF, the dominant functional abnormality resides in diastole, but there may also be abnormalities in systolic function, the left atrium, pulmonary vasculature, right ventricle, arteries, and skeletal muscle. </span></p><p><span style=\"color: black;\">1.7.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"color: black;\">The Committee noted that HFmrEF shares features of HFpEF but is characterised by </span>some reduction in systolic function, more than seen in HFpEF, usually with progressive chamber dilation and eccentric remodelling.</p><p><span style=\"color: black;\">1.8.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that HFpEF/HFmrEF is more difficult to diagnose than HFrEF because the key objective marker of cardiac abnormality (the LVEF) is by definition preserved or mildly reduced. The Committee noted that the clinical symptoms of HFpEF/HFmrEF may be non-specific and the identification of HFpEF/HFmrEF may be dependent on individual propensity to recognise and report symptoms.</p><p><span style=\"color: black;\">1.9.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that the management of HFpEF/HFmrEF focuses on providing symptom relief and the management of co-morbidities including hypertension, hyperlipidaemia, atrial fibrillation, and coronary artery disease. The Committee noted that the range of treatments funded for heart failure included ACE-inhibitors, angiotensin-converting enzyme inhibitors; angiotensin receptor blockers; angiotensin receptor-neprilysin inhibitors, mineralocorticoid receptor antagonists.</p><p><span style=\"color: black;\">1.10.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that HF was associated with an elevated risk of mortality. The Committee noted that the <a href=\"https://pubmed.ncbi.nlm.nih.gov/30077227/\" target=\"_blank\">NHFA CSANZ Heart Failure Guidelines 2018</a> which reported a<span style=\"color: rgb(46, 46, 46);\"> 3-year adjusted mortality rate was 32% for HFrEF and 25% for HFpEF. The Committee noted that, unlike HFrEF where a very high proportion of deaths were cardiovascular-related, as much as 30\u201340% of deaths among individuals with HFpEF were non-cardiovascular.</span></p><p><span style=\"color: black;\">1.11.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that the pathophysiology of HFpEF/HFmrEF is not well-understood, and in part, this contributes to the lack of treatments reported to be effective in reducing the morbidity and mortality associated with HFpEF. The Committee considered there is an unmet health need for individuals with HFpEF/HFmrEF arising from the lack of effective treatments.</p><p><span style=\"color: black;\">1.12.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee noted its previous consideration of the health need of family and wh\u0101nau associated with HFrEF and considered the health need of family and wh\u0101nau associated with HFpEF/HFmrEF to be as severe as the individual with HFrEF.</p><p><span style=\"color: black;\">1.13.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that heart failure falls under one of Pharmac\u2019s Hauora Arotahi (M\u0101ori health areas of focus): <em>Manawa Ora - Heart health, high blood pressure and stroke</em>. The Committee noted that M\u0101ori are on average 10 to 15 years younger at age of diagnosis with heart failure, compared to non-M\u0101ori. The Committee also noted that M\u0101ori with heart failure have higher hospitalisation rates (4 times as likely as non-M\u0101ori) and experience reduced survival compared to non-M\u0101ori.</p><p><span style=\"color: black;\">1.14.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that M\u0101ori with HF experience lower access to optimal care compared to non-M\u0101ori due to barriers to specialist and hospital care and a lack of culturally safe health services for the management of HF. The Committee noted that there is limited evidence on the experience of M\u0101ori in the setting of HFpEF/HFmrEF specifically but noted that there is evidence of access-related inequities to health services and medicines for M\u0101ori in cardiovascular health more generally.</p><p><span style=\"color: black;\">1.15.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that Pacific people are over twice as likely to be hospitalised for HF compared to non-M\u0101ori, non-Pacific people and that Pacific people face barriers and experience treatment gaps when accessing appropriate healthcare to address their cardiovascular needs.</p><p><span style=\"color: black;\">1.16.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that funding additional lines of CHF treatments may have the unintended consequence of widening inequities in the management of CHF, especially if access to earlier lines of therapy was inequitable.</p><p><span style=\"color: black;\">1.17.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that cardiovascular disease is a Government priority condition, and the treatment of heart failure aligns with the Government\u2019s strategic priority to improve health outcomes for New Zealanders with long-term conditions</p><h2><em>Health benefit</em></h2><p><span style=\"color: black;\">1.18.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that empagliflozin reversibly inhibits sodium-glucose co-transporter 2 (SGLT2) in the renal proximal convoluted tubule to reduce glucose reabsorption and increase urinary glucose excretion (<a href=\"https://www.medsafe.govt.nz/profs/datasheet/j/jardiancetab.pdf\" target=\"_blank\">Jardiance Medsafe Datasheet 2019</a>) and the mechanism at which empagliflozin acts to provide health benefit to individuals with HFpEF/HFmrEF to be uncertain. The Committee noted that <a href=\"https://www.medsafe.govt.nz/profs/Datasheet/j/jardiancetab.pdf\" target=\"_blank\">Medsafe</a> has approved empagliflozin for adult patients with heart failure (NYHA class II \u2013 IV) independent of left ventricular ejection fraction, with or without type 2 diabetes mellitus, to reduce the risk of cardiovascular death and hospitalisation for heart failure and to slow kidney function decline.</p><p><span style=\"color: black;\">1.19.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee noted the recent therapeutic recommendations for the treatment of HFpEF/HFmrEF, which graded the evidence to support the use of an SGLT2 inhibitor for the management of HFpEF/HFmrEF to be of moderate strength (<a href=\"https://www.ahajournals.org/doi/10.1161/CIR.0000000000001063\" target=\"_blank\">American Heart Association/ The American College of Cardiology Foundation/The Heart Failure Society of America (HA/ACC/HFSA) Guideline. Circulation. 2022;145:e895-1032</a>).</p><p><span style=\"color: black;\">1.20.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee noted results from the EMPEROR-Preserved trial, a double-blind placebo- controlled trial that reported empagliflozin being associated with a lower risk of its primary composite outcome, which comprised cardiovascular death or hospitalisation for worsening heart failure. The incidence of primary composite events was 6.9 events per 100 patient-years in the empagliflozin group and 8.7 events per 100 patients-years in the placebo group (hazard ratio (HR) 0.79; [95% confidence interval (CI), 0.69 to 0.90]; P&lt;0.001). The trial reported no significant difference in the risk of cardiovascular mortality or all-cause mortality (HR 0.91 [95% CI, 0.76 to 1.09]) and (HR 1.00 [95% CI, 0.87 to 1.15]), respectively) between the empagliflozin and placebo groups (<a href=\"https://www.nejm.org/doi/full/10.1056/NEJMoa2107038\" target=\"_blank\">Anker et al. NEJM. 2021;385:1451-61</a>).</p><p><span style=\"color: black;\">1.21.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee noted an analysis from EMPEROR-Preserved which reported that empagliflozin treatment was associated with modestly improved Kansas City Cardiomyopathy questionnaire (KCCQ) scores compared to placebo at 52 weeks (mean 1.50 points, [95% CI 0.64 to 2.36]) (<a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8763045/\" target=\"_blank\">Butler et al. Circulation. 2022;145:184-93</a>). The Committee noted that there were several mapping algorithms available to map KCCQ scores to the EQ-5D, a health-related quality of life instrument commonly used for economic assessment.</p><p><span style=\"color: black;\">1.22.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee noted a meta-analysis that reported that across 12,251 trial participants in the DELIVER and EMPEROR-Preserved trials, SGLT2 inhibitors reduced composite cardiovascular death or first hospitalisation for heart failure (HR 0\u00b780 [95% CI 0\u00b773\u20130\u00b787]) with consistent reductions in both components: cardiovascular death (HR 0\u00b788 [95% CI 0\u00b777\u20131\u00b700]) and first hospitalisation for heart failure (HR 0\u00b774 [95% CI 0\u00b767\u20130\u00b783]) (<a href=\"https://pubmed.ncbi.nlm.nih.gov/36041474/\" target=\"_blank\">Vanduganathan et al. Lancet. 2022;400:757-67</a>).</p><p><span style=\"color: black;\">1.23.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee noted the RECEDE-CHF study, where compared with placebo, empagliflozin was associated with a significant increase in 24-hour urinary volume at both day 3 (mean difference, 535 mL [95% CI, 133-936]; P=0.005) and week 6 (mean difference, 545 mL [95% CI ,136-954]; P=0.005) after adjustment for treatment order, baseline 24-hour urine volume, and percentage change in loop diuretic dose. At 6 weeks, empagliflozin was not associated with a significant change in 24-hour urinary sodium (mean difference, -7.85 mmol/L [95% CI, -2.43 to 6.73]; P=0.57). Empagliflozin was associated with a nonsignificant increase in fractional excretion of sodium at day 3, which was absent at week 6 (mean difference day 3, 0.30% [95% CI ,-0.03 to 0.63]; P=0.09; week 6, 0.11% [95% CI, -0.22 to 0.44]; P&gt;0.99), and a significant increase in electrolyte-free water clearance at week 6 (mean difference, 312 mL [95% CI, 26-598]; P=0.026) compared with placebo (<a href=\"https://pubmed.ncbi.nlm.nih.gov/32865004/\" target=\"_blank\">Mordi et al. Circulation. 2020:142:1713-24</a>).</p><p><span style=\"color: black;\">1.24.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that empagliflozin reduced HF-related hospitalisations but did not reduce all-cause hospitalisations and considered that HF-related hospitalisations can be associated with ongoing health benefit for the individual in terms of optimisation of a treatment regime.</p><p><span style=\"color: black;\">1.25.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that empagliflozin may reduce cardiovascular mortality, however, empagliflozin does not provide benefit to the individual for all-cause related mortality. The Committee also considered that the health-related quality of life (HRQoL) benefit associated with receiving empagliflozin was likely to be modest.</p><p><span style=\"color: black;\">1.26.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee considered the opportunity cost of funding empagliflozin when there are other avaliable medicines that may offer greater magnitude of health benefit for individuals with HFpEF/HFmrEF.</p><p><span style=\"color: black;\">1.27.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that if empagliflozin were to be funded for treatment of HF it would be ideal to fund it for both reduced ejection fraction and preserved ejection fraction HF, so that the need for an ECHO could be removed from the criteria, which may improve equity of access.</p><h2><em>Cost and savings</em></h2><p><span style=\"color: black;\">1.28.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee noted estimates from the supplier that there was a population of roughly 35,000 people eligible for empagliflozin, and that between 9,000 to 21,000 individuals may receive empagliflozin if it were to be funded for HFpEF and HFmrEF. The Committee noted that these estimates assumed that uptake among the eligible population would be 30% in the first year of funding and would rise to 60% within four years.</p><h2><em>Summary for assessment</em></h2><p><span style=\"color: black;\">1.29.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that the table below summarises its interpretation of the most appropriate PICO (population, intervention, comparator, outcomes) information for empagliflozin if it were to be funded in New Zealand for HFpEF and HFmrEF. This PICO captures key clinical aspects of the proposal and may be used to frame any future economic assessment by Pharmac staff. This PICO is based on the Committee\u2019s assessment at this time and may differ from that requested by the applicant. The PICO may change based on new information, additional clinical advice, or further analysis by <span style=\"color: black;\">Pharmac staff.</span></p><p><span style=\"color: black;\">\ufeff</span><img src=\"/apptracker/servlet/rtaImage?eid=a0POZ00000Wfu8k&amp;feoid=00N2P000000YsIc&amp;refid=0EMOZ0000006D2c\" alt=\"image.png\"></img></p>",
+          "fs": "<h2><em>M\u0101ori impact</em></h2><p><span style=\"color: black;\">1.1.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that heart failure falls under one of Pharmac\u2019s Hauora Arotahi (M\u0101ori health areas of focus): <em>Manawa Ora - Heart health, high blood pressure and stroke</em>. The Committee noted that M\u0101ori are on average 10 to 15 years younger at age of diagnosis with heart failure, compared to non-M\u0101ori. The Committee also noted that M\u0101ori with heart failure have higher hospitalisation rates (four times as likely as non-M\u0101ori) and experience reduced survival compared to non-M\u0101ori.</p><p><span style=\"color: black;\">1.2.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that M\u0101ori with heart failure (HF) experience reduced access to optimal care compared to non-M\u0101ori due to barriers to specialist and hospital care and a lack of culturally safe health services for the management of HF. The Committee noted that there is limited evidence on the experience of M\u0101ori in the setting of HFpEF/HFmrEF specifically but noted that there is evidence of access-related inequities to health services and medicines for M\u0101ori in cardiovascular health<span style=\"font-family: Calibri, sans-serif; font-size: 8pt;\"> </span>generally.</p><h2><em>Background</em></h2><p><span style=\"color: black;\">1.3.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that a funding application for the funding of empagliflozin for heart failure with reduced ejection fraction (HFrEF) was reviewed by <a href=\"https://pharmac.govt.nz/assets/2022-02-PTAC-meeting-record-web-version.pdf\" target=\"_blank\">PTAC in February 2022</a> and was recommended for decline due to the limited evidence that empagliflozin offered a health benefit to individuals with HFrEF over currently available treatments.\u00a0</p><p><span style=\"color: black;\">1.4.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that the funding application for empagliflozin in HFrEF was subsequently reviewed by the <a href=\"https://connect.pharmac.govt.nz/apptracker/s/application-public/a102P00000BNybx/p001743\" target=\"_blank\">Cardiovascular Advisory Committee in May 2022</a> and was recommended for funding with a high priority. The Cardiovascular Advisory Committee considered the high health need and severe impact of HFrEF on the individual and their family/wh\u0101nau, the evidence showed that empagliflozin provides a health benefit in reducing hospitalisation, reducing all-cause mortality, and improving quality of life in those with HFrEF and the suitability benefit of empagliflozin allowing for the improved adherence with heart-failure treatments.</p><h2><em>Health need</em></h2><p><span style=\"color: black;\">1.5.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that HF is a complex clinical syndrome with symptoms resulting from abnormalities in cardiac function or structural abnormalities that impair the heart\u2019s ability to fill with blood at normal pressure or eject sufficient volumes of blood to fulfil the needs of the body.</p><p><span style=\"color: black;\">1.6.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that <span style=\"color: black;\">HFpEF is characterised by abnormal diastolic function, a normal LVEF and normal LV end-diastolic volume. The Committee noted that in HFpEF, the dominant functional abnormality resides in diastole, but there may also be abnormalities in systolic function, the left atrium, pulmonary vasculature, right ventricle, arteries, and skeletal muscle. </span></p><p><span style=\"color: black;\">1.7.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"color: black;\">The Committee noted that HFmrEF shares features of HFpEF but is characterised by </span>some reduction in systolic function, more than seen in HFpEF, usually with progressive chamber dilation and eccentric remodelling.</p><p><span style=\"color: black;\">1.8.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that HFpEF/HFmrEF is more difficult to diagnose than HFrEF because the key objective marker of cardiac abnormality (the LVEF) is by definition preserved or mildly reduced. The Committee noted that the clinical symptoms of HFpEF/HFmrEF may be non-specific and the identification of HFpEF/HFmrEF may be dependent on individual propensity to recognise and report symptoms.</p><p><span style=\"color: black;\">1.9.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that the management of HFpEF/HFmrEF focuses on providing symptom relief and the management of co-morbidities including hypertension, hyperlipidaemia, atrial fibrillation, and coronary artery disease. The Committee noted that the range of treatments funded for heart failure included ACE-inhibitors, angiotensin-converting enzyme inhibitors; angiotensin receptor blockers; angiotensin receptor-neprilysin inhibitors, mineralocorticoid receptor antagonists.</p><p><span style=\"color: black;\">1.10.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that HF was associated with an elevated risk of mortality. The Committee noted that the <a href=\"https://pubmed.ncbi.nlm.nih.gov/30077227/\" target=\"_blank\">NHFA CSANZ Heart Failure Guidelines 2018</a> which reported a<span style=\"color: rgb(46, 46, 46);\"> 3-year adjusted mortality rate was 32% for HFrEF and 25% for HFpEF. The Committee noted that, unlike HFrEF where a very high proportion of deaths were cardiovascular-related, as much as 30\u201340% of deaths among individuals with HFpEF were non-cardiovascular.</span></p><p><span style=\"color: black;\">1.11.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that the pathophysiology of HFpEF/HFmrEF is not well-understood, and in part, this contributes to the lack of treatments reported to be effective in reducing the morbidity and mortality associated with HFpEF. The Committee considered there is an unmet health need for individuals with HFpEF/HFmrEF arising from the lack of effective treatments.</p><p><span style=\"color: black;\">1.12.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee noted its previous consideration of the health need of family and wh\u0101nau associated with HFrEF and considered the health need of family and wh\u0101nau associated with HFpEF/HFmrEF to be as severe as the individual with HFrEF.</p><p><span style=\"color: black;\">1.13.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that heart failure falls under one of Pharmac\u2019s Hauora Arotahi (M\u0101ori health areas of focus): <em>Manawa Ora - Heart health, high blood pressure and stroke</em>. The Committee noted that M\u0101ori are on average 10 to 15 years younger at age of diagnosis with heart failure, compared to non-M\u0101ori. The Committee also noted that M\u0101ori with heart failure have higher hospitalisation rates (4 times as likely as non-M\u0101ori) and experience reduced survival compared to non-M\u0101ori.</p><p><span style=\"color: black;\">1.14.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that M\u0101ori with HF experience lower access to optimal care compared to non-M\u0101ori due to barriers to specialist and hospital care and a lack of culturally safe health services for the management of HF. The Committee noted that there is limited evidence on the experience of M\u0101ori in the setting of HFpEF/HFmrEF specifically but noted that there is evidence of access-related inequities to health services and medicines for M\u0101ori in cardiovascular health more generally.</p><p><span style=\"color: black;\">1.15.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that Pacific people are over twice as likely to be hospitalised for HF compared to non-M\u0101ori, non-Pacific people and that Pacific people face barriers and experience treatment gaps when accessing appropriate healthcare to address their cardiovascular needs.</p><p><span style=\"color: black;\">1.16.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that funding additional lines of CHF treatments may have the unintended consequence of widening inequities in the management of CHF, especially if access to earlier lines of therapy was inequitable.</p><p><span style=\"color: black;\">1.17.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that cardiovascular disease is a Government priority condition, and the treatment of heart failure aligns with the Government\u2019s strategic priority to improve health outcomes for New Zealanders with long-term conditions</p><h2><em>Health benefit</em></h2><p><span style=\"color: black;\">1.18.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that empagliflozin reversibly inhibits sodium-glucose co-transporter 2 (SGLT2) in the renal proximal convoluted tubule to reduce glucose reabsorption and increase urinary glucose excretion (<a href=\"https://www.medsafe.govt.nz/profs/datasheet/j/jardiancetab.pdf\" target=\"_blank\">Jardiance Medsafe Datasheet 2019</a>) and the mechanism at which empagliflozin acts to provide health benefit to individuals with HFpEF/HFmrEF to be uncertain. The Committee noted that <a href=\"https://www.medsafe.govt.nz/profs/Datasheet/j/jardiancetab.pdf\" target=\"_blank\">Medsafe</a> has approved empagliflozin for adult patients with heart failure (NYHA class II \u2013 IV) independent of left ventricular ejection fraction, with or without type 2 diabetes mellitus, to reduce the risk of cardiovascular death and hospitalisation for heart failure and to slow kidney function decline.</p><p><span style=\"color: black;\">1.19.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee noted the recent therapeutic recommendations for the treatment of HFpEF/HFmrEF, which graded the evidence to support the use of an SGLT2 inhibitor for the management of HFpEF/HFmrEF to be of moderate strength (<a href=\"https://www.ahajournals.org/doi/10.1161/CIR.0000000000001063\" target=\"_blank\">American Heart Association/ The American College of Cardiology Foundation/The Heart Failure Society of America (HA/ACC/HFSA) Guideline. Circulation. 2022;145:e895-1032</a>).</p><p><span style=\"color: black;\">1.20.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee noted results from the EMPEROR-Preserved trial, a double-blind placebo- controlled trial that reported empagliflozin being associated with a lower risk of its primary composite outcome, which comprised cardiovascular death or hospitalisation for worsening heart failure. The incidence of primary composite events was 6.9 events per 100 patient-years in the empagliflozin group and 8.7 events per 100 patients-years in the placebo group (hazard ratio (HR) 0.79; [95% confidence interval (CI), 0.69 to 0.90]; P&lt;0.001). The trial reported no significant difference in the risk of cardiovascular mortality or all-cause mortality (HR 0.91 [95% CI, 0.76 to 1.09]) and (HR 1.00 [95% CI, 0.87 to 1.15]), respectively) between the empagliflozin and placebo groups (<a href=\"https://www.nejm.org/doi/full/10.1056/NEJMoa2107038\" target=\"_blank\">Anker et al. NEJM. 2021;385:1451-61</a>).</p><p><span style=\"color: black;\">1.21.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee noted an analysis from EMPEROR-Preserved which reported that empagliflozin treatment was associated with modestly improved Kansas City Cardiomyopathy questionnaire (KCCQ) scores compared to placebo at 52 weeks (mean 1.50 points, [95% CI 0.64 to 2.36]) (<a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8763045/\" target=\"_blank\">Butler et al. Circulation. 2022;145:184-93</a>). The Committee noted that there were several mapping algorithms available to map KCCQ scores to the EQ-5D, a health-related quality of life instrument commonly used for economic assessment.</p><p><span style=\"color: black;\">1.22.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee noted a meta-analysis that reported that across 12,251 trial participants in the DELIVER and EMPEROR-Preserved trials, SGLT2 inhibitors reduced composite cardiovascular death or first hospitalisation for heart failure (HR 0\u00b780 [95% CI 0\u00b773\u20130\u00b787]) with consistent reductions in both components: cardiovascular death (HR 0\u00b788 [95% CI 0\u00b777\u20131\u00b700]) and first hospitalisation for heart failure (HR 0\u00b774 [95% CI 0\u00b767\u20130\u00b783]) (<a href=\"https://pubmed.ncbi.nlm.nih.gov/36041474/\" target=\"_blank\">Vanduganathan et al. Lancet. 2022;400:757-67</a>).</p><p><span style=\"color: black;\">1.23.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee noted the RECEDE-CHF study, where compared with placebo, empagliflozin was associated with a significant increase in 24-hour urinary volume at both day 3 (mean difference, 535 mL [95% CI, 133-936]; P=0.005) and week 6 (mean difference, 545 mL [95% CI ,136-954]; P=0.005) after adjustment for treatment order, baseline 24-hour urine volume, and percentage change in loop diuretic dose. At 6 weeks, empagliflozin was not associated with a significant change in 24-hour urinary sodium (mean difference, -7.85 mmol/L [95% CI, -2.43 to 6.73]; P=0.57). Empagliflozin was associated with a nonsignificant increase in fractional excretion of sodium at day 3, which was absent at week 6 (mean difference day 3, 0.30% [95% CI ,-0.03 to 0.63]; P=0.09; week 6, 0.11% [95% CI, -0.22 to 0.44]; P&gt;0.99), and a significant increase in electrolyte-free water clearance at week 6 (mean difference, 312 mL [95% CI, 26-598]; P=0.026) compared with placebo (<a href=\"https://pubmed.ncbi.nlm.nih.gov/32865004/\" target=\"_blank\">Mordi et al. Circulation. 2020:142:1713-24</a>).</p><p><span style=\"color: black;\">1.24.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that empagliflozin reduced HF-related hospitalisations but did not reduce all-cause hospitalisations and considered that HF-related hospitalisations can be associated with ongoing health benefit for the individual in terms of optimisation of a treatment regime.</p><p><span style=\"color: black;\">1.25.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that empagliflozin may reduce cardiovascular mortality, however, empagliflozin does not provide benefit to the individual for all-cause related mortality. The Committee also considered that the health-related quality of life (HRQoL) benefit associated with receiving empagliflozin was likely to be modest.</p><p><span style=\"color: black;\">1.26.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee considered the opportunity cost of funding empagliflozin when there are other avaliable medicines that may offer greater magnitude of health benefit for individuals with HFpEF/HFmrEF.</p><p><span style=\"color: black;\">1.27.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that if empagliflozin were to be funded for treatment of HF it would be ideal to fund it for both reduced ejection fraction and preserved ejection fraction HF, so that the need for an ECHO could be removed from the criteria, which may improve equity of access.</p><h2><em>Cost and savings</em></h2><p><span style=\"color: black;\">1.28.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee noted estimates from the supplier that there was a population of roughly 35,000 people eligible for empagliflozin, and that between 9,000 to 21,000 individuals may receive empagliflozin if it were to be funded for HFpEF and HFmrEF. The Committee noted that these estimates assumed that uptake among the eligible population would be 30% in the first year of funding and would rise to 60% within four years.</p><h2><em>Summary for assessment</em></h2><p><span style=\"color: black;\">1.29.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that the table below summarises its interpretation of the most appropriate PICO (population, intervention, comparator, outcomes) information for empagliflozin if it were to be funded in New Zealand for HFpEF and HFmrEF. This PICO captures key clinical aspects of the proposal and may be used to frame any future economic assessment by Pharmac staff. This PICO is based on the Committee\u2019s assessment at this time and may differ from that requested by the applicant. The PICO may change based on new information, additional clinical advice, or further analysis by <span style=\"color: black;\">Pharmac staff.</span></p><p><span style=\"color: black;\">\ufeff</span><img src=\"/apptracker/servlet/rtaImage?eid=a0POZ00000Wfu8k&amp;feoid=00N2P000000YsIc&amp;refid=0EMOZ0000006D2c\" alt=\"image.png\"></img></p>",
+          "change": null
+        },
+        "Published_Application": {
+          "s": "<p><span style=\"color: black;\">1.1.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee reviewed the application from Boehringer Ingelheim New Zealand Limited for the use of empagliflozin (Jardiance) for the treatment of chronic heart failure (CHF) with preserved (HFpEF) or mildly reduced ejection fraction (HFmrEF), as an add-on to optimal standard CHF treatments, for individuals with NYHA class II-IV and left ventricular ejection fraction (LVEF) &gt; 40%.</p><p><span style=\"color: black;\">1.2.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee took into account, where applicable, Pharmac\u2019s relevant decision-making framework when considering this agenda item.\u00a0</p>",
+          "fs": "<p><span style=\"color: black;\">1.1.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee reviewed the application from Boehringer Ingelheim New Zealand Limited for the use of empagliflozin (Jardiance) for the treatment of chronic heart failure (CHF) with preserved (HFpEF) or mildly reduced ejection fraction (HFmrEF), as an add-on to optimal standard CHF treatments, for individuals with NYHA class II-IV and left ventricular ejection fraction (LVEF) &gt; 40%.</p><p><span style=\"color: black;\">1.2.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee took into account, where applicable, Pharmac\u2019s relevant decision-making framework when considering this agenda item.\u00a0</p>",
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": "Decline",
+          "fs": "Decline",
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Aug 2023",
+          "fs": "Aug 2023",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Clinical advice received from Pharmacology and Therapeutics Advisory Committee (PTAC) at meeting Friday 19 May 2023.",
+          "fs": "Clinical advice received from Pharmacology and Therapeutics Advisory Committee (PTAC) at meeting Friday 19 May 2023.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000Wfu8k2AB"
+          },
+          "Id": "a0POZ00000Wfu8k2AB",
+          "Event_Date__c": "2023-08-16",
+          "Event_Description__c": "Clinical advice received from Pharmacology and Therapeutics Advisory Committee (PTAC) at meeting Friday 19 May 2023.",
+          "Stage__c": "Seeking Clinical Advice",
+          "Outcome__c": "Decline",
+          "Formatted_Date__c": "Aug 2023",
+          "Published_Recommendation__c": "<p><span style=\"color: black;\">1.1.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee <strong>recommended</strong> that empagliflozin for the treatment of HFpEF/HFmrEF, as an add-on to optimal standard CHF treatments, in individuals with NYHA class II-IV and LVEF &gt;40% be <strong>declined</strong>. In making this recommendation, the Committee considered:</p><p class=\"ql-indent-1\">1.1.1.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The high health need of individuals with HFpEF/HFmrEF and the lack of HFpEF/HFmrEF specific-avaliable therapies, and</p><p class=\"ql-indent-1\">1.1.2.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The limited evidence that empagliflozin provides a health benefit for individuals with HFpEF/HFmrEF other than reduced frequency of hospitalisations with symptomatic heart failure, above currently funded treatments.\u00a0</p>",
+          "Published_Application__c": "<p><span style=\"color: black;\">1.1.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee reviewed the application from Boehringer Ingelheim New Zealand Limited for the use of empagliflozin (Jardiance) for the treatment of chronic heart failure (CHF) with preserved (HFpEF) or mildly reduced ejection fraction (HFmrEF), as an add-on to optimal standard CHF treatments, for individuals with NYHA class II-IV and left ventricular ejection fraction (LVEF) &gt; 40%.</p><p><span style=\"color: black;\">1.2.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee took into account, where applicable, Pharmac\u2019s relevant decision-making framework when considering this agenda item.\u00a0</p>",
+          "Published_Discussion__c": "<h2><em>M\u0101ori impact</em></h2><p><span style=\"color: black;\">1.1.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that heart failure falls under one of Pharmac\u2019s Hauora Arotahi (M\u0101ori health areas of focus): <em>Manawa Ora - Heart health, high blood pressure and stroke</em>. The Committee noted that M\u0101ori are on average 10 to 15 years younger at age of diagnosis with heart failure, compared to non-M\u0101ori. The Committee also noted that M\u0101ori with heart failure have higher hospitalisation rates (four times as likely as non-M\u0101ori) and experience reduced survival compared to non-M\u0101ori.</p><p><span style=\"color: black;\">1.2.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that M\u0101ori with heart failure (HF) experience reduced access to optimal care compared to non-M\u0101ori due to barriers to specialist and hospital care and a lack of culturally safe health services for the management of HF. The Committee noted that there is limited evidence on the experience of M\u0101ori in the setting of HFpEF/HFmrEF specifically but noted that there is evidence of access-related inequities to health services and medicines for M\u0101ori in cardiovascular health<span style=\"font-family: Calibri, sans-serif; font-size: 8pt;\"> </span>generally.</p><h2><em>Background</em></h2><p><span style=\"color: black;\">1.3.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that a funding application for the funding of empagliflozin for heart failure with reduced ejection fraction (HFrEF) was reviewed by <a href=\"https://pharmac.govt.nz/assets/2022-02-PTAC-meeting-record-web-version.pdf\" target=\"_blank\">PTAC in February 2022</a> and was recommended for decline due to the limited evidence that empagliflozin offered a health benefit to individuals with HFrEF over currently available treatments.\u00a0</p><p><span style=\"color: black;\">1.4.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that the funding application for empagliflozin in HFrEF was subsequently reviewed by the <a href=\"https://connect.pharmac.govt.nz/apptracker/s/application-public/a102P00000BNybx/p001743\" target=\"_blank\">Cardiovascular Advisory Committee in May 2022</a> and was recommended for funding with a high priority. The Cardiovascular Advisory Committee considered the high health need and severe impact of HFrEF on the individual and their family/wh\u0101nau, the evidence showed that empagliflozin provides a health benefit in reducing hospitalisation, reducing all-cause mortality, and improving quality of life in those with HFrEF and the suitability benefit of empagliflozin allowing for the improved adherence with heart-failure treatments.</p><h2><em>Health need</em></h2><p><span style=\"color: black;\">1.5.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that HF is a complex clinical syndrome with symptoms resulting from abnormalities in cardiac function or structural abnormalities that impair the heart\u2019s ability to fill with blood at normal pressure or eject sufficient volumes of blood to fulfil the needs of the body.</p><p><span style=\"color: black;\">1.6.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that <span style=\"color: black;\">HFpEF is characterised by abnormal diastolic function, a normal LVEF and normal LV end-diastolic volume. The Committee noted that in HFpEF, the dominant functional abnormality resides in diastole, but there may also be abnormalities in systolic function, the left atrium, pulmonary vasculature, right ventricle, arteries, and skeletal muscle. </span></p><p><span style=\"color: black;\">1.7.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"color: black;\">The Committee noted that HFmrEF shares features of HFpEF but is characterised by </span>some reduction in systolic function, more than seen in HFpEF, usually with progressive chamber dilation and eccentric remodelling.</p><p><span style=\"color: black;\">1.8.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that HFpEF/HFmrEF is more difficult to diagnose than HFrEF because the key objective marker of cardiac abnormality (the LVEF) is by definition preserved or mildly reduced. The Committee noted that the clinical symptoms of HFpEF/HFmrEF may be non-specific and the identification of HFpEF/HFmrEF may be dependent on individual propensity to recognise and report symptoms.</p><p><span style=\"color: black;\">1.9.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that the management of HFpEF/HFmrEF focuses on providing symptom relief and the management of co-morbidities including hypertension, hyperlipidaemia, atrial fibrillation, and coronary artery disease. The Committee noted that the range of treatments funded for heart failure included ACE-inhibitors, angiotensin-converting enzyme inhibitors; angiotensin receptor blockers; angiotensin receptor-neprilysin inhibitors, mineralocorticoid receptor antagonists.</p><p><span style=\"color: black;\">1.10.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that HF was associated with an elevated risk of mortality. The Committee noted that the <a href=\"https://pubmed.ncbi.nlm.nih.gov/30077227/\" target=\"_blank\">NHFA CSANZ Heart Failure Guidelines 2018</a> which reported a<span style=\"color: rgb(46, 46, 46);\"> 3-year adjusted mortality rate was 32% for HFrEF and 25% for HFpEF. The Committee noted that, unlike HFrEF where a very high proportion of deaths were cardiovascular-related, as much as 30\u201340% of deaths among individuals with HFpEF were non-cardiovascular.</span></p><p><span style=\"color: black;\">1.11.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that the pathophysiology of HFpEF/HFmrEF is not well-understood, and in part, this contributes to the lack of treatments reported to be effective in reducing the morbidity and mortality associated with HFpEF. The Committee considered there is an unmet health need for individuals with HFpEF/HFmrEF arising from the lack of effective treatments.</p><p><span style=\"color: black;\">1.12.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee noted its previous consideration of the health need of family and wh\u0101nau associated with HFrEF and considered the health need of family and wh\u0101nau associated with HFpEF/HFmrEF to be as severe as the individual with HFrEF.</p><p><span style=\"color: black;\">1.13.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that heart failure falls under one of Pharmac\u2019s Hauora Arotahi (M\u0101ori health areas of focus): <em>Manawa Ora - Heart health, high blood pressure and stroke</em>. The Committee noted that M\u0101ori are on average 10 to 15 years younger at age of diagnosis with heart failure, compared to non-M\u0101ori. The Committee also noted that M\u0101ori with heart failure have higher hospitalisation rates (4 times as likely as non-M\u0101ori) and experience reduced survival compared to non-M\u0101ori.</p><p><span style=\"color: black;\">1.14.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that M\u0101ori with HF experience lower access to optimal care compared to non-M\u0101ori due to barriers to specialist and hospital care and a lack of culturally safe health services for the management of HF. The Committee noted that there is limited evidence on the experience of M\u0101ori in the setting of HFpEF/HFmrEF specifically but noted that there is evidence of access-related inequities to health services and medicines for M\u0101ori in cardiovascular health more generally.</p><p><span style=\"color: black;\">1.15.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that Pacific people are over twice as likely to be hospitalised for HF compared to non-M\u0101ori, non-Pacific people and that Pacific people face barriers and experience treatment gaps when accessing appropriate healthcare to address their cardiovascular needs.</p><p><span style=\"color: black;\">1.16.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that funding additional lines of CHF treatments may have the unintended consequence of widening inequities in the management of CHF, especially if access to earlier lines of therapy was inequitable.</p><p><span style=\"color: black;\">1.17.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that cardiovascular disease is a Government priority condition, and the treatment of heart failure aligns with the Government\u2019s strategic priority to improve health outcomes for New Zealanders with long-term conditions</p><h2><em>Health benefit</em></h2><p><span style=\"color: black;\">1.18.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that empagliflozin reversibly inhibits sodium-glucose co-transporter 2 (SGLT2) in the renal proximal convoluted tubule to reduce glucose reabsorption and increase urinary glucose excretion (<a href=\"https://www.medsafe.govt.nz/profs/datasheet/j/jardiancetab.pdf\" target=\"_blank\">Jardiance Medsafe Datasheet 2019</a>) and the mechanism at which empagliflozin acts to provide health benefit to individuals with HFpEF/HFmrEF to be uncertain. The Committee noted that <a href=\"https://www.medsafe.govt.nz/profs/Datasheet/j/jardiancetab.pdf\" target=\"_blank\">Medsafe</a> has approved empagliflozin for adult patients with heart failure (NYHA class II \u2013 IV) independent of left ventricular ejection fraction, with or without type 2 diabetes mellitus, to reduce the risk of cardiovascular death and hospitalisation for heart failure and to slow kidney function decline.</p><p><span style=\"color: black;\">1.19.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee noted the recent therapeutic recommendations for the treatment of HFpEF/HFmrEF, which graded the evidence to support the use of an SGLT2 inhibitor for the management of HFpEF/HFmrEF to be of moderate strength (<a href=\"https://www.ahajournals.org/doi/10.1161/CIR.0000000000001063\" target=\"_blank\">American Heart Association/ The American College of Cardiology Foundation/The Heart Failure Society of America (HA/ACC/HFSA) Guideline. Circulation. 2022;145:e895-1032</a>).</p><p><span style=\"color: black;\">1.20.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee noted results from the EMPEROR-Preserved trial, a double-blind placebo- controlled trial that reported empagliflozin being associated with a lower risk of its primary composite outcome, which comprised cardiovascular death or hospitalisation for worsening heart failure. The incidence of primary composite events was 6.9 events per 100 patient-years in the empagliflozin group and 8.7 events per 100 patients-years in the placebo group (hazard ratio (HR) 0.79; [95% confidence interval (CI), 0.69 to 0.90]; P&lt;0.001). The trial reported no significant difference in the risk of cardiovascular mortality or all-cause mortality (HR 0.91 [95% CI, 0.76 to 1.09]) and (HR 1.00 [95% CI, 0.87 to 1.15]), respectively) between the empagliflozin and placebo groups (<a href=\"https://www.nejm.org/doi/full/10.1056/NEJMoa2107038\" target=\"_blank\">Anker et al. NEJM. 2021;385:1451-61</a>).</p><p><span style=\"color: black;\">1.21.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee noted an analysis from EMPEROR-Preserved which reported that empagliflozin treatment was associated with modestly improved Kansas City Cardiomyopathy questionnaire (KCCQ) scores compared to placebo at 52 weeks (mean 1.50 points, [95% CI 0.64 to 2.36]) (<a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8763045/\" target=\"_blank\">Butler et al. Circulation. 2022;145:184-93</a>). The Committee noted that there were several mapping algorithms available to map KCCQ scores to the EQ-5D, a health-related quality of life instrument commonly used for economic assessment.</p><p><span style=\"color: black;\">1.22.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee noted a meta-analysis that reported that across 12,251 trial participants in the DELIVER and EMPEROR-Preserved trials, SGLT2 inhibitors reduced composite cardiovascular death or first hospitalisation for heart failure (HR 0\u00b780 [95% CI 0\u00b773\u20130\u00b787]) with consistent reductions in both components: cardiovascular death (HR 0\u00b788 [95% CI 0\u00b777\u20131\u00b700]) and first hospitalisation for heart failure (HR 0\u00b774 [95% CI 0\u00b767\u20130\u00b783]) (<a href=\"https://pubmed.ncbi.nlm.nih.gov/36041474/\" target=\"_blank\">Vanduganathan et al. Lancet. 2022;400:757-67</a>).</p><p><span style=\"color: black;\">1.23.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee noted the RECEDE-CHF study, where compared with placebo, empagliflozin was associated with a significant increase in 24-hour urinary volume at both day 3 (mean difference, 535 mL [95% CI, 133-936]; P=0.005) and week 6 (mean difference, 545 mL [95% CI ,136-954]; P=0.005) after adjustment for treatment order, baseline 24-hour urine volume, and percentage change in loop diuretic dose. At 6 weeks, empagliflozin was not associated with a significant change in 24-hour urinary sodium (mean difference, -7.85 mmol/L [95% CI, -2.43 to 6.73]; P=0.57). Empagliflozin was associated with a nonsignificant increase in fractional excretion of sodium at day 3, which was absent at week 6 (mean difference day 3, 0.30% [95% CI ,-0.03 to 0.63]; P=0.09; week 6, 0.11% [95% CI, -0.22 to 0.44]; P&gt;0.99), and a significant increase in electrolyte-free water clearance at week 6 (mean difference, 312 mL [95% CI, 26-598]; P=0.026) compared with placebo (<a href=\"https://pubmed.ncbi.nlm.nih.gov/32865004/\" target=\"_blank\">Mordi et al. Circulation. 2020:142:1713-24</a>).</p><p><span style=\"color: black;\">1.24.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that empagliflozin reduced HF-related hospitalisations but did not reduce all-cause hospitalisations and considered that HF-related hospitalisations can be associated with ongoing health benefit for the individual in terms of optimisation of a treatment regime.</p><p><span style=\"color: black;\">1.25.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that empagliflozin may reduce cardiovascular mortality, however, empagliflozin does not provide benefit to the individual for all-cause related mortality. The Committee also considered that the health-related quality of life (HRQoL) benefit associated with receiving empagliflozin was likely to be modest.</p><p><span style=\"color: black;\">1.26.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee considered the opportunity cost of funding empagliflozin when there are other avaliable medicines that may offer greater magnitude of health benefit for individuals with HFpEF/HFmrEF.</p><p><span style=\"color: black;\">1.27.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that if empagliflozin were to be funded for treatment of HF it would be ideal to fund it for both reduced ejection fraction and preserved ejection fraction HF, so that the need for an ECHO could be removed from the criteria, which may improve equity of access.</p><h2><em>Cost and savings</em></h2><p><span style=\"color: black;\">1.28.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee noted estimates from the supplier that there was a population of roughly 35,000 people eligible for empagliflozin, and that between 9,000 to 21,000 individuals may receive empagliflozin if it were to be funded for HFpEF and HFmrEF. The Committee noted that these estimates assumed that uptake among the eligible population would be 30% in the first year of funding and would rise to 60% within four years.</p><h2><em>Summary for assessment</em></h2><p><span style=\"color: black;\">1.29.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that the table below summarises its interpretation of the most appropriate PICO (population, intervention, comparator, outcomes) information for empagliflozin if it were to be funded in New Zealand for HFpEF and HFmrEF. This PICO captures key clinical aspects of the proposal and may be used to frame any future economic assessment by Pharmac staff. This PICO is based on the Committee\u2019s assessment at this time and may differ from that requested by the applicant. The PICO may change based on new information, additional clinical advice, or further analysis by <span style=\"color: black;\">Pharmac staff.</span></p><p><span style=\"color: black;\">\ufeff</span><img src=\"/apptracker/servlet/rtaImage?eid=a0POZ00000Wfu8k&amp;feoid=00N2P000000YsIc&amp;refid=0EMOZ0000006D2c\" alt=\"image.png\"></img></p>",
+          "Status_History__c": "a13OZ000001RU3HYAW"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Jun 2024",
+          "fs": "Jun 2024",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Clinical advice required",
+          "fs": "Clinical advice required",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000Wfu8l2AB"
+          },
+          "Id": "a0POZ00000Wfu8l2AB",
+          "Event_Date__c": "2024-06-05",
+          "Event_Description__c": "Clinical advice required",
+          "Stage__c": "Seeking Clinical Advice",
+          "Formatted_Date__c": "Jun 2024",
+          "Status_History__c": "a13OZ00000Alj5dYAB"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Jun 2025",
+          "fs": "Jun 2025",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Assigned to Cardiovascular Advisory Committee meeting to provide advice on Friday 27 June 2025",
+          "fs": "Assigned to Cardiovascular Advisory Committee meeting to provide advice on Friday 27 June 2025",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000Wfu8m2AB"
+          },
+          "Id": "a0POZ00000Wfu8m2AB",
+          "Event_Date__c": "2025-06-22",
+          "Event_Description__c": "Assigned to Cardiovascular Advisory Committee meeting to provide advice on Friday 27 June 2025",
+          "Stage__c": "Seeking Clinical Advice",
+          "Formatted_Date__c": "Jun 2025",
+          "Status_History__c": "a13OZ00000QCDovYAH"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": "<p>The Cardiovascular Advisory Committee <strong>recommended </strong>that empagliflozin for the treatment of chronic heart failure with mildly reduced or preserved ejection fraction, for people with NYHA class II-IV, be listed with a <strong>high priority</strong>, subject to eligibility criteria.</p>",
+          "fs": "<p>The Cardiovascular Advisory Committee <strong>recommended </strong>that empagliflozin for the treatment of chronic heart failure with mildly reduced or preserved ejection fraction, for people with NYHA class II-IV, be listed with a <strong>high priority</strong>, subject to eligibility criteria.</p>",
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": "High",
+          "fs": "High",
+          "change": null
+        },
+        "Links": {
+          "s": "<p><a href=\"https://www.pharmac.govt.nz/assets/2025-06-27-Cardiovascular-Advisory-Committee-Record.pdf#page4\" target=\"_blank\">Link to the relevant discussion within the meeting record.</a></p>",
+          "fs": "<p><a href=\"https://www.pharmac.govt.nz/assets/2025-06-27-Cardiovascular-Advisory-Committee-Record.pdf#page4\" target=\"_blank\">Link to the relevant discussion within the meeting record.</a></p>",
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Dec 2025",
+          "fs": "Dec 2025",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Clinical advice received from Cardiovascular Advisory Committee on Friday 27 June 2025.",
+          "fs": "Clinical advice received from Cardiovascular Advisory Committee on Friday 27 June 2025.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000Wfu8n2AB"
+          },
+          "Id": "a0POZ00000Wfu8n2AB",
+          "Event_Date__c": "2025-12-08",
+          "Event_Description__c": "Clinical advice received from Cardiovascular Advisory Committee on Friday 27 June 2025.",
+          "Stage__c": "Seeking Clinical Advice",
+          "Links__c": "<p><a href=\"https://www.pharmac.govt.nz/assets/2025-06-27-Cardiovascular-Advisory-Committee-Record.pdf#page4\" target=\"_blank\">Link to the relevant discussion within the meeting record.</a></p>",
+          "Outcome__c": "High",
+          "Summary__c": "<p>The Cardiovascular Advisory Committee <strong>recommended </strong>that empagliflozin for the treatment of chronic heart failure with mildly reduced or preserved ejection fraction, for people with NYHA class II-IV, be listed with a <strong>high priority</strong>, subject to eligibility criteria.</p>",
+          "Formatted_Date__c": "Dec 2025",
+          "Status_History__c": "a13OZ00000X8ea0YAB"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Mar 2023",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Following Clinical Advice, Pharmac staff considers the advice and the funding application under goes an assessment using our&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/factors-for-consideration/\" rel=\"nofollow\">Factors for Consideration</a>&nbsp;framework and seeks additional information as required.</p>\r\n<p>&nbsp;</p>\r\n<p>Research and Economic analysis are undertaken.&nbsp; This focuses on the costs and benefits of a proposed course of action. Economics is based on three fundamental concepts that summarise the issues Pharmac faces daily:&nbsp;</p>\r\n<ul>\r\n<li>Scarcity &ndash; resources will always be insufficient to support all possible activities.</li>\r\n<li>Choices &ndash; due to scarce resources, decisions must be made about how best to use them.</li>\r\n<li>Opportunity cost &ndash; by choosing to use resources one way, we forgo other opportunities to use the same resources.</li>\r\n</ul>\r\n<p>&nbsp;</p>\r\n<p>For further information on the purpose of, and techniques for, undertaking economic analysis in health care, please refer&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/economic-analysis/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/economic-analysis/</a></p>",
+    "position": 2,
+    "name": "Under Assessment",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Jan 2026",
+          "fs": "Jan 2026",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Working to compare options",
+          "fs": "Working to compare options",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000Wfu8o2AB"
+          },
+          "Id": "a0POZ00000Wfu8o2AB",
+          "Event_Date__c": "2026-01-22",
+          "Event_Description__c": "Working to compare options",
+          "Stage__c": "Under Assessment",
+          "Formatted_Date__c": "Jan 2026",
+          "Status_History__c": "a13OZ00000Z2A0mYAF"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Jan 2026",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Pharmac staff uses a prioritisation process to compare and rank funding options. Possible opportunities for new investment will always exceed the budget Pharmac has available; therefore, prioritisation is an intrinsic part of Pharmac\u2019s decision-making process.</p>\r\n<p>The relative ranking of options aims to support Pharmac&rsquo;s statutory objective &ldquo;to secure for eligible people in need of pharmaceuticals, the best health outcomes that are reasonably achievable from pharmaceutical treatment and from within the amount of funding provided&rdquo;.</p>\r\n<p>A funding application or proposal is considered ready for prioritisation when sufficient information is available to permit it to be reviewed against Pharmac's Factors for Consideration and to inform a comparison with other possible investment decisions.</p>\r\n<p>There is no guarantee when or if a ranked medicine will be funded.&nbsp;&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/prioritisation/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/prioritisation/</a></p>",
+    "position": 3,
+    "name": "Options Compared",
+    "last": false,
+    "events": null,
+    "dateString": null,
+    "collapsed": false,
+    "checked": false
+  },
+  {
+    "text": "<p>Pharmac is consulting on a proposal to either approve or decline the application.&nbsp;We seek the views of all people who have an interest in our proposals, or who may be affected by them, to obtain feedback on our proposed approaches.</p>\r\n<p><a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/having-your-say/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/having-your-say/</a></p>",
+    "position": 4,
+    "name": "Under Consultation",
+    "last": false,
+    "events": null,
+    "dateString": null,
+    "collapsed": false,
+    "checked": false
+  },
+  {
+    "text": "<p>Following the consultation process, Pharmac staff considers the feedback and identifies any additional information required as part of a gap analysis.&nbsp; The proposal may require further clinical advice, research, and assessment.</p>",
+    "position": 5,
+    "name": "Reviewing Consultation Feedback",
+    "last": false,
+    "events": null,
+    "dateString": null,
+    "collapsed": false,
+    "checked": false
+  },
+  {
+    "text": "<p>We refer to our decisions about whether and how particular pharmaceuticals are publicly-funded, as &ldquo;funding decisions&rdquo;.</p>\r\n<p>We consider and assess all funding decisions using the&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/about/operating-policies-and-procedures/#factorsfc\" rel=\"nofollow\">Factors for Consideration</a>. When we do so, we carefully evaluate clinical and other evidence for the benefits and suitability of a proposal, and to identify and understand the people who will be affected by it.</p>\r\n<p>While our main task is to allocate pharmaceutical funding, we consider the benefits and costs across the whole health system now and with a long-term focus, including the effects for hospitals and primary care, and consider direct costs to patients as well as to all health sector budgets.</p>\r\n<p>Final funding decisions are made by the Pharmac Board or delegated to senior Pharmac staff as required by the Board.</p>\r\n<p>&nbsp;</p>",
+    "position": 6,
+    "name": "Decision",
+    "last": true,
+    "events": null,
+    "dateString": null,
+    "collapsed": false,
+    "checked": false
+  }
+]

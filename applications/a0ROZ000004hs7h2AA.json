@@ -1,0 +1,744 @@
+[
+  {
+    "text": "<p>New funding applications are referred to one of Pharmac's Funding Application Advisors (FAAs), who'll review the application to ensure they have the relevant information to undertake a preliminary analysis.&nbsp; They may seek more information if required.</p>\r\n<p><a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/new-funding-applications/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/new-funding-applications/</a></p>",
+    "position": 0,
+    "name": "Application Received",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Aug 2021",
+          "fs": "Aug 2021",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Application received",
+          "fs": "Application received",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000CBbyD2AT"
+          },
+          "Id": "a0POZ00000CBbyD2AT",
+          "Event_Date__c": "2021-08-16",
+          "Event_Description__c": "Application received",
+          "Stage__c": "Application Received",
+          "Formatted_Date__c": "Aug 2021",
+          "Status_History__c": "a132P000000D7MyQAK"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Aug 2021",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Pharmac is identifying and gathering information required to get clinical advice.  The <a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/pharmacology-and-therapeutics-advisory-committee-ptac/\" rel=\"nofollow\">Pharmacology and Therapeutics Advisory Committee (PTAC)</a>  meets quarterly. There are also around 20 expert <a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/specialist-advisory-committees/\" rel=\"nofollow\">Specialist Advisory Committees (SACs)</a>, previously expert Subcommittees, which provide clinical evaluations in specialist areas. Specialist Advisory Committees meet as required to discuss issues referred to them by PTAC or Pharmac.</p>\n<p style=\"height: 20px\">&nbsp;</p>\n<p>In November 2021, we introduced separate terms of reference for the SACs to make clear that these committees have different, but complementary, roles, expertise and perspectives to PTAC.</p>\n<p style=\"height: 15px\">&nbsp;</p>\n<p>PTAC and SACs may make recommendations to Pharmac that differ from each other when looking at the same evidence. Pharmac considers the recommendations provided by all our clinical advisory committees when assessing applications.</p>\n<p style=\"height: 20px\">&nbsp;</p>\n<p><a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/pharmacology-and-therapeutics-advisory-committee-ptac/ptac-terms-of-reference-july-2021/\" rel=\"nofollow\">PTAC</a>  and <a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/specialist-advisory-committees/specialist-advisory-committee-terms-of-reference//\" rel=\"nofollow\">Specialist Advisory Committees</a> records of the meeting will be published on this website in accordance with the Terms of Reference.</p>",
+    "position": 1,
+    "name": "Seeking Clinical Advice",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Aug 2021",
+          "fs": "Aug 2021",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Clinical advice required",
+          "fs": "Clinical advice required",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000CBbyE2AT"
+          },
+          "Id": "a0POZ00000CBbyE2AT",
+          "Event_Date__c": "2021-08-25",
+          "Event_Description__c": "Clinical advice required",
+          "Stage__c": "Seeking Clinical Advice",
+          "Formatted_Date__c": "Aug 2021",
+          "Status_History__c": "a132P000000D7N3QAK"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": "<p><span style=\"color: black;\">1.1.</span><span style=\"color: black; font-size: 7pt;\">\u00a0</span>The Advisory Committee <strong>recommended</strong> that acalabrutinib as an alternative option to venetoclax regimens in previously untreated CLL patients, for whom acalabrutinib is a more appropriate option due to intolerable side effects with venetoclax be listed with a <strong>high priority</strong> within the context of treatment of malignancy subject to the following Special Authority criteria:</p><p><br></p><p class=\"ql-indent-1\"><span style=\"font-size: 11px;\">ACALABRUTINIB</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 11px;\">Initial application (previously untreated chronic lymphocytic leukaemia (CLL) with 17p deletion or TP53 mutation) - only from a relevant specialist or medical practitioner on the recommendation of a relevant specialist. Approvals valid for 6 months for applications meeting the following criteria:</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 11px;\">All of the following:</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 11px;\">1.</span><span style=\"font-size: 11px;\">\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 11px;\">Patient has CLL requiring therapy; and</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 11px;\">2.</span><span style=\"font-size: 11px;\">\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 11px;\">There is documentation confirming that patient has 17p deletion or TP53 mutation; and</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 11px;\">3.</span><span style=\"font-size: 11px;\">\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 11px;\">Patient has an ECOG performance status of 0-2; and</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 11px;\">4.</span><span style=\"font-size: 11px;\">\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 11px;\">Patient had experienced intolerable side effects with previously funded venetoclax monotherapy. </span></p><p class=\"ql-indent-1\"><span style=\"font-size: 11px;\">\u00a0</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 11px;\">Renewal application (previously untreated chronic lymphocytic leukaemia with 17p deletion or TP53 mutation*) - only from a relevant specialist or medical practitioner on the recommendation of a relevant specialist. Approvals valid for 6 months for applications meeting the following criteria:</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 11px;\">1.</span><span style=\"font-size: 11px;\">\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 11px;\">No evidence of clinical disease progression; and</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 11px;\">2.</span><span style=\"font-size: 11px;\">\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 11px;\">The treatment remains appropriate and the patient is benefiting from treatment.</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 11px;\">\u00a0</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 11px;\">ACALABRUTINIB</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 11px;\">Initial application (relapsed/refractory chronic lymphocytic leukaemia (CLL)) - only from a relevant specialist or medical practitioner on the recommendation of a relevant specialist. Approvals valid for 6 months for applications meeting the following criteria:</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 11px;\">All of the following:</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 11px;\">1.</span><span style=\"font-size: 11px;\">\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 11px;\">Patient has received at least one prior immunochemotherapy for CLL; and</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 11px;\">2.</span><span style=\"font-size: 11px;\">\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 11px;\">Patient has not previously received funded acalabrutinib; and</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 11px;\">3.</span><span style=\"font-size: 11px;\">\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 11px;\">The patient\u2019s disease has relapsed within 36 months of previous treatment; and</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 11px;\">4.</span><span style=\"font-size: 11px;\">\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 11px;\">Patient had experienced intolerable side effects with previously funded venetoclax in combination with rituximab regimen. </span></p><p class=\"ql-indent-1\"><span style=\"font-size: 11px;\">\u00a0</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 11px;\">Renewal application (relapsed/refractory CLL) - only from a relevant specialist or medical practitioner on the recommendation of a relevant specialist. Approvals valid for 6 months for applications meeting the following criteria:</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 11px;\">1.</span><span style=\"font-size: 11px;\">\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 11px;\">No evidence of clinical disease progression; and</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 11px;\">2.</span><span style=\"font-size: 11px;\">\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 11px;\">The treatment remains appropriate and the patient is benefiting from treatment.</span></p><p><span style=\"font-size: 9pt;\">\u00a0</span></p><p><span style=\"color: black;\">1.2.</span><span style=\"color: black; font-size: 7pt;\">\u00a0</span>The Advisory Committee <strong>recommended </strong>that acalabrutinib as a subsequent line of therapy to venetoclax regimens in relapsed or refractory CLL patients who have relapsed within 36 months be listed with a <strong>medium </strong>priority, subject to the following Special Authority criteria: </p><p><br></p><p class=\"ql-indent-1\"><span style=\"font-size: 11px;\">ACALABRUTINIB</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 11px;\">Initial application (relapsed/refractory chronic lymphocytic leukaemia (CLL)) - only from a relevant specialist or medical practitioner on the recommendation of a relevant specialist. Approvals valid for 6 months for applications meeting the following criteria:</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 11px;\">All of the following:</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 11px;\">1.</span><span style=\"font-size: 11px;\">\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 11px;\">Patient has not previously received funded acalabrutinib; and</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 11px;\">2.</span><span style=\"font-size: 11px;\">\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 11px;\">Acalabrutinib is to be used as monotherapy; and</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 11px;\">3.</span><span style=\"font-size: 11px;\">\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 11px;\">Either</span></p><p class=\"ql-indent-2\"><span style=\"font-size: 11px;\">3.1.</span><span style=\"font-size: 11px;\">\u00a0\u00a0</span><span style=\"font-size: 11px;\">Patient\u2019s CLL is refractory while on treatment with a venetoclax containing regimen; or</span></p><p class=\"ql-indent-2\"><span style=\"font-size: 11px;\">3.2.</span><span style=\"font-size: 11px;\">\u00a0\u00a0</span><span style=\"font-size: 11px;\">Patient\u2019s CLL has relapsed within 36 months of previous treatment with a venetoclax containing regimen.</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 11px;\">\u00a0</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 11px;\">Renewal application (relapsed/refractory CLL) - only from a relevant specialist or medical practitioner on the recommendation of a relevant specialist. Approvals valid for 6 months for applications meeting the following criteria:</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 11px;\">1.</span><span style=\"font-size: 11px;\">\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 11px;\">No evidence of clinical disease progression; and</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 11px;\">2.</span><span style=\"font-size: 11px;\">\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 11px;\">The treatment remains appropriate and the patient is benefiting from treatment.</span></p><p><span style=\"font-size: 9pt;\">\u00a0</span></p><p><span style=\"color: black;\">1.3.</span><span style=\"color: black; font-size: 7pt;\">\u00a0</span>The Advisory Committee considered that those patients refractory to, or intolerant of venetoclax had the highest unmet health need and therefore the greatest priority for treatment with acalabrutinib.</p><p><span style=\"color: black;\">1.4.</span><span style=\"color: black; font-size: 7pt;\">\u00a0</span>The Committee considered there to be a class type effect for these Bruton\u2019s tyrosine kinase (BTK) inhibitors and that the same priority recommendations should be reflected for ibrutinib in the relevant patient populations.</p><p><span style=\"color: black;\">1.5.</span><span style=\"color: black; font-size: 7pt;\">\u00a0</span>The Committee considered there to be a broader need for access to BTK inhibitors across other patient groups of patients with CLL.</p>",
+          "fs": "<p><span style=\"color: black;\">1.1.</span><span style=\"color: black; font-size: 7pt;\">\u00a0</span>The Advisory Committee <strong>recommended</strong> that acalabrutinib as an alternative option to venetoclax regimens in previously untreated CLL patients, for whom acalabrutinib is a more appropriate option due to intolerable side effects with venetoclax be listed with a <strong>high priority</strong> within the context of treatment of malignancy subject to the following Special Authority criteria:</p><p><br></p><p class=\"ql-indent-1\"><span style=\"font-size: 11px;\">ACALABRUTINIB</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 11px;\">Initial application (previously untreated chronic lymphocytic leukaemia (CLL) with 17p deletion or TP53 mutation) - only from a relevant specialist or medical practitioner on the recommendation of a relevant specialist. Approvals valid for 6 months for applications meeting the following criteria:</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 11px;\">All of the following:</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 11px;\">1.</span><span style=\"font-size: 11px;\">\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 11px;\">Patient has CLL requiring therapy; and</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 11px;\">2.</span><span style=\"font-size: 11px;\">\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 11px;\">There is documentation confirming that patient has 17p deletion or TP53 mutation; and</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 11px;\">3.</span><span style=\"font-size: 11px;\">\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 11px;\">Patient has an ECOG performance status of 0-2; and</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 11px;\">4.</span><span style=\"font-size: 11px;\">\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 11px;\">Patient had experienced intolerable side effects with previously funded venetoclax monotherapy. </span></p><p class=\"ql-indent-1\"><span style=\"font-size: 11px;\">\u00a0</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 11px;\">Renewal application (previously untreated chronic lymphocytic leukaemia with 17p deletion or TP53 mutation*) - only from a relevant specialist or medical practitioner on the recommendation of a relevant specialist. Approvals valid for 6 months for applications meeting the following criteria:</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 11px;\">1.</span><span style=\"font-size: 11px;\">\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 11px;\">No evidence of clinical disease progression; and</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 11px;\">2.</span><span style=\"font-size: 11px;\">\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 11px;\">The treatment remains appropriate and the patient is benefiting from treatment.</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 11px;\">\u00a0</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 11px;\">ACALABRUTINIB</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 11px;\">Initial application (relapsed/refractory chronic lymphocytic leukaemia (CLL)) - only from a relevant specialist or medical practitioner on the recommendation of a relevant specialist. Approvals valid for 6 months for applications meeting the following criteria:</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 11px;\">All of the following:</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 11px;\">1.</span><span style=\"font-size: 11px;\">\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 11px;\">Patient has received at least one prior immunochemotherapy for CLL; and</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 11px;\">2.</span><span style=\"font-size: 11px;\">\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 11px;\">Patient has not previously received funded acalabrutinib; and</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 11px;\">3.</span><span style=\"font-size: 11px;\">\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 11px;\">The patient\u2019s disease has relapsed within 36 months of previous treatment; and</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 11px;\">4.</span><span style=\"font-size: 11px;\">\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 11px;\">Patient had experienced intolerable side effects with previously funded venetoclax in combination with rituximab regimen. </span></p><p class=\"ql-indent-1\"><span style=\"font-size: 11px;\">\u00a0</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 11px;\">Renewal application (relapsed/refractory CLL) - only from a relevant specialist or medical practitioner on the recommendation of a relevant specialist. Approvals valid for 6 months for applications meeting the following criteria:</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 11px;\">1.</span><span style=\"font-size: 11px;\">\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 11px;\">No evidence of clinical disease progression; and</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 11px;\">2.</span><span style=\"font-size: 11px;\">\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 11px;\">The treatment remains appropriate and the patient is benefiting from treatment.</span></p><p><span style=\"font-size: 9pt;\">\u00a0</span></p><p><span style=\"color: black;\">1.2.</span><span style=\"color: black; font-size: 7pt;\">\u00a0</span>The Advisory Committee <strong>recommended </strong>that acalabrutinib as a subsequent line of therapy to venetoclax regimens in relapsed or refractory CLL patients who have relapsed within 36 months be listed with a <strong>medium </strong>priority, subject to the following Special Authority criteria: </p><p><br></p><p class=\"ql-indent-1\"><span style=\"font-size: 11px;\">ACALABRUTINIB</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 11px;\">Initial application (relapsed/refractory chronic lymphocytic leukaemia (CLL)) - only from a relevant specialist or medical practitioner on the recommendation of a relevant specialist. Approvals valid for 6 months for applications meeting the following criteria:</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 11px;\">All of the following:</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 11px;\">1.</span><span style=\"font-size: 11px;\">\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 11px;\">Patient has not previously received funded acalabrutinib; and</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 11px;\">2.</span><span style=\"font-size: 11px;\">\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 11px;\">Acalabrutinib is to be used as monotherapy; and</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 11px;\">3.</span><span style=\"font-size: 11px;\">\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 11px;\">Either</span></p><p class=\"ql-indent-2\"><span style=\"font-size: 11px;\">3.1.</span><span style=\"font-size: 11px;\">\u00a0\u00a0</span><span style=\"font-size: 11px;\">Patient\u2019s CLL is refractory while on treatment with a venetoclax containing regimen; or</span></p><p class=\"ql-indent-2\"><span style=\"font-size: 11px;\">3.2.</span><span style=\"font-size: 11px;\">\u00a0\u00a0</span><span style=\"font-size: 11px;\">Patient\u2019s CLL has relapsed within 36 months of previous treatment with a venetoclax containing regimen.</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 11px;\">\u00a0</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 11px;\">Renewal application (relapsed/refractory CLL) - only from a relevant specialist or medical practitioner on the recommendation of a relevant specialist. Approvals valid for 6 months for applications meeting the following criteria:</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 11px;\">1.</span><span style=\"font-size: 11px;\">\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 11px;\">No evidence of clinical disease progression; and</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 11px;\">2.</span><span style=\"font-size: 11px;\">\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 11px;\">The treatment remains appropriate and the patient is benefiting from treatment.</span></p><p><span style=\"font-size: 9pt;\">\u00a0</span></p><p><span style=\"color: black;\">1.3.</span><span style=\"color: black; font-size: 7pt;\">\u00a0</span>The Advisory Committee considered that those patients refractory to, or intolerant of venetoclax had the highest unmet health need and therefore the greatest priority for treatment with acalabrutinib.</p><p><span style=\"color: black;\">1.4.</span><span style=\"color: black; font-size: 7pt;\">\u00a0</span>The Committee considered there to be a class type effect for these Bruton\u2019s tyrosine kinase (BTK) inhibitors and that the same priority recommendations should be reflected for ibrutinib in the relevant patient populations.</p><p><span style=\"color: black;\">1.5.</span><span style=\"color: black; font-size: 7pt;\">\u00a0</span>The Committee considered there to be a broader need for access to BTK inhibitors across other patient groups of patients with CLL.</p>",
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": "<p><span style=\"color: black;\">1.1.</span><span style=\"color: black; font-size: 7pt;\">\u00a0</span>The Committee noted that Chronic Lymphocytic Leukaemia (CLL) is a malignancy of B cells that predominantly affects the older population who often also have comorbidities and is characterised by the proliferation and accumulation of B lymphocytes in peripheral blood, bone marrow, and lymphoid organs. The Committee noted that the incidence of CLL in New Zealand is reported to be around 267 people per year (<a href=\"https://www.leukaemia.org.nz/information/about-blood-cancers/leukaemia/chronic-lymphocytic-leukaemia/\" target=\"_blank\">Leukaemia &amp; Blood Cancer New Zealand, 2015</a>).\u00a0</p><p><span style=\"color: black;\">1.2.</span><span style=\"color: black; font-size: 7pt;\">\u00a0</span>The Committee noted that there is no evidence of a higher incidence of CLL in M\u0101ori or Pacific patient populations.</p><p><em>Current treatment options</em></p><p><span style=\"color: black;\">1.3.</span><span style=\"color: black; font-size: 7pt;\">\u00a0</span>The Committee noted that current treatment options are largely dictated by patient fitness and 17p del and TP53 mutational status. The Committee considered that approximately 10% of CLL patients will have 17p deletion or TP53 mutation at diagnosis, and that nearly all of these patients would be offered venetoclax as first-line treatment. The Committee noted that the remaining 90% of patients would be treated with FCR (fludarabine, cyclophosphamide, rituximab), bendamustine with rituximab, or obinutuzumab with chlorambucil, depending on patient fitness.</p><p><span style=\"color: black;\">1.4.</span><span style=\"color: black; font-size: 7pt;\">\u00a0</span>The Committee noted that patients with a 17pdel/TP53 mutation who relapse following venetoclax monotherapy in the first line have limited options and considered this to be an area of unmet need. The Committee considered for patients without a 17pdel/TP53 mutation, approximately 40% of patients would be estimated to relapse within 36 months and nearly all would receive venetoclax in combination with rituximab, and that less than 20% of these patients would be retreated with FCR, and approximately 20% would have the option of obinutuzumab with chlorambucil.</p><p><span style=\"color: black;\">1.5.</span><span style=\"color: black; font-size: 7pt;\">\u00a0</span>The Committee noted that some patients may be able to progress to allogenic stem cell transplantation, though the Committee noted that few patients would be fit enough to be eligible for transplant.</p><p><span style=\"color: black;\">1.6.</span><span style=\"color: black; font-size: 7pt;\">\u00a0</span>The Committee considered that duration of response mainly depends on the intensity of the front-line regimen with FCR resulting in the longest progression free survival (PFS) (average 77 months versus 34 and 27 months for rituximab with bendamustine and obinutuzumab with chlorambucil, respectively).</p><p><span style=\"color: black;\">1.7.</span><span style=\"color: black; font-size: 7pt;\">\u00a0</span>The Committee noted that there is a large gap in treatment options when comparing options in New Zealand to CLL treatment overseas. The Committee noted that <a href=\"https://www.esmo.org/guidelines/haematological-malignancies/chronic-lymphocytic-leukaemia\" target=\"_blank\">ESMO guidelines</a> recommend BTK inhibitor or venetoclax containing regimens for all patients who are immunoglobulin heavy chain unmutated and that FCR was reserved for only those with an immunoglobulin heavy chain gene (IGHV) mutation and deemed fit for intensive chemotherapy. The Committee noted that treatment options in New Zealand are limited for both treatment na\u00efve patients, and those who have relapsed.</p><p><em>Acalabrutinib discussion</em></p><p><span style=\"color: black;\">1.8.</span><span style=\"color: black; font-size: 7pt;\">\u00a0</span>The Advisory Committee noted that acalabrutinb is a small-molecule inhibitor of BTK. The Committee noted that the submission for acalabrutinib requested funding for previously untreated CLL patients with 17p deletion or TP53 mutation for whom acalabrutinib is a more appropriate option, relapsed or refractory CLL patients for whom acalabrutinib is a more appropriate option, and as a subsequent line for patients relapsed or refractory to venetoclax containing regimens within 36 months of prior treatment. The Committee noted that acalabrutinib is taken orally twice daily.</p><p><span style=\"color: black;\">1.9.</span><span style=\"color: black; font-size: 7pt;\">\u00a0</span>The Committee noted that it had previously considered another BTK inhibitor (ibrutinib) for the same population groups and recommended that ibrutinib be funded with a high priority for relapsed/refractory patients who progress during or relapse after venetoclax treatment (within 36 months) or who are intolerant to venetoclax, and with a medium priority for the wider population of previously untreated patients with 17p deletion/TP53 mutation and for relapsed/refractory patients with CLL for whom ibrutinib is a more appropriate option. The Committee also noted that it previously recommended ibrutinib for previously untreated CLL patients, for whom fludarabine-based chemoimmunotherapy is inappropriate, with or without immunoglobulin heavy chain (IGHV) mutation, be listed with a low priority. The Committee noted that at the time of consideration of ibrutinib, it considered that the highest area of unmet need was for those who were refractory or intolerant to venetoclax and reiterated this consideration.</p><p><span style=\"color: black;\">1.10.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that there are three pivotal trials relating to the use of acalabrutinib in the first and subsequent lines of treatment for 17p deletion/TP35 mutated CLL:</p><p class=\"ql-indent-1\">1.10.1.<span style=\"font-size: 7pt;\"> </span>ELEVATE-TN (<a href=\"https://pubmed.ncbi.nlm.nih.gov/32305093/\" target=\"_blank\">Sharman et al. Lancet. 2020. 395:1278-91</a>): a phase 3, randomised, open-label, three-arm, multicentre study of acalabrutinib monotherapy (until progression) versus acalabrutinib (until progression) with obinutuzumab (6 cycles) versus obinutuzumab with chlorambucil (6 cycles) for the treatment of previously untreated CLL patients 65 years or over (or younger with comorbidities). The Committee noted that the median PFS was not reached for acalabrutinib treatment arms versus 17.5 months for obinutuzumab with chlorambucil for patients with 17p deletion/TP53 mutation. The Committee noted that the addition of obinutuzumab to acalabrutinib treatment did not seem to impact the PFS for this group. The Committee noted that at a median follow-up of 46.9 months, overall survival was not significantly different between treatment groups (not reached in any treatment group) but noted that 39% of patients were able to cross over from the obinutuzumab with chlorambucil treatment arm to the acalabrutinib monotherapy arm.</p><p class=\"ql-indent-1\">1.10.2.<span style=\"font-size: 7pt;\"> </span>The Committee noted that the acalabrutinib monotherapy arm had a higher incidence of atrial fibrillation than the obinutuzumab containing regimens, as well as an increased rate of infection and secondary skin related malignancies.</p><p class=\"ql-indent-1\">1.10.3.<span style=\"font-size: 7pt;\"> </span>ELEVATE-RR (<a href=\"https://pubmed.ncbi.nlm.nih.gov/34310172/\" target=\"_blank\">Byrd et al. J Clin Ocol. 2021;39:3441-52</a>): a randomised, multicentre, open-label Phase III non-inferiority trial of acalabrutinib versus ibrutinib (until progression) in relapsed/refractory patients 17p deletion/TP53 mutation or 11q deletion.\u00a0The Committee noted that the majority of patients had received two prior lines of therapy, but than none appeared to have been treated with venetoclax. The Committee noted that at a median follow-up of 40.9 months, the PFS for both treatment arms was 38.4 months, and that overall survival was not reached in either treatment arm. The Committee also noted that there were no differences in PFS between subgroups.</p><p class=\"ql-indent-1\">1.10.4.<span style=\"font-size: 7pt;\"> </span>The Committee noted that ibrutinib carries a higher risk of cardiac toxicity than acalabrutinib (22.8% and 15.6% versus 8.6% and 9% for hypertension and atrial fibrillation for ibrutinib and acalabrutinib, respectively). The Committee noted that treatment discontinuation due to adverse events occurred in 21.3% of the ibrutinib group versus 14.7% of the acalabrutinib group.</p><p class=\"ql-indent-1\">1.10.5.<span style=\"font-size: 7pt;\"> </span>Ascend (<a href=\"https://ascopubs.org/doi/pdf/10.1200/JCO.19.03355\" target=\"_blank\">Ghia et al. J Clin Oncol. 2020;38:2849-61</a>): an ongoing phase 3, randomised, open-label study of acalabrutinib (until disease progression) versus bendamustine with rituximab (6 cycles) or idelalisib with rituximab (IdR; Id until progression and rituximab for 8 cycles) in patients with relapsed/refractory CLL. The Committee noted that no patients seemed to have received venetoclax as a prior line of therapy. The Committee noted that the 18 months PFS was 82% for acalabrutinib versus 48% for IdR/bendamustine with rituximab group. The Committee also noted that the median duration of response was not reached in the acalabrutinib arm, versus 18 months for the other agents.</p><p class=\"ql-indent-1\">1.10.6.<span style=\"font-size: 7pt;\"> </span>The Committee noted that patients with 17p deletion or TP53 mutation did significantly worse than those without the deletion/mutation when treated with comparator treatments. The Committee noted that this trend was not present for patients treated with acalabrutinib and that outcomes were irrespective of mutational status. The Committee noted that all subgroup analyses (age group, ECOG status, disease bulk, number of prior therapies) indicated favourable outcomes for acalabrutinib compared to other agents used in this study (age group, ECOG status, disease bulk, number of prior therapies).</p><p><span style=\"color: black;\">1.11.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that patients with reduced renal function (creatine clearance less than 80 mL/min) may require more intensive prophylaxis and monitoring to reduce the risk of tumour lysis syndrome (TLS) when initiating treatment with venetoclax, but that this is not a contraindication for venetoclax treatment. The Committee noted that there is limited information regarding appropriate dosing of venetoclax for those with severe renal impairment (creatine clearance less than 30 mL/min). The Committee noted that there is also limited information regarding the pharmacokinetics and safety of acalabrutinib in CLL patients with severe renal impairment (eGFR &lt;29 mL/min/1.73 m2) or end-stage renal disease. The Committee considered that patients with severe renal impairment, for which venetoclax is unsuitable, acalabrutinib would also not be considered suitable.</p><p><span style=\"color: black;\">1.12.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that patients with bulky disease are also considered to be at a higher risk of TLS upon initiation of venetoclax treatment and would require prophylaxis and monitoring at initiation of treatment, with hospital admission on day 1 and day 8 of treatment. The Committee noted that low-risk patients still require blood tests 6-8 hours and 24-hours post treatment on days one and eight. The Committee noted that there are some logistical difficulties for managing rural patients during this venetoclax dose titration stage, due to limited access to timely blood tests. The Committee considered that about 50% of patients would require the low-risk blood testing protocol during venetoclax dose titration. The Committee considered that a BTK inhibitor without the TLS risk associated with venetoclax and not requiring TLS prophylaxis would be more convenient, as patients would be able to start treatment at home, without the need for blood testing or hospital admission.\u00a0\u00a0</p><p><span style=\"color: black;\">1.13.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that for both treatment na\u00efve patients and patients with relapsed disease, venetoclax would be intolerable for approximately 20% of patients, and that a further 20% of patients would experience an inadequate response to venetoclax containing regimens upfront (<a href=\"https://pubmed.ncbi.nlm.nih.gov/27178240/\" target=\"_blank\">Stilgenbauer et al. Lancet Oncol. 2016;17:768-78</a>; <a href=\"https://pubmed.ncbi.nlm.nih.gov/29880613/\" target=\"_blank\">Mato et al. Haematologica. 2018;103:1151-17</a>).\u00a0\u00a0\u00a0</p><p><em>Considerations of class effect</em></p><p><span style=\"color: black;\">1.14.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that it was not aware of any evidence to support efficacy of acalabrutinib following treatment with venetoclax, as none of the patients with relapsed/refractory disease in the trials had received prior treatment with venetoclax containing regimens.</p><p><span style=\"color: black;\">1.15.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that the evidence indicated that acalabrutinb is an effective therapy and is as effective as ibrutinib for the patient populations requested in the application, including patients experiencing multiple relapses of disease. The Committee noted that the increased incidence of atrial fibrillation and secondary skin malignancies is a known risk across all BTK inhibitors and is slightly less for acalabrutinib compared to ibrutinib.</p><p><span style=\"color: black;\">1.16.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that based on the available evidence, there appears to be a class effect with BTK inhibitors and considered that either ibrutinib or acalabrutinib would effectively address the current unmet health need for these patient populations, regardless of small variation in toxicity profile between the agents.</p><p><span style=\"color: black;\">1.17.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that although there isn\u2019t evidence for treatment with acalabrutinib subsequent to venetoclax containing regimens, there is evidence to suggest that BTK inhibitor treatment is effective for CLL patients post-venetoclax. The Committee noted a retrospective review on the efficacy of BTK inhibitors following treatment with venetoclax in which the majority of patients were treated with ibrutinib (<a href=\"https://pubmed.ncbi.nlm.nih.gov/32244251/\" target=\"_blank\">Lin et al. Blood. 2020;135:2266-70</a>). The Committee also noted that the majority of patients had received more than four prior lines of therapy. The Committee noted that 91% of patients treated with a BTK inhibitor achieved an objective response, and that those who had achieved remission on venetoclax for greater than 24 months were more likely to achieve a response with the BTK inhibitor treatment.</p><p><span style=\"color: black;\">1.18.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee also noted an international study that identified a cohort of patients who discontinued venetoclax and were subsequently treated with a BTK inhibitor (acalabrutinib or ibrutinib), PI3K inhibitor, or cellular therapy (<a href=\"https://pubmed.ncbi.nlm.nih.gov/32198151/\" target=\"_blank\">Mato et al. Clin Cancer Res. 2020;26:3589-96</a>) The Committee noted that the most common reasons for discontinuation of venetoclax included progression of CLL and adverse events/toxicity. The Committee also noted that the estimated PFS to a post-venetoclax BTK inhibitor was 32 months.</p><p><span style=\"color: black;\">1.19.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that the evidence suggests that a BTK inhibitor can be used effectively following progression on venetoclax treatment but considered that the magnitude of benefit may differ depending on the duration of remission with venetoclax treatment. The Committee considered that any evidence relating to acalabrutinib efficacy post treatment with venetoclax is unlikely to be forthcoming as BTK inhibitors are already used widely internationally, usually before treatment with venetoclax. The Committee considered that although it is not aware of any direct evidence relating to the efficacy of acalabrutinib following treatment with a venetoclax containing regimen, given the class effect of these BTK inhibitors, it would be reasonable to assume similar efficacy in later lines of therapy between ibrutinib and acalabrutinib.</p><p><em>Remaining unmet need</em></p><p><span style=\"color: black;\">1.20.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that there remains an unmet need for those patients whose disease progresses after 36 months of previous treatment. The Committee noted that fit patients with good performance status without 17p deletion or TP53 mutation who are treated with FCR and relapse after three years or more following treatment have limited treatment options. The Committee noted that FCR is not usually considered for patients who have reduced performance status (eg. older than 70-75 years), meaning that few patients would be fit enough to be re-treated with FCR at relapse. Fit patients who relapse after treatment with bendamustine in combination with rituximab or after treatment with obinutuzumab in combination with chlorambucil also have limited further options. The Committee considered that retreatment with venetoclax/rituximab may be an option for those patients whose disease progresses after greater than 36 months of prior venetoclax treatment. The Committee considered that restricting access to acalabrutinib to only those patients whose disease had relapsed within 36 months would mean that those whose disease responded better to treatment with venetoclax with rituximab would be without effective treatment options in later lines of therapy.</p><p><em>Other considerations</em></p><p><span style=\"color: black;\">1.21.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that whilst the patient populations considered for acalabrutinib have unmet health needs, there is a broader need for a BTK inhibitor or expanded access to venetoclax treatment for CLL patients.</p><p><span style=\"color: black;\">1.22.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that whilst the oral administration of BTK inhibitors is a more practical option especially for those living rurally, treatment with acalabrutinib or ibrutinib is until progression, as opposed to a fixed duration of treatment with some venetoclax containing regimens. Therefore, the Committee considered that ongoing treatment with a BTK inhibitor would require continued adherence, frequent prescription pick-ups, and increased outpatient clinic visits compared with fixed duration therapy. The Committee also noted that acalabrutinb dosing is twice daily whilst ibrutinib dosing is once daily. The Committee considered it important to consider the ease of oral therapy as well as the duration of treatment. The Committee noted that there is also an increased risk of development of secondary malignancies for patients treated with BTK inhibitors, including non-melanoma skin cancers (<a href=\"https://pubmed.ncbi.nlm.nih.gov/32704159/\" target=\"_blank\">Bond et al. Leukemia. 2020;34:3197-205</a>).</p><p><span style=\"color: black;\">1.23.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that whilst M\u0101ori and Pacific patient populations generally have higher rates of cardiac and renal morbidity, this would not necessarily mean that treatment with venetoclax or ibrutinib would be unsuitable for them. The Committee considered that risks associated with moderate renal impairment, TLS risk and atrial fibrillation can be managed. The Committee considered that when selecting the appropriate treatment for individual patients, a number of factors are taken into consideration including but not limited to the patient\u2019s response to prior treatment, toxicities associated with treatments, patient preference and fitness.</p><p><span style=\"color: black;\">1.24.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that the patient population that would benefit the most from treatment with acalabrutinib, in order of unmet need and evidence of benefit, includes those who experience intolerable side effects with venetoclax, those whose disease is refractory to venetoclax, those whose disease progresses on venetoclax, those whose disease progresses on chemo immunotherapies, those who\u00a0live at a distance from a hospital, those with TLS risk, and first line patients without IGHV mutations. The Committee considered that these patient populations have limited options available currently or would be better treated with extended access to a BTK inhibitor.\u00a0</p><p><span style=\"color: black;\">1.25.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that the most appropriate average treatment duration for patients on venetoclax monotherapy or BTKi monotherapy could be in the order of years. The Committee considered that the efficacy of upfront treatment with acalabrutinib for patients with 17p deletion/TP53 mutation would likely be similar to that of venetoclax monotherapy in the absence of any head-to-head trial data to inform this. For patients with relapsed/refractory disease, the Committee noted that fixed duration of venetoclax containing regimens (2 years) would be replaced by continuous acalabrutinib treatment until progression which could mean BTK inhibitor treatment for longer than 5 years. The Committee noted that in the Resonate II trial for ibrutinib, 30% of patients were still receiving ibrutinib treatment at 5-6 years (<a href=\"https://www.nature.com/articles/s41375-019-0602-x\" target=\"_blank\">Burger et al. Leukaemia. 2020;34:787-798</a>).</p><p><span style=\"color: black;\">1.26.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that if acalabrutinib were to be funded, and the Special Authority criteria specified that patients must have experienced intolerable side effects with venetoclax, that this would include up to 20% of patients. The Committee also considered that if acalabrutinib was funded for those patients where venetoclax treatment was considered unsuitable, then a significantly higher number of patients would access acalabrutinib due to clinician preference for BTK inhibitors resulting from ease of treatment initiation. The Committee considered that this would include at least 50% of patients.</p><p><span style=\"color: black;\">1.27.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that should a BTK inhibitor not be funded in a subsequent line to venetoclax and be only accessible for those patients where venetoclax is considered unsuitable, it would be appropriate to limit access to venetoclax post treatment with a BTK inhibitor for those patients where venetoclax had been considered unsuitable previously.</p><p><span style=\"color: black;\">1.28.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that if acalabrutinib were funded in a subsequent line to venetoclax containing regimens, that those with 17p deletion/TP53 mutation whose disease progressed while receiving treatment with venetoclax would all be progressed directly to acalabrutinib treatment without delay. The Committee considered that patients who complete the full two-year treatment with venetoclax and subsequently experience relapse within 36 months (about 50% of patients with relapsed/refractory disease) would also all move to acalabrutinib treatment.</p><p><span style=\"color: black;\">1.29.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span><span style=\"color: black;\">The Advisory Committee considered that the table below summarises its interpretation of the most appropriate PICO (population, intervention, comparator, outcomes) information for acalabrutinib if it were to be funded in New Zealand as an alternative to or subsequent to venetoclax containing regimens. This PICO captures key clinical aspects of the proposal and may be used to frame any future economic </span>assessment<span style=\"color: black;\"> by Pharmac staff. This PICO is based on the Advisory Committee\u2019s assessment at this time and may differ from that requested by the applicant. The PICO may change based on new information, additional clinical advice, or further analysis by Pharmac staff.\u00a0\u00a0</span></p><p><span style=\"color: black;\">\ufeff</span><img src=\"/apptracker/servlet/rtaImage?eid=a0POZ00000CBbyF&amp;feoid=00N2P000000YsIc&amp;refid=0EM2P000002jRHf\" alt=\"image.png\"></img></p>",
+          "fs": "<p><span style=\"color: black;\">1.1.</span><span style=\"color: black; font-size: 7pt;\">\u00a0</span>The Committee noted that Chronic Lymphocytic Leukaemia (CLL) is a malignancy of B cells that predominantly affects the older population who often also have comorbidities and is characterised by the proliferation and accumulation of B lymphocytes in peripheral blood, bone marrow, and lymphoid organs. The Committee noted that the incidence of CLL in New Zealand is reported to be around 267 people per year (<a href=\"https://www.leukaemia.org.nz/information/about-blood-cancers/leukaemia/chronic-lymphocytic-leukaemia/\" target=\"_blank\">Leukaemia &amp; Blood Cancer New Zealand, 2015</a>).\u00a0</p><p><span style=\"color: black;\">1.2.</span><span style=\"color: black; font-size: 7pt;\">\u00a0</span>The Committee noted that there is no evidence of a higher incidence of CLL in M\u0101ori or Pacific patient populations.</p><p><em>Current treatment options</em></p><p><span style=\"color: black;\">1.3.</span><span style=\"color: black; font-size: 7pt;\">\u00a0</span>The Committee noted that current treatment options are largely dictated by patient fitness and 17p del and TP53 mutational status. The Committee considered that approximately 10% of CLL patients will have 17p deletion or TP53 mutation at diagnosis, and that nearly all of these patients would be offered venetoclax as first-line treatment. The Committee noted that the remaining 90% of patients would be treated with FCR (fludarabine, cyclophosphamide, rituximab), bendamustine with rituximab, or obinutuzumab with chlorambucil, depending on patient fitness.</p><p><span style=\"color: black;\">1.4.</span><span style=\"color: black; font-size: 7pt;\">\u00a0</span>The Committee noted that patients with a 17pdel/TP53 mutation who relapse following venetoclax monotherapy in the first line have limited options and considered this to be an area of unmet need. The Committee considered for patients without a 17pdel/TP53 mutation, approximately 40% of patients would be estimated to relapse within 36 months and nearly all would receive venetoclax in combination with rituximab, and that less than 20% of these patients would be retreated with FCR, and approximately 20% would have the option of obinutuzumab with chlorambucil.</p><p><span style=\"color: black;\">1.5.</span><span style=\"color: black; font-size: 7pt;\">\u00a0</span>The Committee noted that some patients may be able to progress to allogenic stem cell transplantation, though the Committee noted that few patients would be fit enough to be eligible for transplant.</p><p><span style=\"color: black;\">1.6.</span><span style=\"color: black; font-size: 7pt;\">\u00a0</span>The Committee considered that duration of response mainly depends on the intensity of the front-line regimen with FCR resulting in the longest progression free survival (PFS) (average 77 months versus 34 and 27 months for rituximab with bendamustine and obinutuzumab with chlorambucil, respectively).</p><p><span style=\"color: black;\">1.7.</span><span style=\"color: black; font-size: 7pt;\">\u00a0</span>The Committee noted that there is a large gap in treatment options when comparing options in New Zealand to CLL treatment overseas. The Committee noted that <a href=\"https://www.esmo.org/guidelines/haematological-malignancies/chronic-lymphocytic-leukaemia\" target=\"_blank\">ESMO guidelines</a> recommend BTK inhibitor or venetoclax containing regimens for all patients who are immunoglobulin heavy chain unmutated and that FCR was reserved for only those with an immunoglobulin heavy chain gene (IGHV) mutation and deemed fit for intensive chemotherapy. The Committee noted that treatment options in New Zealand are limited for both treatment na\u00efve patients, and those who have relapsed.</p><p><em>Acalabrutinib discussion</em></p><p><span style=\"color: black;\">1.8.</span><span style=\"color: black; font-size: 7pt;\">\u00a0</span>The Advisory Committee noted that acalabrutinb is a small-molecule inhibitor of BTK. The Committee noted that the submission for acalabrutinib requested funding for previously untreated CLL patients with 17p deletion or TP53 mutation for whom acalabrutinib is a more appropriate option, relapsed or refractory CLL patients for whom acalabrutinib is a more appropriate option, and as a subsequent line for patients relapsed or refractory to venetoclax containing regimens within 36 months of prior treatment. The Committee noted that acalabrutinib is taken orally twice daily.</p><p><span style=\"color: black;\">1.9.</span><span style=\"color: black; font-size: 7pt;\">\u00a0</span>The Committee noted that it had previously considered another BTK inhibitor (ibrutinib) for the same population groups and recommended that ibrutinib be funded with a high priority for relapsed/refractory patients who progress during or relapse after venetoclax treatment (within 36 months) or who are intolerant to venetoclax, and with a medium priority for the wider population of previously untreated patients with 17p deletion/TP53 mutation and for relapsed/refractory patients with CLL for whom ibrutinib is a more appropriate option. The Committee also noted that it previously recommended ibrutinib for previously untreated CLL patients, for whom fludarabine-based chemoimmunotherapy is inappropriate, with or without immunoglobulin heavy chain (IGHV) mutation, be listed with a low priority. The Committee noted that at the time of consideration of ibrutinib, it considered that the highest area of unmet need was for those who were refractory or intolerant to venetoclax and reiterated this consideration.</p><p><span style=\"color: black;\">1.10.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that there are three pivotal trials relating to the use of acalabrutinib in the first and subsequent lines of treatment for 17p deletion/TP35 mutated CLL:</p><p class=\"ql-indent-1\">1.10.1.<span style=\"font-size: 7pt;\"> </span>ELEVATE-TN (<a href=\"https://pubmed.ncbi.nlm.nih.gov/32305093/\" target=\"_blank\">Sharman et al. Lancet. 2020. 395:1278-91</a>): a phase 3, randomised, open-label, three-arm, multicentre study of acalabrutinib monotherapy (until progression) versus acalabrutinib (until progression) with obinutuzumab (6 cycles) versus obinutuzumab with chlorambucil (6 cycles) for the treatment of previously untreated CLL patients 65 years or over (or younger with comorbidities). The Committee noted that the median PFS was not reached for acalabrutinib treatment arms versus 17.5 months for obinutuzumab with chlorambucil for patients with 17p deletion/TP53 mutation. The Committee noted that the addition of obinutuzumab to acalabrutinib treatment did not seem to impact the PFS for this group. The Committee noted that at a median follow-up of 46.9 months, overall survival was not significantly different between treatment groups (not reached in any treatment group) but noted that 39% of patients were able to cross over from the obinutuzumab with chlorambucil treatment arm to the acalabrutinib monotherapy arm.</p><p class=\"ql-indent-1\">1.10.2.<span style=\"font-size: 7pt;\"> </span>The Committee noted that the acalabrutinib monotherapy arm had a higher incidence of atrial fibrillation than the obinutuzumab containing regimens, as well as an increased rate of infection and secondary skin related malignancies.</p><p class=\"ql-indent-1\">1.10.3.<span style=\"font-size: 7pt;\"> </span>ELEVATE-RR (<a href=\"https://pubmed.ncbi.nlm.nih.gov/34310172/\" target=\"_blank\">Byrd et al. J Clin Ocol. 2021;39:3441-52</a>): a randomised, multicentre, open-label Phase III non-inferiority trial of acalabrutinib versus ibrutinib (until progression) in relapsed/refractory patients 17p deletion/TP53 mutation or 11q deletion.\u00a0The Committee noted that the majority of patients had received two prior lines of therapy, but than none appeared to have been treated with venetoclax. The Committee noted that at a median follow-up of 40.9 months, the PFS for both treatment arms was 38.4 months, and that overall survival was not reached in either treatment arm. The Committee also noted that there were no differences in PFS between subgroups.</p><p class=\"ql-indent-1\">1.10.4.<span style=\"font-size: 7pt;\"> </span>The Committee noted that ibrutinib carries a higher risk of cardiac toxicity than acalabrutinib (22.8% and 15.6% versus 8.6% and 9% for hypertension and atrial fibrillation for ibrutinib and acalabrutinib, respectively). The Committee noted that treatment discontinuation due to adverse events occurred in 21.3% of the ibrutinib group versus 14.7% of the acalabrutinib group.</p><p class=\"ql-indent-1\">1.10.5.<span style=\"font-size: 7pt;\"> </span>Ascend (<a href=\"https://ascopubs.org/doi/pdf/10.1200/JCO.19.03355\" target=\"_blank\">Ghia et al. J Clin Oncol. 2020;38:2849-61</a>): an ongoing phase 3, randomised, open-label study of acalabrutinib (until disease progression) versus bendamustine with rituximab (6 cycles) or idelalisib with rituximab (IdR; Id until progression and rituximab for 8 cycles) in patients with relapsed/refractory CLL. The Committee noted that no patients seemed to have received venetoclax as a prior line of therapy. The Committee noted that the 18 months PFS was 82% for acalabrutinib versus 48% for IdR/bendamustine with rituximab group. The Committee also noted that the median duration of response was not reached in the acalabrutinib arm, versus 18 months for the other agents.</p><p class=\"ql-indent-1\">1.10.6.<span style=\"font-size: 7pt;\"> </span>The Committee noted that patients with 17p deletion or TP53 mutation did significantly worse than those without the deletion/mutation when treated with comparator treatments. The Committee noted that this trend was not present for patients treated with acalabrutinib and that outcomes were irrespective of mutational status. The Committee noted that all subgroup analyses (age group, ECOG status, disease bulk, number of prior therapies) indicated favourable outcomes for acalabrutinib compared to other agents used in this study (age group, ECOG status, disease bulk, number of prior therapies).</p><p><span style=\"color: black;\">1.11.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that patients with reduced renal function (creatine clearance less than 80 mL/min) may require more intensive prophylaxis and monitoring to reduce the risk of tumour lysis syndrome (TLS) when initiating treatment with venetoclax, but that this is not a contraindication for venetoclax treatment. The Committee noted that there is limited information regarding appropriate dosing of venetoclax for those with severe renal impairment (creatine clearance less than 30 mL/min). The Committee noted that there is also limited information regarding the pharmacokinetics and safety of acalabrutinib in CLL patients with severe renal impairment (eGFR &lt;29 mL/min/1.73 m2) or end-stage renal disease. The Committee considered that patients with severe renal impairment, for which venetoclax is unsuitable, acalabrutinib would also not be considered suitable.</p><p><span style=\"color: black;\">1.12.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that patients with bulky disease are also considered to be at a higher risk of TLS upon initiation of venetoclax treatment and would require prophylaxis and monitoring at initiation of treatment, with hospital admission on day 1 and day 8 of treatment. The Committee noted that low-risk patients still require blood tests 6-8 hours and 24-hours post treatment on days one and eight. The Committee noted that there are some logistical difficulties for managing rural patients during this venetoclax dose titration stage, due to limited access to timely blood tests. The Committee considered that about 50% of patients would require the low-risk blood testing protocol during venetoclax dose titration. The Committee considered that a BTK inhibitor without the TLS risk associated with venetoclax and not requiring TLS prophylaxis would be more convenient, as patients would be able to start treatment at home, without the need for blood testing or hospital admission.\u00a0\u00a0</p><p><span style=\"color: black;\">1.13.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that for both treatment na\u00efve patients and patients with relapsed disease, venetoclax would be intolerable for approximately 20% of patients, and that a further 20% of patients would experience an inadequate response to venetoclax containing regimens upfront (<a href=\"https://pubmed.ncbi.nlm.nih.gov/27178240/\" target=\"_blank\">Stilgenbauer et al. Lancet Oncol. 2016;17:768-78</a>; <a href=\"https://pubmed.ncbi.nlm.nih.gov/29880613/\" target=\"_blank\">Mato et al. Haematologica. 2018;103:1151-17</a>).\u00a0\u00a0\u00a0</p><p><em>Considerations of class effect</em></p><p><span style=\"color: black;\">1.14.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that it was not aware of any evidence to support efficacy of acalabrutinib following treatment with venetoclax, as none of the patients with relapsed/refractory disease in the trials had received prior treatment with venetoclax containing regimens.</p><p><span style=\"color: black;\">1.15.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that the evidence indicated that acalabrutinb is an effective therapy and is as effective as ibrutinib for the patient populations requested in the application, including patients experiencing multiple relapses of disease. The Committee noted that the increased incidence of atrial fibrillation and secondary skin malignancies is a known risk across all BTK inhibitors and is slightly less for acalabrutinib compared to ibrutinib.</p><p><span style=\"color: black;\">1.16.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that based on the available evidence, there appears to be a class effect with BTK inhibitors and considered that either ibrutinib or acalabrutinib would effectively address the current unmet health need for these patient populations, regardless of small variation in toxicity profile between the agents.</p><p><span style=\"color: black;\">1.17.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that although there isn\u2019t evidence for treatment with acalabrutinib subsequent to venetoclax containing regimens, there is evidence to suggest that BTK inhibitor treatment is effective for CLL patients post-venetoclax. The Committee noted a retrospective review on the efficacy of BTK inhibitors following treatment with venetoclax in which the majority of patients were treated with ibrutinib (<a href=\"https://pubmed.ncbi.nlm.nih.gov/32244251/\" target=\"_blank\">Lin et al. Blood. 2020;135:2266-70</a>). The Committee also noted that the majority of patients had received more than four prior lines of therapy. The Committee noted that 91% of patients treated with a BTK inhibitor achieved an objective response, and that those who had achieved remission on venetoclax for greater than 24 months were more likely to achieve a response with the BTK inhibitor treatment.</p><p><span style=\"color: black;\">1.18.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee also noted an international study that identified a cohort of patients who discontinued venetoclax and were subsequently treated with a BTK inhibitor (acalabrutinib or ibrutinib), PI3K inhibitor, or cellular therapy (<a href=\"https://pubmed.ncbi.nlm.nih.gov/32198151/\" target=\"_blank\">Mato et al. Clin Cancer Res. 2020;26:3589-96</a>) The Committee noted that the most common reasons for discontinuation of venetoclax included progression of CLL and adverse events/toxicity. The Committee also noted that the estimated PFS to a post-venetoclax BTK inhibitor was 32 months.</p><p><span style=\"color: black;\">1.19.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that the evidence suggests that a BTK inhibitor can be used effectively following progression on venetoclax treatment but considered that the magnitude of benefit may differ depending on the duration of remission with venetoclax treatment. The Committee considered that any evidence relating to acalabrutinib efficacy post treatment with venetoclax is unlikely to be forthcoming as BTK inhibitors are already used widely internationally, usually before treatment with venetoclax. The Committee considered that although it is not aware of any direct evidence relating to the efficacy of acalabrutinib following treatment with a venetoclax containing regimen, given the class effect of these BTK inhibitors, it would be reasonable to assume similar efficacy in later lines of therapy between ibrutinib and acalabrutinib.</p><p><em>Remaining unmet need</em></p><p><span style=\"color: black;\">1.20.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that there remains an unmet need for those patients whose disease progresses after 36 months of previous treatment. The Committee noted that fit patients with good performance status without 17p deletion or TP53 mutation who are treated with FCR and relapse after three years or more following treatment have limited treatment options. The Committee noted that FCR is not usually considered for patients who have reduced performance status (eg. older than 70-75 years), meaning that few patients would be fit enough to be re-treated with FCR at relapse. Fit patients who relapse after treatment with bendamustine in combination with rituximab or after treatment with obinutuzumab in combination with chlorambucil also have limited further options. The Committee considered that retreatment with venetoclax/rituximab may be an option for those patients whose disease progresses after greater than 36 months of prior venetoclax treatment. The Committee considered that restricting access to acalabrutinib to only those patients whose disease had relapsed within 36 months would mean that those whose disease responded better to treatment with venetoclax with rituximab would be without effective treatment options in later lines of therapy.</p><p><em>Other considerations</em></p><p><span style=\"color: black;\">1.21.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that whilst the patient populations considered for acalabrutinib have unmet health needs, there is a broader need for a BTK inhibitor or expanded access to venetoclax treatment for CLL patients.</p><p><span style=\"color: black;\">1.22.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that whilst the oral administration of BTK inhibitors is a more practical option especially for those living rurally, treatment with acalabrutinib or ibrutinib is until progression, as opposed to a fixed duration of treatment with some venetoclax containing regimens. Therefore, the Committee considered that ongoing treatment with a BTK inhibitor would require continued adherence, frequent prescription pick-ups, and increased outpatient clinic visits compared with fixed duration therapy. The Committee also noted that acalabrutinb dosing is twice daily whilst ibrutinib dosing is once daily. The Committee considered it important to consider the ease of oral therapy as well as the duration of treatment. The Committee noted that there is also an increased risk of development of secondary malignancies for patients treated with BTK inhibitors, including non-melanoma skin cancers (<a href=\"https://pubmed.ncbi.nlm.nih.gov/32704159/\" target=\"_blank\">Bond et al. Leukemia. 2020;34:3197-205</a>).</p><p><span style=\"color: black;\">1.23.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that whilst M\u0101ori and Pacific patient populations generally have higher rates of cardiac and renal morbidity, this would not necessarily mean that treatment with venetoclax or ibrutinib would be unsuitable for them. The Committee considered that risks associated with moderate renal impairment, TLS risk and atrial fibrillation can be managed. The Committee considered that when selecting the appropriate treatment for individual patients, a number of factors are taken into consideration including but not limited to the patient\u2019s response to prior treatment, toxicities associated with treatments, patient preference and fitness.</p><p><span style=\"color: black;\">1.24.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that the patient population that would benefit the most from treatment with acalabrutinib, in order of unmet need and evidence of benefit, includes those who experience intolerable side effects with venetoclax, those whose disease is refractory to venetoclax, those whose disease progresses on venetoclax, those whose disease progresses on chemo immunotherapies, those who\u00a0live at a distance from a hospital, those with TLS risk, and first line patients without IGHV mutations. The Committee considered that these patient populations have limited options available currently or would be better treated with extended access to a BTK inhibitor.\u00a0</p><p><span style=\"color: black;\">1.25.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that the most appropriate average treatment duration for patients on venetoclax monotherapy or BTKi monotherapy could be in the order of years. The Committee considered that the efficacy of upfront treatment with acalabrutinib for patients with 17p deletion/TP53 mutation would likely be similar to that of venetoclax monotherapy in the absence of any head-to-head trial data to inform this. For patients with relapsed/refractory disease, the Committee noted that fixed duration of venetoclax containing regimens (2 years) would be replaced by continuous acalabrutinib treatment until progression which could mean BTK inhibitor treatment for longer than 5 years. The Committee noted that in the Resonate II trial for ibrutinib, 30% of patients were still receiving ibrutinib treatment at 5-6 years (<a href=\"https://www.nature.com/articles/s41375-019-0602-x\" target=\"_blank\">Burger et al. Leukaemia. 2020;34:787-798</a>).</p><p><span style=\"color: black;\">1.26.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that if acalabrutinib were to be funded, and the Special Authority criteria specified that patients must have experienced intolerable side effects with venetoclax, that this would include up to 20% of patients. The Committee also considered that if acalabrutinib was funded for those patients where venetoclax treatment was considered unsuitable, then a significantly higher number of patients would access acalabrutinib due to clinician preference for BTK inhibitors resulting from ease of treatment initiation. The Committee considered that this would include at least 50% of patients.</p><p><span style=\"color: black;\">1.27.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that should a BTK inhibitor not be funded in a subsequent line to venetoclax and be only accessible for those patients where venetoclax is considered unsuitable, it would be appropriate to limit access to venetoclax post treatment with a BTK inhibitor for those patients where venetoclax had been considered unsuitable previously.</p><p><span style=\"color: black;\">1.28.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that if acalabrutinib were funded in a subsequent line to venetoclax containing regimens, that those with 17p deletion/TP53 mutation whose disease progressed while receiving treatment with venetoclax would all be progressed directly to acalabrutinib treatment without delay. The Committee considered that patients who complete the full two-year treatment with venetoclax and subsequently experience relapse within 36 months (about 50% of patients with relapsed/refractory disease) would also all move to acalabrutinib treatment.</p><p><span style=\"color: black;\">1.29.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span><span style=\"color: black;\">The Advisory Committee considered that the table below summarises its interpretation of the most appropriate PICO (population, intervention, comparator, outcomes) information for acalabrutinib if it were to be funded in New Zealand as an alternative to or subsequent to venetoclax containing regimens. This PICO captures key clinical aspects of the proposal and may be used to frame any future economic </span>assessment<span style=\"color: black;\"> by Pharmac staff. This PICO is based on the Advisory Committee\u2019s assessment at this time and may differ from that requested by the applicant. The PICO may change based on new information, additional clinical advice, or further analysis by Pharmac staff.\u00a0\u00a0</span></p><p><span style=\"color: black;\">\ufeff</span><img src=\"/apptracker/servlet/rtaImage?eid=a0POZ00000CBbyF&amp;feoid=00N2P000000YsIc&amp;refid=0EM2P000002jRHf\" alt=\"image.png\"></img></p>",
+          "change": null
+        },
+        "Published_Application": {
+          "s": "<p><span style=\"color: black;\">1.1.</span><span style=\"color: black; font-size: 7pt;\">\u00a0</span>The Advisory Committee reviewed the application acalabrutinib for the treatment of previously untreated CLL with 17p deletion or TP53 mutation who are ineligible for venetoclax, and relapsed or refractory CLL who are ineligible for venetoclax with rituximab. </p><p><span style=\"color: black;\">1.2.</span><span style=\"color: black; font-size: 7pt;\">\u00a0</span>The Advisory Committee took into account, where applicable, Pharmac\u2019s relevant decision-making framework when considering this agenda item.\u00a0</p>",
+          "fs": "<p><span style=\"color: black;\">1.1.</span><span style=\"color: black; font-size: 7pt;\">\u00a0</span>The Advisory Committee reviewed the application acalabrutinib for the treatment of previously untreated CLL with 17p deletion or TP53 mutation who are ineligible for venetoclax, and relapsed or refractory CLL who are ineligible for venetoclax with rituximab. </p><p><span style=\"color: black;\">1.2.</span><span style=\"color: black; font-size: 7pt;\">\u00a0</span>The Advisory Committee took into account, where applicable, Pharmac\u2019s relevant decision-making framework when considering this agenda item.\u00a0</p>",
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": "High",
+          "fs": "High",
+          "change": null
+        },
+        "Links": {
+          "s": "<p><a href=\"https://pharmac.govt.nz/assets/2022-04-08-Cancer-Treatments-AC-Record.pdf\" target=\"_blank\">2022-04-08-Cancer-Treatments-AC-Record.pdf (pharmac.govt.nz)</a></p>",
+          "fs": "<p><a href=\"https://pharmac.govt.nz/assets/2022-04-08-Cancer-Treatments-AC-Record.pdf\" target=\"_blank\">2022-04-08-Cancer-Treatments-AC-Record.pdf (pharmac.govt.nz)</a></p>",
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Aug 2022",
+          "fs": "Aug 2022",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Clinical advice received from Cancer Treatments Advisory Committee at meeting Friday 8 April 2022.",
+          "fs": "Clinical advice received from Cancer Treatments Advisory Committee at meeting Friday 8 April 2022.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000CBbyF2AT"
+          },
+          "Id": "a0POZ00000CBbyF2AT",
+          "Event_Date__c": "2022-08-05",
+          "Event_Description__c": "Clinical advice received from Cancer Treatments Advisory Committee at meeting Friday 8 April 2022.",
+          "Stage__c": "Seeking Clinical Advice",
+          "Links__c": "<p><a href=\"https://pharmac.govt.nz/assets/2022-04-08-Cancer-Treatments-AC-Record.pdf\" target=\"_blank\">2022-04-08-Cancer-Treatments-AC-Record.pdf (pharmac.govt.nz)</a></p>",
+          "Outcome__c": "High",
+          "Formatted_Date__c": "Aug 2022",
+          "Published_Recommendation__c": "<p><span style=\"color: black;\">1.1.</span><span style=\"color: black; font-size: 7pt;\">\u00a0</span>The Advisory Committee <strong>recommended</strong> that acalabrutinib as an alternative option to venetoclax regimens in previously untreated CLL patients, for whom acalabrutinib is a more appropriate option due to intolerable side effects with venetoclax be listed with a <strong>high priority</strong> within the context of treatment of malignancy subject to the following Special Authority criteria:</p><p><br></p><p class=\"ql-indent-1\"><span style=\"font-size: 11px;\">ACALABRUTINIB</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 11px;\">Initial application (previously untreated chronic lymphocytic leukaemia (CLL) with 17p deletion or TP53 mutation) - only from a relevant specialist or medical practitioner on the recommendation of a relevant specialist. Approvals valid for 6 months for applications meeting the following criteria:</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 11px;\">All of the following:</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 11px;\">1.</span><span style=\"font-size: 11px;\">\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 11px;\">Patient has CLL requiring therapy; and</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 11px;\">2.</span><span style=\"font-size: 11px;\">\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 11px;\">There is documentation confirming that patient has 17p deletion or TP53 mutation; and</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 11px;\">3.</span><span style=\"font-size: 11px;\">\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 11px;\">Patient has an ECOG performance status of 0-2; and</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 11px;\">4.</span><span style=\"font-size: 11px;\">\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 11px;\">Patient had experienced intolerable side effects with previously funded venetoclax monotherapy. </span></p><p class=\"ql-indent-1\"><span style=\"font-size: 11px;\">\u00a0</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 11px;\">Renewal application (previously untreated chronic lymphocytic leukaemia with 17p deletion or TP53 mutation*) - only from a relevant specialist or medical practitioner on the recommendation of a relevant specialist. Approvals valid for 6 months for applications meeting the following criteria:</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 11px;\">1.</span><span style=\"font-size: 11px;\">\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 11px;\">No evidence of clinical disease progression; and</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 11px;\">2.</span><span style=\"font-size: 11px;\">\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 11px;\">The treatment remains appropriate and the patient is benefiting from treatment.</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 11px;\">\u00a0</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 11px;\">ACALABRUTINIB</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 11px;\">Initial application (relapsed/refractory chronic lymphocytic leukaemia (CLL)) - only from a relevant specialist or medical practitioner on the recommendation of a relevant specialist. Approvals valid for 6 months for applications meeting the following criteria:</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 11px;\">All of the following:</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 11px;\">1.</span><span style=\"font-size: 11px;\">\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 11px;\">Patient has received at least one prior immunochemotherapy for CLL; and</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 11px;\">2.</span><span style=\"font-size: 11px;\">\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 11px;\">Patient has not previously received funded acalabrutinib; and</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 11px;\">3.</span><span style=\"font-size: 11px;\">\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 11px;\">The patient\u2019s disease has relapsed within 36 months of previous treatment; and</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 11px;\">4.</span><span style=\"font-size: 11px;\">\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 11px;\">Patient had experienced intolerable side effects with previously funded venetoclax in combination with rituximab regimen. </span></p><p class=\"ql-indent-1\"><span style=\"font-size: 11px;\">\u00a0</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 11px;\">Renewal application (relapsed/refractory CLL) - only from a relevant specialist or medical practitioner on the recommendation of a relevant specialist. Approvals valid for 6 months for applications meeting the following criteria:</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 11px;\">1.</span><span style=\"font-size: 11px;\">\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 11px;\">No evidence of clinical disease progression; and</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 11px;\">2.</span><span style=\"font-size: 11px;\">\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 11px;\">The treatment remains appropriate and the patient is benefiting from treatment.</span></p><p><span style=\"font-size: 9pt;\">\u00a0</span></p><p><span style=\"color: black;\">1.2.</span><span style=\"color: black; font-size: 7pt;\">\u00a0</span>The Advisory Committee <strong>recommended </strong>that acalabrutinib as a subsequent line of therapy to venetoclax regimens in relapsed or refractory CLL patients who have relapsed within 36 months be listed with a <strong>medium </strong>priority, subject to the following Special Authority criteria: </p><p><br></p><p class=\"ql-indent-1\"><span style=\"font-size: 11px;\">ACALABRUTINIB</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 11px;\">Initial application (relapsed/refractory chronic lymphocytic leukaemia (CLL)) - only from a relevant specialist or medical practitioner on the recommendation of a relevant specialist. Approvals valid for 6 months for applications meeting the following criteria:</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 11px;\">All of the following:</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 11px;\">1.</span><span style=\"font-size: 11px;\">\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 11px;\">Patient has not previously received funded acalabrutinib; and</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 11px;\">2.</span><span style=\"font-size: 11px;\">\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 11px;\">Acalabrutinib is to be used as monotherapy; and</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 11px;\">3.</span><span style=\"font-size: 11px;\">\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 11px;\">Either</span></p><p class=\"ql-indent-2\"><span style=\"font-size: 11px;\">3.1.</span><span style=\"font-size: 11px;\">\u00a0\u00a0</span><span style=\"font-size: 11px;\">Patient\u2019s CLL is refractory while on treatment with a venetoclax containing regimen; or</span></p><p class=\"ql-indent-2\"><span style=\"font-size: 11px;\">3.2.</span><span style=\"font-size: 11px;\">\u00a0\u00a0</span><span style=\"font-size: 11px;\">Patient\u2019s CLL has relapsed within 36 months of previous treatment with a venetoclax containing regimen.</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 11px;\">\u00a0</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 11px;\">Renewal application (relapsed/refractory CLL) - only from a relevant specialist or medical practitioner on the recommendation of a relevant specialist. Approvals valid for 6 months for applications meeting the following criteria:</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 11px;\">1.</span><span style=\"font-size: 11px;\">\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 11px;\">No evidence of clinical disease progression; and</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 11px;\">2.</span><span style=\"font-size: 11px;\">\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 11px;\">The treatment remains appropriate and the patient is benefiting from treatment.</span></p><p><span style=\"font-size: 9pt;\">\u00a0</span></p><p><span style=\"color: black;\">1.3.</span><span style=\"color: black; font-size: 7pt;\">\u00a0</span>The Advisory Committee considered that those patients refractory to, or intolerant of venetoclax had the highest unmet health need and therefore the greatest priority for treatment with acalabrutinib.</p><p><span style=\"color: black;\">1.4.</span><span style=\"color: black; font-size: 7pt;\">\u00a0</span>The Committee considered there to be a class type effect for these Bruton\u2019s tyrosine kinase (BTK) inhibitors and that the same priority recommendations should be reflected for ibrutinib in the relevant patient populations.</p><p><span style=\"color: black;\">1.5.</span><span style=\"color: black; font-size: 7pt;\">\u00a0</span>The Committee considered there to be a broader need for access to BTK inhibitors across other patient groups of patients with CLL.</p>",
+          "Published_Application__c": "<p><span style=\"color: black;\">1.1.</span><span style=\"color: black; font-size: 7pt;\">\u00a0</span>The Advisory Committee reviewed the application acalabrutinib for the treatment of previously untreated CLL with 17p deletion or TP53 mutation who are ineligible for venetoclax, and relapsed or refractory CLL who are ineligible for venetoclax with rituximab. </p><p><span style=\"color: black;\">1.2.</span><span style=\"color: black; font-size: 7pt;\">\u00a0</span>The Advisory Committee took into account, where applicable, Pharmac\u2019s relevant decision-making framework when considering this agenda item.\u00a0</p>",
+          "Published_Discussion__c": "<p><span style=\"color: black;\">1.1.</span><span style=\"color: black; font-size: 7pt;\">\u00a0</span>The Committee noted that Chronic Lymphocytic Leukaemia (CLL) is a malignancy of B cells that predominantly affects the older population who often also have comorbidities and is characterised by the proliferation and accumulation of B lymphocytes in peripheral blood, bone marrow, and lymphoid organs. The Committee noted that the incidence of CLL in New Zealand is reported to be around 267 people per year (<a href=\"https://www.leukaemia.org.nz/information/about-blood-cancers/leukaemia/chronic-lymphocytic-leukaemia/\" target=\"_blank\">Leukaemia &amp; Blood Cancer New Zealand, 2015</a>).\u00a0</p><p><span style=\"color: black;\">1.2.</span><span style=\"color: black; font-size: 7pt;\">\u00a0</span>The Committee noted that there is no evidence of a higher incidence of CLL in M\u0101ori or Pacific patient populations.</p><p><em>Current treatment options</em></p><p><span style=\"color: black;\">1.3.</span><span style=\"color: black; font-size: 7pt;\">\u00a0</span>The Committee noted that current treatment options are largely dictated by patient fitness and 17p del and TP53 mutational status. The Committee considered that approximately 10% of CLL patients will have 17p deletion or TP53 mutation at diagnosis, and that nearly all of these patients would be offered venetoclax as first-line treatment. The Committee noted that the remaining 90% of patients would be treated with FCR (fludarabine, cyclophosphamide, rituximab), bendamustine with rituximab, or obinutuzumab with chlorambucil, depending on patient fitness.</p><p><span style=\"color: black;\">1.4.</span><span style=\"color: black; font-size: 7pt;\">\u00a0</span>The Committee noted that patients with a 17pdel/TP53 mutation who relapse following venetoclax monotherapy in the first line have limited options and considered this to be an area of unmet need. The Committee considered for patients without a 17pdel/TP53 mutation, approximately 40% of patients would be estimated to relapse within 36 months and nearly all would receive venetoclax in combination with rituximab, and that less than 20% of these patients would be retreated with FCR, and approximately 20% would have the option of obinutuzumab with chlorambucil.</p><p><span style=\"color: black;\">1.5.</span><span style=\"color: black; font-size: 7pt;\">\u00a0</span>The Committee noted that some patients may be able to progress to allogenic stem cell transplantation, though the Committee noted that few patients would be fit enough to be eligible for transplant.</p><p><span style=\"color: black;\">1.6.</span><span style=\"color: black; font-size: 7pt;\">\u00a0</span>The Committee considered that duration of response mainly depends on the intensity of the front-line regimen with FCR resulting in the longest progression free survival (PFS) (average 77 months versus 34 and 27 months for rituximab with bendamustine and obinutuzumab with chlorambucil, respectively).</p><p><span style=\"color: black;\">1.7.</span><span style=\"color: black; font-size: 7pt;\">\u00a0</span>The Committee noted that there is a large gap in treatment options when comparing options in New Zealand to CLL treatment overseas. The Committee noted that <a href=\"https://www.esmo.org/guidelines/haematological-malignancies/chronic-lymphocytic-leukaemia\" target=\"_blank\">ESMO guidelines</a> recommend BTK inhibitor or venetoclax containing regimens for all patients who are immunoglobulin heavy chain unmutated and that FCR was reserved for only those with an immunoglobulin heavy chain gene (IGHV) mutation and deemed fit for intensive chemotherapy. The Committee noted that treatment options in New Zealand are limited for both treatment na\u00efve patients, and those who have relapsed.</p><p><em>Acalabrutinib discussion</em></p><p><span style=\"color: black;\">1.8.</span><span style=\"color: black; font-size: 7pt;\">\u00a0</span>The Advisory Committee noted that acalabrutinb is a small-molecule inhibitor of BTK. The Committee noted that the submission for acalabrutinib requested funding for previously untreated CLL patients with 17p deletion or TP53 mutation for whom acalabrutinib is a more appropriate option, relapsed or refractory CLL patients for whom acalabrutinib is a more appropriate option, and as a subsequent line for patients relapsed or refractory to venetoclax containing regimens within 36 months of prior treatment. The Committee noted that acalabrutinib is taken orally twice daily.</p><p><span style=\"color: black;\">1.9.</span><span style=\"color: black; font-size: 7pt;\">\u00a0</span>The Committee noted that it had previously considered another BTK inhibitor (ibrutinib) for the same population groups and recommended that ibrutinib be funded with a high priority for relapsed/refractory patients who progress during or relapse after venetoclax treatment (within 36 months) or who are intolerant to venetoclax, and with a medium priority for the wider population of previously untreated patients with 17p deletion/TP53 mutation and for relapsed/refractory patients with CLL for whom ibrutinib is a more appropriate option. The Committee also noted that it previously recommended ibrutinib for previously untreated CLL patients, for whom fludarabine-based chemoimmunotherapy is inappropriate, with or without immunoglobulin heavy chain (IGHV) mutation, be listed with a low priority. The Committee noted that at the time of consideration of ibrutinib, it considered that the highest area of unmet need was for those who were refractory or intolerant to venetoclax and reiterated this consideration.</p><p><span style=\"color: black;\">1.10.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that there are three pivotal trials relating to the use of acalabrutinib in the first and subsequent lines of treatment for 17p deletion/TP35 mutated CLL:</p><p class=\"ql-indent-1\">1.10.1.<span style=\"font-size: 7pt;\"> </span>ELEVATE-TN (<a href=\"https://pubmed.ncbi.nlm.nih.gov/32305093/\" target=\"_blank\">Sharman et al. Lancet. 2020. 395:1278-91</a>): a phase 3, randomised, open-label, three-arm, multicentre study of acalabrutinib monotherapy (until progression) versus acalabrutinib (until progression) with obinutuzumab (6 cycles) versus obinutuzumab with chlorambucil (6 cycles) for the treatment of previously untreated CLL patients 65 years or over (or younger with comorbidities). The Committee noted that the median PFS was not reached for acalabrutinib treatment arms versus 17.5 months for obinutuzumab with chlorambucil for patients with 17p deletion/TP53 mutation. The Committee noted that the addition of obinutuzumab to acalabrutinib treatment did not seem to impact the PFS for this group. The Committee noted that at a median follow-up of 46.9 months, overall survival was not significantly different between treatment groups (not reached in any treatment group) but noted that 39% of patients were able to cross over from the obinutuzumab with chlorambucil treatment arm to the acalabrutinib monotherapy arm.</p><p class=\"ql-indent-1\">1.10.2.<span style=\"font-size: 7pt;\"> </span>The Committee noted that the acalabrutinib monotherapy arm had a higher incidence of atrial fibrillation than the obinutuzumab containing regimens, as well as an increased rate of infection and secondary skin related malignancies.</p><p class=\"ql-indent-1\">1.10.3.<span style=\"font-size: 7pt;\"> </span>ELEVATE-RR (<a href=\"https://pubmed.ncbi.nlm.nih.gov/34310172/\" target=\"_blank\">Byrd et al. J Clin Ocol. 2021;39:3441-52</a>): a randomised, multicentre, open-label Phase III non-inferiority trial of acalabrutinib versus ibrutinib (until progression) in relapsed/refractory patients 17p deletion/TP53 mutation or 11q deletion.\u00a0The Committee noted that the majority of patients had received two prior lines of therapy, but than none appeared to have been treated with venetoclax. The Committee noted that at a median follow-up of 40.9 months, the PFS for both treatment arms was 38.4 months, and that overall survival was not reached in either treatment arm. The Committee also noted that there were no differences in PFS between subgroups.</p><p class=\"ql-indent-1\">1.10.4.<span style=\"font-size: 7pt;\"> </span>The Committee noted that ibrutinib carries a higher risk of cardiac toxicity than acalabrutinib (22.8% and 15.6% versus 8.6% and 9% for hypertension and atrial fibrillation for ibrutinib and acalabrutinib, respectively). The Committee noted that treatment discontinuation due to adverse events occurred in 21.3% of the ibrutinib group versus 14.7% of the acalabrutinib group.</p><p class=\"ql-indent-1\">1.10.5.<span style=\"font-size: 7pt;\"> </span>Ascend (<a href=\"https://ascopubs.org/doi/pdf/10.1200/JCO.19.03355\" target=\"_blank\">Ghia et al. J Clin Oncol. 2020;38:2849-61</a>): an ongoing phase 3, randomised, open-label study of acalabrutinib (until disease progression) versus bendamustine with rituximab (6 cycles) or idelalisib with rituximab (IdR; Id until progression and rituximab for 8 cycles) in patients with relapsed/refractory CLL. The Committee noted that no patients seemed to have received venetoclax as a prior line of therapy. The Committee noted that the 18 months PFS was 82% for acalabrutinib versus 48% for IdR/bendamustine with rituximab group. The Committee also noted that the median duration of response was not reached in the acalabrutinib arm, versus 18 months for the other agents.</p><p class=\"ql-indent-1\">1.10.6.<span style=\"font-size: 7pt;\"> </span>The Committee noted that patients with 17p deletion or TP53 mutation did significantly worse than those without the deletion/mutation when treated with comparator treatments. The Committee noted that this trend was not present for patients treated with acalabrutinib and that outcomes were irrespective of mutational status. The Committee noted that all subgroup analyses (age group, ECOG status, disease bulk, number of prior therapies) indicated favourable outcomes for acalabrutinib compared to other agents used in this study (age group, ECOG status, disease bulk, number of prior therapies).</p><p><span style=\"color: black;\">1.11.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that patients with reduced renal function (creatine clearance less than 80 mL/min) may require more intensive prophylaxis and monitoring to reduce the risk of tumour lysis syndrome (TLS) when initiating treatment with venetoclax, but that this is not a contraindication for venetoclax treatment. The Committee noted that there is limited information regarding appropriate dosing of venetoclax for those with severe renal impairment (creatine clearance less than 30 mL/min). The Committee noted that there is also limited information regarding the pharmacokinetics and safety of acalabrutinib in CLL patients with severe renal impairment (eGFR &lt;29 mL/min/1.73 m2) or end-stage renal disease. The Committee considered that patients with severe renal impairment, for which venetoclax is unsuitable, acalabrutinib would also not be considered suitable.</p><p><span style=\"color: black;\">1.12.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that patients with bulky disease are also considered to be at a higher risk of TLS upon initiation of venetoclax treatment and would require prophylaxis and monitoring at initiation of treatment, with hospital admission on day 1 and day 8 of treatment. The Committee noted that low-risk patients still require blood tests 6-8 hours and 24-hours post treatment on days one and eight. The Committee noted that there are some logistical difficulties for managing rural patients during this venetoclax dose titration stage, due to limited access to timely blood tests. The Committee considered that about 50% of patients would require the low-risk blood testing protocol during venetoclax dose titration. The Committee considered that a BTK inhibitor without the TLS risk associated with venetoclax and not requiring TLS prophylaxis would be more convenient, as patients would be able to start treatment at home, without the need for blood testing or hospital admission.\u00a0\u00a0</p><p><span style=\"color: black;\">1.13.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that for both treatment na\u00efve patients and patients with relapsed disease, venetoclax would be intolerable for approximately 20% of patients, and that a further 20% of patients would experience an inadequate response to venetoclax containing regimens upfront (<a href=\"https://pubmed.ncbi.nlm.nih.gov/27178240/\" target=\"_blank\">Stilgenbauer et al. Lancet Oncol. 2016;17:768-78</a>; <a href=\"https://pubmed.ncbi.nlm.nih.gov/29880613/\" target=\"_blank\">Mato et al. Haematologica. 2018;103:1151-17</a>).\u00a0\u00a0\u00a0</p><p><em>Considerations of class effect</em></p><p><span style=\"color: black;\">1.14.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that it was not aware of any evidence to support efficacy of acalabrutinib following treatment with venetoclax, as none of the patients with relapsed/refractory disease in the trials had received prior treatment with venetoclax containing regimens.</p><p><span style=\"color: black;\">1.15.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that the evidence indicated that acalabrutinb is an effective therapy and is as effective as ibrutinib for the patient populations requested in the application, including patients experiencing multiple relapses of disease. The Committee noted that the increased incidence of atrial fibrillation and secondary skin malignancies is a known risk across all BTK inhibitors and is slightly less for acalabrutinib compared to ibrutinib.</p><p><span style=\"color: black;\">1.16.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that based on the available evidence, there appears to be a class effect with BTK inhibitors and considered that either ibrutinib or acalabrutinib would effectively address the current unmet health need for these patient populations, regardless of small variation in toxicity profile between the agents.</p><p><span style=\"color: black;\">1.17.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that although there isn\u2019t evidence for treatment with acalabrutinib subsequent to venetoclax containing regimens, there is evidence to suggest that BTK inhibitor treatment is effective for CLL patients post-venetoclax. The Committee noted a retrospective review on the efficacy of BTK inhibitors following treatment with venetoclax in which the majority of patients were treated with ibrutinib (<a href=\"https://pubmed.ncbi.nlm.nih.gov/32244251/\" target=\"_blank\">Lin et al. Blood. 2020;135:2266-70</a>). The Committee also noted that the majority of patients had received more than four prior lines of therapy. The Committee noted that 91% of patients treated with a BTK inhibitor achieved an objective response, and that those who had achieved remission on venetoclax for greater than 24 months were more likely to achieve a response with the BTK inhibitor treatment.</p><p><span style=\"color: black;\">1.18.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee also noted an international study that identified a cohort of patients who discontinued venetoclax and were subsequently treated with a BTK inhibitor (acalabrutinib or ibrutinib), PI3K inhibitor, or cellular therapy (<a href=\"https://pubmed.ncbi.nlm.nih.gov/32198151/\" target=\"_blank\">Mato et al. Clin Cancer Res. 2020;26:3589-96</a>) The Committee noted that the most common reasons for discontinuation of venetoclax included progression of CLL and adverse events/toxicity. The Committee also noted that the estimated PFS to a post-venetoclax BTK inhibitor was 32 months.</p><p><span style=\"color: black;\">1.19.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that the evidence suggests that a BTK inhibitor can be used effectively following progression on venetoclax treatment but considered that the magnitude of benefit may differ depending on the duration of remission with venetoclax treatment. The Committee considered that any evidence relating to acalabrutinib efficacy post treatment with venetoclax is unlikely to be forthcoming as BTK inhibitors are already used widely internationally, usually before treatment with venetoclax. The Committee considered that although it is not aware of any direct evidence relating to the efficacy of acalabrutinib following treatment with a venetoclax containing regimen, given the class effect of these BTK inhibitors, it would be reasonable to assume similar efficacy in later lines of therapy between ibrutinib and acalabrutinib.</p><p><em>Remaining unmet need</em></p><p><span style=\"color: black;\">1.20.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that there remains an unmet need for those patients whose disease progresses after 36 months of previous treatment. The Committee noted that fit patients with good performance status without 17p deletion or TP53 mutation who are treated with FCR and relapse after three years or more following treatment have limited treatment options. The Committee noted that FCR is not usually considered for patients who have reduced performance status (eg. older than 70-75 years), meaning that few patients would be fit enough to be re-treated with FCR at relapse. Fit patients who relapse after treatment with bendamustine in combination with rituximab or after treatment with obinutuzumab in combination with chlorambucil also have limited further options. The Committee considered that retreatment with venetoclax/rituximab may be an option for those patients whose disease progresses after greater than 36 months of prior venetoclax treatment. The Committee considered that restricting access to acalabrutinib to only those patients whose disease had relapsed within 36 months would mean that those whose disease responded better to treatment with venetoclax with rituximab would be without effective treatment options in later lines of therapy.</p><p><em>Other considerations</em></p><p><span style=\"color: black;\">1.21.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that whilst the patient populations considered for acalabrutinib have unmet health needs, there is a broader need for a BTK inhibitor or expanded access to venetoclax treatment for CLL patients.</p><p><span style=\"color: black;\">1.22.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that whilst the oral administration of BTK inhibitors is a more practical option especially for those living rurally, treatment with acalabrutinib or ibrutinib is until progression, as opposed to a fixed duration of treatment with some venetoclax containing regimens. Therefore, the Committee considered that ongoing treatment with a BTK inhibitor would require continued adherence, frequent prescription pick-ups, and increased outpatient clinic visits compared with fixed duration therapy. The Committee also noted that acalabrutinb dosing is twice daily whilst ibrutinib dosing is once daily. The Committee considered it important to consider the ease of oral therapy as well as the duration of treatment. The Committee noted that there is also an increased risk of development of secondary malignancies for patients treated with BTK inhibitors, including non-melanoma skin cancers (<a href=\"https://pubmed.ncbi.nlm.nih.gov/32704159/\" target=\"_blank\">Bond et al. Leukemia. 2020;34:3197-205</a>).</p><p><span style=\"color: black;\">1.23.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that whilst M\u0101ori and Pacific patient populations generally have higher rates of cardiac and renal morbidity, this would not necessarily mean that treatment with venetoclax or ibrutinib would be unsuitable for them. The Committee considered that risks associated with moderate renal impairment, TLS risk and atrial fibrillation can be managed. The Committee considered that when selecting the appropriate treatment for individual patients, a number of factors are taken into consideration including but not limited to the patient\u2019s response to prior treatment, toxicities associated with treatments, patient preference and fitness.</p><p><span style=\"color: black;\">1.24.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that the patient population that would benefit the most from treatment with acalabrutinib, in order of unmet need and evidence of benefit, includes those who experience intolerable side effects with venetoclax, those whose disease is refractory to venetoclax, those whose disease progresses on venetoclax, those whose disease progresses on chemo immunotherapies, those who\u00a0live at a distance from a hospital, those with TLS risk, and first line patients without IGHV mutations. The Committee considered that these patient populations have limited options available currently or would be better treated with extended access to a BTK inhibitor.\u00a0</p><p><span style=\"color: black;\">1.25.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that the most appropriate average treatment duration for patients on venetoclax monotherapy or BTKi monotherapy could be in the order of years. The Committee considered that the efficacy of upfront treatment with acalabrutinib for patients with 17p deletion/TP53 mutation would likely be similar to that of venetoclax monotherapy in the absence of any head-to-head trial data to inform this. For patients with relapsed/refractory disease, the Committee noted that fixed duration of venetoclax containing regimens (2 years) would be replaced by continuous acalabrutinib treatment until progression which could mean BTK inhibitor treatment for longer than 5 years. The Committee noted that in the Resonate II trial for ibrutinib, 30% of patients were still receiving ibrutinib treatment at 5-6 years (<a href=\"https://www.nature.com/articles/s41375-019-0602-x\" target=\"_blank\">Burger et al. Leukaemia. 2020;34:787-798</a>).</p><p><span style=\"color: black;\">1.26.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that if acalabrutinib were to be funded, and the Special Authority criteria specified that patients must have experienced intolerable side effects with venetoclax, that this would include up to 20% of patients. The Committee also considered that if acalabrutinib was funded for those patients where venetoclax treatment was considered unsuitable, then a significantly higher number of patients would access acalabrutinib due to clinician preference for BTK inhibitors resulting from ease of treatment initiation. The Committee considered that this would include at least 50% of patients.</p><p><span style=\"color: black;\">1.27.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that should a BTK inhibitor not be funded in a subsequent line to venetoclax and be only accessible for those patients where venetoclax is considered unsuitable, it would be appropriate to limit access to venetoclax post treatment with a BTK inhibitor for those patients where venetoclax had been considered unsuitable previously.</p><p><span style=\"color: black;\">1.28.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that if acalabrutinib were funded in a subsequent line to venetoclax containing regimens, that those with 17p deletion/TP53 mutation whose disease progressed while receiving treatment with venetoclax would all be progressed directly to acalabrutinib treatment without delay. The Committee considered that patients who complete the full two-year treatment with venetoclax and subsequently experience relapse within 36 months (about 50% of patients with relapsed/refractory disease) would also all move to acalabrutinib treatment.</p><p><span style=\"color: black;\">1.29.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span><span style=\"color: black;\">The Advisory Committee considered that the table below summarises its interpretation of the most appropriate PICO (population, intervention, comparator, outcomes) information for acalabrutinib if it were to be funded in New Zealand as an alternative to or subsequent to venetoclax containing regimens. This PICO captures key clinical aspects of the proposal and may be used to frame any future economic </span>assessment<span style=\"color: black;\"> by Pharmac staff. This PICO is based on the Advisory Committee\u2019s assessment at this time and may differ from that requested by the applicant. The PICO may change based on new information, additional clinical advice, or further analysis by Pharmac staff.\u00a0\u00a0</span></p><p><span style=\"color: black;\">\ufeff</span><img src=\"/apptracker/servlet/rtaImage?eid=a0POZ00000CBbyF&amp;feoid=00N2P000000YsIc&amp;refid=0EM2P000002jRHf\" alt=\"image.png\"></img></p>",
+          "Status_History__c": "a132P000000DxqxQAC"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Aug 2023",
+          "fs": "Aug 2023",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Clinical advice required",
+          "fs": "Clinical advice required",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000CBbyH2AT"
+          },
+          "Id": "a0POZ00000CBbyH2AT",
+          "Event_Date__c": "2023-08-01",
+          "Event_Description__c": "Clinical advice required",
+          "Stage__c": "Seeking Clinical Advice",
+          "Formatted_Date__c": "Aug 2023",
+          "Status_History__c": "a13OZ000004kDw1YAE"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Sep 2023",
+          "fs": "Sep 2023",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Assigned to Cancer Treatments Advisory Committee meeting to provide advice on Thursday 12 October 2023",
+          "fs": "Assigned to Cancer Treatments Advisory Committee meeting to provide advice on Thursday 12 October 2023",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000CBbyI2AT"
+          },
+          "Id": "a0POZ00000CBbyI2AT",
+          "Event_Date__c": "2023-09-21",
+          "Event_Description__c": "Assigned to Cancer Treatments Advisory Committee meeting to provide advice on Thursday 12 October 2023",
+          "Stage__c": "Seeking Clinical Advice",
+          "Formatted_Date__c": "Sep 2023",
+          "Status_History__c": "a13OZ000005f6ecYAA"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": "<p>The Advisory Committee made the following recommendations:</p><ul><li>The Advisory Committee recommended that alternative BTKis be listed for the treatment of TP53 intact CLL for those who progress or experience intolerable side effects with venetoclax+rituximab, only if cost neutral to ibrutinib, subject to special authority criteria.</li><li>The Advisory Committee recommended that any further BTKis be listed for the treatment of TP53 disrupted CLL for those who progress or experience intolerable side effects to venetoclax, only if cost-neutral to ibrutinib, subject to special authority criteria.</li></ul><p><br></p><p><a href=\"https://pharmac.govt.nz/assets/2023-10-12-Cancer-Treatments-Advisory-Committee-Record.pdf#page=50\" target=\"_blank\">Link to relevant discussion within the meeting record.</a></p>",
+          "fs": "<p>The Advisory Committee made the following recommendations:</p><ul><li>The Advisory Committee recommended that alternative BTKis be listed for the treatment of TP53 intact CLL for those who progress or experience intolerable side effects with venetoclax+rituximab, only if cost neutral to ibrutinib, subject to special authority criteria.</li><li>The Advisory Committee recommended that any further BTKis be listed for the treatment of TP53 disrupted CLL for those who progress or experience intolerable side effects to venetoclax, only if cost-neutral to ibrutinib, subject to special authority criteria.</li></ul><p><br></p><p><a href=\"https://pharmac.govt.nz/assets/2023-10-12-Cancer-Treatments-Advisory-Committee-Record.pdf#page=50\" target=\"_blank\">Link to relevant discussion within the meeting record.</a></p>",
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": "Cost Neutral",
+          "fs": "Cost Neutral",
+          "change": null
+        },
+        "Links": {
+          "s": "<p><a href=\"https://pharmac.govt.nz/assets/2023-10-12-Cancer-Treatments-Advisory-Committee-Record.pdf\" target=\"_blank\">Link to meeting record.</a></p>",
+          "fs": "<p><a href=\"https://pharmac.govt.nz/assets/2023-10-12-Cancer-Treatments-Advisory-Committee-Record.pdf\" target=\"_blank\">Link to meeting record.</a></p>",
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Mar 2024",
+          "fs": "Mar 2024",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Clinical advice received from Cancer Treatments Advisory Committee at meeting Thursday 12 October 2023.",
+          "fs": "Clinical advice received from Cancer Treatments Advisory Committee at meeting Thursday 12 October 2023.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000CBbyL2AT"
+          },
+          "Id": "a0POZ00000CBbyL2AT",
+          "Event_Date__c": "2024-03-28",
+          "Event_Description__c": "Clinical advice received from Cancer Treatments Advisory Committee at meeting Thursday 12 October 2023.",
+          "Stage__c": "Seeking Clinical Advice",
+          "Links__c": "<p><a href=\"https://pharmac.govt.nz/assets/2023-10-12-Cancer-Treatments-Advisory-Committee-Record.pdf\" target=\"_blank\">Link to meeting record.</a></p>",
+          "Outcome__c": "Cost Neutral",
+          "Formatted_Date__c": "Mar 2024",
+          "Published_Recommendation__c": "<p>The Advisory Committee made the following recommendations:</p><ul><li>The Advisory Committee recommended that alternative BTKis be listed for the treatment of TP53 intact CLL for those who progress or experience intolerable side effects with venetoclax+rituximab, only if cost neutral to ibrutinib, subject to special authority criteria.</li><li>The Advisory Committee recommended that any further BTKis be listed for the treatment of TP53 disrupted CLL for those who progress or experience intolerable side effects to venetoclax, only if cost-neutral to ibrutinib, subject to special authority criteria.</li></ul><p><br></p><p><a href=\"https://pharmac.govt.nz/assets/2023-10-12-Cancer-Treatments-Advisory-Committee-Record.pdf#page=50\" target=\"_blank\">Link to relevant discussion within the meeting record.</a></p>",
+          "Status_History__c": "a13OZ000008mnDOYAY"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Aug 2021",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Following Clinical Advice, Pharmac staff considers the advice and the funding application under goes an assessment using our&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/factors-for-consideration/\" rel=\"nofollow\">Factors for Consideration</a>&nbsp;framework and seeks additional information as required.</p>\r\n<p>&nbsp;</p>\r\n<p>Research and Economic analysis are undertaken.&nbsp; This focuses on the costs and benefits of a proposed course of action. Economics is based on three fundamental concepts that summarise the issues Pharmac faces daily:&nbsp;</p>\r\n<ul>\r\n<li>Scarcity &ndash; resources will always be insufficient to support all possible activities.</li>\r\n<li>Choices &ndash; due to scarce resources, decisions must be made about how best to use them.</li>\r\n<li>Opportunity cost &ndash; by choosing to use resources one way, we forgo other opportunities to use the same resources.</li>\r\n</ul>\r\n<p>&nbsp;</p>\r\n<p>For further information on the purpose of, and techniques for, undertaking economic analysis in health care, please refer&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/economic-analysis/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/economic-analysis/</a></p>",
+    "position": 2,
+    "name": "Under Assessment",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Feb 2023",
+          "fs": "Feb 2023",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Working to compare options",
+          "fs": "Working to compare options",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000CBbyG2AT"
+          },
+          "Id": "a0POZ00000CBbyG2AT",
+          "Event_Date__c": "2023-02-22",
+          "Event_Description__c": "Working to compare options",
+          "Stage__c": "Under Assessment",
+          "Formatted_Date__c": "Feb 2023",
+          "Status_History__c": "a132P000000EDQnQAO"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Jun 2024",
+          "fs": "Jun 2024",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Working to compare options",
+          "fs": "Working to compare options",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000CBbyM2AT"
+          },
+          "Id": "a0POZ00000CBbyM2AT",
+          "Event_Date__c": "2024-06-06",
+          "Event_Description__c": "Working to compare options",
+          "Stage__c": "Under Assessment",
+          "Formatted_Date__c": "Jun 2024",
+          "Status_History__c": "a13OZ00000ApPwIYAV"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Feb 2023",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Pharmac staff uses a prioritisation process to compare and rank funding options. Possible opportunities for new investment will always exceed the budget Pharmac has available; therefore, prioritisation is an intrinsic part of Pharmac\u2019s decision-making process.</p>\r\n<p>The relative ranking of options aims to support Pharmac&rsquo;s statutory objective &ldquo;to secure for eligible people in need of pharmaceuticals, the best health outcomes that are reasonably achievable from pharmaceutical treatment and from within the amount of funding provided&rdquo;.</p>\r\n<p>A funding application or proposal is considered ready for prioritisation when sufficient information is available to permit it to be reviewed against Pharmac's Factors for Consideration and to inform a comparison with other possible investment decisions.</p>\r\n<p>There is no guarantee when or if a ranked medicine will be funded.&nbsp;&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/prioritisation/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/prioritisation/</a></p>",
+    "position": 3,
+    "name": "Options Compared",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Dec 2023",
+          "fs": "Dec 2023",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "The relative ranking of the pharmaceutical application has been completed.",
+          "fs": "The relative ranking of the pharmaceutical application has been completed.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000CBbyJ2AT"
+          },
+          "Id": "a0POZ00000CBbyJ2AT",
+          "Event_Date__c": "2023-12-07",
+          "Event_Description__c": "The relative ranking of the pharmaceutical application has been completed.",
+          "Stage__c": "Options Compared",
+          "Formatted_Date__c": "Dec 2023",
+          "Status_History__c": "a13OZ000004JtLZYA0"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Jan 2024",
+          "fs": "Jan 2024",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "The relative ranking of the pharmaceutical application has been completed.",
+          "fs": "The relative ranking of the pharmaceutical application has been completed.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000CBbyK2AT"
+          },
+          "Id": "a0POZ00000CBbyK2AT",
+          "Event_Date__c": "2024-01-17",
+          "Event_Description__c": "The relative ranking of the pharmaceutical application has been completed.",
+          "Stage__c": "Options Compared",
+          "Formatted_Date__c": "Jan 2024",
+          "Status_History__c": "a13OZ000005kBYgYAM"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Sep 2024",
+          "fs": "Sep 2024",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "The relative ranking of the pharmaceutical application has been completed.",
+          "fs": "The relative ranking of the pharmaceutical application has been completed.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000CBbyN2AT"
+          },
+          "Id": "a0POZ00000CBbyN2AT",
+          "Event_Date__c": "2024-09-03",
+          "Event_Description__c": "The relative ranking of the pharmaceutical application has been completed.",
+          "Stage__c": "Options Compared",
+          "Formatted_Date__c": "Sep 2024",
+          "Status_History__c": "a13OZ00000Drv8kYAB"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Dec 2023",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Pharmac is consulting on a proposal to either approve or decline the application.&nbsp;We seek the views of all people who have an interest in our proposals, or who may be affected by them, to obtain feedback on our proposed approaches.</p>\r\n<p><a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/having-your-say/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/having-your-say/</a></p>",
+    "position": 4,
+    "name": "Under Consultation",
+    "last": false,
+    "events": null,
+    "dateString": null,
+    "collapsed": false,
+    "checked": false
+  },
+  {
+    "text": "<p>Following the consultation process, Pharmac staff considers the feedback and identifies any additional information required as part of a gap analysis.&nbsp; The proposal may require further clinical advice, research, and assessment.</p>",
+    "position": 5,
+    "name": "Reviewing Consultation Feedback",
+    "last": false,
+    "events": null,
+    "dateString": null,
+    "collapsed": false,
+    "checked": false
+  },
+  {
+    "text": "<p>We refer to our decisions about whether and how particular pharmaceuticals are publicly-funded, as &ldquo;funding decisions&rdquo;.</p>\r\n<p>We consider and assess all funding decisions using the&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/about/operating-policies-and-procedures/#factorsfc\" rel=\"nofollow\">Factors for Consideration</a>. When we do so, we carefully evaluate clinical and other evidence for the benefits and suitability of a proposal, and to identify and understand the people who will be affected by it.</p>\r\n<p>While our main task is to allocate pharmaceutical funding, we consider the benefits and costs across the whole health system now and with a long-term focus, including the effects for hospitals and primary care, and consider direct costs to patients as well as to all health sector budgets.</p>\r\n<p>Final funding decisions are made by the Pharmac Board or delegated to senior Pharmac staff as required by the Board.</p>\r\n<p>&nbsp;</p>",
+    "position": 6,
+    "name": "Decision",
+    "last": true,
+    "events": null,
+    "dateString": null,
+    "collapsed": false,
+    "checked": false
+  }
+]

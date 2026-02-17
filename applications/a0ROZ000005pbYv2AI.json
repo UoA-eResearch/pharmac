@@ -1,0 +1,628 @@
+[
+  {
+    "text": "<p>New funding applications are referred to one of Pharmac's Funding Application Advisors (FAAs), who'll review the application to ensure they have the relevant information to undertake a preliminary analysis.&nbsp; They may seek more information if required.</p>\r\n<p><a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/new-funding-applications/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/new-funding-applications/</a></p>",
+    "position": 0,
+    "name": "Application Received",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": "<p>Supplier application received in May 2021 from Takeda.</p>",
+          "fs": "<p>Supplier application received in May 2021 from Takeda.</p>",
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "May 2021",
+          "fs": "May 2021",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Application received",
+          "fs": "Application received",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000EutPx2AJ"
+          },
+          "Id": "a0POZ00000EutPx2AJ",
+          "Event_Date__c": "2021-05-21",
+          "Event_Description__c": "Application received",
+          "Stage__c": "Application Received",
+          "Summary__c": "<p>Supplier application received in May 2021 from Takeda.</p>",
+          "Formatted_Date__c": "May 2021",
+          "Status_History__c": "a132P000000CsC6QAK"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "May 2021",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Pharmac is identifying and gathering information required to get clinical advice.  The <a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/pharmacology-and-therapeutics-advisory-committee-ptac/\" rel=\"nofollow\">Pharmacology and Therapeutics Advisory Committee (PTAC)</a>  meets quarterly. There are also around 20 expert <a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/specialist-advisory-committees/\" rel=\"nofollow\">Specialist Advisory Committees (SACs)</a>, previously expert Subcommittees, which provide clinical evaluations in specialist areas. Specialist Advisory Committees meet as required to discuss issues referred to them by PTAC or Pharmac.</p>\n<p style=\"height: 20px\">&nbsp;</p>\n<p>In November 2021, we introduced separate terms of reference for the SACs to make clear that these committees have different, but complementary, roles, expertise and perspectives to PTAC.</p>\n<p style=\"height: 15px\">&nbsp;</p>\n<p>PTAC and SACs may make recommendations to Pharmac that differ from each other when looking at the same evidence. Pharmac considers the recommendations provided by all our clinical advisory committees when assessing applications.</p>\n<p style=\"height: 20px\">&nbsp;</p>\n<p><a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/pharmacology-and-therapeutics-advisory-committee-ptac/ptac-terms-of-reference-july-2021/\" rel=\"nofollow\">PTAC</a>  and <a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/specialist-advisory-committees/specialist-advisory-committee-terms-of-reference//\" rel=\"nofollow\">Specialist Advisory Committees</a> records of the meeting will be published on this website in accordance with the Terms of Reference.</p>",
+    "position": 1,
+    "name": "Seeking Clinical Advice",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "May 2021",
+          "fs": "May 2021",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Clinical advice required",
+          "fs": "Clinical advice required",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000EutPy2AJ"
+          },
+          "Id": "a0POZ00000EutPy2AJ",
+          "Event_Date__c": "2021-05-25",
+          "Event_Description__c": "Clinical advice required",
+          "Stage__c": "Seeking Clinical Advice",
+          "Formatted_Date__c": "May 2021",
+          "Status_History__c": "a132P000000CsCaQAK"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Jul 2021",
+          "fs": "Jul 2021",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Assigned to Mental Health Subcommittee meeting to provide advice on Friday 10 September 2021",
+          "fs": "Assigned to Mental Health Subcommittee meeting to provide advice on Friday 10 September 2021",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000EutPz2AJ"
+          },
+          "Id": "a0POZ00000EutPz2AJ",
+          "Event_Date__c": "2021-07-30",
+          "Event_Description__c": "Assigned to Mental Health Subcommittee meeting to provide advice on Friday 10 September 2021",
+          "Stage__c": "Seeking Clinical Advice",
+          "Formatted_Date__c": "Jul 2021",
+          "Status_History__c": "a132P000000D3K5QAK"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": "<p>The Subcommittee recommended that lisdexamfetamine for ADHD be funded in the context of treatments in mental health only if cost neutral to the Concerta brand of methylphenidate extended-release, subject to the following Special Authority criteria: </p><p><br></p><p>LISDEXAMFETAMINE </p><p>Initial application only from a paediatrician, psychiatrist, medical practitioner on the recommendation of a paediatrician or psychiatrist (in writing) or nurse practitioner on the recommendation of a paediatrician or psychiatrist (in writing). Approvals valid for 24 months. All of the following: </p><p>1. ADHD (Attention Deficit and Hyperactivity Disorder); and </p><p>2. Diagnosed according to DSM-V or ICD 11 criteria; and </p><p>3. Any one of the following: </p><p class=\"ql-indent-1\">3.1. Patient is taking a currently subsidised formulation of atomoxetine or methylphenidate hydrochloride (extended-release) which has not been effective or not tolerated; or </p><p class=\"ql-indent-1\">3.2. Patient is taking a currently subsidised formulation of dexamfetamine sulfate (immediate-release) which has not been effective due to significant administration and/or compliance difficulties; or </p><p class=\"ql-indent-1\">3.3. There is significant concern regarding the risk of diversion or abuse of immediate release dexamfetamine sulfate; and</p><p>4. Lisdexamfetamine not to be used in combination with another stimulant or atomoxetine.</p><p><br></p><p>Renewal only from a paediatrician, psychiatrist, medical practitioner on the recommendation of a paediatrician or psychiatrist (in writing) or nurse practitioner on the recommendation of a paediatrician or psychiatrist (in writing). Approvals valid for 24 months.</p><p><br></p><p>Both: </p><p>1. The treatment remains appropriate and the patient is benefiting from treatment; and </p><p>2. Either:</p><p class=\"ql-indent-1\">2.1. Applicant is a paediatrician or psychiatrist; or </p><p class=\"ql-indent-1\">2.2. Applicant is a medical practitioner or nurse practitioner and confirms that a paediatrician or psychiatrist has been consulted within the last 2 years and has recommended treatment for the patient in writing  </p><p><br></p><p>In making this recommendation, the Subcommittee considered: </p><p><br></p><p>\u2022 the health needs of children, adolescents and adults with ADHD, their families/wh\u0101nau and wider society </p><p><br></p><p>\u2022 that the evidence was for short-term outcomes with lisdexamfetamine, rather than long-term clinical benefits </p><p><br></p><p>\u2022 evidence of benefit, with similar efficacy to methylphenidate \u2022 the importance of holistic treatment of ADHD including nonpharmaceutical interventions and the risk that funding another stimulant may increase the overall pool of stimulant use and contribute to diversion in New Zealand.</p>",
+          "fs": "<p>The Subcommittee recommended that lisdexamfetamine for ADHD be funded in the context of treatments in mental health only if cost neutral to the Concerta brand of methylphenidate extended-release, subject to the following Special Authority criteria: </p><p><br></p><p>LISDEXAMFETAMINE </p><p>Initial application only from a paediatrician, psychiatrist, medical practitioner on the recommendation of a paediatrician or psychiatrist (in writing) or nurse practitioner on the recommendation of a paediatrician or psychiatrist (in writing). Approvals valid for 24 months. All of the following: </p><p>1. ADHD (Attention Deficit and Hyperactivity Disorder); and </p><p>2. Diagnosed according to DSM-V or ICD 11 criteria; and </p><p>3. Any one of the following: </p><p class=\"ql-indent-1\">3.1. Patient is taking a currently subsidised formulation of atomoxetine or methylphenidate hydrochloride (extended-release) which has not been effective or not tolerated; or </p><p class=\"ql-indent-1\">3.2. Patient is taking a currently subsidised formulation of dexamfetamine sulfate (immediate-release) which has not been effective due to significant administration and/or compliance difficulties; or </p><p class=\"ql-indent-1\">3.3. There is significant concern regarding the risk of diversion or abuse of immediate release dexamfetamine sulfate; and</p><p>4. Lisdexamfetamine not to be used in combination with another stimulant or atomoxetine.</p><p><br></p><p>Renewal only from a paediatrician, psychiatrist, medical practitioner on the recommendation of a paediatrician or psychiatrist (in writing) or nurse practitioner on the recommendation of a paediatrician or psychiatrist (in writing). Approvals valid for 24 months.</p><p><br></p><p>Both: </p><p>1. The treatment remains appropriate and the patient is benefiting from treatment; and </p><p>2. Either:</p><p class=\"ql-indent-1\">2.1. Applicant is a paediatrician or psychiatrist; or </p><p class=\"ql-indent-1\">2.2. Applicant is a medical practitioner or nurse practitioner and confirms that a paediatrician or psychiatrist has been consulted within the last 2 years and has recommended treatment for the patient in writing  </p><p><br></p><p>In making this recommendation, the Subcommittee considered: </p><p><br></p><p>\u2022 the health needs of children, adolescents and adults with ADHD, their families/wh\u0101nau and wider society </p><p><br></p><p>\u2022 that the evidence was for short-term outcomes with lisdexamfetamine, rather than long-term clinical benefits </p><p><br></p><p>\u2022 evidence of benefit, with similar efficacy to methylphenidate \u2022 the importance of holistic treatment of ADHD including nonpharmaceutical interventions and the risk that funding another stimulant may increase the overall pool of stimulant use and contribute to diversion in New Zealand.</p>",
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": "<p>The Subcommittee noted that ADHD is one of the most common neuro-behavioural disorders occurring in children and adolescents with prevalence of 2.2% in New Zealand, greater prevalence in M\u0101ori of 3%, and affecting more boys than girls (<a href=\"https://www.health.govt.nz/publication/annual-update-key-results-2018-19-new-zealand-health-survey\" target=\"_blank\">New Zealand Health Survey 2018/19</a>). The Subcommittee noted that ADHD is associated with lower socioeconomic status and that it affects an individual\u2019s schooling, employment and earning potential. The Subcommittee noted that ADHD is associated with an increased mortality rate and significant comorbidity eg increased risk of car accidents, anxiety/mood disorders, other neurodevelopmental disorders, obesity, substance use disorders, smoking and eating disorders. The Subcommittee noted that ADHD affects an individual\u2019s interpersonal relationships and parent or caregiver emotional health.\u00a0</p><p><br></p><p>The Subcommittee noted that ADHD is complex and that the differential diagnosis can include complicated life experiences and trauma, which may also coexist with 15 ADHD. The Subcommittee considered that holistic treatment of ADHD including adjunctive non-pharmaceutical interventions (eg working with children at home and in educational settings) was important, although recognised the usefulness of pharmaceutical treatment especially for young children and where nonpharmaceutical behavioural interventions are not accessible. The Subcommittee considered that there was a risk of overdiagnosis and overtreatment especially where non-pharmaceutical interventions or approaches are inaccessible. The Subcommittee considered that it was important to safely diagnose and treat people with ADHD (particularly in primary care) by using, for example, thorough diagnostic assessments, alcohol and drug screening, non-pharmaceutical interventions, and appropriate attention to other individual factors.\u00a0</p><p><br></p><p>The Subcommittee noted that two stimulants are available in New Zealand for the treatment of ADHD subject to Special Authority criteria: dexamfetamine, which is short-acting and requires multiple daily dosing, and methylphenidate, which is funded in various forms including immediate-release and long-acting formulations. The Subcommittee noted that atomoxetine is the only open-listed treatment for ADHD and does not require prescription by a specialist. The Subcommittee noted that other treatments may be used to treat features of ADHD such as clonidine for young children with concomitant tic disorder, and bupropion, although these are not usually used as first-line treatments.</p><p><br></p><p>The Subcommittee noted that the supplier\u2019s treatment paradigm focused on the main pharmaceutical treatments for ADHD, however, the Subcommittee considered that non-pharmaceutical interventions were an important part of the treatment approach and appeared to be missing. The Subcommittee considered that a stimulant, generally methylphenidate, would be used as the first-line pharmacological treatment prior to atomoxetine for children and adolescents; while amphetamines may be used as first-line treatment in adults. The Subcommittee considered that the chosen sequence of treatments was dependent on the treatment\u2019s magnitude of benefit and other factors including risk of diversion, parental concerns about stimulants, the individual\u2019s ability to take pills, and the pharmaceutical\u2019s side effect profile especially for children with low weight or growth issues, comorbid tic disorder etc. The Subcommittee considered that about 70% of people with ADHD will respond to a first-line pharmaceutical and that those who switch may respond to a subsequent pharmaceutical treatment, with about 91% responding overall (<a href=\"https://pubmed.ncbi.nlm.nih.gov/22763750/\" target=\"_blank\">Hodgkins et al. Eur Child Adolesc Psychiatry. 2012;21:477\u2013 92</a>).\u00a0</p><p><br></p><p>The Subcommittee noted that long-acting formulations are useful for older children, providing effect late in the day into the evening. The Committee considered that the lack of a funded long-acting dexamfetamine formulation may contribute to the preference for methylphenidate, although acknowledged that extended-release methylphenidate is currently restricted to where there are significant administration and/or compliance difficulties, or significant concern regarding the risk of diversion or abuse of immediate-release methylphenidate hydrochloride. However, the Subcommittee noted that the relative unavailability of specialists who can prescribe and issue Special Authority applications for stimulants can limit the ability to prescribe stimulants in primary care and members noted that many young adults are commencing treatment with atomoxetine instead of methylphenidate due to these challenges accessing specialist prescribers.\u00a0</p><p><br></p><p>The Subcommittee considered that the risk of diversion (ie transfer of a controlled substance from the individual it was prescribed for to another for illicit use) with stimulants was significant, particularly given the imprecise diagnosis of ADHD. The 16 Subcommittee considered that compared with short-acting treatments, long-acting treatments may reduce the risk of diversion. The Committee also considered that the use of non-stimulant treatments and non-pharmaceutical interventions would help further, but that these approaches wouldn\u2019t eliminate diversion in this setting.\u00a0</p><p><br></p><p>The Subcommittee noted that lisdexamfetamine is a long-acting pharmacologically inactive prodrug of dexamphetamine, which is a central nervous system stimulant, and that it is converted into its active form over a period of about 12 hours. The Subcommittee noted that lisdexamfetamine is classified as a Controlled Drug Class B1. The Subcommittee noted that Medsafe approved lisdexamfetamine for the treatment of ADHD in adults, adolescents, and children aged six years and older, and that lisdexamfetamine is available as a 30 mg, 50 mg, or 70 mg capsule taken orally once daily, titrated up to a maximum dose of 70 mg per day.\u00a0</p><p><br></p><p>The Subcommittee noted that the supplier provided a substantial amount of evidence for the use of lisdexamfetamine in children, adolescents and adults with ADHD, consisting of randomised controlled trials, systematic reviews and meta-analyses, and cohort studies.\u00a0</p><p><br></p><p>The Subcommittee noted the following evidence for lisdexamfetamine compared with atomoxetine for the treatment of ADHD in children and adolescents:</p><p>\u2022 <a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23959815/\" target=\"_blank\">Dittmann et al. CNS Drugs. 2013;27:1081-92</a></p><p>\u2022 <a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25038977/\" target=\"_blank\">Dittmann et al. CNS Drugs. 2014;28:1059-69</a></p><p>\u2022 <a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25999292/\" target=\"_blank\">Nagy et al. Eur Child Adolesc Psychiatry. 2016;25:141-9</a></p><p><br></p><p>The Subcommittee noted the following for lisdexamfetamine compared with methylphenidate for the treatment of ADHD in children and adolescents:</p><p>\u2022 <a href=\"https://linkinghub.elsevier.com/retrieve/pii/S0924-977X(12)00324-0\" target=\"_blank\">Coghill et al. Eur Neuropsychopharmacol. 2013;23:1208-18</a></p><p>\u2022 <a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28980198/\" target=\"_blank\">Newcorn et al. CNS Drugs. 2017;31:999-1014</a></p><p><br></p><p>The Subcommittee noted evidence for lisdexamfetamine compared with mixed amphetamine salts in adults with ADHD:</p><p>\u2022 <a href=\"https://www.tandfonline.com/doi/full/10.3810/pgm.2014.09.2796\" target=\"_blank\">Adler et al. Postgrad Med. 2014;126:17-24</a></p><p>\u2022 <a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3899471/\" target=\"_blank\">Martin et al. Clin Drug Investig. 2014; 34: 147\u2013157</a></p><p><br></p><p>The Subcommittee noted the following long-term (duration of 52 weeks or more) follow-up cohort studies including children, adolescents and adults with ADHD who received lisdexamfetamine:</p><p>\u2022 <a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28667569/\" target=\"_blank\">Coghill et al. CNS Drugs. 2017;31:625-38</a></p><p>\u2022 <a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4818045/\" target=\"_blank\">Joseph et al. Patient Prefer Adherence. 2016; 10: 391\u2013405</a></p><p>\u2022 <a href=\"https://www.liebertpub.com/doi/10.1089/cap.2011.0088?url_ver=Z39.88-2003&amp;rfr_id=ori:rid:crossref.org&amp;rfr_dat=cr_pub%2520%25200pubmed\" target=\"_blank\">Findling et al. J Child Adolesc Psychopharmacol. 2013;23:11-21</a></p><p>\u2022 <a href=\"https://www.tandfonline.com/doi/full/10.3111/13696998.2013.832258\" target=\"_blank\">Setyawan et al. J Med Econ. 2013;16:1203-15</a></p><p>\u2022 <a href=\"https://www.tandfonline.com/doi/full/10.3111/13696998.2013.839947\" target=\"_blank\">Setyawan et al. J Med Econ. 2013;16:1275-89</a></p><p>\u2022 <a href=\"https://pubmed.ncbi.nlm.nih.gov/20095369/\" target=\"_blank\">Weisler et al. CNS Spectr. 2009;14:573-85</a></p><p>\u2022 <a href=\"https://pubmed.ncbi.nlm.nih.gov/18622366/\" target=\"_blank\">Findling et al. CNS Spectr. 2008;13:614-20</a></p><p><br></p><p>The Subcommittee noted that the available evidence reported an improvement in short-term functional outcomes with lisdexamfetamine and few studies reported long-term clinical benefits for the individual or their family/wh\u0101nau. However, the Subcommittee considered that effective treatment of ADHD can reduce long-term disorders, accidents and substance abuse, and can help to improve the success of non-pharmaceutical interventions. The Subcommittee noted the heavy pharmaceutical industry influence on the evidence base and treatment paradigm for ADHD in general. However, the Committee considered that the wide body of evidence including randomised controlled trials, network meta-analyses, and cohort studies supported the efficacy of lisdexamfetamine as being similar to that of methylphenidate. The Subcommittee noted that lisdexamfetamine was reported to have greater efficacy than atomoxetine (as is reported with other stimulants).\u00a0</p><p><br></p><p>The Subcommittee considered that lisdexamfetamine was not as well tolerated as methylphenidate and other funded ADHD medicines, especially in children and adolescents, but considered that its side effect profile was overall similar to that of other stimulants. The Subcommittee noted that evidence from database studies reported less discontinuation of lisdexamfetamine and less augmentation with lisdexamfetamine, compared with methylphenidate.\u00a0</p><p><br></p><p>The Subcommittee considered that lisdexamfetamine would be an effective alternative stimulant option to methylphenidate and that it would be a reasonable option where methylphenidate is not sufficiently effective, as it would provide a longer-acting effective treatment option compared with other options such as atomoxetine. The Subcommittee considered that the greatest benefit from lisdexamfetamine would be in patients for whom methylphenidate was ineffective and who would benefit from dexamfetamine if not for the challenges of multiple daily dosing.\u00a0</p><p><br></p><p>The Subcommittee considered that there were some reports of combination treatment of lisdexamfetamine with methylphenidate extended-release or long-acting but that there was insufficient evidence to determine whether this was safe or effective at this time. The Subcommittee considered that lisdexamfetamine should be used as part of a treatment paradigm including non-pharmaceutical, psychosocial interventions, but not in combination with another stimulant or atomoxetine. The Subcommittee noted that some people with ADHD also require treatments for adverse effects of stimulants.\u00a0\u00a0</p><p><br></p><p>The Subcommittee considered that the abuse potential of lisdexamfetamine as a stimulant would be less than that of dexamfetamine and, if funded, may be associated with a reduction in use of dexamfetamine. The Subcommittee 18 considered that funding lisdexamfetamine could increase the total pool of stimulant use overall in New Zealand and that increasing the number of pharmaceutical treatments available for ADHD could exacerbate the preference to treat the condition with medicines alone as opposed to a more holistic approach including adjunctive non-pharmaceutical treatments.\u00a0\u00a0</p><p><br></p><p>The Subcommittee considered that funding lisdexamfetamine would have the potential to grow the market, if this is preferable to treatment with methylphenidate. Although it was considered that uptake would more likely come from the majority of people taking dexamfetamine who would switch to once-daily lisdexamfetamine. The Subcommittee considered that as lisdexamfetamine is more effective than atomoxetine, patients on methylphenidate would switch to lisdexamfetamine instead of atomoxetine. However, the Subcommittee considered that patients who were well-established on a treatment would be less likely to switch.</p><p><br></p><p>The Subcommittee considered that it was appropriate to compare lisdexamfetamine with methylphenidate extended-release (Concerta) and that this was a more appropriate comparator than methylphenidate long-acting (Ritalin LA) due to the release profile.</p><p><br></p><p>The Subcommittee considered that lisdexamfetamine would be easy to use, that the capsule formulation would have advantages over tablets for those with difficulty swallowing pills, and that once-daily dosing would be more easily administered in schools than multiple daily dosing (eg with dexamfetamine). The Subcommittee noted that a benefit of a long-acting stimulant is that this provides an alternative to short-acting treatments, however, noted that several long-acting methylphenidate formulations are currently funded (although with additional funding restrictions above those of immediate-release formulations).\u00a0\u00a0</p><p><br></p><p>The Subcommittee considered that lisdexamfetamine would be appropriate as a second-line or third-line treatment for ADHD. The Subcommittee considered that use of lisdexamfetamine following an unsuccessful trial of either methylphenidate or atomoxetine would be appropriate, however, it would not be reasonable to use lisdexamfetamine where dexamfetamine has not been effective (unless due to issues with adherence to its dosing schedule). The Committee considered that the use of lisdexamfetamine would be appropriate in cases where there are concerns about diversion or immediate-release dexamfetamine adherence or administration difficulties. The Subcommittee considered that the Special Authority criteria for lisdexamfetamine should align with the current diagnostic criteria (DSM-5/ ICD 11) for accuracy, although members noted that these versions have less restrictive diagnosis of ADHD than DSM-IV and ICD 10.\u00a0</p><p><br></p><p>The Subcommittee noted that challenges with accessing specialist prescribers for initial prescriptions and renewal would occur with lisdexamfetamine, if it were funded, and considered that it would also impact on primary care for diagnosis and management of ADHD. The Subcommittee considered that if lisdexamfetamine were funded, use of atomoxetine (which does not require prescription by a specialist) in the young adult population with moderate to severe ADHD would continue to increase, as is already occurring due to challenges accessing prescribers of stimulants.</p><p><br></p><p>The Subcommittee considered that, as a large proportion of people with ongoing mental health conditions like ADHD are managed by primary care without secondary care support, primary care services would benefit from implementation support and education regarding the management of patients with ADHD 19 irrespective of whether lisdexamfetamine were funded or not. Members considered that such education and support could include practical advice regarding assessment, criteria for referral to secondary care and non-stimulant management options (eg coaching, behavioural interventions, other pharmaceutical treatments).</p><p><br></p><p>The Committee considered that the below summarises its interpretation of the most appropriate PICO (population, intervention, comparator, outcomes) information for lisdexamfetamine if it were to be funded in New Zealand for ADHD. This PICO captures key clinical aspects of the proposal and may be used to frame any future economic assessment by Pharmac staff. This PICO is based on the Committee\u2019s assessment at this time and may differ from that requested by the applicant. The PICO may change based on new information, additional clinical advice, or further analysis by Pharmac staff.\u00a0</p><p><br></p><p><img src=\"/apptracker/servlet/rtaImage?eid=a0POZ00000EutQ0&amp;feoid=00N2P000000YsIc&amp;refid=0EM2P000001jQgc\" alt=\"image.png\"></img></p>",
+          "fs": "<p>The Subcommittee noted that ADHD is one of the most common neuro-behavioural disorders occurring in children and adolescents with prevalence of 2.2% in New Zealand, greater prevalence in M\u0101ori of 3%, and affecting more boys than girls (<a href=\"https://www.health.govt.nz/publication/annual-update-key-results-2018-19-new-zealand-health-survey\" target=\"_blank\">New Zealand Health Survey 2018/19</a>). The Subcommittee noted that ADHD is associated with lower socioeconomic status and that it affects an individual\u2019s schooling, employment and earning potential. The Subcommittee noted that ADHD is associated with an increased mortality rate and significant comorbidity eg increased risk of car accidents, anxiety/mood disorders, other neurodevelopmental disorders, obesity, substance use disorders, smoking and eating disorders. The Subcommittee noted that ADHD affects an individual\u2019s interpersonal relationships and parent or caregiver emotional health.\u00a0</p><p><br></p><p>The Subcommittee noted that ADHD is complex and that the differential diagnosis can include complicated life experiences and trauma, which may also coexist with 15 ADHD. The Subcommittee considered that holistic treatment of ADHD including adjunctive non-pharmaceutical interventions (eg working with children at home and in educational settings) was important, although recognised the usefulness of pharmaceutical treatment especially for young children and where nonpharmaceutical behavioural interventions are not accessible. The Subcommittee considered that there was a risk of overdiagnosis and overtreatment especially where non-pharmaceutical interventions or approaches are inaccessible. The Subcommittee considered that it was important to safely diagnose and treat people with ADHD (particularly in primary care) by using, for example, thorough diagnostic assessments, alcohol and drug screening, non-pharmaceutical interventions, and appropriate attention to other individual factors.\u00a0</p><p><br></p><p>The Subcommittee noted that two stimulants are available in New Zealand for the treatment of ADHD subject to Special Authority criteria: dexamfetamine, which is short-acting and requires multiple daily dosing, and methylphenidate, which is funded in various forms including immediate-release and long-acting formulations. The Subcommittee noted that atomoxetine is the only open-listed treatment for ADHD and does not require prescription by a specialist. The Subcommittee noted that other treatments may be used to treat features of ADHD such as clonidine for young children with concomitant tic disorder, and bupropion, although these are not usually used as first-line treatments.</p><p><br></p><p>The Subcommittee noted that the supplier\u2019s treatment paradigm focused on the main pharmaceutical treatments for ADHD, however, the Subcommittee considered that non-pharmaceutical interventions were an important part of the treatment approach and appeared to be missing. The Subcommittee considered that a stimulant, generally methylphenidate, would be used as the first-line pharmacological treatment prior to atomoxetine for children and adolescents; while amphetamines may be used as first-line treatment in adults. The Subcommittee considered that the chosen sequence of treatments was dependent on the treatment\u2019s magnitude of benefit and other factors including risk of diversion, parental concerns about stimulants, the individual\u2019s ability to take pills, and the pharmaceutical\u2019s side effect profile especially for children with low weight or growth issues, comorbid tic disorder etc. The Subcommittee considered that about 70% of people with ADHD will respond to a first-line pharmaceutical and that those who switch may respond to a subsequent pharmaceutical treatment, with about 91% responding overall (<a href=\"https://pubmed.ncbi.nlm.nih.gov/22763750/\" target=\"_blank\">Hodgkins et al. Eur Child Adolesc Psychiatry. 2012;21:477\u2013 92</a>).\u00a0</p><p><br></p><p>The Subcommittee noted that long-acting formulations are useful for older children, providing effect late in the day into the evening. The Committee considered that the lack of a funded long-acting dexamfetamine formulation may contribute to the preference for methylphenidate, although acknowledged that extended-release methylphenidate is currently restricted to where there are significant administration and/or compliance difficulties, or significant concern regarding the risk of diversion or abuse of immediate-release methylphenidate hydrochloride. However, the Subcommittee noted that the relative unavailability of specialists who can prescribe and issue Special Authority applications for stimulants can limit the ability to prescribe stimulants in primary care and members noted that many young adults are commencing treatment with atomoxetine instead of methylphenidate due to these challenges accessing specialist prescribers.\u00a0</p><p><br></p><p>The Subcommittee considered that the risk of diversion (ie transfer of a controlled substance from the individual it was prescribed for to another for illicit use) with stimulants was significant, particularly given the imprecise diagnosis of ADHD. The 16 Subcommittee considered that compared with short-acting treatments, long-acting treatments may reduce the risk of diversion. The Committee also considered that the use of non-stimulant treatments and non-pharmaceutical interventions would help further, but that these approaches wouldn\u2019t eliminate diversion in this setting.\u00a0</p><p><br></p><p>The Subcommittee noted that lisdexamfetamine is a long-acting pharmacologically inactive prodrug of dexamphetamine, which is a central nervous system stimulant, and that it is converted into its active form over a period of about 12 hours. The Subcommittee noted that lisdexamfetamine is classified as a Controlled Drug Class B1. The Subcommittee noted that Medsafe approved lisdexamfetamine for the treatment of ADHD in adults, adolescents, and children aged six years and older, and that lisdexamfetamine is available as a 30 mg, 50 mg, or 70 mg capsule taken orally once daily, titrated up to a maximum dose of 70 mg per day.\u00a0</p><p><br></p><p>The Subcommittee noted that the supplier provided a substantial amount of evidence for the use of lisdexamfetamine in children, adolescents and adults with ADHD, consisting of randomised controlled trials, systematic reviews and meta-analyses, and cohort studies.\u00a0</p><p><br></p><p>The Subcommittee noted the following evidence for lisdexamfetamine compared with atomoxetine for the treatment of ADHD in children and adolescents:</p><p>\u2022 <a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23959815/\" target=\"_blank\">Dittmann et al. CNS Drugs. 2013;27:1081-92</a></p><p>\u2022 <a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25038977/\" target=\"_blank\">Dittmann et al. CNS Drugs. 2014;28:1059-69</a></p><p>\u2022 <a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25999292/\" target=\"_blank\">Nagy et al. Eur Child Adolesc Psychiatry. 2016;25:141-9</a></p><p><br></p><p>The Subcommittee noted the following for lisdexamfetamine compared with methylphenidate for the treatment of ADHD in children and adolescents:</p><p>\u2022 <a href=\"https://linkinghub.elsevier.com/retrieve/pii/S0924-977X(12)00324-0\" target=\"_blank\">Coghill et al. Eur Neuropsychopharmacol. 2013;23:1208-18</a></p><p>\u2022 <a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28980198/\" target=\"_blank\">Newcorn et al. CNS Drugs. 2017;31:999-1014</a></p><p><br></p><p>The Subcommittee noted evidence for lisdexamfetamine compared with mixed amphetamine salts in adults with ADHD:</p><p>\u2022 <a href=\"https://www.tandfonline.com/doi/full/10.3810/pgm.2014.09.2796\" target=\"_blank\">Adler et al. Postgrad Med. 2014;126:17-24</a></p><p>\u2022 <a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3899471/\" target=\"_blank\">Martin et al. Clin Drug Investig. 2014; 34: 147\u2013157</a></p><p><br></p><p>The Subcommittee noted the following long-term (duration of 52 weeks or more) follow-up cohort studies including children, adolescents and adults with ADHD who received lisdexamfetamine:</p><p>\u2022 <a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28667569/\" target=\"_blank\">Coghill et al. CNS Drugs. 2017;31:625-38</a></p><p>\u2022 <a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4818045/\" target=\"_blank\">Joseph et al. Patient Prefer Adherence. 2016; 10: 391\u2013405</a></p><p>\u2022 <a href=\"https://www.liebertpub.com/doi/10.1089/cap.2011.0088?url_ver=Z39.88-2003&amp;rfr_id=ori:rid:crossref.org&amp;rfr_dat=cr_pub%2520%25200pubmed\" target=\"_blank\">Findling et al. J Child Adolesc Psychopharmacol. 2013;23:11-21</a></p><p>\u2022 <a href=\"https://www.tandfonline.com/doi/full/10.3111/13696998.2013.832258\" target=\"_blank\">Setyawan et al. J Med Econ. 2013;16:1203-15</a></p><p>\u2022 <a href=\"https://www.tandfonline.com/doi/full/10.3111/13696998.2013.839947\" target=\"_blank\">Setyawan et al. J Med Econ. 2013;16:1275-89</a></p><p>\u2022 <a href=\"https://pubmed.ncbi.nlm.nih.gov/20095369/\" target=\"_blank\">Weisler et al. CNS Spectr. 2009;14:573-85</a></p><p>\u2022 <a href=\"https://pubmed.ncbi.nlm.nih.gov/18622366/\" target=\"_blank\">Findling et al. CNS Spectr. 2008;13:614-20</a></p><p><br></p><p>The Subcommittee noted that the available evidence reported an improvement in short-term functional outcomes with lisdexamfetamine and few studies reported long-term clinical benefits for the individual or their family/wh\u0101nau. However, the Subcommittee considered that effective treatment of ADHD can reduce long-term disorders, accidents and substance abuse, and can help to improve the success of non-pharmaceutical interventions. The Subcommittee noted the heavy pharmaceutical industry influence on the evidence base and treatment paradigm for ADHD in general. However, the Committee considered that the wide body of evidence including randomised controlled trials, network meta-analyses, and cohort studies supported the efficacy of lisdexamfetamine as being similar to that of methylphenidate. The Subcommittee noted that lisdexamfetamine was reported to have greater efficacy than atomoxetine (as is reported with other stimulants).\u00a0</p><p><br></p><p>The Subcommittee considered that lisdexamfetamine was not as well tolerated as methylphenidate and other funded ADHD medicines, especially in children and adolescents, but considered that its side effect profile was overall similar to that of other stimulants. The Subcommittee noted that evidence from database studies reported less discontinuation of lisdexamfetamine and less augmentation with lisdexamfetamine, compared with methylphenidate.\u00a0</p><p><br></p><p>The Subcommittee considered that lisdexamfetamine would be an effective alternative stimulant option to methylphenidate and that it would be a reasonable option where methylphenidate is not sufficiently effective, as it would provide a longer-acting effective treatment option compared with other options such as atomoxetine. The Subcommittee considered that the greatest benefit from lisdexamfetamine would be in patients for whom methylphenidate was ineffective and who would benefit from dexamfetamine if not for the challenges of multiple daily dosing.\u00a0</p><p><br></p><p>The Subcommittee considered that there were some reports of combination treatment of lisdexamfetamine with methylphenidate extended-release or long-acting but that there was insufficient evidence to determine whether this was safe or effective at this time. The Subcommittee considered that lisdexamfetamine should be used as part of a treatment paradigm including non-pharmaceutical, psychosocial interventions, but not in combination with another stimulant or atomoxetine. The Subcommittee noted that some people with ADHD also require treatments for adverse effects of stimulants.\u00a0\u00a0</p><p><br></p><p>The Subcommittee considered that the abuse potential of lisdexamfetamine as a stimulant would be less than that of dexamfetamine and, if funded, may be associated with a reduction in use of dexamfetamine. The Subcommittee 18 considered that funding lisdexamfetamine could increase the total pool of stimulant use overall in New Zealand and that increasing the number of pharmaceutical treatments available for ADHD could exacerbate the preference to treat the condition with medicines alone as opposed to a more holistic approach including adjunctive non-pharmaceutical treatments.\u00a0\u00a0</p><p><br></p><p>The Subcommittee considered that funding lisdexamfetamine would have the potential to grow the market, if this is preferable to treatment with methylphenidate. Although it was considered that uptake would more likely come from the majority of people taking dexamfetamine who would switch to once-daily lisdexamfetamine. The Subcommittee considered that as lisdexamfetamine is more effective than atomoxetine, patients on methylphenidate would switch to lisdexamfetamine instead of atomoxetine. However, the Subcommittee considered that patients who were well-established on a treatment would be less likely to switch.</p><p><br></p><p>The Subcommittee considered that it was appropriate to compare lisdexamfetamine with methylphenidate extended-release (Concerta) and that this was a more appropriate comparator than methylphenidate long-acting (Ritalin LA) due to the release profile.</p><p><br></p><p>The Subcommittee considered that lisdexamfetamine would be easy to use, that the capsule formulation would have advantages over tablets for those with difficulty swallowing pills, and that once-daily dosing would be more easily administered in schools than multiple daily dosing (eg with dexamfetamine). The Subcommittee noted that a benefit of a long-acting stimulant is that this provides an alternative to short-acting treatments, however, noted that several long-acting methylphenidate formulations are currently funded (although with additional funding restrictions above those of immediate-release formulations).\u00a0\u00a0</p><p><br></p><p>The Subcommittee considered that lisdexamfetamine would be appropriate as a second-line or third-line treatment for ADHD. The Subcommittee considered that use of lisdexamfetamine following an unsuccessful trial of either methylphenidate or atomoxetine would be appropriate, however, it would not be reasonable to use lisdexamfetamine where dexamfetamine has not been effective (unless due to issues with adherence to its dosing schedule). The Committee considered that the use of lisdexamfetamine would be appropriate in cases where there are concerns about diversion or immediate-release dexamfetamine adherence or administration difficulties. The Subcommittee considered that the Special Authority criteria for lisdexamfetamine should align with the current diagnostic criteria (DSM-5/ ICD 11) for accuracy, although members noted that these versions have less restrictive diagnosis of ADHD than DSM-IV and ICD 10.\u00a0</p><p><br></p><p>The Subcommittee noted that challenges with accessing specialist prescribers for initial prescriptions and renewal would occur with lisdexamfetamine, if it were funded, and considered that it would also impact on primary care for diagnosis and management of ADHD. The Subcommittee considered that if lisdexamfetamine were funded, use of atomoxetine (which does not require prescription by a specialist) in the young adult population with moderate to severe ADHD would continue to increase, as is already occurring due to challenges accessing prescribers of stimulants.</p><p><br></p><p>The Subcommittee considered that, as a large proportion of people with ongoing mental health conditions like ADHD are managed by primary care without secondary care support, primary care services would benefit from implementation support and education regarding the management of patients with ADHD 19 irrespective of whether lisdexamfetamine were funded or not. Members considered that such education and support could include practical advice regarding assessment, criteria for referral to secondary care and non-stimulant management options (eg coaching, behavioural interventions, other pharmaceutical treatments).</p><p><br></p><p>The Committee considered that the below summarises its interpretation of the most appropriate PICO (population, intervention, comparator, outcomes) information for lisdexamfetamine if it were to be funded in New Zealand for ADHD. This PICO captures key clinical aspects of the proposal and may be used to frame any future economic assessment by Pharmac staff. This PICO is based on the Committee\u2019s assessment at this time and may differ from that requested by the applicant. The PICO may change based on new information, additional clinical advice, or further analysis by Pharmac staff.\u00a0</p><p><br></p><p><img src=\"/apptracker/servlet/rtaImage?eid=a0POZ00000EutQ0&amp;feoid=00N2P000000YsIc&amp;refid=0EM2P000001jQgc\" alt=\"image.png\"></img></p>",
+          "change": null
+        },
+        "Published_Application": {
+          "s": "<p>The Subcommittee recommended that lisdexamfetamine for ADHD be funded in the context of treatments in mental health only if cost-neutral to the Concerta brand of methylphenidate extended-release, subject to the following Special Authority criteria: </p><p><br></p><p>LISDEXAMFETAMINE </p><p>Initial application only from a paediatrician, psychiatrist, medical practitioner on the recommendation of a paediatrician or psychiatrist (in writing) or nurse practitioner on the recommendation of a paediatrician or psychiatrist (in writing). Approvals valid for 24 months. All of the following: </p><p>1. ADHD (Attention Deficit and Hyperactivity Disorder); and </p><p>2. Diagnosed according to DSM-V or ICD 11 criteria; and </p><p>3. Any one of the following: </p><p class=\"ql-indent-1\">3.1. Patient is taking a currently subsidised formulation of atomoxetine or methylphenidate hydrochloride (extended-release) which has not been effective or not tolerated; or </p><p class=\"ql-indent-1\">3.2. Patient is taking a currently subsidised formulation of dexamfetamine sulfate (immediate-release) which has not been effective due to significant administration and/or compliance difficulties; or </p><p class=\"ql-indent-1\">3.3. There is significant concern regarding the risk of diversion or abuse of immediate release dexamfetamine sulfate; and</p><p>4. Lisdexamfetamine not to be used in combination with another stimulant or atomoxetine.</p><p><br></p><p>Renewal only from a paediatrician, psychiatrist, medical practitioner on the recommendation of a paediatrician or psychiatrist (in writing) or nurse practitioner on the recommendation of a paediatrician or psychiatrist (in writing). Approvals valid for 24 months.</p><p><br></p><p>Both: </p><p>1. The treatment remains appropriate and the patient is benefiting from treatment; and </p><p>2. Either:</p><p class=\"ql-indent-1\">2.1. Applicant is a paediatrician or psychiatrist; or </p><p class=\"ql-indent-1\">2.2. Applicant is a medical practitioner or nurse practitioner and confirms that a paediatrician or psychiatrist has been consulted within the last 2 years and has recommended treatment for the patient in writing  </p><p><br></p><p>In making this recommendation, the Subcommittee considered: </p><p><br></p><p>\u2022 the health needs of children, adolescents and adults with ADHD, their families/wh\u0101nau and wider society </p><p><br></p><p>\u2022 that the evidence was for short-term outcomes with lisdexamfetamine, rather than long-term clinical benefits </p><p><br></p><p>\u2022 evidence of benefit, with similar efficacy to methylphenidate </p><p><br></p><p>\u2022 the importance of holistic treatment of ADHD including nonpharmaceutical interventions and the risk that funding another stimulant may increase the overall pool of stimulant use and contribute to diversion in New Zealand.</p>",
+          "fs": "<p>The Subcommittee recommended that lisdexamfetamine for ADHD be funded in the context of treatments in mental health only if cost-neutral to the Concerta brand of methylphenidate extended-release, subject to the following Special Authority criteria: </p><p><br></p><p>LISDEXAMFETAMINE </p><p>Initial application only from a paediatrician, psychiatrist, medical practitioner on the recommendation of a paediatrician or psychiatrist (in writing) or nurse practitioner on the recommendation of a paediatrician or psychiatrist (in writing). Approvals valid for 24 months. All of the following: </p><p>1. ADHD (Attention Deficit and Hyperactivity Disorder); and </p><p>2. Diagnosed according to DSM-V or ICD 11 criteria; and </p><p>3. Any one of the following: </p><p class=\"ql-indent-1\">3.1. Patient is taking a currently subsidised formulation of atomoxetine or methylphenidate hydrochloride (extended-release) which has not been effective or not tolerated; or </p><p class=\"ql-indent-1\">3.2. Patient is taking a currently subsidised formulation of dexamfetamine sulfate (immediate-release) which has not been effective due to significant administration and/or compliance difficulties; or </p><p class=\"ql-indent-1\">3.3. There is significant concern regarding the risk of diversion or abuse of immediate release dexamfetamine sulfate; and</p><p>4. Lisdexamfetamine not to be used in combination with another stimulant or atomoxetine.</p><p><br></p><p>Renewal only from a paediatrician, psychiatrist, medical practitioner on the recommendation of a paediatrician or psychiatrist (in writing) or nurse practitioner on the recommendation of a paediatrician or psychiatrist (in writing). Approvals valid for 24 months.</p><p><br></p><p>Both: </p><p>1. The treatment remains appropriate and the patient is benefiting from treatment; and </p><p>2. Either:</p><p class=\"ql-indent-1\">2.1. Applicant is a paediatrician or psychiatrist; or </p><p class=\"ql-indent-1\">2.2. Applicant is a medical practitioner or nurse practitioner and confirms that a paediatrician or psychiatrist has been consulted within the last 2 years and has recommended treatment for the patient in writing  </p><p><br></p><p>In making this recommendation, the Subcommittee considered: </p><p><br></p><p>\u2022 the health needs of children, adolescents and adults with ADHD, their families/wh\u0101nau and wider society </p><p><br></p><p>\u2022 that the evidence was for short-term outcomes with lisdexamfetamine, rather than long-term clinical benefits </p><p><br></p><p>\u2022 evidence of benefit, with similar efficacy to methylphenidate </p><p><br></p><p>\u2022 the importance of holistic treatment of ADHD including nonpharmaceutical interventions and the risk that funding another stimulant may increase the overall pool of stimulant use and contribute to diversion in New Zealand.</p>",
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": "<p>At the November 2021 PTAC meeting the Committee noted the Advisory Committee\u2019s recommendation that lisdexamfetamine should be funded only if cost neutral to the Concerta brand of extended-release methylphenidate.\u00a0</p>",
+          "fs": "<p>At the November 2021 PTAC meeting the Committee noted the Advisory Committee\u2019s recommendation that lisdexamfetamine should be funded only if cost neutral to the Concerta brand of extended-release methylphenidate.\u00a0</p>",
+          "change": null
+        },
+        "Outcome": {
+          "s": "Cost Neutral",
+          "fs": "Cost Neutral",
+          "change": null
+        },
+        "Links": {
+          "s": "<p><a href=\"https://pharmac.govt.nz/assets/2021-09-Mental-Health-Subcommittee-record.pdf\" target=\"_blank\">Mental Health Subcommittee record</a></p><p><a href=\"https://pharmac.govt.nz/assets/2021-11-PTAC-meeting-record.pdf#page=7&amp;zoom=100,87,149\" target=\"_blank\">2021-11 PTAC meeting record</a></p>",
+          "fs": "<p><a href=\"https://pharmac.govt.nz/assets/2021-09-Mental-Health-Subcommittee-record.pdf\" target=\"_blank\">Mental Health Subcommittee record</a></p><p><a href=\"https://pharmac.govt.nz/assets/2021-11-PTAC-meeting-record.pdf#page=7&amp;zoom=100,87,149\" target=\"_blank\">2021-11 PTAC meeting record</a></p>",
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Dec 2021",
+          "fs": "Dec 2021",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Clinical advice received from Mental Health Subcommittee at meeting Friday 10 September 2021.",
+          "fs": "Clinical advice received from Mental Health Subcommittee at meeting Friday 10 September 2021.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000EutQ02AJ"
+          },
+          "Id": "a0POZ00000EutQ02AJ",
+          "Event_Date__c": "2021-12-06",
+          "Event_Description__c": "Clinical advice received from Mental Health Subcommittee at meeting Friday 10 September 2021.",
+          "Stage__c": "Seeking Clinical Advice",
+          "Links__c": "<p><a href=\"https://pharmac.govt.nz/assets/2021-09-Mental-Health-Subcommittee-record.pdf\" target=\"_blank\">Mental Health Subcommittee record</a></p><p><a href=\"https://pharmac.govt.nz/assets/2021-11-PTAC-meeting-record.pdf#page=7&amp;zoom=100,87,149\" target=\"_blank\">2021-11 PTAC meeting record</a></p>",
+          "Outcome__c": "Cost Neutral",
+          "Formatted_Date__c": "Dec 2021",
+          "Published_Recommendation__c": "<p>The Subcommittee recommended that lisdexamfetamine for ADHD be funded in the context of treatments in mental health only if cost neutral to the Concerta brand of methylphenidate extended-release, subject to the following Special Authority criteria: </p><p><br></p><p>LISDEXAMFETAMINE </p><p>Initial application only from a paediatrician, psychiatrist, medical practitioner on the recommendation of a paediatrician or psychiatrist (in writing) or nurse practitioner on the recommendation of a paediatrician or psychiatrist (in writing). Approvals valid for 24 months. All of the following: </p><p>1. ADHD (Attention Deficit and Hyperactivity Disorder); and </p><p>2. Diagnosed according to DSM-V or ICD 11 criteria; and </p><p>3. Any one of the following: </p><p class=\"ql-indent-1\">3.1. Patient is taking a currently subsidised formulation of atomoxetine or methylphenidate hydrochloride (extended-release) which has not been effective or not tolerated; or </p><p class=\"ql-indent-1\">3.2. Patient is taking a currently subsidised formulation of dexamfetamine sulfate (immediate-release) which has not been effective due to significant administration and/or compliance difficulties; or </p><p class=\"ql-indent-1\">3.3. There is significant concern regarding the risk of diversion or abuse of immediate release dexamfetamine sulfate; and</p><p>4. Lisdexamfetamine not to be used in combination with another stimulant or atomoxetine.</p><p><br></p><p>Renewal only from a paediatrician, psychiatrist, medical practitioner on the recommendation of a paediatrician or psychiatrist (in writing) or nurse practitioner on the recommendation of a paediatrician or psychiatrist (in writing). Approvals valid for 24 months.</p><p><br></p><p>Both: </p><p>1. The treatment remains appropriate and the patient is benefiting from treatment; and </p><p>2. Either:</p><p class=\"ql-indent-1\">2.1. Applicant is a paediatrician or psychiatrist; or </p><p class=\"ql-indent-1\">2.2. Applicant is a medical practitioner or nurse practitioner and confirms that a paediatrician or psychiatrist has been consulted within the last 2 years and has recommended treatment for the patient in writing  </p><p><br></p><p>In making this recommendation, the Subcommittee considered: </p><p><br></p><p>\u2022 the health needs of children, adolescents and adults with ADHD, their families/wh\u0101nau and wider society </p><p><br></p><p>\u2022 that the evidence was for short-term outcomes with lisdexamfetamine, rather than long-term clinical benefits </p><p><br></p><p>\u2022 evidence of benefit, with similar efficacy to methylphenidate \u2022 the importance of holistic treatment of ADHD including nonpharmaceutical interventions and the risk that funding another stimulant may increase the overall pool of stimulant use and contribute to diversion in New Zealand.</p>",
+          "Published_Application__c": "<p>The Subcommittee recommended that lisdexamfetamine for ADHD be funded in the context of treatments in mental health only if cost-neutral to the Concerta brand of methylphenidate extended-release, subject to the following Special Authority criteria: </p><p><br></p><p>LISDEXAMFETAMINE </p><p>Initial application only from a paediatrician, psychiatrist, medical practitioner on the recommendation of a paediatrician or psychiatrist (in writing) or nurse practitioner on the recommendation of a paediatrician or psychiatrist (in writing). Approvals valid for 24 months. All of the following: </p><p>1. ADHD (Attention Deficit and Hyperactivity Disorder); and </p><p>2. Diagnosed according to DSM-V or ICD 11 criteria; and </p><p>3. Any one of the following: </p><p class=\"ql-indent-1\">3.1. Patient is taking a currently subsidised formulation of atomoxetine or methylphenidate hydrochloride (extended-release) which has not been effective or not tolerated; or </p><p class=\"ql-indent-1\">3.2. Patient is taking a currently subsidised formulation of dexamfetamine sulfate (immediate-release) which has not been effective due to significant administration and/or compliance difficulties; or </p><p class=\"ql-indent-1\">3.3. There is significant concern regarding the risk of diversion or abuse of immediate release dexamfetamine sulfate; and</p><p>4. Lisdexamfetamine not to be used in combination with another stimulant or atomoxetine.</p><p><br></p><p>Renewal only from a paediatrician, psychiatrist, medical practitioner on the recommendation of a paediatrician or psychiatrist (in writing) or nurse practitioner on the recommendation of a paediatrician or psychiatrist (in writing). Approvals valid for 24 months.</p><p><br></p><p>Both: </p><p>1. The treatment remains appropriate and the patient is benefiting from treatment; and </p><p>2. Either:</p><p class=\"ql-indent-1\">2.1. Applicant is a paediatrician or psychiatrist; or </p><p class=\"ql-indent-1\">2.2. Applicant is a medical practitioner or nurse practitioner and confirms that a paediatrician or psychiatrist has been consulted within the last 2 years and has recommended treatment for the patient in writing  </p><p><br></p><p>In making this recommendation, the Subcommittee considered: </p><p><br></p><p>\u2022 the health needs of children, adolescents and adults with ADHD, their families/wh\u0101nau and wider society </p><p><br></p><p>\u2022 that the evidence was for short-term outcomes with lisdexamfetamine, rather than long-term clinical benefits </p><p><br></p><p>\u2022 evidence of benefit, with similar efficacy to methylphenidate </p><p><br></p><p>\u2022 the importance of holistic treatment of ADHD including nonpharmaceutical interventions and the risk that funding another stimulant may increase the overall pool of stimulant use and contribute to diversion in New Zealand.</p>",
+          "Published_Discussion__c": "<p>The Subcommittee noted that ADHD is one of the most common neuro-behavioural disorders occurring in children and adolescents with prevalence of 2.2% in New Zealand, greater prevalence in M\u0101ori of 3%, and affecting more boys than girls (<a href=\"https://www.health.govt.nz/publication/annual-update-key-results-2018-19-new-zealand-health-survey\" target=\"_blank\">New Zealand Health Survey 2018/19</a>). The Subcommittee noted that ADHD is associated with lower socioeconomic status and that it affects an individual\u2019s schooling, employment and earning potential. The Subcommittee noted that ADHD is associated with an increased mortality rate and significant comorbidity eg increased risk of car accidents, anxiety/mood disorders, other neurodevelopmental disorders, obesity, substance use disorders, smoking and eating disorders. The Subcommittee noted that ADHD affects an individual\u2019s interpersonal relationships and parent or caregiver emotional health.\u00a0</p><p><br></p><p>The Subcommittee noted that ADHD is complex and that the differential diagnosis can include complicated life experiences and trauma, which may also coexist with 15 ADHD. The Subcommittee considered that holistic treatment of ADHD including adjunctive non-pharmaceutical interventions (eg working with children at home and in educational settings) was important, although recognised the usefulness of pharmaceutical treatment especially for young children and where nonpharmaceutical behavioural interventions are not accessible. The Subcommittee considered that there was a risk of overdiagnosis and overtreatment especially where non-pharmaceutical interventions or approaches are inaccessible. The Subcommittee considered that it was important to safely diagnose and treat people with ADHD (particularly in primary care) by using, for example, thorough diagnostic assessments, alcohol and drug screening, non-pharmaceutical interventions, and appropriate attention to other individual factors.\u00a0</p><p><br></p><p>The Subcommittee noted that two stimulants are available in New Zealand for the treatment of ADHD subject to Special Authority criteria: dexamfetamine, which is short-acting and requires multiple daily dosing, and methylphenidate, which is funded in various forms including immediate-release and long-acting formulations. The Subcommittee noted that atomoxetine is the only open-listed treatment for ADHD and does not require prescription by a specialist. The Subcommittee noted that other treatments may be used to treat features of ADHD such as clonidine for young children with concomitant tic disorder, and bupropion, although these are not usually used as first-line treatments.</p><p><br></p><p>The Subcommittee noted that the supplier\u2019s treatment paradigm focused on the main pharmaceutical treatments for ADHD, however, the Subcommittee considered that non-pharmaceutical interventions were an important part of the treatment approach and appeared to be missing. The Subcommittee considered that a stimulant, generally methylphenidate, would be used as the first-line pharmacological treatment prior to atomoxetine for children and adolescents; while amphetamines may be used as first-line treatment in adults. The Subcommittee considered that the chosen sequence of treatments was dependent on the treatment\u2019s magnitude of benefit and other factors including risk of diversion, parental concerns about stimulants, the individual\u2019s ability to take pills, and the pharmaceutical\u2019s side effect profile especially for children with low weight or growth issues, comorbid tic disorder etc. The Subcommittee considered that about 70% of people with ADHD will respond to a first-line pharmaceutical and that those who switch may respond to a subsequent pharmaceutical treatment, with about 91% responding overall (<a href=\"https://pubmed.ncbi.nlm.nih.gov/22763750/\" target=\"_blank\">Hodgkins et al. Eur Child Adolesc Psychiatry. 2012;21:477\u2013 92</a>).\u00a0</p><p><br></p><p>The Subcommittee noted that long-acting formulations are useful for older children, providing effect late in the day into the evening. The Committee considered that the lack of a funded long-acting dexamfetamine formulation may contribute to the preference for methylphenidate, although acknowledged that extended-release methylphenidate is currently restricted to where there are significant administration and/or compliance difficulties, or significant concern regarding the risk of diversion or abuse of immediate-release methylphenidate hydrochloride. However, the Subcommittee noted that the relative unavailability of specialists who can prescribe and issue Special Authority applications for stimulants can limit the ability to prescribe stimulants in primary care and members noted that many young adults are commencing treatment with atomoxetine instead of methylphenidate due to these challenges accessing specialist prescribers.\u00a0</p><p><br></p><p>The Subcommittee considered that the risk of diversion (ie transfer of a controlled substance from the individual it was prescribed for to another for illicit use) with stimulants was significant, particularly given the imprecise diagnosis of ADHD. The 16 Subcommittee considered that compared with short-acting treatments, long-acting treatments may reduce the risk of diversion. The Committee also considered that the use of non-stimulant treatments and non-pharmaceutical interventions would help further, but that these approaches wouldn\u2019t eliminate diversion in this setting.\u00a0</p><p><br></p><p>The Subcommittee noted that lisdexamfetamine is a long-acting pharmacologically inactive prodrug of dexamphetamine, which is a central nervous system stimulant, and that it is converted into its active form over a period of about 12 hours. The Subcommittee noted that lisdexamfetamine is classified as a Controlled Drug Class B1. The Subcommittee noted that Medsafe approved lisdexamfetamine for the treatment of ADHD in adults, adolescents, and children aged six years and older, and that lisdexamfetamine is available as a 30 mg, 50 mg, or 70 mg capsule taken orally once daily, titrated up to a maximum dose of 70 mg per day.\u00a0</p><p><br></p><p>The Subcommittee noted that the supplier provided a substantial amount of evidence for the use of lisdexamfetamine in children, adolescents and adults with ADHD, consisting of randomised controlled trials, systematic reviews and meta-analyses, and cohort studies.\u00a0</p><p><br></p><p>The Subcommittee noted the following evidence for lisdexamfetamine compared with atomoxetine for the treatment of ADHD in children and adolescents:</p><p>\u2022 <a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23959815/\" target=\"_blank\">Dittmann et al. CNS Drugs. 2013;27:1081-92</a></p><p>\u2022 <a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25038977/\" target=\"_blank\">Dittmann et al. CNS Drugs. 2014;28:1059-69</a></p><p>\u2022 <a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25999292/\" target=\"_blank\">Nagy et al. Eur Child Adolesc Psychiatry. 2016;25:141-9</a></p><p><br></p><p>The Subcommittee noted the following for lisdexamfetamine compared with methylphenidate for the treatment of ADHD in children and adolescents:</p><p>\u2022 <a href=\"https://linkinghub.elsevier.com/retrieve/pii/S0924-977X(12)00324-0\" target=\"_blank\">Coghill et al. Eur Neuropsychopharmacol. 2013;23:1208-18</a></p><p>\u2022 <a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28980198/\" target=\"_blank\">Newcorn et al. CNS Drugs. 2017;31:999-1014</a></p><p><br></p><p>The Subcommittee noted evidence for lisdexamfetamine compared with mixed amphetamine salts in adults with ADHD:</p><p>\u2022 <a href=\"https://www.tandfonline.com/doi/full/10.3810/pgm.2014.09.2796\" target=\"_blank\">Adler et al. Postgrad Med. 2014;126:17-24</a></p><p>\u2022 <a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3899471/\" target=\"_blank\">Martin et al. Clin Drug Investig. 2014; 34: 147\u2013157</a></p><p><br></p><p>The Subcommittee noted the following long-term (duration of 52 weeks or more) follow-up cohort studies including children, adolescents and adults with ADHD who received lisdexamfetamine:</p><p>\u2022 <a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28667569/\" target=\"_blank\">Coghill et al. CNS Drugs. 2017;31:625-38</a></p><p>\u2022 <a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4818045/\" target=\"_blank\">Joseph et al. Patient Prefer Adherence. 2016; 10: 391\u2013405</a></p><p>\u2022 <a href=\"https://www.liebertpub.com/doi/10.1089/cap.2011.0088?url_ver=Z39.88-2003&amp;rfr_id=ori:rid:crossref.org&amp;rfr_dat=cr_pub%2520%25200pubmed\" target=\"_blank\">Findling et al. J Child Adolesc Psychopharmacol. 2013;23:11-21</a></p><p>\u2022 <a href=\"https://www.tandfonline.com/doi/full/10.3111/13696998.2013.832258\" target=\"_blank\">Setyawan et al. J Med Econ. 2013;16:1203-15</a></p><p>\u2022 <a href=\"https://www.tandfonline.com/doi/full/10.3111/13696998.2013.839947\" target=\"_blank\">Setyawan et al. J Med Econ. 2013;16:1275-89</a></p><p>\u2022 <a href=\"https://pubmed.ncbi.nlm.nih.gov/20095369/\" target=\"_blank\">Weisler et al. CNS Spectr. 2009;14:573-85</a></p><p>\u2022 <a href=\"https://pubmed.ncbi.nlm.nih.gov/18622366/\" target=\"_blank\">Findling et al. CNS Spectr. 2008;13:614-20</a></p><p><br></p><p>The Subcommittee noted that the available evidence reported an improvement in short-term functional outcomes with lisdexamfetamine and few studies reported long-term clinical benefits for the individual or their family/wh\u0101nau. However, the Subcommittee considered that effective treatment of ADHD can reduce long-term disorders, accidents and substance abuse, and can help to improve the success of non-pharmaceutical interventions. The Subcommittee noted the heavy pharmaceutical industry influence on the evidence base and treatment paradigm for ADHD in general. However, the Committee considered that the wide body of evidence including randomised controlled trials, network meta-analyses, and cohort studies supported the efficacy of lisdexamfetamine as being similar to that of methylphenidate. The Subcommittee noted that lisdexamfetamine was reported to have greater efficacy than atomoxetine (as is reported with other stimulants).\u00a0</p><p><br></p><p>The Subcommittee considered that lisdexamfetamine was not as well tolerated as methylphenidate and other funded ADHD medicines, especially in children and adolescents, but considered that its side effect profile was overall similar to that of other stimulants. The Subcommittee noted that evidence from database studies reported less discontinuation of lisdexamfetamine and less augmentation with lisdexamfetamine, compared with methylphenidate.\u00a0</p><p><br></p><p>The Subcommittee considered that lisdexamfetamine would be an effective alternative stimulant option to methylphenidate and that it would be a reasonable option where methylphenidate is not sufficiently effective, as it would provide a longer-acting effective treatment option compared with other options such as atomoxetine. The Subcommittee considered that the greatest benefit from lisdexamfetamine would be in patients for whom methylphenidate was ineffective and who would benefit from dexamfetamine if not for the challenges of multiple daily dosing.\u00a0</p><p><br></p><p>The Subcommittee considered that there were some reports of combination treatment of lisdexamfetamine with methylphenidate extended-release or long-acting but that there was insufficient evidence to determine whether this was safe or effective at this time. The Subcommittee considered that lisdexamfetamine should be used as part of a treatment paradigm including non-pharmaceutical, psychosocial interventions, but not in combination with another stimulant or atomoxetine. The Subcommittee noted that some people with ADHD also require treatments for adverse effects of stimulants.\u00a0\u00a0</p><p><br></p><p>The Subcommittee considered that the abuse potential of lisdexamfetamine as a stimulant would be less than that of dexamfetamine and, if funded, may be associated with a reduction in use of dexamfetamine. The Subcommittee 18 considered that funding lisdexamfetamine could increase the total pool of stimulant use overall in New Zealand and that increasing the number of pharmaceutical treatments available for ADHD could exacerbate the preference to treat the condition with medicines alone as opposed to a more holistic approach including adjunctive non-pharmaceutical treatments.\u00a0\u00a0</p><p><br></p><p>The Subcommittee considered that funding lisdexamfetamine would have the potential to grow the market, if this is preferable to treatment with methylphenidate. Although it was considered that uptake would more likely come from the majority of people taking dexamfetamine who would switch to once-daily lisdexamfetamine. The Subcommittee considered that as lisdexamfetamine is more effective than atomoxetine, patients on methylphenidate would switch to lisdexamfetamine instead of atomoxetine. However, the Subcommittee considered that patients who were well-established on a treatment would be less likely to switch.</p><p><br></p><p>The Subcommittee considered that it was appropriate to compare lisdexamfetamine with methylphenidate extended-release (Concerta) and that this was a more appropriate comparator than methylphenidate long-acting (Ritalin LA) due to the release profile.</p><p><br></p><p>The Subcommittee considered that lisdexamfetamine would be easy to use, that the capsule formulation would have advantages over tablets for those with difficulty swallowing pills, and that once-daily dosing would be more easily administered in schools than multiple daily dosing (eg with dexamfetamine). The Subcommittee noted that a benefit of a long-acting stimulant is that this provides an alternative to short-acting treatments, however, noted that several long-acting methylphenidate formulations are currently funded (although with additional funding restrictions above those of immediate-release formulations).\u00a0\u00a0</p><p><br></p><p>The Subcommittee considered that lisdexamfetamine would be appropriate as a second-line or third-line treatment for ADHD. The Subcommittee considered that use of lisdexamfetamine following an unsuccessful trial of either methylphenidate or atomoxetine would be appropriate, however, it would not be reasonable to use lisdexamfetamine where dexamfetamine has not been effective (unless due to issues with adherence to its dosing schedule). The Committee considered that the use of lisdexamfetamine would be appropriate in cases where there are concerns about diversion or immediate-release dexamfetamine adherence or administration difficulties. The Subcommittee considered that the Special Authority criteria for lisdexamfetamine should align with the current diagnostic criteria (DSM-5/ ICD 11) for accuracy, although members noted that these versions have less restrictive diagnosis of ADHD than DSM-IV and ICD 10.\u00a0</p><p><br></p><p>The Subcommittee noted that challenges with accessing specialist prescribers for initial prescriptions and renewal would occur with lisdexamfetamine, if it were funded, and considered that it would also impact on primary care for diagnosis and management of ADHD. The Subcommittee considered that if lisdexamfetamine were funded, use of atomoxetine (which does not require prescription by a specialist) in the young adult population with moderate to severe ADHD would continue to increase, as is already occurring due to challenges accessing prescribers of stimulants.</p><p><br></p><p>The Subcommittee considered that, as a large proportion of people with ongoing mental health conditions like ADHD are managed by primary care without secondary care support, primary care services would benefit from implementation support and education regarding the management of patients with ADHD 19 irrespective of whether lisdexamfetamine were funded or not. Members considered that such education and support could include practical advice regarding assessment, criteria for referral to secondary care and non-stimulant management options (eg coaching, behavioural interventions, other pharmaceutical treatments).</p><p><br></p><p>The Committee considered that the below summarises its interpretation of the most appropriate PICO (population, intervention, comparator, outcomes) information for lisdexamfetamine if it were to be funded in New Zealand for ADHD. This PICO captures key clinical aspects of the proposal and may be used to frame any future economic assessment by Pharmac staff. This PICO is based on the Committee\u2019s assessment at this time and may differ from that requested by the applicant. The PICO may change based on new information, additional clinical advice, or further analysis by Pharmac staff.\u00a0</p><p><br></p><p><img src=\"/apptracker/servlet/rtaImage?eid=a0POZ00000EutQ0&amp;feoid=00N2P000000YsIc&amp;refid=0EM2P000001jQgc\" alt=\"image.png\"></img></p>",
+          "PTAC_Comments__c": "<p>At the November 2021 PTAC meeting the Committee noted the Advisory Committee\u2019s recommendation that lisdexamfetamine should be funded only if cost neutral to the Concerta brand of extended-release methylphenidate.\u00a0</p>",
+          "Status_History__c": "a132P000000DOcwQAG"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "May 2021",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Following Clinical Advice, Pharmac staff considers the advice and the funding application under goes an assessment using our&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/factors-for-consideration/\" rel=\"nofollow\">Factors for Consideration</a>&nbsp;framework and seeks additional information as required.</p>\r\n<p>&nbsp;</p>\r\n<p>Research and Economic analysis are undertaken.&nbsp; This focuses on the costs and benefits of a proposed course of action. Economics is based on three fundamental concepts that summarise the issues Pharmac faces daily:&nbsp;</p>\r\n<ul>\r\n<li>Scarcity &ndash; resources will always be insufficient to support all possible activities.</li>\r\n<li>Choices &ndash; due to scarce resources, decisions must be made about how best to use them.</li>\r\n<li>Opportunity cost &ndash; by choosing to use resources one way, we forgo other opportunities to use the same resources.</li>\r\n</ul>\r\n<p>&nbsp;</p>\r\n<p>For further information on the purpose of, and techniques for, undertaking economic analysis in health care, please refer&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/economic-analysis/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/economic-analysis/</a></p>",
+    "position": 2,
+    "name": "Under Assessment",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Jan 2022",
+          "fs": "Jan 2022",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Working to compare options",
+          "fs": "Working to compare options",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000EutQ12AJ"
+          },
+          "Id": "a0POZ00000EutQ12AJ",
+          "Event_Date__c": "2022-01-03",
+          "Event_Description__c": "Working to compare options",
+          "Stage__c": "Under Assessment",
+          "Formatted_Date__c": "Jan 2022",
+          "Status_History__c": "a132P000000E3dEQAS"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Jan 2022",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Pharmac staff uses a prioritisation process to compare and rank funding options. Possible opportunities for new investment will always exceed the budget Pharmac has available; therefore, prioritisation is an intrinsic part of Pharmac\u2019s decision-making process.</p>\r\n<p>The relative ranking of options aims to support Pharmac&rsquo;s statutory objective &ldquo;to secure for eligible people in need of pharmaceuticals, the best health outcomes that are reasonably achievable from pharmaceutical treatment and from within the amount of funding provided&rdquo;.</p>\r\n<p>A funding application or proposal is considered ready for prioritisation when sufficient information is available to permit it to be reviewed against Pharmac's Factors for Consideration and to inform a comparison with other possible investment decisions.</p>\r\n<p>There is no guarantee when or if a ranked medicine will be funded.&nbsp;&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/prioritisation/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/prioritisation/</a></p>",
+    "position": 3,
+    "name": "Options Compared",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Sep 2023",
+          "fs": "Sep 2023",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "The relative ranking of the pharmaceutical application has been completed.",
+          "fs": "The relative ranking of the pharmaceutical application has been completed.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000EutQ22AJ"
+          },
+          "Id": "a0POZ00000EutQ22AJ",
+          "Event_Date__c": "2023-09-08",
+          "Event_Description__c": "The relative ranking of the pharmaceutical application has been completed.",
+          "Stage__c": "Options Compared",
+          "Formatted_Date__c": "Sep 2023",
+          "Status_History__c": "a13OZ000001vnv8YAA"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Sep 2023",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Pharmac is consulting on a proposal to either approve or decline the application.&nbsp;We seek the views of all people who have an interest in our proposals, or who may be affected by them, to obtain feedback on our proposed approaches.</p>\r\n<p><a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/having-your-say/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/having-your-say/</a></p>",
+    "position": 4,
+    "name": "Under Consultation",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": "<p><a href=\"https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/proposal-to-fund-lisdexamfetamine-vyvanse-for-attention-deficit-hyperactivity-disorder-adhd\" target=\"_blank\">Consultation Letter</a></p>",
+          "fs": "<p><a href=\"https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/proposal-to-fund-lisdexamfetamine-vyvanse-for-attention-deficit-hyperactivity-disorder-adhd\" target=\"_blank\">Consultation Letter</a></p>",
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Sep 2024",
+          "fs": "Sep 2024",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Public consultation for this application is active.",
+          "fs": "Public consultation for this application is active.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000EutQ32AJ"
+          },
+          "Id": "a0POZ00000EutQ32AJ",
+          "Event_Date__c": "2024-09-12",
+          "Event_Description__c": "Public consultation for this application is active.",
+          "Stage__c": "Under Consultation",
+          "Links__c": "<p><a href=\"https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/proposal-to-fund-lisdexamfetamine-vyvanse-for-attention-deficit-hyperactivity-disorder-adhd\" target=\"_blank\">Consultation Letter</a></p>",
+          "Formatted_Date__c": "Sep 2024",
+          "Status_History__c": "a13OZ00000EHL9gYAH"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Sep 2024",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Following the consultation process, Pharmac staff considers the feedback and identifies any additional information required as part of a gap analysis.&nbsp; The proposal may require further clinical advice, research, and assessment.</p>",
+    "position": 5,
+    "name": "Reviewing Consultation Feedback",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Sep 2024",
+          "fs": "Sep 2024",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Public consultation for this application is now closed. Pharmac is reviewing consultation feedback.",
+          "fs": "Public consultation for this application is now closed. Pharmac is reviewing consultation feedback.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000EutQ42AJ"
+          },
+          "Id": "a0POZ00000EutQ42AJ",
+          "Event_Date__c": "2024-09-26",
+          "Event_Description__c": "Public consultation for this application is now closed. Pharmac is reviewing consultation feedback.",
+          "Stage__c": "Reviewing Consultation Feedback",
+          "Formatted_Date__c": "Sep 2024",
+          "Status_History__c": "a13OZ00000FLOoIYAX"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Sep 2024",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>We refer to our decisions about whether and how particular pharmaceuticals are publicly-funded, as &ldquo;funding decisions&rdquo;.</p>\r\n<p>We consider and assess all funding decisions using the&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/about/operating-policies-and-procedures/#factorsfc\" rel=\"nofollow\">Factors for Consideration</a>. When we do so, we carefully evaluate clinical and other evidence for the benefits and suitability of a proposal, and to identify and understand the people who will be affected by it.</p>\r\n<p>While our main task is to allocate pharmaceutical funding, we consider the benefits and costs across the whole health system now and with a long-term focus, including the effects for hospitals and primary care, and consider direct costs to patients as well as to all health sector budgets.</p>\r\n<p>Final funding decisions are made by the Pharmac Board or delegated to senior Pharmac staff as required by the Board.</p>\r\n<p>&nbsp;</p>",
+    "position": 6,
+    "name": "Decision",
+    "last": true,
+    "events": [
+      {
+        "Summary": {
+          "s": "<p><a href=\"https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/decision-to-fund-lisdexamfetamine-for-the-treatment-of-adhd\" target=\"_blank\">Decision notification</a></p>",
+          "fs": "<p><a href=\"https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/decision-to-fund-lisdexamfetamine-for-the-treatment-of-adhd\" target=\"_blank\">Decision notification</a></p>",
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Nov 2024",
+          "fs": "Nov 2024",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "The funding application has been approved.",
+          "fs": "The funding application has been approved.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000EutQ52AJ"
+          },
+          "Id": "a0POZ00000EutQ52AJ",
+          "Event_Date__c": "2024-11-15",
+          "Event_Description__c": "The funding application has been approved.",
+          "Stage__c": "Decision",
+          "Summary__c": "<p><a href=\"https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/decision-to-fund-lisdexamfetamine-for-the-treatment-of-adhd\" target=\"_blank\">Decision notification</a></p>",
+          "Formatted_Date__c": "Nov 2024",
+          "Status_History__c": "a13OZ00000GdWtHYAV"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Nov 2024",
+    "collapsed": false,
+    "checked": true
+  }
+]

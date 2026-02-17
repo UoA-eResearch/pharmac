@@ -1,0 +1,685 @@
+[
+  {
+    "text": "<p>New funding applications are referred to one of Pharmac's Funding Application Advisors (FAAs), who'll review the application to ensure they have the relevant information to undertake a preliminary analysis.&nbsp; They may seek more information if required.</p>\r\n<p><a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/new-funding-applications/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/new-funding-applications/</a></p>",
+    "position": 0,
+    "name": "Application Received",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Dec 2020",
+          "fs": "Dec 2020",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Application received",
+          "fs": "Application received",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P0000078iRJUAY"
+          },
+          "Id": "a0P2P0000078iRJUAY",
+          "Event_Date__c": "2020-12-04",
+          "Event_Description__c": "Application received",
+          "Stage__c": "Application Received",
+          "Formatted_Date__c": "Dec 2020",
+          "Status_History__c": "a132P000000CPefQAG"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Dec 2020",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Pharmac is identifying and gathering information required to get clinical advice.  The <a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/pharmacology-and-therapeutics-advisory-committee-ptac/\" rel=\"nofollow\">Pharmacology and Therapeutics Advisory Committee (PTAC)</a>  meets quarterly. There are also around 20 expert <a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/specialist-advisory-committees/\" rel=\"nofollow\">Specialist Advisory Committees (SACs)</a>, previously expert Subcommittees, which provide clinical evaluations in specialist areas. Specialist Advisory Committees meet as required to discuss issues referred to them by PTAC or Pharmac.</p>\n<p style=\"height: 20px\">&nbsp;</p>\n<p>In November 2021, we introduced separate terms of reference for the SACs to make clear that these committees have different, but complementary, roles, expertise and perspectives to PTAC.</p>\n<p style=\"height: 15px\">&nbsp;</p>\n<p>PTAC and SACs may make recommendations to Pharmac that differ from each other when looking at the same evidence. Pharmac considers the recommendations provided by all our clinical advisory committees when assessing applications.</p>\n<p style=\"height: 20px\">&nbsp;</p>\n<p><a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/pharmacology-and-therapeutics-advisory-committee-ptac/ptac-terms-of-reference-july-2021/\" rel=\"nofollow\">PTAC</a>  and <a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/specialist-advisory-committees/specialist-advisory-committee-terms-of-reference//\" rel=\"nofollow\">Specialist Advisory Committees</a> records of the meeting will be published on this website in accordance with the Terms of Reference.</p>",
+    "position": 1,
+    "name": "Seeking Clinical Advice",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Dec 2020",
+          "fs": "Dec 2020",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Clinical advice required",
+          "fs": "Clinical advice required",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P0000078iRKUAY"
+          },
+          "Id": "a0P2P0000078iRKUAY",
+          "Event_Date__c": "2020-12-04",
+          "Event_Description__c": "Clinical advice required",
+          "Stage__c": "Seeking Clinical Advice",
+          "Formatted_Date__c": "Dec 2020",
+          "Status_History__c": "a132P000000CPekQAG"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Feb 2021",
+          "fs": "Feb 2021",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Assigned to Pharmacology and Therapeutics Advisory Committee (PTAC) meeting to provide advice on Friday 19 February 2021",
+          "fs": "Assigned to Pharmacology and Therapeutics Advisory Committee (PTAC) meeting to provide advice on Friday 19 February 2021",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P0000078iVhUAI"
+          },
+          "Id": "a0P2P0000078iVhUAI",
+          "Event_Date__c": "2021-02-20",
+          "Event_Description__c": "Assigned to Pharmacology and Therapeutics Advisory Committee (PTAC) meeting to provide advice on Friday 19 February 2021",
+          "Stage__c": "Seeking Clinical Advice",
+          "Formatted_Date__c": "Feb 2021",
+          "Status_History__c": "a132P000000CcWfQAK"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": "<p>1.1.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee recommended that the access criteria for multiple sclerosis treatments be widened to include the 2017 McDonald criteria with a medium priority, subject to the following Special Authority criteria: </p><p><b style=\"font-size: 9pt;\">Entry Criteria</b></p><p><span style=\"font-size: 9pt;\">1.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Diagnosis of multiple sclerosis (MS) must meet the McDonald 2017 diagnostic criteria for MS and be confirmed by a neurologist. Diagnosis must include MRI confirmation; and</span></p><p><span style=\"font-size: 9pt;\">2.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Patient must have an EDSS score 0 - 6.0; and</span></p><p><span style=\"font-size: 9pt;\">3.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Patient has had at least 1 significant attack of MS in the previous 12 months or 2 significant relapses in the past 24 months; and</span></p><p><span style=\"font-size: 9pt;\">4.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">All of the following:</span></p><p><span style=\"font-size: 9pt;\">a.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Each significant attack must be confirmed by the applying neurologist or general physician (the patient may not necessarily have been seen by them during the attack, but the neurologist/physician must be satisfied that the clinical features were characteristic); and</span></p><p><span style=\"font-size: 9pt;\">b.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Each significant attack is associated with characteristic symptom(s)/sign(s) or substantially worsening of previously experienced symptoms(s)/sign(s); and</span></p><p><span style=\"font-size: 9pt;\">c.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Each significant attack has lasted at least one week and has started at least one month after the onset of a previous attack; and</span></p><p><span style=\"font-size: 9pt;\">d.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Each significant attack can be distinguished from the effects of general fatigue; and is not associated with a fever (T&gt; 37.5\u00b0C); and </span></p><p><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">i.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Each significant attack is severe enough to change either the EDSS or at least one of the Kurtze Functional System scores by at least 1 point; or</span></p><p><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">ii.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Each significant attack is a recurrent paroxysmal symptom of multiple sclerosis (tonic seizures/spasms, trigeminal neuralgia, Lhermitte\u2019s symptom); and</span></p><p><span style=\"font-size: 9pt;\">5.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Evidence of new inflammatory activity on an MR scan within the past 24 months; and</span></p><p><span style=\"font-size: 9pt;\">6.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Any of the following:</span></p><p><span style=\"font-size: 9pt;\">i) A sign of that new inflammatory activity is a gadolinium enhancing lesion; or</span></p><p><span style=\"font-size: 9pt;\">ii) A sign of that new inflammatory activity is a lesion showing diffusion restriction; or</span></p><p><span style=\"font-size: 9pt;\">iii) A sign of that new inflammatory is a T2 lesion with associated local swelling; or</span></p><p><span style=\"font-size: 9pt;\">iv) A sign of that new inflammatory activity is a prominent T2 lesion that clearly is responsible for the clinical features of a recent relapse that occurred within the last 2 years; or</span></p><p><span style=\"font-size: 9pt;\">v) A sign of that new inflammatory activity is new T2 lesions compared with a previous MR scan. </span></p><p><b style=\"font-size: 9pt;\">Renewal </b></p><p><span style=\"font-size: 9pt;\">Only from a neurologist or general physician. Approvals valid for 12 months where patient has had an EDSS score of 0 to 6.0 (inclusive) at any time in the last six months (i.e. the patient has walked 100 metres or more with or without aids in the last six months). </span></p><p>1.2.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee made this recommendation based on the high health need of people with multiple sclerosis (MS) who ultimately progress, the health benefits of earlier access to disease modifying treatments and good quality research. The Committee also took into account the potential risk of toxicity from lifelong treatment of patients who may never go on to develop clinically definitive MS and the lack of apparent short-term benefits for patients. </p><p>1.3.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that it would be interested in the results of a sensitivity analysis increasing the time horizon in the cost utility model, provided that robust, data-driven assumptions are made around the long-term impact of the change in access criteria. The Committee noted it could revisit its recommendation following the availability of this information. \u00a0</p>",
+          "fs": "<p>1.1.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee recommended that the access criteria for multiple sclerosis treatments be widened to include the 2017 McDonald criteria with a medium priority, subject to the following Special Authority criteria: </p><p><b style=\"font-size: 9pt;\">Entry Criteria</b></p><p><span style=\"font-size: 9pt;\">1.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Diagnosis of multiple sclerosis (MS) must meet the McDonald 2017 diagnostic criteria for MS and be confirmed by a neurologist. Diagnosis must include MRI confirmation; and</span></p><p><span style=\"font-size: 9pt;\">2.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Patient must have an EDSS score 0 - 6.0; and</span></p><p><span style=\"font-size: 9pt;\">3.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Patient has had at least 1 significant attack of MS in the previous 12 months or 2 significant relapses in the past 24 months; and</span></p><p><span style=\"font-size: 9pt;\">4.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">All of the following:</span></p><p><span style=\"font-size: 9pt;\">a.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Each significant attack must be confirmed by the applying neurologist or general physician (the patient may not necessarily have been seen by them during the attack, but the neurologist/physician must be satisfied that the clinical features were characteristic); and</span></p><p><span style=\"font-size: 9pt;\">b.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Each significant attack is associated with characteristic symptom(s)/sign(s) or substantially worsening of previously experienced symptoms(s)/sign(s); and</span></p><p><span style=\"font-size: 9pt;\">c.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Each significant attack has lasted at least one week and has started at least one month after the onset of a previous attack; and</span></p><p><span style=\"font-size: 9pt;\">d.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Each significant attack can be distinguished from the effects of general fatigue; and is not associated with a fever (T&gt; 37.5\u00b0C); and </span></p><p><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">i.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Each significant attack is severe enough to change either the EDSS or at least one of the Kurtze Functional System scores by at least 1 point; or</span></p><p><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">ii.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Each significant attack is a recurrent paroxysmal symptom of multiple sclerosis (tonic seizures/spasms, trigeminal neuralgia, Lhermitte\u2019s symptom); and</span></p><p><span style=\"font-size: 9pt;\">5.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Evidence of new inflammatory activity on an MR scan within the past 24 months; and</span></p><p><span style=\"font-size: 9pt;\">6.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Any of the following:</span></p><p><span style=\"font-size: 9pt;\">i) A sign of that new inflammatory activity is a gadolinium enhancing lesion; or</span></p><p><span style=\"font-size: 9pt;\">ii) A sign of that new inflammatory activity is a lesion showing diffusion restriction; or</span></p><p><span style=\"font-size: 9pt;\">iii) A sign of that new inflammatory is a T2 lesion with associated local swelling; or</span></p><p><span style=\"font-size: 9pt;\">iv) A sign of that new inflammatory activity is a prominent T2 lesion that clearly is responsible for the clinical features of a recent relapse that occurred within the last 2 years; or</span></p><p><span style=\"font-size: 9pt;\">v) A sign of that new inflammatory activity is new T2 lesions compared with a previous MR scan. </span></p><p><b style=\"font-size: 9pt;\">Renewal </b></p><p><span style=\"font-size: 9pt;\">Only from a neurologist or general physician. Approvals valid for 12 months where patient has had an EDSS score of 0 to 6.0 (inclusive) at any time in the last six months (i.e. the patient has walked 100 metres or more with or without aids in the last six months). </span></p><p>1.2.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee made this recommendation based on the high health need of people with multiple sclerosis (MS) who ultimately progress, the health benefits of earlier access to disease modifying treatments and good quality research. The Committee also took into account the potential risk of toxicity from lifelong treatment of patients who may never go on to develop clinically definitive MS and the lack of apparent short-term benefits for patients. </p><p>1.3.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that it would be interested in the results of a sensitivity analysis increasing the time horizon in the cost utility model, provided that robust, data-driven assumptions are made around the long-term impact of the change in access criteria. The Committee noted it could revisit its recommendation following the availability of this information. \u00a0</p>",
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": "<p>1.1.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted an application from the Multiple Sclerosis Treatments Advisory Committee (MSTAC) to amend access criteria for initiation of disease-modifying treatments (DMTs) for MS to include patients with only one clinical episode (clinically isolated syndrome, or CIS) but who fulfil McDonald 2017 revised multiple sclerosis diagnostic criteria (<a href=\"https://www.thelancet.com/journals/laneur/article/PIIS1474-4422(17)30470-2/fulltext\" target=\"_blank\">Thompson et al. Lancet Neurol. 2018;17:162-73</a>). </p><p>1.2.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that a funding application for MS treatments for CIS fulfilling the McDonald 2010 diagnostic criteria was declined by PTAC in <a href=\"https://pharmac.govt.nz/assets/ptac-minutes-2014-02.pdf\" target=\"_blank\">2014</a>, and that it would review its recommendation should new evidence become available. </p><p>1.3.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that in <a href=\"https://pharmac.govt.nz/assets/ptac-minutes-2017-11.pdf\" target=\"_blank\">2017</a>, a funding application was recommended for decline by PTAC for widened access to multiple sclerosis treatments to include patients who with CIS who fulfil the McDonald 2010 diagnostic criteria for MS (but without the additional requirement to experience significant relapse in the preceding 12 months). The Committee noted that, at the time, Members considered that the evidence provided in support of the application consisted of low-quality evidence such as selected expert consensus statements and non-systematic evidence reviews that recommend early initiation, rather than high quality evidence such as randomised controlled trials and that some of the trials pre-dated the most recent revision of the McDonald diagnostic criteria (2010). </p><p>1.4.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that when treatment for CIS was previously discussed, there was little epidemiological data of progression to clinically definite MS. The Committee noted that, since its previous review of treatment for CIS, the use of MRI has become more widespread, and more studies of better quality have been published indicating the benefit of treating patients with disease modifying treatments following a single clinical attack.\u00a0</p><p>1.5.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that CIS is the term used to describe the first episode of neurological symptoms that last for at least 24 hours and have no other cause (such as other illness, or fever), and that CIS may be the first sign of what may subsequently become clinically definite MS (usually relapsing remitting MS, often followed by progression to secondary progressive MS), and the ultimate risk of diagnosis of MS is higher after an episode of CIS than if there was no CIS. The Committee noted that carer burden for MS patients is associated with the degree of disability, and the economic and emotional state of the person with MS (<a href=\"https://pubmed.ncbi.nlm.nih.gov/23161192/\" target=\"_blank\">Opara et al. Neurol Neurochir Pol. 2012;46:472-9</a>). </p><p>1.6.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that MS has a lower prevalence in the M\u0101ori population compared with the non-M\u0101ori population, and that incidence is not linked to socioeconomic status. The Committee noted, however, that MS patients in deprived socioeconomic circumstances have a more rapid progression of disease, which may be due to issues with access to treatment (<a href=\"https://pubmed.ncbi.nlm.nih.gov/29390025/\" target=\"_blank\">Calocer et al. PLoS One. 2018;13:e0191646</a>). </p><p>1.7.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that key diagnostic criteria for MS are dissemination in time and dissemination in space, and that when this was purely clinically determined there was a requirement for more than one episode or attack. The Committee noted that since MRI technology has progressed, dissemination in space can be radiographically determined, and dissemination in time can be determined with the use of gadolinium or assumed by the presence of CSF-specific oligoclonal bands. The Committee noted that this is reflected in the updated 2017 McDonald criteria, and as such patients with only one clinical attack may fulfil these criteria and be diagnosed with MS. The Committee noted that the development of a second attack or clinically definite MS is the gold standard for validating the 2017 McDonald criteria.</p><p>1.8.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted a review summarising the data of different cohorts of MS patients to verify if the diagnosis of MS has been improved using the McDonald criteria of 2017 (<a href=\"https://pubmed.ncbi.nlm.nih.gov/30930829/\" target=\"_blank\">Schwenkenbecher et al. Front Neurol. 2019;10:188</a>). The Committee noted that the proportion of patients who developed clinically definite MS five years after being diagnosed at the CIS stage using the McDonald 2017 criteria varied significantly between studies \u2013 from a positive predictive value (PPV) of 44% in one study to 98% in another. The Committee considered that the differences in PPV between studies can be attributed to the fact that not all calculations are done based on a baseline evaluation of the cohort. For example, van der Vuurst de Vries et al. (2018) reported a PPV of 64-69% at five years if all time points between baseline and the 5 years were considered, which decreased to 54% if only baseline evaluations are considered (<a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6248116/\" target=\"_blank\">van der Vuurst de Vries et al. 2018;</a><a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6248116/\" target=\"_blank\" style=\"color: windowtext;\"> </a><a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6248116/\" target=\"_blank\">JAMA Neurol. 2018;75:1392-8</a>). Conversely, Lee et al. (2019) reported a PPV of 94%, however, the population only included those patients with evidence of dissemination in space on MRI at baseline (<a href=\"https://pubmed.ncbi.nlm.nih.gov/30362206/\" target=\"_blank\">Lee et al. Eur J Neurol. 2019;26:540-45</a>). The Committee noted that PPV also depends on if patients receive disease modifying treatment or not, as treatment may delay such progression. The Committee noted a study by Hyun et al (2019) that reported a PPV at 2 years of 70% for the entire patient population studied, which increased to 94% at two years for those who did not receive disease modifying treatment (<a href=\"https://pubmed.ncbi.nlm.nih.gov/30043667/\" target=\"_blank\">Hyun et al. Mult Scler. 2019;25:1488-95</a>). </p><p>1.9.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that the McDonald 2017 criteria may have some ability to anticipate a second \u2018attack\u2019 and thereby predict clinically definite MS (CDMS), noting the widely variable PPVs reported in the literature. The Committee considered that treatment of patients defined by McDonald 2017 criteria would likely result in some patients receiving disease modifying treatments unnecessarily i.e. that some patients would never go on to develop clinically definitive MS, and considered that 14% would be an appropriate estimate for the New Zealand setting based on evaluable evidence from two studies (<a href=\"https://pubmed.ncbi.nlm.nih.gov/30043667/\" target=\"_blank\">Hyan et al</a>, <a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6248116/\" target=\"_blank\">van der Vuurst de Vries et al.</a>) that separated out CIS patients who do not receive DMTs prior to the development of CDMS.</p><p>1.10.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted a study by Rae-Grant et al (2018), which compared the relative risk of conversion to MS over two years of different disease modifying treatments (<a href=\"https://pubmed.ncbi.nlm.nih.gov/29686117/\" target=\"_blank\">Rae-Grant et al. Neurology. 2018;90:789-800</a>). The Committee noted that all drugs investigated reduced the relative risk of progression with moderate to high confidence.</p><p>1.11.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted a long-term follow-up study of the randomised BENEFIT CIS trial, which investigated the outcomes for patients treated with interferon beta-1b immediately after CIS (<a href=\"https://pubmed.ncbi.nlm.nih.gov/27511182/\" target=\"_blank\">Kappos et al. Neurology. 2016;87:978-87</a>). The Committee noted that early treatment delayed the onset of clinically definite MS by 2.7 years when compared with delaying treatment (average delay 1.5 years). The Committee noted that there was no difference in Expanded Disability Status Scale (EDSS) score or health related quality of life between the early and delayed treatment arms. The Committee considered that disease progression from CIS and relapsing-remitting MS (when the EDSS score at treatment initiation is low, i.e. &lt;3.5) would be expected to have slow progression in disability. </p><p>1.12.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted a study by Lazzaro et al (2009) on the economic evaluation of treating CIS and subsequent MS with interferon beta-1b (<a href=\"https://pubmed.ncbi.nlm.nih.gov/19169625/\" target=\"_blank\">Lazzaro et al. Neurol Sci. 2009;30:21-31</a>). The Committee noted that the study reported that early treatment of all CIS patients with interferon beta-1b was highly cost-effective. The Committee noted a study by Brown et al. (2019) investigating the progression of patients from relapsing-remitting MS to secondary progressive MS (<a href=\"https://pubmed.ncbi.nlm.nih.gov/30644981/\" target=\"_blank\">Brown et al. JAMA. 2019;321:175-87</a>). The Committee noted that all disease modifying treatments investigated in the study made a difference and delayed disease progression, but that the newer disease modifying treatments appeared more effective (fingolimod, alemtuzumab, natalizumab). The Committee noted that initiating treatment with disease modifying treatments within five years of relapsing-remitting MS also significantly slowed the progression to secondary progressive MS. </p><p>1.13.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted a 2019 study by Harding et al. outlining the clinical outcomes of escalating treatment versus early intensive disease modifying treatment in MS patients (<a href=\"https://pubmed.ncbi.nlm.nih.gov/30776055/\" target=\"_blank\">Harding et al. JAMA Neurol. 2019;76:536-41</a>). The Committee noted that that time to sustained accumulation of disability was longer for patients who were treated with early intensive disease modifying treatments, compared to patients who were started on less intense treatments and were escalated as their disease progressed. The Committee noted that the escalation approach is what is currently implemented in New Zealand for the treatment of MS. The Committee also noted evidence indicating that treating CIS patients with disease modifying treatments appears to reduce brain atrophy over time, and considered that this may delay eventual decrease in health-related quality of life experienced by MS patients (<a href=\"https://pubmed.ncbi.nlm.nih.gov/25756363/\" target=\"_blank\">Tsivgoulis et al. PLoS One. 2015;10: e0116511</a>). </p><p>1.14.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that the strength and quality of evidence, including its relevance to New Zealand, for health benefits that may be gained from widening access to disease modifying treatments for patients with only one clinical episode but who fulfil McDonald 2017 criteria, was high for the benefits of early treatment; but considered that the heterogeneity of reported PPVs meant that the evidence for the predictive power of the McDonald criteria was modest at best, and noted that there are no New Zealand studies of PPV for McDonald 2017 criteria. </p><p>1.15.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that the possible benefits of earlier treatment of MS i.e. at CIS presentation, include a delay in transition from CIS to clinically definite MS, reduced annualised rates of relapse, delayed transition to secondary progressive MS, and reduced brain atrophy. The Committee considered that early treatment of CIS patients who meet the McDonald 2017 criteria would likely provide some benefit to patients, especially when delivered within five years of disease onset. The Committee noted that early treatment effects may depend on the type of disease modifying treatment used, noting that newer agents are likely to be superior in regard to delaying or preventing the onset of secondary progressive MS. The Committee noted in the Brown et al. study that when glatiramer acetate or interferon beta were compared with newer agents (fingolimod, alemtuzumab or natalizumab) that the cumulative hazard of conversion to secondary progressive MS was slower with the newer agents (HR=0.66; 95% CI 0.44 to 0.99; P=0.046). </p><p>1.16.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee also considered the possible harms of treating patients with CIS, including the potential for unnecessary treatment with associated treatment-related harms, which could affect 2% to 66% of CIS patients diagnosed with MS using the McDonald 2017 criteria, as well as the cost associated with treating patients who would not benefit. The Committee considered that early treatment of CIS patients would have little effect on caregiver burden immediately, which would be low to begin with, due to the low level of disability at the CIS stage; however, that over time a delay in MS progression would also delay caregiver burden.\u00a0</p><p>1.17.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that whilst the McDonald 2017 criteria would only increase the early diagnosis of clinically definite MS by about 25% compared to current practice, the incorporation of the 2017 criteria into funding restrictions for disease modifying treatments would increase the prevalent population in a treatment cohort of CIS patients who might benefit from disease modifying treatments. The Committee considered that there would be approximately 40 additional patients in the first year, and 80 new patients in the following two years that would have access to disease modifying treatments if access were widened to CIS patients. The Committee noted that, according to Kappos et al., patients would be starting treatment approximately 1.5 years earlier than they would under the current criteria. The Committee noted that the proportion of CIS patients fulfilling McDonald 2017 criteria would increase over time, from 54% at baseline to 69% over 5 years, as additional patients fulfilled the criteria and others remained on treatment. The Committee also considered that the appropriate comparator for this patient population is no treatment, and that approximately 24% of CIS patients would be unnecessarily treated i.e. these patients would not progress to experiencing a relapse, at least within a five-year time horizon. </p><p>1.18.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted a report on the natural history of CIS, which outlined that 10 years from an episode of CIS, 35% of patients will not have progressed to clinically definite MS, but that the majority of CIS patients will go on to develop relapsing-remitting MS and then secondary progressive MS (<a href=\"https://pubmed.ncbi.nlm.nih.gov/30022111/\" target=\"_blank\">Hou et al. Sci Rep. 2018;8:10857</a>). The Committee noted that, over time, more and more patients progress to clinically definite MS, and that by 30-40 years, very few patients have not progressed. The Committee considered that any true quality of life improvements or differences from earlier treatment would only be measurable over a lifetime time horizon, and that short term it would be unlikely that there would be any assessable quality of life benefit. The Committee expressed interest in any future sensitivity analysis results from cost utility analysis modelling, provided that robust, data-driven assumptions were made around the long-term impact of the change in access criteria. The committee considered that delays in transition to secondary progressive MS over a lifetime time horizon would be a key driver in differences in EDSS and HRQoL.</p>",
+          "fs": "<p>1.1.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted an application from the Multiple Sclerosis Treatments Advisory Committee (MSTAC) to amend access criteria for initiation of disease-modifying treatments (DMTs) for MS to include patients with only one clinical episode (clinically isolated syndrome, or CIS) but who fulfil McDonald 2017 revised multiple sclerosis diagnostic criteria (<a href=\"https://www.thelancet.com/journals/laneur/article/PIIS1474-4422(17)30470-2/fulltext\" target=\"_blank\">Thompson et al. Lancet Neurol. 2018;17:162-73</a>). </p><p>1.2.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that a funding application for MS treatments for CIS fulfilling the McDonald 2010 diagnostic criteria was declined by PTAC in <a href=\"https://pharmac.govt.nz/assets/ptac-minutes-2014-02.pdf\" target=\"_blank\">2014</a>, and that it would review its recommendation should new evidence become available. </p><p>1.3.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that in <a href=\"https://pharmac.govt.nz/assets/ptac-minutes-2017-11.pdf\" target=\"_blank\">2017</a>, a funding application was recommended for decline by PTAC for widened access to multiple sclerosis treatments to include patients who with CIS who fulfil the McDonald 2010 diagnostic criteria for MS (but without the additional requirement to experience significant relapse in the preceding 12 months). The Committee noted that, at the time, Members considered that the evidence provided in support of the application consisted of low-quality evidence such as selected expert consensus statements and non-systematic evidence reviews that recommend early initiation, rather than high quality evidence such as randomised controlled trials and that some of the trials pre-dated the most recent revision of the McDonald diagnostic criteria (2010). </p><p>1.4.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that when treatment for CIS was previously discussed, there was little epidemiological data of progression to clinically definite MS. The Committee noted that, since its previous review of treatment for CIS, the use of MRI has become more widespread, and more studies of better quality have been published indicating the benefit of treating patients with disease modifying treatments following a single clinical attack.\u00a0</p><p>1.5.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that CIS is the term used to describe the first episode of neurological symptoms that last for at least 24 hours and have no other cause (such as other illness, or fever), and that CIS may be the first sign of what may subsequently become clinically definite MS (usually relapsing remitting MS, often followed by progression to secondary progressive MS), and the ultimate risk of diagnosis of MS is higher after an episode of CIS than if there was no CIS. The Committee noted that carer burden for MS patients is associated with the degree of disability, and the economic and emotional state of the person with MS (<a href=\"https://pubmed.ncbi.nlm.nih.gov/23161192/\" target=\"_blank\">Opara et al. Neurol Neurochir Pol. 2012;46:472-9</a>). </p><p>1.6.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that MS has a lower prevalence in the M\u0101ori population compared with the non-M\u0101ori population, and that incidence is not linked to socioeconomic status. The Committee noted, however, that MS patients in deprived socioeconomic circumstances have a more rapid progression of disease, which may be due to issues with access to treatment (<a href=\"https://pubmed.ncbi.nlm.nih.gov/29390025/\" target=\"_blank\">Calocer et al. PLoS One. 2018;13:e0191646</a>). </p><p>1.7.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that key diagnostic criteria for MS are dissemination in time and dissemination in space, and that when this was purely clinically determined there was a requirement for more than one episode or attack. The Committee noted that since MRI technology has progressed, dissemination in space can be radiographically determined, and dissemination in time can be determined with the use of gadolinium or assumed by the presence of CSF-specific oligoclonal bands. The Committee noted that this is reflected in the updated 2017 McDonald criteria, and as such patients with only one clinical attack may fulfil these criteria and be diagnosed with MS. The Committee noted that the development of a second attack or clinically definite MS is the gold standard for validating the 2017 McDonald criteria.</p><p>1.8.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted a review summarising the data of different cohorts of MS patients to verify if the diagnosis of MS has been improved using the McDonald criteria of 2017 (<a href=\"https://pubmed.ncbi.nlm.nih.gov/30930829/\" target=\"_blank\">Schwenkenbecher et al. Front Neurol. 2019;10:188</a>). The Committee noted that the proportion of patients who developed clinically definite MS five years after being diagnosed at the CIS stage using the McDonald 2017 criteria varied significantly between studies \u2013 from a positive predictive value (PPV) of 44% in one study to 98% in another. The Committee considered that the differences in PPV between studies can be attributed to the fact that not all calculations are done based on a baseline evaluation of the cohort. For example, van der Vuurst de Vries et al. (2018) reported a PPV of 64-69% at five years if all time points between baseline and the 5 years were considered, which decreased to 54% if only baseline evaluations are considered (<a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6248116/\" target=\"_blank\">van der Vuurst de Vries et al. 2018;</a><a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6248116/\" target=\"_blank\" style=\"color: windowtext;\"> </a><a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6248116/\" target=\"_blank\">JAMA Neurol. 2018;75:1392-8</a>). Conversely, Lee et al. (2019) reported a PPV of 94%, however, the population only included those patients with evidence of dissemination in space on MRI at baseline (<a href=\"https://pubmed.ncbi.nlm.nih.gov/30362206/\" target=\"_blank\">Lee et al. Eur J Neurol. 2019;26:540-45</a>). The Committee noted that PPV also depends on if patients receive disease modifying treatment or not, as treatment may delay such progression. The Committee noted a study by Hyun et al (2019) that reported a PPV at 2 years of 70% for the entire patient population studied, which increased to 94% at two years for those who did not receive disease modifying treatment (<a href=\"https://pubmed.ncbi.nlm.nih.gov/30043667/\" target=\"_blank\">Hyun et al. Mult Scler. 2019;25:1488-95</a>). </p><p>1.9.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that the McDonald 2017 criteria may have some ability to anticipate a second \u2018attack\u2019 and thereby predict clinically definite MS (CDMS), noting the widely variable PPVs reported in the literature. The Committee considered that treatment of patients defined by McDonald 2017 criteria would likely result in some patients receiving disease modifying treatments unnecessarily i.e. that some patients would never go on to develop clinically definitive MS, and considered that 14% would be an appropriate estimate for the New Zealand setting based on evaluable evidence from two studies (<a href=\"https://pubmed.ncbi.nlm.nih.gov/30043667/\" target=\"_blank\">Hyan et al</a>, <a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6248116/\" target=\"_blank\">van der Vuurst de Vries et al.</a>) that separated out CIS patients who do not receive DMTs prior to the development of CDMS.</p><p>1.10.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted a study by Rae-Grant et al (2018), which compared the relative risk of conversion to MS over two years of different disease modifying treatments (<a href=\"https://pubmed.ncbi.nlm.nih.gov/29686117/\" target=\"_blank\">Rae-Grant et al. Neurology. 2018;90:789-800</a>). The Committee noted that all drugs investigated reduced the relative risk of progression with moderate to high confidence.</p><p>1.11.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted a long-term follow-up study of the randomised BENEFIT CIS trial, which investigated the outcomes for patients treated with interferon beta-1b immediately after CIS (<a href=\"https://pubmed.ncbi.nlm.nih.gov/27511182/\" target=\"_blank\">Kappos et al. Neurology. 2016;87:978-87</a>). The Committee noted that early treatment delayed the onset of clinically definite MS by 2.7 years when compared with delaying treatment (average delay 1.5 years). The Committee noted that there was no difference in Expanded Disability Status Scale (EDSS) score or health related quality of life between the early and delayed treatment arms. The Committee considered that disease progression from CIS and relapsing-remitting MS (when the EDSS score at treatment initiation is low, i.e. &lt;3.5) would be expected to have slow progression in disability. </p><p>1.12.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted a study by Lazzaro et al (2009) on the economic evaluation of treating CIS and subsequent MS with interferon beta-1b (<a href=\"https://pubmed.ncbi.nlm.nih.gov/19169625/\" target=\"_blank\">Lazzaro et al. Neurol Sci. 2009;30:21-31</a>). The Committee noted that the study reported that early treatment of all CIS patients with interferon beta-1b was highly cost-effective. The Committee noted a study by Brown et al. (2019) investigating the progression of patients from relapsing-remitting MS to secondary progressive MS (<a href=\"https://pubmed.ncbi.nlm.nih.gov/30644981/\" target=\"_blank\">Brown et al. JAMA. 2019;321:175-87</a>). The Committee noted that all disease modifying treatments investigated in the study made a difference and delayed disease progression, but that the newer disease modifying treatments appeared more effective (fingolimod, alemtuzumab, natalizumab). The Committee noted that initiating treatment with disease modifying treatments within five years of relapsing-remitting MS also significantly slowed the progression to secondary progressive MS. </p><p>1.13.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted a 2019 study by Harding et al. outlining the clinical outcomes of escalating treatment versus early intensive disease modifying treatment in MS patients (<a href=\"https://pubmed.ncbi.nlm.nih.gov/30776055/\" target=\"_blank\">Harding et al. JAMA Neurol. 2019;76:536-41</a>). The Committee noted that that time to sustained accumulation of disability was longer for patients who were treated with early intensive disease modifying treatments, compared to patients who were started on less intense treatments and were escalated as their disease progressed. The Committee noted that the escalation approach is what is currently implemented in New Zealand for the treatment of MS. The Committee also noted evidence indicating that treating CIS patients with disease modifying treatments appears to reduce brain atrophy over time, and considered that this may delay eventual decrease in health-related quality of life experienced by MS patients (<a href=\"https://pubmed.ncbi.nlm.nih.gov/25756363/\" target=\"_blank\">Tsivgoulis et al. PLoS One. 2015;10: e0116511</a>). </p><p>1.14.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that the strength and quality of evidence, including its relevance to New Zealand, for health benefits that may be gained from widening access to disease modifying treatments for patients with only one clinical episode but who fulfil McDonald 2017 criteria, was high for the benefits of early treatment; but considered that the heterogeneity of reported PPVs meant that the evidence for the predictive power of the McDonald criteria was modest at best, and noted that there are no New Zealand studies of PPV for McDonald 2017 criteria. </p><p>1.15.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that the possible benefits of earlier treatment of MS i.e. at CIS presentation, include a delay in transition from CIS to clinically definite MS, reduced annualised rates of relapse, delayed transition to secondary progressive MS, and reduced brain atrophy. The Committee considered that early treatment of CIS patients who meet the McDonald 2017 criteria would likely provide some benefit to patients, especially when delivered within five years of disease onset. The Committee noted that early treatment effects may depend on the type of disease modifying treatment used, noting that newer agents are likely to be superior in regard to delaying or preventing the onset of secondary progressive MS. The Committee noted in the Brown et al. study that when glatiramer acetate or interferon beta were compared with newer agents (fingolimod, alemtuzumab or natalizumab) that the cumulative hazard of conversion to secondary progressive MS was slower with the newer agents (HR=0.66; 95% CI 0.44 to 0.99; P=0.046). </p><p>1.16.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee also considered the possible harms of treating patients with CIS, including the potential for unnecessary treatment with associated treatment-related harms, which could affect 2% to 66% of CIS patients diagnosed with MS using the McDonald 2017 criteria, as well as the cost associated with treating patients who would not benefit. The Committee considered that early treatment of CIS patients would have little effect on caregiver burden immediately, which would be low to begin with, due to the low level of disability at the CIS stage; however, that over time a delay in MS progression would also delay caregiver burden.\u00a0</p><p>1.17.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that whilst the McDonald 2017 criteria would only increase the early diagnosis of clinically definite MS by about 25% compared to current practice, the incorporation of the 2017 criteria into funding restrictions for disease modifying treatments would increase the prevalent population in a treatment cohort of CIS patients who might benefit from disease modifying treatments. The Committee considered that there would be approximately 40 additional patients in the first year, and 80 new patients in the following two years that would have access to disease modifying treatments if access were widened to CIS patients. The Committee noted that, according to Kappos et al., patients would be starting treatment approximately 1.5 years earlier than they would under the current criteria. The Committee noted that the proportion of CIS patients fulfilling McDonald 2017 criteria would increase over time, from 54% at baseline to 69% over 5 years, as additional patients fulfilled the criteria and others remained on treatment. The Committee also considered that the appropriate comparator for this patient population is no treatment, and that approximately 24% of CIS patients would be unnecessarily treated i.e. these patients would not progress to experiencing a relapse, at least within a five-year time horizon. </p><p>1.18.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted a report on the natural history of CIS, which outlined that 10 years from an episode of CIS, 35% of patients will not have progressed to clinically definite MS, but that the majority of CIS patients will go on to develop relapsing-remitting MS and then secondary progressive MS (<a href=\"https://pubmed.ncbi.nlm.nih.gov/30022111/\" target=\"_blank\">Hou et al. Sci Rep. 2018;8:10857</a>). The Committee noted that, over time, more and more patients progress to clinically definite MS, and that by 30-40 years, very few patients have not progressed. The Committee considered that any true quality of life improvements or differences from earlier treatment would only be measurable over a lifetime time horizon, and that short term it would be unlikely that there would be any assessable quality of life benefit. The Committee expressed interest in any future sensitivity analysis results from cost utility analysis modelling, provided that robust, data-driven assumptions were made around the long-term impact of the change in access criteria. The committee considered that delays in transition to secondary progressive MS over a lifetime time horizon would be a key driver in differences in EDSS and HRQoL.</p>",
+          "change": null
+        },
+        "Published_Application": {
+          "s": "<p>1.1.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee reviewed the application for amending multiple sclerosis access criteria to include the 2017 McDonald criteria.</p><p>1.2.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee took into account, where applicable, PHARMAC\u2019s relevant decision-making framework when considering this agenda item.\u00a0</p>",
+          "fs": "<p>1.1.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee reviewed the application for amending multiple sclerosis access criteria to include the 2017 McDonald criteria.</p><p>1.2.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee took into account, where applicable, PHARMAC\u2019s relevant decision-making framework when considering this agenda item.\u00a0</p>",
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": "Medium",
+          "fs": "Medium",
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "May 2021",
+          "fs": "May 2021",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Clinical advice received from Pharmacology and Therapeutics Advisory Committee (PTAC) at meeting Friday 19 February 2021.",
+          "fs": "Clinical advice received from Pharmacology and Therapeutics Advisory Committee (PTAC) at meeting Friday 19 February 2021.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P0000078iViUAI"
+          },
+          "Id": "a0P2P0000078iViUAI",
+          "Event_Date__c": "2021-05-12",
+          "Event_Description__c": "Clinical advice received from Pharmacology and Therapeutics Advisory Committee (PTAC) at meeting Friday 19 February 2021.",
+          "Stage__c": "Seeking Clinical Advice",
+          "Outcome__c": "Medium",
+          "Formatted_Date__c": "May 2021",
+          "Published_Recommendation__c": "<p>1.1.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee recommended that the access criteria for multiple sclerosis treatments be widened to include the 2017 McDonald criteria with a medium priority, subject to the following Special Authority criteria: </p><p><b style=\"font-size: 9pt;\">Entry Criteria</b></p><p><span style=\"font-size: 9pt;\">1.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Diagnosis of multiple sclerosis (MS) must meet the McDonald 2017 diagnostic criteria for MS and be confirmed by a neurologist. Diagnosis must include MRI confirmation; and</span></p><p><span style=\"font-size: 9pt;\">2.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Patient must have an EDSS score 0 - 6.0; and</span></p><p><span style=\"font-size: 9pt;\">3.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Patient has had at least 1 significant attack of MS in the previous 12 months or 2 significant relapses in the past 24 months; and</span></p><p><span style=\"font-size: 9pt;\">4.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">All of the following:</span></p><p><span style=\"font-size: 9pt;\">a.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Each significant attack must be confirmed by the applying neurologist or general physician (the patient may not necessarily have been seen by them during the attack, but the neurologist/physician must be satisfied that the clinical features were characteristic); and</span></p><p><span style=\"font-size: 9pt;\">b.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Each significant attack is associated with characteristic symptom(s)/sign(s) or substantially worsening of previously experienced symptoms(s)/sign(s); and</span></p><p><span style=\"font-size: 9pt;\">c.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Each significant attack has lasted at least one week and has started at least one month after the onset of a previous attack; and</span></p><p><span style=\"font-size: 9pt;\">d.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Each significant attack can be distinguished from the effects of general fatigue; and is not associated with a fever (T&gt; 37.5\u00b0C); and </span></p><p><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">i.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Each significant attack is severe enough to change either the EDSS or at least one of the Kurtze Functional System scores by at least 1 point; or</span></p><p><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">ii.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Each significant attack is a recurrent paroxysmal symptom of multiple sclerosis (tonic seizures/spasms, trigeminal neuralgia, Lhermitte\u2019s symptom); and</span></p><p><span style=\"font-size: 9pt;\">5.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Evidence of new inflammatory activity on an MR scan within the past 24 months; and</span></p><p><span style=\"font-size: 9pt;\">6.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Any of the following:</span></p><p><span style=\"font-size: 9pt;\">i) A sign of that new inflammatory activity is a gadolinium enhancing lesion; or</span></p><p><span style=\"font-size: 9pt;\">ii) A sign of that new inflammatory activity is a lesion showing diffusion restriction; or</span></p><p><span style=\"font-size: 9pt;\">iii) A sign of that new inflammatory is a T2 lesion with associated local swelling; or</span></p><p><span style=\"font-size: 9pt;\">iv) A sign of that new inflammatory activity is a prominent T2 lesion that clearly is responsible for the clinical features of a recent relapse that occurred within the last 2 years; or</span></p><p><span style=\"font-size: 9pt;\">v) A sign of that new inflammatory activity is new T2 lesions compared with a previous MR scan. </span></p><p><b style=\"font-size: 9pt;\">Renewal </b></p><p><span style=\"font-size: 9pt;\">Only from a neurologist or general physician. Approvals valid for 12 months where patient has had an EDSS score of 0 to 6.0 (inclusive) at any time in the last six months (i.e. the patient has walked 100 metres or more with or without aids in the last six months). </span></p><p>1.2.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee made this recommendation based on the high health need of people with multiple sclerosis (MS) who ultimately progress, the health benefits of earlier access to disease modifying treatments and good quality research. The Committee also took into account the potential risk of toxicity from lifelong treatment of patients who may never go on to develop clinically definitive MS and the lack of apparent short-term benefits for patients. </p><p>1.3.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that it would be interested in the results of a sensitivity analysis increasing the time horizon in the cost utility model, provided that robust, data-driven assumptions are made around the long-term impact of the change in access criteria. The Committee noted it could revisit its recommendation following the availability of this information. \u00a0</p>",
+          "Published_Application__c": "<p>1.1.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee reviewed the application for amending multiple sclerosis access criteria to include the 2017 McDonald criteria.</p><p>1.2.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee took into account, where applicable, PHARMAC\u2019s relevant decision-making framework when considering this agenda item.\u00a0</p>",
+          "Published_Discussion__c": "<p>1.1.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted an application from the Multiple Sclerosis Treatments Advisory Committee (MSTAC) to amend access criteria for initiation of disease-modifying treatments (DMTs) for MS to include patients with only one clinical episode (clinically isolated syndrome, or CIS) but who fulfil McDonald 2017 revised multiple sclerosis diagnostic criteria (<a href=\"https://www.thelancet.com/journals/laneur/article/PIIS1474-4422(17)30470-2/fulltext\" target=\"_blank\">Thompson et al. Lancet Neurol. 2018;17:162-73</a>). </p><p>1.2.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that a funding application for MS treatments for CIS fulfilling the McDonald 2010 diagnostic criteria was declined by PTAC in <a href=\"https://pharmac.govt.nz/assets/ptac-minutes-2014-02.pdf\" target=\"_blank\">2014</a>, and that it would review its recommendation should new evidence become available. </p><p>1.3.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that in <a href=\"https://pharmac.govt.nz/assets/ptac-minutes-2017-11.pdf\" target=\"_blank\">2017</a>, a funding application was recommended for decline by PTAC for widened access to multiple sclerosis treatments to include patients who with CIS who fulfil the McDonald 2010 diagnostic criteria for MS (but without the additional requirement to experience significant relapse in the preceding 12 months). The Committee noted that, at the time, Members considered that the evidence provided in support of the application consisted of low-quality evidence such as selected expert consensus statements and non-systematic evidence reviews that recommend early initiation, rather than high quality evidence such as randomised controlled trials and that some of the trials pre-dated the most recent revision of the McDonald diagnostic criteria (2010). </p><p>1.4.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that when treatment for CIS was previously discussed, there was little epidemiological data of progression to clinically definite MS. The Committee noted that, since its previous review of treatment for CIS, the use of MRI has become more widespread, and more studies of better quality have been published indicating the benefit of treating patients with disease modifying treatments following a single clinical attack.\u00a0</p><p>1.5.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that CIS is the term used to describe the first episode of neurological symptoms that last for at least 24 hours and have no other cause (such as other illness, or fever), and that CIS may be the first sign of what may subsequently become clinically definite MS (usually relapsing remitting MS, often followed by progression to secondary progressive MS), and the ultimate risk of diagnosis of MS is higher after an episode of CIS than if there was no CIS. The Committee noted that carer burden for MS patients is associated with the degree of disability, and the economic and emotional state of the person with MS (<a href=\"https://pubmed.ncbi.nlm.nih.gov/23161192/\" target=\"_blank\">Opara et al. Neurol Neurochir Pol. 2012;46:472-9</a>). </p><p>1.6.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that MS has a lower prevalence in the M\u0101ori population compared with the non-M\u0101ori population, and that incidence is not linked to socioeconomic status. The Committee noted, however, that MS patients in deprived socioeconomic circumstances have a more rapid progression of disease, which may be due to issues with access to treatment (<a href=\"https://pubmed.ncbi.nlm.nih.gov/29390025/\" target=\"_blank\">Calocer et al. PLoS One. 2018;13:e0191646</a>). </p><p>1.7.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that key diagnostic criteria for MS are dissemination in time and dissemination in space, and that when this was purely clinically determined there was a requirement for more than one episode or attack. The Committee noted that since MRI technology has progressed, dissemination in space can be radiographically determined, and dissemination in time can be determined with the use of gadolinium or assumed by the presence of CSF-specific oligoclonal bands. The Committee noted that this is reflected in the updated 2017 McDonald criteria, and as such patients with only one clinical attack may fulfil these criteria and be diagnosed with MS. The Committee noted that the development of a second attack or clinically definite MS is the gold standard for validating the 2017 McDonald criteria.</p><p>1.8.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted a review summarising the data of different cohorts of MS patients to verify if the diagnosis of MS has been improved using the McDonald criteria of 2017 (<a href=\"https://pubmed.ncbi.nlm.nih.gov/30930829/\" target=\"_blank\">Schwenkenbecher et al. Front Neurol. 2019;10:188</a>). The Committee noted that the proportion of patients who developed clinically definite MS five years after being diagnosed at the CIS stage using the McDonald 2017 criteria varied significantly between studies \u2013 from a positive predictive value (PPV) of 44% in one study to 98% in another. The Committee considered that the differences in PPV between studies can be attributed to the fact that not all calculations are done based on a baseline evaluation of the cohort. For example, van der Vuurst de Vries et al. (2018) reported a PPV of 64-69% at five years if all time points between baseline and the 5 years were considered, which decreased to 54% if only baseline evaluations are considered (<a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6248116/\" target=\"_blank\">van der Vuurst de Vries et al. 2018;</a><a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6248116/\" target=\"_blank\" style=\"color: windowtext;\"> </a><a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6248116/\" target=\"_blank\">JAMA Neurol. 2018;75:1392-8</a>). Conversely, Lee et al. (2019) reported a PPV of 94%, however, the population only included those patients with evidence of dissemination in space on MRI at baseline (<a href=\"https://pubmed.ncbi.nlm.nih.gov/30362206/\" target=\"_blank\">Lee et al. Eur J Neurol. 2019;26:540-45</a>). The Committee noted that PPV also depends on if patients receive disease modifying treatment or not, as treatment may delay such progression. The Committee noted a study by Hyun et al (2019) that reported a PPV at 2 years of 70% for the entire patient population studied, which increased to 94% at two years for those who did not receive disease modifying treatment (<a href=\"https://pubmed.ncbi.nlm.nih.gov/30043667/\" target=\"_blank\">Hyun et al. Mult Scler. 2019;25:1488-95</a>). </p><p>1.9.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that the McDonald 2017 criteria may have some ability to anticipate a second \u2018attack\u2019 and thereby predict clinically definite MS (CDMS), noting the widely variable PPVs reported in the literature. The Committee considered that treatment of patients defined by McDonald 2017 criteria would likely result in some patients receiving disease modifying treatments unnecessarily i.e. that some patients would never go on to develop clinically definitive MS, and considered that 14% would be an appropriate estimate for the New Zealand setting based on evaluable evidence from two studies (<a href=\"https://pubmed.ncbi.nlm.nih.gov/30043667/\" target=\"_blank\">Hyan et al</a>, <a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6248116/\" target=\"_blank\">van der Vuurst de Vries et al.</a>) that separated out CIS patients who do not receive DMTs prior to the development of CDMS.</p><p>1.10.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted a study by Rae-Grant et al (2018), which compared the relative risk of conversion to MS over two years of different disease modifying treatments (<a href=\"https://pubmed.ncbi.nlm.nih.gov/29686117/\" target=\"_blank\">Rae-Grant et al. Neurology. 2018;90:789-800</a>). The Committee noted that all drugs investigated reduced the relative risk of progression with moderate to high confidence.</p><p>1.11.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted a long-term follow-up study of the randomised BENEFIT CIS trial, which investigated the outcomes for patients treated with interferon beta-1b immediately after CIS (<a href=\"https://pubmed.ncbi.nlm.nih.gov/27511182/\" target=\"_blank\">Kappos et al. Neurology. 2016;87:978-87</a>). The Committee noted that early treatment delayed the onset of clinically definite MS by 2.7 years when compared with delaying treatment (average delay 1.5 years). The Committee noted that there was no difference in Expanded Disability Status Scale (EDSS) score or health related quality of life between the early and delayed treatment arms. The Committee considered that disease progression from CIS and relapsing-remitting MS (when the EDSS score at treatment initiation is low, i.e. &lt;3.5) would be expected to have slow progression in disability. </p><p>1.12.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted a study by Lazzaro et al (2009) on the economic evaluation of treating CIS and subsequent MS with interferon beta-1b (<a href=\"https://pubmed.ncbi.nlm.nih.gov/19169625/\" target=\"_blank\">Lazzaro et al. Neurol Sci. 2009;30:21-31</a>). The Committee noted that the study reported that early treatment of all CIS patients with interferon beta-1b was highly cost-effective. The Committee noted a study by Brown et al. (2019) investigating the progression of patients from relapsing-remitting MS to secondary progressive MS (<a href=\"https://pubmed.ncbi.nlm.nih.gov/30644981/\" target=\"_blank\">Brown et al. JAMA. 2019;321:175-87</a>). The Committee noted that all disease modifying treatments investigated in the study made a difference and delayed disease progression, but that the newer disease modifying treatments appeared more effective (fingolimod, alemtuzumab, natalizumab). The Committee noted that initiating treatment with disease modifying treatments within five years of relapsing-remitting MS also significantly slowed the progression to secondary progressive MS. </p><p>1.13.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted a 2019 study by Harding et al. outlining the clinical outcomes of escalating treatment versus early intensive disease modifying treatment in MS patients (<a href=\"https://pubmed.ncbi.nlm.nih.gov/30776055/\" target=\"_blank\">Harding et al. JAMA Neurol. 2019;76:536-41</a>). The Committee noted that that time to sustained accumulation of disability was longer for patients who were treated with early intensive disease modifying treatments, compared to patients who were started on less intense treatments and were escalated as their disease progressed. The Committee noted that the escalation approach is what is currently implemented in New Zealand for the treatment of MS. The Committee also noted evidence indicating that treating CIS patients with disease modifying treatments appears to reduce brain atrophy over time, and considered that this may delay eventual decrease in health-related quality of life experienced by MS patients (<a href=\"https://pubmed.ncbi.nlm.nih.gov/25756363/\" target=\"_blank\">Tsivgoulis et al. PLoS One. 2015;10: e0116511</a>). </p><p>1.14.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that the strength and quality of evidence, including its relevance to New Zealand, for health benefits that may be gained from widening access to disease modifying treatments for patients with only one clinical episode but who fulfil McDonald 2017 criteria, was high for the benefits of early treatment; but considered that the heterogeneity of reported PPVs meant that the evidence for the predictive power of the McDonald criteria was modest at best, and noted that there are no New Zealand studies of PPV for McDonald 2017 criteria. </p><p>1.15.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that the possible benefits of earlier treatment of MS i.e. at CIS presentation, include a delay in transition from CIS to clinically definite MS, reduced annualised rates of relapse, delayed transition to secondary progressive MS, and reduced brain atrophy. The Committee considered that early treatment of CIS patients who meet the McDonald 2017 criteria would likely provide some benefit to patients, especially when delivered within five years of disease onset. The Committee noted that early treatment effects may depend on the type of disease modifying treatment used, noting that newer agents are likely to be superior in regard to delaying or preventing the onset of secondary progressive MS. The Committee noted in the Brown et al. study that when glatiramer acetate or interferon beta were compared with newer agents (fingolimod, alemtuzumab or natalizumab) that the cumulative hazard of conversion to secondary progressive MS was slower with the newer agents (HR=0.66; 95% CI 0.44 to 0.99; P=0.046). </p><p>1.16.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee also considered the possible harms of treating patients with CIS, including the potential for unnecessary treatment with associated treatment-related harms, which could affect 2% to 66% of CIS patients diagnosed with MS using the McDonald 2017 criteria, as well as the cost associated with treating patients who would not benefit. The Committee considered that early treatment of CIS patients would have little effect on caregiver burden immediately, which would be low to begin with, due to the low level of disability at the CIS stage; however, that over time a delay in MS progression would also delay caregiver burden.\u00a0</p><p>1.17.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that whilst the McDonald 2017 criteria would only increase the early diagnosis of clinically definite MS by about 25% compared to current practice, the incorporation of the 2017 criteria into funding restrictions for disease modifying treatments would increase the prevalent population in a treatment cohort of CIS patients who might benefit from disease modifying treatments. The Committee considered that there would be approximately 40 additional patients in the first year, and 80 new patients in the following two years that would have access to disease modifying treatments if access were widened to CIS patients. The Committee noted that, according to Kappos et al., patients would be starting treatment approximately 1.5 years earlier than they would under the current criteria. The Committee noted that the proportion of CIS patients fulfilling McDonald 2017 criteria would increase over time, from 54% at baseline to 69% over 5 years, as additional patients fulfilled the criteria and others remained on treatment. The Committee also considered that the appropriate comparator for this patient population is no treatment, and that approximately 24% of CIS patients would be unnecessarily treated i.e. these patients would not progress to experiencing a relapse, at least within a five-year time horizon. </p><p>1.18.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted a report on the natural history of CIS, which outlined that 10 years from an episode of CIS, 35% of patients will not have progressed to clinically definite MS, but that the majority of CIS patients will go on to develop relapsing-remitting MS and then secondary progressive MS (<a href=\"https://pubmed.ncbi.nlm.nih.gov/30022111/\" target=\"_blank\">Hou et al. Sci Rep. 2018;8:10857</a>). The Committee noted that, over time, more and more patients progress to clinically definite MS, and that by 30-40 years, very few patients have not progressed. The Committee considered that any true quality of life improvements or differences from earlier treatment would only be measurable over a lifetime time horizon, and that short term it would be unlikely that there would be any assessable quality of life benefit. The Committee expressed interest in any future sensitivity analysis results from cost utility analysis modelling, provided that robust, data-driven assumptions were made around the long-term impact of the change in access criteria. The committee considered that delays in transition to secondary progressive MS over a lifetime time horizon would be a key driver in differences in EDSS and HRQoL.</p>",
+          "Status_History__c": "a132P000000Cq2vQAC"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Dec 2020",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Following Clinical Advice, Pharmac staff considers the advice and the funding application under goes an assessment using our&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/factors-for-consideration/\" rel=\"nofollow\">Factors for Consideration</a>&nbsp;framework and seeks additional information as required.</p>\r\n<p>&nbsp;</p>\r\n<p>Research and Economic analysis are undertaken.&nbsp; This focuses on the costs and benefits of a proposed course of action. Economics is based on three fundamental concepts that summarise the issues Pharmac faces daily:&nbsp;</p>\r\n<ul>\r\n<li>Scarcity &ndash; resources will always be insufficient to support all possible activities.</li>\r\n<li>Choices &ndash; due to scarce resources, decisions must be made about how best to use them.</li>\r\n<li>Opportunity cost &ndash; by choosing to use resources one way, we forgo other opportunities to use the same resources.</li>\r\n</ul>\r\n<p>&nbsp;</p>\r\n<p>For further information on the purpose of, and techniques for, undertaking economic analysis in health care, please refer&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/economic-analysis/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/economic-analysis/</a></p>",
+    "position": 2,
+    "name": "Under Assessment",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "May 2021",
+          "fs": "May 2021",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Working to compare options",
+          "fs": "Working to compare options",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P0000078iVjUAI"
+          },
+          "Id": "a0P2P0000078iVjUAI",
+          "Event_Date__c": "2021-05-12",
+          "Event_Description__c": "Working to compare options",
+          "Stage__c": "Under Assessment",
+          "Formatted_Date__c": "May 2021",
+          "Status_History__c": "a132P000000Cq3OQAS"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "May 2021",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Pharmac staff uses a prioritisation process to compare and rank funding options. Possible opportunities for new investment will always exceed the budget Pharmac has available; therefore, prioritisation is an intrinsic part of Pharmac\u2019s decision-making process.</p>\r\n<p>The relative ranking of options aims to support Pharmac&rsquo;s statutory objective &ldquo;to secure for eligible people in need of pharmaceuticals, the best health outcomes that are reasonably achievable from pharmaceutical treatment and from within the amount of funding provided&rdquo;.</p>\r\n<p>A funding application or proposal is considered ready for prioritisation when sufficient information is available to permit it to be reviewed against Pharmac's Factors for Consideration and to inform a comparison with other possible investment decisions.</p>\r\n<p>There is no guarantee when or if a ranked medicine will be funded.&nbsp;&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/prioritisation/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/prioritisation/</a></p>",
+    "position": 3,
+    "name": "Options Compared",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Jun 2021",
+          "fs": "Jun 2021",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "The relative ranking of the pharmaceutical application has been completed.",
+          "fs": "The relative ranking of the pharmaceutical application has been completed.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P0000078iVkUAI"
+          },
+          "Id": "a0P2P0000078iVkUAI",
+          "Event_Date__c": "2021-06-09",
+          "Event_Description__c": "The relative ranking of the pharmaceutical application has been completed.",
+          "Stage__c": "Options Compared",
+          "Formatted_Date__c": "Jun 2021",
+          "Status_History__c": "a132P000000CuosQAC"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Apr 2022",
+          "fs": "Apr 2022",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "The relative ranking of the pharmaceutical application has been completed.",
+          "fs": "The relative ranking of the pharmaceutical application has been completed.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P0000078iVlUAI"
+          },
+          "Id": "a0P2P0000078iVlUAI",
+          "Event_Date__c": "2022-04-29",
+          "Event_Description__c": "The relative ranking of the pharmaceutical application has been completed.",
+          "Stage__c": "Options Compared",
+          "Formatted_Date__c": "Apr 2022",
+          "Status_History__c": "a132P000000DifIQAS"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Jun 2021",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Pharmac is consulting on a proposal to either approve or decline the application.&nbsp;We seek the views of all people who have an interest in our proposals, or who may be affected by them, to obtain feedback on our proposed approaches.</p>\r\n<p><a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/having-your-say/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/having-your-say/</a></p>",
+    "position": 4,
+    "name": "Under Consultation",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": "<p><a href=\"https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/2022-05-19-proposal-to-fund-treatment-earlier-for-relapsing-remitting-multiple-sclerosis/\" target=\"_blank\">Consultation letter</a></p>",
+          "fs": "<p><a href=\"https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/2022-05-19-proposal-to-fund-treatment-earlier-for-relapsing-remitting-multiple-sclerosis/\" target=\"_blank\">Consultation letter</a></p>",
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "May 2022",
+          "fs": "May 2022",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Public consultation for this application is active.",
+          "fs": "Public consultation for this application is active.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P0000078iVmUAI"
+          },
+          "Id": "a0P2P0000078iVmUAI",
+          "Event_Date__c": "2022-05-19",
+          "Event_Description__c": "Public consultation for this application is active.",
+          "Stage__c": "Under Consultation",
+          "Links__c": "<p><a href=\"https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/2022-05-19-proposal-to-fund-treatment-earlier-for-relapsing-remitting-multiple-sclerosis/\" target=\"_blank\">Consultation letter</a></p>",
+          "Formatted_Date__c": "May 2022",
+          "Status_History__c": "a132P000000DlkCQAS"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "May 2022",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Following the consultation process, Pharmac staff considers the feedback and identifies any additional information required as part of a gap analysis.&nbsp; The proposal may require further clinical advice, research, and assessment.</p>",
+    "position": 5,
+    "name": "Reviewing Consultation Feedback",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Jun 2022",
+          "fs": "Jun 2022",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Public consultation for this application is now closed. Pharmac is reviewing consultation feedback.",
+          "fs": "Public consultation for this application is now closed. Pharmac is reviewing consultation feedback.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P0000078iVnUAI"
+          },
+          "Id": "a0P2P0000078iVnUAI",
+          "Event_Date__c": "2022-06-13",
+          "Event_Description__c": "Public consultation for this application is now closed. Pharmac is reviewing consultation feedback.",
+          "Stage__c": "Reviewing Consultation Feedback",
+          "Formatted_Date__c": "Jun 2022",
+          "Status_History__c": "a132P000000DpTzQAK"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Jun 2022",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>We refer to our decisions about whether and how particular pharmaceuticals are publicly-funded, as &ldquo;funding decisions&rdquo;.</p>\r\n<p>We consider and assess all funding decisions using the&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/about/operating-policies-and-procedures/#factorsfc\" rel=\"nofollow\">Factors for Consideration</a>. When we do so, we carefully evaluate clinical and other evidence for the benefits and suitability of a proposal, and to identify and understand the people who will be affected by it.</p>\r\n<p>While our main task is to allocate pharmaceutical funding, we consider the benefits and costs across the whole health system now and with a long-term focus, including the effects for hospitals and primary care, and consider direct costs to patients as well as to all health sector budgets.</p>\r\n<p>Final funding decisions are made by the Pharmac Board or delegated to senior Pharmac staff as required by the Board.</p>\r\n<p>&nbsp;</p>",
+    "position": 6,
+    "name": "Decision",
+    "last": true,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": "<p><a href=\"https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/2022-06-13-decision-to-fund-treatment-earlier-for-relapsing-remitting-multiple-sclerosis\" target=\"_blank\">Notification </a></p>",
+          "fs": "<p><a href=\"https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/2022-06-13-decision-to-fund-treatment-earlier-for-relapsing-remitting-multiple-sclerosis\" target=\"_blank\">Notification </a></p>",
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Jun 2022",
+          "fs": "Jun 2022",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "The funding application has been approved.",
+          "fs": "The funding application has been approved.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P0000078iVoUAI"
+          },
+          "Id": "a0P2P0000078iVoUAI",
+          "Event_Date__c": "2022-06-13",
+          "Event_Description__c": "The funding application has been approved.",
+          "Stage__c": "Decision",
+          "Links__c": "<p><a href=\"https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/2022-06-13-decision-to-fund-treatment-earlier-for-relapsing-remitting-multiple-sclerosis\" target=\"_blank\">Notification </a></p>",
+          "Formatted_Date__c": "Jun 2022",
+          "Status_History__c": "a132P000000DpU4QAK"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Jun 2022",
+    "collapsed": false,
+    "checked": true
+  }
+]

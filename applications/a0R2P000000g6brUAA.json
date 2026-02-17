@@ -1,0 +1,747 @@
+[
+  {
+    "text": "<p>New funding applications are referred to one of Pharmac's Funding Application Advisors (FAAs), who'll review the application to ensure they have the relevant information to undertake a preliminary analysis.&nbsp; They may seek more information if required.</p>\r\n<p><a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/new-funding-applications/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/new-funding-applications/</a></p>",
+    "position": 0,
+    "name": "Application Received",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "May 2016",
+          "fs": "May 2016",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Application received",
+          "fs": "Application received",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P000007GWWCUA4"
+          },
+          "Id": "a0P2P000007GWWCUA4",
+          "Event_Date__c": "2016-05-10",
+          "Event_Description__c": "Application received",
+          "Stage__c": "Application Received",
+          "Formatted_Date__c": "May 2016",
+          "Status_History__c": "a132P000000CNPBQA4"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "May 2016",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Pharmac is identifying and gathering information required to get clinical advice.  The <a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/pharmacology-and-therapeutics-advisory-committee-ptac/\" rel=\"nofollow\">Pharmacology and Therapeutics Advisory Committee (PTAC)</a>  meets quarterly. There are also around 20 expert <a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/specialist-advisory-committees/\" rel=\"nofollow\">Specialist Advisory Committees (SACs)</a>, previously expert Subcommittees, which provide clinical evaluations in specialist areas. Specialist Advisory Committees meet as required to discuss issues referred to them by PTAC or Pharmac.</p>\n<p style=\"height: 20px\">&nbsp;</p>\n<p>In November 2021, we introduced separate terms of reference for the SACs to make clear that these committees have different, but complementary, roles, expertise and perspectives to PTAC.</p>\n<p style=\"height: 15px\">&nbsp;</p>\n<p>PTAC and SACs may make recommendations to Pharmac that differ from each other when looking at the same evidence. Pharmac considers the recommendations provided by all our clinical advisory committees when assessing applications.</p>\n<p style=\"height: 20px\">&nbsp;</p>\n<p><a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/pharmacology-and-therapeutics-advisory-committee-ptac/ptac-terms-of-reference-july-2021/\" rel=\"nofollow\">PTAC</a>  and <a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/specialist-advisory-committees/specialist-advisory-committee-terms-of-reference//\" rel=\"nofollow\">Specialist Advisory Committees</a> records of the meeting will be published on this website in accordance with the Terms of Reference.</p>",
+    "position": 1,
+    "name": "Seeking Clinical Advice",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Nov 2020",
+          "fs": "Nov 2020",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Clinical advice required",
+          "fs": "Clinical advice required",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P000007GWWDUA4"
+          },
+          "Id": "a0P2P000007GWWDUA4",
+          "Event_Date__c": "2020-11-24",
+          "Event_Description__c": "Clinical advice required",
+          "Stage__c": "Seeking Clinical Advice",
+          "Formatted_Date__c": "Nov 2020",
+          "Status_History__c": "a132P000000CNPVQA4"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Nov 2020",
+          "fs": "Nov 2020",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Clinical advice required",
+          "fs": "Clinical advice required",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P000007GWmzUAG"
+          },
+          "Id": "a0P2P000007GWmzUAG",
+          "Event_Date__c": "2020-11-24",
+          "Event_Description__c": "Clinical advice required",
+          "Stage__c": "Seeking Clinical Advice",
+          "Formatted_Date__c": "Nov 2020",
+          "Status_History__c": "a132P000000CNQiQAO"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": "<p>The Committee <b>recommended</b> that vedolizumab be listed as a first line biologic treatment for moderately to severely active ulcerative colitis with a medium priority, subject to the following Special Authority criteria:</p><p><b style=\"font-size: 9pt;\">Initiation \u2013 Ulcerative colitis </b></p><p><span style=\"font-size: 9pt;\">Applications only from a gastroenterologist or Practitioner on the recommendation of a gastroenterologist. Approvals valid for 4 months.</span></p><p><span style=\"font-size: 9pt;\">All of the following:</span></p><p><span style=\"font-size: 9pt;\">1.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Patient has histologically confirmed ulcerative colitis; and</span></p><p><span style=\"font-size: 9pt;\">2.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Either:</span></p><p><span style=\"font-size: 9pt;\">2.1.</span><span style=\"font-size: 7pt;\">\u00a0</span><span style=\"font-size: 9pt;\">Patient has a total score of 6 to 12 on the Mayo scale and an endoscopic subscore of 2 or 3; or</span></p><p><span style=\"font-size: 9pt;\">2.2.</span><span style=\"font-size: 7pt;\">\u00a0</span><span style=\"font-size: 9pt;\">Patient has a score of at least 65 on the Paediatric Ulcerative Colitis Activity Index (PUCAI); and</span></p><p><span style=\"font-size: 9pt;\">3.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Patient has tried but had an inadequate response to, or has experienced intolerable side effects from, prior systemic therapy with immunomodulators at maximum tolerated doses for an adequate duration (unless contraindicated) and corticosteroids; and </span></p><p><span style=\"font-size: 9pt;\">4.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Surgery (or further surgery) is considered clinically inappropriate.</span></p><p><span style=\"font-size: 9pt;\">\u00a0</span></p><p><b style=\"font-size: 9pt;\">Renewal \u2013 Ulcerative colitis </b></p><p><span style=\"font-size: 9pt;\">Applications only from a gastroenterologist or Practitioner on the recommendation of a gastroenterologist. Approvals valid for 6 months.</span></p><p><span style=\"font-size: 9pt;\">All of the following:</span></p><p><span style=\"font-size: 9pt;\">1.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Patient has experienced, or maintained a response (see Note) and the benefit of continuing treatment with vedolizumab outweighs the risks; and </span></p><p><span style=\"font-size: 9pt;\">2.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Vedolizumab will be used at a dose no greater than 300 mg intravenously every 8 weeks.</span></p><p><span style=\"font-size: 9pt;\">Note: Response is defined as a decrease from baseline in the Mayo score by \u226530% and \u22653 points, with either a decrease from baseline in the rectal bleeding sub score of \u22651 or a rectal bleeding subscore of 0 or 1.</span></p><p><br></p><p>In making this recommendation, the Committee noted that the 2017 Gastrointestinal Subcommittee recommendation for vedolizumab to be funded in a first line setting if cost-neutral to infliximab, and if a registered product is available. The Committee noted that new evidence demonstrates a clinically significant and durable response with vedolizumab in ulcerative colitis for TNF-\u03b1 inhibitor na\u00efve patients, although noted that evidence from clinical trials regarding the impact of vedolizumab on surgical intervention was minimal because this intervention is less common in ulcerative colitis than in Crohn\u2019s disease; the Committee considered that based on this evidence, it recommended listing with a medium priority.\u00a0</p>",
+          "fs": "<p>The Committee <b>recommended</b> that vedolizumab be listed as a first line biologic treatment for moderately to severely active ulcerative colitis with a medium priority, subject to the following Special Authority criteria:</p><p><b style=\"font-size: 9pt;\">Initiation \u2013 Ulcerative colitis </b></p><p><span style=\"font-size: 9pt;\">Applications only from a gastroenterologist or Practitioner on the recommendation of a gastroenterologist. Approvals valid for 4 months.</span></p><p><span style=\"font-size: 9pt;\">All of the following:</span></p><p><span style=\"font-size: 9pt;\">1.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Patient has histologically confirmed ulcerative colitis; and</span></p><p><span style=\"font-size: 9pt;\">2.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Either:</span></p><p><span style=\"font-size: 9pt;\">2.1.</span><span style=\"font-size: 7pt;\">\u00a0</span><span style=\"font-size: 9pt;\">Patient has a total score of 6 to 12 on the Mayo scale and an endoscopic subscore of 2 or 3; or</span></p><p><span style=\"font-size: 9pt;\">2.2.</span><span style=\"font-size: 7pt;\">\u00a0</span><span style=\"font-size: 9pt;\">Patient has a score of at least 65 on the Paediatric Ulcerative Colitis Activity Index (PUCAI); and</span></p><p><span style=\"font-size: 9pt;\">3.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Patient has tried but had an inadequate response to, or has experienced intolerable side effects from, prior systemic therapy with immunomodulators at maximum tolerated doses for an adequate duration (unless contraindicated) and corticosteroids; and </span></p><p><span style=\"font-size: 9pt;\">4.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Surgery (or further surgery) is considered clinically inappropriate.</span></p><p><span style=\"font-size: 9pt;\">\u00a0</span></p><p><b style=\"font-size: 9pt;\">Renewal \u2013 Ulcerative colitis </b></p><p><span style=\"font-size: 9pt;\">Applications only from a gastroenterologist or Practitioner on the recommendation of a gastroenterologist. Approvals valid for 6 months.</span></p><p><span style=\"font-size: 9pt;\">All of the following:</span></p><p><span style=\"font-size: 9pt;\">1.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Patient has experienced, or maintained a response (see Note) and the benefit of continuing treatment with vedolizumab outweighs the risks; and </span></p><p><span style=\"font-size: 9pt;\">2.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Vedolizumab will be used at a dose no greater than 300 mg intravenously every 8 weeks.</span></p><p><span style=\"font-size: 9pt;\">Note: Response is defined as a decrease from baseline in the Mayo score by \u226530% and \u22653 points, with either a decrease from baseline in the rectal bleeding sub score of \u22651 or a rectal bleeding subscore of 0 or 1.</span></p><p><br></p><p>In making this recommendation, the Committee noted that the 2017 Gastrointestinal Subcommittee recommendation for vedolizumab to be funded in a first line setting if cost-neutral to infliximab, and if a registered product is available. The Committee noted that new evidence demonstrates a clinically significant and durable response with vedolizumab in ulcerative colitis for TNF-\u03b1 inhibitor na\u00efve patients, although noted that evidence from clinical trials regarding the impact of vedolizumab on surgical intervention was minimal because this intervention is less common in ulcerative colitis than in Crohn\u2019s disease; the Committee considered that based on this evidence, it recommended listing with a medium priority.\u00a0</p>",
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": "<p>PTAC and PTAC Subcommittees may differ in the advice they provide to PHARMAC, including recommendations\u2019 priority, due to the committees\u2019 different, albeit complementary, roles, expertise, experience, and perspectives.</p><p><br></p><p>Vedolizumab</p><p>The Committee noted that vedolizumab is a humanised monoclonal antibody which selectively binds to the \u03b14\u03b27 integrin on T-lymphocytes that are present in the gastrointestinal tract and cause characteristic inflammation in Crohn\u2019s disease and ulcerative colitis. The Committee noted vedolizumabs binds selectively to the integrin unique to the bowel, resulting in a gut-specific mechanism of action. The Committee considered that this gut specificity may be associated with a reduction in systemic side effects, however, may similarly result in a limited effect of vedolizumab on the prevention and management of extraintestinal manifestations associated with Crohn\u2019s disease and ulcerative colitis.</p><p><br></p><p>The Committee noted that vedolizumab is proposed to be used for patients with moderately to severely active ulcerative colitis or severe Crohn\u2019s disease who have experienced either inadequate response, intolerable side effects, or loss of response with the currently available TNF-\u03b1 inhibitors The Committee noted vedolizumab induction therapy is typically given as 300 mg initially and at week two, with maintenance dosing of 300 mg at week six, then every eight weeks. The Committee considered that an additional 300 mg dose at week 10 may be considered in patients who received suboptimal response after induction therapy. The Committee noted that all doses (induction and maintenance) are administered via IV infusion over a period of approximately 30 minutes in a hospital setting.</p><p><br></p><p>The Committee noted that, in <a href=\"https://www.pharmac.govt.nz/assets/ptac-gastrointestinal-subcommittee-minutes-2017-4.pdf\" target=\"_blank\" style=\"color: windowtext;\">March 2017</a>, the Gastrointestinal Subcommittee considered the clinician application for vedolizumab for the treatment of patients with Crohn\u2019s disease and ulcerative colitis who have either had failure of, become refractory to, or experienced severe and intractable side effects from TNF-\u03b1 inhibitor treatment(s) and:</p><p>Recommended that vedolizumab be funded for Crohn\u2019s disease, in a first line setting if cost neutral with infliximab and adalimumab if a registered product becomes available; and</p><p>Recommended that vedolizumab be funded for Crohn\u2019s disease, in a second line setting with a high priority for primary non-responders to infliximab, if a registered product becomes available; and</p><p>Recommended that vedolizumab be funded for ulcerative colitis, in a first line setting if cost neutral with infliximab if a registered product becomes available; and</p><p>Recommended that vedolizumab be funded for ulcerative colitis, in a second line setting with a high priority for primary and secondary non-responders to infliximab, if a registered product becomes available.</p><p><br></p><p>The Committee noted that, in <a href=\"https://www.pharmac.govt.nz/assets/ptac-minutes-2017-11.pdf\" target=\"_blank\" style=\"color: windowtext;\">November 2017</a>, PTAC noted that vedolizumab was neither registered nor sought for registration in New Zealand, and noted that PHARMAC intended to invite Takeda (the supplier of vedolizumab) to submit an application for funding. At that time, PTAC requested it review the evidence from the supplier when applications were made for funding and registration in New Zealand.</p><p><br></p><p>The Committee noted that, in <a href=\"https://www.pharmac.govt.nz/assets/ptac-minutes-2019-02.pdf\" target=\"_blank\" style=\"color: windowtext;\">February 2019</a>, PTAC noted that PHARMAC had undertaken an economic analysis for vedolizumab and the proposal had been ranked against other proposals. At that time, PTAC recommended that it be presented a full paper on vedolizumab, and that it could reconsider its advice on vedolizumab, following that paper.</p><p><br></p><p>Health need</p><p>The Committee noted that the current treatment paradigm for management of inflammatory bowel disease (IBD) i.e. patients with Crohn\u2019s disease and ulcerative colitis, typically begins with aminosalicylates and escalates to steroid treatment if patients experience flare-ups and disease progression. The Committee noted that, following failure of steroid treatment to manage symptoms, patients may be initiated on immunomodulators such as azathioprine, or TNF-\u03b1 inhibitor treatment for patients who have not responded to corticosteroids and/or immunosuppressive agents, or have experienced an adverse event or become unable to tolerate corticosteroids and/or immunosuppressive agents. The Committee noted that calcineurin inhibitors are not a feature of New Zealand clinical practice in the treatment of IBD but are used internationally. The Committee noted that for patients for whom biologic therapy does not elicit a response, surgical resection is an option, with more favourable long-term outcomes typically seen in ulcerative colitis patients.</p><p><br></p><p>The Committee considered that more data is needed on whether early aggressive therapy is more beneficial than a step-up treatment approach in the longer term for the treatment of inflammatory bowel diseases, particularly with regard to whether early aggressive therapy has a role in altering the natural history of the disease.</p><p><br></p><p>The Committee noted that the majority of Crohn\u2019s disease patients are treated with adalimumab as their first biologic agent, with infliximab used first line in approximately 10-15% of cases. The Committee considered that infliximab is the most common initial biologic agent for patients presenting to hospital with acute Crohn\u2019s disease such as those presenting with fistulising disease. The Committee noted that approximately half of Crohn\u2019s disease patients who experience primary non-response to a TNF-\u03b1 inhibitor are likely to experience the same with a second TNF-\u03b1 inhibitor, and 23% to 46% of those with prior TNF-\u03b1 inhibitor treatment failure are likely to experience treatment failure (secondary loss of response) to a second TNF-\u03b1 inhibitor at 12 months (<a href=\"https://pubmed.ncbi.nlm.nih.gov/23792214/\" target=\"_blank\" style=\"color: windowtext;\">Ben-Horin et al. Autoimmun Rev. 2014;13:24-30</a>).</p><p><br></p><p>The Committee noted that the health need for the IBD patient population is high. Members noted that children and adolescents presenting with IBD are more likely to be diagnosed with severe disease but are less likely to have the complications seen in adult patients such as fistulae, abscesses, and strictures that are associated with longer duration disease (<a href=\"https://doi.org/10.1111/j.1365-2036.2011.04857.x\" target=\"_blank\" style=\"color: windowtext;\">Jakobsen et al. Aliment Pharmacol Ther. 2011;34:1217-24</a>; <a href=\"https://academic.oup.com/ecco-jcc/article-lookup/doi/10.1016/j.crohns.2014.05.006\" target=\"_blank\" style=\"color: windowtext;\">Duricova et al. J Crohns Colitis. 2014;8:1351-61</a>). Children with ulcerative colitis have more extensive disease after presentation, a higher risk of being treated with systemic steroids and azathioprine\u2044 mercaptopurine, a higher frequency of steroid dependency and a more severe disease course.</p><p><br></p><p>Members noted that a non-experimental study investigating the health care utilisation and cost for ulcerative colitis in Australia (<a href=\"https://pubmed.ncbi.nlm.nih.gov/24345767/\" target=\"_blank\" style=\"color: windowtext;\">Gibson et al. J Crohns Colitis. 2014;8:598-606</a>). The Committee noted that the mean (SD) 3-month UC-related health care cost per patient was reported as AUD $2914 ($3447); with mean for patients in remission, $1970; mild disease, $3736; and moderate/severe disease, $4162; and that patients in remission had the least work and activity impairment. Additionally, the Committee noted that ulcerative colitis patients have a lower health related quality of life than the general population, and that the most important treatment attribute was efficacy, but that patients also value avoiding steroids, and prefer a fast onset of effect (<a href=\"https://pubmed.ncbi.nlm.nih.gov/31944145/\" target=\"_blank\" style=\"color: windowtext;\">Hagelund et al. Curr Med Res Opin. 2020;36:771-779</a>). The Committee considered that the health system costs, and quality of life impacts would be similar for Crohn\u2019s disease.</p><p>The Committee noted the results of the double-blind, placebo-controlled GEMINI I trial of 374 patients with ulcerative colitis who received 6 weeks of induction (randomised 2:1) with vedolizumab 300 mg intravenously (N=225) or placebo (N=149) at days 1 and 15 followed by 46 weeks maintenance (randomised 1:1:1) with either 4-weekly vedolizumab 300 mg (N=125), 8-weekly vedolizumab 300 mg (N=122) or placebo (N=126; Feagan et al. N Engl J Med 2013; 369:699-710).</p><p><br></p><p>The Committee noted that the primary outcome of induction was clinical response at week 6 (Mayo score reduction of \u22653 points and decrease of 30% from baseline, with decrease of \u22651 point on rectal bleeding sub-score or absolute sub-score of 0 or 1) which was 47.1% with vedolizumab vs 25.5% with placebo (P&lt;0.001).</p><p><br></p><p>The Committee noted that the primary outcome of maintenance treatment was clinical remission at week 52, which was reported in 41.8% with vedolizumab 8-weekly vs 44.8% with vedolizumab 4-weekly vs 15.9% with placebo (P&lt;0.001).</p><p><br></p><p>The Committee noted that mucosal healing at week 12 was reported in 52% with vedolizumab 8-weekly vs 56% vedolizumab 4-weekly vs 20% with placebo; members considered that this was clinically relevant but not as crucial a trial endpoint as clinical response and remission.\u00a0</p><p><br></p><p>The Committee noted that a post-hoc analysis of the GEMINI 1 trial reported a greater improvement in health-related quality of life scores with vedolizumab compared with placebo (Feagan et al. Aliment Pharmacol Ther. 2017;45:264-75).</p><p><br></p><p>The Subcommittee noted the results of the VARSITY trial; a phase IIIb, randomised, double-blind, active-controlled superiority trial investigating vedolizumab (300 mg intravenously at weeks 0, 2, 6 and then 8-weekly, plus subcutaneous placebo injections); or adalimumab (160 mg week 0, 80 mg week 3, then 40 mg 2-weekly thereafter, plus placebo intravenous infusions) in 771 adult patients with ulcerative colitis (Sands et al. N Engl J Med 2019; 381: 1215-26). The Committee noted that the VARSITY trial provided a head-to-head comparison of these two agents in ulcerative colitis and noted that this evidence had not been formally reviewed by the Gastrointestinal Subcommittee.</p><p><br></p><p>The Committee noted that the primary endpoint was clinical remission at week 52 (\u22642 on Mayo score; no sub-score &gt;1) and that 31.3% of patients who received vedolizumab were in remission at week 52 vs 22.5% with adalimumab (P=0.006).\u00a0</p><p><br></p><p>The Committee noted that the trial reported a response in 67.1% of patients who received vedolizumab at 14 weeks and considered that the 6-week assessment of response and remission were too early to appropriately assess this agent. Members considered that there was good durability of clinical response with vedolizumab. The Committee further noted that the response rate with adalimumab was slightly lower than vedolizumab at most time points, but with a similar response after 52 weeks. The Committee noted that a clinical response at week 14 was observed in 67.1% of vedolizumab patients vs 45.9% of adalimumab patients (P&lt;0.05); among patients with prior anti-TNF exposure, clinical response at week 14 was 55.7% with vedolizumab vs 32.1% with adalimumab (P&lt;0.05); and among those na\u00efve to anti-TNFs, response at week 14 was 70.1% with vedolizumab vs 49.5% with adalimumab (P&lt;0.05).</p><p><br></p><p>The Committee noted that corticosteroid-free clinical remission (a secondary outcome assessed only in patients receiving corticosteroids at baseline) was reported in 12.6% with vedolizumab vs 21.8% with adalimumab (difference not significant).</p><p><br></p><p>Members considered that the results from the VARSITY trial suggest vedolizumab is more effective than adalimumab as a first-line treatment for ulcerative colitis. Members considered that the outcomes demonstrated with vedolizumab were likely as good as, or better than, outcomes seen in clinical practice with infliximab in New Zealand (relative to outcomes with adalimumab) and considered that while adalimumab is likely less effective than infliximab in ulcerative colitis, it is likely that outcomes with vedolizumab as a first-line agent are superior to those with infliximab as a first-line treatment in ulcerative colitis.\u00a0</p><p><br></p><p>Members noted evidence from the VISIBLE 1 trial of subcutaneous vedolizumab in patients with ulcerative colitis; 54 patients received intravenous vedolizumab, 106 received subcutaneous vedolizumab and 56 received placebo (Sandborn et al. Gastroenterology. 2020;158:562-72.e12). Members considered that the results at 52 weeks were similar to (or slightly better than) those in the GEMINI I trial, with about 40% of patients in clinical remission at 52 weeks in both vedolizumab groups, suggesting that the subcutaneous formulation was equivalent to intravenous vedolizumab. The Committee noted that 72.2%, 64.2% and 28.6% of patients who received IV vedolizumab, subcutaneous vedolizumab and placebo, respectively had durable clinical responses at 52 weeks. Members considered that if this data were extrapolated to use in Crohn\u2019s disease, the response rate would be less, although still demonstrated a clinically relevant response.</p><p><br></p><p>The Committee reviewed other evidence of vedolizumab in both Crohn\u2019s disease and ulcerative colitis:\u00a0</p><p>The Committee noted the results of a long-term extension study that included patients from the GEMINI II and III studies who had up to 152 weeks of vedolizumab exposure (Vermeire et al. J Crohns Colitis. 2017;11:412-24). The Committee noted that among patients with response at week 6 in GEMINI II who received vedolizumab continuously, 83% (N=100/120) and 89% (N=62/70) of patients were in remission after 104 and 152 weeks, respectively. The Committee noted that increased dosing frequency from every 8 weeks to every 4 weeks improved outcomes in patients who had withdrawn early from GEMINI II, with 47% (N=27/57) experiencing clinical response and 32% (N=18/57) in remission at week 52 of the long term extension (up from 39% and 4% before the dose increase).\u00a0</p><p><br></p><p>The Committee noted the results of a long-term extension study that included patients from the C13004 and GEMINI I studies who had up to 152 weeks of vedolizumab exposure (Loftus Jr et al. J Crohns Colitis. 2017;11: 400-11). The Committee noted that among patients with response at week 6 of GEMINI I, 88% (120/136) and 96% (70/73) were in remission after 104 and 152 weeks respectively. </p><p><br></p><p>The Committee considered that increased dosing frequency from every 8 weeks to every 4 weeks improved outcomes in patients who had withdrawn early from GEMINI I, with 41% experiencing clinical response and 28% in remission at week 52 of the long term extension (up from 19% and 6% before the dose increase).\u00a0</p><p><br></p><p>The Committee noted that the authors reported analysis excluding those with missing data, and a separate analysis treating all those with missing data as treatment failures. The Committee considered that missing clinical trial data is likely due to a variety of reasons, and that there were a significant number of patients who represented missing data at week 152 as they had not yet reached 152 weeks of vedolizumab exposure during GEMINI LTS. The Committee considered that in this context, it was reasonable to appraise the long-term efficacy of vedolizumab based on the results which excluded those with missing data from the analysis. The Committee considered that the results suggest the rate of loss of response with vedolizumab is less than 10% per year, with similar long-term loss of response between ulcerative colitis and Crohn\u2019s disease. The Committee considered that while the proportion of patients with prior anti-TNF failure in remission was lower than the proportion in remission among those without prior anti-TNF failure, the loss of response rates between the two groups in GEMINI LTS was comparable.</p><p><br></p><p>The Committee noted a meta-analysis that included 3216 patients with ulcerative colitis from several \u201creal-world\u201d open-label studies of vedolizumab which reported clinical remission in approximately 40% at 12 months and clinical response in 52% (Schreiber et al. J Gastroenterology. 2018;53:1048). Members considered this demonstrated similar treatment effect to results demonstrated in GEMINI 1 which demonstrated remission rates of 42% at 12 months.\u00a0</p><p><br></p><p>The Committee note that the same meta-analysis included patients with Crohn\u2019s disease and reported slightly lower rates of clinical remission (30%) and clinical response (40%) in these patients at 52 weeks compared with rates of patients with ulcerative colitis, and the Committee considered the clinical response was again similar to that demonstrated in GEMINI II (clinical response 39% at 52 weeks with vedolizumab 8-weekly).\u00a0</p><p><br></p><p>The Committee noted that mucosal healing, a component of the concept of &#39;deep remission&#39;, was reported in the same paper with rates at 12 months varying from 33% to 77% for ulcerative colitis patients, and 6% to 63% for Crohn\u2019s patients. The Committee noted that mucosal healing was highly variable for both diseases and considered that rates of approximately 50% would be clinically relevant, but variability contributed by different definitions of mucosal healing between clinical trials made assessment difficult.</p><p><br></p><p>The Committee noted the results of the open-label, multi-centre, \u201creal-world\u201d Cross Pennine study that reported long-term effectiveness and safety with vedolizumab in 135 patients with Crohn\u2019s disease and 68 patients with ulcerative colitis in the UK (Lenti et al. Digestive Liver Dis. 2018;50:1299-1304).\u00a0</p><p>\u2022\tThe Committee noted that this study assessed treatment response from 14 weeks (rather than 6 weeks) which members considered was appropriate for assessment of vedolizumab\u2019s effect. The Committee noted that 96% and 66% of Crohn\u2019s disease and ulcerative colitis patients had prior exposure to a TNF-\u03b1 inhibitor.\u00a0</p><p>\u2022\tThe Committee noted that at 14 weeks 40% and 42.6% of patients with Crohn\u2019s disease and ulcerative colitis, respectively, achieved a partial response and 38.5% and 48.5%, respectively, achieved remission (Figure 1. Lenti et al. 2018). The Committee noted that at 52 weeks, a total of 63.9% of patients with Crohn\u2019s disease and 82.5% of patients with ulcerative colitis in this study achieved a response or remission.</p><p>\u2022\tThe Committee considered that the combined rates of response and remission reported in this study may be an outlier compared with the other evidence for vedolizumab in this setting possibly due to lack of objective measures of disease activity.</p><p><br></p><p>The Committee considered that the understanding of vedolizumab in Crohn\u2019s disease and ulcerative colitis had developed over time and that, in retrospect, outcome assessments in some trials were performed too early in the treatment course. </p><p><br></p><p>Members considered that week 14 (rather than week 6 or week 10) was a more reasonable timepoint for initial assessment of treatment effect in the clinical trials.</p><p>Members noted evidence for three-year effectiveness of vedolizumab in a prospective multi-centre, French cohort study of 173 patients with Crohn\u2019s disease and 121 patients with ulcerative colitis, of which the majority (90% and 78%, respectively) had prior exposure to at least two TNF-\u03b1 inhibitor therapies (Amiot et al. Aliment Pharmacol Ther. 2019;50:40-53).\u00a0</p><p>\u2022\tMembers noted that the remission rate in patients with Crohn\u2019s disease was 30.0% at one year, as expected, with loss of remission occurring over time resulting in 19.9% in remission at three years; remission rates at one year and three years in patients with ulcerative colitis were 42.1% and 36.1%, respectively.\u00a0</p><p>\u2022\tMembers noted that the difference between the response rate (47.4%) and remission rate (30.0%) in patients with Crohn\u2019s disease at one year was roughly 15%, as expected, and noted that the proportion in response was 21.1% at three years.</p><p>\u2022\tMembers noted that 36.1% of patients with ulcerative colitis experienced steroid-free clinical remission at three years and that 62.3% of patients were still in steroid-free clinical remission at week 162.\u00a0</p><p><br></p><p>The Committee noted that the pharmacokinetics of vedolizumab are unconventional, and that the half-life cannot be determined via concentration curves. The Committee noted that the half-life of effect, rather than the half-life of the drug, is needed to determine the correct dose. The Committee noted that the elimination half-life of vedolizumab is approximately 25 days and, based on data from the GEMINI studies, low albumin concentration and high body mass were identified as predictors of accelerated vedolizumab clearance.\u00a0</p><p><br></p><p>The Committee noted that, although there are intravenous and subcutaneous formulation of vedolizumab available, the current application only includes intravenous vedolizumab. The Committee noted that the two formulations would have the same clearance, but the bioavailability could be less with the subcutaneous formulation.\u00a0</p><p><br></p><p>The Committee noted three studies linking lower trough concentrations of vedolizumab with worse therapeutic outcomes for IBD which support fixed dosing of 300 mg, but noted that the evidence did not take into account covariates such as age, gender, serum albumen or obesity:\u00a0</p><p>\u2022\tAl-Bawardy et al. Inflamm Bowel Dis. 2019;25:580\u20136</p><p>\u2022\tDreesen et al. Clin Gastroenterol Hepatol. 2018;16:1937\u201346</p><p>\u2022\tPouillon et al. BMC Med. 2019;17:89</p><p><br></p><p>The Committee noted that therapeutic drug monitoring (TDM) is a treatment strategy that has a target drug concentration rather than a target dose that determines effect. Members noted that TDM may alter dosing stratagem. Members considered that it is currently unclear whether disease symptoms should drive decisions on drug dosing, or whether use of TDM is better for vedolizumab in IBD. Drug/antibody concentration testing for vedolizumab may be useful in non-responders at the end of induction or in those with confirmed secondary loss of response, but they are currently not sufficient to guide specific individual treatments (Papamichael et al. Clin Gastroenterol Hepatol. 2019;17:1655-68).\u00a0</p><p><br></p><p>The Committee noted that there are emerging data indicating that target trough concentrations for vedolizumab should be around 25 ug/mL for initial clinical response for ulcerative colitis patients (Takatsu et al. Core Evid. 2020;15:7-20) and that the target concentration may differ between induction and maintenance therapy.</p><p> </p><p>The Committee noted that vedolizumab is selective to the gut and considered that increasing the dose may not lead to an increase in treatment related adverse events as seen with some TNF-\u03b1 inhibitor treatment.\u00a0</p><p><br></p><p>The Committee noted a study investigating the safety of vedolizumab for ulcerative colitis and Crohn\u2019s disease showing that, in the GEMINI 1 and 2 studies, 4% of patients developed antibodies against vedolizumab, which may contribute to a reduced response (Colombel et al. Gut. 2017;66:839-851). The Committee considered the level of anti-drug antibodies appeared to be low compared to treatment with TNF-\u03b1 inhibitors and also noted that the addition of an immunomodulator to vedolizumab treatment neither enhances drug levels nor improves therapeutic response (Ungar et al. Clin Gastroenterol Hepatol. 2018;16:697-705.e7) indicating an advantage of patients not requiring concomitant immunomodulator therapy which are commonly used with TNF-\u03b1 inhibitors.\u00a0</p><p><br></p><p>The Committee noted that the evidence for vedolizumab included individual randomised controlled clinical trials and cohort and observational studies that include patients with ulcerative colitis and patients with Crohn\u2019s disease. The Committee considered that this combined evidence was due to the many similarities between these diseases and the overlap in treatment approaches with biologics in particular. </p><p><br></p><p>The Committee considered that differences relating to surgery were the key differences in the evidence for these diseases.</p><p><br></p><p>The Committee noted that to date there are no unknown adverse reactions of concern over alternate funded biologics, and that demyelinating disorders are less common than with other monoclonal antibodies because vedolizumab is specific to the gut. </p><p><br></p><p>The Committee noted that treatment with vedolizumab did not differ in rates of serious infections, haematologic or serum chemical profiles, or liver-function test results when compared to placebo.</p><p><br></p><p>The Committee noted that treatment with vedolizumab did not appear to increase the risk of postoperative infection or complications in patients with ulcerative colitis undergoing abdominal surgery, and had fewer complications than similar patients who received TNF-\u03b1 inhibitor therapy prior to surgery (Law et al. J Crohns Colitis. 2018;12:538-545, Yung et al. Inflamm Bowel Dis. 2018;24:2327-2338). The Committee noted, however, that treatment with vedolizumab was associated with an increase in postoperative infectious complications in patients with Crohn\u2019s disease, but that these results were possibly compromised by concomitant use of corticosteroids, which are associated with an increased risk of postoperative complications (Lightner et al. Curr Drug Targets. 2019;20:1317-22).\u00a0</p><p><br></p><p>The Committee noted the evidence of efficacy and safety of vedolizumab in paediatric patients, children and young adults with Crohn\u2019s disease or ulcerative colitis (Conrad et al. Inflamm Bowel Dis 2016;22:2425-31; Ledder et al. J Crohn\u2019s Colitis 2017;11:1230-7; Schneider et al. BMC Gastroenterol. 2018;18:140; Singh et al. Inflamm Bowel Dis 2016;22:2121-6). The Committee considered that the efficacy and safety reported in these studies suggests that vedolizumab may be similarly effective in children and adults, but was limited by these being small, non-experimental studies and the age ranges were not necessarily applicable to New Zealand. The Committee noted that vedolizumab is not Medsafe-approved for use in children. The Committee considered that there are risks associated with exposure to immunosuppressant therapies that may be used in combination for children e.g. risk of lymphoma if already treated with thiopurines; which could make vedolizumab treatment preferrable as concomitant immunosuppressant use isn\u2019t necessary for vedolizumab.</p><p><br></p><p>The Committee noted the evidence provided by the applicants regarding the treatment failure rate of TNF-\u03b1 inhibitor therapy in ulcerative colitis or Crohn&#39;s disease and several other relevant references. The Committee also noted the following additional evidence regarding vedolizumab, Crohn\u2019s disease and ulcerative colitis:</p><p>\u2022\tFeagen et al. J Crohns Colitis. 2019;13:50-7</p><p>\u2022\tKopylov et al. Dig Liver Dis. 2019;51:68-74</p><p>\u2022\tLoftus et al. J Crohns Colitis. 2017;11:400-11</p><p>\u2022\tLoftus et al. Clin Exp Gastroenterol. 2020;13:211-20</p><p>\u2022\tMotoya et al. PLoS One. 2019;14:e021298</p><p>\u2022\tOsterman et al. Aliment Pharmacol Ther. 2019;49:408-18</p><p>\u2022\tRosario et al. (J Crohns Colitis. 2017;11:921-9</p><p>\u2022\tSandborn et al. J Crohns Colitis. 2019;13:172-81</p><p>\u2022\tVarvarynets et al. Wiad Lek. 2018;71:346-9) [Article in Ukrainian]</p><p>\u2022\tYajnik et al. Adv Ther. 2017;34:542-59</p><p><br></p><p>The Committee considered that the evidence for vedolizumab for ulcerative colitis and Crohn\u2019s disease from prospective cohort studies was of moderate to good quality, supported by \u201creal world\u201d observational data, and considered that this evidence was applicable to patients in New Zealand. However, the Committee considered this evidence did not inform a definite duration of treatment with vedolizumab or appropriate stopping criteria, nor did it provide evidence of hospitalisation rates for severe disease or evidence of colectomy prevention in either ulcerative colitis or Crohn\u2019s disease.\u00a0</p><p><br></p><p>The Committee considered that, if vedolizumab were to be funded for IBD, that some patients would be in corticosteroid-free remission at one year and that this was an important goal for patients and clinicians.\u00a0</p><p><br></p><p>Suitability\u00a0</p><p>The Committee noted that the infusion duration for intravenous administration of vedolizumab is shorter than that of infliximab, and that vedolizumab does not require treatment in combination with immunosuppressants e.g. thiopurines.\u00a0</p><p><br></p><p>The Committee noted that some wastage could be expected with vedolizumab e.g. due to lower doses for children) The Committee considered that if effective, treatment with vedolizumab would likely be long-term due to its long duration of effect. The Committee considered that the loss of response with vedolizumab is less than 10% per year, and this is likely lower than the 13-15% loss of response per year observed with TNF-\u03b1 inhibitors.</p><p><br></p><p>The Committee considered that if a subcutaneous vedolizumab formulation were available, it would enable administration in the community and self-administration, however, it may require more frequent administration than the intravenous formulation.\u00a0</p><p><br></p><p>Uptake of vedolizumab in ulcerative colitis\u00a0</p><p>The Committee noted that there was evidence to suggest that vedolizumab is as effective as TNF-\u03b1 inhibitor therapy and would be appropriate to be used as a first-line biologic after immunomodulators and calcineurin inhibitors, instead of TNF-\u03b1 inhibitor therapy, in patients with severe ulcerative colitis.\u00a0</p><p><br></p><p>The Committee considered that 55-60% of UC patients are likely to experience loss of response to infliximab over time. The Committee considered that the estimated uptake and number of patients (who may be eligible for vedolizumab as second-line treatment for moderately to severely active ulcerative colitis) of approximately 75 equivalent full-year patients at year one, increasing to 150 in three years was reasonable, and was consistent with previous considerations of likely patient numbers for second-line treatment of ulcerative colitis.\u00a0</p><p><br></p><p>The Committee considered it reasonable for children with ulcerative colitis to be eligible for treatment with vedolizumab, noting that there is evidence of efficacy in children aged six to 17 years and noting the health need of children and adolescents with ulcerative colitis.</p><p><br></p><p>General</p><p>The Committee noted that since the introduction of TNF-\u03b1 inhibitors, the need for and rates of surgery for ulcerative colitis and Crohn\u2019s disease patients has decreased substantially. The Committee also noted that the pivotal trials for vedolizumab did not show a reduction in surgery rates compared with placebo, and thus considered that longer term follow-up may be required to determine the impact of vedolizumab treatment (and/or other biological treatments) on surgical rates. The Committee considered that the greatest benefit from funding vedolizumab would be increased symptom control and improvement in quality of life measures, and that an appropriate comparator for vedolizumab is adalimumab and/or infliximab.\u00a0</p><p><br></p><p>The Committee noted that information on the duration of treatment, stopping points for treatment, use of endoscopy, and use of combination therapy was missing from the clinical trial data and commentary submitted by the applicant.\u00a0</p><p><br></p><p>The Committee suggested that the Gastrointestinal Subcommittee review the application for vedolizumab for the treatment of moderately to severely active ulcerative colitis and provide expert advice on the VARSITY trial evidence (not yet reviewed by the Subcommittee), and the use of therapeutic drug monitoring in this setting.</p>",
+          "fs": "<p>PTAC and PTAC Subcommittees may differ in the advice they provide to PHARMAC, including recommendations\u2019 priority, due to the committees\u2019 different, albeit complementary, roles, expertise, experience, and perspectives.</p><p><br></p><p>Vedolizumab</p><p>The Committee noted that vedolizumab is a humanised monoclonal antibody which selectively binds to the \u03b14\u03b27 integrin on T-lymphocytes that are present in the gastrointestinal tract and cause characteristic inflammation in Crohn\u2019s disease and ulcerative colitis. The Committee noted vedolizumabs binds selectively to the integrin unique to the bowel, resulting in a gut-specific mechanism of action. The Committee considered that this gut specificity may be associated with a reduction in systemic side effects, however, may similarly result in a limited effect of vedolizumab on the prevention and management of extraintestinal manifestations associated with Crohn\u2019s disease and ulcerative colitis.</p><p><br></p><p>The Committee noted that vedolizumab is proposed to be used for patients with moderately to severely active ulcerative colitis or severe Crohn\u2019s disease who have experienced either inadequate response, intolerable side effects, or loss of response with the currently available TNF-\u03b1 inhibitors The Committee noted vedolizumab induction therapy is typically given as 300 mg initially and at week two, with maintenance dosing of 300 mg at week six, then every eight weeks. The Committee considered that an additional 300 mg dose at week 10 may be considered in patients who received suboptimal response after induction therapy. The Committee noted that all doses (induction and maintenance) are administered via IV infusion over a period of approximately 30 minutes in a hospital setting.</p><p><br></p><p>The Committee noted that, in <a href=\"https://www.pharmac.govt.nz/assets/ptac-gastrointestinal-subcommittee-minutes-2017-4.pdf\" target=\"_blank\" style=\"color: windowtext;\">March 2017</a>, the Gastrointestinal Subcommittee considered the clinician application for vedolizumab for the treatment of patients with Crohn\u2019s disease and ulcerative colitis who have either had failure of, become refractory to, or experienced severe and intractable side effects from TNF-\u03b1 inhibitor treatment(s) and:</p><p>Recommended that vedolizumab be funded for Crohn\u2019s disease, in a first line setting if cost neutral with infliximab and adalimumab if a registered product becomes available; and</p><p>Recommended that vedolizumab be funded for Crohn\u2019s disease, in a second line setting with a high priority for primary non-responders to infliximab, if a registered product becomes available; and</p><p>Recommended that vedolizumab be funded for ulcerative colitis, in a first line setting if cost neutral with infliximab if a registered product becomes available; and</p><p>Recommended that vedolizumab be funded for ulcerative colitis, in a second line setting with a high priority for primary and secondary non-responders to infliximab, if a registered product becomes available.</p><p><br></p><p>The Committee noted that, in <a href=\"https://www.pharmac.govt.nz/assets/ptac-minutes-2017-11.pdf\" target=\"_blank\" style=\"color: windowtext;\">November 2017</a>, PTAC noted that vedolizumab was neither registered nor sought for registration in New Zealand, and noted that PHARMAC intended to invite Takeda (the supplier of vedolizumab) to submit an application for funding. At that time, PTAC requested it review the evidence from the supplier when applications were made for funding and registration in New Zealand.</p><p><br></p><p>The Committee noted that, in <a href=\"https://www.pharmac.govt.nz/assets/ptac-minutes-2019-02.pdf\" target=\"_blank\" style=\"color: windowtext;\">February 2019</a>, PTAC noted that PHARMAC had undertaken an economic analysis for vedolizumab and the proposal had been ranked against other proposals. At that time, PTAC recommended that it be presented a full paper on vedolizumab, and that it could reconsider its advice on vedolizumab, following that paper.</p><p><br></p><p>Health need</p><p>The Committee noted that the current treatment paradigm for management of inflammatory bowel disease (IBD) i.e. patients with Crohn\u2019s disease and ulcerative colitis, typically begins with aminosalicylates and escalates to steroid treatment if patients experience flare-ups and disease progression. The Committee noted that, following failure of steroid treatment to manage symptoms, patients may be initiated on immunomodulators such as azathioprine, or TNF-\u03b1 inhibitor treatment for patients who have not responded to corticosteroids and/or immunosuppressive agents, or have experienced an adverse event or become unable to tolerate corticosteroids and/or immunosuppressive agents. The Committee noted that calcineurin inhibitors are not a feature of New Zealand clinical practice in the treatment of IBD but are used internationally. The Committee noted that for patients for whom biologic therapy does not elicit a response, surgical resection is an option, with more favourable long-term outcomes typically seen in ulcerative colitis patients.</p><p><br></p><p>The Committee considered that more data is needed on whether early aggressive therapy is more beneficial than a step-up treatment approach in the longer term for the treatment of inflammatory bowel diseases, particularly with regard to whether early aggressive therapy has a role in altering the natural history of the disease.</p><p><br></p><p>The Committee noted that the majority of Crohn\u2019s disease patients are treated with adalimumab as their first biologic agent, with infliximab used first line in approximately 10-15% of cases. The Committee considered that infliximab is the most common initial biologic agent for patients presenting to hospital with acute Crohn\u2019s disease such as those presenting with fistulising disease. The Committee noted that approximately half of Crohn\u2019s disease patients who experience primary non-response to a TNF-\u03b1 inhibitor are likely to experience the same with a second TNF-\u03b1 inhibitor, and 23% to 46% of those with prior TNF-\u03b1 inhibitor treatment failure are likely to experience treatment failure (secondary loss of response) to a second TNF-\u03b1 inhibitor at 12 months (<a href=\"https://pubmed.ncbi.nlm.nih.gov/23792214/\" target=\"_blank\" style=\"color: windowtext;\">Ben-Horin et al. Autoimmun Rev. 2014;13:24-30</a>).</p><p><br></p><p>The Committee noted that the health need for the IBD patient population is high. Members noted that children and adolescents presenting with IBD are more likely to be diagnosed with severe disease but are less likely to have the complications seen in adult patients such as fistulae, abscesses, and strictures that are associated with longer duration disease (<a href=\"https://doi.org/10.1111/j.1365-2036.2011.04857.x\" target=\"_blank\" style=\"color: windowtext;\">Jakobsen et al. Aliment Pharmacol Ther. 2011;34:1217-24</a>; <a href=\"https://academic.oup.com/ecco-jcc/article-lookup/doi/10.1016/j.crohns.2014.05.006\" target=\"_blank\" style=\"color: windowtext;\">Duricova et al. J Crohns Colitis. 2014;8:1351-61</a>). Children with ulcerative colitis have more extensive disease after presentation, a higher risk of being treated with systemic steroids and azathioprine\u2044 mercaptopurine, a higher frequency of steroid dependency and a more severe disease course.</p><p><br></p><p>Members noted that a non-experimental study investigating the health care utilisation and cost for ulcerative colitis in Australia (<a href=\"https://pubmed.ncbi.nlm.nih.gov/24345767/\" target=\"_blank\" style=\"color: windowtext;\">Gibson et al. J Crohns Colitis. 2014;8:598-606</a>). The Committee noted that the mean (SD) 3-month UC-related health care cost per patient was reported as AUD $2914 ($3447); with mean for patients in remission, $1970; mild disease, $3736; and moderate/severe disease, $4162; and that patients in remission had the least work and activity impairment. Additionally, the Committee noted that ulcerative colitis patients have a lower health related quality of life than the general population, and that the most important treatment attribute was efficacy, but that patients also value avoiding steroids, and prefer a fast onset of effect (<a href=\"https://pubmed.ncbi.nlm.nih.gov/31944145/\" target=\"_blank\" style=\"color: windowtext;\">Hagelund et al. Curr Med Res Opin. 2020;36:771-779</a>). The Committee considered that the health system costs, and quality of life impacts would be similar for Crohn\u2019s disease.</p><p>The Committee noted the results of the double-blind, placebo-controlled GEMINI I trial of 374 patients with ulcerative colitis who received 6 weeks of induction (randomised 2:1) with vedolizumab 300 mg intravenously (N=225) or placebo (N=149) at days 1 and 15 followed by 46 weeks maintenance (randomised 1:1:1) with either 4-weekly vedolizumab 300 mg (N=125), 8-weekly vedolizumab 300 mg (N=122) or placebo (N=126; Feagan et al. N Engl J Med 2013; 369:699-710).</p><p><br></p><p>The Committee noted that the primary outcome of induction was clinical response at week 6 (Mayo score reduction of \u22653 points and decrease of 30% from baseline, with decrease of \u22651 point on rectal bleeding sub-score or absolute sub-score of 0 or 1) which was 47.1% with vedolizumab vs 25.5% with placebo (P&lt;0.001).</p><p><br></p><p>The Committee noted that the primary outcome of maintenance treatment was clinical remission at week 52, which was reported in 41.8% with vedolizumab 8-weekly vs 44.8% with vedolizumab 4-weekly vs 15.9% with placebo (P&lt;0.001).</p><p><br></p><p>The Committee noted that mucosal healing at week 12 was reported in 52% with vedolizumab 8-weekly vs 56% vedolizumab 4-weekly vs 20% with placebo; members considered that this was clinically relevant but not as crucial a trial endpoint as clinical response and remission.\u00a0</p><p><br></p><p>The Committee noted that a post-hoc analysis of the GEMINI 1 trial reported a greater improvement in health-related quality of life scores with vedolizumab compared with placebo (Feagan et al. Aliment Pharmacol Ther. 2017;45:264-75).</p><p><br></p><p>The Subcommittee noted the results of the VARSITY trial; a phase IIIb, randomised, double-blind, active-controlled superiority trial investigating vedolizumab (300 mg intravenously at weeks 0, 2, 6 and then 8-weekly, plus subcutaneous placebo injections); or adalimumab (160 mg week 0, 80 mg week 3, then 40 mg 2-weekly thereafter, plus placebo intravenous infusions) in 771 adult patients with ulcerative colitis (Sands et al. N Engl J Med 2019; 381: 1215-26). The Committee noted that the VARSITY trial provided a head-to-head comparison of these two agents in ulcerative colitis and noted that this evidence had not been formally reviewed by the Gastrointestinal Subcommittee.</p><p><br></p><p>The Committee noted that the primary endpoint was clinical remission at week 52 (\u22642 on Mayo score; no sub-score &gt;1) and that 31.3% of patients who received vedolizumab were in remission at week 52 vs 22.5% with adalimumab (P=0.006).\u00a0</p><p><br></p><p>The Committee noted that the trial reported a response in 67.1% of patients who received vedolizumab at 14 weeks and considered that the 6-week assessment of response and remission were too early to appropriately assess this agent. Members considered that there was good durability of clinical response with vedolizumab. The Committee further noted that the response rate with adalimumab was slightly lower than vedolizumab at most time points, but with a similar response after 52 weeks. The Committee noted that a clinical response at week 14 was observed in 67.1% of vedolizumab patients vs 45.9% of adalimumab patients (P&lt;0.05); among patients with prior anti-TNF exposure, clinical response at week 14 was 55.7% with vedolizumab vs 32.1% with adalimumab (P&lt;0.05); and among those na\u00efve to anti-TNFs, response at week 14 was 70.1% with vedolizumab vs 49.5% with adalimumab (P&lt;0.05).</p><p><br></p><p>The Committee noted that corticosteroid-free clinical remission (a secondary outcome assessed only in patients receiving corticosteroids at baseline) was reported in 12.6% with vedolizumab vs 21.8% with adalimumab (difference not significant).</p><p><br></p><p>Members considered that the results from the VARSITY trial suggest vedolizumab is more effective than adalimumab as a first-line treatment for ulcerative colitis. Members considered that the outcomes demonstrated with vedolizumab were likely as good as, or better than, outcomes seen in clinical practice with infliximab in New Zealand (relative to outcomes with adalimumab) and considered that while adalimumab is likely less effective than infliximab in ulcerative colitis, it is likely that outcomes with vedolizumab as a first-line agent are superior to those with infliximab as a first-line treatment in ulcerative colitis.\u00a0</p><p><br></p><p>Members noted evidence from the VISIBLE 1 trial of subcutaneous vedolizumab in patients with ulcerative colitis; 54 patients received intravenous vedolizumab, 106 received subcutaneous vedolizumab and 56 received placebo (Sandborn et al. Gastroenterology. 2020;158:562-72.e12). Members considered that the results at 52 weeks were similar to (or slightly better than) those in the GEMINI I trial, with about 40% of patients in clinical remission at 52 weeks in both vedolizumab groups, suggesting that the subcutaneous formulation was equivalent to intravenous vedolizumab. The Committee noted that 72.2%, 64.2% and 28.6% of patients who received IV vedolizumab, subcutaneous vedolizumab and placebo, respectively had durable clinical responses at 52 weeks. Members considered that if this data were extrapolated to use in Crohn\u2019s disease, the response rate would be less, although still demonstrated a clinically relevant response.</p><p><br></p><p>The Committee reviewed other evidence of vedolizumab in both Crohn\u2019s disease and ulcerative colitis:\u00a0</p><p>The Committee noted the results of a long-term extension study that included patients from the GEMINI II and III studies who had up to 152 weeks of vedolizumab exposure (Vermeire et al. J Crohns Colitis. 2017;11:412-24). The Committee noted that among patients with response at week 6 in GEMINI II who received vedolizumab continuously, 83% (N=100/120) and 89% (N=62/70) of patients were in remission after 104 and 152 weeks, respectively. The Committee noted that increased dosing frequency from every 8 weeks to every 4 weeks improved outcomes in patients who had withdrawn early from GEMINI II, with 47% (N=27/57) experiencing clinical response and 32% (N=18/57) in remission at week 52 of the long term extension (up from 39% and 4% before the dose increase).\u00a0</p><p><br></p><p>The Committee noted the results of a long-term extension study that included patients from the C13004 and GEMINI I studies who had up to 152 weeks of vedolizumab exposure (Loftus Jr et al. J Crohns Colitis. 2017;11: 400-11). The Committee noted that among patients with response at week 6 of GEMINI I, 88% (120/136) and 96% (70/73) were in remission after 104 and 152 weeks respectively. </p><p><br></p><p>The Committee considered that increased dosing frequency from every 8 weeks to every 4 weeks improved outcomes in patients who had withdrawn early from GEMINI I, with 41% experiencing clinical response and 28% in remission at week 52 of the long term extension (up from 19% and 6% before the dose increase).\u00a0</p><p><br></p><p>The Committee noted that the authors reported analysis excluding those with missing data, and a separate analysis treating all those with missing data as treatment failures. The Committee considered that missing clinical trial data is likely due to a variety of reasons, and that there were a significant number of patients who represented missing data at week 152 as they had not yet reached 152 weeks of vedolizumab exposure during GEMINI LTS. The Committee considered that in this context, it was reasonable to appraise the long-term efficacy of vedolizumab based on the results which excluded those with missing data from the analysis. The Committee considered that the results suggest the rate of loss of response with vedolizumab is less than 10% per year, with similar long-term loss of response between ulcerative colitis and Crohn\u2019s disease. The Committee considered that while the proportion of patients with prior anti-TNF failure in remission was lower than the proportion in remission among those without prior anti-TNF failure, the loss of response rates between the two groups in GEMINI LTS was comparable.</p><p><br></p><p>The Committee noted a meta-analysis that included 3216 patients with ulcerative colitis from several \u201creal-world\u201d open-label studies of vedolizumab which reported clinical remission in approximately 40% at 12 months and clinical response in 52% (Schreiber et al. J Gastroenterology. 2018;53:1048). Members considered this demonstrated similar treatment effect to results demonstrated in GEMINI 1 which demonstrated remission rates of 42% at 12 months.\u00a0</p><p><br></p><p>The Committee note that the same meta-analysis included patients with Crohn\u2019s disease and reported slightly lower rates of clinical remission (30%) and clinical response (40%) in these patients at 52 weeks compared with rates of patients with ulcerative colitis, and the Committee considered the clinical response was again similar to that demonstrated in GEMINI II (clinical response 39% at 52 weeks with vedolizumab 8-weekly).\u00a0</p><p><br></p><p>The Committee noted that mucosal healing, a component of the concept of &#39;deep remission&#39;, was reported in the same paper with rates at 12 months varying from 33% to 77% for ulcerative colitis patients, and 6% to 63% for Crohn\u2019s patients. The Committee noted that mucosal healing was highly variable for both diseases and considered that rates of approximately 50% would be clinically relevant, but variability contributed by different definitions of mucosal healing between clinical trials made assessment difficult.</p><p><br></p><p>The Committee noted the results of the open-label, multi-centre, \u201creal-world\u201d Cross Pennine study that reported long-term effectiveness and safety with vedolizumab in 135 patients with Crohn\u2019s disease and 68 patients with ulcerative colitis in the UK (Lenti et al. Digestive Liver Dis. 2018;50:1299-1304).\u00a0</p><p>\u2022\tThe Committee noted that this study assessed treatment response from 14 weeks (rather than 6 weeks) which members considered was appropriate for assessment of vedolizumab\u2019s effect. The Committee noted that 96% and 66% of Crohn\u2019s disease and ulcerative colitis patients had prior exposure to a TNF-\u03b1 inhibitor.\u00a0</p><p>\u2022\tThe Committee noted that at 14 weeks 40% and 42.6% of patients with Crohn\u2019s disease and ulcerative colitis, respectively, achieved a partial response and 38.5% and 48.5%, respectively, achieved remission (Figure 1. Lenti et al. 2018). The Committee noted that at 52 weeks, a total of 63.9% of patients with Crohn\u2019s disease and 82.5% of patients with ulcerative colitis in this study achieved a response or remission.</p><p>\u2022\tThe Committee considered that the combined rates of response and remission reported in this study may be an outlier compared with the other evidence for vedolizumab in this setting possibly due to lack of objective measures of disease activity.</p><p><br></p><p>The Committee considered that the understanding of vedolizumab in Crohn\u2019s disease and ulcerative colitis had developed over time and that, in retrospect, outcome assessments in some trials were performed too early in the treatment course. </p><p><br></p><p>Members considered that week 14 (rather than week 6 or week 10) was a more reasonable timepoint for initial assessment of treatment effect in the clinical trials.</p><p>Members noted evidence for three-year effectiveness of vedolizumab in a prospective multi-centre, French cohort study of 173 patients with Crohn\u2019s disease and 121 patients with ulcerative colitis, of which the majority (90% and 78%, respectively) had prior exposure to at least two TNF-\u03b1 inhibitor therapies (Amiot et al. Aliment Pharmacol Ther. 2019;50:40-53).\u00a0</p><p>\u2022\tMembers noted that the remission rate in patients with Crohn\u2019s disease was 30.0% at one year, as expected, with loss of remission occurring over time resulting in 19.9% in remission at three years; remission rates at one year and three years in patients with ulcerative colitis were 42.1% and 36.1%, respectively.\u00a0</p><p>\u2022\tMembers noted that the difference between the response rate (47.4%) and remission rate (30.0%) in patients with Crohn\u2019s disease at one year was roughly 15%, as expected, and noted that the proportion in response was 21.1% at three years.</p><p>\u2022\tMembers noted that 36.1% of patients with ulcerative colitis experienced steroid-free clinical remission at three years and that 62.3% of patients were still in steroid-free clinical remission at week 162.\u00a0</p><p><br></p><p>The Committee noted that the pharmacokinetics of vedolizumab are unconventional, and that the half-life cannot be determined via concentration curves. The Committee noted that the half-life of effect, rather than the half-life of the drug, is needed to determine the correct dose. The Committee noted that the elimination half-life of vedolizumab is approximately 25 days and, based on data from the GEMINI studies, low albumin concentration and high body mass were identified as predictors of accelerated vedolizumab clearance.\u00a0</p><p><br></p><p>The Committee noted that, although there are intravenous and subcutaneous formulation of vedolizumab available, the current application only includes intravenous vedolizumab. The Committee noted that the two formulations would have the same clearance, but the bioavailability could be less with the subcutaneous formulation.\u00a0</p><p><br></p><p>The Committee noted three studies linking lower trough concentrations of vedolizumab with worse therapeutic outcomes for IBD which support fixed dosing of 300 mg, but noted that the evidence did not take into account covariates such as age, gender, serum albumen or obesity:\u00a0</p><p>\u2022\tAl-Bawardy et al. Inflamm Bowel Dis. 2019;25:580\u20136</p><p>\u2022\tDreesen et al. Clin Gastroenterol Hepatol. 2018;16:1937\u201346</p><p>\u2022\tPouillon et al. BMC Med. 2019;17:89</p><p><br></p><p>The Committee noted that therapeutic drug monitoring (TDM) is a treatment strategy that has a target drug concentration rather than a target dose that determines effect. Members noted that TDM may alter dosing stratagem. Members considered that it is currently unclear whether disease symptoms should drive decisions on drug dosing, or whether use of TDM is better for vedolizumab in IBD. Drug/antibody concentration testing for vedolizumab may be useful in non-responders at the end of induction or in those with confirmed secondary loss of response, but they are currently not sufficient to guide specific individual treatments (Papamichael et al. Clin Gastroenterol Hepatol. 2019;17:1655-68).\u00a0</p><p><br></p><p>The Committee noted that there are emerging data indicating that target trough concentrations for vedolizumab should be around 25 ug/mL for initial clinical response for ulcerative colitis patients (Takatsu et al. Core Evid. 2020;15:7-20) and that the target concentration may differ between induction and maintenance therapy.</p><p> </p><p>The Committee noted that vedolizumab is selective to the gut and considered that increasing the dose may not lead to an increase in treatment related adverse events as seen with some TNF-\u03b1 inhibitor treatment.\u00a0</p><p><br></p><p>The Committee noted a study investigating the safety of vedolizumab for ulcerative colitis and Crohn\u2019s disease showing that, in the GEMINI 1 and 2 studies, 4% of patients developed antibodies against vedolizumab, which may contribute to a reduced response (Colombel et al. Gut. 2017;66:839-851). The Committee considered the level of anti-drug antibodies appeared to be low compared to treatment with TNF-\u03b1 inhibitors and also noted that the addition of an immunomodulator to vedolizumab treatment neither enhances drug levels nor improves therapeutic response (Ungar et al. Clin Gastroenterol Hepatol. 2018;16:697-705.e7) indicating an advantage of patients not requiring concomitant immunomodulator therapy which are commonly used with TNF-\u03b1 inhibitors.\u00a0</p><p><br></p><p>The Committee noted that the evidence for vedolizumab included individual randomised controlled clinical trials and cohort and observational studies that include patients with ulcerative colitis and patients with Crohn\u2019s disease. The Committee considered that this combined evidence was due to the many similarities between these diseases and the overlap in treatment approaches with biologics in particular. </p><p><br></p><p>The Committee considered that differences relating to surgery were the key differences in the evidence for these diseases.</p><p><br></p><p>The Committee noted that to date there are no unknown adverse reactions of concern over alternate funded biologics, and that demyelinating disorders are less common than with other monoclonal antibodies because vedolizumab is specific to the gut. </p><p><br></p><p>The Committee noted that treatment with vedolizumab did not differ in rates of serious infections, haematologic or serum chemical profiles, or liver-function test results when compared to placebo.</p><p><br></p><p>The Committee noted that treatment with vedolizumab did not appear to increase the risk of postoperative infection or complications in patients with ulcerative colitis undergoing abdominal surgery, and had fewer complications than similar patients who received TNF-\u03b1 inhibitor therapy prior to surgery (Law et al. J Crohns Colitis. 2018;12:538-545, Yung et al. Inflamm Bowel Dis. 2018;24:2327-2338). The Committee noted, however, that treatment with vedolizumab was associated with an increase in postoperative infectious complications in patients with Crohn\u2019s disease, but that these results were possibly compromised by concomitant use of corticosteroids, which are associated with an increased risk of postoperative complications (Lightner et al. Curr Drug Targets. 2019;20:1317-22).\u00a0</p><p><br></p><p>The Committee noted the evidence of efficacy and safety of vedolizumab in paediatric patients, children and young adults with Crohn\u2019s disease or ulcerative colitis (Conrad et al. Inflamm Bowel Dis 2016;22:2425-31; Ledder et al. J Crohn\u2019s Colitis 2017;11:1230-7; Schneider et al. BMC Gastroenterol. 2018;18:140; Singh et al. Inflamm Bowel Dis 2016;22:2121-6). The Committee considered that the efficacy and safety reported in these studies suggests that vedolizumab may be similarly effective in children and adults, but was limited by these being small, non-experimental studies and the age ranges were not necessarily applicable to New Zealand. The Committee noted that vedolizumab is not Medsafe-approved for use in children. The Committee considered that there are risks associated with exposure to immunosuppressant therapies that may be used in combination for children e.g. risk of lymphoma if already treated with thiopurines; which could make vedolizumab treatment preferrable as concomitant immunosuppressant use isn\u2019t necessary for vedolizumab.</p><p><br></p><p>The Committee noted the evidence provided by the applicants regarding the treatment failure rate of TNF-\u03b1 inhibitor therapy in ulcerative colitis or Crohn&#39;s disease and several other relevant references. The Committee also noted the following additional evidence regarding vedolizumab, Crohn\u2019s disease and ulcerative colitis:</p><p>\u2022\tFeagen et al. J Crohns Colitis. 2019;13:50-7</p><p>\u2022\tKopylov et al. Dig Liver Dis. 2019;51:68-74</p><p>\u2022\tLoftus et al. J Crohns Colitis. 2017;11:400-11</p><p>\u2022\tLoftus et al. Clin Exp Gastroenterol. 2020;13:211-20</p><p>\u2022\tMotoya et al. PLoS One. 2019;14:e021298</p><p>\u2022\tOsterman et al. Aliment Pharmacol Ther. 2019;49:408-18</p><p>\u2022\tRosario et al. (J Crohns Colitis. 2017;11:921-9</p><p>\u2022\tSandborn et al. J Crohns Colitis. 2019;13:172-81</p><p>\u2022\tVarvarynets et al. Wiad Lek. 2018;71:346-9) [Article in Ukrainian]</p><p>\u2022\tYajnik et al. Adv Ther. 2017;34:542-59</p><p><br></p><p>The Committee considered that the evidence for vedolizumab for ulcerative colitis and Crohn\u2019s disease from prospective cohort studies was of moderate to good quality, supported by \u201creal world\u201d observational data, and considered that this evidence was applicable to patients in New Zealand. However, the Committee considered this evidence did not inform a definite duration of treatment with vedolizumab or appropriate stopping criteria, nor did it provide evidence of hospitalisation rates for severe disease or evidence of colectomy prevention in either ulcerative colitis or Crohn\u2019s disease.\u00a0</p><p><br></p><p>The Committee considered that, if vedolizumab were to be funded for IBD, that some patients would be in corticosteroid-free remission at one year and that this was an important goal for patients and clinicians.\u00a0</p><p><br></p><p>Suitability\u00a0</p><p>The Committee noted that the infusion duration for intravenous administration of vedolizumab is shorter than that of infliximab, and that vedolizumab does not require treatment in combination with immunosuppressants e.g. thiopurines.\u00a0</p><p><br></p><p>The Committee noted that some wastage could be expected with vedolizumab e.g. due to lower doses for children) The Committee considered that if effective, treatment with vedolizumab would likely be long-term due to its long duration of effect. The Committee considered that the loss of response with vedolizumab is less than 10% per year, and this is likely lower than the 13-15% loss of response per year observed with TNF-\u03b1 inhibitors.</p><p><br></p><p>The Committee considered that if a subcutaneous vedolizumab formulation were available, it would enable administration in the community and self-administration, however, it may require more frequent administration than the intravenous formulation.\u00a0</p><p><br></p><p>Uptake of vedolizumab in ulcerative colitis\u00a0</p><p>The Committee noted that there was evidence to suggest that vedolizumab is as effective as TNF-\u03b1 inhibitor therapy and would be appropriate to be used as a first-line biologic after immunomodulators and calcineurin inhibitors, instead of TNF-\u03b1 inhibitor therapy, in patients with severe ulcerative colitis.\u00a0</p><p><br></p><p>The Committee considered that 55-60% of UC patients are likely to experience loss of response to infliximab over time. The Committee considered that the estimated uptake and number of patients (who may be eligible for vedolizumab as second-line treatment for moderately to severely active ulcerative colitis) of approximately 75 equivalent full-year patients at year one, increasing to 150 in three years was reasonable, and was consistent with previous considerations of likely patient numbers for second-line treatment of ulcerative colitis.\u00a0</p><p><br></p><p>The Committee considered it reasonable for children with ulcerative colitis to be eligible for treatment with vedolizumab, noting that there is evidence of efficacy in children aged six to 17 years and noting the health need of children and adolescents with ulcerative colitis.</p><p><br></p><p>General</p><p>The Committee noted that since the introduction of TNF-\u03b1 inhibitors, the need for and rates of surgery for ulcerative colitis and Crohn\u2019s disease patients has decreased substantially. The Committee also noted that the pivotal trials for vedolizumab did not show a reduction in surgery rates compared with placebo, and thus considered that longer term follow-up may be required to determine the impact of vedolizumab treatment (and/or other biological treatments) on surgical rates. The Committee considered that the greatest benefit from funding vedolizumab would be increased symptom control and improvement in quality of life measures, and that an appropriate comparator for vedolizumab is adalimumab and/or infliximab.\u00a0</p><p><br></p><p>The Committee noted that information on the duration of treatment, stopping points for treatment, use of endoscopy, and use of combination therapy was missing from the clinical trial data and commentary submitted by the applicant.\u00a0</p><p><br></p><p>The Committee suggested that the Gastrointestinal Subcommittee review the application for vedolizumab for the treatment of moderately to severely active ulcerative colitis and provide expert advice on the VARSITY trial evidence (not yet reviewed by the Subcommittee), and the use of therapeutic drug monitoring in this setting.</p>",
+          "change": null
+        },
+        "Published_Application": {
+          "s": "<p>The Committee reviewed the application from the New Zealand Society of Gastroenterology (NZSG) for vedolizumab for the treatment of patients with Crohn\u2019s disease (CD) who have either had failure of, became refractory to, or experienced severe and intractable side effects from infliximab and/or adalimumab.</p><p><br></p><p>The Committee reviewed the application from the New Zealand Society of Gastroenterology (NZSG) for vedolizumab for the treatment of patients with ulcerative colitis (UC) who have either had failure of, or became refractory to, or experienced severe and intractable side effects from infliximab.</p><p><br></p><p>The Committee took into account, where applicable, PHARMAC\u2019s relevant decision-making framework when considering this agenda item.\u00a0</p>",
+          "fs": "<p>The Committee reviewed the application from the New Zealand Society of Gastroenterology (NZSG) for vedolizumab for the treatment of patients with Crohn\u2019s disease (CD) who have either had failure of, became refractory to, or experienced severe and intractable side effects from infliximab and/or adalimumab.</p><p><br></p><p>The Committee reviewed the application from the New Zealand Society of Gastroenterology (NZSG) for vedolizumab for the treatment of patients with ulcerative colitis (UC) who have either had failure of, or became refractory to, or experienced severe and intractable side effects from infliximab.</p><p><br></p><p>The Committee took into account, where applicable, PHARMAC\u2019s relevant decision-making framework when considering this agenda item.\u00a0</p>",
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": "Medium",
+          "fs": "Medium",
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Feb 2021",
+          "fs": "Feb 2021",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Clinical advice received from Pharmacology and Therapeutics Advisory Committee (PTAC) at meeting Friday 13 November 2020.",
+          "fs": "Clinical advice received from Pharmacology and Therapeutics Advisory Committee (PTAC) at meeting Friday 13 November 2020.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P000007GWn2UAG"
+          },
+          "Id": "a0P2P000007GWn2UAG",
+          "Event_Date__c": "2021-02-23",
+          "Event_Description__c": "Clinical advice received from Pharmacology and Therapeutics Advisory Committee (PTAC) at meeting Friday 13 November 2020.",
+          "Stage__c": "Seeking Clinical Advice",
+          "Outcome__c": "Medium",
+          "Formatted_Date__c": "Feb 2021",
+          "Published_Recommendation__c": "<p>The Committee <b>recommended</b> that vedolizumab be listed as a first line biologic treatment for moderately to severely active ulcerative colitis with a medium priority, subject to the following Special Authority criteria:</p><p><b style=\"font-size: 9pt;\">Initiation \u2013 Ulcerative colitis </b></p><p><span style=\"font-size: 9pt;\">Applications only from a gastroenterologist or Practitioner on the recommendation of a gastroenterologist. Approvals valid for 4 months.</span></p><p><span style=\"font-size: 9pt;\">All of the following:</span></p><p><span style=\"font-size: 9pt;\">1.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Patient has histologically confirmed ulcerative colitis; and</span></p><p><span style=\"font-size: 9pt;\">2.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Either:</span></p><p><span style=\"font-size: 9pt;\">2.1.</span><span style=\"font-size: 7pt;\">\u00a0</span><span style=\"font-size: 9pt;\">Patient has a total score of 6 to 12 on the Mayo scale and an endoscopic subscore of 2 or 3; or</span></p><p><span style=\"font-size: 9pt;\">2.2.</span><span style=\"font-size: 7pt;\">\u00a0</span><span style=\"font-size: 9pt;\">Patient has a score of at least 65 on the Paediatric Ulcerative Colitis Activity Index (PUCAI); and</span></p><p><span style=\"font-size: 9pt;\">3.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Patient has tried but had an inadequate response to, or has experienced intolerable side effects from, prior systemic therapy with immunomodulators at maximum tolerated doses for an adequate duration (unless contraindicated) and corticosteroids; and </span></p><p><span style=\"font-size: 9pt;\">4.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Surgery (or further surgery) is considered clinically inappropriate.</span></p><p><span style=\"font-size: 9pt;\">\u00a0</span></p><p><b style=\"font-size: 9pt;\">Renewal \u2013 Ulcerative colitis </b></p><p><span style=\"font-size: 9pt;\">Applications only from a gastroenterologist or Practitioner on the recommendation of a gastroenterologist. Approvals valid for 6 months.</span></p><p><span style=\"font-size: 9pt;\">All of the following:</span></p><p><span style=\"font-size: 9pt;\">1.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Patient has experienced, or maintained a response (see Note) and the benefit of continuing treatment with vedolizumab outweighs the risks; and </span></p><p><span style=\"font-size: 9pt;\">2.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Vedolizumab will be used at a dose no greater than 300 mg intravenously every 8 weeks.</span></p><p><span style=\"font-size: 9pt;\">Note: Response is defined as a decrease from baseline in the Mayo score by \u226530% and \u22653 points, with either a decrease from baseline in the rectal bleeding sub score of \u22651 or a rectal bleeding subscore of 0 or 1.</span></p><p><br></p><p>In making this recommendation, the Committee noted that the 2017 Gastrointestinal Subcommittee recommendation for vedolizumab to be funded in a first line setting if cost-neutral to infliximab, and if a registered product is available. The Committee noted that new evidence demonstrates a clinically significant and durable response with vedolizumab in ulcerative colitis for TNF-\u03b1 inhibitor na\u00efve patients, although noted that evidence from clinical trials regarding the impact of vedolizumab on surgical intervention was minimal because this intervention is less common in ulcerative colitis than in Crohn\u2019s disease; the Committee considered that based on this evidence, it recommended listing with a medium priority.\u00a0</p>",
+          "Published_Application__c": "<p>The Committee reviewed the application from the New Zealand Society of Gastroenterology (NZSG) for vedolizumab for the treatment of patients with Crohn\u2019s disease (CD) who have either had failure of, became refractory to, or experienced severe and intractable side effects from infliximab and/or adalimumab.</p><p><br></p><p>The Committee reviewed the application from the New Zealand Society of Gastroenterology (NZSG) for vedolizumab for the treatment of patients with ulcerative colitis (UC) who have either had failure of, or became refractory to, or experienced severe and intractable side effects from infliximab.</p><p><br></p><p>The Committee took into account, where applicable, PHARMAC\u2019s relevant decision-making framework when considering this agenda item.\u00a0</p>",
+          "Published_Discussion__c": "<p>PTAC and PTAC Subcommittees may differ in the advice they provide to PHARMAC, including recommendations\u2019 priority, due to the committees\u2019 different, albeit complementary, roles, expertise, experience, and perspectives.</p><p><br></p><p>Vedolizumab</p><p>The Committee noted that vedolizumab is a humanised monoclonal antibody which selectively binds to the \u03b14\u03b27 integrin on T-lymphocytes that are present in the gastrointestinal tract and cause characteristic inflammation in Crohn\u2019s disease and ulcerative colitis. The Committee noted vedolizumabs binds selectively to the integrin unique to the bowel, resulting in a gut-specific mechanism of action. The Committee considered that this gut specificity may be associated with a reduction in systemic side effects, however, may similarly result in a limited effect of vedolizumab on the prevention and management of extraintestinal manifestations associated with Crohn\u2019s disease and ulcerative colitis.</p><p><br></p><p>The Committee noted that vedolizumab is proposed to be used for patients with moderately to severely active ulcerative colitis or severe Crohn\u2019s disease who have experienced either inadequate response, intolerable side effects, or loss of response with the currently available TNF-\u03b1 inhibitors The Committee noted vedolizumab induction therapy is typically given as 300 mg initially and at week two, with maintenance dosing of 300 mg at week six, then every eight weeks. The Committee considered that an additional 300 mg dose at week 10 may be considered in patients who received suboptimal response after induction therapy. The Committee noted that all doses (induction and maintenance) are administered via IV infusion over a period of approximately 30 minutes in a hospital setting.</p><p><br></p><p>The Committee noted that, in <a href=\"https://www.pharmac.govt.nz/assets/ptac-gastrointestinal-subcommittee-minutes-2017-4.pdf\" target=\"_blank\" style=\"color: windowtext;\">March 2017</a>, the Gastrointestinal Subcommittee considered the clinician application for vedolizumab for the treatment of patients with Crohn\u2019s disease and ulcerative colitis who have either had failure of, become refractory to, or experienced severe and intractable side effects from TNF-\u03b1 inhibitor treatment(s) and:</p><p>Recommended that vedolizumab be funded for Crohn\u2019s disease, in a first line setting if cost neutral with infliximab and adalimumab if a registered product becomes available; and</p><p>Recommended that vedolizumab be funded for Crohn\u2019s disease, in a second line setting with a high priority for primary non-responders to infliximab, if a registered product becomes available; and</p><p>Recommended that vedolizumab be funded for ulcerative colitis, in a first line setting if cost neutral with infliximab if a registered product becomes available; and</p><p>Recommended that vedolizumab be funded for ulcerative colitis, in a second line setting with a high priority for primary and secondary non-responders to infliximab, if a registered product becomes available.</p><p><br></p><p>The Committee noted that, in <a href=\"https://www.pharmac.govt.nz/assets/ptac-minutes-2017-11.pdf\" target=\"_blank\" style=\"color: windowtext;\">November 2017</a>, PTAC noted that vedolizumab was neither registered nor sought for registration in New Zealand, and noted that PHARMAC intended to invite Takeda (the supplier of vedolizumab) to submit an application for funding. At that time, PTAC requested it review the evidence from the supplier when applications were made for funding and registration in New Zealand.</p><p><br></p><p>The Committee noted that, in <a href=\"https://www.pharmac.govt.nz/assets/ptac-minutes-2019-02.pdf\" target=\"_blank\" style=\"color: windowtext;\">February 2019</a>, PTAC noted that PHARMAC had undertaken an economic analysis for vedolizumab and the proposal had been ranked against other proposals. At that time, PTAC recommended that it be presented a full paper on vedolizumab, and that it could reconsider its advice on vedolizumab, following that paper.</p><p><br></p><p>Health need</p><p>The Committee noted that the current treatment paradigm for management of inflammatory bowel disease (IBD) i.e. patients with Crohn\u2019s disease and ulcerative colitis, typically begins with aminosalicylates and escalates to steroid treatment if patients experience flare-ups and disease progression. The Committee noted that, following failure of steroid treatment to manage symptoms, patients may be initiated on immunomodulators such as azathioprine, or TNF-\u03b1 inhibitor treatment for patients who have not responded to corticosteroids and/or immunosuppressive agents, or have experienced an adverse event or become unable to tolerate corticosteroids and/or immunosuppressive agents. The Committee noted that calcineurin inhibitors are not a feature of New Zealand clinical practice in the treatment of IBD but are used internationally. The Committee noted that for patients for whom biologic therapy does not elicit a response, surgical resection is an option, with more favourable long-term outcomes typically seen in ulcerative colitis patients.</p><p><br></p><p>The Committee considered that more data is needed on whether early aggressive therapy is more beneficial than a step-up treatment approach in the longer term for the treatment of inflammatory bowel diseases, particularly with regard to whether early aggressive therapy has a role in altering the natural history of the disease.</p><p><br></p><p>The Committee noted that the majority of Crohn\u2019s disease patients are treated with adalimumab as their first biologic agent, with infliximab used first line in approximately 10-15% of cases. The Committee considered that infliximab is the most common initial biologic agent for patients presenting to hospital with acute Crohn\u2019s disease such as those presenting with fistulising disease. The Committee noted that approximately half of Crohn\u2019s disease patients who experience primary non-response to a TNF-\u03b1 inhibitor are likely to experience the same with a second TNF-\u03b1 inhibitor, and 23% to 46% of those with prior TNF-\u03b1 inhibitor treatment failure are likely to experience treatment failure (secondary loss of response) to a second TNF-\u03b1 inhibitor at 12 months (<a href=\"https://pubmed.ncbi.nlm.nih.gov/23792214/\" target=\"_blank\" style=\"color: windowtext;\">Ben-Horin et al. Autoimmun Rev. 2014;13:24-30</a>).</p><p><br></p><p>The Committee noted that the health need for the IBD patient population is high. Members noted that children and adolescents presenting with IBD are more likely to be diagnosed with severe disease but are less likely to have the complications seen in adult patients such as fistulae, abscesses, and strictures that are associated with longer duration disease (<a href=\"https://doi.org/10.1111/j.1365-2036.2011.04857.x\" target=\"_blank\" style=\"color: windowtext;\">Jakobsen et al. Aliment Pharmacol Ther. 2011;34:1217-24</a>; <a href=\"https://academic.oup.com/ecco-jcc/article-lookup/doi/10.1016/j.crohns.2014.05.006\" target=\"_blank\" style=\"color: windowtext;\">Duricova et al. J Crohns Colitis. 2014;8:1351-61</a>). Children with ulcerative colitis have more extensive disease after presentation, a higher risk of being treated with systemic steroids and azathioprine\u2044 mercaptopurine, a higher frequency of steroid dependency and a more severe disease course.</p><p><br></p><p>Members noted that a non-experimental study investigating the health care utilisation and cost for ulcerative colitis in Australia (<a href=\"https://pubmed.ncbi.nlm.nih.gov/24345767/\" target=\"_blank\" style=\"color: windowtext;\">Gibson et al. J Crohns Colitis. 2014;8:598-606</a>). The Committee noted that the mean (SD) 3-month UC-related health care cost per patient was reported as AUD $2914 ($3447); with mean for patients in remission, $1970; mild disease, $3736; and moderate/severe disease, $4162; and that patients in remission had the least work and activity impairment. Additionally, the Committee noted that ulcerative colitis patients have a lower health related quality of life than the general population, and that the most important treatment attribute was efficacy, but that patients also value avoiding steroids, and prefer a fast onset of effect (<a href=\"https://pubmed.ncbi.nlm.nih.gov/31944145/\" target=\"_blank\" style=\"color: windowtext;\">Hagelund et al. Curr Med Res Opin. 2020;36:771-779</a>). The Committee considered that the health system costs, and quality of life impacts would be similar for Crohn\u2019s disease.</p><p>The Committee noted the results of the double-blind, placebo-controlled GEMINI I trial of 374 patients with ulcerative colitis who received 6 weeks of induction (randomised 2:1) with vedolizumab 300 mg intravenously (N=225) or placebo (N=149) at days 1 and 15 followed by 46 weeks maintenance (randomised 1:1:1) with either 4-weekly vedolizumab 300 mg (N=125), 8-weekly vedolizumab 300 mg (N=122) or placebo (N=126; Feagan et al. N Engl J Med 2013; 369:699-710).</p><p><br></p><p>The Committee noted that the primary outcome of induction was clinical response at week 6 (Mayo score reduction of \u22653 points and decrease of 30% from baseline, with decrease of \u22651 point on rectal bleeding sub-score or absolute sub-score of 0 or 1) which was 47.1% with vedolizumab vs 25.5% with placebo (P&lt;0.001).</p><p><br></p><p>The Committee noted that the primary outcome of maintenance treatment was clinical remission at week 52, which was reported in 41.8% with vedolizumab 8-weekly vs 44.8% with vedolizumab 4-weekly vs 15.9% with placebo (P&lt;0.001).</p><p><br></p><p>The Committee noted that mucosal healing at week 12 was reported in 52% with vedolizumab 8-weekly vs 56% vedolizumab 4-weekly vs 20% with placebo; members considered that this was clinically relevant but not as crucial a trial endpoint as clinical response and remission.\u00a0</p><p><br></p><p>The Committee noted that a post-hoc analysis of the GEMINI 1 trial reported a greater improvement in health-related quality of life scores with vedolizumab compared with placebo (Feagan et al. Aliment Pharmacol Ther. 2017;45:264-75).</p><p><br></p><p>The Subcommittee noted the results of the VARSITY trial; a phase IIIb, randomised, double-blind, active-controlled superiority trial investigating vedolizumab (300 mg intravenously at weeks 0, 2, 6 and then 8-weekly, plus subcutaneous placebo injections); or adalimumab (160 mg week 0, 80 mg week 3, then 40 mg 2-weekly thereafter, plus placebo intravenous infusions) in 771 adult patients with ulcerative colitis (Sands et al. N Engl J Med 2019; 381: 1215-26). The Committee noted that the VARSITY trial provided a head-to-head comparison of these two agents in ulcerative colitis and noted that this evidence had not been formally reviewed by the Gastrointestinal Subcommittee.</p><p><br></p><p>The Committee noted that the primary endpoint was clinical remission at week 52 (\u22642 on Mayo score; no sub-score &gt;1) and that 31.3% of patients who received vedolizumab were in remission at week 52 vs 22.5% with adalimumab (P=0.006).\u00a0</p><p><br></p><p>The Committee noted that the trial reported a response in 67.1% of patients who received vedolizumab at 14 weeks and considered that the 6-week assessment of response and remission were too early to appropriately assess this agent. Members considered that there was good durability of clinical response with vedolizumab. The Committee further noted that the response rate with adalimumab was slightly lower than vedolizumab at most time points, but with a similar response after 52 weeks. The Committee noted that a clinical response at week 14 was observed in 67.1% of vedolizumab patients vs 45.9% of adalimumab patients (P&lt;0.05); among patients with prior anti-TNF exposure, clinical response at week 14 was 55.7% with vedolizumab vs 32.1% with adalimumab (P&lt;0.05); and among those na\u00efve to anti-TNFs, response at week 14 was 70.1% with vedolizumab vs 49.5% with adalimumab (P&lt;0.05).</p><p><br></p><p>The Committee noted that corticosteroid-free clinical remission (a secondary outcome assessed only in patients receiving corticosteroids at baseline) was reported in 12.6% with vedolizumab vs 21.8% with adalimumab (difference not significant).</p><p><br></p><p>Members considered that the results from the VARSITY trial suggest vedolizumab is more effective than adalimumab as a first-line treatment for ulcerative colitis. Members considered that the outcomes demonstrated with vedolizumab were likely as good as, or better than, outcomes seen in clinical practice with infliximab in New Zealand (relative to outcomes with adalimumab) and considered that while adalimumab is likely less effective than infliximab in ulcerative colitis, it is likely that outcomes with vedolizumab as a first-line agent are superior to those with infliximab as a first-line treatment in ulcerative colitis.\u00a0</p><p><br></p><p>Members noted evidence from the VISIBLE 1 trial of subcutaneous vedolizumab in patients with ulcerative colitis; 54 patients received intravenous vedolizumab, 106 received subcutaneous vedolizumab and 56 received placebo (Sandborn et al. Gastroenterology. 2020;158:562-72.e12). Members considered that the results at 52 weeks were similar to (or slightly better than) those in the GEMINI I trial, with about 40% of patients in clinical remission at 52 weeks in both vedolizumab groups, suggesting that the subcutaneous formulation was equivalent to intravenous vedolizumab. The Committee noted that 72.2%, 64.2% and 28.6% of patients who received IV vedolizumab, subcutaneous vedolizumab and placebo, respectively had durable clinical responses at 52 weeks. Members considered that if this data were extrapolated to use in Crohn\u2019s disease, the response rate would be less, although still demonstrated a clinically relevant response.</p><p><br></p><p>The Committee reviewed other evidence of vedolizumab in both Crohn\u2019s disease and ulcerative colitis:\u00a0</p><p>The Committee noted the results of a long-term extension study that included patients from the GEMINI II and III studies who had up to 152 weeks of vedolizumab exposure (Vermeire et al. J Crohns Colitis. 2017;11:412-24). The Committee noted that among patients with response at week 6 in GEMINI II who received vedolizumab continuously, 83% (N=100/120) and 89% (N=62/70) of patients were in remission after 104 and 152 weeks, respectively. The Committee noted that increased dosing frequency from every 8 weeks to every 4 weeks improved outcomes in patients who had withdrawn early from GEMINI II, with 47% (N=27/57) experiencing clinical response and 32% (N=18/57) in remission at week 52 of the long term extension (up from 39% and 4% before the dose increase).\u00a0</p><p><br></p><p>The Committee noted the results of a long-term extension study that included patients from the C13004 and GEMINI I studies who had up to 152 weeks of vedolizumab exposure (Loftus Jr et al. J Crohns Colitis. 2017;11: 400-11). The Committee noted that among patients with response at week 6 of GEMINI I, 88% (120/136) and 96% (70/73) were in remission after 104 and 152 weeks respectively. </p><p><br></p><p>The Committee considered that increased dosing frequency from every 8 weeks to every 4 weeks improved outcomes in patients who had withdrawn early from GEMINI I, with 41% experiencing clinical response and 28% in remission at week 52 of the long term extension (up from 19% and 6% before the dose increase).\u00a0</p><p><br></p><p>The Committee noted that the authors reported analysis excluding those with missing data, and a separate analysis treating all those with missing data as treatment failures. The Committee considered that missing clinical trial data is likely due to a variety of reasons, and that there were a significant number of patients who represented missing data at week 152 as they had not yet reached 152 weeks of vedolizumab exposure during GEMINI LTS. The Committee considered that in this context, it was reasonable to appraise the long-term efficacy of vedolizumab based on the results which excluded those with missing data from the analysis. The Committee considered that the results suggest the rate of loss of response with vedolizumab is less than 10% per year, with similar long-term loss of response between ulcerative colitis and Crohn\u2019s disease. The Committee considered that while the proportion of patients with prior anti-TNF failure in remission was lower than the proportion in remission among those without prior anti-TNF failure, the loss of response rates between the two groups in GEMINI LTS was comparable.</p><p><br></p><p>The Committee noted a meta-analysis that included 3216 patients with ulcerative colitis from several \u201creal-world\u201d open-label studies of vedolizumab which reported clinical remission in approximately 40% at 12 months and clinical response in 52% (Schreiber et al. J Gastroenterology. 2018;53:1048). Members considered this demonstrated similar treatment effect to results demonstrated in GEMINI 1 which demonstrated remission rates of 42% at 12 months.\u00a0</p><p><br></p><p>The Committee note that the same meta-analysis included patients with Crohn\u2019s disease and reported slightly lower rates of clinical remission (30%) and clinical response (40%) in these patients at 52 weeks compared with rates of patients with ulcerative colitis, and the Committee considered the clinical response was again similar to that demonstrated in GEMINI II (clinical response 39% at 52 weeks with vedolizumab 8-weekly).\u00a0</p><p><br></p><p>The Committee noted that mucosal healing, a component of the concept of &#39;deep remission&#39;, was reported in the same paper with rates at 12 months varying from 33% to 77% for ulcerative colitis patients, and 6% to 63% for Crohn\u2019s patients. The Committee noted that mucosal healing was highly variable for both diseases and considered that rates of approximately 50% would be clinically relevant, but variability contributed by different definitions of mucosal healing between clinical trials made assessment difficult.</p><p><br></p><p>The Committee noted the results of the open-label, multi-centre, \u201creal-world\u201d Cross Pennine study that reported long-term effectiveness and safety with vedolizumab in 135 patients with Crohn\u2019s disease and 68 patients with ulcerative colitis in the UK (Lenti et al. Digestive Liver Dis. 2018;50:1299-1304).\u00a0</p><p>\u2022\tThe Committee noted that this study assessed treatment response from 14 weeks (rather than 6 weeks) which members considered was appropriate for assessment of vedolizumab\u2019s effect. The Committee noted that 96% and 66% of Crohn\u2019s disease and ulcerative colitis patients had prior exposure to a TNF-\u03b1 inhibitor.\u00a0</p><p>\u2022\tThe Committee noted that at 14 weeks 40% and 42.6% of patients with Crohn\u2019s disease and ulcerative colitis, respectively, achieved a partial response and 38.5% and 48.5%, respectively, achieved remission (Figure 1. Lenti et al. 2018). The Committee noted that at 52 weeks, a total of 63.9% of patients with Crohn\u2019s disease and 82.5% of patients with ulcerative colitis in this study achieved a response or remission.</p><p>\u2022\tThe Committee considered that the combined rates of response and remission reported in this study may be an outlier compared with the other evidence for vedolizumab in this setting possibly due to lack of objective measures of disease activity.</p><p><br></p><p>The Committee considered that the understanding of vedolizumab in Crohn\u2019s disease and ulcerative colitis had developed over time and that, in retrospect, outcome assessments in some trials were performed too early in the treatment course. </p><p><br></p><p>Members considered that week 14 (rather than week 6 or week 10) was a more reasonable timepoint for initial assessment of treatment effect in the clinical trials.</p><p>Members noted evidence for three-year effectiveness of vedolizumab in a prospective multi-centre, French cohort study of 173 patients with Crohn\u2019s disease and 121 patients with ulcerative colitis, of which the majority (90% and 78%, respectively) had prior exposure to at least two TNF-\u03b1 inhibitor therapies (Amiot et al. Aliment Pharmacol Ther. 2019;50:40-53).\u00a0</p><p>\u2022\tMembers noted that the remission rate in patients with Crohn\u2019s disease was 30.0% at one year, as expected, with loss of remission occurring over time resulting in 19.9% in remission at three years; remission rates at one year and three years in patients with ulcerative colitis were 42.1% and 36.1%, respectively.\u00a0</p><p>\u2022\tMembers noted that the difference between the response rate (47.4%) and remission rate (30.0%) in patients with Crohn\u2019s disease at one year was roughly 15%, as expected, and noted that the proportion in response was 21.1% at three years.</p><p>\u2022\tMembers noted that 36.1% of patients with ulcerative colitis experienced steroid-free clinical remission at three years and that 62.3% of patients were still in steroid-free clinical remission at week 162.\u00a0</p><p><br></p><p>The Committee noted that the pharmacokinetics of vedolizumab are unconventional, and that the half-life cannot be determined via concentration curves. The Committee noted that the half-life of effect, rather than the half-life of the drug, is needed to determine the correct dose. The Committee noted that the elimination half-life of vedolizumab is approximately 25 days and, based on data from the GEMINI studies, low albumin concentration and high body mass were identified as predictors of accelerated vedolizumab clearance.\u00a0</p><p><br></p><p>The Committee noted that, although there are intravenous and subcutaneous formulation of vedolizumab available, the current application only includes intravenous vedolizumab. The Committee noted that the two formulations would have the same clearance, but the bioavailability could be less with the subcutaneous formulation.\u00a0</p><p><br></p><p>The Committee noted three studies linking lower trough concentrations of vedolizumab with worse therapeutic outcomes for IBD which support fixed dosing of 300 mg, but noted that the evidence did not take into account covariates such as age, gender, serum albumen or obesity:\u00a0</p><p>\u2022\tAl-Bawardy et al. Inflamm Bowel Dis. 2019;25:580\u20136</p><p>\u2022\tDreesen et al. Clin Gastroenterol Hepatol. 2018;16:1937\u201346</p><p>\u2022\tPouillon et al. BMC Med. 2019;17:89</p><p><br></p><p>The Committee noted that therapeutic drug monitoring (TDM) is a treatment strategy that has a target drug concentration rather than a target dose that determines effect. Members noted that TDM may alter dosing stratagem. Members considered that it is currently unclear whether disease symptoms should drive decisions on drug dosing, or whether use of TDM is better for vedolizumab in IBD. Drug/antibody concentration testing for vedolizumab may be useful in non-responders at the end of induction or in those with confirmed secondary loss of response, but they are currently not sufficient to guide specific individual treatments (Papamichael et al. Clin Gastroenterol Hepatol. 2019;17:1655-68).\u00a0</p><p><br></p><p>The Committee noted that there are emerging data indicating that target trough concentrations for vedolizumab should be around 25 ug/mL for initial clinical response for ulcerative colitis patients (Takatsu et al. Core Evid. 2020;15:7-20) and that the target concentration may differ between induction and maintenance therapy.</p><p> </p><p>The Committee noted that vedolizumab is selective to the gut and considered that increasing the dose may not lead to an increase in treatment related adverse events as seen with some TNF-\u03b1 inhibitor treatment.\u00a0</p><p><br></p><p>The Committee noted a study investigating the safety of vedolizumab for ulcerative colitis and Crohn\u2019s disease showing that, in the GEMINI 1 and 2 studies, 4% of patients developed antibodies against vedolizumab, which may contribute to a reduced response (Colombel et al. Gut. 2017;66:839-851). The Committee considered the level of anti-drug antibodies appeared to be low compared to treatment with TNF-\u03b1 inhibitors and also noted that the addition of an immunomodulator to vedolizumab treatment neither enhances drug levels nor improves therapeutic response (Ungar et al. Clin Gastroenterol Hepatol. 2018;16:697-705.e7) indicating an advantage of patients not requiring concomitant immunomodulator therapy which are commonly used with TNF-\u03b1 inhibitors.\u00a0</p><p><br></p><p>The Committee noted that the evidence for vedolizumab included individual randomised controlled clinical trials and cohort and observational studies that include patients with ulcerative colitis and patients with Crohn\u2019s disease. The Committee considered that this combined evidence was due to the many similarities between these diseases and the overlap in treatment approaches with biologics in particular. </p><p><br></p><p>The Committee considered that differences relating to surgery were the key differences in the evidence for these diseases.</p><p><br></p><p>The Committee noted that to date there are no unknown adverse reactions of concern over alternate funded biologics, and that demyelinating disorders are less common than with other monoclonal antibodies because vedolizumab is specific to the gut. </p><p><br></p><p>The Committee noted that treatment with vedolizumab did not differ in rates of serious infections, haematologic or serum chemical profiles, or liver-function test results when compared to placebo.</p><p><br></p><p>The Committee noted that treatment with vedolizumab did not appear to increase the risk of postoperative infection or complications in patients with ulcerative colitis undergoing abdominal surgery, and had fewer complications than similar patients who received TNF-\u03b1 inhibitor therapy prior to surgery (Law et al. J Crohns Colitis. 2018;12:538-545, Yung et al. Inflamm Bowel Dis. 2018;24:2327-2338). The Committee noted, however, that treatment with vedolizumab was associated with an increase in postoperative infectious complications in patients with Crohn\u2019s disease, but that these results were possibly compromised by concomitant use of corticosteroids, which are associated with an increased risk of postoperative complications (Lightner et al. Curr Drug Targets. 2019;20:1317-22).\u00a0</p><p><br></p><p>The Committee noted the evidence of efficacy and safety of vedolizumab in paediatric patients, children and young adults with Crohn\u2019s disease or ulcerative colitis (Conrad et al. Inflamm Bowel Dis 2016;22:2425-31; Ledder et al. J Crohn\u2019s Colitis 2017;11:1230-7; Schneider et al. BMC Gastroenterol. 2018;18:140; Singh et al. Inflamm Bowel Dis 2016;22:2121-6). The Committee considered that the efficacy and safety reported in these studies suggests that vedolizumab may be similarly effective in children and adults, but was limited by these being small, non-experimental studies and the age ranges were not necessarily applicable to New Zealand. The Committee noted that vedolizumab is not Medsafe-approved for use in children. The Committee considered that there are risks associated with exposure to immunosuppressant therapies that may be used in combination for children e.g. risk of lymphoma if already treated with thiopurines; which could make vedolizumab treatment preferrable as concomitant immunosuppressant use isn\u2019t necessary for vedolizumab.</p><p><br></p><p>The Committee noted the evidence provided by the applicants regarding the treatment failure rate of TNF-\u03b1 inhibitor therapy in ulcerative colitis or Crohn&#39;s disease and several other relevant references. The Committee also noted the following additional evidence regarding vedolizumab, Crohn\u2019s disease and ulcerative colitis:</p><p>\u2022\tFeagen et al. J Crohns Colitis. 2019;13:50-7</p><p>\u2022\tKopylov et al. Dig Liver Dis. 2019;51:68-74</p><p>\u2022\tLoftus et al. J Crohns Colitis. 2017;11:400-11</p><p>\u2022\tLoftus et al. Clin Exp Gastroenterol. 2020;13:211-20</p><p>\u2022\tMotoya et al. PLoS One. 2019;14:e021298</p><p>\u2022\tOsterman et al. Aliment Pharmacol Ther. 2019;49:408-18</p><p>\u2022\tRosario et al. (J Crohns Colitis. 2017;11:921-9</p><p>\u2022\tSandborn et al. J Crohns Colitis. 2019;13:172-81</p><p>\u2022\tVarvarynets et al. Wiad Lek. 2018;71:346-9) [Article in Ukrainian]</p><p>\u2022\tYajnik et al. Adv Ther. 2017;34:542-59</p><p><br></p><p>The Committee considered that the evidence for vedolizumab for ulcerative colitis and Crohn\u2019s disease from prospective cohort studies was of moderate to good quality, supported by \u201creal world\u201d observational data, and considered that this evidence was applicable to patients in New Zealand. However, the Committee considered this evidence did not inform a definite duration of treatment with vedolizumab or appropriate stopping criteria, nor did it provide evidence of hospitalisation rates for severe disease or evidence of colectomy prevention in either ulcerative colitis or Crohn\u2019s disease.\u00a0</p><p><br></p><p>The Committee considered that, if vedolizumab were to be funded for IBD, that some patients would be in corticosteroid-free remission at one year and that this was an important goal for patients and clinicians.\u00a0</p><p><br></p><p>Suitability\u00a0</p><p>The Committee noted that the infusion duration for intravenous administration of vedolizumab is shorter than that of infliximab, and that vedolizumab does not require treatment in combination with immunosuppressants e.g. thiopurines.\u00a0</p><p><br></p><p>The Committee noted that some wastage could be expected with vedolizumab e.g. due to lower doses for children) The Committee considered that if effective, treatment with vedolizumab would likely be long-term due to its long duration of effect. The Committee considered that the loss of response with vedolizumab is less than 10% per year, and this is likely lower than the 13-15% loss of response per year observed with TNF-\u03b1 inhibitors.</p><p><br></p><p>The Committee considered that if a subcutaneous vedolizumab formulation were available, it would enable administration in the community and self-administration, however, it may require more frequent administration than the intravenous formulation.\u00a0</p><p><br></p><p>Uptake of vedolizumab in ulcerative colitis\u00a0</p><p>The Committee noted that there was evidence to suggest that vedolizumab is as effective as TNF-\u03b1 inhibitor therapy and would be appropriate to be used as a first-line biologic after immunomodulators and calcineurin inhibitors, instead of TNF-\u03b1 inhibitor therapy, in patients with severe ulcerative colitis.\u00a0</p><p><br></p><p>The Committee considered that 55-60% of UC patients are likely to experience loss of response to infliximab over time. The Committee considered that the estimated uptake and number of patients (who may be eligible for vedolizumab as second-line treatment for moderately to severely active ulcerative colitis) of approximately 75 equivalent full-year patients at year one, increasing to 150 in three years was reasonable, and was consistent with previous considerations of likely patient numbers for second-line treatment of ulcerative colitis.\u00a0</p><p><br></p><p>The Committee considered it reasonable for children with ulcerative colitis to be eligible for treatment with vedolizumab, noting that there is evidence of efficacy in children aged six to 17 years and noting the health need of children and adolescents with ulcerative colitis.</p><p><br></p><p>General</p><p>The Committee noted that since the introduction of TNF-\u03b1 inhibitors, the need for and rates of surgery for ulcerative colitis and Crohn\u2019s disease patients has decreased substantially. The Committee also noted that the pivotal trials for vedolizumab did not show a reduction in surgery rates compared with placebo, and thus considered that longer term follow-up may be required to determine the impact of vedolizumab treatment (and/or other biological treatments) on surgical rates. The Committee considered that the greatest benefit from funding vedolizumab would be increased symptom control and improvement in quality of life measures, and that an appropriate comparator for vedolizumab is adalimumab and/or infliximab.\u00a0</p><p><br></p><p>The Committee noted that information on the duration of treatment, stopping points for treatment, use of endoscopy, and use of combination therapy was missing from the clinical trial data and commentary submitted by the applicant.\u00a0</p><p><br></p><p>The Committee suggested that the Gastrointestinal Subcommittee review the application for vedolizumab for the treatment of moderately to severely active ulcerative colitis and provide expert advice on the VARSITY trial evidence (not yet reviewed by the Subcommittee), and the use of therapeutic drug monitoring in this setting.</p>",
+          "Status_History__c": "a132P000000CcxCQAS"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Nov 2020",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Following Clinical Advice, Pharmac staff considers the advice and the funding application under goes an assessment using our&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/factors-for-consideration/\" rel=\"nofollow\">Factors for Consideration</a>&nbsp;framework and seeks additional information as required.</p>\r\n<p>&nbsp;</p>\r\n<p>Research and Economic analysis are undertaken.&nbsp; This focuses on the costs and benefits of a proposed course of action. Economics is based on three fundamental concepts that summarise the issues Pharmac faces daily:&nbsp;</p>\r\n<ul>\r\n<li>Scarcity &ndash; resources will always be insufficient to support all possible activities.</li>\r\n<li>Choices &ndash; due to scarce resources, decisions must be made about how best to use them.</li>\r\n<li>Opportunity cost &ndash; by choosing to use resources one way, we forgo other opportunities to use the same resources.</li>\r\n</ul>\r\n<p>&nbsp;</p>\r\n<p>For further information on the purpose of, and techniques for, undertaking economic analysis in health care, please refer&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/economic-analysis/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/economic-analysis/</a></p>",
+    "position": 2,
+    "name": "Under Assessment",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Nov 2020",
+          "fs": "Nov 2020",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Working to compare options",
+          "fs": "Working to compare options",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P000007GWn0UAG"
+          },
+          "Id": "a0P2P000007GWn0UAG",
+          "Event_Date__c": "2020-11-24",
+          "Event_Description__c": "Working to compare options",
+          "Stage__c": "Under Assessment",
+          "Formatted_Date__c": "Nov 2020",
+          "Status_History__c": "a132P000000CNRHQA4"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Nov 2020",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Pharmac staff uses a prioritisation process to compare and rank funding options. Possible opportunities for new investment will always exceed the budget Pharmac has available; therefore, prioritisation is an intrinsic part of Pharmac\u2019s decision-making process.</p>\r\n<p>The relative ranking of options aims to support Pharmac&rsquo;s statutory objective &ldquo;to secure for eligible people in need of pharmaceuticals, the best health outcomes that are reasonably achievable from pharmaceutical treatment and from within the amount of funding provided&rdquo;.</p>\r\n<p>A funding application or proposal is considered ready for prioritisation when sufficient information is available to permit it to be reviewed against Pharmac's Factors for Consideration and to inform a comparison with other possible investment decisions.</p>\r\n<p>There is no guarantee when or if a ranked medicine will be funded.&nbsp;&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/prioritisation/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/prioritisation/</a></p>",
+    "position": 3,
+    "name": "Options Compared",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Dec 2020",
+          "fs": "Dec 2020",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "The relative ranking of the pharmaceutical application has been completed.",
+          "fs": "The relative ranking of the pharmaceutical application has been completed.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P000007GWn1UAG"
+          },
+          "Id": "a0P2P000007GWn1UAG",
+          "Event_Date__c": "2020-12-16",
+          "Event_Description__c": "The relative ranking of the pharmaceutical application has been completed.",
+          "Stage__c": "Options Compared",
+          "Formatted_Date__c": "Dec 2020",
+          "Status_History__c": "a132P000000CSGmQAO"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Mar 2021",
+          "fs": "Mar 2021",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "The relative ranking of the pharmaceutical application has been completed.",
+          "fs": "The relative ranking of the pharmaceutical application has been completed.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P000007GWn3UAG"
+          },
+          "Id": "a0P2P000007GWn3UAG",
+          "Event_Date__c": "2021-03-11",
+          "Event_Description__c": "The relative ranking of the pharmaceutical application has been completed.",
+          "Stage__c": "Options Compared",
+          "Formatted_Date__c": "Mar 2021",
+          "Status_History__c": "a132P000000CfrRQAS"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Jun 2022",
+          "fs": "Jun 2022",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "The relative ranking of the pharmaceutical application has been completed.",
+          "fs": "The relative ranking of the pharmaceutical application has been completed.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P000007GWn4UAG"
+          },
+          "Id": "a0P2P000007GWn4UAG",
+          "Event_Date__c": "2022-06-02",
+          "Event_Description__c": "The relative ranking of the pharmaceutical application has been completed.",
+          "Stage__c": "Options Compared",
+          "Formatted_Date__c": "Jun 2022",
+          "Status_History__c": "a132P000000DnXyQAK"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Dec 2020",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Pharmac is consulting on a proposal to either approve or decline the application.&nbsp;We seek the views of all people who have an interest in our proposals, or who may be affected by them, to obtain feedback on our proposed approaches.</p>\r\n<p><a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/having-your-say/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/having-your-say/</a></p>",
+    "position": 4,
+    "name": "Under Consultation",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": "<p><span style=\"font-size: 14px; color: rgb(51, 51, 51);\">From 1 February 2023 vedolizumab (Entyvio) would be funded for people with ulcerative colitis or Crohn\u2019s disease that has not responded to, or are intolerant of, conventional therapies and/or anti-tumour necrosis factor (TNF) alpha therapy (ie adalimumab and infliximab, subject to eligibility criteria.</span></p>",
+          "fs": "<p><span style=\"font-size: 14px; color: rgb(51, 51, 51);\">From 1 February 2023 vedolizumab (Entyvio) would be funded for people with ulcerative colitis or Crohn\u2019s disease that has not responded to, or are intolerant of, conventional therapies and/or anti-tumour necrosis factor (TNF) alpha therapy (ie adalimumab and infliximab, subject to eligibility criteria.</span></p>",
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": "<p><a href=\"https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/2022-09-20-proposal-to-fund-vedolizumab-for-inflammatory-bowel-disease-and-brentuximab-for-rare-lymphomas/\" target=\"_blank\" style=\"font-size: 14px; background-color: rgb(255, 255, 255);\">https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/2022-09-20-proposal-to-fund-vedolizumab-for-inflammatory-bowel-disease-and-brentuximab-for-rare-lymphomas/</a></p>",
+          "fs": "<p><a href=\"https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/2022-09-20-proposal-to-fund-vedolizumab-for-inflammatory-bowel-disease-and-brentuximab-for-rare-lymphomas/\" target=\"_blank\" style=\"font-size: 14px; background-color: rgb(255, 255, 255);\">https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/2022-09-20-proposal-to-fund-vedolizumab-for-inflammatory-bowel-disease-and-brentuximab-for-rare-lymphomas/</a></p>",
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Sep 2022",
+          "fs": "Sep 2022",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Public consultation for this application is active.",
+          "fs": "Public consultation for this application is active.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P000007GWn5UAG"
+          },
+          "Id": "a0P2P000007GWn5UAG",
+          "Event_Date__c": "2022-09-19",
+          "Event_Description__c": "Public consultation for this application is active.",
+          "Stage__c": "Under Consultation",
+          "Links__c": "<p><a href=\"https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/2022-09-20-proposal-to-fund-vedolizumab-for-inflammatory-bowel-disease-and-brentuximab-for-rare-lymphomas/\" target=\"_blank\" style=\"font-size: 14px; background-color: rgb(255, 255, 255);\">https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/2022-09-20-proposal-to-fund-vedolizumab-for-inflammatory-bowel-disease-and-brentuximab-for-rare-lymphomas/</a></p>",
+          "Summary__c": "<p><span style=\"font-size: 14px; color: rgb(51, 51, 51);\">From 1 February 2023 vedolizumab (Entyvio) would be funded for people with ulcerative colitis or Crohn\u2019s disease that has not responded to, or are intolerant of, conventional therapies and/or anti-tumour necrosis factor (TNF) alpha therapy (ie adalimumab and infliximab, subject to eligibility criteria.</span></p>",
+          "Formatted_Date__c": "Sep 2022",
+          "Status_History__c": "a132P000000EDxgQAG"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Sep 2022",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Following the consultation process, Pharmac staff considers the feedback and identifies any additional information required as part of a gap analysis.&nbsp; The proposal may require further clinical advice, research, and assessment.</p>",
+    "position": 5,
+    "name": "Reviewing Consultation Feedback",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Oct 2022",
+          "fs": "Oct 2022",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Public consultation for this application is now closed. Pharmac is reviewing consultation feedback.",
+          "fs": "Public consultation for this application is now closed. Pharmac is reviewing consultation feedback.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P000007GWn6UAG"
+          },
+          "Id": "a0P2P000007GWn6UAG",
+          "Event_Date__c": "2022-10-05",
+          "Event_Description__c": "Public consultation for this application is now closed. Pharmac is reviewing consultation feedback.",
+          "Stage__c": "Reviewing Consultation Feedback",
+          "Formatted_Date__c": "Oct 2022",
+          "Status_History__c": "a132P000000EDxlQAG"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Oct 2022",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>We refer to our decisions about whether and how particular pharmaceuticals are publicly-funded, as &ldquo;funding decisions&rdquo;.</p>\r\n<p>We consider and assess all funding decisions using the&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/about/operating-policies-and-procedures/#factorsfc\" rel=\"nofollow\">Factors for Consideration</a>. When we do so, we carefully evaluate clinical and other evidence for the benefits and suitability of a proposal, and to identify and understand the people who will be affected by it.</p>\r\n<p>While our main task is to allocate pharmaceutical funding, we consider the benefits and costs across the whole health system now and with a long-term focus, including the effects for hospitals and primary care, and consider direct costs to patients as well as to all health sector budgets.</p>\r\n<p>Final funding decisions are made by the Pharmac Board or delegated to senior Pharmac staff as required by the Board.</p>\r\n<p>&nbsp;</p>",
+    "position": 6,
+    "name": "Decision",
+    "last": true,
+    "events": [
+      {
+        "Summary": {
+          "s": "<p><span style=\"font-size: 14px; color: rgb(51, 51, 51);\">We are seeking feedback on a proposal to fund two new treatments: vedolizumab for inflammatory bowel disease and brentuximub for rare lymphomas.</span></p>",
+          "fs": "<p><span style=\"font-size: 14px; color: rgb(51, 51, 51);\">We are seeking feedback on a proposal to fund two new treatments: vedolizumab for inflammatory bowel disease and brentuximub for rare lymphomas.</span></p>",
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": "<p>https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/2022-11-10-decision-to-fund-vedolizumab-for-inflammatory-bowel-disease-and-brentuximab-for-rare-lymphomas/</p>",
+          "fs": "<p>https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/2022-11-10-decision-to-fund-vedolizumab-for-inflammatory-bowel-disease-and-brentuximab-for-rare-lymphomas/</p>",
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Nov 2022",
+          "fs": "Nov 2022",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "The funding application has been approved.",
+          "fs": "The funding application has been approved.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P000007GWn7UAG"
+          },
+          "Id": "a0P2P000007GWn7UAG",
+          "Event_Date__c": "2022-11-10",
+          "Event_Description__c": "The funding application has been approved.",
+          "Stage__c": "Decision",
+          "Links__c": "<p>https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/2022-11-10-decision-to-fund-vedolizumab-for-inflammatory-bowel-disease-and-brentuximab-for-rare-lymphomas/</p>",
+          "Summary__c": "<p><span style=\"font-size: 14px; color: rgb(51, 51, 51);\">We are seeking feedback on a proposal to fund two new treatments: vedolizumab for inflammatory bowel disease and brentuximub for rare lymphomas.</span></p>",
+          "Formatted_Date__c": "Nov 2022",
+          "Status_History__c": "a132P000000EDxqQAG"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Nov 2022",
+    "collapsed": false,
+    "checked": true
+  }
+]

@@ -1,0 +1,746 @@
+[
+  {
+    "text": "<p>New funding applications are referred to one of Pharmac's Funding Application Advisors (FAAs), who'll review the application to ensure they have the relevant information to undertake a preliminary analysis.&nbsp; They may seek more information if required.</p>\r\n<p><a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/new-funding-applications/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/new-funding-applications/</a></p>",
+    "position": 0,
+    "name": "Application Received",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Dec 2016",
+          "fs": "Dec 2016",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Application received",
+          "fs": "Application received",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P000005NixEUAS"
+          },
+          "Id": "a0P2P000005NixEUAS",
+          "Event_Date__c": "2016-12-12",
+          "Event_Description__c": "Application received",
+          "Stage__c": "Application Received",
+          "Formatted_Date__c": "Dec 2016",
+          "Status_History__c": "a132P000000ArF2QAK"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Dec 2016",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Pharmac is identifying and gathering information required to get clinical advice.  The <a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/pharmacology-and-therapeutics-advisory-committee-ptac/\" rel=\"nofollow\">Pharmacology and Therapeutics Advisory Committee (PTAC)</a>  meets quarterly. There are also around 20 expert <a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/specialist-advisory-committees/\" rel=\"nofollow\">Specialist Advisory Committees (SACs)</a>, previously expert Subcommittees, which provide clinical evaluations in specialist areas. Specialist Advisory Committees meet as required to discuss issues referred to them by PTAC or Pharmac.</p>\n<p style=\"height: 20px\">&nbsp;</p>\n<p>In November 2021, we introduced separate terms of reference for the SACs to make clear that these committees have different, but complementary, roles, expertise and perspectives to PTAC.</p>\n<p style=\"height: 15px\">&nbsp;</p>\n<p>PTAC and SACs may make recommendations to Pharmac that differ from each other when looking at the same evidence. Pharmac considers the recommendations provided by all our clinical advisory committees when assessing applications.</p>\n<p style=\"height: 20px\">&nbsp;</p>\n<p><a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/pharmacology-and-therapeutics-advisory-committee-ptac/ptac-terms-of-reference-july-2021/\" rel=\"nofollow\">PTAC</a>  and <a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/specialist-advisory-committees/specialist-advisory-committee-terms-of-reference//\" rel=\"nofollow\">Specialist Advisory Committees</a> records of the meeting will be published on this website in accordance with the Terms of Reference.</p>",
+    "position": 1,
+    "name": "Seeking Clinical Advice",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Aug 2017",
+          "fs": "Aug 2017",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Clinical advice required",
+          "fs": "Clinical advice required",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P000005NixFUAS"
+          },
+          "Id": "a0P2P000005NixFUAS",
+          "Event_Date__c": "2017-08-01",
+          "Event_Description__c": "Clinical advice required",
+          "Stage__c": "Seeking Clinical Advice",
+          "Formatted_Date__c": "Aug 2017",
+          "Status_History__c": "a132P000000ArJJQA0"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": "Deferred",
+          "fs": "Deferred",
+          "change": null
+        },
+        "Links": {
+          "s": "<a href=\"https://www.pharmac.govt.nz/assets/ptac-cancer-treatments-subcommittee-minutes-2017-08.pdf\" target=\"_blank\">CaTSoP Subcommittee minutes</a>",
+          "fs": "<a href=\"https://www.pharmac.govt.nz/assets/ptac-cancer-treatments-subcommittee-minutes-2017-08.pdf\" target=\"_blank\">CaTSoP Subcommittee minutes</a>",
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Aug 2017",
+          "fs": "Aug 2017",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Clinical advice received from Cancer Treatments Subcommittee (CaTSoP) at meeting Friday 25 August 2017.",
+          "fs": "Clinical advice received from Cancer Treatments Subcommittee (CaTSoP) at meeting Friday 25 August 2017.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P000005NixGUAS"
+          },
+          "Id": "a0P2P000005NixGUAS",
+          "Event_Date__c": "2017-08-25",
+          "Event_Description__c": "Clinical advice received from Cancer Treatments Subcommittee (CaTSoP) at meeting Friday 25 August 2017.",
+          "Stage__c": "Seeking Clinical Advice",
+          "Links__c": "<a href=\"https://www.pharmac.govt.nz/assets/ptac-cancer-treatments-subcommittee-minutes-2017-08.pdf\" target=\"_blank\">CaTSoP Subcommittee minutes</a>",
+          "Outcome__c": "Deferred",
+          "Formatted_Date__c": "Aug 2017",
+          "Status_History__c": "a132P000000ArKJQA0"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Jan 2019",
+          "fs": "Jan 2019",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Clinical advice required",
+          "fs": "Clinical advice required",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P000005NixHUAS"
+          },
+          "Id": "a0P2P000005NixHUAS",
+          "Event_Date__c": "2019-01-24",
+          "Event_Description__c": "Clinical advice required",
+          "Stage__c": "Seeking Clinical Advice",
+          "Formatted_Date__c": "Jan 2019",
+          "Status_History__c": "a132P000000AraRQAS"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Jan 2021",
+          "fs": "Jan 2021",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Assigned to Cancer Treatments Subcommittee (CaTSoP) meeting to provide advice on Monday 15 February 2021",
+          "fs": "Assigned to Cancer Treatments Subcommittee (CaTSoP) meeting to provide advice on Monday 15 February 2021",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P000005NixKUAS"
+          },
+          "Id": "a0P2P000005NixKUAS",
+          "Event_Date__c": "2021-01-29",
+          "Event_Description__c": "Assigned to Cancer Treatments Subcommittee (CaTSoP) meeting to provide advice on Monday 15 February 2021",
+          "Stage__c": "Seeking Clinical Advice",
+          "Formatted_Date__c": "Jan 2021",
+          "Status_History__c": "a132P000000CY4kQAG"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": "<p style=\"text-align: justify;\"><span style=\"color: black;\">1.1.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Subcommittee <b>recommended</b> that rituximab for the treatment of adult patients with acute lymphoblastic leukaemia/lymphoma be listed with a low priority within the context of treatment of malignancy, subject to the following Special Authority criteria:</p><p><b style=\"font-size: 9pt;\">\u00a0</b></p><p><b style=\"font-size: 9pt;\">Initial application</b><span style=\"font-size: 9pt;\"> - (B-cell acute lymphoblastic leukaemia/lymphoma) only from a relevant specialist or any other medical practitioner on the recommendation of a relevant specialist. Approvals valid for 2 years for applications meeting the following criteria:</span></p><p><span style=\"font-size: 9pt;\">All of the following:</span></p><p style=\"text-align: justify;\"><span style=\"font-size: 9pt;\">1.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Patient has newly diagnosed B-cell acute lymphoblastic leukaemia/lymphoma; and</span></p><p style=\"text-align: justify;\"><span style=\"font-size: 9pt;\">2.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Treatment must be in combination with an intensive chemotherapy protocol with curative intent; and</span></p><p style=\"text-align: justify;\"><span style=\"font-size: 9pt;\">3.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">The total rituximab dose would not exceed the equivalent of 375 mg/m</span><sup style=\"font-size: 9pt;\">2</sup><span style=\"font-size: 9pt;\"> per dose for a maximum of 18 doses.</span></p><p style=\"text-align: justify;\"><b style=\"font-size: 9pt;\">\u00a0</b></p><p style=\"text-align: justify;\"><span style=\"color: black;\">1.2.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Subcommittee <b>recommended</b> that rituximab for the treatment of adult patients with acute lymphoblastic leukaemia/lymphoma with CD20 expression be listed with a medium priority within the context of treatment of malignancy, subject to the following Special Authority criteria:</p><p><b style=\"font-size: 9pt;\">\u00a0</b></p><p><b style=\"font-size: 9pt;\">Initial application</b><span style=\"font-size: 9pt;\"> - (CD20 +ve B-cell acute lymphoblastic leukaemia/lymphoma) only from a relevant specialist or any other medical practitioner on the recommendation of a relevant specialist. Approvals valid for 2 years for applications meeting the following criteria:</span></p><p><span style=\"font-size: 9pt;\">All of the following:</span></p><p style=\"text-align: justify;\"><span style=\"font-size: 9pt;\">1.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Patient has newly diagnosed B-cell acute lymphoblastic leukaemia/lymphoma; and</span></p><p style=\"text-align: justify;\"><span style=\"font-size: 9pt;\">2.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Tumour is CD20 positive, defined as at least 20% CD20 expression; and</span></p><p style=\"text-align: justify;\"><span style=\"font-size: 9pt;\">3.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Treatment must be in combination with an intensive chemotherapy protocol with curative intent; and</span></p><p style=\"text-align: justify;\"><span style=\"font-size: 9pt;\">4.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">The total rituximab dose would not exceed the equivalent of 375 mg/m</span><sup style=\"font-size: 9pt;\">2</sup><span style=\"font-size: 9pt;\"> per dose for a maximum of 18 doses.</span></p><p><br></p><p style=\"text-align: justify;\"><span style=\"color: black;\">1.3.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0</span>In making this recommendation, the Subcommittee noted that:</p><p style=\"text-align: justify;\"><span style=\"color: black; font-family: Symbol;\">\u00b7</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>adult patients with B-cell acute lymphoblastic leukaemia/lymphoma have a very high health need with a high risk of treatment failure</p><p style=\"text-align: justify;\"><span style=\"color: black; font-family: Symbol;\">\u00b7</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>a more pronounced effect of rituximab was observed in patients with higher CD20 expression in the GRAALL-2005 trial, although this difference was not significant. </p><p style=\"text-align: justify;\"><span style=\"color: black; font-family: Symbol;\">\u00b7</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>There was a lack of interaction between the addition of rituximab to chemotherapy and cytogenetics or CD20 expression in the UKALL14 trial, which suggests that the GRAALL-2005 results may be generalizable to all patients with B-cell ALL and not just those patients with CD20 expression greater than 20%.</p><p style=\"text-align: justify;\"><span style=\"color: black; font-family: Symbol;\">\u00b7</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>it is unlikely that more evidence for rituximab in this patient group will become available.</p><p><br></p>",
+          "fs": "<p style=\"text-align: justify;\"><span style=\"color: black;\">1.1.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Subcommittee <b>recommended</b> that rituximab for the treatment of adult patients with acute lymphoblastic leukaemia/lymphoma be listed with a low priority within the context of treatment of malignancy, subject to the following Special Authority criteria:</p><p><b style=\"font-size: 9pt;\">\u00a0</b></p><p><b style=\"font-size: 9pt;\">Initial application</b><span style=\"font-size: 9pt;\"> - (B-cell acute lymphoblastic leukaemia/lymphoma) only from a relevant specialist or any other medical practitioner on the recommendation of a relevant specialist. Approvals valid for 2 years for applications meeting the following criteria:</span></p><p><span style=\"font-size: 9pt;\">All of the following:</span></p><p style=\"text-align: justify;\"><span style=\"font-size: 9pt;\">1.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Patient has newly diagnosed B-cell acute lymphoblastic leukaemia/lymphoma; and</span></p><p style=\"text-align: justify;\"><span style=\"font-size: 9pt;\">2.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Treatment must be in combination with an intensive chemotherapy protocol with curative intent; and</span></p><p style=\"text-align: justify;\"><span style=\"font-size: 9pt;\">3.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">The total rituximab dose would not exceed the equivalent of 375 mg/m</span><sup style=\"font-size: 9pt;\">2</sup><span style=\"font-size: 9pt;\"> per dose for a maximum of 18 doses.</span></p><p style=\"text-align: justify;\"><b style=\"font-size: 9pt;\">\u00a0</b></p><p style=\"text-align: justify;\"><span style=\"color: black;\">1.2.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Subcommittee <b>recommended</b> that rituximab for the treatment of adult patients with acute lymphoblastic leukaemia/lymphoma with CD20 expression be listed with a medium priority within the context of treatment of malignancy, subject to the following Special Authority criteria:</p><p><b style=\"font-size: 9pt;\">\u00a0</b></p><p><b style=\"font-size: 9pt;\">Initial application</b><span style=\"font-size: 9pt;\"> - (CD20 +ve B-cell acute lymphoblastic leukaemia/lymphoma) only from a relevant specialist or any other medical practitioner on the recommendation of a relevant specialist. Approvals valid for 2 years for applications meeting the following criteria:</span></p><p><span style=\"font-size: 9pt;\">All of the following:</span></p><p style=\"text-align: justify;\"><span style=\"font-size: 9pt;\">1.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Patient has newly diagnosed B-cell acute lymphoblastic leukaemia/lymphoma; and</span></p><p style=\"text-align: justify;\"><span style=\"font-size: 9pt;\">2.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Tumour is CD20 positive, defined as at least 20% CD20 expression; and</span></p><p style=\"text-align: justify;\"><span style=\"font-size: 9pt;\">3.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Treatment must be in combination with an intensive chemotherapy protocol with curative intent; and</span></p><p style=\"text-align: justify;\"><span style=\"font-size: 9pt;\">4.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">The total rituximab dose would not exceed the equivalent of 375 mg/m</span><sup style=\"font-size: 9pt;\">2</sup><span style=\"font-size: 9pt;\"> per dose for a maximum of 18 doses.</span></p><p><br></p><p style=\"text-align: justify;\"><span style=\"color: black;\">1.3.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0</span>In making this recommendation, the Subcommittee noted that:</p><p style=\"text-align: justify;\"><span style=\"color: black; font-family: Symbol;\">\u00b7</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>adult patients with B-cell acute lymphoblastic leukaemia/lymphoma have a very high health need with a high risk of treatment failure</p><p style=\"text-align: justify;\"><span style=\"color: black; font-family: Symbol;\">\u00b7</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>a more pronounced effect of rituximab was observed in patients with higher CD20 expression in the GRAALL-2005 trial, although this difference was not significant. </p><p style=\"text-align: justify;\"><span style=\"color: black; font-family: Symbol;\">\u00b7</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>There was a lack of interaction between the addition of rituximab to chemotherapy and cytogenetics or CD20 expression in the UKALL14 trial, which suggests that the GRAALL-2005 results may be generalizable to all patients with B-cell ALL and not just those patients with CD20 expression greater than 20%.</p><p style=\"text-align: justify;\"><span style=\"color: black; font-family: Symbol;\">\u00b7</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>it is unlikely that more evidence for rituximab in this patient group will become available.</p><p><br></p>",
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": "<p><span style=\"color: black;\">1.1.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that adult patients with B-cell acute lymphoblastic leukaemia/lymphoma have a very high health need and undergo treatment for many months, mostly as inpatients with a high risk of treatment failure. The Subcommittee noted that fit, younger B-cell acute lymphoblastic leukaemia (ALL) /lymphoma patients are treated with intensive multiagent chemotherapy and allograft if eligible and that there were fewer older patients with B-cell acute lymphoblastic leukaemia/lymphoma. The Subcommittee noted that treatment is sustained and toxic and considered that less than 50% of patients are cured. The Subcommittee noted that relapse in B-cell ALL is significant, that most relapses cannot be salvaged, and that salvage treatment is highly resource intensive. The Subcommittee considered that preventing relapse in B-cell ALL patients is an important treatment outcome. </p><p><br></p><p><span style=\"color: black;\">1.2.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that there are approximately 20 incident adult patients with B-cell ALL/lymphoma per year in New Zealand. The Subcommittee previously considered that up to 10 of these patients would have CD20 expression greater than 20%.</p><p><br></p><p><span style=\"color: black;\">1.3.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that rituximab is a monoclonal antibody targeting the CD20 surface antigen. The Subcommittee noted that approximately 30% of B-cell ALL patients have CD20 positivity at over 20% expression (ie 20% of B-cells have measurable CD20). The Subcommittee noted that CD20 is widely expressed on B-cells. The Subcommittee noted that CD20 expression is an adverse prognostic factor and that expression increases as B-cells mature. The Subcommittee noted that the 3-year overall survival for CD20 positive B-cell ALL patients with expression greater than 20% is 27%, compared to 40% for patients with B-cell CD20 expression less than 20% (<a href=\"https://ashpublications.org/blood/article/113/25/6330/25672/Prognostic-significance-of-CD20-expression-in\" target=\"_blank\">Thomas et al. Blood. 2009;113:6330-7</a>).</p><p><br></p><p><span style=\"color: black;\">1.4.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted an update to a previously considered clinician application for the use of rituximab in the treatment of adult patients with B-cell ALL. The Subcommittee noted that this application was reviewed in <a href=\"https://pharmac.govt.nz/assets/ptac-cancer-treatments-subcommittee-minutes-2017-08.pdf\" target=\"_blank\">August 2017</a> where the Subcommittee deferred making a recommendation pending the results of the Phase III UKALL14 trial which was ongoing at the time of the 2017 meeting.</p><p><br></p><p><span style=\"color: black;\">1.5.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that at the August 2017 meeting, it reviewed the results of the GRAALL-2005 study in which patients received 16-20 doses of rituximab versus no rituximab with conventional B-cell ALL therapy for two years (<a href=\"https://www.nejm.org/doi/pdf/10.1056/NEJMoa1605085?articleTools=true\" target=\"_blank\">Maury et al N Engl J Med 2016;375:1044-53</a>). The Subcommittee noted that the response rate was the same for both treatment arms, but that the event free survival was improved in the rituximab arm driven by a decrease in relapse rate (HR 0.52; 95% CI 0.31 to 0.89). The Subcommittee noted that there was a trend towards improvement in overall survival in the rituximab treatment arm, but that this was not statistically significant (4-year overall survival with rituximab 61%; 95% CI 52% to 72% vs 50% without rituximab; 95% CI 41% to 62%).</p><p><br></p><p><span style=\"color: black;\">1.6.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee previously considered that this study provided weak strength but good quality evidence to suggest a benefit of adding rituximab, with no significant increase in adverse events compared with standard precursor B-cell ALL therapy. However, the Subcommittee noted the small number of patients included in the GRAALL-2005 and considered that this raised questions about the potential benefit of a large number of rituximab doses given over a prolonged period.</p><p><br></p><p><span style=\"color: black;\">1.7.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>At the August 2017 meeting, the Subcommittee also noted that the Phase III UKALL14 trial (<a href=\"https://ddec1-0-en-ctp.trendmicro.com/wis/clicktime/v1/query?url=https%3a%2f%2fclinicaltrials.gov%2fct2%2fshow%2fresults%2fNCT01085617%3fview%3dresults&amp;umid=9a0108f9-f501-4c78-ab3e-ce7bd7c92d7a&amp;auth=bf59cb4520f38a31222422d8c17c158c7849ac86-2e637a6ff737c454b082a1e8df27f9cd420825f5\" target=\"_blank\">NCT01085617</a>), which had closed for recruitment but was not yet published at the time of the meeting, was seeking to determine if the addition of four doses of rituximab to standard Phase 1 induction chemotherapy resulted in improved event-free survival in patients with B-cell ALL, regardless of baseline CD20 status. The Subcommittee noted that the GRAALL-2005 trial was limited to adult CD20 positive, Philadelphia (Ph) chromosome negative B-cell ALL patients, whereas the UKALL14 trial included CD20 positive and negative patients as well as Ph positive patients. The Subcommittee at the time considered the UKALL14 confirmatory trial may resolve any residual uncertainty from the GRAALL-2005 trial, and thus deferred making a formal recommendation until the results of the UKALL14 trial were available.</p><p><br></p><p><span style=\"color: black;\">1.8.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that interim results from the UKALL14 trial have since been published in November 2019 (<a href=\"https://ashpublications.org/blood/article/134/Supplement_1/739/426991/First-Analysis-of-the-UKALL14-Phase-3-Randomised\" target=\"_blank\">Marks et al., Blood, 2019. 134(Supplement_1):739-739</a>). The Subcommittee noted that response rates, including minimal residual disease negative responses, mortality, and adverse events were the same in both rituximab and non-rituximab treatment arms. The Subcommittee noted that the 3-year event free survival for standard treatment was 42%, compared with 49% with standard care plus rituximab, and was not significantly different between the two groups (HR 0.88; 95% CI 0.71 to 1.11). The Subcommittee considered that the primary endpoint of event free survival provides very similar information to overall survival but omits the minority of people who relapse and are salvaged. The Subcommittee noted that salvage therapy is unsatisfactory even if patients do survive and is expensive, and therefore considered that event free survival is a clinically relevant endpoint in ALL.</p><p><br></p><p><span style=\"color: black;\">1.9.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that the UKALL14 trial reported no interaction between the addition of rituximab to chemotherapy and cytogenetics or CD20 expression. The Subcommittee considered that this may have been limited by the relatively small number of rituximab doses (four) administered in UKALL14. The Subcommittee noted that, as previously reported in other studies, survival was poorest in those patients who had higher expression of CD20. The Subcommittee noted that high risk younger (less than 40-years of age) patients who received myeloablative transplant had better outcomes if they had received rituximab. The Subcommittee noted that the event free survival at 3 years for this group was 72% compared to 51% for standard care alone (HR 0.47; 95% CI 0.23 to 0.95) (<a href=\"https://ashpublications.org/blood/article/134/Supplement_1/739/426991/First-Analysis-of-the-UKALL14-Phase-3-Randomised\" target=\"_blank\">Marks et al., Blood, 2019. 134(Supplement_1):739-739</a>).</p><p><br></p><p><span style=\"color: black;\">1.10.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Subcommittee considered the evidence for the use of rituximab in the treatment of adults with B-cell ALL to be of weak strength due to the low patient numbers, the differing dosing regimens used and the variation in populations included in the two studies (GRAALL-2005 and UKALL14). The Subcommittee considered that this made comparison of the two trials difficult. However, the Subcommittee considered that the evidence for the use of rituximab in the treatment of adults with B-cell ALL to be of good quality and considered that the evidence was applicable to the New Zealand patient population as this evidence pre-dates the new forms of immunotherapy that target other relevant surface antigens (eg, CD19 and CD22). </p><p><br></p><p><span style=\"color: black;\">1.11.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Subcommittee considered that given the development of novel treatments with different mechanisms of action in the treatment of B-cell ALL, it is unlikely that more evidence for rituximab in this patient group will become available. </p><p><br></p><p><span style=\"color: black;\">1.12.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Subcommittee noted that CD20 is upregulated during treatment and considered that 4 doses of rituximab at the onset of B-cell ALL therapy may not be a sufficient treatment duration for the CD20 expression level to be clinically relevant. The Subcommittee considered that the non-significant trend to a better outcome with the addition of rituximab in the UKALL14 trial indicates that in order to obtain the full benefit of adding rituximab to existing chemotherapy protocols, the dosing regimen used in the GRAALL-2005 trial would be required. </p><p><br></p><p><span style=\"color: black;\">1.13.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Subcommittee noted that a more pronounced effect of rituximab was observed in patients with higher CD20 expression GRAALL-2005 trial, although this difference was not significant. The Subcommittee also noted that initially the study recruited patients irrespective of CD20 expression. The Subcommittee considered that the lack of interaction between the addition of rituximab to chemotherapy and cytogenetics or CD20 expression in the UKALL14 trial suggests that the GRAALL-2005 results may be generalizable to all patients with B-cell ALL and not just those patients with CD20 expression greater than 20%.</p><p><br></p><p><span style=\"color: black;\">1.14.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Subcommittee considered there to be no issues with the use of rituximab outside of its Medsafe approved indications for this patient group.</p><p><br></p><p><span style=\"color: black;\">1.15.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Subcommittee considered that B-cell acute lymphoblastic leukaemia and lymphoma are overlapping clinical presentations of the same disease, and that the diagnosis and management of these disease presentations are the same. The Subcommittee noted that the incidence of B-cell lymphoblastic lymphoma was rare and therefore would not sufficiently affect the estimate of patient numbers.</p><p><br></p><p><span style=\"color: black;\">1.16.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Subcommittee considered that if rituximab were funded, it would be reasonable to assume that there may be a reduction in the use of other, more expensive agents such as pegylated-asparaginase or other treatment options via <a href=\"https://pharmac.govt.nz/medicine-funding-and-supply/the-funding-process/policies-manuals-and-processes/exceptional-circumstances-framework-including-the-named-patient-pharmaceutical-assessment-policy/\" target=\"_blank\">PHARMAC\u2019s exceptional circumstances framework</a>, which can incur a significant cost to the health system.</p>",
+          "fs": "<p><span style=\"color: black;\">1.1.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that adult patients with B-cell acute lymphoblastic leukaemia/lymphoma have a very high health need and undergo treatment for many months, mostly as inpatients with a high risk of treatment failure. The Subcommittee noted that fit, younger B-cell acute lymphoblastic leukaemia (ALL) /lymphoma patients are treated with intensive multiagent chemotherapy and allograft if eligible and that there were fewer older patients with B-cell acute lymphoblastic leukaemia/lymphoma. The Subcommittee noted that treatment is sustained and toxic and considered that less than 50% of patients are cured. The Subcommittee noted that relapse in B-cell ALL is significant, that most relapses cannot be salvaged, and that salvage treatment is highly resource intensive. The Subcommittee considered that preventing relapse in B-cell ALL patients is an important treatment outcome. </p><p><br></p><p><span style=\"color: black;\">1.2.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that there are approximately 20 incident adult patients with B-cell ALL/lymphoma per year in New Zealand. The Subcommittee previously considered that up to 10 of these patients would have CD20 expression greater than 20%.</p><p><br></p><p><span style=\"color: black;\">1.3.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that rituximab is a monoclonal antibody targeting the CD20 surface antigen. The Subcommittee noted that approximately 30% of B-cell ALL patients have CD20 positivity at over 20% expression (ie 20% of B-cells have measurable CD20). The Subcommittee noted that CD20 is widely expressed on B-cells. The Subcommittee noted that CD20 expression is an adverse prognostic factor and that expression increases as B-cells mature. The Subcommittee noted that the 3-year overall survival for CD20 positive B-cell ALL patients with expression greater than 20% is 27%, compared to 40% for patients with B-cell CD20 expression less than 20% (<a href=\"https://ashpublications.org/blood/article/113/25/6330/25672/Prognostic-significance-of-CD20-expression-in\" target=\"_blank\">Thomas et al. Blood. 2009;113:6330-7</a>).</p><p><br></p><p><span style=\"color: black;\">1.4.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted an update to a previously considered clinician application for the use of rituximab in the treatment of adult patients with B-cell ALL. The Subcommittee noted that this application was reviewed in <a href=\"https://pharmac.govt.nz/assets/ptac-cancer-treatments-subcommittee-minutes-2017-08.pdf\" target=\"_blank\">August 2017</a> where the Subcommittee deferred making a recommendation pending the results of the Phase III UKALL14 trial which was ongoing at the time of the 2017 meeting.</p><p><br></p><p><span style=\"color: black;\">1.5.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that at the August 2017 meeting, it reviewed the results of the GRAALL-2005 study in which patients received 16-20 doses of rituximab versus no rituximab with conventional B-cell ALL therapy for two years (<a href=\"https://www.nejm.org/doi/pdf/10.1056/NEJMoa1605085?articleTools=true\" target=\"_blank\">Maury et al N Engl J Med 2016;375:1044-53</a>). The Subcommittee noted that the response rate was the same for both treatment arms, but that the event free survival was improved in the rituximab arm driven by a decrease in relapse rate (HR 0.52; 95% CI 0.31 to 0.89). The Subcommittee noted that there was a trend towards improvement in overall survival in the rituximab treatment arm, but that this was not statistically significant (4-year overall survival with rituximab 61%; 95% CI 52% to 72% vs 50% without rituximab; 95% CI 41% to 62%).</p><p><br></p><p><span style=\"color: black;\">1.6.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee previously considered that this study provided weak strength but good quality evidence to suggest a benefit of adding rituximab, with no significant increase in adverse events compared with standard precursor B-cell ALL therapy. However, the Subcommittee noted the small number of patients included in the GRAALL-2005 and considered that this raised questions about the potential benefit of a large number of rituximab doses given over a prolonged period.</p><p><br></p><p><span style=\"color: black;\">1.7.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>At the August 2017 meeting, the Subcommittee also noted that the Phase III UKALL14 trial (<a href=\"https://ddec1-0-en-ctp.trendmicro.com/wis/clicktime/v1/query?url=https%3a%2f%2fclinicaltrials.gov%2fct2%2fshow%2fresults%2fNCT01085617%3fview%3dresults&amp;umid=9a0108f9-f501-4c78-ab3e-ce7bd7c92d7a&amp;auth=bf59cb4520f38a31222422d8c17c158c7849ac86-2e637a6ff737c454b082a1e8df27f9cd420825f5\" target=\"_blank\">NCT01085617</a>), which had closed for recruitment but was not yet published at the time of the meeting, was seeking to determine if the addition of four doses of rituximab to standard Phase 1 induction chemotherapy resulted in improved event-free survival in patients with B-cell ALL, regardless of baseline CD20 status. The Subcommittee noted that the GRAALL-2005 trial was limited to adult CD20 positive, Philadelphia (Ph) chromosome negative B-cell ALL patients, whereas the UKALL14 trial included CD20 positive and negative patients as well as Ph positive patients. The Subcommittee at the time considered the UKALL14 confirmatory trial may resolve any residual uncertainty from the GRAALL-2005 trial, and thus deferred making a formal recommendation until the results of the UKALL14 trial were available.</p><p><br></p><p><span style=\"color: black;\">1.8.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that interim results from the UKALL14 trial have since been published in November 2019 (<a href=\"https://ashpublications.org/blood/article/134/Supplement_1/739/426991/First-Analysis-of-the-UKALL14-Phase-3-Randomised\" target=\"_blank\">Marks et al., Blood, 2019. 134(Supplement_1):739-739</a>). The Subcommittee noted that response rates, including minimal residual disease negative responses, mortality, and adverse events were the same in both rituximab and non-rituximab treatment arms. The Subcommittee noted that the 3-year event free survival for standard treatment was 42%, compared with 49% with standard care plus rituximab, and was not significantly different between the two groups (HR 0.88; 95% CI 0.71 to 1.11). The Subcommittee considered that the primary endpoint of event free survival provides very similar information to overall survival but omits the minority of people who relapse and are salvaged. The Subcommittee noted that salvage therapy is unsatisfactory even if patients do survive and is expensive, and therefore considered that event free survival is a clinically relevant endpoint in ALL.</p><p><br></p><p><span style=\"color: black;\">1.9.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that the UKALL14 trial reported no interaction between the addition of rituximab to chemotherapy and cytogenetics or CD20 expression. The Subcommittee considered that this may have been limited by the relatively small number of rituximab doses (four) administered in UKALL14. The Subcommittee noted that, as previously reported in other studies, survival was poorest in those patients who had higher expression of CD20. The Subcommittee noted that high risk younger (less than 40-years of age) patients who received myeloablative transplant had better outcomes if they had received rituximab. The Subcommittee noted that the event free survival at 3 years for this group was 72% compared to 51% for standard care alone (HR 0.47; 95% CI 0.23 to 0.95) (<a href=\"https://ashpublications.org/blood/article/134/Supplement_1/739/426991/First-Analysis-of-the-UKALL14-Phase-3-Randomised\" target=\"_blank\">Marks et al., Blood, 2019. 134(Supplement_1):739-739</a>).</p><p><br></p><p><span style=\"color: black;\">1.10.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Subcommittee considered the evidence for the use of rituximab in the treatment of adults with B-cell ALL to be of weak strength due to the low patient numbers, the differing dosing regimens used and the variation in populations included in the two studies (GRAALL-2005 and UKALL14). The Subcommittee considered that this made comparison of the two trials difficult. However, the Subcommittee considered that the evidence for the use of rituximab in the treatment of adults with B-cell ALL to be of good quality and considered that the evidence was applicable to the New Zealand patient population as this evidence pre-dates the new forms of immunotherapy that target other relevant surface antigens (eg, CD19 and CD22). </p><p><br></p><p><span style=\"color: black;\">1.11.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Subcommittee considered that given the development of novel treatments with different mechanisms of action in the treatment of B-cell ALL, it is unlikely that more evidence for rituximab in this patient group will become available. </p><p><br></p><p><span style=\"color: black;\">1.12.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Subcommittee noted that CD20 is upregulated during treatment and considered that 4 doses of rituximab at the onset of B-cell ALL therapy may not be a sufficient treatment duration for the CD20 expression level to be clinically relevant. The Subcommittee considered that the non-significant trend to a better outcome with the addition of rituximab in the UKALL14 trial indicates that in order to obtain the full benefit of adding rituximab to existing chemotherapy protocols, the dosing regimen used in the GRAALL-2005 trial would be required. </p><p><br></p><p><span style=\"color: black;\">1.13.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Subcommittee noted that a more pronounced effect of rituximab was observed in patients with higher CD20 expression GRAALL-2005 trial, although this difference was not significant. The Subcommittee also noted that initially the study recruited patients irrespective of CD20 expression. The Subcommittee considered that the lack of interaction between the addition of rituximab to chemotherapy and cytogenetics or CD20 expression in the UKALL14 trial suggests that the GRAALL-2005 results may be generalizable to all patients with B-cell ALL and not just those patients with CD20 expression greater than 20%.</p><p><br></p><p><span style=\"color: black;\">1.14.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Subcommittee considered there to be no issues with the use of rituximab outside of its Medsafe approved indications for this patient group.</p><p><br></p><p><span style=\"color: black;\">1.15.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Subcommittee considered that B-cell acute lymphoblastic leukaemia and lymphoma are overlapping clinical presentations of the same disease, and that the diagnosis and management of these disease presentations are the same. The Subcommittee noted that the incidence of B-cell lymphoblastic lymphoma was rare and therefore would not sufficiently affect the estimate of patient numbers.</p><p><br></p><p><span style=\"color: black;\">1.16.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Subcommittee considered that if rituximab were funded, it would be reasonable to assume that there may be a reduction in the use of other, more expensive agents such as pegylated-asparaginase or other treatment options via <a href=\"https://pharmac.govt.nz/medicine-funding-and-supply/the-funding-process/policies-manuals-and-processes/exceptional-circumstances-framework-including-the-named-patient-pharmaceutical-assessment-policy/\" target=\"_blank\">PHARMAC\u2019s exceptional circumstances framework</a>, which can incur a significant cost to the health system.</p>",
+          "change": null
+        },
+        "Published_Application": {
+          "s": "<p><span style=\"color: black;\">1.1.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Subcommittee reviewed the application for rituximab in the treatment of adult patients with B-cell acute lymphoblastic leukaemia. </p><p><br></p><p><span style=\"color: black;\">1.2.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Subcommittee took into account, where applicable, PHARMAC\u2019s relevant decision-making framework when considering this agenda item.</p>",
+          "fs": "<p><span style=\"color: black;\">1.1.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Subcommittee reviewed the application for rituximab in the treatment of adult patients with B-cell acute lymphoblastic leukaemia. </p><p><br></p><p><span style=\"color: black;\">1.2.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Subcommittee took into account, where applicable, PHARMAC\u2019s relevant decision-making framework when considering this agenda item.</p>",
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": "Low",
+          "fs": "Low",
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "May 2021",
+          "fs": "May 2021",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Clinical advice received from Cancer Treatments Subcommittee (CaTSoP) at meeting Monday 15 February 2021.",
+          "fs": "Clinical advice received from Cancer Treatments Subcommittee (CaTSoP) at meeting Monday 15 February 2021.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P000005NixLUAS"
+          },
+          "Id": "a0P2P000005NixLUAS",
+          "Event_Date__c": "2021-05-03",
+          "Event_Description__c": "Clinical advice received from Cancer Treatments Subcommittee (CaTSoP) at meeting Monday 15 February 2021.",
+          "Stage__c": "Seeking Clinical Advice",
+          "Outcome__c": "Low",
+          "Formatted_Date__c": "May 2021",
+          "Published_Recommendation__c": "<p style=\"text-align: justify;\"><span style=\"color: black;\">1.1.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Subcommittee <b>recommended</b> that rituximab for the treatment of adult patients with acute lymphoblastic leukaemia/lymphoma be listed with a low priority within the context of treatment of malignancy, subject to the following Special Authority criteria:</p><p><b style=\"font-size: 9pt;\">\u00a0</b></p><p><b style=\"font-size: 9pt;\">Initial application</b><span style=\"font-size: 9pt;\"> - (B-cell acute lymphoblastic leukaemia/lymphoma) only from a relevant specialist or any other medical practitioner on the recommendation of a relevant specialist. Approvals valid for 2 years for applications meeting the following criteria:</span></p><p><span style=\"font-size: 9pt;\">All of the following:</span></p><p style=\"text-align: justify;\"><span style=\"font-size: 9pt;\">1.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Patient has newly diagnosed B-cell acute lymphoblastic leukaemia/lymphoma; and</span></p><p style=\"text-align: justify;\"><span style=\"font-size: 9pt;\">2.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Treatment must be in combination with an intensive chemotherapy protocol with curative intent; and</span></p><p style=\"text-align: justify;\"><span style=\"font-size: 9pt;\">3.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">The total rituximab dose would not exceed the equivalent of 375 mg/m</span><sup style=\"font-size: 9pt;\">2</sup><span style=\"font-size: 9pt;\"> per dose for a maximum of 18 doses.</span></p><p style=\"text-align: justify;\"><b style=\"font-size: 9pt;\">\u00a0</b></p><p style=\"text-align: justify;\"><span style=\"color: black;\">1.2.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Subcommittee <b>recommended</b> that rituximab for the treatment of adult patients with acute lymphoblastic leukaemia/lymphoma with CD20 expression be listed with a medium priority within the context of treatment of malignancy, subject to the following Special Authority criteria:</p><p><b style=\"font-size: 9pt;\">\u00a0</b></p><p><b style=\"font-size: 9pt;\">Initial application</b><span style=\"font-size: 9pt;\"> - (CD20 +ve B-cell acute lymphoblastic leukaemia/lymphoma) only from a relevant specialist or any other medical practitioner on the recommendation of a relevant specialist. Approvals valid for 2 years for applications meeting the following criteria:</span></p><p><span style=\"font-size: 9pt;\">All of the following:</span></p><p style=\"text-align: justify;\"><span style=\"font-size: 9pt;\">1.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Patient has newly diagnosed B-cell acute lymphoblastic leukaemia/lymphoma; and</span></p><p style=\"text-align: justify;\"><span style=\"font-size: 9pt;\">2.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Tumour is CD20 positive, defined as at least 20% CD20 expression; and</span></p><p style=\"text-align: justify;\"><span style=\"font-size: 9pt;\">3.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Treatment must be in combination with an intensive chemotherapy protocol with curative intent; and</span></p><p style=\"text-align: justify;\"><span style=\"font-size: 9pt;\">4.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">The total rituximab dose would not exceed the equivalent of 375 mg/m</span><sup style=\"font-size: 9pt;\">2</sup><span style=\"font-size: 9pt;\"> per dose for a maximum of 18 doses.</span></p><p><br></p><p style=\"text-align: justify;\"><span style=\"color: black;\">1.3.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0</span>In making this recommendation, the Subcommittee noted that:</p><p style=\"text-align: justify;\"><span style=\"color: black; font-family: Symbol;\">\u00b7</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>adult patients with B-cell acute lymphoblastic leukaemia/lymphoma have a very high health need with a high risk of treatment failure</p><p style=\"text-align: justify;\"><span style=\"color: black; font-family: Symbol;\">\u00b7</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>a more pronounced effect of rituximab was observed in patients with higher CD20 expression in the GRAALL-2005 trial, although this difference was not significant. </p><p style=\"text-align: justify;\"><span style=\"color: black; font-family: Symbol;\">\u00b7</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>There was a lack of interaction between the addition of rituximab to chemotherapy and cytogenetics or CD20 expression in the UKALL14 trial, which suggests that the GRAALL-2005 results may be generalizable to all patients with B-cell ALL and not just those patients with CD20 expression greater than 20%.</p><p style=\"text-align: justify;\"><span style=\"color: black; font-family: Symbol;\">\u00b7</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>it is unlikely that more evidence for rituximab in this patient group will become available.</p><p><br></p>",
+          "Published_Application__c": "<p><span style=\"color: black;\">1.1.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Subcommittee reviewed the application for rituximab in the treatment of adult patients with B-cell acute lymphoblastic leukaemia. </p><p><br></p><p><span style=\"color: black;\">1.2.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Subcommittee took into account, where applicable, PHARMAC\u2019s relevant decision-making framework when considering this agenda item.</p>",
+          "Published_Discussion__c": "<p><span style=\"color: black;\">1.1.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that adult patients with B-cell acute lymphoblastic leukaemia/lymphoma have a very high health need and undergo treatment for many months, mostly as inpatients with a high risk of treatment failure. The Subcommittee noted that fit, younger B-cell acute lymphoblastic leukaemia (ALL) /lymphoma patients are treated with intensive multiagent chemotherapy and allograft if eligible and that there were fewer older patients with B-cell acute lymphoblastic leukaemia/lymphoma. The Subcommittee noted that treatment is sustained and toxic and considered that less than 50% of patients are cured. The Subcommittee noted that relapse in B-cell ALL is significant, that most relapses cannot be salvaged, and that salvage treatment is highly resource intensive. The Subcommittee considered that preventing relapse in B-cell ALL patients is an important treatment outcome. </p><p><br></p><p><span style=\"color: black;\">1.2.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that there are approximately 20 incident adult patients with B-cell ALL/lymphoma per year in New Zealand. The Subcommittee previously considered that up to 10 of these patients would have CD20 expression greater than 20%.</p><p><br></p><p><span style=\"color: black;\">1.3.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that rituximab is a monoclonal antibody targeting the CD20 surface antigen. The Subcommittee noted that approximately 30% of B-cell ALL patients have CD20 positivity at over 20% expression (ie 20% of B-cells have measurable CD20). The Subcommittee noted that CD20 is widely expressed on B-cells. The Subcommittee noted that CD20 expression is an adverse prognostic factor and that expression increases as B-cells mature. The Subcommittee noted that the 3-year overall survival for CD20 positive B-cell ALL patients with expression greater than 20% is 27%, compared to 40% for patients with B-cell CD20 expression less than 20% (<a href=\"https://ashpublications.org/blood/article/113/25/6330/25672/Prognostic-significance-of-CD20-expression-in\" target=\"_blank\">Thomas et al. Blood. 2009;113:6330-7</a>).</p><p><br></p><p><span style=\"color: black;\">1.4.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted an update to a previously considered clinician application for the use of rituximab in the treatment of adult patients with B-cell ALL. The Subcommittee noted that this application was reviewed in <a href=\"https://pharmac.govt.nz/assets/ptac-cancer-treatments-subcommittee-minutes-2017-08.pdf\" target=\"_blank\">August 2017</a> where the Subcommittee deferred making a recommendation pending the results of the Phase III UKALL14 trial which was ongoing at the time of the 2017 meeting.</p><p><br></p><p><span style=\"color: black;\">1.5.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that at the August 2017 meeting, it reviewed the results of the GRAALL-2005 study in which patients received 16-20 doses of rituximab versus no rituximab with conventional B-cell ALL therapy for two years (<a href=\"https://www.nejm.org/doi/pdf/10.1056/NEJMoa1605085?articleTools=true\" target=\"_blank\">Maury et al N Engl J Med 2016;375:1044-53</a>). The Subcommittee noted that the response rate was the same for both treatment arms, but that the event free survival was improved in the rituximab arm driven by a decrease in relapse rate (HR 0.52; 95% CI 0.31 to 0.89). The Subcommittee noted that there was a trend towards improvement in overall survival in the rituximab treatment arm, but that this was not statistically significant (4-year overall survival with rituximab 61%; 95% CI 52% to 72% vs 50% without rituximab; 95% CI 41% to 62%).</p><p><br></p><p><span style=\"color: black;\">1.6.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee previously considered that this study provided weak strength but good quality evidence to suggest a benefit of adding rituximab, with no significant increase in adverse events compared with standard precursor B-cell ALL therapy. However, the Subcommittee noted the small number of patients included in the GRAALL-2005 and considered that this raised questions about the potential benefit of a large number of rituximab doses given over a prolonged period.</p><p><br></p><p><span style=\"color: black;\">1.7.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>At the August 2017 meeting, the Subcommittee also noted that the Phase III UKALL14 trial (<a href=\"https://ddec1-0-en-ctp.trendmicro.com/wis/clicktime/v1/query?url=https%3a%2f%2fclinicaltrials.gov%2fct2%2fshow%2fresults%2fNCT01085617%3fview%3dresults&amp;umid=9a0108f9-f501-4c78-ab3e-ce7bd7c92d7a&amp;auth=bf59cb4520f38a31222422d8c17c158c7849ac86-2e637a6ff737c454b082a1e8df27f9cd420825f5\" target=\"_blank\">NCT01085617</a>), which had closed for recruitment but was not yet published at the time of the meeting, was seeking to determine if the addition of four doses of rituximab to standard Phase 1 induction chemotherapy resulted in improved event-free survival in patients with B-cell ALL, regardless of baseline CD20 status. The Subcommittee noted that the GRAALL-2005 trial was limited to adult CD20 positive, Philadelphia (Ph) chromosome negative B-cell ALL patients, whereas the UKALL14 trial included CD20 positive and negative patients as well as Ph positive patients. The Subcommittee at the time considered the UKALL14 confirmatory trial may resolve any residual uncertainty from the GRAALL-2005 trial, and thus deferred making a formal recommendation until the results of the UKALL14 trial were available.</p><p><br></p><p><span style=\"color: black;\">1.8.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that interim results from the UKALL14 trial have since been published in November 2019 (<a href=\"https://ashpublications.org/blood/article/134/Supplement_1/739/426991/First-Analysis-of-the-UKALL14-Phase-3-Randomised\" target=\"_blank\">Marks et al., Blood, 2019. 134(Supplement_1):739-739</a>). The Subcommittee noted that response rates, including minimal residual disease negative responses, mortality, and adverse events were the same in both rituximab and non-rituximab treatment arms. The Subcommittee noted that the 3-year event free survival for standard treatment was 42%, compared with 49% with standard care plus rituximab, and was not significantly different between the two groups (HR 0.88; 95% CI 0.71 to 1.11). The Subcommittee considered that the primary endpoint of event free survival provides very similar information to overall survival but omits the minority of people who relapse and are salvaged. The Subcommittee noted that salvage therapy is unsatisfactory even if patients do survive and is expensive, and therefore considered that event free survival is a clinically relevant endpoint in ALL.</p><p><br></p><p><span style=\"color: black;\">1.9.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that the UKALL14 trial reported no interaction between the addition of rituximab to chemotherapy and cytogenetics or CD20 expression. The Subcommittee considered that this may have been limited by the relatively small number of rituximab doses (four) administered in UKALL14. The Subcommittee noted that, as previously reported in other studies, survival was poorest in those patients who had higher expression of CD20. The Subcommittee noted that high risk younger (less than 40-years of age) patients who received myeloablative transplant had better outcomes if they had received rituximab. The Subcommittee noted that the event free survival at 3 years for this group was 72% compared to 51% for standard care alone (HR 0.47; 95% CI 0.23 to 0.95) (<a href=\"https://ashpublications.org/blood/article/134/Supplement_1/739/426991/First-Analysis-of-the-UKALL14-Phase-3-Randomised\" target=\"_blank\">Marks et al., Blood, 2019. 134(Supplement_1):739-739</a>).</p><p><br></p><p><span style=\"color: black;\">1.10.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Subcommittee considered the evidence for the use of rituximab in the treatment of adults with B-cell ALL to be of weak strength due to the low patient numbers, the differing dosing regimens used and the variation in populations included in the two studies (GRAALL-2005 and UKALL14). The Subcommittee considered that this made comparison of the two trials difficult. However, the Subcommittee considered that the evidence for the use of rituximab in the treatment of adults with B-cell ALL to be of good quality and considered that the evidence was applicable to the New Zealand patient population as this evidence pre-dates the new forms of immunotherapy that target other relevant surface antigens (eg, CD19 and CD22). </p><p><br></p><p><span style=\"color: black;\">1.11.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Subcommittee considered that given the development of novel treatments with different mechanisms of action in the treatment of B-cell ALL, it is unlikely that more evidence for rituximab in this patient group will become available. </p><p><br></p><p><span style=\"color: black;\">1.12.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Subcommittee noted that CD20 is upregulated during treatment and considered that 4 doses of rituximab at the onset of B-cell ALL therapy may not be a sufficient treatment duration for the CD20 expression level to be clinically relevant. The Subcommittee considered that the non-significant trend to a better outcome with the addition of rituximab in the UKALL14 trial indicates that in order to obtain the full benefit of adding rituximab to existing chemotherapy protocols, the dosing regimen used in the GRAALL-2005 trial would be required. </p><p><br></p><p><span style=\"color: black;\">1.13.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Subcommittee noted that a more pronounced effect of rituximab was observed in patients with higher CD20 expression GRAALL-2005 trial, although this difference was not significant. The Subcommittee also noted that initially the study recruited patients irrespective of CD20 expression. The Subcommittee considered that the lack of interaction between the addition of rituximab to chemotherapy and cytogenetics or CD20 expression in the UKALL14 trial suggests that the GRAALL-2005 results may be generalizable to all patients with B-cell ALL and not just those patients with CD20 expression greater than 20%.</p><p><br></p><p><span style=\"color: black;\">1.14.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Subcommittee considered there to be no issues with the use of rituximab outside of its Medsafe approved indications for this patient group.</p><p><br></p><p><span style=\"color: black;\">1.15.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Subcommittee considered that B-cell acute lymphoblastic leukaemia and lymphoma are overlapping clinical presentations of the same disease, and that the diagnosis and management of these disease presentations are the same. The Subcommittee noted that the incidence of B-cell lymphoblastic lymphoma was rare and therefore would not sufficiently affect the estimate of patient numbers.</p><p><br></p><p><span style=\"color: black;\">1.16.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Subcommittee considered that if rituximab were funded, it would be reasonable to assume that there may be a reduction in the use of other, more expensive agents such as pegylated-asparaginase or other treatment options via <a href=\"https://pharmac.govt.nz/medicine-funding-and-supply/the-funding-process/policies-manuals-and-processes/exceptional-circumstances-framework-including-the-named-patient-pharmaceutical-assessment-policy/\" target=\"_blank\">PHARMAC\u2019s exceptional circumstances framework</a>, which can incur a significant cost to the health system.</p>",
+          "Status_History__c": "a132P000000Coa2QAC"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Aug 2017",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Following Clinical Advice, Pharmac staff considers the advice and the funding application under goes an assessment using our&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/factors-for-consideration/\" rel=\"nofollow\">Factors for Consideration</a>&nbsp;framework and seeks additional information as required.</p>\r\n<p>&nbsp;</p>\r\n<p>Research and Economic analysis are undertaken.&nbsp; This focuses on the costs and benefits of a proposed course of action. Economics is based on three fundamental concepts that summarise the issues Pharmac faces daily:&nbsp;</p>\r\n<ul>\r\n<li>Scarcity &ndash; resources will always be insufficient to support all possible activities.</li>\r\n<li>Choices &ndash; due to scarce resources, decisions must be made about how best to use them.</li>\r\n<li>Opportunity cost &ndash; by choosing to use resources one way, we forgo other opportunities to use the same resources.</li>\r\n</ul>\r\n<p>&nbsp;</p>\r\n<p>For further information on the purpose of, and techniques for, undertaking economic analysis in health care, please refer&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/economic-analysis/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/economic-analysis/</a></p>",
+    "position": 2,
+    "name": "Under Assessment",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "May 2020",
+          "fs": "May 2020",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Working to compare options",
+          "fs": "Working to compare options",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P000005NixIUAS"
+          },
+          "Id": "a0P2P000005NixIUAS",
+          "Event_Date__c": "2020-05-15",
+          "Event_Description__c": "Working to compare options",
+          "Stage__c": "Under Assessment",
+          "Formatted_Date__c": "May 2020",
+          "Status_History__c": "a132P000000BlG7QAK"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "May 2020",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Pharmac staff uses a prioritisation process to compare and rank funding options. Possible opportunities for new investment will always exceed the budget Pharmac has available; therefore, prioritisation is an intrinsic part of Pharmac\u2019s decision-making process.</p>\r\n<p>The relative ranking of options aims to support Pharmac&rsquo;s statutory objective &ldquo;to secure for eligible people in need of pharmaceuticals, the best health outcomes that are reasonably achievable from pharmaceutical treatment and from within the amount of funding provided&rdquo;.</p>\r\n<p>A funding application or proposal is considered ready for prioritisation when sufficient information is available to permit it to be reviewed against Pharmac's Factors for Consideration and to inform a comparison with other possible investment decisions.</p>\r\n<p>There is no guarantee when or if a ranked medicine will be funded.&nbsp;&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/prioritisation/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/prioritisation/</a></p>",
+    "position": 3,
+    "name": "Options Compared",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Sep 2020",
+          "fs": "Sep 2020",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "The relative ranking of the pharmaceutical application has been completed.",
+          "fs": "The relative ranking of the pharmaceutical application has been completed.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P000005NixJUAS"
+          },
+          "Id": "a0P2P000005NixJUAS",
+          "Event_Date__c": "2020-09-28",
+          "Event_Description__c": "The relative ranking of the pharmaceutical application has been completed.",
+          "Stage__c": "Options Compared",
+          "Formatted_Date__c": "Sep 2020",
+          "Status_History__c": "a132P000000CKAtQAO"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Sep 2020",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Pharmac is consulting on a proposal to either approve or decline the application.&nbsp;We seek the views of all people who have an interest in our proposals, or who may be affected by them, to obtain feedback on our proposed approaches.</p>\r\n<p><a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/having-your-say/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/having-your-say/</a></p>",
+    "position": 4,
+    "name": "Under Consultation",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "May 2021",
+          "fs": "May 2021",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Public consultation for this application is active.",
+          "fs": "Public consultation for this application is active.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P000005NixMUAS"
+          },
+          "Id": "a0P2P000005NixMUAS",
+          "Event_Date__c": "2021-05-25",
+          "Event_Description__c": "Public consultation for this application is active.",
+          "Stage__c": "Under Consultation",
+          "Formatted_Date__c": "May 2021",
+          "Status_History__c": "a132P000000Cs77QAC"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "May 2021",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Following the consultation process, Pharmac staff considers the feedback and identifies any additional information required as part of a gap analysis.&nbsp; The proposal may require further clinical advice, research, and assessment.</p>",
+    "position": 5,
+    "name": "Reviewing Consultation Feedback",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Jul 2021",
+          "fs": "Jul 2021",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Public consultation for this application is now closed. Pharmac is reviewing consultation feedback.",
+          "fs": "Public consultation for this application is now closed. Pharmac is reviewing consultation feedback.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P000005NixNUAS"
+          },
+          "Id": "a0P2P000005NixNUAS",
+          "Event_Date__c": "2021-07-28",
+          "Event_Description__c": "Public consultation for this application is now closed. Pharmac is reviewing consultation feedback.",
+          "Stage__c": "Reviewing Consultation Feedback",
+          "Formatted_Date__c": "Jul 2021",
+          "Status_History__c": "a132P000000D2zLQAS"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Jul 2021",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>We refer to our decisions about whether and how particular pharmaceuticals are publicly-funded, as &ldquo;funding decisions&rdquo;.</p>\r\n<p>We consider and assess all funding decisions using the&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/about/operating-policies-and-procedures/#factorsfc\" rel=\"nofollow\">Factors for Consideration</a>. When we do so, we carefully evaluate clinical and other evidence for the benefits and suitability of a proposal, and to identify and understand the people who will be affected by it.</p>\r\n<p>While our main task is to allocate pharmaceutical funding, we consider the benefits and costs across the whole health system now and with a long-term focus, including the effects for hospitals and primary care, and consider direct costs to patients as well as to all health sector budgets.</p>\r\n<p>Final funding decisions are made by the Pharmac Board or delegated to senior Pharmac staff as required by the Board.</p>\r\n<p>&nbsp;</p>",
+    "position": 6,
+    "name": "Decision",
+    "last": true,
+    "events": [
+      {
+        "Summary": {
+          "s": "https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/decision-2021-07-08-rituximab/",
+          "fs": "https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/decision-2021-07-08-rituximab/",
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Jul 2021",
+          "fs": "Jul 2021",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "The funding application has been approved.",
+          "fs": "The funding application has been approved.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P000005NixOUAS"
+          },
+          "Id": "a0P2P000005NixOUAS",
+          "Event_Date__c": "2021-07-28",
+          "Event_Description__c": "The funding application has been approved.",
+          "Stage__c": "Decision",
+          "Summary__c": "https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/decision-2021-07-08-rituximab/",
+          "Formatted_Date__c": "Jul 2021",
+          "Status_History__c": "a132P000000D2zVQAS"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Jul 2021",
+    "collapsed": false,
+    "checked": true
+  }
+]

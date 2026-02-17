@@ -1,0 +1,807 @@
+[
+  {
+    "text": "<p>New funding applications are referred to one of Pharmac's Funding Application Advisors (FAAs), who'll review the application to ensure they have the relevant information to undertake a preliminary analysis.&nbsp; They may seek more information if required.</p>\r\n<p><a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/new-funding-applications/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/new-funding-applications/</a></p>",
+    "position": 0,
+    "name": "Application Received",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Mar 2018",
+          "fs": "Mar 2018",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Application received",
+          "fs": "Application received",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000R52882AB"
+          },
+          "Id": "a0POZ00000R52882AB",
+          "Event_Date__c": "2018-03-06",
+          "Event_Description__c": "Application received",
+          "Stage__c": "Application Received",
+          "Formatted_Date__c": "Mar 2018",
+          "Status_History__c": "a13OZ000004dSN7YAM"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Mar 2018",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Pharmac is identifying and gathering information required to get clinical advice.  The <a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/pharmacology-and-therapeutics-advisory-committee-ptac/\" rel=\"nofollow\">Pharmacology and Therapeutics Advisory Committee (PTAC)</a>  meets quarterly. There are also around 20 expert <a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/specialist-advisory-committees/\" rel=\"nofollow\">Specialist Advisory Committees (SACs)</a>, previously expert Subcommittees, which provide clinical evaluations in specialist areas. Specialist Advisory Committees meet as required to discuss issues referred to them by PTAC or Pharmac.</p>\n<p style=\"height: 20px\">&nbsp;</p>\n<p>In November 2021, we introduced separate terms of reference for the SACs to make clear that these committees have different, but complementary, roles, expertise and perspectives to PTAC.</p>\n<p style=\"height: 15px\">&nbsp;</p>\n<p>PTAC and SACs may make recommendations to Pharmac that differ from each other when looking at the same evidence. Pharmac considers the recommendations provided by all our clinical advisory committees when assessing applications.</p>\n<p style=\"height: 20px\">&nbsp;</p>\n<p><a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/pharmacology-and-therapeutics-advisory-committee-ptac/ptac-terms-of-reference-july-2021/\" rel=\"nofollow\">PTAC</a>  and <a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/specialist-advisory-committees/specialist-advisory-committee-terms-of-reference//\" rel=\"nofollow\">Specialist Advisory Committees</a> records of the meeting will be published on this website in accordance with the Terms of Reference.</p>",
+    "position": 1,
+    "name": "Seeking Clinical Advice",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Jun 2018",
+          "fs": "Jun 2018",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Clinical advice required",
+          "fs": "Clinical advice required",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000R52892AB"
+          },
+          "Id": "a0POZ00000R52892AB",
+          "Event_Date__c": "2018-06-05",
+          "Event_Description__c": "Clinical advice required",
+          "Stage__c": "Seeking Clinical Advice",
+          "Formatted_Date__c": "Jun 2018",
+          "Status_History__c": "a13OZ00000TQNzeYAH"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Jul 2018",
+          "fs": "Jul 2018",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Assigned to Cancer Treatments Subcommittee (CaTSoP) meeting to provide advice on Friday 21 September 2018",
+          "fs": "Assigned to Cancer Treatments Subcommittee (CaTSoP) meeting to provide advice on Friday 21 September 2018",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000R528A2AR"
+          },
+          "Id": "a0POZ00000R528A2AR",
+          "Event_Date__c": "2018-07-05",
+          "Event_Description__c": "Assigned to Cancer Treatments Subcommittee (CaTSoP) meeting to provide advice on Friday 21 September 2018",
+          "Stage__c": "Seeking Clinical Advice",
+          "Formatted_Date__c": "Jul 2018",
+          "Status_History__c": "a13OZ00000TQcvgYAD"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": "<p>The Subcommittee considered this application represented a very small number of patients and the currently unmet health need of other CLL populations, such as 17p del CLL and those who relapse within a short duration, is considerably higher. The Subcommittee considered this population represented a low priority for full evaluation and if would be preferable to consider as a possible widening of access should ibrutinib be funded for other populations.</p>",
+          "fs": "<p>The Subcommittee considered this application represented a very small number of patients and the currently unmet health need of other CLL populations, such as 17p del CLL and those who relapse within a short duration, is considerably higher. The Subcommittee considered this population represented a low priority for full evaluation and if would be preferable to consider as a possible widening of access should ibrutinib be funded for other populations.</p>",
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": "No Formal Recommendation",
+          "fs": "No Formal Recommendation",
+          "change": null
+        },
+        "Links": {
+          "s": "<p><a href=\"https://www.pharmac.govt.nz/assets/ptac-cancer-treatment-subcommittee-minutes-2018-09.pdf\" target=\"_blank\">CaTSoP Subcommittee minutes</a></p>",
+          "fs": "<p><a href=\"https://www.pharmac.govt.nz/assets/ptac-cancer-treatment-subcommittee-minutes-2018-09.pdf\" target=\"_blank\">CaTSoP Subcommittee minutes</a></p>",
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Sep 2018",
+          "fs": "Sep 2018",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Clinical advice received from Cancer Treatments Subcommittee (CaTSoP) at meeting Friday 21 September 2018.",
+          "fs": "Clinical advice received from Cancer Treatments Subcommittee (CaTSoP) at meeting Friday 21 September 2018.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000R528B2AR"
+          },
+          "Id": "a0POZ00000R528B2AR",
+          "Event_Date__c": "2018-09-25",
+          "Event_Description__c": "Clinical advice received from Cancer Treatments Subcommittee (CaTSoP) at meeting Friday 21 September 2018.",
+          "Stage__c": "Seeking Clinical Advice",
+          "Links__c": "<p><a href=\"https://www.pharmac.govt.nz/assets/ptac-cancer-treatment-subcommittee-minutes-2018-09.pdf\" target=\"_blank\">CaTSoP Subcommittee minutes</a></p>",
+          "Outcome__c": "No Formal Recommendation",
+          "Summary__c": "<p>The Subcommittee considered this application represented a very small number of patients and the currently unmet health need of other CLL populations, such as 17p del CLL and those who relapse within a short duration, is considerably higher. The Subcommittee considered this population represented a low priority for full evaluation and if would be preferable to consider as a possible widening of access should ibrutinib be funded for other populations.</p>",
+          "Formatted_Date__c": "Sep 2018",
+          "Status_History__c": "a13OZ00000TQUrSYAX"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Jun 2020",
+          "fs": "Jun 2020",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Clinical advice required",
+          "fs": "Clinical advice required",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000R528C2AR"
+          },
+          "Id": "a0POZ00000R528C2AR",
+          "Event_Date__c": "2020-06-05",
+          "Event_Description__c": "Clinical advice required",
+          "Stage__c": "Seeking Clinical Advice",
+          "Formatted_Date__c": "Jun 2020",
+          "Status_History__c": "a13OZ00000TQcqaYAD"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Jun 2020",
+          "fs": "Jun 2020",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Assigned to Cancer Treatments Subcommittee (CaTSoP) meeting to provide advice on Friday 3 July 2020",
+          "fs": "Assigned to Cancer Treatments Subcommittee (CaTSoP) meeting to provide advice on Friday 3 July 2020",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000R528D2AR"
+          },
+          "Id": "a0POZ00000R528D2AR",
+          "Event_Date__c": "2020-06-05",
+          "Event_Description__c": "Assigned to Cancer Treatments Subcommittee (CaTSoP) meeting to provide advice on Friday 3 July 2020",
+          "Stage__c": "Seeking Clinical Advice",
+          "Formatted_Date__c": "Jun 2020",
+          "Status_History__c": "a13OZ00000TQXu8YAH"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": "<p style=\"text-align: justify;\"><span style=\"color: black;\">1.1.</span><span style=\"color: black; font-size: 7pt;\">\u00a0</span>The Subcommittee <strong>recommended</strong> ibrutinib for previously untreated CLL patients, for whom fludarabine-based chemoimmunotherapy is inappropriate with or without immunoglobulin heavy chain (IGHV) mutation be listed with a low priority within the context of treatment of malignancy, subject to the following Special Authority criteria:</p><p style=\"text-align: justify;\"><span style=\"font-size: 9pt;\">Initial application (chronic lymphocytic leukaemia) - only from a relevant specialist or medical practitioner on the recommendation of a relevant specialist. Approvals valid for 12 months for applications meeting the following criteria: </span></p><p style=\"text-align: justify;\"><span style=\"font-size: 9pt;\">All of the following: </span></p><p style=\"text-align: justify;\"><span style=\"font-size: 9pt;\">1.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">The patient is treatment naive; and</span></p><p style=\"text-align: justify;\"><span style=\"font-size: 9pt;\">2.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Treatment with fludarabine-based chemoimmunotherapy is not considered appropriate due to patient comorbidities; and</span></p><p style=\"text-align: justify;\"><span style=\"font-size: 9pt;\">3.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Patient has a score of &gt;6 on the Cumulative Illness Rating Scale (CIRS) or reduced renal function (creatinine clearance &lt; 70ml/min); and</span></p><p style=\"text-align: justify;\"><span style=\"font-size: 9pt;\">4.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Patient has an ECOG performance status of 0-2.</span></p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\"><span style=\"font-size: 9pt;\">Renewal application (chronic lymphocytic leukaemia) - only from a relevant specialist or medical practitioner on the recommendation of a relevant specialist. Approvals valid for 12 months for applications meeting the following criteria: </span></p><p style=\"text-align: justify;\"><span style=\"font-size: 9pt;\">Both: </span></p><p style=\"text-align: justify;\"><span style=\"font-size: 9pt;\">1.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">No evidence of clinical disease progression; and</span></p><p style=\"text-align: justify;\"><span style=\"font-size: 9pt;\">2.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">The treatment remains appropriate and the patient is benefiting from treatment.</span></p>",
+          "fs": "<p style=\"text-align: justify;\"><span style=\"color: black;\">1.1.</span><span style=\"color: black; font-size: 7pt;\">\u00a0</span>The Subcommittee <strong>recommended</strong> ibrutinib for previously untreated CLL patients, for whom fludarabine-based chemoimmunotherapy is inappropriate with or without immunoglobulin heavy chain (IGHV) mutation be listed with a low priority within the context of treatment of malignancy, subject to the following Special Authority criteria:</p><p style=\"text-align: justify;\"><span style=\"font-size: 9pt;\">Initial application (chronic lymphocytic leukaemia) - only from a relevant specialist or medical practitioner on the recommendation of a relevant specialist. Approvals valid for 12 months for applications meeting the following criteria: </span></p><p style=\"text-align: justify;\"><span style=\"font-size: 9pt;\">All of the following: </span></p><p style=\"text-align: justify;\"><span style=\"font-size: 9pt;\">1.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">The patient is treatment naive; and</span></p><p style=\"text-align: justify;\"><span style=\"font-size: 9pt;\">2.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Treatment with fludarabine-based chemoimmunotherapy is not considered appropriate due to patient comorbidities; and</span></p><p style=\"text-align: justify;\"><span style=\"font-size: 9pt;\">3.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Patient has a score of &gt;6 on the Cumulative Illness Rating Scale (CIRS) or reduced renal function (creatinine clearance &lt; 70ml/min); and</span></p><p style=\"text-align: justify;\"><span style=\"font-size: 9pt;\">4.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Patient has an ECOG performance status of 0-2.</span></p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\"><span style=\"font-size: 9pt;\">Renewal application (chronic lymphocytic leukaemia) - only from a relevant specialist or medical practitioner on the recommendation of a relevant specialist. Approvals valid for 12 months for applications meeting the following criteria: </span></p><p style=\"text-align: justify;\"><span style=\"font-size: 9pt;\">Both: </span></p><p style=\"text-align: justify;\"><span style=\"font-size: 9pt;\">1.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">No evidence of clinical disease progression; and</span></p><p style=\"text-align: justify;\"><span style=\"font-size: 9pt;\">2.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">The treatment remains appropriate and the patient is benefiting from treatment.</span></p>",
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": "<p style=\"text-align: justify;\"><span style=\"color: black;\">1.1.</span><span style=\"color: black; font-size: 7pt;\">\u00a0</span>The Subcommittee noted that the current treatment options for patients ineligible for fludarabine based chemoimmunotherapy (fludarabine \u00b1 cyclophosphamide and rituximab) were obinutuzumab-chlorambucil or bendamustine-rituximab, and noted that bendamustine-rituximab was not funded in the relapsed/refractory setting. The Subcommittee noted that if the patient had the 17p deletion or the TP53 mutation, that they would be eligible for venetoclax monotherapy as first line treatment. The Subcommittee noted that patients who relapse within 36 months of treatment with obinutuzumab-chlorambucil or bendamustine-rituximab would be eligible for venetoclax-rituximab. The Subcommittee noted that after venetoclax-rituximab, if patients have not received obinutuzumab, they would be eligible for this as third line treatment.</p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\"><span style=\"color: black;\">1.2.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that the current treatment options for patients eligible for fludarabine based chemoimmunotherapy (fludarabine \u00b1 cyclophosphamide and rituximab) was FCR, unless the patient had the 17p deletion or the TP53 mutation, in which case they would be eligible for venetoclax monotherapy. The Subcommittee noted that that patients who relapse within 36 months of treatment with FCR would be eligible for venetoclax-rituximab. The Subcommittee noted that after venetoclax-rituximab, if patients have not received obinutuzumab, they would be eligible for this as third line treatment.</p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\"><em>Ibrutinib for previously untreated CLL, fludarabine-based chemoimmunotherapy-inappropriate with or without immunoglobulin heavy chain variable region</em> (<em>IGHV) mutation</em></p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\"><span style=\"color: black;\">1.3.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that approximately 50% of CLL is IGHV unmutated, and that unmutated IGHV CLL is associated with shorter progression free survival and higher relapse risk when treated with traditional chemotherapy. The Subcommittee noted that currently, patients with unmutated IGHV have poorer outcomes on currently available therapy.\u00a0The Subcommittee noted that some international guidelines provide separate recommendations for patients with mutated vs unmutated IGHV.</p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\"><span style=\"color: black;\">1.4.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted the results of the ALLIANCE trial, which investigated the use of ibrutinib, ibrutinib with rituximab, and bendamustine-rituximab in patients aged over 65 years with previously untreated CLL (<a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6325637/\" target=\"_blank\" style=\"color: rgb(11, 92, 171);\">Woyach et al. N Eng J Med. 2018;379:2517-28</a>). The Subcommittee noted that, in patients treated with ibrutinib, there was a significantly higher proportion of patients with progression free survival at two years compared with those treated with bendamustine-rituximab (HR: 0.39, 95% CI: 0.26-0.58, p&lt;0.001), however that there was no difference in overall survival advantage at two years for patients treated with ibrutinib compared with bendamustine-rituximab.</p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\"><span style=\"color: black;\">1.5.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that the RESONATE-2 trial reported that patients with mutated IGHV treated with ibrutinib experienced greater progression free survival compared with those treated with chlorambucil (HR: 0.153, 95% CI: 0.067-0.346); a similar result was also reported in patients with unmutated IGHV (HR: 0.105, 95% CI: 0.058-0.190) (<a href=\"https://www.nature.com/articles/s41375-019-0602-x\" target=\"_blank\" style=\"color: rgb(11, 92, 171);\">Burger et al. Leukemia 2020;34:787\u201398</a>). The Subcommittee noted that the comparator in RESONATE-2, chlorambucil, is a less potent treatment than other treatment options currently available for this patient group in New Zealand.</p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\"><span style=\"color: black;\">1.6.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted results of the ECOG E1912 trial comparing FCR with ibrutinib and rituximab (<a href=\"https://www.nejm.org/doi/pdf/10.1056/NEJMoa1817073?articleTools=true\" target=\"_blank\" style=\"color: rgb(11, 92, 171);\">Shanafelt et al. N Engl J Med. 2019;381:432-43</a>), which showed that after a median follow up of 33.6 months, that the ibrutinib-rituximab showed improved progression free survival compared with FCR (89.4% vs. 72.9% at 3 years; hazard ratio for progression or death, 0.35; 95% confidence interval [CI], 0.22 to 0.56; P&lt;0.001) and an overall survival (98.8% vs. 91.5% at 3 years; hazard ratio for death, 0.17; 95% CI, 0.05 to 0.54; P&lt;0.001).</p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\"><span style=\"color: black;\">1.7.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee considered that the appropriate comparator for ibrutinib in this setting would be obinutuzumab-chlorambucil. The Subcommittee considered that if ibrutinib was funded in this setting, it would reduce the infusion requirements associated with obinutuzumab-chlorambucil.</p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\"><span style=\"color: black;\">1.8.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee considered that if ibrutinib were to be funded for previously untreated CLL where fludarabine-based chemoimmunotherapy is inappropriate, that the most likely treatment in the relapsed/refractory setting would be venetoclax with rituximab.</p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\"><span style=\"color: black;\">1.9.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee considered that while ibrutinib may offer an improved treatment option compared with current standard of care, this would come at a substantial cost. The Subcommittee considered that defining groups by eligibility for chemoimmunotherapy may create inequities within the wider CLL patient population, by giving an unfair advantage to those patients less physically/physiologically fit, and that it would not be appropriate to determine eligibility for ibrutinib based on eligibility for and appropriateness of FCR treatment.</p>",
+          "fs": "<p style=\"text-align: justify;\"><span style=\"color: black;\">1.1.</span><span style=\"color: black; font-size: 7pt;\">\u00a0</span>The Subcommittee noted that the current treatment options for patients ineligible for fludarabine based chemoimmunotherapy (fludarabine \u00b1 cyclophosphamide and rituximab) were obinutuzumab-chlorambucil or bendamustine-rituximab, and noted that bendamustine-rituximab was not funded in the relapsed/refractory setting. The Subcommittee noted that if the patient had the 17p deletion or the TP53 mutation, that they would be eligible for venetoclax monotherapy as first line treatment. The Subcommittee noted that patients who relapse within 36 months of treatment with obinutuzumab-chlorambucil or bendamustine-rituximab would be eligible for venetoclax-rituximab. The Subcommittee noted that after venetoclax-rituximab, if patients have not received obinutuzumab, they would be eligible for this as third line treatment.</p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\"><span style=\"color: black;\">1.2.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that the current treatment options for patients eligible for fludarabine based chemoimmunotherapy (fludarabine \u00b1 cyclophosphamide and rituximab) was FCR, unless the patient had the 17p deletion or the TP53 mutation, in which case they would be eligible for venetoclax monotherapy. The Subcommittee noted that that patients who relapse within 36 months of treatment with FCR would be eligible for venetoclax-rituximab. The Subcommittee noted that after venetoclax-rituximab, if patients have not received obinutuzumab, they would be eligible for this as third line treatment.</p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\"><em>Ibrutinib for previously untreated CLL, fludarabine-based chemoimmunotherapy-inappropriate with or without immunoglobulin heavy chain variable region</em> (<em>IGHV) mutation</em></p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\"><span style=\"color: black;\">1.3.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that approximately 50% of CLL is IGHV unmutated, and that unmutated IGHV CLL is associated with shorter progression free survival and higher relapse risk when treated with traditional chemotherapy. The Subcommittee noted that currently, patients with unmutated IGHV have poorer outcomes on currently available therapy.\u00a0The Subcommittee noted that some international guidelines provide separate recommendations for patients with mutated vs unmutated IGHV.</p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\"><span style=\"color: black;\">1.4.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted the results of the ALLIANCE trial, which investigated the use of ibrutinib, ibrutinib with rituximab, and bendamustine-rituximab in patients aged over 65 years with previously untreated CLL (<a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6325637/\" target=\"_blank\" style=\"color: rgb(11, 92, 171);\">Woyach et al. N Eng J Med. 2018;379:2517-28</a>). The Subcommittee noted that, in patients treated with ibrutinib, there was a significantly higher proportion of patients with progression free survival at two years compared with those treated with bendamustine-rituximab (HR: 0.39, 95% CI: 0.26-0.58, p&lt;0.001), however that there was no difference in overall survival advantage at two years for patients treated with ibrutinib compared with bendamustine-rituximab.</p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\"><span style=\"color: black;\">1.5.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that the RESONATE-2 trial reported that patients with mutated IGHV treated with ibrutinib experienced greater progression free survival compared with those treated with chlorambucil (HR: 0.153, 95% CI: 0.067-0.346); a similar result was also reported in patients with unmutated IGHV (HR: 0.105, 95% CI: 0.058-0.190) (<a href=\"https://www.nature.com/articles/s41375-019-0602-x\" target=\"_blank\" style=\"color: rgb(11, 92, 171);\">Burger et al. Leukemia 2020;34:787\u201398</a>). The Subcommittee noted that the comparator in RESONATE-2, chlorambucil, is a less potent treatment than other treatment options currently available for this patient group in New Zealand.</p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\"><span style=\"color: black;\">1.6.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted results of the ECOG E1912 trial comparing FCR with ibrutinib and rituximab (<a href=\"https://www.nejm.org/doi/pdf/10.1056/NEJMoa1817073?articleTools=true\" target=\"_blank\" style=\"color: rgb(11, 92, 171);\">Shanafelt et al. N Engl J Med. 2019;381:432-43</a>), which showed that after a median follow up of 33.6 months, that the ibrutinib-rituximab showed improved progression free survival compared with FCR (89.4% vs. 72.9% at 3 years; hazard ratio for progression or death, 0.35; 95% confidence interval [CI], 0.22 to 0.56; P&lt;0.001) and an overall survival (98.8% vs. 91.5% at 3 years; hazard ratio for death, 0.17; 95% CI, 0.05 to 0.54; P&lt;0.001).</p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\"><span style=\"color: black;\">1.7.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee considered that the appropriate comparator for ibrutinib in this setting would be obinutuzumab-chlorambucil. The Subcommittee considered that if ibrutinib was funded in this setting, it would reduce the infusion requirements associated with obinutuzumab-chlorambucil.</p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\"><span style=\"color: black;\">1.8.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee considered that if ibrutinib were to be funded for previously untreated CLL where fludarabine-based chemoimmunotherapy is inappropriate, that the most likely treatment in the relapsed/refractory setting would be venetoclax with rituximab.</p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\"><span style=\"color: black;\">1.9.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee considered that while ibrutinib may offer an improved treatment option compared with current standard of care, this would come at a substantial cost. The Subcommittee considered that defining groups by eligibility for chemoimmunotherapy may create inequities within the wider CLL patient population, by giving an unfair advantage to those patients less physically/physiologically fit, and that it would not be appropriate to determine eligibility for ibrutinib based on eligibility for and appropriateness of FCR treatment.</p>",
+          "change": null
+        },
+        "Published_Application": {
+          "s": "<p style=\"text-align: justify;\"><span style=\"color: black;\">1.1.</span><span style=\"color: black; font-size: 7pt;\">\u00a0</span>The Subcommittee noted that there were three interrelated applications for treatments for chronic lymphocytic leukaemia (CLL). The Subcommittee considered:</p><p style=\"text-align: justify;\">1.1.1.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>an application for ibrutinib for relapsed/refractory chronic lymphocytic leukaemia with or without del 11q mutation and previously untreated chronic lymphocytic leukaemia with del 17p mutation;</p><p style=\"text-align: justify;\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>This included: patients intolerant to venetoclax; patients who progress on or relapse after treatment with venetoclax and patients unsuitable for treatment with venetoclax</p><p style=\"text-align: justify;\">1.1.2.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>an application for ibrutinib for previously untreated CLL for whom chemoimmunotherapy is inappropriate;</p><p style=\"text-align: justify;\">1.1.3.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>an application for venetoclax for previously untreated chronic lymphocytic leukaemia patients for whom fludarabine-based chemoimmunotherapy is inappropriate and who are immunoglobulin heavy chain variable region (IGHV) unmutated.</p><p style=\"text-align: justify;\"><span style=\"color: black;\">1.2.</span><span style=\"color: black; font-size: 7pt;\">\u00a0</span>The Subcommittee took into account, where applicable, PHARMAC\u2019s relevant decision-making framework when considering these agenda items</p>",
+          "fs": "<p style=\"text-align: justify;\"><span style=\"color: black;\">1.1.</span><span style=\"color: black; font-size: 7pt;\">\u00a0</span>The Subcommittee noted that there were three interrelated applications for treatments for chronic lymphocytic leukaemia (CLL). The Subcommittee considered:</p><p style=\"text-align: justify;\">1.1.1.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>an application for ibrutinib for relapsed/refractory chronic lymphocytic leukaemia with or without del 11q mutation and previously untreated chronic lymphocytic leukaemia with del 17p mutation;</p><p style=\"text-align: justify;\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>This included: patients intolerant to venetoclax; patients who progress on or relapse after treatment with venetoclax and patients unsuitable for treatment with venetoclax</p><p style=\"text-align: justify;\">1.1.2.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>an application for ibrutinib for previously untreated CLL for whom chemoimmunotherapy is inappropriate;</p><p style=\"text-align: justify;\">1.1.3.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>an application for venetoclax for previously untreated chronic lymphocytic leukaemia patients for whom fludarabine-based chemoimmunotherapy is inappropriate and who are immunoglobulin heavy chain variable region (IGHV) unmutated.</p><p style=\"text-align: justify;\"><span style=\"color: black;\">1.2.</span><span style=\"color: black; font-size: 7pt;\">\u00a0</span>The Subcommittee took into account, where applicable, PHARMAC\u2019s relevant decision-making framework when considering these agenda items</p>",
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": "<p><span style=\"font-size: 13.3333px; font-family: Arial, sans-serif; color: rgb(62, 62, 60);\">PTAC noted and agreed with the Subcommittee\u2019s recorded considerations and recommendations regarding\u00a0this application.</span></p>",
+          "fs": "<p><span style=\"font-size: 13.3333px; font-family: Arial, sans-serif; color: rgb(62, 62, 60);\">PTAC noted and agreed with the Subcommittee\u2019s recorded considerations and recommendations regarding\u00a0this application.</span></p>",
+          "change": null
+        },
+        "Outcome": {
+          "s": "Low",
+          "fs": "Low",
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Sep 2020",
+          "fs": "Sep 2020",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Clinical advice received from Cancer Treatments Subcommittee (CaTSoP) at meeting Friday 3 July 2020.",
+          "fs": "Clinical advice received from Cancer Treatments Subcommittee (CaTSoP) at meeting Friday 3 July 2020.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000R528E2AR"
+          },
+          "Id": "a0POZ00000R528E2AR",
+          "Event_Date__c": "2020-09-03",
+          "Event_Description__c": "Clinical advice received from Cancer Treatments Subcommittee (CaTSoP) at meeting Friday 3 July 2020.",
+          "Stage__c": "Seeking Clinical Advice",
+          "Outcome__c": "Low",
+          "Formatted_Date__c": "Sep 2020",
+          "Published_Recommendation__c": "<p style=\"text-align: justify;\"><span style=\"color: black;\">1.1.</span><span style=\"color: black; font-size: 7pt;\">\u00a0</span>The Subcommittee <strong>recommended</strong> ibrutinib for previously untreated CLL patients, for whom fludarabine-based chemoimmunotherapy is inappropriate with or without immunoglobulin heavy chain (IGHV) mutation be listed with a low priority within the context of treatment of malignancy, subject to the following Special Authority criteria:</p><p style=\"text-align: justify;\"><span style=\"font-size: 9pt;\">Initial application (chronic lymphocytic leukaemia) - only from a relevant specialist or medical practitioner on the recommendation of a relevant specialist. Approvals valid for 12 months for applications meeting the following criteria: </span></p><p style=\"text-align: justify;\"><span style=\"font-size: 9pt;\">All of the following: </span></p><p style=\"text-align: justify;\"><span style=\"font-size: 9pt;\">1.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">The patient is treatment naive; and</span></p><p style=\"text-align: justify;\"><span style=\"font-size: 9pt;\">2.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Treatment with fludarabine-based chemoimmunotherapy is not considered appropriate due to patient comorbidities; and</span></p><p style=\"text-align: justify;\"><span style=\"font-size: 9pt;\">3.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Patient has a score of &gt;6 on the Cumulative Illness Rating Scale (CIRS) or reduced renal function (creatinine clearance &lt; 70ml/min); and</span></p><p style=\"text-align: justify;\"><span style=\"font-size: 9pt;\">4.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Patient has an ECOG performance status of 0-2.</span></p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\"><span style=\"font-size: 9pt;\">Renewal application (chronic lymphocytic leukaemia) - only from a relevant specialist or medical practitioner on the recommendation of a relevant specialist. Approvals valid for 12 months for applications meeting the following criteria: </span></p><p style=\"text-align: justify;\"><span style=\"font-size: 9pt;\">Both: </span></p><p style=\"text-align: justify;\"><span style=\"font-size: 9pt;\">1.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">No evidence of clinical disease progression; and</span></p><p style=\"text-align: justify;\"><span style=\"font-size: 9pt;\">2.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">The treatment remains appropriate and the patient is benefiting from treatment.</span></p>",
+          "Published_Application__c": "<p style=\"text-align: justify;\"><span style=\"color: black;\">1.1.</span><span style=\"color: black; font-size: 7pt;\">\u00a0</span>The Subcommittee noted that there were three interrelated applications for treatments for chronic lymphocytic leukaemia (CLL). The Subcommittee considered:</p><p style=\"text-align: justify;\">1.1.1.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>an application for ibrutinib for relapsed/refractory chronic lymphocytic leukaemia with or without del 11q mutation and previously untreated chronic lymphocytic leukaemia with del 17p mutation;</p><p style=\"text-align: justify;\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>This included: patients intolerant to venetoclax; patients who progress on or relapse after treatment with venetoclax and patients unsuitable for treatment with venetoclax</p><p style=\"text-align: justify;\">1.1.2.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>an application for ibrutinib for previously untreated CLL for whom chemoimmunotherapy is inappropriate;</p><p style=\"text-align: justify;\">1.1.3.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>an application for venetoclax for previously untreated chronic lymphocytic leukaemia patients for whom fludarabine-based chemoimmunotherapy is inappropriate and who are immunoglobulin heavy chain variable region (IGHV) unmutated.</p><p style=\"text-align: justify;\"><span style=\"color: black;\">1.2.</span><span style=\"color: black; font-size: 7pt;\">\u00a0</span>The Subcommittee took into account, where applicable, PHARMAC\u2019s relevant decision-making framework when considering these agenda items</p>",
+          "Published_Discussion__c": "<p style=\"text-align: justify;\"><span style=\"color: black;\">1.1.</span><span style=\"color: black; font-size: 7pt;\">\u00a0</span>The Subcommittee noted that the current treatment options for patients ineligible for fludarabine based chemoimmunotherapy (fludarabine \u00b1 cyclophosphamide and rituximab) were obinutuzumab-chlorambucil or bendamustine-rituximab, and noted that bendamustine-rituximab was not funded in the relapsed/refractory setting. The Subcommittee noted that if the patient had the 17p deletion or the TP53 mutation, that they would be eligible for venetoclax monotherapy as first line treatment. The Subcommittee noted that patients who relapse within 36 months of treatment with obinutuzumab-chlorambucil or bendamustine-rituximab would be eligible for venetoclax-rituximab. The Subcommittee noted that after venetoclax-rituximab, if patients have not received obinutuzumab, they would be eligible for this as third line treatment.</p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\"><span style=\"color: black;\">1.2.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that the current treatment options for patients eligible for fludarabine based chemoimmunotherapy (fludarabine \u00b1 cyclophosphamide and rituximab) was FCR, unless the patient had the 17p deletion or the TP53 mutation, in which case they would be eligible for venetoclax monotherapy. The Subcommittee noted that that patients who relapse within 36 months of treatment with FCR would be eligible for venetoclax-rituximab. The Subcommittee noted that after venetoclax-rituximab, if patients have not received obinutuzumab, they would be eligible for this as third line treatment.</p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\"><em>Ibrutinib for previously untreated CLL, fludarabine-based chemoimmunotherapy-inappropriate with or without immunoglobulin heavy chain variable region</em> (<em>IGHV) mutation</em></p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\"><span style=\"color: black;\">1.3.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that approximately 50% of CLL is IGHV unmutated, and that unmutated IGHV CLL is associated with shorter progression free survival and higher relapse risk when treated with traditional chemotherapy. The Subcommittee noted that currently, patients with unmutated IGHV have poorer outcomes on currently available therapy.\u00a0The Subcommittee noted that some international guidelines provide separate recommendations for patients with mutated vs unmutated IGHV.</p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\"><span style=\"color: black;\">1.4.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted the results of the ALLIANCE trial, which investigated the use of ibrutinib, ibrutinib with rituximab, and bendamustine-rituximab in patients aged over 65 years with previously untreated CLL (<a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6325637/\" target=\"_blank\" style=\"color: rgb(11, 92, 171);\">Woyach et al. N Eng J Med. 2018;379:2517-28</a>). The Subcommittee noted that, in patients treated with ibrutinib, there was a significantly higher proportion of patients with progression free survival at two years compared with those treated with bendamustine-rituximab (HR: 0.39, 95% CI: 0.26-0.58, p&lt;0.001), however that there was no difference in overall survival advantage at two years for patients treated with ibrutinib compared with bendamustine-rituximab.</p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\"><span style=\"color: black;\">1.5.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that the RESONATE-2 trial reported that patients with mutated IGHV treated with ibrutinib experienced greater progression free survival compared with those treated with chlorambucil (HR: 0.153, 95% CI: 0.067-0.346); a similar result was also reported in patients with unmutated IGHV (HR: 0.105, 95% CI: 0.058-0.190) (<a href=\"https://www.nature.com/articles/s41375-019-0602-x\" target=\"_blank\" style=\"color: rgb(11, 92, 171);\">Burger et al. Leukemia 2020;34:787\u201398</a>). The Subcommittee noted that the comparator in RESONATE-2, chlorambucil, is a less potent treatment than other treatment options currently available for this patient group in New Zealand.</p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\"><span style=\"color: black;\">1.6.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted results of the ECOG E1912 trial comparing FCR with ibrutinib and rituximab (<a href=\"https://www.nejm.org/doi/pdf/10.1056/NEJMoa1817073?articleTools=true\" target=\"_blank\" style=\"color: rgb(11, 92, 171);\">Shanafelt et al. N Engl J Med. 2019;381:432-43</a>), which showed that after a median follow up of 33.6 months, that the ibrutinib-rituximab showed improved progression free survival compared with FCR (89.4% vs. 72.9% at 3 years; hazard ratio for progression or death, 0.35; 95% confidence interval [CI], 0.22 to 0.56; P&lt;0.001) and an overall survival (98.8% vs. 91.5% at 3 years; hazard ratio for death, 0.17; 95% CI, 0.05 to 0.54; P&lt;0.001).</p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\"><span style=\"color: black;\">1.7.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee considered that the appropriate comparator for ibrutinib in this setting would be obinutuzumab-chlorambucil. The Subcommittee considered that if ibrutinib was funded in this setting, it would reduce the infusion requirements associated with obinutuzumab-chlorambucil.</p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\"><span style=\"color: black;\">1.8.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee considered that if ibrutinib were to be funded for previously untreated CLL where fludarabine-based chemoimmunotherapy is inappropriate, that the most likely treatment in the relapsed/refractory setting would be venetoclax with rituximab.</p><p style=\"text-align: justify;\"><br></p><p style=\"text-align: justify;\"><span style=\"color: black;\">1.9.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee considered that while ibrutinib may offer an improved treatment option compared with current standard of care, this would come at a substantial cost. The Subcommittee considered that defining groups by eligibility for chemoimmunotherapy may create inequities within the wider CLL patient population, by giving an unfair advantage to those patients less physically/physiologically fit, and that it would not be appropriate to determine eligibility for ibrutinib based on eligibility for and appropriateness of FCR treatment.</p>",
+          "PTAC_Comments__c": "<p><span style=\"font-size: 13.3333px; font-family: Arial, sans-serif; color: rgb(62, 62, 60);\">PTAC noted and agreed with the Subcommittee\u2019s recorded considerations and recommendations regarding\u00a0this application.</span></p>",
+          "Status_History__c": "a13OZ00000TQbXuYAL"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Aug 2023",
+          "fs": "Aug 2023",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Clinical advice required",
+          "fs": "Clinical advice required",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000R528F2AR"
+          },
+          "Id": "a0POZ00000R528F2AR",
+          "Event_Date__c": "2023-08-02",
+          "Event_Description__c": "Clinical advice required",
+          "Stage__c": "Seeking Clinical Advice",
+          "Formatted_Date__c": "Aug 2023",
+          "Status_History__c": "a13OZ000004k2kUYAQ"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Sep 2023",
+          "fs": "Sep 2023",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Assigned to Cancer Treatments Advisory Committee meeting to provide advice on Thursday 12 October 2023",
+          "fs": "Assigned to Cancer Treatments Advisory Committee meeting to provide advice on Thursday 12 October 2023",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000R528G2AR"
+          },
+          "Id": "a0POZ00000R528G2AR",
+          "Event_Date__c": "2023-09-21",
+          "Event_Description__c": "Assigned to Cancer Treatments Advisory Committee meeting to provide advice on Thursday 12 October 2023",
+          "Stage__c": "Seeking Clinical Advice",
+          "Formatted_Date__c": "Sep 2023",
+          "Status_History__c": "a13OZ000005f6eaYAA"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": "<p>The Advisory Committee recommended that a BTKi be listed for the first-line monotherapy treatment of TP53 disrupted CLL, with a <strong>high priority</strong>, within the context of treatment of malignancy, subject to Special Authority criteria.</p><p>\u00a0</p><p><a href=\"https://pharmac.govt.nz/assets/2023-10-12-Cancer-Treatments-Advisory-Committee-Record.pdf#page=49\" target=\"_blank\">Link to relevant discussion within the meeting record.</a></p>",
+          "fs": "<p>The Advisory Committee recommended that a BTKi be listed for the first-line monotherapy treatment of TP53 disrupted CLL, with a <strong>high priority</strong>, within the context of treatment of malignancy, subject to Special Authority criteria.</p><p>\u00a0</p><p><a href=\"https://pharmac.govt.nz/assets/2023-10-12-Cancer-Treatments-Advisory-Committee-Record.pdf#page=49\" target=\"_blank\">Link to relevant discussion within the meeting record.</a></p>",
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": "High",
+          "fs": "High",
+          "change": null
+        },
+        "Links": {
+          "s": "<p><a href=\"https://pharmac.govt.nz/assets/2023-10-12-Cancer-Treatments-Advisory-Committee-Record.pdf\" target=\"_blank\">Link to meeting record.</a></p>",
+          "fs": "<p><a href=\"https://pharmac.govt.nz/assets/2023-10-12-Cancer-Treatments-Advisory-Committee-Record.pdf\" target=\"_blank\">Link to meeting record.</a></p>",
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Mar 2024",
+          "fs": "Mar 2024",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Clinical advice received from Cancer Treatments Advisory Committee at meeting Thursday 12 October 2023.",
+          "fs": "Clinical advice received from Cancer Treatments Advisory Committee at meeting Thursday 12 October 2023.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000R528H2AR"
+          },
+          "Id": "a0POZ00000R528H2AR",
+          "Event_Date__c": "2024-03-28",
+          "Event_Description__c": "Clinical advice received from Cancer Treatments Advisory Committee at meeting Thursday 12 October 2023.",
+          "Stage__c": "Seeking Clinical Advice",
+          "Links__c": "<p><a href=\"https://pharmac.govt.nz/assets/2023-10-12-Cancer-Treatments-Advisory-Committee-Record.pdf\" target=\"_blank\">Link to meeting record.</a></p>",
+          "Outcome__c": "High",
+          "Formatted_Date__c": "Mar 2024",
+          "Published_Recommendation__c": "<p>The Advisory Committee recommended that a BTKi be listed for the first-line monotherapy treatment of TP53 disrupted CLL, with a <strong>high priority</strong>, within the context of treatment of malignancy, subject to Special Authority criteria.</p><p>\u00a0</p><p><a href=\"https://pharmac.govt.nz/assets/2023-10-12-Cancer-Treatments-Advisory-Committee-Record.pdf#page=49\" target=\"_blank\">Link to relevant discussion within the meeting record.</a></p>",
+          "Status_History__c": "a13OZ000008mnDMYAY"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Jun 2018",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Following Clinical Advice, Pharmac staff considers the advice and the funding application under goes an assessment using our&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/factors-for-consideration/\" rel=\"nofollow\">Factors for Consideration</a>&nbsp;framework and seeks additional information as required.</p>\r\n<p>&nbsp;</p>\r\n<p>Research and Economic analysis are undertaken.&nbsp; This focuses on the costs and benefits of a proposed course of action. Economics is based on three fundamental concepts that summarise the issues Pharmac faces daily:&nbsp;</p>\r\n<ul>\r\n<li>Scarcity &ndash; resources will always be insufficient to support all possible activities.</li>\r\n<li>Choices &ndash; due to scarce resources, decisions must be made about how best to use them.</li>\r\n<li>Opportunity cost &ndash; by choosing to use resources one way, we forgo other opportunities to use the same resources.</li>\r\n</ul>\r\n<p>&nbsp;</p>\r\n<p>For further information on the purpose of, and techniques for, undertaking economic analysis in health care, please refer&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/economic-analysis/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/economic-analysis/</a></p>",
+    "position": 2,
+    "name": "Under Assessment",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Jun 2024",
+          "fs": "Jun 2024",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Working to compare options",
+          "fs": "Working to compare options",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000R528I2AR"
+          },
+          "Id": "a0POZ00000R528I2AR",
+          "Event_Date__c": "2024-06-06",
+          "Event_Description__c": "Working to compare options",
+          "Stage__c": "Under Assessment",
+          "Formatted_Date__c": "Jun 2024",
+          "Status_History__c": "a13OZ00000ApDTmYAN"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Jun 2024",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Pharmac staff uses a prioritisation process to compare and rank funding options. Possible opportunities for new investment will always exceed the budget Pharmac has available; therefore, prioritisation is an intrinsic part of Pharmac\u2019s decision-making process.</p>\r\n<p>The relative ranking of options aims to support Pharmac&rsquo;s statutory objective &ldquo;to secure for eligible people in need of pharmaceuticals, the best health outcomes that are reasonably achievable from pharmaceutical treatment and from within the amount of funding provided&rdquo;.</p>\r\n<p>A funding application or proposal is considered ready for prioritisation when sufficient information is available to permit it to be reviewed against Pharmac's Factors for Consideration and to inform a comparison with other possible investment decisions.</p>\r\n<p>There is no guarantee when or if a ranked medicine will be funded.&nbsp;&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/prioritisation/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/prioritisation/</a></p>",
+    "position": 3,
+    "name": "Options Compared",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Sep 2024",
+          "fs": "Sep 2024",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "The relative ranking of the pharmaceutical application has been completed.",
+          "fs": "The relative ranking of the pharmaceutical application has been completed.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000R528J2AR"
+          },
+          "Id": "a0POZ00000R528J2AR",
+          "Event_Date__c": "2024-09-09",
+          "Event_Description__c": "The relative ranking of the pharmaceutical application has been completed.",
+          "Stage__c": "Options Compared",
+          "Formatted_Date__c": "Sep 2024",
+          "Status_History__c": "a13OZ00000E40w5YAB"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Sep 2024",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Pharmac is consulting on a proposal to either approve or decline the application.&nbsp;We seek the views of all people who have an interest in our proposals, or who may be affected by them, to obtain feedback on our proposed approaches.</p>\r\n<p><a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/having-your-say/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/having-your-say/</a></p>",
+    "position": 4,
+    "name": "Under Consultation",
+    "last": false,
+    "events": null,
+    "dateString": null,
+    "collapsed": false,
+    "checked": false
+  },
+  {
+    "text": "<p>Following the consultation process, Pharmac staff considers the feedback and identifies any additional information required as part of a gap analysis.&nbsp; The proposal may require further clinical advice, research, and assessment.</p>",
+    "position": 5,
+    "name": "Reviewing Consultation Feedback",
+    "last": false,
+    "events": null,
+    "dateString": null,
+    "collapsed": false,
+    "checked": false
+  },
+  {
+    "text": "<p>We refer to our decisions about whether and how particular pharmaceuticals are publicly-funded, as &ldquo;funding decisions&rdquo;.</p>\r\n<p>We consider and assess all funding decisions using the&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/about/operating-policies-and-procedures/#factorsfc\" rel=\"nofollow\">Factors for Consideration</a>. When we do so, we carefully evaluate clinical and other evidence for the benefits and suitability of a proposal, and to identify and understand the people who will be affected by it.</p>\r\n<p>While our main task is to allocate pharmaceutical funding, we consider the benefits and costs across the whole health system now and with a long-term focus, including the effects for hospitals and primary care, and consider direct costs to patients as well as to all health sector budgets.</p>\r\n<p>Final funding decisions are made by the Pharmac Board or delegated to senior Pharmac staff as required by the Board.</p>\r\n<p>&nbsp;</p>",
+    "position": 6,
+    "name": "Decision",
+    "last": true,
+    "events": null,
+    "dateString": null,
+    "collapsed": false,
+    "checked": false
+  }
+]

@@ -1,0 +1,1480 @@
+[
+  {
+    "text": "<p>New funding applications are referred to one of Pharmac's Funding Application Advisors (FAAs), who'll review the application to ensure they have the relevant information to undertake a preliminary analysis.&nbsp; They may seek more information if required.</p>\r\n<p><a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/new-funding-applications/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/new-funding-applications/</a></p>",
+    "position": 0,
+    "name": "Application Received",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Jun 2008",
+          "fs": "Jun 2008",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Application received",
+          "fs": "Application received",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P000006pnQPUAY"
+          },
+          "Id": "a0P2P000006pnQPUAY",
+          "Event_Date__c": "2008-06-01",
+          "Event_Description__c": "Application received",
+          "Stage__c": "Application Received",
+          "Formatted_Date__c": "Jun 2008",
+          "Status_History__c": "a132P000000ApItQAK"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Jun 2008",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Pharmac is identifying and gathering information required to get clinical advice.  The <a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/pharmacology-and-therapeutics-advisory-committee-ptac/\" rel=\"nofollow\">Pharmacology and Therapeutics Advisory Committee (PTAC)</a>  meets quarterly. There are also around 20 expert <a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/specialist-advisory-committees/\" rel=\"nofollow\">Specialist Advisory Committees (SACs)</a>, previously expert Subcommittees, which provide clinical evaluations in specialist areas. Specialist Advisory Committees meet as required to discuss issues referred to them by PTAC or Pharmac.</p>\n<p style=\"height: 20px\">&nbsp;</p>\n<p>In November 2021, we introduced separate terms of reference for the SACs to make clear that these committees have different, but complementary, roles, expertise and perspectives to PTAC.</p>\n<p style=\"height: 15px\">&nbsp;</p>\n<p>PTAC and SACs may make recommendations to Pharmac that differ from each other when looking at the same evidence. Pharmac considers the recommendations provided by all our clinical advisory committees when assessing applications.</p>\n<p style=\"height: 20px\">&nbsp;</p>\n<p><a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/pharmacology-and-therapeutics-advisory-committee-ptac/ptac-terms-of-reference-july-2021/\" rel=\"nofollow\">PTAC</a>  and <a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/specialist-advisory-committees/specialist-advisory-committee-terms-of-reference//\" rel=\"nofollow\">Specialist Advisory Committees</a> records of the meeting will be published on this website in accordance with the Terms of Reference.</p>",
+    "position": 1,
+    "name": "Seeking Clinical Advice",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": "Decline",
+          "fs": "Decline",
+          "change": null
+        },
+        "Links": {
+          "s": "<a href=\"https://www.pharmac.govt.nz/assets/ptac-minutes-2008-07.pdf \" target=\"_blank\">PTAC minutes</a>",
+          "fs": "<a href=\"https://www.pharmac.govt.nz/assets/ptac-minutes-2008-07.pdf \" target=\"_blank\">PTAC minutes</a>",
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Jul 2008",
+          "fs": "Jul 2008",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Clinical advice received from Pharmacology and Therapeutics Advisory Committee (PTAC) at meeting Wednesday 23 July 2008.",
+          "fs": "Clinical advice received from Pharmacology and Therapeutics Advisory Committee (PTAC) at meeting Wednesday 23 July 2008.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P000006pnQQUAY"
+          },
+          "Id": "a0P2P000006pnQQUAY",
+          "Event_Date__c": "2008-07-23",
+          "Event_Description__c": "Clinical advice received from Pharmacology and Therapeutics Advisory Committee (PTAC) at meeting Wednesday 23 July 2008.",
+          "Stage__c": "Seeking Clinical Advice",
+          "Links__c": "<a href=\"https://www.pharmac.govt.nz/assets/ptac-minutes-2008-07.pdf \" target=\"_blank\">PTAC minutes</a>",
+          "Outcome__c": "Decline",
+          "Formatted_Date__c": "Jul 2008",
+          "Status_History__c": "a132P000000ApKAQA0"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": "Not recommended for inclusion (HML)",
+          "fs": "Not recommended for inclusion (HML)",
+          "change": null
+        },
+        "Links": {
+          "s": "<a href=\"https://www.pharmac.govt.nz/assets/ptac-endocrinology-subcommittee-minutes-2012-05-29.pdf\" target=\"_blank\">Endocrinology Subcommittee minutes</a>",
+          "fs": "<a href=\"https://www.pharmac.govt.nz/assets/ptac-endocrinology-subcommittee-minutes-2012-05-29.pdf\" target=\"_blank\">Endocrinology Subcommittee minutes</a>",
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "May 2012",
+          "fs": "May 2012",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Clinical advice received from Endocrinology Subcommittee at meeting Tuesday 29 May 2012.",
+          "fs": "Clinical advice received from Endocrinology Subcommittee at meeting Tuesday 29 May 2012.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P000006pnQRUAY"
+          },
+          "Id": "a0P2P000006pnQRUAY",
+          "Event_Date__c": "2012-05-29",
+          "Event_Description__c": "Clinical advice received from Endocrinology Subcommittee at meeting Tuesday 29 May 2012.",
+          "Stage__c": "Seeking Clinical Advice",
+          "Links__c": "<a href=\"https://www.pharmac.govt.nz/assets/ptac-endocrinology-subcommittee-minutes-2012-05-29.pdf\" target=\"_blank\">Endocrinology Subcommittee minutes</a>",
+          "Outcome__c": "Not recommended for inclusion (HML)",
+          "Formatted_Date__c": "May 2012",
+          "Status_History__c": "a132P000000Aq2tQAC"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": "Decline",
+          "fs": "Decline",
+          "change": null
+        },
+        "Links": {
+          "s": "<a href=\"https://www.pharmac.govt.nz/assets/ptac-minutes-2015-02.pdf\" target=\"_blank\">PTAC minutes</a>",
+          "fs": "<a href=\"https://www.pharmac.govt.nz/assets/ptac-minutes-2015-02.pdf\" target=\"_blank\">PTAC minutes</a>",
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Feb 2015",
+          "fs": "Feb 2015",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Clinical advice received from Pharmacology and Therapeutics Advisory Committee (PTAC) at meeting Saturday 7 February 2015.",
+          "fs": "Clinical advice received from Pharmacology and Therapeutics Advisory Committee (PTAC) at meeting Saturday 7 February 2015.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P000006pnQTUAY"
+          },
+          "Id": "a0P2P000006pnQTUAY",
+          "Event_Date__c": "2015-02-07",
+          "Event_Description__c": "Clinical advice received from Pharmacology and Therapeutics Advisory Committee (PTAC) at meeting Saturday 7 February 2015.",
+          "Stage__c": "Seeking Clinical Advice",
+          "Links__c": "<a href=\"https://www.pharmac.govt.nz/assets/ptac-minutes-2015-02.pdf\" target=\"_blank\">PTAC minutes</a>",
+          "Outcome__c": "Decline",
+          "Formatted_Date__c": "Feb 2015",
+          "Status_History__c": "a132P000000AqrXQAS"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": "PTAC recommended that funding of cinacalcet be declined for primary hyperparathyroidism and elevated serum calcium who do not have an absolute contraindication for parathyroid surgery.    PTAC made other recommendations for other indications of cinacalcet. See those applications for more details.",
+          "fs": "PTAC recommended that funding of cinacalcet be declined for primary hyperparathyroidism and elevated serum calcium who do not have an absolute contraindication for parathyroid surgery.    PTAC made other recommendations for other indications of cinacalcet. See those applications for more details.",
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": "Decline",
+          "fs": "Decline",
+          "change": null
+        },
+        "Links": {
+          "s": "<a href=\"https://www.pharmac.govt.nz/assets/ptac-minutes-2015-11.pdf\" target=\"_blank\">PTAC minutes</a>",
+          "fs": "<a href=\"https://www.pharmac.govt.nz/assets/ptac-minutes-2015-11.pdf\" target=\"_blank\">PTAC minutes</a>",
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Nov 2015",
+          "fs": "Nov 2015",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Clinical advice received from Pharmacology and Therapeutics Advisory Committee (PTAC) at meeting Thursday 5 November 2015.",
+          "fs": "Clinical advice received from Pharmacology and Therapeutics Advisory Committee (PTAC) at meeting Thursday 5 November 2015.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P000006pnQUUAY"
+          },
+          "Id": "a0P2P000006pnQUUAY",
+          "Event_Date__c": "2015-11-05",
+          "Event_Description__c": "Clinical advice received from Pharmacology and Therapeutics Advisory Committee (PTAC) at meeting Thursday 5 November 2015.",
+          "Stage__c": "Seeking Clinical Advice",
+          "Links__c": "<a href=\"https://www.pharmac.govt.nz/assets/ptac-minutes-2015-11.pdf\" target=\"_blank\">PTAC minutes</a>",
+          "Outcome__c": "Decline",
+          "Summary__c": "PTAC recommended that funding of cinacalcet be declined for primary hyperparathyroidism and elevated serum calcium who do not have an absolute contraindication for parathyroid surgery.    PTAC made other recommendations for other indications of cinacalcet. See those applications for more details.",
+          "Formatted_Date__c": "Nov 2015",
+          "Status_History__c": "a132P000000Ar1TQAS"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "May 2016",
+          "fs": "May 2016",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Clinical advice required",
+          "fs": "Clinical advice required",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P000006pnQYUAY"
+          },
+          "Id": "a0P2P000006pnQYUAY",
+          "Event_Date__c": "2016-05-05",
+          "Event_Description__c": "Clinical advice required",
+          "Stage__c": "Seeking Clinical Advice",
+          "Formatted_Date__c": "May 2016",
+          "Status_History__c": "a132P000000Ar8AQAS"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": "The Committee recommended that funding of cinacalcet for patients with non-malignant primary hyperparathyroidism with symptomatic hypercalcaemia contraindicated to surgery, or where previous surgery has been unsuccessful, be declined",
+          "fs": "The Committee recommended that funding of cinacalcet for patients with non-malignant primary hyperparathyroidism with symptomatic hypercalcaemia contraindicated to surgery, or where previous surgery has been unsuccessful, be declined",
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": "Decline",
+          "fs": "Decline",
+          "change": null
+        },
+        "Links": {
+          "s": "<a href=\"https://www.pharmac.govt.nz/assets/ptac-minutes-2016-05.pdf\" target=\"_blank\">PTAC minutes</a>",
+          "fs": "<a href=\"https://www.pharmac.govt.nz/assets/ptac-minutes-2016-05.pdf\" target=\"_blank\">PTAC minutes</a>",
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "May 2016",
+          "fs": "May 2016",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Clinical advice received from Pharmacology and Therapeutics Advisory Committee (PTAC) at meeting Thursday 5 May 2016.",
+          "fs": "Clinical advice received from Pharmacology and Therapeutics Advisory Committee (PTAC) at meeting Thursday 5 May 2016.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P000006pnQZUAY"
+          },
+          "Id": "a0P2P000006pnQZUAY",
+          "Event_Date__c": "2016-05-05",
+          "Event_Description__c": "Clinical advice received from Pharmacology and Therapeutics Advisory Committee (PTAC) at meeting Thursday 5 May 2016.",
+          "Stage__c": "Seeking Clinical Advice",
+          "Links__c": "<a href=\"https://www.pharmac.govt.nz/assets/ptac-minutes-2016-05.pdf\" target=\"_blank\">PTAC minutes</a>",
+          "Outcome__c": "Decline",
+          "Summary__c": "The Committee recommended that funding of cinacalcet for patients with non-malignant primary hyperparathyroidism with symptomatic hypercalcaemia contraindicated to surgery, or where previous surgery has been unsuccessful, be declined",
+          "Formatted_Date__c": "May 2016",
+          "Status_History__c": "a132P000000Ar8CQAS"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Feb 2021",
+          "fs": "Feb 2021",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Assigned to Endocrinology Subcommittee meeting to provide advice on Tuesday 30 March 2021",
+          "fs": "Assigned to Endocrinology Subcommittee meeting to provide advice on Tuesday 30 March 2021",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P000006pnQcUAI"
+          },
+          "Id": "a0P2P000006pnQcUAI",
+          "Event_Date__c": "2021-02-19",
+          "Event_Description__c": "Assigned to Endocrinology Subcommittee meeting to provide advice on Tuesday 30 March 2021",
+          "Stage__c": "Seeking Clinical Advice",
+          "Formatted_Date__c": "Feb 2021",
+          "Status_History__c": "a132P000000CcRbQAK"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Jun 2021",
+          "fs": "Jun 2021",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Assigned to Pharmacology and Therapeutics Advisory Committee (PTAC) meeting to provide advice on Friday 20 August 2021",
+          "fs": "Assigned to Pharmacology and Therapeutics Advisory Committee (PTAC) meeting to provide advice on Friday 20 August 2021",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P000006pnQdUAI"
+          },
+          "Id": "a0P2P000006pnQdUAI",
+          "Event_Date__c": "2021-06-10",
+          "Event_Description__c": "Assigned to Pharmacology and Therapeutics Advisory Committee (PTAC) meeting to provide advice on Friday 20 August 2021",
+          "Stage__c": "Seeking Clinical Advice",
+          "Formatted_Date__c": "Jun 2021",
+          "Status_History__c": "a132P000000DNqKQAW"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Jun 2021",
+          "fs": "Jun 2021",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Clinical advice required",
+          "fs": "Clinical advice required",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P000006pnQeUAI"
+          },
+          "Id": "a0P2P000006pnQeUAI",
+          "Event_Date__c": "2021-06-18",
+          "Event_Description__c": "Clinical advice required",
+          "Stage__c": "Seeking Clinical Advice",
+          "Formatted_Date__c": "Jun 2021",
+          "Status_History__c": "a132P000000Cw3eQAC"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": "<p>Discussion</p><p>1.1.\u00a0\u00a0\u00a0The Subcommittee considered that the target patient population is a subset of the population with primary hyperparathyroidism with hypercalcaemia; the target group is either unsuitable for surgery, have declined surgery or have not benefitted from surgery and have significant hypercalcaemia, defined as albumin-adjusted calcium &gt;3.0 mmol/L with or without symptoms of hypercalcaemia, or &gt;2.85 mmol/L with symptoms of hypercalcaemia (consistent with the definition used in the NICE guidelines for primary hyperparathyroidism in the UK and Wales; NICE, 2019). The Subcommittee noted the potential for minor variability in laboratory test values across the country but considered &gt;3.0 mmol/L and &gt;2.85 mmol/L to be reasonable thresholds for defining this population.\u00a0</p><p><br></p><p>1.2.\u00a0\u00a0The Subcommittee considered that these patients may present with a wide range of clinical manifestations non-specific to primary hyperparathyroidism itself (eg persistent hypercalcaemia, fracture, renal stones, hypercalciuria, osteoporosis), and may include a neurocognitive presentation with psychotic episodes occurring every few months. The Subcommittee noted that people with primary hypercalcaemia are also at risk of excess death from heart or lung causes. The Subcommittee considered that people with acute symptomatic hypercalcaemia may also require acute interventions for management.</p><p><br></p><p>1.3.\u00a0\u00a0The Subcommittee estimated that the target group may consist of 6-10 new patients per year nationwide, based on case numbers in Auckland and Christchurch. The Subcommittee considered that most of these patients would likely require treatment when aged in their 70s and 80s and therefore some annual mortality would also be expected, and a very small number of patients may require treatment for many years. The Subcommittee considered that an exceptional number of patients (less than one per year) with rare genetic syndromes might require treatment from a younger age. The Subcommittee considered a patient deemed as not being operable (ie not a candidate for surgery) would likely be considered non-operable for life.\u00a0</p><p><br></p><p>1.4.\u00a0\u00a0Members noted the surgical procedure is complex and, in some patients, may not be deemed feasible or suitable in the surgical or multi-disciplinary team\u2019s opinion (eg due to co-morbidities), or surgery may not be successful in achieving the intended clinical outcomes. In addition, the Subcommittee noted that not all patients may judge their proposed surgery to be beneficial when compared with its risks, and thus that informed consent may not be provided by these patients for anaesthesia and the surgical procedure itself.</p><p><br></p><p>1.5.\u00a0\u00a0The Subcommittee considered that there is a lack of evidence to inform whether primary hyperparathyroidism disproportionately affects M\u0101ori and Pacific peoples, although noted that these populations may experience greater comorbidity than non-M\u0101ori and non-Pacific people.</p><p><br></p><p>1.6.\u00a0\u00a0\u00a0\u00a0The Subcommittee noted that cinacalcet is taken orally and can be titrated to achieve a reduction in calcium levels to below 3.0 mmol/L and/or treatment of symptoms. The Subcommittee considered that there is evidence that elevated calcium levels are associated with symptoms, and that a reduction in calcium level is associated with symptom improvement. The Subcommittee considered the goal of treatment in this patient group is to reduce serum calcium levels to &lt;3.0 mmol/L (rather than reducing parathyroid hormone levels), as &lt;3.0 mmol/L is considered a \u2018safe\u2019 serum calcium level that reduces the risks of neurocognitive complications of hypercalcaemia, and of episodes of acute severe hypercalcemia.</p><p><br></p><p>1.7.\u00a0\u00a0\u00a0\u00a0The Subcommittee considered that new evidence to inform the assessment of cinacalcet in this primary hyperparathyroidism was limited, however, members were made aware of evidence from the following publications (of which, two include cinacalcet for parathyroidectomy non-candidates which referred to hypercalcaemia with unspecified severe symptoms):</p><p><br></p><p>1.7.1.\u00a0\u00a0\u00a0\u00a0\u00a0The Subcommittee noted an observational cohort study (audit) in Scotland of 2,598 surgical patients admitted with primary hyperparathyroidism (causes of secondary hyperparathyroidism being excluded) between 1986 to 2010 with data followed up until 2011 and including post-surgery outcomes for those who received parathyroidectomy (Collier et al. Endocr Pract. 2019;25:335-9). The Subcommittee noted that 78% of patients included were female, which the Subcommittee considered was a reasonable estimate of female prevalence in this disease.\u00a0</p><p><br></p><p>1.7.1.1.\u00a0\u00a0\u00a0The Subcommittee noted that after follow-up, 41% of the total cohort were deceased and the standardised mortality ratio compared with the general population was 1.58, but that 42% of patients did not have surgery (either they did not meet criteria, or for other reasons), and therefore considered this group was more conservatively treated group than those in New Zealand.\u00a0</p><p><br></p><p>1.7.1.2.\u00a0\u00a0\u00a0The Subcommittee noted that the raw standardised mortality ratio compared to the general population was 1.30 in patients who received surgery (58% of the cohort) and was 1.88 in patients who were treated conservatively; after adjustment for comorbidity, the latter reduced to 1.49 (95% CI: 1.30 to 1.70; P&lt;.0001). The Subcommittee considered the conservatively treated group was similar to the target New Zealand population for this indication. Based on this, the Subcommittee considered that hyperparathyroidism increases mortality compared with the general population; that surgery can reduce this mortality; and therefore, that it was reasonable to infer that cinacalcet may provide the same or similar benefit as surgery by reducing mortality by reducing serum calcium levels.</p><p><br></p><p>1.7.2.\u00a0\u00a0\u00a0\u00a0The Subcommittee was made aware of a systematic review and meta regression of cinacalcet in primary hyperparathyroidism (Ng et al. Endocr Connect. 2020;9:724-35) which included eight trials, none of which the Subcommittee considered provided new information as all had been considered by PTAC or PTAC Subcommittees previously. The Subcommittee noted that 90% of patients had normalisation of calcium levels and 10% had normalisation of parathyroid hormone, however, no other endpoints (eg quality of life) or outcomes for mortality and morbidity were discussed in the publication.\u00a0</p><p><br></p><p>1.7.3.\u00a0\u00a0\u00a0\u00a0The Subcommittee was made aware of an 8-year retrospective observational cohort study in Scotland of 611 patients with primary hyperparathyroidism seen in secondary care between 2006 and 2014, of which 337 patients did not receive surgery (Reid et al. J Clin Endocrinol Metab. 2019;104:3692-700). The Subcommittee noted that after an 8-year period of follow-up, the mortality rate was 16.0% (98/611) overall, with about 30% of deaths due to cancer and about 30% due to cardiovascular disease. The Subcommittee noted that 79 deaths were reported in the group who did not receive surgery. The Subcommittee noted associations between mortality and increasing age, social deprivation, and elevated adjusted calcium levels at diagnosis that were statistically significant, but no associations with parathyroid hormone levels at diagnosis. The Subcommittee considered that the study population was similar to the target New Zealand population for this indication and was the most representative evidence for the target New Zealand population. The Subcommittee considered it may not be feasible to do an appropriately powered intervention study in this population.\u00a0</p><p><br></p><p>1.7.4.\u00a0\u00a0\u00a0\u00a0The Subcommittee noted an observational cohort study derived from a random population sample of 750 50-year-old men in Sweden that described a 21 year follow up of men with primary hyperparathyroidism, and which did not show evidence for long term complications nor a mortality difference. The Subcommittee noted this study reported very wide confidence intervals (Kontogeorgos et al. Scand J Clin Lab Invest. 2020;80:6-13).\u00a0</p><p><br></p><p>1.8.\u00a0\u00a0\u00a0\u00a0The Subcommittee noted that UpToDate suggests cinacalcet be used for patients with symptomatic primary hyperparathyroidism who are unable to have surgery (whose primary indication for surgery is symptomatic and/or severe hypercalcemia), and that cinacalcet would be more appropriate than bisphosphonates where bone density is normal, as supported by literature review updated in April 2021.\u00a0</p><p><br></p><p>1.9.\u00a0\u00a0\u00a0\u00a0The Subcommittee noted that the previously mentioned NICE guidelines for primary hyperparathyroidism in the UK and Wales (NICE, 2019) recommend cinacalcet be used for patients in whom surgery fails or is denied, to treat symptomatic patients with calcium over 2.85 mmol/L and patients with calcium levels of &gt;3.0 mmol/L with or without symptoms. Members noted that the NICE guidelines state that bisphosphonates should not be used for chronic hypercalcaemia of primary hyperparathyroidism.</p><p><br></p><p>1.10.\u00a0\u00a0\u00a0The Subcommittee considered that there is evidence of improved mortality from secondary hyperparathyroidism in patients on renal dialysis in particular, and that this comorbid population experiences high event rates and pathology-related mortality from hypercalcaemia and secondary hyperparathyroidism, due to the toxicity of the parathyroid hormone.\u00a0</p><p><br></p><p>1.11.\u00a0\u00a0\u00a0Overall, the Subcommittee considered that existing evidence for efficacy of cinacalcet in reducing serum calcium in primary hyperparathyroidism is robust. The Subcommittee considered the health benefit for hypercalcaemia is based on biochemical and end-organ endpoints after surgery (which the Subcommittee considered provides strong evidence), and that there is a lack of evidence for reduced mortality in the population with primary hypercalcaemia following treatment with cinacalcet.</p><p><br></p><p>1.12.\u00a0\u00a0\u00a0The Subcommittee considered that there was no new evidence of biochemical efficacy of cinacalcet in reducing serum calcium, although existing evidence for this is robust and that there was strong evidence for cinacalcet compared with surgery in normalising calcium levels (but not in reducing parathyroid hormone levels).\u00a0</p><p><br></p><p>Summary</p><p><br></p><p>1.13.\u00a0\u00a0\u00a0The Subcommittee considered that a reduction in calcium to less than 3.0 mmol/L was clinically meaningful and a critical outcome for the target group of patients with primary hyperparathyroidism, whereas that a reduction in parathyroid hormone was not the target outcome for this group.\u00a0</p><p><br></p><p>1.14.\u00a0\u00a0\u00a0The Subcommittee considered that it was reasonable to infer, based on the evidence of benefits (including reduction in mortality) from calcium level reduction (from surgery and from the use of cinacalcet in several hypercalcaemic states), that cinacalcet could result in clinically meaningful benefits from a calcium level reduction in people with primary hyperparathyroidism who are not deemed operable. The Subcommittee considered that, while there was limited evidence for the effect of cinacalcet on endpoints such as cardiovascular outcomes, fractures and mortality, it was reasonable to assume that a clinically significant reduction in calcium levels would be associated with improvement in these endpoints.</p><p><br></p><p>1.15.\u00a0\u00a0\u00a0The Subcommittee considered it reasonable for cinacalcet to be funded for people with primary hyperparathyroidism with severe hypercalcemia who are not deemed operable, and have no available alternative treatments. Members noted many such patients would experience neurocognitive effects from elevated calcium. The Subcommittee considered that if funded for this population, cinacalcet would be a chronic intervention to keep calcium low and that, if tolerated and effective in reducing calcium levels, treatment with cinacalcet could be lifelong, or otherwise treatment would be discontinued.\u00a0</p><p><br></p><p>1.16.\u00a0\u00a0\u00a0The Subcommittee noted that there was a lack of evidence to inform the frequency and management of interventions to manage acute symptomatic hypercalcaemia, which would incur clinical costs for close observation, monitoring and short-term management. The Subcommittee considered that data regarding quality of life, long-term complications and hospitalisations is not available within the published clinical trial evidence and would need to be obtained from authoritative guidelines and clinician advice.\u00a0</p><p><br></p><p><span style=\"color: black;\">1.17.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee considered that, if criteria were to be applied to target funding of cinacalcet to this population with primary hyperparathyroidism, all the following would need to be incorporated: hypercalcaemia of &gt;3 mmol/L with or without symptoms, or &gt;2.85 mmol/L with symptoms; the patient is not deemed operable, or surgery has failed or is contraindicated; and the patient has other comorbidities, severe bone pain, or calciphylaxis.</p>",
+          "fs": "<p>Discussion</p><p>1.1.\u00a0\u00a0\u00a0The Subcommittee considered that the target patient population is a subset of the population with primary hyperparathyroidism with hypercalcaemia; the target group is either unsuitable for surgery, have declined surgery or have not benefitted from surgery and have significant hypercalcaemia, defined as albumin-adjusted calcium &gt;3.0 mmol/L with or without symptoms of hypercalcaemia, or &gt;2.85 mmol/L with symptoms of hypercalcaemia (consistent with the definition used in the NICE guidelines for primary hyperparathyroidism in the UK and Wales; NICE, 2019). The Subcommittee noted the potential for minor variability in laboratory test values across the country but considered &gt;3.0 mmol/L and &gt;2.85 mmol/L to be reasonable thresholds for defining this population.\u00a0</p><p><br></p><p>1.2.\u00a0\u00a0The Subcommittee considered that these patients may present with a wide range of clinical manifestations non-specific to primary hyperparathyroidism itself (eg persistent hypercalcaemia, fracture, renal stones, hypercalciuria, osteoporosis), and may include a neurocognitive presentation with psychotic episodes occurring every few months. The Subcommittee noted that people with primary hypercalcaemia are also at risk of excess death from heart or lung causes. The Subcommittee considered that people with acute symptomatic hypercalcaemia may also require acute interventions for management.</p><p><br></p><p>1.3.\u00a0\u00a0The Subcommittee estimated that the target group may consist of 6-10 new patients per year nationwide, based on case numbers in Auckland and Christchurch. The Subcommittee considered that most of these patients would likely require treatment when aged in their 70s and 80s and therefore some annual mortality would also be expected, and a very small number of patients may require treatment for many years. The Subcommittee considered that an exceptional number of patients (less than one per year) with rare genetic syndromes might require treatment from a younger age. The Subcommittee considered a patient deemed as not being operable (ie not a candidate for surgery) would likely be considered non-operable for life.\u00a0</p><p><br></p><p>1.4.\u00a0\u00a0Members noted the surgical procedure is complex and, in some patients, may not be deemed feasible or suitable in the surgical or multi-disciplinary team\u2019s opinion (eg due to co-morbidities), or surgery may not be successful in achieving the intended clinical outcomes. In addition, the Subcommittee noted that not all patients may judge their proposed surgery to be beneficial when compared with its risks, and thus that informed consent may not be provided by these patients for anaesthesia and the surgical procedure itself.</p><p><br></p><p>1.5.\u00a0\u00a0The Subcommittee considered that there is a lack of evidence to inform whether primary hyperparathyroidism disproportionately affects M\u0101ori and Pacific peoples, although noted that these populations may experience greater comorbidity than non-M\u0101ori and non-Pacific people.</p><p><br></p><p>1.6.\u00a0\u00a0\u00a0\u00a0The Subcommittee noted that cinacalcet is taken orally and can be titrated to achieve a reduction in calcium levels to below 3.0 mmol/L and/or treatment of symptoms. The Subcommittee considered that there is evidence that elevated calcium levels are associated with symptoms, and that a reduction in calcium level is associated with symptom improvement. The Subcommittee considered the goal of treatment in this patient group is to reduce serum calcium levels to &lt;3.0 mmol/L (rather than reducing parathyroid hormone levels), as &lt;3.0 mmol/L is considered a \u2018safe\u2019 serum calcium level that reduces the risks of neurocognitive complications of hypercalcaemia, and of episodes of acute severe hypercalcemia.</p><p><br></p><p>1.7.\u00a0\u00a0\u00a0\u00a0The Subcommittee considered that new evidence to inform the assessment of cinacalcet in this primary hyperparathyroidism was limited, however, members were made aware of evidence from the following publications (of which, two include cinacalcet for parathyroidectomy non-candidates which referred to hypercalcaemia with unspecified severe symptoms):</p><p><br></p><p>1.7.1.\u00a0\u00a0\u00a0\u00a0\u00a0The Subcommittee noted an observational cohort study (audit) in Scotland of 2,598 surgical patients admitted with primary hyperparathyroidism (causes of secondary hyperparathyroidism being excluded) between 1986 to 2010 with data followed up until 2011 and including post-surgery outcomes for those who received parathyroidectomy (Collier et al. Endocr Pract. 2019;25:335-9). The Subcommittee noted that 78% of patients included were female, which the Subcommittee considered was a reasonable estimate of female prevalence in this disease.\u00a0</p><p><br></p><p>1.7.1.1.\u00a0\u00a0\u00a0The Subcommittee noted that after follow-up, 41% of the total cohort were deceased and the standardised mortality ratio compared with the general population was 1.58, but that 42% of patients did not have surgery (either they did not meet criteria, or for other reasons), and therefore considered this group was more conservatively treated group than those in New Zealand.\u00a0</p><p><br></p><p>1.7.1.2.\u00a0\u00a0\u00a0The Subcommittee noted that the raw standardised mortality ratio compared to the general population was 1.30 in patients who received surgery (58% of the cohort) and was 1.88 in patients who were treated conservatively; after adjustment for comorbidity, the latter reduced to 1.49 (95% CI: 1.30 to 1.70; P&lt;.0001). The Subcommittee considered the conservatively treated group was similar to the target New Zealand population for this indication. Based on this, the Subcommittee considered that hyperparathyroidism increases mortality compared with the general population; that surgery can reduce this mortality; and therefore, that it was reasonable to infer that cinacalcet may provide the same or similar benefit as surgery by reducing mortality by reducing serum calcium levels.</p><p><br></p><p>1.7.2.\u00a0\u00a0\u00a0\u00a0The Subcommittee was made aware of a systematic review and meta regression of cinacalcet in primary hyperparathyroidism (Ng et al. Endocr Connect. 2020;9:724-35) which included eight trials, none of which the Subcommittee considered provided new information as all had been considered by PTAC or PTAC Subcommittees previously. The Subcommittee noted that 90% of patients had normalisation of calcium levels and 10% had normalisation of parathyroid hormone, however, no other endpoints (eg quality of life) or outcomes for mortality and morbidity were discussed in the publication.\u00a0</p><p><br></p><p>1.7.3.\u00a0\u00a0\u00a0\u00a0The Subcommittee was made aware of an 8-year retrospective observational cohort study in Scotland of 611 patients with primary hyperparathyroidism seen in secondary care between 2006 and 2014, of which 337 patients did not receive surgery (Reid et al. J Clin Endocrinol Metab. 2019;104:3692-700). The Subcommittee noted that after an 8-year period of follow-up, the mortality rate was 16.0% (98/611) overall, with about 30% of deaths due to cancer and about 30% due to cardiovascular disease. The Subcommittee noted that 79 deaths were reported in the group who did not receive surgery. The Subcommittee noted associations between mortality and increasing age, social deprivation, and elevated adjusted calcium levels at diagnosis that were statistically significant, but no associations with parathyroid hormone levels at diagnosis. The Subcommittee considered that the study population was similar to the target New Zealand population for this indication and was the most representative evidence for the target New Zealand population. The Subcommittee considered it may not be feasible to do an appropriately powered intervention study in this population.\u00a0</p><p><br></p><p>1.7.4.\u00a0\u00a0\u00a0\u00a0The Subcommittee noted an observational cohort study derived from a random population sample of 750 50-year-old men in Sweden that described a 21 year follow up of men with primary hyperparathyroidism, and which did not show evidence for long term complications nor a mortality difference. The Subcommittee noted this study reported very wide confidence intervals (Kontogeorgos et al. Scand J Clin Lab Invest. 2020;80:6-13).\u00a0</p><p><br></p><p>1.8.\u00a0\u00a0\u00a0\u00a0The Subcommittee noted that UpToDate suggests cinacalcet be used for patients with symptomatic primary hyperparathyroidism who are unable to have surgery (whose primary indication for surgery is symptomatic and/or severe hypercalcemia), and that cinacalcet would be more appropriate than bisphosphonates where bone density is normal, as supported by literature review updated in April 2021.\u00a0</p><p><br></p><p>1.9.\u00a0\u00a0\u00a0\u00a0The Subcommittee noted that the previously mentioned NICE guidelines for primary hyperparathyroidism in the UK and Wales (NICE, 2019) recommend cinacalcet be used for patients in whom surgery fails or is denied, to treat symptomatic patients with calcium over 2.85 mmol/L and patients with calcium levels of &gt;3.0 mmol/L with or without symptoms. Members noted that the NICE guidelines state that bisphosphonates should not be used for chronic hypercalcaemia of primary hyperparathyroidism.</p><p><br></p><p>1.10.\u00a0\u00a0\u00a0The Subcommittee considered that there is evidence of improved mortality from secondary hyperparathyroidism in patients on renal dialysis in particular, and that this comorbid population experiences high event rates and pathology-related mortality from hypercalcaemia and secondary hyperparathyroidism, due to the toxicity of the parathyroid hormone.\u00a0</p><p><br></p><p>1.11.\u00a0\u00a0\u00a0Overall, the Subcommittee considered that existing evidence for efficacy of cinacalcet in reducing serum calcium in primary hyperparathyroidism is robust. The Subcommittee considered the health benefit for hypercalcaemia is based on biochemical and end-organ endpoints after surgery (which the Subcommittee considered provides strong evidence), and that there is a lack of evidence for reduced mortality in the population with primary hypercalcaemia following treatment with cinacalcet.</p><p><br></p><p>1.12.\u00a0\u00a0\u00a0The Subcommittee considered that there was no new evidence of biochemical efficacy of cinacalcet in reducing serum calcium, although existing evidence for this is robust and that there was strong evidence for cinacalcet compared with surgery in normalising calcium levels (but not in reducing parathyroid hormone levels).\u00a0</p><p><br></p><p>Summary</p><p><br></p><p>1.13.\u00a0\u00a0\u00a0The Subcommittee considered that a reduction in calcium to less than 3.0 mmol/L was clinically meaningful and a critical outcome for the target group of patients with primary hyperparathyroidism, whereas that a reduction in parathyroid hormone was not the target outcome for this group.\u00a0</p><p><br></p><p>1.14.\u00a0\u00a0\u00a0The Subcommittee considered that it was reasonable to infer, based on the evidence of benefits (including reduction in mortality) from calcium level reduction (from surgery and from the use of cinacalcet in several hypercalcaemic states), that cinacalcet could result in clinically meaningful benefits from a calcium level reduction in people with primary hyperparathyroidism who are not deemed operable. The Subcommittee considered that, while there was limited evidence for the effect of cinacalcet on endpoints such as cardiovascular outcomes, fractures and mortality, it was reasonable to assume that a clinically significant reduction in calcium levels would be associated with improvement in these endpoints.</p><p><br></p><p>1.15.\u00a0\u00a0\u00a0The Subcommittee considered it reasonable for cinacalcet to be funded for people with primary hyperparathyroidism with severe hypercalcemia who are not deemed operable, and have no available alternative treatments. Members noted many such patients would experience neurocognitive effects from elevated calcium. The Subcommittee considered that if funded for this population, cinacalcet would be a chronic intervention to keep calcium low and that, if tolerated and effective in reducing calcium levels, treatment with cinacalcet could be lifelong, or otherwise treatment would be discontinued.\u00a0</p><p><br></p><p>1.16.\u00a0\u00a0\u00a0The Subcommittee noted that there was a lack of evidence to inform the frequency and management of interventions to manage acute symptomatic hypercalcaemia, which would incur clinical costs for close observation, monitoring and short-term management. The Subcommittee considered that data regarding quality of life, long-term complications and hospitalisations is not available within the published clinical trial evidence and would need to be obtained from authoritative guidelines and clinician advice.\u00a0</p><p><br></p><p><span style=\"color: black;\">1.17.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee considered that, if criteria were to be applied to target funding of cinacalcet to this population with primary hyperparathyroidism, all the following would need to be incorporated: hypercalcaemia of &gt;3 mmol/L with or without symptoms, or &gt;2.85 mmol/L with symptoms; the patient is not deemed operable, or surgery has failed or is contraindicated; and the patient has other comorbidities, severe bone pain, or calciphylaxis.</p>",
+          "change": null
+        },
+        "Published_Application": {
+          "s": "<h2><b>Background</b></h2><p><span style=\"color: black;\">1.1.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that clinical advice regarding cinacalcet for the treatment of hyperparathyroidism has been sought from PTAC and PTAC Subcommittees on many occasions from 2008 to 2016 (refer to the PHARMAC <a href=\"https://connect.pharmac.govt.nz/apptracker/s/application-public/a102P000008ptsL/p000137\" target=\"_blank\">Application Tracker</a> for full information).</p><p><br></p><p><span style=\"color: black;\">1.2.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that there was a history of Exceptional Circumstances (EC) applications, and subsequently, Named Patient Pharmaceutical Assessments (NPPA) applications for cinacalcet for hyperparathyroidism, including primary hyperparathyroidism. The Subcommittee noted that, by 2015, PHARMAC staff had developed decision maker-approved criteria to guide their assessment of cinacalcet NPPA applications and that the volume of cinacalcet NPPA applications led PHARMAC to previously seek clinical advice to inform its consideration of a Pharmaceutical Schedule listing for cinacalcet.</p><p><br></p><p><span style=\"color: black;\">1.3.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that the most recent advice from <a href=\"https://www.pharmac.govt.nz/assets/ptac-minutes-2016-05.pdf\" target=\"_blank\">PTAC in May 2016</a> recommended that funding of cinacalcet in the Pharmaceutical Schedule for patients with non-malignant primary hyperparathyroidism with symptomatic hypercalcaemia contraindicated to surgery, or where previous surgery has been unsuccessful, be declined. At that time, PTAC considered that insufficient new evidence had been provided to support a positive funding recommendation, and PTAC had considered that it was not appropriate to extrapolate the evidence in patients with parathyroid carcinoma, as this was a different disease.</p><p><br></p><p><span style=\"color: black;\">1.4.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that clinically there is a strong desire for cinacalcet to be funded for the treatment of primary hyperparathyroidism in this patient group despite the lack of direct evidence of its effect on mortality and morbidity. The Subcommittee noted that PHARMAC had requested additional advice to help it assess and determine the next best steps for cinacalcet for the treatment of primary hyperparathyroidism.\u00a0</p>",
+          "fs": "<h2><b>Background</b></h2><p><span style=\"color: black;\">1.1.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that clinical advice regarding cinacalcet for the treatment of hyperparathyroidism has been sought from PTAC and PTAC Subcommittees on many occasions from 2008 to 2016 (refer to the PHARMAC <a href=\"https://connect.pharmac.govt.nz/apptracker/s/application-public/a102P000008ptsL/p000137\" target=\"_blank\">Application Tracker</a> for full information).</p><p><br></p><p><span style=\"color: black;\">1.2.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that there was a history of Exceptional Circumstances (EC) applications, and subsequently, Named Patient Pharmaceutical Assessments (NPPA) applications for cinacalcet for hyperparathyroidism, including primary hyperparathyroidism. The Subcommittee noted that, by 2015, PHARMAC staff had developed decision maker-approved criteria to guide their assessment of cinacalcet NPPA applications and that the volume of cinacalcet NPPA applications led PHARMAC to previously seek clinical advice to inform its consideration of a Pharmaceutical Schedule listing for cinacalcet.</p><p><br></p><p><span style=\"color: black;\">1.3.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that the most recent advice from <a href=\"https://www.pharmac.govt.nz/assets/ptac-minutes-2016-05.pdf\" target=\"_blank\">PTAC in May 2016</a> recommended that funding of cinacalcet in the Pharmaceutical Schedule for patients with non-malignant primary hyperparathyroidism with symptomatic hypercalcaemia contraindicated to surgery, or where previous surgery has been unsuccessful, be declined. At that time, PTAC considered that insufficient new evidence had been provided to support a positive funding recommendation, and PTAC had considered that it was not appropriate to extrapolate the evidence in patients with parathyroid carcinoma, as this was a different disease.</p><p><br></p><p><span style=\"color: black;\">1.4.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that clinically there is a strong desire for cinacalcet to be funded for the treatment of primary hyperparathyroidism in this patient group despite the lack of direct evidence of its effect on mortality and morbidity. The Subcommittee noted that PHARMAC had requested additional advice to help it assess and determine the next best steps for cinacalcet for the treatment of primary hyperparathyroidism.\u00a0</p>",
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": "<p><a href=\"https://pharmac.govt.nz/assets/2021-03-30-Endocrinology-Subcommittee-Records-Web-Version.pdf\" target=\"_blank\">Endocrinology Subcommittee Records</a></p>",
+          "fs": "<p><a href=\"https://pharmac.govt.nz/assets/2021-03-30-Endocrinology-Subcommittee-Records-Web-Version.pdf\" target=\"_blank\">Endocrinology Subcommittee Records</a></p>",
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Jun 2021",
+          "fs": "Jun 2021",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Clinical advice received from Endocrinology Subcommittee at meeting Tuesday 30 March 2021.",
+          "fs": "Clinical advice received from Endocrinology Subcommittee at meeting Tuesday 30 March 2021.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P000006pnQfUAI"
+          },
+          "Id": "a0P2P000006pnQfUAI",
+          "Event_Date__c": "2021-06-28",
+          "Event_Description__c": "Clinical advice received from Endocrinology Subcommittee at meeting Tuesday 30 March 2021.",
+          "Stage__c": "Seeking Clinical Advice",
+          "Links__c": "<p><a href=\"https://pharmac.govt.nz/assets/2021-03-30-Endocrinology-Subcommittee-Records-Web-Version.pdf\" target=\"_blank\">Endocrinology Subcommittee Records</a></p>",
+          "Formatted_Date__c": "Jun 2021",
+          "Published_Application__c": "<h2><b>Background</b></h2><p><span style=\"color: black;\">1.1.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that clinical advice regarding cinacalcet for the treatment of hyperparathyroidism has been sought from PTAC and PTAC Subcommittees on many occasions from 2008 to 2016 (refer to the PHARMAC <a href=\"https://connect.pharmac.govt.nz/apptracker/s/application-public/a102P000008ptsL/p000137\" target=\"_blank\">Application Tracker</a> for full information).</p><p><br></p><p><span style=\"color: black;\">1.2.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that there was a history of Exceptional Circumstances (EC) applications, and subsequently, Named Patient Pharmaceutical Assessments (NPPA) applications for cinacalcet for hyperparathyroidism, including primary hyperparathyroidism. The Subcommittee noted that, by 2015, PHARMAC staff had developed decision maker-approved criteria to guide their assessment of cinacalcet NPPA applications and that the volume of cinacalcet NPPA applications led PHARMAC to previously seek clinical advice to inform its consideration of a Pharmaceutical Schedule listing for cinacalcet.</p><p><br></p><p><span style=\"color: black;\">1.3.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that the most recent advice from <a href=\"https://www.pharmac.govt.nz/assets/ptac-minutes-2016-05.pdf\" target=\"_blank\">PTAC in May 2016</a> recommended that funding of cinacalcet in the Pharmaceutical Schedule for patients with non-malignant primary hyperparathyroidism with symptomatic hypercalcaemia contraindicated to surgery, or where previous surgery has been unsuccessful, be declined. At that time, PTAC considered that insufficient new evidence had been provided to support a positive funding recommendation, and PTAC had considered that it was not appropriate to extrapolate the evidence in patients with parathyroid carcinoma, as this was a different disease.</p><p><br></p><p><span style=\"color: black;\">1.4.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that clinically there is a strong desire for cinacalcet to be funded for the treatment of primary hyperparathyroidism in this patient group despite the lack of direct evidence of its effect on mortality and morbidity. The Subcommittee noted that PHARMAC had requested additional advice to help it assess and determine the next best steps for cinacalcet for the treatment of primary hyperparathyroidism.\u00a0</p>",
+          "Published_Discussion__c": "<p>Discussion</p><p>1.1.\u00a0\u00a0\u00a0The Subcommittee considered that the target patient population is a subset of the population with primary hyperparathyroidism with hypercalcaemia; the target group is either unsuitable for surgery, have declined surgery or have not benefitted from surgery and have significant hypercalcaemia, defined as albumin-adjusted calcium &gt;3.0 mmol/L with or without symptoms of hypercalcaemia, or &gt;2.85 mmol/L with symptoms of hypercalcaemia (consistent with the definition used in the NICE guidelines for primary hyperparathyroidism in the UK and Wales; NICE, 2019). The Subcommittee noted the potential for minor variability in laboratory test values across the country but considered &gt;3.0 mmol/L and &gt;2.85 mmol/L to be reasonable thresholds for defining this population.\u00a0</p><p><br></p><p>1.2.\u00a0\u00a0The Subcommittee considered that these patients may present with a wide range of clinical manifestations non-specific to primary hyperparathyroidism itself (eg persistent hypercalcaemia, fracture, renal stones, hypercalciuria, osteoporosis), and may include a neurocognitive presentation with psychotic episodes occurring every few months. The Subcommittee noted that people with primary hypercalcaemia are also at risk of excess death from heart or lung causes. The Subcommittee considered that people with acute symptomatic hypercalcaemia may also require acute interventions for management.</p><p><br></p><p>1.3.\u00a0\u00a0The Subcommittee estimated that the target group may consist of 6-10 new patients per year nationwide, based on case numbers in Auckland and Christchurch. The Subcommittee considered that most of these patients would likely require treatment when aged in their 70s and 80s and therefore some annual mortality would also be expected, and a very small number of patients may require treatment for many years. The Subcommittee considered that an exceptional number of patients (less than one per year) with rare genetic syndromes might require treatment from a younger age. The Subcommittee considered a patient deemed as not being operable (ie not a candidate for surgery) would likely be considered non-operable for life.\u00a0</p><p><br></p><p>1.4.\u00a0\u00a0Members noted the surgical procedure is complex and, in some patients, may not be deemed feasible or suitable in the surgical or multi-disciplinary team\u2019s opinion (eg due to co-morbidities), or surgery may not be successful in achieving the intended clinical outcomes. In addition, the Subcommittee noted that not all patients may judge their proposed surgery to be beneficial when compared with its risks, and thus that informed consent may not be provided by these patients for anaesthesia and the surgical procedure itself.</p><p><br></p><p>1.5.\u00a0\u00a0The Subcommittee considered that there is a lack of evidence to inform whether primary hyperparathyroidism disproportionately affects M\u0101ori and Pacific peoples, although noted that these populations may experience greater comorbidity than non-M\u0101ori and non-Pacific people.</p><p><br></p><p>1.6.\u00a0\u00a0\u00a0\u00a0The Subcommittee noted that cinacalcet is taken orally and can be titrated to achieve a reduction in calcium levels to below 3.0 mmol/L and/or treatment of symptoms. The Subcommittee considered that there is evidence that elevated calcium levels are associated with symptoms, and that a reduction in calcium level is associated with symptom improvement. The Subcommittee considered the goal of treatment in this patient group is to reduce serum calcium levels to &lt;3.0 mmol/L (rather than reducing parathyroid hormone levels), as &lt;3.0 mmol/L is considered a \u2018safe\u2019 serum calcium level that reduces the risks of neurocognitive complications of hypercalcaemia, and of episodes of acute severe hypercalcemia.</p><p><br></p><p>1.7.\u00a0\u00a0\u00a0\u00a0The Subcommittee considered that new evidence to inform the assessment of cinacalcet in this primary hyperparathyroidism was limited, however, members were made aware of evidence from the following publications (of which, two include cinacalcet for parathyroidectomy non-candidates which referred to hypercalcaemia with unspecified severe symptoms):</p><p><br></p><p>1.7.1.\u00a0\u00a0\u00a0\u00a0\u00a0The Subcommittee noted an observational cohort study (audit) in Scotland of 2,598 surgical patients admitted with primary hyperparathyroidism (causes of secondary hyperparathyroidism being excluded) between 1986 to 2010 with data followed up until 2011 and including post-surgery outcomes for those who received parathyroidectomy (Collier et al. Endocr Pract. 2019;25:335-9). The Subcommittee noted that 78% of patients included were female, which the Subcommittee considered was a reasonable estimate of female prevalence in this disease.\u00a0</p><p><br></p><p>1.7.1.1.\u00a0\u00a0\u00a0The Subcommittee noted that after follow-up, 41% of the total cohort were deceased and the standardised mortality ratio compared with the general population was 1.58, but that 42% of patients did not have surgery (either they did not meet criteria, or for other reasons), and therefore considered this group was more conservatively treated group than those in New Zealand.\u00a0</p><p><br></p><p>1.7.1.2.\u00a0\u00a0\u00a0The Subcommittee noted that the raw standardised mortality ratio compared to the general population was 1.30 in patients who received surgery (58% of the cohort) and was 1.88 in patients who were treated conservatively; after adjustment for comorbidity, the latter reduced to 1.49 (95% CI: 1.30 to 1.70; P&lt;.0001). The Subcommittee considered the conservatively treated group was similar to the target New Zealand population for this indication. Based on this, the Subcommittee considered that hyperparathyroidism increases mortality compared with the general population; that surgery can reduce this mortality; and therefore, that it was reasonable to infer that cinacalcet may provide the same or similar benefit as surgery by reducing mortality by reducing serum calcium levels.</p><p><br></p><p>1.7.2.\u00a0\u00a0\u00a0\u00a0The Subcommittee was made aware of a systematic review and meta regression of cinacalcet in primary hyperparathyroidism (Ng et al. Endocr Connect. 2020;9:724-35) which included eight trials, none of which the Subcommittee considered provided new information as all had been considered by PTAC or PTAC Subcommittees previously. The Subcommittee noted that 90% of patients had normalisation of calcium levels and 10% had normalisation of parathyroid hormone, however, no other endpoints (eg quality of life) or outcomes for mortality and morbidity were discussed in the publication.\u00a0</p><p><br></p><p>1.7.3.\u00a0\u00a0\u00a0\u00a0The Subcommittee was made aware of an 8-year retrospective observational cohort study in Scotland of 611 patients with primary hyperparathyroidism seen in secondary care between 2006 and 2014, of which 337 patients did not receive surgery (Reid et al. J Clin Endocrinol Metab. 2019;104:3692-700). The Subcommittee noted that after an 8-year period of follow-up, the mortality rate was 16.0% (98/611) overall, with about 30% of deaths due to cancer and about 30% due to cardiovascular disease. The Subcommittee noted that 79 deaths were reported in the group who did not receive surgery. The Subcommittee noted associations between mortality and increasing age, social deprivation, and elevated adjusted calcium levels at diagnosis that were statistically significant, but no associations with parathyroid hormone levels at diagnosis. The Subcommittee considered that the study population was similar to the target New Zealand population for this indication and was the most representative evidence for the target New Zealand population. The Subcommittee considered it may not be feasible to do an appropriately powered intervention study in this population.\u00a0</p><p><br></p><p>1.7.4.\u00a0\u00a0\u00a0\u00a0The Subcommittee noted an observational cohort study derived from a random population sample of 750 50-year-old men in Sweden that described a 21 year follow up of men with primary hyperparathyroidism, and which did not show evidence for long term complications nor a mortality difference. The Subcommittee noted this study reported very wide confidence intervals (Kontogeorgos et al. Scand J Clin Lab Invest. 2020;80:6-13).\u00a0</p><p><br></p><p>1.8.\u00a0\u00a0\u00a0\u00a0The Subcommittee noted that UpToDate suggests cinacalcet be used for patients with symptomatic primary hyperparathyroidism who are unable to have surgery (whose primary indication for surgery is symptomatic and/or severe hypercalcemia), and that cinacalcet would be more appropriate than bisphosphonates where bone density is normal, as supported by literature review updated in April 2021.\u00a0</p><p><br></p><p>1.9.\u00a0\u00a0\u00a0\u00a0The Subcommittee noted that the previously mentioned NICE guidelines for primary hyperparathyroidism in the UK and Wales (NICE, 2019) recommend cinacalcet be used for patients in whom surgery fails or is denied, to treat symptomatic patients with calcium over 2.85 mmol/L and patients with calcium levels of &gt;3.0 mmol/L with or without symptoms. Members noted that the NICE guidelines state that bisphosphonates should not be used for chronic hypercalcaemia of primary hyperparathyroidism.</p><p><br></p><p>1.10.\u00a0\u00a0\u00a0The Subcommittee considered that there is evidence of improved mortality from secondary hyperparathyroidism in patients on renal dialysis in particular, and that this comorbid population experiences high event rates and pathology-related mortality from hypercalcaemia and secondary hyperparathyroidism, due to the toxicity of the parathyroid hormone.\u00a0</p><p><br></p><p>1.11.\u00a0\u00a0\u00a0Overall, the Subcommittee considered that existing evidence for efficacy of cinacalcet in reducing serum calcium in primary hyperparathyroidism is robust. The Subcommittee considered the health benefit for hypercalcaemia is based on biochemical and end-organ endpoints after surgery (which the Subcommittee considered provides strong evidence), and that there is a lack of evidence for reduced mortality in the population with primary hypercalcaemia following treatment with cinacalcet.</p><p><br></p><p>1.12.\u00a0\u00a0\u00a0The Subcommittee considered that there was no new evidence of biochemical efficacy of cinacalcet in reducing serum calcium, although existing evidence for this is robust and that there was strong evidence for cinacalcet compared with surgery in normalising calcium levels (but not in reducing parathyroid hormone levels).\u00a0</p><p><br></p><p>Summary</p><p><br></p><p>1.13.\u00a0\u00a0\u00a0The Subcommittee considered that a reduction in calcium to less than 3.0 mmol/L was clinically meaningful and a critical outcome for the target group of patients with primary hyperparathyroidism, whereas that a reduction in parathyroid hormone was not the target outcome for this group.\u00a0</p><p><br></p><p>1.14.\u00a0\u00a0\u00a0The Subcommittee considered that it was reasonable to infer, based on the evidence of benefits (including reduction in mortality) from calcium level reduction (from surgery and from the use of cinacalcet in several hypercalcaemic states), that cinacalcet could result in clinically meaningful benefits from a calcium level reduction in people with primary hyperparathyroidism who are not deemed operable. The Subcommittee considered that, while there was limited evidence for the effect of cinacalcet on endpoints such as cardiovascular outcomes, fractures and mortality, it was reasonable to assume that a clinically significant reduction in calcium levels would be associated with improvement in these endpoints.</p><p><br></p><p>1.15.\u00a0\u00a0\u00a0The Subcommittee considered it reasonable for cinacalcet to be funded for people with primary hyperparathyroidism with severe hypercalcemia who are not deemed operable, and have no available alternative treatments. Members noted many such patients would experience neurocognitive effects from elevated calcium. The Subcommittee considered that if funded for this population, cinacalcet would be a chronic intervention to keep calcium low and that, if tolerated and effective in reducing calcium levels, treatment with cinacalcet could be lifelong, or otherwise treatment would be discontinued.\u00a0</p><p><br></p><p>1.16.\u00a0\u00a0\u00a0The Subcommittee noted that there was a lack of evidence to inform the frequency and management of interventions to manage acute symptomatic hypercalcaemia, which would incur clinical costs for close observation, monitoring and short-term management. The Subcommittee considered that data regarding quality of life, long-term complications and hospitalisations is not available within the published clinical trial evidence and would need to be obtained from authoritative guidelines and clinician advice.\u00a0</p><p><br></p><p><span style=\"color: black;\">1.17.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee considered that, if criteria were to be applied to target funding of cinacalcet to this population with primary hyperparathyroidism, all the following would need to be incorporated: hypercalcaemia of &gt;3 mmol/L with or without symptoms, or &gt;2.85 mmol/L with symptoms; the patient is not deemed operable, or surgery has failed or is contraindicated; and the patient has other comorbidities, severe bone pain, or calciphylaxis.</p>",
+          "Status_History__c": "a132P000000D5bVQAS"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": "<p>1.1.<span style=\"font-size: 7pt;\">\u00a0</span>The Committee <b>recommended</b> that cinacalcet for primary hyperparathyroidism be funded with a <b>medium priority </b>subject<b> </b>to the following Special Authority criteria:</p><p class=\"ql-indent-1\"><b style=\"font-size: 9pt;\">CINACALCET</b></p><p class=\"ql-indent-1\"><b style=\"font-size: 9pt;\">Initial application - (primary hyperparathyroidism)</b><span style=\"font-size: 9pt;\"> from any relevant specialist. Applications valid without further renewal for applications meeting the following criteria:</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 9pt;\">All of the following:</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 9pt;\">1.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Patient has primary hyperparathyroidism; and</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 9pt;\">2.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Either:</span></p><p class=\"ql-indent-2\"><span style=\"font-size: 9pt;\">2.1.</span><span style=\"font-size: 7pt;\">\u00a0</span><span style=\"font-size: 9pt;\">Patient has hypercalcaemia of &gt;3 mmol/L with or without symptoms; or </span></p><p class=\"ql-indent-2\"><span style=\"font-size: 9pt;\">2.2.</span><span style=\"font-size: 7pt;\">\u00a0</span><span style=\"font-size: 9pt;\">Patient has hypercalcaemia of &gt;2.85 mmol/L with symptoms; and</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 9pt;\">3.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Patient is not deemed operable, or surgery has failed, or surgery is contraindicated; and </span></p><p class=\"ql-indent-1\"><span style=\"font-size: 9pt;\">4.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Patient has other comorbidities, severe bone pain, or calciphylaxis.</span></p><p>1.2.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>In making this recommendation, the Committee considered:</p><p class=\"ql-indent-2\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The high health need of people with hypercalcaemia with or without symptoms who are not candidates for surgery and the lack of available treatments for this patient group</p><p class=\"ql-indent-2\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>That there remained concerns regarding the indirect evidence of benefit from cinacalcet that uses surrogate outcome measures, but that a reduction in serum calcium from cinacalcet should translate into a reduction in hospitalisations (for treatment of symptomatic hypercalcaemia and its complications) and an improvement in quality of life</p><p class=\"ql-indent-2\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The uncertainty around patient numbers for the target group</p><p class=\"ql-indent-2\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The side effect profile of cinacalcet.</p>",
+          "fs": "<p>1.1.<span style=\"font-size: 7pt;\">\u00a0</span>The Committee <b>recommended</b> that cinacalcet for primary hyperparathyroidism be funded with a <b>medium priority </b>subject<b> </b>to the following Special Authority criteria:</p><p class=\"ql-indent-1\"><b style=\"font-size: 9pt;\">CINACALCET</b></p><p class=\"ql-indent-1\"><b style=\"font-size: 9pt;\">Initial application - (primary hyperparathyroidism)</b><span style=\"font-size: 9pt;\"> from any relevant specialist. Applications valid without further renewal for applications meeting the following criteria:</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 9pt;\">All of the following:</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 9pt;\">1.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Patient has primary hyperparathyroidism; and</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 9pt;\">2.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Either:</span></p><p class=\"ql-indent-2\"><span style=\"font-size: 9pt;\">2.1.</span><span style=\"font-size: 7pt;\">\u00a0</span><span style=\"font-size: 9pt;\">Patient has hypercalcaemia of &gt;3 mmol/L with or without symptoms; or </span></p><p class=\"ql-indent-2\"><span style=\"font-size: 9pt;\">2.2.</span><span style=\"font-size: 7pt;\">\u00a0</span><span style=\"font-size: 9pt;\">Patient has hypercalcaemia of &gt;2.85 mmol/L with symptoms; and</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 9pt;\">3.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Patient is not deemed operable, or surgery has failed, or surgery is contraindicated; and </span></p><p class=\"ql-indent-1\"><span style=\"font-size: 9pt;\">4.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Patient has other comorbidities, severe bone pain, or calciphylaxis.</span></p><p>1.2.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>In making this recommendation, the Committee considered:</p><p class=\"ql-indent-2\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The high health need of people with hypercalcaemia with or without symptoms who are not candidates for surgery and the lack of available treatments for this patient group</p><p class=\"ql-indent-2\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>That there remained concerns regarding the indirect evidence of benefit from cinacalcet that uses surrogate outcome measures, but that a reduction in serum calcium from cinacalcet should translate into a reduction in hospitalisations (for treatment of symptomatic hypercalcaemia and its complications) and an improvement in quality of life</p><p class=\"ql-indent-2\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The uncertainty around patient numbers for the target group</p><p class=\"ql-indent-2\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The side effect profile of cinacalcet.</p>",
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": "<p><b>Background</b></p><p>1.1.<span style=\"font-size: 7pt;\">\u00a0</span>The Committee noted the long history of clinical advice regarding cinacalcet for hyperparathyroidism from the Endocrinology Subcommittee, the Nephrology Subcommittee and PTAC, described on the Pharmac Application Tracker items for <a href=\"https://connect.pharmac.govt.nz/apptracker/s/application-public/a102P000008ptsL/p000137\" target=\"_blank\">primary hyperparathyroidism</a>, <a href=\"https://connect.pharmac.govt.nz/apptracker/s/application-public/a102P000008puCp/p000744\" target=\"_blank\">secondary hyperparathyroidism</a> and <a href=\"https://connect.pharmac.govt.nz/apptracker/s/application-public/a102P000008puPm/p000985\" target=\"_blank\">tertiary hyperparathyroidism</a>. The Committee noted the following in particular:</p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>In <a href=\"https://www.pharmac.govt.nz/assets/ptac-minutes-2008-07.pdf\" target=\"_blank\">July 2008</a>, PTAC had recommended that hyperparathyroidism (any cause) be declined for listing in the Pharmaceutical Schedule</p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>In <a href=\"https://pharmac.govt.nz/assets/ptac-endocrinology-subcommittee-minutes-2014-06-17.pdf\" target=\"_blank\">June 2014</a>, the Endocrinology Subcommittee noted a recommendation from the New Zealand Society of Endocrinology to fund cinacalcet for patients with primary hyperparathyroidism who have significant/symptomatic hypercalcaemia (&gt;3mmol/L) and cannot be treated surgically</p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>In <a href=\"https://pharmac.govt.nz/assets/ptac-nephrology-subcommittee-minutes-2014-12.pdf\" target=\"_blank\">December 2014</a> the Nephrology Subcommittee\u00a0recommended cinacalcet for listing in the Pharmaceutical Schedule for secondary and tertiary hyperparathyroidism with calciphylaxis with a medium priority </p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol; font-size: 11pt;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 11pt;\">In May 2016, cinacalcet was listed on the Pharmaceutical Schedule for </span><a href=\"https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/notification-of-decision-to-fund-cinacalcet-sensipar-for-parathyroid-carcinoma-and-calciphylaxis/\" target=\"_blank\" style=\"font-size: 11pt;\">patients with parathyroid carcinoma and symptomatic calciphylaxis,</a><span style=\"font-size: 11pt;\"> subject to </span><a href=\"https://schedule.pharmac.govt.nz/2021/03/01/SA1618.pdf\" target=\"_blank\" style=\"font-size: 11pt;\">Special Authority criteria</a></p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>In <a href=\"https://pharmac.govt.nz/assets/ptac-nephrology-subcommitee-minutes-2016-12.pdf\" target=\"_blank\">December 2016</a>, the Nephrology Subcommittee reiterated its previous recommendation with regards to proposed Special Authority criteria for cinacalcet for secondary and tertiary hyperparathyroidism</p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>In <a href=\"https://pharmac.govt.nz/assets/ptac-nephrology-subcommittee-minutes-2018-03.pdf\" target=\"_blank\">March 2018</a>, the Nephrology Subcommittee considered that access to cinacalcet should be widened to include patients with hyperparathyroidism and kidney disease subject to clinical criteria</p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>In <a href=\"https://pharmac.govt.nz/assets/2021-03-30-Endocrinology-Subcommittee-Records-Web-Version.pdf\" target=\"_blank\">March 2021</a>, the Endocrinology Subcommittee considered it was reasonable for cinacalcet to be funded for people with primary hyperparathyroidism with severe hypercalcemia who are not deemed operable, and have no available alternative treatments; that a reduction in calcium to less than 3.0 mmol/L was clinically meaningful and a critical outcome for the target group of patients; and that it was reasonable to infer, based on the evidence of benefits (including reduction in mortality) from calcium level reduction (from surgery and from the use of cinacalcet in several hypercalcaemic states), that cinacalcet could result in clinically meaningful benefits from a calcium level reduction in people with primary hyperparathyroidism who are not deemed operable.</p><p>1.2.<span style=\"font-size: 7pt;\">\u00a0</span>The Committee noted that cinacalcet is a modulator of the calcium sensing receptor. It decreases parathyroid hormone levels by increasing the receptor sensitivity to extracellular calcium. The Committee noted that cinacalcet is approved by Medsafe to treat:</p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>the biochemical manifestations of secondary hyperparathyroidism in adult patients with end stage renal disease, receiving dialysis as adjunctive therapy</p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>hypercalcaemia in adult patients with parathyroid carcinoma</p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>primary hyperparathyroidism in adult patients for whom parathyroidectomy is not a treatment option. </p><p>1.3.<span style=\"font-size: 7pt;\">\u00a0</span>The Committee noted that cinacalcet has long been included within international treatment guidelines and considered no new primary evidence to be available since past reviews of these proposals by the Subcommittees. The Committee considered that the existing clinical trial evidence had been used extensively in meta-analyses and noted that some new meta-analyses and registry descriptive data had been identified. </p><p>1.4.<span style=\"font-size: 7pt;\">\u00a0</span>The Committee considered that for primary hyperparathyroidism, the estimated number of patients who require hospital care was uncertain and that there was a lack of agreement in the estimates of benefit across outcome measures. The Committee considered similarly that for secondary and tertiary hyperparathyroidism there was also a lack of agreement in the estimates of benefit across outcome measures.</p><p><br></p><p><b>Primary hyperparathyroidism</b></p><p><br></p><p>1.5.<span style=\"font-size: 7pt;\">\u00a0</span>The Committee noted that primary hyperparathyroidism is caused by over-activity of one or more parathyroid glands and can be caused by carcinoma, adenoma or hyperplasia. The Committee considered that patients with primary hyperparathyroidism can have a high health need due to hypercalcaemia and that symptomatic hypercalcaemia can cause symptoms such as cognitive impairment, and mobility disorders, which can significantly affect older adults.</p><p>1.6.<span style=\"font-size: 7pt;\">\u00a0</span>The Committee noted there is a clear consensus that surgical parathyroidectomy is preferred for optimal management of primary hyperparathyroidism, offering a high rate of cure, with minimally invasive surgery with low rates of complications. The Committee considered that most patients would consent to this surgery and that very few patients with primary hyperparathyroidism would be deemed unsuitable for surgery. The Committee considered patients may be deemed unsuitable because surgery is not recommended or feasible e.g. due to anaesthesia concerns or in patients for whom surgery is challenging due to neck size. The Committee considered that M\u0101ori and Pacific peoples may be more likely to have surgical contraindications and therefore not receive surgical treatment.</p><p>1.7.<span style=\"font-size: 7pt;\">\u00a0</span>The Committee noted that the Endocrinology Subcommittee had defined a group of people with primary hyperparathyroidism with severe hypercalcemia who are not deemed operable for whom funded treatment with cinacalcet would be appropriate and that Pharmac staff proposed Special Authority criteria to target this group. The Committee considered that this target group would include the small number of patients who met surgical criteria but were not suitable for, or did not consent to, surgery.</p><p>1.8.<span style=\"font-size: 7pt;\">\u00a0</span>The Committee noted the Endocrinology Subcommittee\u2019s conclusions regarding the efficacy of cinacalcet for primary hyperparathyroidism in <a href=\"https://pharmac.govt.nz/assets/2021-03-30-Endocrinology-Subcommittee-Records-Web-Version.pdf\" target=\"_blank\">March 2021 (meeting record paragraphs 9.14 to 9.20)</a> following the Subcommittee\u2019s consideration of evidence from Collier et al. (<a href=\"https://linkinghub.elsevier.com/retrieve/pii/S1530-891X(20)35866-3\" target=\"_blank\">Endocr Pract. 2019;25:335-9</a>), Ng et al. (<a href=\"https://ec.bioscientifica.com/view/journals/ec/9/7/EC-20-0221.xml\" target=\"_blank\">Endocr Connect. 2020;9:724-35</a>), Reid et al. (<a href=\"https://academic.oup.com/jcem/article-lookup/doi/10.1210/jc.2018-02483\" target=\"_blank\">J Clin Endocrinol Metab. 2019;104:3692-700)</a> and Kontogeorgos et al. (<a href=\"https://www.tandfonline.com/doi/full/10.1080/00365513.2019.1683763\" target=\"_blank\">Scand J Clin Lab Invest. 2020;80:6-13</a>). PTAC members noted that in one meta-analysis (Ng et al. 2020), the aggregate incidence of nausea or vomiting with cinacalcet was 23%, and members considered that cinacalcet treatment could cause detrimental effects. However, members noted that there was randomised controlled trial evidence of a statistically significant health-related quality-of-life benefit from cinacalcet, and in particular in the mental component score of the SF-36, and considered that this could be an important benefit for patients symptomatic hypercalcaemia (<a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5729741/\" target=\"_blank\">Khan et al. Eur J Endocrinol 2015;172:527-35</a>; although the least-squares mean change from baseline in mental component summary score of the SF-36; of 1.6 in cinacalcet group vs -2.7 in placebo group, <i>P</i>=0.047, did not in sum (4.3 units) exceed the likely clinically important difference of 5 units.</p><p>1.9.<span style=\"font-size: 7pt;\">\u00a0</span>The Committee:</p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>noted the evidence for a mortality benefit from cinacalcet was indirect, and considered the evidence to be of low to moderate quality and poorly defined </p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>considered the evidence for cinacalcet\u2019s biochemical effect (reduction in hypercalcaemia) to be robust </p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>considered the evidence for translation of benefits from cinacalcet into other outcomes to be poor. </p><p class=\"ql-indent-1\"><br></p><p class=\"ql-indent-1\">The Committee considered that an assumption of a reduction in inpatient care e.g. hospital admissions, was not supported by direct clinical trial reports. </p><p>1.10.<span style=\"font-size: 7pt;\">\u00a0\u00a0</span>The Committee noted that the target group was consistent with the definition used in the NICE guidelines for primary hyperparathyroidism in the UK and Wales (<a href=\"https://www.nice.org.uk/guidance/ng132/resources/hyperparathyroidism-primary-diagnosis-assessment-and-initial-management-pdf-66141715991749\" target=\"_blank\">NICE, 2019</a>), which recommended cinacalcet if surgery has failed or has been declined in patients with serum calcium greater than 2.85 mmol/L with symptoms or greater than 3 mmol/L without symptoms and recommended the use of bisphosphonates only for secondary osteoporosis. The Committee noted that <a href=\"https://www.uptodate.com/contents/primary-hyperparathyroidism-management?search=primary%20hyperparathyroidism&amp;source=search_result&amp;selectedTitle=2~111&amp;usage_type=default&amp;display_rank=2\" target=\"_blank\">UpToDate (February 2021)</a> recommended cinacalcet in hyperparathyroidism for non-surgical candidates with hypercalcaemia and/or severe symptoms.</p><p>1.11.<span style=\"font-size: 7pt;\">\u00a0\u00a0</span>The Committee considered that its concerns remained regarding the indirect evidence and surrogate outcomes for benefit from cinacalcet in primary hyperparathyroidism. Members noted the randomised controlled trial evidence of a quality-of-life benefit reported by Khan et al. but considered that it remained somewhat unclear whether cinacalcet simply acted as a calcimimetic or could ameliorate symptoms of hypercalcaemia, and if so, what magnitude of benefit was associated with its use. The Committee considered the quality of evidence to be low overall and consisting of expert opinion rather than high-quality clinical trials, but that further high-quality direct clinical trial evidence would not be forthcoming in this area. The Committee noted that cinacalcet acts specifically in this disease state, with biological plausibility supporting extrapolation of the available data for beneficial outcomes, and acknowledged the Endocrinology Subcommittee\u2019s view that cinacalcet would be expected to provide benefit in this setting. The Committee noted that there is randomised controlled trial evidence of improvement in quality-of-life measures in primary hyperparathyroidism and considered that this was supported by evidence of benefit in secondary hyperparathyroidism.</p><p>1.12.<span style=\"font-size: 7pt;\">\u00a0\u00a0</span>Overall, the Committee noted the uncertain benefits associated with surrogate outcomes in this setting, but considered that a reduction in serum calcium from cinacalcet should translate into a reduction in hospitalisations (for treatment of symptomatic hypercalcaemia and its complications) and an improvement in quality of life (although difficult to quantify). The Committee therefore considered that funding cinacalcet for this small patient group with an unmet health need was pragmatic and reasonable. </p><p>1.13.<span style=\"font-size: 7pt;\">\u00a0</span>The Committee noted the Endocrinology Subcommittee indicated there were about six to ten new cases per year in New Zealand who would be within the target group. The Committee also noted Pharmac staff\u2019s estimate of up to 230 new cases per year, based on international data for age-adjusted incidence and suitability for surgery. The Committee considered that the number estimated by the Endocrinology Subcommittee appeared to be low, but also that the Pharmac staff estimate was likely too high as this included patients not meeting the biochemical criteria in the proposed Special Authority, and many New Zealand patients may otherwise be referred for surgery. The Committee considered that the proposed criteria were for a severe subgroup and it was likely there were only a small number of New Zealand patients who meet these criteria. The Committee noted that 395 parathyroidectomies were performed in New Zealand in 2017-18 although this number would include operations for all types of hyperparathyroidism, of which primary hyperparathyroidism might account for one third. </p><p>1.14. <span style=\"font-size: 7pt;\">\u00a0</span>The Committee considered that the proportion of patients not having surgery due to patient or clinician choice would be very small. Members noted that the literature-based estimate of the proportion of patients reported to be unsuitable for surgery (10-50%; <a href=\"https://link.springer.com/article/10.1007/s12020-018-1676-3\" target=\"_blank\">Pappachan et al. Endocrine 2018;62:174-81</a>) was from an elderly population of which half did not receive surgery due to patient choice, and considered that this estimate identified a wider pool of patients than those targeted by the proposed Special Authority criteria. </p><p>1.15.<span style=\"font-size: 7pt;\">\u00a0</span>The Committee considered it challenging to confirm numbers for patients requiring hospital care for hyperparathyroidism. The Committee was made aware of Ministry of Health data that indicated there were 301 admissions for hyperparathyroidism (E21 code: Hyperparathyroidism and other disorders of parathyroid gland) in 2017-18 of mean 3.7 days inpatient stay, occurring mostly in females (70%) and with about a third aged over 70 years. However, the Committee considered that this data was not well aligned to the target population as it included all types of hyperparathyroidism, and did not represent the outcomes of a severe group who are unable to have surgery. The Committee considered that a detailed analysis of this admission data would help to clarify the actual number of patients admitted for hospital management of primary hyperparathyroidism without surgery in New Zealand and strongly encouraged Pharmac staff to pursue this to inform their assessment of cinacalcet. </p><p>1.16.<span style=\"font-size: 7pt;\">\u00a0</span>The Committee considered that bisphosphonates are not a suitable comparator treatment in this setting, as they are generally only used as a short-term treatment for hypercalcaemia, do not directly affect the underlying cause of disease, and are excluded from some guidelines for management of primary hyperparathyroidism. However, members considered that some bisphosphonate use occurs in primary hyperparathyroidism where no alternative treatments are available. </p><p>1.17.<span style=\"font-size: 7pt;\">\u00a0</span>The Committee considered that cinacalcet would be used as single-agent therapy, replacing inpatient care i.e. bisphosphonates, loop-diuretics, fluids and in-hospital nursing and ancillary care. The Committee noted a Pharmac estimate of 0.09 hospitalisations per year for patients with hypercalcaemia, based on the study by <a href=\"https://link.springer.com/article/10.1007/s12020-018-1676-3\" target=\"_blank\">Pappachan et al. (2018)</a>. The Committee considered that the estimated hospitalisation rate appeared low and considered that the actual hospitalisation rate would be greater than this, but also noted the lack of published data on hospitalisation rates for this patient group. The Committee considered that a reduction in hospital care was likely and may be a key driver of costs, with potential health benefits (based on indirect evidence) and quality of life improvement. The Committee considered that those patients who do not respond to cinacalcet are a highly comorbid subgroup who would be expected to cease cinacalcet treatment due to treatment being poorly tolerated, increasing sickness, or death.</p><p>1.18. The Committee considered that the below summarises its interpretation of the most appropriate PICO (population, intervention, comparator, outcomes) information for cinacalcet if it were to be funded in New Zealand for primary hyperparathyroidism. This PICO captures key clinical aspects of the proposal and may be used to frame any future economic assessment by Pharmac staff. This PICO is based on the Committee\u2019s assessment at this time and may differ from that requested by the applicant. The PICO may change based on new information, additional clinical advice, or further analysis by Pharmac staff. </p><table class=\"ql-table-blob\" border=\"0\" style=\"width: 460.45pt;\" width=\"614\"><tbody><tr style=\"height: 22.1pt;\"><td colspan=\"1\" rowspan=\"1\" valign=\"top\" width=\"100\" style=\"width: 75.3pt; border: solid windowtext 1.0pt; height: 22.1pt;\">\n  <p class=\"MsoNormal\"><b>P</b><span style=\"color: black;\">opulation </span></p>\n  </td><td colspan=\"1\" rowspan=\"1\" valign=\"top\" width=\"514\" style=\"width: 385.15pt; border: solid windowtext 1.0pt; height: 22.1pt;\">\n  <p class=\"MsoNormal\" style=\"\">Patients with primary hyperparathyroidism\n  who are not deemed operable, or surgery has failed, or surgery is\n  contraindicated;</p>\n  <p class=\"MsoNormal\" style=\"\">Patients also have either a) symptomatic\n  disease and serum calcium &gt;2.85mmol/L or b) asymptomatic disease and serum\n  calcium &gt;3.0mmol/L</p>\n  <p class=\"MsoNormal\" style=\"\">Average age at initiation 72.3 years based\n  on the baseline characteristics in the trial by <a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5729741/\" target=\"_blank\">Khan et al. Eur\n  J Endocrinol 2015;172: 527-35</a></p>\n  </td></tr><tr style=\"height: 17.65pt;\"><td colspan=\"1\" rowspan=\"1\" valign=\"top\" width=\"100\" style=\"width: 75.3pt; border: solid windowtext 1.0pt; height: 17.65pt;\">\n  <p class=\"MsoNormal\"><b><span style=\"color: black;\">I</span></b><span style=\"color: black;\">ntervention</span></p>\n  </td><td colspan=\"1\" rowspan=\"1\" valign=\"top\" width=\"514\" style=\"width: 385.15pt; height: 17.65pt;\">\n  <p class=\"MsoNormal\" style=\"\">Cinacalcet, mean daily dose 82.7 mg based\n  on Khan et al. (2015)\u00a0 </p>\n  </td></tr><tr style=\"height: 3.4pt;\"><td colspan=\"1\" rowspan=\"1\" valign=\"top\" width=\"100\" style=\"width: 75.3pt; border: solid windowtext 1.0pt; height: 3.4pt;\">\n  <p class=\"MsoNormal\"><b><span style=\"color: black;\">C</span></b><span style=\"color: black;\">omparator(s)</span></p>\n  <p class=\"MsoNormal\"><span style=\"color: black;\">(NZ context)</span></p>\n  </td><td colspan=\"1\" rowspan=\"1\" valign=\"top\" width=\"514\" style=\"width: 385.15pt; height: 3.4pt;\">\n  <p class=\"MsoNormal\" style=\"\">Best supportive care (not bisphosphonates)</p>\n  </td></tr><tr style=\"height: 22.1pt;\"><td colspan=\"1\" rowspan=\"1\" valign=\"top\" width=\"100\" style=\"width: 75.3pt; border: solid windowtext 1.0pt; height: 22.1pt;\">\n  <p class=\"MsoNormal\"><b><span style=\"color: black;\">O</span></b><span style=\"color: black;\">utcome(s)</span></p>\n  </td><td colspan=\"1\" rowspan=\"1\" valign=\"top\" width=\"514\" style=\"width: 385.15pt; height: 22.1pt;\">\n  <p class=\"MsoNormal\" style=\"\">Reduction in parathyroid hormone and serum\n  calcium vs placebo</p>\n  <p class=\"MsoNormal\" style=\"\">No change in bone mineral density (BMD) or\n  risk of cardiovascular (CV) events vs placebo</p>\n  <p class=\"MsoNormal\" style=\"\">Based on reduction in serum calcium (and\n  no change in BMD), could extrapolate to assume:</p>\n  <p class=\"MsoListParagraphCxSpFirst\" style=\"\"><span style=\"font-family: Symbol;\">\u00b7<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\n  </span></span>Improvement in quality of life (symptom\n  amelioration), primarily through improvement in mental components of quality\n  of life</p>\n  <p class=\"MsoListParagraphCxSpMiddle\" style=\"\"><span style=\"font-family: Symbol;\">\u00b7<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\n  </span></span>Reduction in risk of mortality (indirect,\n  uncertain)</p>\n  <p class=\"MsoListParagraphCxSpLast\" style=\"\"><span style=\"font-family: Symbol;\">\u00b7<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\n  </span></span>Reduction in the need for hospitalisations to\n  correct hypercalcaemia </p>\n  </td></tr></tbody></table><p><br></p>",
+          "fs": "<p><b>Background</b></p><p>1.1.<span style=\"font-size: 7pt;\">\u00a0</span>The Committee noted the long history of clinical advice regarding cinacalcet for hyperparathyroidism from the Endocrinology Subcommittee, the Nephrology Subcommittee and PTAC, described on the Pharmac Application Tracker items for <a href=\"https://connect.pharmac.govt.nz/apptracker/s/application-public/a102P000008ptsL/p000137\" target=\"_blank\">primary hyperparathyroidism</a>, <a href=\"https://connect.pharmac.govt.nz/apptracker/s/application-public/a102P000008puCp/p000744\" target=\"_blank\">secondary hyperparathyroidism</a> and <a href=\"https://connect.pharmac.govt.nz/apptracker/s/application-public/a102P000008puPm/p000985\" target=\"_blank\">tertiary hyperparathyroidism</a>. The Committee noted the following in particular:</p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>In <a href=\"https://www.pharmac.govt.nz/assets/ptac-minutes-2008-07.pdf\" target=\"_blank\">July 2008</a>, PTAC had recommended that hyperparathyroidism (any cause) be declined for listing in the Pharmaceutical Schedule</p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>In <a href=\"https://pharmac.govt.nz/assets/ptac-endocrinology-subcommittee-minutes-2014-06-17.pdf\" target=\"_blank\">June 2014</a>, the Endocrinology Subcommittee noted a recommendation from the New Zealand Society of Endocrinology to fund cinacalcet for patients with primary hyperparathyroidism who have significant/symptomatic hypercalcaemia (&gt;3mmol/L) and cannot be treated surgically</p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>In <a href=\"https://pharmac.govt.nz/assets/ptac-nephrology-subcommittee-minutes-2014-12.pdf\" target=\"_blank\">December 2014</a> the Nephrology Subcommittee\u00a0recommended cinacalcet for listing in the Pharmaceutical Schedule for secondary and tertiary hyperparathyroidism with calciphylaxis with a medium priority </p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol; font-size: 11pt;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 11pt;\">In May 2016, cinacalcet was listed on the Pharmaceutical Schedule for </span><a href=\"https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/notification-of-decision-to-fund-cinacalcet-sensipar-for-parathyroid-carcinoma-and-calciphylaxis/\" target=\"_blank\" style=\"font-size: 11pt;\">patients with parathyroid carcinoma and symptomatic calciphylaxis,</a><span style=\"font-size: 11pt;\"> subject to </span><a href=\"https://schedule.pharmac.govt.nz/2021/03/01/SA1618.pdf\" target=\"_blank\" style=\"font-size: 11pt;\">Special Authority criteria</a></p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>In <a href=\"https://pharmac.govt.nz/assets/ptac-nephrology-subcommitee-minutes-2016-12.pdf\" target=\"_blank\">December 2016</a>, the Nephrology Subcommittee reiterated its previous recommendation with regards to proposed Special Authority criteria for cinacalcet for secondary and tertiary hyperparathyroidism</p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>In <a href=\"https://pharmac.govt.nz/assets/ptac-nephrology-subcommittee-minutes-2018-03.pdf\" target=\"_blank\">March 2018</a>, the Nephrology Subcommittee considered that access to cinacalcet should be widened to include patients with hyperparathyroidism and kidney disease subject to clinical criteria</p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>In <a href=\"https://pharmac.govt.nz/assets/2021-03-30-Endocrinology-Subcommittee-Records-Web-Version.pdf\" target=\"_blank\">March 2021</a>, the Endocrinology Subcommittee considered it was reasonable for cinacalcet to be funded for people with primary hyperparathyroidism with severe hypercalcemia who are not deemed operable, and have no available alternative treatments; that a reduction in calcium to less than 3.0 mmol/L was clinically meaningful and a critical outcome for the target group of patients; and that it was reasonable to infer, based on the evidence of benefits (including reduction in mortality) from calcium level reduction (from surgery and from the use of cinacalcet in several hypercalcaemic states), that cinacalcet could result in clinically meaningful benefits from a calcium level reduction in people with primary hyperparathyroidism who are not deemed operable.</p><p>1.2.<span style=\"font-size: 7pt;\">\u00a0</span>The Committee noted that cinacalcet is a modulator of the calcium sensing receptor. It decreases parathyroid hormone levels by increasing the receptor sensitivity to extracellular calcium. The Committee noted that cinacalcet is approved by Medsafe to treat:</p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>the biochemical manifestations of secondary hyperparathyroidism in adult patients with end stage renal disease, receiving dialysis as adjunctive therapy</p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>hypercalcaemia in adult patients with parathyroid carcinoma</p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>primary hyperparathyroidism in adult patients for whom parathyroidectomy is not a treatment option. </p><p>1.3.<span style=\"font-size: 7pt;\">\u00a0</span>The Committee noted that cinacalcet has long been included within international treatment guidelines and considered no new primary evidence to be available since past reviews of these proposals by the Subcommittees. The Committee considered that the existing clinical trial evidence had been used extensively in meta-analyses and noted that some new meta-analyses and registry descriptive data had been identified. </p><p>1.4.<span style=\"font-size: 7pt;\">\u00a0</span>The Committee considered that for primary hyperparathyroidism, the estimated number of patients who require hospital care was uncertain and that there was a lack of agreement in the estimates of benefit across outcome measures. The Committee considered similarly that for secondary and tertiary hyperparathyroidism there was also a lack of agreement in the estimates of benefit across outcome measures.</p><p><br></p><p><b>Primary hyperparathyroidism</b></p><p><br></p><p>1.5.<span style=\"font-size: 7pt;\">\u00a0</span>The Committee noted that primary hyperparathyroidism is caused by over-activity of one or more parathyroid glands and can be caused by carcinoma, adenoma or hyperplasia. The Committee considered that patients with primary hyperparathyroidism can have a high health need due to hypercalcaemia and that symptomatic hypercalcaemia can cause symptoms such as cognitive impairment, and mobility disorders, which can significantly affect older adults.</p><p>1.6.<span style=\"font-size: 7pt;\">\u00a0</span>The Committee noted there is a clear consensus that surgical parathyroidectomy is preferred for optimal management of primary hyperparathyroidism, offering a high rate of cure, with minimally invasive surgery with low rates of complications. The Committee considered that most patients would consent to this surgery and that very few patients with primary hyperparathyroidism would be deemed unsuitable for surgery. The Committee considered patients may be deemed unsuitable because surgery is not recommended or feasible e.g. due to anaesthesia concerns or in patients for whom surgery is challenging due to neck size. The Committee considered that M\u0101ori and Pacific peoples may be more likely to have surgical contraindications and therefore not receive surgical treatment.</p><p>1.7.<span style=\"font-size: 7pt;\">\u00a0</span>The Committee noted that the Endocrinology Subcommittee had defined a group of people with primary hyperparathyroidism with severe hypercalcemia who are not deemed operable for whom funded treatment with cinacalcet would be appropriate and that Pharmac staff proposed Special Authority criteria to target this group. The Committee considered that this target group would include the small number of patients who met surgical criteria but were not suitable for, or did not consent to, surgery.</p><p>1.8.<span style=\"font-size: 7pt;\">\u00a0</span>The Committee noted the Endocrinology Subcommittee\u2019s conclusions regarding the efficacy of cinacalcet for primary hyperparathyroidism in <a href=\"https://pharmac.govt.nz/assets/2021-03-30-Endocrinology-Subcommittee-Records-Web-Version.pdf\" target=\"_blank\">March 2021 (meeting record paragraphs 9.14 to 9.20)</a> following the Subcommittee\u2019s consideration of evidence from Collier et al. (<a href=\"https://linkinghub.elsevier.com/retrieve/pii/S1530-891X(20)35866-3\" target=\"_blank\">Endocr Pract. 2019;25:335-9</a>), Ng et al. (<a href=\"https://ec.bioscientifica.com/view/journals/ec/9/7/EC-20-0221.xml\" target=\"_blank\">Endocr Connect. 2020;9:724-35</a>), Reid et al. (<a href=\"https://academic.oup.com/jcem/article-lookup/doi/10.1210/jc.2018-02483\" target=\"_blank\">J Clin Endocrinol Metab. 2019;104:3692-700)</a> and Kontogeorgos et al. (<a href=\"https://www.tandfonline.com/doi/full/10.1080/00365513.2019.1683763\" target=\"_blank\">Scand J Clin Lab Invest. 2020;80:6-13</a>). PTAC members noted that in one meta-analysis (Ng et al. 2020), the aggregate incidence of nausea or vomiting with cinacalcet was 23%, and members considered that cinacalcet treatment could cause detrimental effects. However, members noted that there was randomised controlled trial evidence of a statistically significant health-related quality-of-life benefit from cinacalcet, and in particular in the mental component score of the SF-36, and considered that this could be an important benefit for patients symptomatic hypercalcaemia (<a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5729741/\" target=\"_blank\">Khan et al. Eur J Endocrinol 2015;172:527-35</a>; although the least-squares mean change from baseline in mental component summary score of the SF-36; of 1.6 in cinacalcet group vs -2.7 in placebo group, <i>P</i>=0.047, did not in sum (4.3 units) exceed the likely clinically important difference of 5 units.</p><p>1.9.<span style=\"font-size: 7pt;\">\u00a0</span>The Committee:</p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>noted the evidence for a mortality benefit from cinacalcet was indirect, and considered the evidence to be of low to moderate quality and poorly defined </p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>considered the evidence for cinacalcet\u2019s biochemical effect (reduction in hypercalcaemia) to be robust </p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>considered the evidence for translation of benefits from cinacalcet into other outcomes to be poor. </p><p class=\"ql-indent-1\"><br></p><p class=\"ql-indent-1\">The Committee considered that an assumption of a reduction in inpatient care e.g. hospital admissions, was not supported by direct clinical trial reports. </p><p>1.10.<span style=\"font-size: 7pt;\">\u00a0\u00a0</span>The Committee noted that the target group was consistent with the definition used in the NICE guidelines for primary hyperparathyroidism in the UK and Wales (<a href=\"https://www.nice.org.uk/guidance/ng132/resources/hyperparathyroidism-primary-diagnosis-assessment-and-initial-management-pdf-66141715991749\" target=\"_blank\">NICE, 2019</a>), which recommended cinacalcet if surgery has failed or has been declined in patients with serum calcium greater than 2.85 mmol/L with symptoms or greater than 3 mmol/L without symptoms and recommended the use of bisphosphonates only for secondary osteoporosis. The Committee noted that <a href=\"https://www.uptodate.com/contents/primary-hyperparathyroidism-management?search=primary%20hyperparathyroidism&amp;source=search_result&amp;selectedTitle=2~111&amp;usage_type=default&amp;display_rank=2\" target=\"_blank\">UpToDate (February 2021)</a> recommended cinacalcet in hyperparathyroidism for non-surgical candidates with hypercalcaemia and/or severe symptoms.</p><p>1.11.<span style=\"font-size: 7pt;\">\u00a0\u00a0</span>The Committee considered that its concerns remained regarding the indirect evidence and surrogate outcomes for benefit from cinacalcet in primary hyperparathyroidism. Members noted the randomised controlled trial evidence of a quality-of-life benefit reported by Khan et al. but considered that it remained somewhat unclear whether cinacalcet simply acted as a calcimimetic or could ameliorate symptoms of hypercalcaemia, and if so, what magnitude of benefit was associated with its use. The Committee considered the quality of evidence to be low overall and consisting of expert opinion rather than high-quality clinical trials, but that further high-quality direct clinical trial evidence would not be forthcoming in this area. The Committee noted that cinacalcet acts specifically in this disease state, with biological plausibility supporting extrapolation of the available data for beneficial outcomes, and acknowledged the Endocrinology Subcommittee\u2019s view that cinacalcet would be expected to provide benefit in this setting. The Committee noted that there is randomised controlled trial evidence of improvement in quality-of-life measures in primary hyperparathyroidism and considered that this was supported by evidence of benefit in secondary hyperparathyroidism.</p><p>1.12.<span style=\"font-size: 7pt;\">\u00a0\u00a0</span>Overall, the Committee noted the uncertain benefits associated with surrogate outcomes in this setting, but considered that a reduction in serum calcium from cinacalcet should translate into a reduction in hospitalisations (for treatment of symptomatic hypercalcaemia and its complications) and an improvement in quality of life (although difficult to quantify). The Committee therefore considered that funding cinacalcet for this small patient group with an unmet health need was pragmatic and reasonable. </p><p>1.13.<span style=\"font-size: 7pt;\">\u00a0</span>The Committee noted the Endocrinology Subcommittee indicated there were about six to ten new cases per year in New Zealand who would be within the target group. The Committee also noted Pharmac staff\u2019s estimate of up to 230 new cases per year, based on international data for age-adjusted incidence and suitability for surgery. The Committee considered that the number estimated by the Endocrinology Subcommittee appeared to be low, but also that the Pharmac staff estimate was likely too high as this included patients not meeting the biochemical criteria in the proposed Special Authority, and many New Zealand patients may otherwise be referred for surgery. The Committee considered that the proposed criteria were for a severe subgroup and it was likely there were only a small number of New Zealand patients who meet these criteria. The Committee noted that 395 parathyroidectomies were performed in New Zealand in 2017-18 although this number would include operations for all types of hyperparathyroidism, of which primary hyperparathyroidism might account for one third. </p><p>1.14. <span style=\"font-size: 7pt;\">\u00a0</span>The Committee considered that the proportion of patients not having surgery due to patient or clinician choice would be very small. Members noted that the literature-based estimate of the proportion of patients reported to be unsuitable for surgery (10-50%; <a href=\"https://link.springer.com/article/10.1007/s12020-018-1676-3\" target=\"_blank\">Pappachan et al. Endocrine 2018;62:174-81</a>) was from an elderly population of which half did not receive surgery due to patient choice, and considered that this estimate identified a wider pool of patients than those targeted by the proposed Special Authority criteria. </p><p>1.15.<span style=\"font-size: 7pt;\">\u00a0</span>The Committee considered it challenging to confirm numbers for patients requiring hospital care for hyperparathyroidism. The Committee was made aware of Ministry of Health data that indicated there were 301 admissions for hyperparathyroidism (E21 code: Hyperparathyroidism and other disorders of parathyroid gland) in 2017-18 of mean 3.7 days inpatient stay, occurring mostly in females (70%) and with about a third aged over 70 years. However, the Committee considered that this data was not well aligned to the target population as it included all types of hyperparathyroidism, and did not represent the outcomes of a severe group who are unable to have surgery. The Committee considered that a detailed analysis of this admission data would help to clarify the actual number of patients admitted for hospital management of primary hyperparathyroidism without surgery in New Zealand and strongly encouraged Pharmac staff to pursue this to inform their assessment of cinacalcet. </p><p>1.16.<span style=\"font-size: 7pt;\">\u00a0</span>The Committee considered that bisphosphonates are not a suitable comparator treatment in this setting, as they are generally only used as a short-term treatment for hypercalcaemia, do not directly affect the underlying cause of disease, and are excluded from some guidelines for management of primary hyperparathyroidism. However, members considered that some bisphosphonate use occurs in primary hyperparathyroidism where no alternative treatments are available. </p><p>1.17.<span style=\"font-size: 7pt;\">\u00a0</span>The Committee considered that cinacalcet would be used as single-agent therapy, replacing inpatient care i.e. bisphosphonates, loop-diuretics, fluids and in-hospital nursing and ancillary care. The Committee noted a Pharmac estimate of 0.09 hospitalisations per year for patients with hypercalcaemia, based on the study by <a href=\"https://link.springer.com/article/10.1007/s12020-018-1676-3\" target=\"_blank\">Pappachan et al. (2018)</a>. The Committee considered that the estimated hospitalisation rate appeared low and considered that the actual hospitalisation rate would be greater than this, but also noted the lack of published data on hospitalisation rates for this patient group. The Committee considered that a reduction in hospital care was likely and may be a key driver of costs, with potential health benefits (based on indirect evidence) and quality of life improvement. The Committee considered that those patients who do not respond to cinacalcet are a highly comorbid subgroup who would be expected to cease cinacalcet treatment due to treatment being poorly tolerated, increasing sickness, or death.</p><p>1.18. The Committee considered that the below summarises its interpretation of the most appropriate PICO (population, intervention, comparator, outcomes) information for cinacalcet if it were to be funded in New Zealand for primary hyperparathyroidism. This PICO captures key clinical aspects of the proposal and may be used to frame any future economic assessment by Pharmac staff. This PICO is based on the Committee\u2019s assessment at this time and may differ from that requested by the applicant. The PICO may change based on new information, additional clinical advice, or further analysis by Pharmac staff. </p><table class=\"ql-table-blob\" border=\"0\" style=\"width: 460.45pt;\" width=\"614\"><tbody><tr style=\"height: 22.1pt;\"><td colspan=\"1\" rowspan=\"1\" valign=\"top\" width=\"100\" style=\"width: 75.3pt; border: solid windowtext 1.0pt; height: 22.1pt;\">\n  <p class=\"MsoNormal\"><b>P</b><span style=\"color: black;\">opulation </span></p>\n  </td><td colspan=\"1\" rowspan=\"1\" valign=\"top\" width=\"514\" style=\"width: 385.15pt; border: solid windowtext 1.0pt; height: 22.1pt;\">\n  <p class=\"MsoNormal\" style=\"\">Patients with primary hyperparathyroidism\n  who are not deemed operable, or surgery has failed, or surgery is\n  contraindicated;</p>\n  <p class=\"MsoNormal\" style=\"\">Patients also have either a) symptomatic\n  disease and serum calcium &gt;2.85mmol/L or b) asymptomatic disease and serum\n  calcium &gt;3.0mmol/L</p>\n  <p class=\"MsoNormal\" style=\"\">Average age at initiation 72.3 years based\n  on the baseline characteristics in the trial by <a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5729741/\" target=\"_blank\">Khan et al. Eur\n  J Endocrinol 2015;172: 527-35</a></p>\n  </td></tr><tr style=\"height: 17.65pt;\"><td colspan=\"1\" rowspan=\"1\" valign=\"top\" width=\"100\" style=\"width: 75.3pt; border: solid windowtext 1.0pt; height: 17.65pt;\">\n  <p class=\"MsoNormal\"><b><span style=\"color: black;\">I</span></b><span style=\"color: black;\">ntervention</span></p>\n  </td><td colspan=\"1\" rowspan=\"1\" valign=\"top\" width=\"514\" style=\"width: 385.15pt; height: 17.65pt;\">\n  <p class=\"MsoNormal\" style=\"\">Cinacalcet, mean daily dose 82.7 mg based\n  on Khan et al. (2015)\u00a0 </p>\n  </td></tr><tr style=\"height: 3.4pt;\"><td colspan=\"1\" rowspan=\"1\" valign=\"top\" width=\"100\" style=\"width: 75.3pt; border: solid windowtext 1.0pt; height: 3.4pt;\">\n  <p class=\"MsoNormal\"><b><span style=\"color: black;\">C</span></b><span style=\"color: black;\">omparator(s)</span></p>\n  <p class=\"MsoNormal\"><span style=\"color: black;\">(NZ context)</span></p>\n  </td><td colspan=\"1\" rowspan=\"1\" valign=\"top\" width=\"514\" style=\"width: 385.15pt; height: 3.4pt;\">\n  <p class=\"MsoNormal\" style=\"\">Best supportive care (not bisphosphonates)</p>\n  </td></tr><tr style=\"height: 22.1pt;\"><td colspan=\"1\" rowspan=\"1\" valign=\"top\" width=\"100\" style=\"width: 75.3pt; border: solid windowtext 1.0pt; height: 22.1pt;\">\n  <p class=\"MsoNormal\"><b><span style=\"color: black;\">O</span></b><span style=\"color: black;\">utcome(s)</span></p>\n  </td><td colspan=\"1\" rowspan=\"1\" valign=\"top\" width=\"514\" style=\"width: 385.15pt; height: 22.1pt;\">\n  <p class=\"MsoNormal\" style=\"\">Reduction in parathyroid hormone and serum\n  calcium vs placebo</p>\n  <p class=\"MsoNormal\" style=\"\">No change in bone mineral density (BMD) or\n  risk of cardiovascular (CV) events vs placebo</p>\n  <p class=\"MsoNormal\" style=\"\">Based on reduction in serum calcium (and\n  no change in BMD), could extrapolate to assume:</p>\n  <p class=\"MsoListParagraphCxSpFirst\" style=\"\"><span style=\"font-family: Symbol;\">\u00b7<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\n  </span></span>Improvement in quality of life (symptom\n  amelioration), primarily through improvement in mental components of quality\n  of life</p>\n  <p class=\"MsoListParagraphCxSpMiddle\" style=\"\"><span style=\"font-family: Symbol;\">\u00b7<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\n  </span></span>Reduction in risk of mortality (indirect,\n  uncertain)</p>\n  <p class=\"MsoListParagraphCxSpLast\" style=\"\"><span style=\"font-family: Symbol;\">\u00b7<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\n  </span></span>Reduction in the need for hospitalisations to\n  correct hypercalcaemia </p>\n  </td></tr></tbody></table><p><br></p>",
+          "change": null
+        },
+        "Published_Application": {
+          "s": "<p>1.1.<span style=\"font-size: 7pt;\">\u00a0</span>The Committee considered cinacalcet for primary, secondary and tertiary hyperparathyroidism to support Pharmac\u2019s assessment of these proposals.</p><p>1.2.<span style=\"font-size: 7pt;\">\u00a0</span>The Committee took into account, where applicable, Pharmac\u2019s relevant decision-making framework when considering this agenda item.\u00a0</p>",
+          "fs": "<p>1.1.<span style=\"font-size: 7pt;\">\u00a0</span>The Committee considered cinacalcet for primary, secondary and tertiary hyperparathyroidism to support Pharmac\u2019s assessment of these proposals.</p><p>1.2.<span style=\"font-size: 7pt;\">\u00a0</span>The Committee took into account, where applicable, Pharmac\u2019s relevant decision-making framework when considering this agenda item.\u00a0</p>",
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": "Medium",
+          "fs": "Medium",
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Nov 2021",
+          "fs": "Nov 2021",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Clinical advice received from Pharmacology and Therapeutics Advisory Committee (PTAC) at meeting Friday 20 August 2021.",
+          "fs": "Clinical advice received from Pharmacology and Therapeutics Advisory Committee (PTAC) at meeting Friday 20 August 2021.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P000006pnQiUAI"
+          },
+          "Id": "a0P2P000006pnQiUAI",
+          "Event_Date__c": "2021-11-23",
+          "Event_Description__c": "Clinical advice received from Pharmacology and Therapeutics Advisory Committee (PTAC) at meeting Friday 20 August 2021.",
+          "Stage__c": "Seeking Clinical Advice",
+          "Outcome__c": "Medium",
+          "Formatted_Date__c": "Nov 2021",
+          "Published_Recommendation__c": "<p>1.1.<span style=\"font-size: 7pt;\">\u00a0</span>The Committee <b>recommended</b> that cinacalcet for primary hyperparathyroidism be funded with a <b>medium priority </b>subject<b> </b>to the following Special Authority criteria:</p><p class=\"ql-indent-1\"><b style=\"font-size: 9pt;\">CINACALCET</b></p><p class=\"ql-indent-1\"><b style=\"font-size: 9pt;\">Initial application - (primary hyperparathyroidism)</b><span style=\"font-size: 9pt;\"> from any relevant specialist. Applications valid without further renewal for applications meeting the following criteria:</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 9pt;\">All of the following:</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 9pt;\">1.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Patient has primary hyperparathyroidism; and</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 9pt;\">2.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Either:</span></p><p class=\"ql-indent-2\"><span style=\"font-size: 9pt;\">2.1.</span><span style=\"font-size: 7pt;\">\u00a0</span><span style=\"font-size: 9pt;\">Patient has hypercalcaemia of &gt;3 mmol/L with or without symptoms; or </span></p><p class=\"ql-indent-2\"><span style=\"font-size: 9pt;\">2.2.</span><span style=\"font-size: 7pt;\">\u00a0</span><span style=\"font-size: 9pt;\">Patient has hypercalcaemia of &gt;2.85 mmol/L with symptoms; and</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 9pt;\">3.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Patient is not deemed operable, or surgery has failed, or surgery is contraindicated; and </span></p><p class=\"ql-indent-1\"><span style=\"font-size: 9pt;\">4.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Patient has other comorbidities, severe bone pain, or calciphylaxis.</span></p><p>1.2.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>In making this recommendation, the Committee considered:</p><p class=\"ql-indent-2\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The high health need of people with hypercalcaemia with or without symptoms who are not candidates for surgery and the lack of available treatments for this patient group</p><p class=\"ql-indent-2\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>That there remained concerns regarding the indirect evidence of benefit from cinacalcet that uses surrogate outcome measures, but that a reduction in serum calcium from cinacalcet should translate into a reduction in hospitalisations (for treatment of symptomatic hypercalcaemia and its complications) and an improvement in quality of life</p><p class=\"ql-indent-2\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The uncertainty around patient numbers for the target group</p><p class=\"ql-indent-2\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The side effect profile of cinacalcet.</p>",
+          "Published_Application__c": "<p>1.1.<span style=\"font-size: 7pt;\">\u00a0</span>The Committee considered cinacalcet for primary, secondary and tertiary hyperparathyroidism to support Pharmac\u2019s assessment of these proposals.</p><p>1.2.<span style=\"font-size: 7pt;\">\u00a0</span>The Committee took into account, where applicable, Pharmac\u2019s relevant decision-making framework when considering this agenda item.\u00a0</p>",
+          "Published_Discussion__c": "<p><b>Background</b></p><p>1.1.<span style=\"font-size: 7pt;\">\u00a0</span>The Committee noted the long history of clinical advice regarding cinacalcet for hyperparathyroidism from the Endocrinology Subcommittee, the Nephrology Subcommittee and PTAC, described on the Pharmac Application Tracker items for <a href=\"https://connect.pharmac.govt.nz/apptracker/s/application-public/a102P000008ptsL/p000137\" target=\"_blank\">primary hyperparathyroidism</a>, <a href=\"https://connect.pharmac.govt.nz/apptracker/s/application-public/a102P000008puCp/p000744\" target=\"_blank\">secondary hyperparathyroidism</a> and <a href=\"https://connect.pharmac.govt.nz/apptracker/s/application-public/a102P000008puPm/p000985\" target=\"_blank\">tertiary hyperparathyroidism</a>. The Committee noted the following in particular:</p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>In <a href=\"https://www.pharmac.govt.nz/assets/ptac-minutes-2008-07.pdf\" target=\"_blank\">July 2008</a>, PTAC had recommended that hyperparathyroidism (any cause) be declined for listing in the Pharmaceutical Schedule</p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>In <a href=\"https://pharmac.govt.nz/assets/ptac-endocrinology-subcommittee-minutes-2014-06-17.pdf\" target=\"_blank\">June 2014</a>, the Endocrinology Subcommittee noted a recommendation from the New Zealand Society of Endocrinology to fund cinacalcet for patients with primary hyperparathyroidism who have significant/symptomatic hypercalcaemia (&gt;3mmol/L) and cannot be treated surgically</p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>In <a href=\"https://pharmac.govt.nz/assets/ptac-nephrology-subcommittee-minutes-2014-12.pdf\" target=\"_blank\">December 2014</a> the Nephrology Subcommittee\u00a0recommended cinacalcet for listing in the Pharmaceutical Schedule for secondary and tertiary hyperparathyroidism with calciphylaxis with a medium priority </p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol; font-size: 11pt;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 11pt;\">In May 2016, cinacalcet was listed on the Pharmaceutical Schedule for </span><a href=\"https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/notification-of-decision-to-fund-cinacalcet-sensipar-for-parathyroid-carcinoma-and-calciphylaxis/\" target=\"_blank\" style=\"font-size: 11pt;\">patients with parathyroid carcinoma and symptomatic calciphylaxis,</a><span style=\"font-size: 11pt;\"> subject to </span><a href=\"https://schedule.pharmac.govt.nz/2021/03/01/SA1618.pdf\" target=\"_blank\" style=\"font-size: 11pt;\">Special Authority criteria</a></p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>In <a href=\"https://pharmac.govt.nz/assets/ptac-nephrology-subcommitee-minutes-2016-12.pdf\" target=\"_blank\">December 2016</a>, the Nephrology Subcommittee reiterated its previous recommendation with regards to proposed Special Authority criteria for cinacalcet for secondary and tertiary hyperparathyroidism</p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>In <a href=\"https://pharmac.govt.nz/assets/ptac-nephrology-subcommittee-minutes-2018-03.pdf\" target=\"_blank\">March 2018</a>, the Nephrology Subcommittee considered that access to cinacalcet should be widened to include patients with hyperparathyroidism and kidney disease subject to clinical criteria</p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>In <a href=\"https://pharmac.govt.nz/assets/2021-03-30-Endocrinology-Subcommittee-Records-Web-Version.pdf\" target=\"_blank\">March 2021</a>, the Endocrinology Subcommittee considered it was reasonable for cinacalcet to be funded for people with primary hyperparathyroidism with severe hypercalcemia who are not deemed operable, and have no available alternative treatments; that a reduction in calcium to less than 3.0 mmol/L was clinically meaningful and a critical outcome for the target group of patients; and that it was reasonable to infer, based on the evidence of benefits (including reduction in mortality) from calcium level reduction (from surgery and from the use of cinacalcet in several hypercalcaemic states), that cinacalcet could result in clinically meaningful benefits from a calcium level reduction in people with primary hyperparathyroidism who are not deemed operable.</p><p>1.2.<span style=\"font-size: 7pt;\">\u00a0</span>The Committee noted that cinacalcet is a modulator of the calcium sensing receptor. It decreases parathyroid hormone levels by increasing the receptor sensitivity to extracellular calcium. The Committee noted that cinacalcet is approved by Medsafe to treat:</p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>the biochemical manifestations of secondary hyperparathyroidism in adult patients with end stage renal disease, receiving dialysis as adjunctive therapy</p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>hypercalcaemia in adult patients with parathyroid carcinoma</p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>primary hyperparathyroidism in adult patients for whom parathyroidectomy is not a treatment option. </p><p>1.3.<span style=\"font-size: 7pt;\">\u00a0</span>The Committee noted that cinacalcet has long been included within international treatment guidelines and considered no new primary evidence to be available since past reviews of these proposals by the Subcommittees. The Committee considered that the existing clinical trial evidence had been used extensively in meta-analyses and noted that some new meta-analyses and registry descriptive data had been identified. </p><p>1.4.<span style=\"font-size: 7pt;\">\u00a0</span>The Committee considered that for primary hyperparathyroidism, the estimated number of patients who require hospital care was uncertain and that there was a lack of agreement in the estimates of benefit across outcome measures. The Committee considered similarly that for secondary and tertiary hyperparathyroidism there was also a lack of agreement in the estimates of benefit across outcome measures.</p><p><br></p><p><b>Primary hyperparathyroidism</b></p><p><br></p><p>1.5.<span style=\"font-size: 7pt;\">\u00a0</span>The Committee noted that primary hyperparathyroidism is caused by over-activity of one or more parathyroid glands and can be caused by carcinoma, adenoma or hyperplasia. The Committee considered that patients with primary hyperparathyroidism can have a high health need due to hypercalcaemia and that symptomatic hypercalcaemia can cause symptoms such as cognitive impairment, and mobility disorders, which can significantly affect older adults.</p><p>1.6.<span style=\"font-size: 7pt;\">\u00a0</span>The Committee noted there is a clear consensus that surgical parathyroidectomy is preferred for optimal management of primary hyperparathyroidism, offering a high rate of cure, with minimally invasive surgery with low rates of complications. The Committee considered that most patients would consent to this surgery and that very few patients with primary hyperparathyroidism would be deemed unsuitable for surgery. The Committee considered patients may be deemed unsuitable because surgery is not recommended or feasible e.g. due to anaesthesia concerns or in patients for whom surgery is challenging due to neck size. The Committee considered that M\u0101ori and Pacific peoples may be more likely to have surgical contraindications and therefore not receive surgical treatment.</p><p>1.7.<span style=\"font-size: 7pt;\">\u00a0</span>The Committee noted that the Endocrinology Subcommittee had defined a group of people with primary hyperparathyroidism with severe hypercalcemia who are not deemed operable for whom funded treatment with cinacalcet would be appropriate and that Pharmac staff proposed Special Authority criteria to target this group. The Committee considered that this target group would include the small number of patients who met surgical criteria but were not suitable for, or did not consent to, surgery.</p><p>1.8.<span style=\"font-size: 7pt;\">\u00a0</span>The Committee noted the Endocrinology Subcommittee\u2019s conclusions regarding the efficacy of cinacalcet for primary hyperparathyroidism in <a href=\"https://pharmac.govt.nz/assets/2021-03-30-Endocrinology-Subcommittee-Records-Web-Version.pdf\" target=\"_blank\">March 2021 (meeting record paragraphs 9.14 to 9.20)</a> following the Subcommittee\u2019s consideration of evidence from Collier et al. (<a href=\"https://linkinghub.elsevier.com/retrieve/pii/S1530-891X(20)35866-3\" target=\"_blank\">Endocr Pract. 2019;25:335-9</a>), Ng et al. (<a href=\"https://ec.bioscientifica.com/view/journals/ec/9/7/EC-20-0221.xml\" target=\"_blank\">Endocr Connect. 2020;9:724-35</a>), Reid et al. (<a href=\"https://academic.oup.com/jcem/article-lookup/doi/10.1210/jc.2018-02483\" target=\"_blank\">J Clin Endocrinol Metab. 2019;104:3692-700)</a> and Kontogeorgos et al. (<a href=\"https://www.tandfonline.com/doi/full/10.1080/00365513.2019.1683763\" target=\"_blank\">Scand J Clin Lab Invest. 2020;80:6-13</a>). PTAC members noted that in one meta-analysis (Ng et al. 2020), the aggregate incidence of nausea or vomiting with cinacalcet was 23%, and members considered that cinacalcet treatment could cause detrimental effects. However, members noted that there was randomised controlled trial evidence of a statistically significant health-related quality-of-life benefit from cinacalcet, and in particular in the mental component score of the SF-36, and considered that this could be an important benefit for patients symptomatic hypercalcaemia (<a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5729741/\" target=\"_blank\">Khan et al. Eur J Endocrinol 2015;172:527-35</a>; although the least-squares mean change from baseline in mental component summary score of the SF-36; of 1.6 in cinacalcet group vs -2.7 in placebo group, <i>P</i>=0.047, did not in sum (4.3 units) exceed the likely clinically important difference of 5 units.</p><p>1.9.<span style=\"font-size: 7pt;\">\u00a0</span>The Committee:</p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>noted the evidence for a mortality benefit from cinacalcet was indirect, and considered the evidence to be of low to moderate quality and poorly defined </p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>considered the evidence for cinacalcet\u2019s biochemical effect (reduction in hypercalcaemia) to be robust </p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>considered the evidence for translation of benefits from cinacalcet into other outcomes to be poor. </p><p class=\"ql-indent-1\"><br></p><p class=\"ql-indent-1\">The Committee considered that an assumption of a reduction in inpatient care e.g. hospital admissions, was not supported by direct clinical trial reports. </p><p>1.10.<span style=\"font-size: 7pt;\">\u00a0\u00a0</span>The Committee noted that the target group was consistent with the definition used in the NICE guidelines for primary hyperparathyroidism in the UK and Wales (<a href=\"https://www.nice.org.uk/guidance/ng132/resources/hyperparathyroidism-primary-diagnosis-assessment-and-initial-management-pdf-66141715991749\" target=\"_blank\">NICE, 2019</a>), which recommended cinacalcet if surgery has failed or has been declined in patients with serum calcium greater than 2.85 mmol/L with symptoms or greater than 3 mmol/L without symptoms and recommended the use of bisphosphonates only for secondary osteoporosis. The Committee noted that <a href=\"https://www.uptodate.com/contents/primary-hyperparathyroidism-management?search=primary%20hyperparathyroidism&amp;source=search_result&amp;selectedTitle=2~111&amp;usage_type=default&amp;display_rank=2\" target=\"_blank\">UpToDate (February 2021)</a> recommended cinacalcet in hyperparathyroidism for non-surgical candidates with hypercalcaemia and/or severe symptoms.</p><p>1.11.<span style=\"font-size: 7pt;\">\u00a0\u00a0</span>The Committee considered that its concerns remained regarding the indirect evidence and surrogate outcomes for benefit from cinacalcet in primary hyperparathyroidism. Members noted the randomised controlled trial evidence of a quality-of-life benefit reported by Khan et al. but considered that it remained somewhat unclear whether cinacalcet simply acted as a calcimimetic or could ameliorate symptoms of hypercalcaemia, and if so, what magnitude of benefit was associated with its use. The Committee considered the quality of evidence to be low overall and consisting of expert opinion rather than high-quality clinical trials, but that further high-quality direct clinical trial evidence would not be forthcoming in this area. The Committee noted that cinacalcet acts specifically in this disease state, with biological plausibility supporting extrapolation of the available data for beneficial outcomes, and acknowledged the Endocrinology Subcommittee\u2019s view that cinacalcet would be expected to provide benefit in this setting. The Committee noted that there is randomised controlled trial evidence of improvement in quality-of-life measures in primary hyperparathyroidism and considered that this was supported by evidence of benefit in secondary hyperparathyroidism.</p><p>1.12.<span style=\"font-size: 7pt;\">\u00a0\u00a0</span>Overall, the Committee noted the uncertain benefits associated with surrogate outcomes in this setting, but considered that a reduction in serum calcium from cinacalcet should translate into a reduction in hospitalisations (for treatment of symptomatic hypercalcaemia and its complications) and an improvement in quality of life (although difficult to quantify). The Committee therefore considered that funding cinacalcet for this small patient group with an unmet health need was pragmatic and reasonable. </p><p>1.13.<span style=\"font-size: 7pt;\">\u00a0</span>The Committee noted the Endocrinology Subcommittee indicated there were about six to ten new cases per year in New Zealand who would be within the target group. The Committee also noted Pharmac staff\u2019s estimate of up to 230 new cases per year, based on international data for age-adjusted incidence and suitability for surgery. The Committee considered that the number estimated by the Endocrinology Subcommittee appeared to be low, but also that the Pharmac staff estimate was likely too high as this included patients not meeting the biochemical criteria in the proposed Special Authority, and many New Zealand patients may otherwise be referred for surgery. The Committee considered that the proposed criteria were for a severe subgroup and it was likely there were only a small number of New Zealand patients who meet these criteria. The Committee noted that 395 parathyroidectomies were performed in New Zealand in 2017-18 although this number would include operations for all types of hyperparathyroidism, of which primary hyperparathyroidism might account for one third. </p><p>1.14. <span style=\"font-size: 7pt;\">\u00a0</span>The Committee considered that the proportion of patients not having surgery due to patient or clinician choice would be very small. Members noted that the literature-based estimate of the proportion of patients reported to be unsuitable for surgery (10-50%; <a href=\"https://link.springer.com/article/10.1007/s12020-018-1676-3\" target=\"_blank\">Pappachan et al. Endocrine 2018;62:174-81</a>) was from an elderly population of which half did not receive surgery due to patient choice, and considered that this estimate identified a wider pool of patients than those targeted by the proposed Special Authority criteria. </p><p>1.15.<span style=\"font-size: 7pt;\">\u00a0</span>The Committee considered it challenging to confirm numbers for patients requiring hospital care for hyperparathyroidism. The Committee was made aware of Ministry of Health data that indicated there were 301 admissions for hyperparathyroidism (E21 code: Hyperparathyroidism and other disorders of parathyroid gland) in 2017-18 of mean 3.7 days inpatient stay, occurring mostly in females (70%) and with about a third aged over 70 years. However, the Committee considered that this data was not well aligned to the target population as it included all types of hyperparathyroidism, and did not represent the outcomes of a severe group who are unable to have surgery. The Committee considered that a detailed analysis of this admission data would help to clarify the actual number of patients admitted for hospital management of primary hyperparathyroidism without surgery in New Zealand and strongly encouraged Pharmac staff to pursue this to inform their assessment of cinacalcet. </p><p>1.16.<span style=\"font-size: 7pt;\">\u00a0</span>The Committee considered that bisphosphonates are not a suitable comparator treatment in this setting, as they are generally only used as a short-term treatment for hypercalcaemia, do not directly affect the underlying cause of disease, and are excluded from some guidelines for management of primary hyperparathyroidism. However, members considered that some bisphosphonate use occurs in primary hyperparathyroidism where no alternative treatments are available. </p><p>1.17.<span style=\"font-size: 7pt;\">\u00a0</span>The Committee considered that cinacalcet would be used as single-agent therapy, replacing inpatient care i.e. bisphosphonates, loop-diuretics, fluids and in-hospital nursing and ancillary care. The Committee noted a Pharmac estimate of 0.09 hospitalisations per year for patients with hypercalcaemia, based on the study by <a href=\"https://link.springer.com/article/10.1007/s12020-018-1676-3\" target=\"_blank\">Pappachan et al. (2018)</a>. The Committee considered that the estimated hospitalisation rate appeared low and considered that the actual hospitalisation rate would be greater than this, but also noted the lack of published data on hospitalisation rates for this patient group. The Committee considered that a reduction in hospital care was likely and may be a key driver of costs, with potential health benefits (based on indirect evidence) and quality of life improvement. The Committee considered that those patients who do not respond to cinacalcet are a highly comorbid subgroup who would be expected to cease cinacalcet treatment due to treatment being poorly tolerated, increasing sickness, or death.</p><p>1.18. The Committee considered that the below summarises its interpretation of the most appropriate PICO (population, intervention, comparator, outcomes) information for cinacalcet if it were to be funded in New Zealand for primary hyperparathyroidism. This PICO captures key clinical aspects of the proposal and may be used to frame any future economic assessment by Pharmac staff. This PICO is based on the Committee\u2019s assessment at this time and may differ from that requested by the applicant. The PICO may change based on new information, additional clinical advice, or further analysis by Pharmac staff. </p><table class=\"ql-table-blob\" border=\"0\" style=\"width: 460.45pt;\" width=\"614\"><tbody><tr style=\"height: 22.1pt;\"><td colspan=\"1\" rowspan=\"1\" valign=\"top\" width=\"100\" style=\"width: 75.3pt; border: solid windowtext 1.0pt; height: 22.1pt;\">\n  <p class=\"MsoNormal\"><b>P</b><span style=\"color: black;\">opulation </span></p>\n  </td><td colspan=\"1\" rowspan=\"1\" valign=\"top\" width=\"514\" style=\"width: 385.15pt; border: solid windowtext 1.0pt; height: 22.1pt;\">\n  <p class=\"MsoNormal\" style=\"\">Patients with primary hyperparathyroidism\n  who are not deemed operable, or surgery has failed, or surgery is\n  contraindicated;</p>\n  <p class=\"MsoNormal\" style=\"\">Patients also have either a) symptomatic\n  disease and serum calcium &gt;2.85mmol/L or b) asymptomatic disease and serum\n  calcium &gt;3.0mmol/L</p>\n  <p class=\"MsoNormal\" style=\"\">Average age at initiation 72.3 years based\n  on the baseline characteristics in the trial by <a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5729741/\" target=\"_blank\">Khan et al. Eur\n  J Endocrinol 2015;172: 527-35</a></p>\n  </td></tr><tr style=\"height: 17.65pt;\"><td colspan=\"1\" rowspan=\"1\" valign=\"top\" width=\"100\" style=\"width: 75.3pt; border: solid windowtext 1.0pt; height: 17.65pt;\">\n  <p class=\"MsoNormal\"><b><span style=\"color: black;\">I</span></b><span style=\"color: black;\">ntervention</span></p>\n  </td><td colspan=\"1\" rowspan=\"1\" valign=\"top\" width=\"514\" style=\"width: 385.15pt; height: 17.65pt;\">\n  <p class=\"MsoNormal\" style=\"\">Cinacalcet, mean daily dose 82.7 mg based\n  on Khan et al. (2015)\u00a0 </p>\n  </td></tr><tr style=\"height: 3.4pt;\"><td colspan=\"1\" rowspan=\"1\" valign=\"top\" width=\"100\" style=\"width: 75.3pt; border: solid windowtext 1.0pt; height: 3.4pt;\">\n  <p class=\"MsoNormal\"><b><span style=\"color: black;\">C</span></b><span style=\"color: black;\">omparator(s)</span></p>\n  <p class=\"MsoNormal\"><span style=\"color: black;\">(NZ context)</span></p>\n  </td><td colspan=\"1\" rowspan=\"1\" valign=\"top\" width=\"514\" style=\"width: 385.15pt; height: 3.4pt;\">\n  <p class=\"MsoNormal\" style=\"\">Best supportive care (not bisphosphonates)</p>\n  </td></tr><tr style=\"height: 22.1pt;\"><td colspan=\"1\" rowspan=\"1\" valign=\"top\" width=\"100\" style=\"width: 75.3pt; border: solid windowtext 1.0pt; height: 22.1pt;\">\n  <p class=\"MsoNormal\"><b><span style=\"color: black;\">O</span></b><span style=\"color: black;\">utcome(s)</span></p>\n  </td><td colspan=\"1\" rowspan=\"1\" valign=\"top\" width=\"514\" style=\"width: 385.15pt; height: 22.1pt;\">\n  <p class=\"MsoNormal\" style=\"\">Reduction in parathyroid hormone and serum\n  calcium vs placebo</p>\n  <p class=\"MsoNormal\" style=\"\">No change in bone mineral density (BMD) or\n  risk of cardiovascular (CV) events vs placebo</p>\n  <p class=\"MsoNormal\" style=\"\">Based on reduction in serum calcium (and\n  no change in BMD), could extrapolate to assume:</p>\n  <p class=\"MsoListParagraphCxSpFirst\" style=\"\"><span style=\"font-family: Symbol;\">\u00b7<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\n  </span></span>Improvement in quality of life (symptom\n  amelioration), primarily through improvement in mental components of quality\n  of life</p>\n  <p class=\"MsoListParagraphCxSpMiddle\" style=\"\"><span style=\"font-family: Symbol;\">\u00b7<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\n  </span></span>Reduction in risk of mortality (indirect,\n  uncertain)</p>\n  <p class=\"MsoListParagraphCxSpLast\" style=\"\"><span style=\"font-family: Symbol;\">\u00b7<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\n  </span></span>Reduction in the need for hospitalisations to\n  correct hypercalcaemia </p>\n  </td></tr></tbody></table><p><br></p>",
+          "Status_History__c": "a132P000000DOnvQAG"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Jul 2008",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Following Clinical Advice, Pharmac staff considers the advice and the funding application under goes an assessment using our&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/factors-for-consideration/\" rel=\"nofollow\">Factors for Consideration</a>&nbsp;framework and seeks additional information as required.</p>\r\n<p>&nbsp;</p>\r\n<p>Research and Economic analysis are undertaken.&nbsp; This focuses on the costs and benefits of a proposed course of action. Economics is based on three fundamental concepts that summarise the issues Pharmac faces daily:&nbsp;</p>\r\n<ul>\r\n<li>Scarcity &ndash; resources will always be insufficient to support all possible activities.</li>\r\n<li>Choices &ndash; due to scarce resources, decisions must be made about how best to use them.</li>\r\n<li>Opportunity cost &ndash; by choosing to use resources one way, we forgo other opportunities to use the same resources.</li>\r\n</ul>\r\n<p>&nbsp;</p>\r\n<p>For further information on the purpose of, and techniques for, undertaking economic analysis in health care, please refer&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/economic-analysis/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/economic-analysis/</a></p>",
+    "position": 2,
+    "name": "Under Assessment",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Nov 2015",
+          "fs": "Nov 2015",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Working to compare options",
+          "fs": "Working to compare options",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P000006pnQVUAY"
+          },
+          "Id": "a0P2P000006pnQVUAY",
+          "Event_Date__c": "2015-11-06",
+          "Event_Description__c": "Working to compare options",
+          "Stage__c": "Under Assessment",
+          "Formatted_Date__c": "Nov 2015",
+          "Status_History__c": "a132P000000Ar27QAC"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "May 2016",
+          "fs": "May 2016",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Working to compare options",
+          "fs": "Working to compare options",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P000006pnQaUAI"
+          },
+          "Id": "a0P2P000006pnQaUAI",
+          "Event_Date__c": "2016-05-06",
+          "Event_Description__c": "Working to compare options",
+          "Stage__c": "Under Assessment",
+          "Formatted_Date__c": "May 2016",
+          "Status_History__c": "a132P000000Ar8RQAS"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Sep 2021",
+          "fs": "Sep 2021",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Working to compare options",
+          "fs": "Working to compare options",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P000006pnQgUAI"
+          },
+          "Id": "a0P2P000006pnQgUAI",
+          "Event_Date__c": "2021-09-07",
+          "Event_Description__c": "Working to compare options",
+          "Stage__c": "Under Assessment",
+          "Formatted_Date__c": "Sep 2021",
+          "Status_History__c": "a132P000000D9gBQAS"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Nov 2015",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Pharmac staff uses a prioritisation process to compare and rank funding options. Possible opportunities for new investment will always exceed the budget Pharmac has available; therefore, prioritisation is an intrinsic part of Pharmac\u2019s decision-making process.</p>\r\n<p>The relative ranking of options aims to support Pharmac&rsquo;s statutory objective &ldquo;to secure for eligible people in need of pharmaceuticals, the best health outcomes that are reasonably achievable from pharmaceutical treatment and from within the amount of funding provided&rdquo;.</p>\r\n<p>A funding application or proposal is considered ready for prioritisation when sufficient information is available to permit it to be reviewed against Pharmac's Factors for Consideration and to inform a comparison with other possible investment decisions.</p>\r\n<p>There is no guarantee when or if a ranked medicine will be funded.&nbsp;&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/prioritisation/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/prioritisation/</a></p>",
+    "position": 3,
+    "name": "Options Compared",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Nov 2013",
+          "fs": "Nov 2013",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "The relative ranking of the pharmaceutical application has been completed.",
+          "fs": "The relative ranking of the pharmaceutical application has been completed.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P000006pnQSUAY"
+          },
+          "Id": "a0P2P000006pnQSUAY",
+          "Event_Date__c": "2013-11-05",
+          "Event_Description__c": "The relative ranking of the pharmaceutical application has been completed.",
+          "Stage__c": "Options Compared",
+          "Formatted_Date__c": "Nov 2013",
+          "Status_History__c": "a132P000000AqUUQA0"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Mar 2016",
+          "fs": "Mar 2016",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "The relative ranking of the pharmaceutical application has been completed.",
+          "fs": "The relative ranking of the pharmaceutical application has been completed.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P000006pnQWUAY"
+          },
+          "Id": "a0P2P000006pnQWUAY",
+          "Event_Date__c": "2016-03-08",
+          "Event_Description__c": "The relative ranking of the pharmaceutical application has been completed.",
+          "Stage__c": "Options Compared",
+          "Formatted_Date__c": "Mar 2016",
+          "Status_History__c": "a132P000000Ar6HQAS"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Mar 2016",
+          "fs": "Mar 2016",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Received Additional Information",
+          "fs": "Received Additional Information",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P000006pnQXUAY"
+          },
+          "Id": "a0P2P000006pnQXUAY",
+          "Event_Date__c": "2016-03-29",
+          "Event_Description__c": "Received Additional Information",
+          "Stage__c": "Options Compared",
+          "Formatted_Date__c": "Mar 2016",
+          "Status_History__c": "a132P000000Ar6dQAC"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Jun 2016",
+          "fs": "Jun 2016",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "The relative ranking of the pharmaceutical application has been completed.",
+          "fs": "The relative ranking of the pharmaceutical application has been completed.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P000006pnQbUAI"
+          },
+          "Id": "a0P2P000006pnQbUAI",
+          "Event_Date__c": "2016-06-07",
+          "Event_Description__c": "The relative ranking of the pharmaceutical application has been completed.",
+          "Stage__c": "Options Compared",
+          "Formatted_Date__c": "Jun 2016",
+          "Status_History__c": "a132P000000Ar9XQAS"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Oct 2021",
+          "fs": "Oct 2021",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "The relative ranking of the pharmaceutical application has been completed.",
+          "fs": "The relative ranking of the pharmaceutical application has been completed.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P000006pnQhUAI"
+          },
+          "Id": "a0P2P000006pnQhUAI",
+          "Event_Date__c": "2021-10-26",
+          "Event_Description__c": "The relative ranking of the pharmaceutical application has been completed.",
+          "Stage__c": "Options Compared",
+          "Formatted_Date__c": "Oct 2021",
+          "Status_History__c": "a132P000000DGwFQAW"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Nov 2013",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Pharmac is consulting on a proposal to either approve or decline the application.&nbsp;We seek the views of all people who have an interest in our proposals, or who may be affected by them, to obtain feedback on our proposed approaches.</p>\r\n<p><a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/having-your-say/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/having-your-say/</a></p>",
+    "position": 4,
+    "name": "Under Consultation",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": "<p><a href=\"https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/2022-08-31-proposals-to-fund-treatments-for-people-with-kidney-disease-osteoporosis-cancers-hyperparathyroidism-and-injuries-from-burns/?page=3\" target=\"_blank\">Consultation notification</a></p>",
+          "fs": "<p><a href=\"https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/2022-08-31-proposals-to-fund-treatments-for-people-with-kidney-disease-osteoporosis-cancers-hyperparathyroidism-and-injuries-from-burns/?page=3\" target=\"_blank\">Consultation notification</a></p>",
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Aug 2022",
+          "fs": "Aug 2022",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Public consultation for this application is active.",
+          "fs": "Public consultation for this application is active.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P000006pnQjUAI"
+          },
+          "Id": "a0P2P000006pnQjUAI",
+          "Event_Date__c": "2022-08-31",
+          "Event_Description__c": "Public consultation for this application is active.",
+          "Stage__c": "Under Consultation",
+          "Links__c": "<p><a href=\"https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/2022-08-31-proposals-to-fund-treatments-for-people-with-kidney-disease-osteoporosis-cancers-hyperparathyroidism-and-injuries-from-burns/?page=3\" target=\"_blank\">Consultation notification</a></p>",
+          "Formatted_Date__c": "Aug 2022",
+          "Status_History__c": "a132P000000E8cnQAC"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Aug 2022",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Following the consultation process, Pharmac staff considers the feedback and identifies any additional information required as part of a gap analysis.&nbsp; The proposal may require further clinical advice, research, and assessment.</p>",
+    "position": 5,
+    "name": "Reviewing Consultation Feedback",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Sep 2022",
+          "fs": "Sep 2022",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Public consultation for this application is now closed. Pharmac is reviewing consultation feedback.",
+          "fs": "Public consultation for this application is now closed. Pharmac is reviewing consultation feedback.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P000006pnQkUAI"
+          },
+          "Id": "a0P2P000006pnQkUAI",
+          "Event_Date__c": "2022-09-16",
+          "Event_Description__c": "Public consultation for this application is now closed. Pharmac is reviewing consultation feedback.",
+          "Stage__c": "Reviewing Consultation Feedback",
+          "Formatted_Date__c": "Sep 2022",
+          "Status_History__c": "a132P000000E8csQAC"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Sep 2022",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>We refer to our decisions about whether and how particular pharmaceuticals are publicly-funded, as &ldquo;funding decisions&rdquo;.</p>\r\n<p>We consider and assess all funding decisions using the&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/about/operating-policies-and-procedures/#factorsfc\" rel=\"nofollow\">Factors for Consideration</a>. When we do so, we carefully evaluate clinical and other evidence for the benefits and suitability of a proposal, and to identify and understand the people who will be affected by it.</p>\r\n<p>While our main task is to allocate pharmaceutical funding, we consider the benefits and costs across the whole health system now and with a long-term focus, including the effects for hospitals and primary care, and consider direct costs to patients as well as to all health sector budgets.</p>\r\n<p>Final funding decisions are made by the Pharmac Board or delegated to senior Pharmac staff as required by the Board.</p>\r\n<p>&nbsp;</p>",
+    "position": 6,
+    "name": "Decision",
+    "last": true,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": "<p><a href=\"https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/2022-11-10-decisions-to-fund-treatments-for-people-with-kidney-disease-osteoporosis-cancers-hyperparathyroidism-and-injuries-from-burns/\" target=\"_blank\">Decision notification</a></p>",
+          "fs": "<p><a href=\"https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/2022-11-10-decisions-to-fund-treatments-for-people-with-kidney-disease-osteoporosis-cancers-hyperparathyroidism-and-injuries-from-burns/\" target=\"_blank\">Decision notification</a></p>",
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Nov 2022",
+          "fs": "Nov 2022",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "The funding application has been approved.",
+          "fs": "The funding application has been approved.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P000006pnQlUAI"
+          },
+          "Id": "a0P2P000006pnQlUAI",
+          "Event_Date__c": "2022-11-10",
+          "Event_Description__c": "The funding application has been approved.",
+          "Stage__c": "Decision",
+          "Links__c": "<p><a href=\"https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/2022-11-10-decisions-to-fund-treatments-for-people-with-kidney-disease-osteoporosis-cancers-hyperparathyroidism-and-injuries-from-burns/\" target=\"_blank\">Decision notification</a></p>",
+          "Formatted_Date__c": "Nov 2022",
+          "Status_History__c": "a132P000000EB5RQAW"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Nov 2022",
+    "collapsed": false,
+    "checked": true
+  }
+]

@@ -1,0 +1,626 @@
+[
+  {
+    "text": "<p>New funding applications are referred to one of Pharmac's Funding Application Advisors (FAAs), who'll review the application to ensure they have the relevant information to undertake a preliminary analysis.&nbsp; They may seek more information if required.</p>\r\n<p><a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/new-funding-applications/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/new-funding-applications/</a></p>",
+    "position": 0,
+    "name": "Application Received",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Nov 2015",
+          "fs": "Nov 2015",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Application received",
+          "fs": "Application received",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000B9cZH2AZ"
+          },
+          "Id": "a0POZ00000B9cZH2AZ",
+          "Event_Date__c": "2015-11-09",
+          "Event_Description__c": "Application received",
+          "Stage__c": "Application Received",
+          "Formatted_Date__c": "Nov 2015",
+          "Status_History__c": "a132P000000Cw30QAC"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Feb 2021",
+          "fs": "Feb 2021",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Received Additional Information",
+          "fs": "Received Additional Information",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000B9cZI2AZ"
+          },
+          "Id": "a0POZ00000B9cZI2AZ",
+          "Event_Date__c": "2021-02-17",
+          "Event_Description__c": "Received Additional Information",
+          "Stage__c": "Application Received",
+          "Formatted_Date__c": "Feb 2021",
+          "Status_History__c": "a132P000000D2s0QAC"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Nov 2015",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Pharmac is identifying and gathering information required to get clinical advice.  The <a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/pharmacology-and-therapeutics-advisory-committee-ptac/\" rel=\"nofollow\">Pharmacology and Therapeutics Advisory Committee (PTAC)</a>  meets quarterly. There are also around 20 expert <a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/specialist-advisory-committees/\" rel=\"nofollow\">Specialist Advisory Committees (SACs)</a>, previously expert Subcommittees, which provide clinical evaluations in specialist areas. Specialist Advisory Committees meet as required to discuss issues referred to them by PTAC or Pharmac.</p>\n<p style=\"height: 20px\">&nbsp;</p>\n<p>In November 2021, we introduced separate terms of reference for the SACs to make clear that these committees have different, but complementary, roles, expertise and perspectives to PTAC.</p>\n<p style=\"height: 15px\">&nbsp;</p>\n<p>PTAC and SACs may make recommendations to Pharmac that differ from each other when looking at the same evidence. Pharmac considers the recommendations provided by all our clinical advisory committees when assessing applications.</p>\n<p style=\"height: 20px\">&nbsp;</p>\n<p><a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/pharmacology-and-therapeutics-advisory-committee-ptac/ptac-terms-of-reference-july-2021/\" rel=\"nofollow\">PTAC</a>  and <a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/specialist-advisory-committees/specialist-advisory-committee-terms-of-reference//\" rel=\"nofollow\">Specialist Advisory Committees</a> records of the meeting will be published on this website in accordance with the Terms of Reference.</p>",
+    "position": 1,
+    "name": "Seeking Clinical Advice",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Apr 2021",
+          "fs": "Apr 2021",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Clinical advice required",
+          "fs": "Clinical advice required",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000B9cZJ2AZ"
+          },
+          "Id": "a0POZ00000B9cZJ2AZ",
+          "Event_Date__c": "2021-04-01",
+          "Event_Description__c": "Clinical advice required",
+          "Stage__c": "Seeking Clinical Advice",
+          "Formatted_Date__c": "Apr 2021",
+          "Status_History__c": "a132P000000Cw35QAC"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": "<p>1.1.\tThe Subcommittee recommended that pomalidomide (in combination with bortezomib and dexamethasone, as PVd) for the third-line treatment of relapsed or refractory multiple myeloma be funded with a high priority, in the context of treatment of malignancy, subject to the following Special Authority criteria:</p><p>POMALIDOMIDE</p><p>Initial application \u2013 (relapsed/refractory multiple myeloma) only from a haematologist or medical practitioner on the recommendation of a haematologist. Approvals valid for 6 months for applications meeting the following criteria:</p><p>All of the following:</p><p>1.\tPatient has relapsed or refractory multiple myeloma with progressive disease; and</p><p>2.\tPatient has received two prior lines of treatment; and</p><p>3.\tTreatment to be administered in combination with dexamethasone with bortezomib (PVd).</p><p><br></p><p>Renewal - (relapsed/refractory multiple myeloma) only from a haematologist or any other medical practitioner on the recommendation of a haematologist. Approvals valid for 6 months for applications meeting the following criteria:</p><p>Both:</p><p>1.\tNo evidence of disease progression; and</p><p>2.\tThe treatment remains appropriate and patient is benefitting from treatment.</p><p><br></p><p>1.1.1.\tIn making this recommendation, the Subcommittee considered:</p><p>-\tThe high health need of patients with multiply relapsed/refractory multiple myeloma (including lenalidomide-refractory disease) requiring third-line treatment; and\u00a0</p><p>-\tThe evidence for a PFS benefit with pomalidomide with bortezomib and dexamethasone in this setting.</p>",
+          "fs": "<p>1.1.\tThe Subcommittee recommended that pomalidomide (in combination with bortezomib and dexamethasone, as PVd) for the third-line treatment of relapsed or refractory multiple myeloma be funded with a high priority, in the context of treatment of malignancy, subject to the following Special Authority criteria:</p><p>POMALIDOMIDE</p><p>Initial application \u2013 (relapsed/refractory multiple myeloma) only from a haematologist or medical practitioner on the recommendation of a haematologist. Approvals valid for 6 months for applications meeting the following criteria:</p><p>All of the following:</p><p>1.\tPatient has relapsed or refractory multiple myeloma with progressive disease; and</p><p>2.\tPatient has received two prior lines of treatment; and</p><p>3.\tTreatment to be administered in combination with dexamethasone with bortezomib (PVd).</p><p><br></p><p>Renewal - (relapsed/refractory multiple myeloma) only from a haematologist or any other medical practitioner on the recommendation of a haematologist. Approvals valid for 6 months for applications meeting the following criteria:</p><p>Both:</p><p>1.\tNo evidence of disease progression; and</p><p>2.\tThe treatment remains appropriate and patient is benefitting from treatment.</p><p><br></p><p>1.1.1.\tIn making this recommendation, the Subcommittee considered:</p><p>-\tThe high health need of patients with multiply relapsed/refractory multiple myeloma (including lenalidomide-refractory disease) requiring third-line treatment; and\u00a0</p><p>-\tThe evidence for a PFS benefit with pomalidomide with bortezomib and dexamethasone in this setting.</p>",
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": "<p><span style=\"color: black;\">1.1.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee considered that, based on real-world clinical practice, almost all patients with multiple myeloma will receive first-line treatment although only about 61% and 38% of patients will receive second- and third-line treatments, respectively.</p><p><span style=\"color: black;\">1.2.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee considered that the possible second-line treatment options consisted of bortezomib retreatment (as CyBorD/BTD) or bortezomib in combination with melphalan and prednisone (BMP) and that it was preferable to expose patients to new agents than retreating with bortezomib. Alternatively, patients would receive a thalidomide-based regimen, which would consist of cyclophosphamide, thalidomide and dexamethasone (CTD) or melphalan, prednisone and thalidomide (MPT), all for approximately six to 12 cycles. The Subcommittee noted that patients could be eligible for lenalidomide in combination with dexamethasone until progression if neuropathy prevents use of bortezomib and thalidomide-based regimens. The Subcommittee noted that in patients with relapsed/refractory multiple myeloma, if remission was for greater than two to three years, and the patient was transplant eligible, a second autologous stem cell transplant would be offered.</p><p><span style=\"color: black;\">1.3.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee considered that the choice of second-line regimen would be determined by the duration of response to first-line treatment, toxicities experienced in the first-line, and patient-specific factors including the desire for oral therapy.</p><p><span style=\"color: black;\">1.4.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that once a patient progresses after second line therapy, if they had received an autologous stem cell transplant with lenalidomide maintenance there are no further options for this patient group. The Subcommittee noted that lenalidomide with dexamethasone with or without bortezomib was a third-line treatment option, only for transplant-ineligible patients who had not received lenalidomide maintenance post autologous stem cell transplant.</p><p><span style=\"color: black;\">1.5.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee was made aware of data reporting progression-free survival (PFS) of around eight months with bortezomib retreatment in relapsed multiple myeloma, from two clinical trials, and considered the efficacy of bortezomib retreatment after first-line bortezomib to be limited:</p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>A 6.5-month duration of response was reported in 130 patients who received bortezomib with or without dexamethasone after median two prior lines of therapy (<a href=\"https://doi.org/10.1111/bjh.12198\" target=\"_blank\">Petrucci et al. Br J Haematol. 2013;160:649-59</a>); and</p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>In the CASTOR trial control arm of bortezomib and dexamethasone (N = 113), median PFS was 7.1 months and median PFS in patients who had received one prior line of therapy was 7.9 months. About 45% of patients had received one prior line, and about 70% of patients had prior bortezomib exposure (<a href=\"http://www.haematologica.org/content/103/12/2079.long\" target=\"_blank\">Spencer et al. Haematologica. 2018;103:2079-87</a>).</p><p><span style=\"color: black;\">1.6.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee considered that the duration of benefit from thalidomide in the second-line setting was hard to estimate, as clinical trials generally allow use of agents at relapse that are less comparable to the New Zealand setting, however, noted that thalidomide is associated with relatively short PFS and toxicities including neuropathy which limit its use. The Subcommittee considered it reasonable to assume that outcomes would be similar to that observed in patients retreated with bortezomib.</p><p><span style=\"color: black;\">1.7.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee was made aware of evidence that a significant number of patients (about 50%) progress on lenalidomide maintenance and have few subsequent treatment options, as they are unlikely to receive a response from thalidomide and early relapse after prior bortezomib treatment makes its use in retreatment less likely to be successful (<a href=\"https://ashpublications.org/blood/article/134/Supplement_1/1779/427686/Outcomes-in-Multiple-Myeloma-Patients-Progressing\" target=\"_blank\">Sanchez et al. Blood. 2019;134(Suppl_1):1779</a>).</p><p><span style=\"color: black;\">1.8.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee considered that in New Zealand the second-line treatment options provide suboptimal benefits and that there is a definite need for more effective second-line treatment for multiple myeloma including lenalidomide-refractory patients. The Subcommittee considered the unmet need for treatments in later lines of therapy was also high, but that the number of patients requiring treatment in this context was less, and that there would be a proportion of patients who would remain eligible for lenalidomide-based treatment in this setting.</p><p><span style=\"color: black;\">1.9.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that multiple myeloma treatment is evolving internationally with use of other combinations and other treatments, and was made aware of international clinical guidelines that recommend second-line treatments or combinations that are not funded in New Zealand (<a href=\"https://jnccn.org/doi/10.6004/jnccn.2018.0002\" target=\"_blank\">Kumar et al. J Natl Compr Canc Netw. 2018;16:11-20</a>; <a href=\"https://linkinghub.elsevier.com/retrieve/pii/3768071\" target=\"_blank\">Moreau et al. Ann Oncol. 2017;28(suppl_4):iv52-iv61</a>). The Subcommittee noted that some of the potential treatments that could be used by patients with relapsed/refractory multiple myeloma include, but are not limited to carfilzomib, ixazomib, pomalidomide, daratumumab and elotuzumab.</p><p><span style=\"color: black;\">1.10.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Subcommittee noted that the New Zealand Myeloma Interest Group (NZMIG) has expressed its preference for daratumumab (especially if subcutaneous) and carfilzomib, which the NZMIG consider very effective, to be funded for the treatment of relapsed/refractory multiple myeloma. However, the Subcommittee noted that Pharmac sought advice at this time regarding carfilzomib and pomalidomide in the context of currently funded treatments (ie without consideration of unfunded treatments such as daratumumab).</p><p><br></p><p>Pomalidomide</p><p><span style=\"color: black;\">1.1.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that CaTSoP had previously reviewed in <a href=\"https://pharmac.govt.nz/assets/ptac-cancer-treatments-subcommittee-minutes-2016-04.pdf\" target=\"_blank\">April 2016</a> an application for pomalidomide in combination with dexamethasone in the relapsed/refractory (fourth-line) setting and had recommended it be funded with a low priority (refer to the <a href=\"https://connect.pharmac.govt.nz/apptracker/s/application-public/a102P000008puU1/p001088\" target=\"_blank\">Application Tracker</a> for full history). The Subcommittee noted that pomalidomide is an immunomodulatory agent that is an analogue of thalidomide, and that it is administered as an oral treatment.</p><p><span style=\"color: black;\">1.2.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that Medsafe has approved pomalidomide in combination with dexamethasone for the treatment of patients with relapsed and refractory multiple myeloma who have received at least two prior treatment regimens, including both lenalidomide and bortezomib, and have experienced disease progression on the last therapy. The Subcommittee noted that the Medsafe-approved dosing regimen is pomalidomide 4 mg per day taken orally on days 1-21 of repeated 28-day cycles (21/28 days), in combination with dexamethasone, until disease progression.</p><p><span style=\"color: black;\">1.3.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that the New Zealand Myeloma Interest Group considers that pomalidomide is less burdensome for patients than carfilzomib but prefers to reserve pomalidomide for use in later lines. However, the Subcommittee noted that the impact of pomalidomide on reducing the infusion burden would only be relevant if it were not used in combination with bortezomib, which is administered subcutaneously.</p><p><span style=\"color: black;\">1.4.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that international funding bodies in Australia and Canada have recommended pomalidomide be funded for second-line or third-line use; in Scotland is pomalidomide is recommended for third-line use; and in England and Wales it is recommended for fourth-line or later use, in combination with dexamethasone.</p><p><span style=\"color: black;\">1.5.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that the evidence supporting the use of pomalidomide in earlier lines of therapy is in combination with bortezomib and dexamethasone, while the evidence supporting the use of pomalidomide in later lines is in combination with dexamethasone.</p><p>Evidence for pomalidomide in combination with bortezomib and dexamethasone</p><p><span style=\"color: black;\">1.6.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted evidence from the randomised (1:1), open-label, phase III MM-007 (OPTIMISMM) study, which included 559 patients with relapsed or refractory multiple myeloma with measurable disease <a href=\"https://linkinghub.elsevier.com/retrieve/pii/S1470-2045(19)30152-4\" target=\"_blank\">Richardson et al. Lancet Oncol. 2019;20:781-94</a>). The Subcommittee noted that participants had received one to three prior lines of therapy (median one) including a lenalidomide-containing regimen; that 50-72% had prior exposure to bortezomib; and that 40-64% had a prior transplant.</p><p>1.6.1.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that participants received oral pomalidomide (4 mg/day on days 1-14) with bortezomib (1.3 mg/m2) and low-dose dexamethasone (20 mg if aged \u226475 years, otherwise 10 mg) (PVd regimen) or bortezomib with low-dose dexamethasone (Vd regimen), and that 21-day treatment cycles continued until progressive disease or unacceptable toxicity.</p><p>1.6.2.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that the primary endpoint was PFS, which was median 11.2 months (95% CI 9.7 to 13.7) with pomalidomide, bortezomib and dexamethasone vs 7.1 months (5.9 to 8.5) with bortezomib and dexamethasone (HR 0.61, 95% CI 0.49 to 0.77; <i>P</i>&lt;0.0001).</p><p>1.6.3.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted the overall response rate in patients who had once prior line and whose disease was refractory to lenalidomide was 85.0% with pomalidomide, bortezomib and dexamethasone vs 50.8% with bortezomib and dexamethasone; overall response rates were 95% vs 60%, respectively, in patients who had one prior line and were lenalidomide sensitive. The Subcommittee noted that median PFS in lenalidomide refractory patients was 12.84 months with pomalidomide, bortezomib and dexamethasone vs 9.49 months with bortezomib and dexamethasone (<i>P</i>=0.028) and median PFS in lenalidomide sensitive patients was 20.01 months with pomalidomide, bortezomib and dexamethasone vs 11.96 months with bortezomib and dexamethasone (<i>P</i>=0.049).</p><p>1.6.4.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee considered that the evidence indicated a clear benefit in multiple myeloma including those with refractory disease, and provided a benefit whether or not a patient has previously received bortezomib and whether or not a patient has had a transplant. The Subcommittee considered that if use of pomalidomide were restricted to patients with lenalidomide refractory disease, this would mean that only patients who had previously received an autologous stem cell transplant would be eligible based on the current Special Authority criteria for lenalidomide.</p><p>1.6.5.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that health-related quality of life (QOL) was maintained in MM-007 despite the addition of pomalidomide, although some patients in both groups had a clinically meaningful worsening of QOL (<a href=\"https://www.tandfonline.com/doi/abs/10.1080/10428194.2020.1747066?journalCode=ilal20\" target=\"_blank\">Weisel et al. Leuk Lymphoma. 2020;61:1850-9</a>).</p><p>Evidence for pomalidomide in combination with dexamethasone</p><p><span style=\"color: black;\">1.7.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted evidence from the phase III, multicentre, randomised (2:1), open-label MM-003 (NIMBUS) study, which included 455 patients with refractory or relapsed and refractory multiple myeloma following two previous treatments of bortezomib and lenalidomide (<a href=\"https://www.thelancet.com/journals/lanonc/article/PIIS1470-2045(13)70380-2/fulltext\" target=\"_blank\">San Miguel et. al. Lancet Oncology. 2013; 14:1055-66</a>). The Subcommittee noted that this was a heavily pre-treated and disease-refractory population with about 95% of participants having received more than two prior lines of treatment (median 5 previous treatments); more than 90% of patients were refractory to lenalidomide; and about 80% of patients were refractory to bortezomib.</p><p>1.7.1.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that participants received oral pomalidomide (4 mg/day on days 1, 8, 15 and 22) with low-dose dexamethasone (40 mg/day on days 1, 8, 15 and 22) (Pd regimen) or high-dose dexamethasone (40 mg/day on days 1-4, 9-12, and 17-20), and that 28-day treatment cycles continued until progressive disease or unacceptable toxicity.</p><p>1.7.2.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that the primary endpoint was PFS in the intention-to-treat population, and that updated PFS at the time of interim OS analysis was median 4.0 months (95% CI 3.6 to 4.7) pomalidomide plus low-dose dexamethasone vs 1.9 months (1.9 to 2.2) high-dose dexamethasone (HR 0.48; 95% CI: 0.39 to 0.60; <i>P</i>&lt;0.0001).</p><p>1.7.3.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that the median PFS in lenalidomide resistant patients was 3.9 months (95% CI: 3.5 to 4.6) vs 1.9 months (1.9 to 2.2); <i>P</i>&lt;0.0001).</p><p>1.7.4.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee considered that, while a small improvement in PFS, these results favoured low dose dexamethasone over high dose dexamethasone in this heavily pre-treated patient population with resistant disease.</p><p><span style=\"color: black;\">1.8.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee also noted the following evidence for pomalidomide in relapsed and/or refractory multiple myeloma:</p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0</span><a href=\"https://linkinghub.elsevier.com/retrieve/pii/S2152-2650(15)00363-8\" target=\"_blank\">Weisel et al. Clin Lymphoma Myeloma Leuk. 2015;15:519-30</a></p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0</span><a href=\"https://doi.org/10.1038/s41375-020-01021-3\" target=\"_blank\">Dimopoulos et al. Leukemia. 2020. doi: 10.1038/s41375-020-01021-3. Online ahead of print</a></p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0</span><a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26160879/\" target=\"_blank\">San Miguel et al. Haematologica. 2015;100:1334-9</a></p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0</span><a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26250580/\" target=\"_blank\">Dimopoulos, et al. Haematologica. 2015;100:1327-33</a></p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0</span><a href=\"https://doi.org/10.1111/bjh.13227\" target=\"_blank\">Morgan et al. Br J Haematol. 2015;168:820-3</a></p><p>Summary</p><p><span style=\"color: black;\">1.9.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee considered that the evidence supporting the use of pomalidomide in combination with bortezomib and dexamethasone in the second- and third-line setting was of good quality and high strength. The Subcommittee considered that the evidence supporting the use of pomalidomide in combination with dexamethasone in the relapsed/refractory setting was of reasonable quality.</p><p><span style=\"color: black;\">1.10.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Subcommittee considered that the evidence indicates that pomalidomide is well tolerated with minimal risks. The Subcommittee considered that it was difficult to compare pomalidomide with other novel agents in the early relapsed setting (eg. carfilzomib and daratumumab).</p><p><span style=\"color: black;\">1.11.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Subcommittee considered that there would be a limited benefit of funding pomalidomide in combination with dexamethasone in earlier lines of therapy (ie second-line), because the benefit in second line therapy is difficult to ascertain, having been studied only in later lines of therapy. However, the Subcommittee considered that it would be reasonable to assume that there would be improved survival from pomalidomide in combination with dexamethasone when used in earlier lines of treatment compared with that observed in the heavily pre-treated population in the MM-003 (NIMBUS) study.</p><p><span style=\"color: black;\">1.12.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Subcommittee noted that pomalidomide appears to be effective regardless of prior therapy, and considered that use of this agent would be preferred for patients with multiply relapsed disease (who have progressed on other lines of treatment). The Subcommittee noted that there was no evidence to inform efficacy of other treatments (eg lenalidomide) subsequently used in patients whose disease has become resistant to pomalidomide. The Subcommittee considered that pomalidomide represents an additional line of treatment that may be reserved for use as a third- or later line and considered these patients would benefit most as they have few other options available.</p><p><span style=\"color: black;\">1.13.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Subcommittee noted that the use of pomalidomide in combination with bortezomib is outside the Medsafe-approved pomalidomide indications but considered this use would be reasonable given that its use is informed by a body of clinical trial evidence and it is routine internationally.</p><p><span style=\"color: black;\">1.14.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Subcommittee noted that pomalidomide with dexamethasone is an oral therapy, whilst pomalidomide with bortezomib would require infusion resources.</p><p><span style=\"color: black;\">1.15.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Subcommittee noted that the supplier-proposed Special Authority criteria for pomalidomide considered whether or not a patient had received a prior autologous stem cell transplant, however, the Subcommittee considered that progression on a lenalidomide-containing prior treatment regimen was a more meaningful distinction.</p><p><br></p><p><i>General</i></p><p><span style=\"color: black;\">1.16.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Subcommittee noted that there was no randomised controlled trial evidence comparing second-line treatment options against each other (ie carfilzomib vs pomalidomide) therefore evidence was lacking to inform preferred treatment sequencing. However, the Subcommittee considered that there would be a preference for carfilzomib to be used second-line, with pomalidomide reserved for third-line or later use. The Subcommittee noted that it will consider an <a href=\"https://connect.pharmac.govt.nz/apptracker/s/application-public/a102P00000BD0yw/p001671\" target=\"_blank\">application for subcutaneous daratumumab</a> at a future meeting and that the Subcommittee could again indicate the preferred treatment options for this population at that time.\u00a0</p><p><span style=\"color: black;\">1.17.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Subcommittee considered that it would be reasonable to target funding via Special Authority criteria to enable carfilzomib and pomalidomide each to be used once per patient lifetime, or to be used in pre-specified treatment lines, as supported by evidence.</p><p><span style=\"color: black;\">1.18.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Subcommittee noted the estimate that 50% of patients with multiple myeloma may be eligible for transplant. However, the Subcommittee considered this estimate was likely too high for second- or third-line patients, as transplant eligibility decreases over time given the age of patients at initial diagnosis. The Subcommittee considered that in time, the funded use of lenalidomide in the relapsed/refractory setting would be indicative of the proportion of patients who are ineligible for transplant in third-line setting. The Subcommittee noted that there are approximately 400 patients diagnosed with multiple myeloma each year and considered that approximately 50% would initially be eligible for transplant. The Subcommittee considered that on this basis there would be approximately 130 patients who would relapse post-transplant each year; that there would be approximately 150 patients who would relapse after first line treatment if ineligible for transplant each year; and there would be approximately 170 patients who would require treatment in the third line setting each year.</p><p><span style=\"color: black;\">1.19.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Subcommittee considered that the number of cycles received will depend on PFS which is influenced by prior lines of therapy and the proportion of patients whose disease was refractory, therefore the treatment cost per cycle would be most useful for cost-effectiveness assessment, as opposed to cost per treatment, given the variable extent of pre-treatment in the clinical trials.</p><p><span style=\"color: black;\">1.20.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Subcommittee considered that for second-line treatment, comparators could be bortezomib retreatment as CyBorD/BTD, or MPT and CTD. The Subcommittee considered that the key outcome of interest in this setting was improved PFS (above that gained from bortezomib retreatment). The Subcommittee considered the most appropriate comparator for use in the second-line would be BTD, unless the patient could not tolerate bortezomib, in which case regimens without bortezomib would be used. The Subcommittee considered that the efficacy of thalidomide in this setting is limited by the development of neuropathy, and efficacy difficult to establish from the scientific evidence base as most studies use more novel agents at relapse. The Subcommittee considered that outcomes would be expected to be worse without bortezomib.</p><p><span style=\"color: black;\">1.21.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Subcommittee considered that for third-line treatment, standard therapy is lenalidomide and dexamethasone with or without bortezomib, although patients who had a prior autologous stem cell transplant with lenalidomide maintenance could be considered for third-line treatment with a bortezomib and/or thalidomide-based regimen. The Subcommittee considered that the key outcomes of interest in this setting were improved PFS and OS.</p>",
+          "fs": "<p><span style=\"color: black;\">1.1.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee considered that, based on real-world clinical practice, almost all patients with multiple myeloma will receive first-line treatment although only about 61% and 38% of patients will receive second- and third-line treatments, respectively.</p><p><span style=\"color: black;\">1.2.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee considered that the possible second-line treatment options consisted of bortezomib retreatment (as CyBorD/BTD) or bortezomib in combination with melphalan and prednisone (BMP) and that it was preferable to expose patients to new agents than retreating with bortezomib. Alternatively, patients would receive a thalidomide-based regimen, which would consist of cyclophosphamide, thalidomide and dexamethasone (CTD) or melphalan, prednisone and thalidomide (MPT), all for approximately six to 12 cycles. The Subcommittee noted that patients could be eligible for lenalidomide in combination with dexamethasone until progression if neuropathy prevents use of bortezomib and thalidomide-based regimens. The Subcommittee noted that in patients with relapsed/refractory multiple myeloma, if remission was for greater than two to three years, and the patient was transplant eligible, a second autologous stem cell transplant would be offered.</p><p><span style=\"color: black;\">1.3.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee considered that the choice of second-line regimen would be determined by the duration of response to first-line treatment, toxicities experienced in the first-line, and patient-specific factors including the desire for oral therapy.</p><p><span style=\"color: black;\">1.4.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that once a patient progresses after second line therapy, if they had received an autologous stem cell transplant with lenalidomide maintenance there are no further options for this patient group. The Subcommittee noted that lenalidomide with dexamethasone with or without bortezomib was a third-line treatment option, only for transplant-ineligible patients who had not received lenalidomide maintenance post autologous stem cell transplant.</p><p><span style=\"color: black;\">1.5.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee was made aware of data reporting progression-free survival (PFS) of around eight months with bortezomib retreatment in relapsed multiple myeloma, from two clinical trials, and considered the efficacy of bortezomib retreatment after first-line bortezomib to be limited:</p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>A 6.5-month duration of response was reported in 130 patients who received bortezomib with or without dexamethasone after median two prior lines of therapy (<a href=\"https://doi.org/10.1111/bjh.12198\" target=\"_blank\">Petrucci et al. Br J Haematol. 2013;160:649-59</a>); and</p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>In the CASTOR trial control arm of bortezomib and dexamethasone (N = 113), median PFS was 7.1 months and median PFS in patients who had received one prior line of therapy was 7.9 months. About 45% of patients had received one prior line, and about 70% of patients had prior bortezomib exposure (<a href=\"http://www.haematologica.org/content/103/12/2079.long\" target=\"_blank\">Spencer et al. Haematologica. 2018;103:2079-87</a>).</p><p><span style=\"color: black;\">1.6.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee considered that the duration of benefit from thalidomide in the second-line setting was hard to estimate, as clinical trials generally allow use of agents at relapse that are less comparable to the New Zealand setting, however, noted that thalidomide is associated with relatively short PFS and toxicities including neuropathy which limit its use. The Subcommittee considered it reasonable to assume that outcomes would be similar to that observed in patients retreated with bortezomib.</p><p><span style=\"color: black;\">1.7.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee was made aware of evidence that a significant number of patients (about 50%) progress on lenalidomide maintenance and have few subsequent treatment options, as they are unlikely to receive a response from thalidomide and early relapse after prior bortezomib treatment makes its use in retreatment less likely to be successful (<a href=\"https://ashpublications.org/blood/article/134/Supplement_1/1779/427686/Outcomes-in-Multiple-Myeloma-Patients-Progressing\" target=\"_blank\">Sanchez et al. Blood. 2019;134(Suppl_1):1779</a>).</p><p><span style=\"color: black;\">1.8.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee considered that in New Zealand the second-line treatment options provide suboptimal benefits and that there is a definite need for more effective second-line treatment for multiple myeloma including lenalidomide-refractory patients. The Subcommittee considered the unmet need for treatments in later lines of therapy was also high, but that the number of patients requiring treatment in this context was less, and that there would be a proportion of patients who would remain eligible for lenalidomide-based treatment in this setting.</p><p><span style=\"color: black;\">1.9.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that multiple myeloma treatment is evolving internationally with use of other combinations and other treatments, and was made aware of international clinical guidelines that recommend second-line treatments or combinations that are not funded in New Zealand (<a href=\"https://jnccn.org/doi/10.6004/jnccn.2018.0002\" target=\"_blank\">Kumar et al. J Natl Compr Canc Netw. 2018;16:11-20</a>; <a href=\"https://linkinghub.elsevier.com/retrieve/pii/3768071\" target=\"_blank\">Moreau et al. Ann Oncol. 2017;28(suppl_4):iv52-iv61</a>). The Subcommittee noted that some of the potential treatments that could be used by patients with relapsed/refractory multiple myeloma include, but are not limited to carfilzomib, ixazomib, pomalidomide, daratumumab and elotuzumab.</p><p><span style=\"color: black;\">1.10.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Subcommittee noted that the New Zealand Myeloma Interest Group (NZMIG) has expressed its preference for daratumumab (especially if subcutaneous) and carfilzomib, which the NZMIG consider very effective, to be funded for the treatment of relapsed/refractory multiple myeloma. However, the Subcommittee noted that Pharmac sought advice at this time regarding carfilzomib and pomalidomide in the context of currently funded treatments (ie without consideration of unfunded treatments such as daratumumab).</p><p><br></p><p>Pomalidomide</p><p><span style=\"color: black;\">1.1.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that CaTSoP had previously reviewed in <a href=\"https://pharmac.govt.nz/assets/ptac-cancer-treatments-subcommittee-minutes-2016-04.pdf\" target=\"_blank\">April 2016</a> an application for pomalidomide in combination with dexamethasone in the relapsed/refractory (fourth-line) setting and had recommended it be funded with a low priority (refer to the <a href=\"https://connect.pharmac.govt.nz/apptracker/s/application-public/a102P000008puU1/p001088\" target=\"_blank\">Application Tracker</a> for full history). The Subcommittee noted that pomalidomide is an immunomodulatory agent that is an analogue of thalidomide, and that it is administered as an oral treatment.</p><p><span style=\"color: black;\">1.2.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that Medsafe has approved pomalidomide in combination with dexamethasone for the treatment of patients with relapsed and refractory multiple myeloma who have received at least two prior treatment regimens, including both lenalidomide and bortezomib, and have experienced disease progression on the last therapy. The Subcommittee noted that the Medsafe-approved dosing regimen is pomalidomide 4 mg per day taken orally on days 1-21 of repeated 28-day cycles (21/28 days), in combination with dexamethasone, until disease progression.</p><p><span style=\"color: black;\">1.3.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that the New Zealand Myeloma Interest Group considers that pomalidomide is less burdensome for patients than carfilzomib but prefers to reserve pomalidomide for use in later lines. However, the Subcommittee noted that the impact of pomalidomide on reducing the infusion burden would only be relevant if it were not used in combination with bortezomib, which is administered subcutaneously.</p><p><span style=\"color: black;\">1.4.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that international funding bodies in Australia and Canada have recommended pomalidomide be funded for second-line or third-line use; in Scotland is pomalidomide is recommended for third-line use; and in England and Wales it is recommended for fourth-line or later use, in combination with dexamethasone.</p><p><span style=\"color: black;\">1.5.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that the evidence supporting the use of pomalidomide in earlier lines of therapy is in combination with bortezomib and dexamethasone, while the evidence supporting the use of pomalidomide in later lines is in combination with dexamethasone.</p><p>Evidence for pomalidomide in combination with bortezomib and dexamethasone</p><p><span style=\"color: black;\">1.6.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted evidence from the randomised (1:1), open-label, phase III MM-007 (OPTIMISMM) study, which included 559 patients with relapsed or refractory multiple myeloma with measurable disease <a href=\"https://linkinghub.elsevier.com/retrieve/pii/S1470-2045(19)30152-4\" target=\"_blank\">Richardson et al. Lancet Oncol. 2019;20:781-94</a>). The Subcommittee noted that participants had received one to three prior lines of therapy (median one) including a lenalidomide-containing regimen; that 50-72% had prior exposure to bortezomib; and that 40-64% had a prior transplant.</p><p>1.6.1.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that participants received oral pomalidomide (4 mg/day on days 1-14) with bortezomib (1.3 mg/m2) and low-dose dexamethasone (20 mg if aged \u226475 years, otherwise 10 mg) (PVd regimen) or bortezomib with low-dose dexamethasone (Vd regimen), and that 21-day treatment cycles continued until progressive disease or unacceptable toxicity.</p><p>1.6.2.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that the primary endpoint was PFS, which was median 11.2 months (95% CI 9.7 to 13.7) with pomalidomide, bortezomib and dexamethasone vs 7.1 months (5.9 to 8.5) with bortezomib and dexamethasone (HR 0.61, 95% CI 0.49 to 0.77; <i>P</i>&lt;0.0001).</p><p>1.6.3.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted the overall response rate in patients who had once prior line and whose disease was refractory to lenalidomide was 85.0% with pomalidomide, bortezomib and dexamethasone vs 50.8% with bortezomib and dexamethasone; overall response rates were 95% vs 60%, respectively, in patients who had one prior line and were lenalidomide sensitive. The Subcommittee noted that median PFS in lenalidomide refractory patients was 12.84 months with pomalidomide, bortezomib and dexamethasone vs 9.49 months with bortezomib and dexamethasone (<i>P</i>=0.028) and median PFS in lenalidomide sensitive patients was 20.01 months with pomalidomide, bortezomib and dexamethasone vs 11.96 months with bortezomib and dexamethasone (<i>P</i>=0.049).</p><p>1.6.4.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee considered that the evidence indicated a clear benefit in multiple myeloma including those with refractory disease, and provided a benefit whether or not a patient has previously received bortezomib and whether or not a patient has had a transplant. The Subcommittee considered that if use of pomalidomide were restricted to patients with lenalidomide refractory disease, this would mean that only patients who had previously received an autologous stem cell transplant would be eligible based on the current Special Authority criteria for lenalidomide.</p><p>1.6.5.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that health-related quality of life (QOL) was maintained in MM-007 despite the addition of pomalidomide, although some patients in both groups had a clinically meaningful worsening of QOL (<a href=\"https://www.tandfonline.com/doi/abs/10.1080/10428194.2020.1747066?journalCode=ilal20\" target=\"_blank\">Weisel et al. Leuk Lymphoma. 2020;61:1850-9</a>).</p><p>Evidence for pomalidomide in combination with dexamethasone</p><p><span style=\"color: black;\">1.7.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted evidence from the phase III, multicentre, randomised (2:1), open-label MM-003 (NIMBUS) study, which included 455 patients with refractory or relapsed and refractory multiple myeloma following two previous treatments of bortezomib and lenalidomide (<a href=\"https://www.thelancet.com/journals/lanonc/article/PIIS1470-2045(13)70380-2/fulltext\" target=\"_blank\">San Miguel et. al. Lancet Oncology. 2013; 14:1055-66</a>). The Subcommittee noted that this was a heavily pre-treated and disease-refractory population with about 95% of participants having received more than two prior lines of treatment (median 5 previous treatments); more than 90% of patients were refractory to lenalidomide; and about 80% of patients were refractory to bortezomib.</p><p>1.7.1.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that participants received oral pomalidomide (4 mg/day on days 1, 8, 15 and 22) with low-dose dexamethasone (40 mg/day on days 1, 8, 15 and 22) (Pd regimen) or high-dose dexamethasone (40 mg/day on days 1-4, 9-12, and 17-20), and that 28-day treatment cycles continued until progressive disease or unacceptable toxicity.</p><p>1.7.2.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that the primary endpoint was PFS in the intention-to-treat population, and that updated PFS at the time of interim OS analysis was median 4.0 months (95% CI 3.6 to 4.7) pomalidomide plus low-dose dexamethasone vs 1.9 months (1.9 to 2.2) high-dose dexamethasone (HR 0.48; 95% CI: 0.39 to 0.60; <i>P</i>&lt;0.0001).</p><p>1.7.3.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that the median PFS in lenalidomide resistant patients was 3.9 months (95% CI: 3.5 to 4.6) vs 1.9 months (1.9 to 2.2); <i>P</i>&lt;0.0001).</p><p>1.7.4.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee considered that, while a small improvement in PFS, these results favoured low dose dexamethasone over high dose dexamethasone in this heavily pre-treated patient population with resistant disease.</p><p><span style=\"color: black;\">1.8.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee also noted the following evidence for pomalidomide in relapsed and/or refractory multiple myeloma:</p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0</span><a href=\"https://linkinghub.elsevier.com/retrieve/pii/S2152-2650(15)00363-8\" target=\"_blank\">Weisel et al. Clin Lymphoma Myeloma Leuk. 2015;15:519-30</a></p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0</span><a href=\"https://doi.org/10.1038/s41375-020-01021-3\" target=\"_blank\">Dimopoulos et al. Leukemia. 2020. doi: 10.1038/s41375-020-01021-3. Online ahead of print</a></p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0</span><a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26160879/\" target=\"_blank\">San Miguel et al. Haematologica. 2015;100:1334-9</a></p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0</span><a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26250580/\" target=\"_blank\">Dimopoulos, et al. Haematologica. 2015;100:1327-33</a></p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0</span><a href=\"https://doi.org/10.1111/bjh.13227\" target=\"_blank\">Morgan et al. Br J Haematol. 2015;168:820-3</a></p><p>Summary</p><p><span style=\"color: black;\">1.9.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee considered that the evidence supporting the use of pomalidomide in combination with bortezomib and dexamethasone in the second- and third-line setting was of good quality and high strength. The Subcommittee considered that the evidence supporting the use of pomalidomide in combination with dexamethasone in the relapsed/refractory setting was of reasonable quality.</p><p><span style=\"color: black;\">1.10.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Subcommittee considered that the evidence indicates that pomalidomide is well tolerated with minimal risks. The Subcommittee considered that it was difficult to compare pomalidomide with other novel agents in the early relapsed setting (eg. carfilzomib and daratumumab).</p><p><span style=\"color: black;\">1.11.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Subcommittee considered that there would be a limited benefit of funding pomalidomide in combination with dexamethasone in earlier lines of therapy (ie second-line), because the benefit in second line therapy is difficult to ascertain, having been studied only in later lines of therapy. However, the Subcommittee considered that it would be reasonable to assume that there would be improved survival from pomalidomide in combination with dexamethasone when used in earlier lines of treatment compared with that observed in the heavily pre-treated population in the MM-003 (NIMBUS) study.</p><p><span style=\"color: black;\">1.12.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Subcommittee noted that pomalidomide appears to be effective regardless of prior therapy, and considered that use of this agent would be preferred for patients with multiply relapsed disease (who have progressed on other lines of treatment). The Subcommittee noted that there was no evidence to inform efficacy of other treatments (eg lenalidomide) subsequently used in patients whose disease has become resistant to pomalidomide. The Subcommittee considered that pomalidomide represents an additional line of treatment that may be reserved for use as a third- or later line and considered these patients would benefit most as they have few other options available.</p><p><span style=\"color: black;\">1.13.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Subcommittee noted that the use of pomalidomide in combination with bortezomib is outside the Medsafe-approved pomalidomide indications but considered this use would be reasonable given that its use is informed by a body of clinical trial evidence and it is routine internationally.</p><p><span style=\"color: black;\">1.14.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Subcommittee noted that pomalidomide with dexamethasone is an oral therapy, whilst pomalidomide with bortezomib would require infusion resources.</p><p><span style=\"color: black;\">1.15.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Subcommittee noted that the supplier-proposed Special Authority criteria for pomalidomide considered whether or not a patient had received a prior autologous stem cell transplant, however, the Subcommittee considered that progression on a lenalidomide-containing prior treatment regimen was a more meaningful distinction.</p><p><br></p><p><i>General</i></p><p><span style=\"color: black;\">1.16.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Subcommittee noted that there was no randomised controlled trial evidence comparing second-line treatment options against each other (ie carfilzomib vs pomalidomide) therefore evidence was lacking to inform preferred treatment sequencing. However, the Subcommittee considered that there would be a preference for carfilzomib to be used second-line, with pomalidomide reserved for third-line or later use. The Subcommittee noted that it will consider an <a href=\"https://connect.pharmac.govt.nz/apptracker/s/application-public/a102P00000BD0yw/p001671\" target=\"_blank\">application for subcutaneous daratumumab</a> at a future meeting and that the Subcommittee could again indicate the preferred treatment options for this population at that time.\u00a0</p><p><span style=\"color: black;\">1.17.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Subcommittee considered that it would be reasonable to target funding via Special Authority criteria to enable carfilzomib and pomalidomide each to be used once per patient lifetime, or to be used in pre-specified treatment lines, as supported by evidence.</p><p><span style=\"color: black;\">1.18.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Subcommittee noted the estimate that 50% of patients with multiple myeloma may be eligible for transplant. However, the Subcommittee considered this estimate was likely too high for second- or third-line patients, as transplant eligibility decreases over time given the age of patients at initial diagnosis. The Subcommittee considered that in time, the funded use of lenalidomide in the relapsed/refractory setting would be indicative of the proportion of patients who are ineligible for transplant in third-line setting. The Subcommittee noted that there are approximately 400 patients diagnosed with multiple myeloma each year and considered that approximately 50% would initially be eligible for transplant. The Subcommittee considered that on this basis there would be approximately 130 patients who would relapse post-transplant each year; that there would be approximately 150 patients who would relapse after first line treatment if ineligible for transplant each year; and there would be approximately 170 patients who would require treatment in the third line setting each year.</p><p><span style=\"color: black;\">1.19.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Subcommittee considered that the number of cycles received will depend on PFS which is influenced by prior lines of therapy and the proportion of patients whose disease was refractory, therefore the treatment cost per cycle would be most useful for cost-effectiveness assessment, as opposed to cost per treatment, given the variable extent of pre-treatment in the clinical trials.</p><p><span style=\"color: black;\">1.20.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Subcommittee considered that for second-line treatment, comparators could be bortezomib retreatment as CyBorD/BTD, or MPT and CTD. The Subcommittee considered that the key outcome of interest in this setting was improved PFS (above that gained from bortezomib retreatment). The Subcommittee considered the most appropriate comparator for use in the second-line would be BTD, unless the patient could not tolerate bortezomib, in which case regimens without bortezomib would be used. The Subcommittee considered that the efficacy of thalidomide in this setting is limited by the development of neuropathy, and efficacy difficult to establish from the scientific evidence base as most studies use more novel agents at relapse. The Subcommittee considered that outcomes would be expected to be worse without bortezomib.</p><p><span style=\"color: black;\">1.21.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Subcommittee considered that for third-line treatment, standard therapy is lenalidomide and dexamethasone with or without bortezomib, although patients who had a prior autologous stem cell transplant with lenalidomide maintenance could be considered for third-line treatment with a bortezomib and/or thalidomide-based regimen. The Subcommittee considered that the key outcomes of interest in this setting were improved PFS and OS.</p>",
+          "change": null
+        },
+        "Published_Application": {
+          "s": "<p><span style=\"color: black;\">1.1.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that Pharmac sought further advice from the Subcommittee regarding pomalidomide and carfilzomib in the relapsed/refractory setting for multiple myeloma, and that this advice was requested in the context of:</p><p>1.1.1.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>A supplier submission received in February 2021 from Celgene for pomalidomide for relapsed/refractory multiple myeloma (second-line and third-line);</p><p>1.1.2.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>Correspondence from members of the New Zealand Myeloma Interest Group [NZMIG]).</p>",
+          "fs": "<p><span style=\"color: black;\">1.1.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that Pharmac sought further advice from the Subcommittee regarding pomalidomide and carfilzomib in the relapsed/refractory setting for multiple myeloma, and that this advice was requested in the context of:</p><p>1.1.1.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>A supplier submission received in February 2021 from Celgene for pomalidomide for relapsed/refractory multiple myeloma (second-line and third-line);</p><p>1.1.2.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>Correspondence from members of the New Zealand Myeloma Interest Group [NZMIG]).</p>",
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": "High",
+          "fs": "High",
+          "change": null
+        },
+        "Links": {
+          "s": "<p><a href=\"https://pharmac.govt.nz/assets/2021-04-12-Cancer-Treatment-Record.pdf\" target=\"_blank\" style=\"font-size: 14px; background-color: rgb(255, 255, 255);\">Cancer Treatments Subcommittee records</a></p>",
+          "fs": "<p><a href=\"https://pharmac.govt.nz/assets/2021-04-12-Cancer-Treatment-Record.pdf\" target=\"_blank\" style=\"font-size: 14px; background-color: rgb(255, 255, 255);\">Cancer Treatments Subcommittee records</a></p>",
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Aug 2021",
+          "fs": "Aug 2021",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Clinical advice received from Cancer Treatments Subcommittee (CaTSoP) at meeting Monday 12 April 2021.",
+          "fs": "Clinical advice received from Cancer Treatments Subcommittee (CaTSoP) at meeting Monday 12 April 2021.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000B9cZK2AZ"
+          },
+          "Id": "a0POZ00000B9cZK2AZ",
+          "Event_Date__c": "2021-08-03",
+          "Event_Description__c": "Clinical advice received from Cancer Treatments Subcommittee (CaTSoP) at meeting Monday 12 April 2021.",
+          "Stage__c": "Seeking Clinical Advice",
+          "Links__c": "<p><a href=\"https://pharmac.govt.nz/assets/2021-04-12-Cancer-Treatment-Record.pdf\" target=\"_blank\" style=\"font-size: 14px; background-color: rgb(255, 255, 255);\">Cancer Treatments Subcommittee records</a></p>",
+          "Outcome__c": "High",
+          "Formatted_Date__c": "Aug 2021",
+          "Published_Recommendation__c": "<p>1.1.\tThe Subcommittee recommended that pomalidomide (in combination with bortezomib and dexamethasone, as PVd) for the third-line treatment of relapsed or refractory multiple myeloma be funded with a high priority, in the context of treatment of malignancy, subject to the following Special Authority criteria:</p><p>POMALIDOMIDE</p><p>Initial application \u2013 (relapsed/refractory multiple myeloma) only from a haematologist or medical practitioner on the recommendation of a haematologist. Approvals valid for 6 months for applications meeting the following criteria:</p><p>All of the following:</p><p>1.\tPatient has relapsed or refractory multiple myeloma with progressive disease; and</p><p>2.\tPatient has received two prior lines of treatment; and</p><p>3.\tTreatment to be administered in combination with dexamethasone with bortezomib (PVd).</p><p><br></p><p>Renewal - (relapsed/refractory multiple myeloma) only from a haematologist or any other medical practitioner on the recommendation of a haematologist. Approvals valid for 6 months for applications meeting the following criteria:</p><p>Both:</p><p>1.\tNo evidence of disease progression; and</p><p>2.\tThe treatment remains appropriate and patient is benefitting from treatment.</p><p><br></p><p>1.1.1.\tIn making this recommendation, the Subcommittee considered:</p><p>-\tThe high health need of patients with multiply relapsed/refractory multiple myeloma (including lenalidomide-refractory disease) requiring third-line treatment; and\u00a0</p><p>-\tThe evidence for a PFS benefit with pomalidomide with bortezomib and dexamethasone in this setting.</p>",
+          "Published_Application__c": "<p><span style=\"color: black;\">1.1.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that Pharmac sought further advice from the Subcommittee regarding pomalidomide and carfilzomib in the relapsed/refractory setting for multiple myeloma, and that this advice was requested in the context of:</p><p>1.1.1.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>A supplier submission received in February 2021 from Celgene for pomalidomide for relapsed/refractory multiple myeloma (second-line and third-line);</p><p>1.1.2.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>Correspondence from members of the New Zealand Myeloma Interest Group [NZMIG]).</p>",
+          "Published_Discussion__c": "<p><span style=\"color: black;\">1.1.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee considered that, based on real-world clinical practice, almost all patients with multiple myeloma will receive first-line treatment although only about 61% and 38% of patients will receive second- and third-line treatments, respectively.</p><p><span style=\"color: black;\">1.2.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee considered that the possible second-line treatment options consisted of bortezomib retreatment (as CyBorD/BTD) or bortezomib in combination with melphalan and prednisone (BMP) and that it was preferable to expose patients to new agents than retreating with bortezomib. Alternatively, patients would receive a thalidomide-based regimen, which would consist of cyclophosphamide, thalidomide and dexamethasone (CTD) or melphalan, prednisone and thalidomide (MPT), all for approximately six to 12 cycles. The Subcommittee noted that patients could be eligible for lenalidomide in combination with dexamethasone until progression if neuropathy prevents use of bortezomib and thalidomide-based regimens. The Subcommittee noted that in patients with relapsed/refractory multiple myeloma, if remission was for greater than two to three years, and the patient was transplant eligible, a second autologous stem cell transplant would be offered.</p><p><span style=\"color: black;\">1.3.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee considered that the choice of second-line regimen would be determined by the duration of response to first-line treatment, toxicities experienced in the first-line, and patient-specific factors including the desire for oral therapy.</p><p><span style=\"color: black;\">1.4.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that once a patient progresses after second line therapy, if they had received an autologous stem cell transplant with lenalidomide maintenance there are no further options for this patient group. The Subcommittee noted that lenalidomide with dexamethasone with or without bortezomib was a third-line treatment option, only for transplant-ineligible patients who had not received lenalidomide maintenance post autologous stem cell transplant.</p><p><span style=\"color: black;\">1.5.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee was made aware of data reporting progression-free survival (PFS) of around eight months with bortezomib retreatment in relapsed multiple myeloma, from two clinical trials, and considered the efficacy of bortezomib retreatment after first-line bortezomib to be limited:</p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>A 6.5-month duration of response was reported in 130 patients who received bortezomib with or without dexamethasone after median two prior lines of therapy (<a href=\"https://doi.org/10.1111/bjh.12198\" target=\"_blank\">Petrucci et al. Br J Haematol. 2013;160:649-59</a>); and</p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>In the CASTOR trial control arm of bortezomib and dexamethasone (N = 113), median PFS was 7.1 months and median PFS in patients who had received one prior line of therapy was 7.9 months. About 45% of patients had received one prior line, and about 70% of patients had prior bortezomib exposure (<a href=\"http://www.haematologica.org/content/103/12/2079.long\" target=\"_blank\">Spencer et al. Haematologica. 2018;103:2079-87</a>).</p><p><span style=\"color: black;\">1.6.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee considered that the duration of benefit from thalidomide in the second-line setting was hard to estimate, as clinical trials generally allow use of agents at relapse that are less comparable to the New Zealand setting, however, noted that thalidomide is associated with relatively short PFS and toxicities including neuropathy which limit its use. The Subcommittee considered it reasonable to assume that outcomes would be similar to that observed in patients retreated with bortezomib.</p><p><span style=\"color: black;\">1.7.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee was made aware of evidence that a significant number of patients (about 50%) progress on lenalidomide maintenance and have few subsequent treatment options, as they are unlikely to receive a response from thalidomide and early relapse after prior bortezomib treatment makes its use in retreatment less likely to be successful (<a href=\"https://ashpublications.org/blood/article/134/Supplement_1/1779/427686/Outcomes-in-Multiple-Myeloma-Patients-Progressing\" target=\"_blank\">Sanchez et al. Blood. 2019;134(Suppl_1):1779</a>).</p><p><span style=\"color: black;\">1.8.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee considered that in New Zealand the second-line treatment options provide suboptimal benefits and that there is a definite need for more effective second-line treatment for multiple myeloma including lenalidomide-refractory patients. The Subcommittee considered the unmet need for treatments in later lines of therapy was also high, but that the number of patients requiring treatment in this context was less, and that there would be a proportion of patients who would remain eligible for lenalidomide-based treatment in this setting.</p><p><span style=\"color: black;\">1.9.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that multiple myeloma treatment is evolving internationally with use of other combinations and other treatments, and was made aware of international clinical guidelines that recommend second-line treatments or combinations that are not funded in New Zealand (<a href=\"https://jnccn.org/doi/10.6004/jnccn.2018.0002\" target=\"_blank\">Kumar et al. J Natl Compr Canc Netw. 2018;16:11-20</a>; <a href=\"https://linkinghub.elsevier.com/retrieve/pii/3768071\" target=\"_blank\">Moreau et al. Ann Oncol. 2017;28(suppl_4):iv52-iv61</a>). The Subcommittee noted that some of the potential treatments that could be used by patients with relapsed/refractory multiple myeloma include, but are not limited to carfilzomib, ixazomib, pomalidomide, daratumumab and elotuzumab.</p><p><span style=\"color: black;\">1.10.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Subcommittee noted that the New Zealand Myeloma Interest Group (NZMIG) has expressed its preference for daratumumab (especially if subcutaneous) and carfilzomib, which the NZMIG consider very effective, to be funded for the treatment of relapsed/refractory multiple myeloma. However, the Subcommittee noted that Pharmac sought advice at this time regarding carfilzomib and pomalidomide in the context of currently funded treatments (ie without consideration of unfunded treatments such as daratumumab).</p><p><br></p><p>Pomalidomide</p><p><span style=\"color: black;\">1.1.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that CaTSoP had previously reviewed in <a href=\"https://pharmac.govt.nz/assets/ptac-cancer-treatments-subcommittee-minutes-2016-04.pdf\" target=\"_blank\">April 2016</a> an application for pomalidomide in combination with dexamethasone in the relapsed/refractory (fourth-line) setting and had recommended it be funded with a low priority (refer to the <a href=\"https://connect.pharmac.govt.nz/apptracker/s/application-public/a102P000008puU1/p001088\" target=\"_blank\">Application Tracker</a> for full history). The Subcommittee noted that pomalidomide is an immunomodulatory agent that is an analogue of thalidomide, and that it is administered as an oral treatment.</p><p><span style=\"color: black;\">1.2.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that Medsafe has approved pomalidomide in combination with dexamethasone for the treatment of patients with relapsed and refractory multiple myeloma who have received at least two prior treatment regimens, including both lenalidomide and bortezomib, and have experienced disease progression on the last therapy. The Subcommittee noted that the Medsafe-approved dosing regimen is pomalidomide 4 mg per day taken orally on days 1-21 of repeated 28-day cycles (21/28 days), in combination with dexamethasone, until disease progression.</p><p><span style=\"color: black;\">1.3.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that the New Zealand Myeloma Interest Group considers that pomalidomide is less burdensome for patients than carfilzomib but prefers to reserve pomalidomide for use in later lines. However, the Subcommittee noted that the impact of pomalidomide on reducing the infusion burden would only be relevant if it were not used in combination with bortezomib, which is administered subcutaneously.</p><p><span style=\"color: black;\">1.4.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that international funding bodies in Australia and Canada have recommended pomalidomide be funded for second-line or third-line use; in Scotland is pomalidomide is recommended for third-line use; and in England and Wales it is recommended for fourth-line or later use, in combination with dexamethasone.</p><p><span style=\"color: black;\">1.5.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that the evidence supporting the use of pomalidomide in earlier lines of therapy is in combination with bortezomib and dexamethasone, while the evidence supporting the use of pomalidomide in later lines is in combination with dexamethasone.</p><p>Evidence for pomalidomide in combination with bortezomib and dexamethasone</p><p><span style=\"color: black;\">1.6.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted evidence from the randomised (1:1), open-label, phase III MM-007 (OPTIMISMM) study, which included 559 patients with relapsed or refractory multiple myeloma with measurable disease <a href=\"https://linkinghub.elsevier.com/retrieve/pii/S1470-2045(19)30152-4\" target=\"_blank\">Richardson et al. Lancet Oncol. 2019;20:781-94</a>). The Subcommittee noted that participants had received one to three prior lines of therapy (median one) including a lenalidomide-containing regimen; that 50-72% had prior exposure to bortezomib; and that 40-64% had a prior transplant.</p><p>1.6.1.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that participants received oral pomalidomide (4 mg/day on days 1-14) with bortezomib (1.3 mg/m2) and low-dose dexamethasone (20 mg if aged \u226475 years, otherwise 10 mg) (PVd regimen) or bortezomib with low-dose dexamethasone (Vd regimen), and that 21-day treatment cycles continued until progressive disease or unacceptable toxicity.</p><p>1.6.2.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that the primary endpoint was PFS, which was median 11.2 months (95% CI 9.7 to 13.7) with pomalidomide, bortezomib and dexamethasone vs 7.1 months (5.9 to 8.5) with bortezomib and dexamethasone (HR 0.61, 95% CI 0.49 to 0.77; <i>P</i>&lt;0.0001).</p><p>1.6.3.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted the overall response rate in patients who had once prior line and whose disease was refractory to lenalidomide was 85.0% with pomalidomide, bortezomib and dexamethasone vs 50.8% with bortezomib and dexamethasone; overall response rates were 95% vs 60%, respectively, in patients who had one prior line and were lenalidomide sensitive. The Subcommittee noted that median PFS in lenalidomide refractory patients was 12.84 months with pomalidomide, bortezomib and dexamethasone vs 9.49 months with bortezomib and dexamethasone (<i>P</i>=0.028) and median PFS in lenalidomide sensitive patients was 20.01 months with pomalidomide, bortezomib and dexamethasone vs 11.96 months with bortezomib and dexamethasone (<i>P</i>=0.049).</p><p>1.6.4.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee considered that the evidence indicated a clear benefit in multiple myeloma including those with refractory disease, and provided a benefit whether or not a patient has previously received bortezomib and whether or not a patient has had a transplant. The Subcommittee considered that if use of pomalidomide were restricted to patients with lenalidomide refractory disease, this would mean that only patients who had previously received an autologous stem cell transplant would be eligible based on the current Special Authority criteria for lenalidomide.</p><p>1.6.5.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that health-related quality of life (QOL) was maintained in MM-007 despite the addition of pomalidomide, although some patients in both groups had a clinically meaningful worsening of QOL (<a href=\"https://www.tandfonline.com/doi/abs/10.1080/10428194.2020.1747066?journalCode=ilal20\" target=\"_blank\">Weisel et al. Leuk Lymphoma. 2020;61:1850-9</a>).</p><p>Evidence for pomalidomide in combination with dexamethasone</p><p><span style=\"color: black;\">1.7.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted evidence from the phase III, multicentre, randomised (2:1), open-label MM-003 (NIMBUS) study, which included 455 patients with refractory or relapsed and refractory multiple myeloma following two previous treatments of bortezomib and lenalidomide (<a href=\"https://www.thelancet.com/journals/lanonc/article/PIIS1470-2045(13)70380-2/fulltext\" target=\"_blank\">San Miguel et. al. Lancet Oncology. 2013; 14:1055-66</a>). The Subcommittee noted that this was a heavily pre-treated and disease-refractory population with about 95% of participants having received more than two prior lines of treatment (median 5 previous treatments); more than 90% of patients were refractory to lenalidomide; and about 80% of patients were refractory to bortezomib.</p><p>1.7.1.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that participants received oral pomalidomide (4 mg/day on days 1, 8, 15 and 22) with low-dose dexamethasone (40 mg/day on days 1, 8, 15 and 22) (Pd regimen) or high-dose dexamethasone (40 mg/day on days 1-4, 9-12, and 17-20), and that 28-day treatment cycles continued until progressive disease or unacceptable toxicity.</p><p>1.7.2.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that the primary endpoint was PFS in the intention-to-treat population, and that updated PFS at the time of interim OS analysis was median 4.0 months (95% CI 3.6 to 4.7) pomalidomide plus low-dose dexamethasone vs 1.9 months (1.9 to 2.2) high-dose dexamethasone (HR 0.48; 95% CI: 0.39 to 0.60; <i>P</i>&lt;0.0001).</p><p>1.7.3.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that the median PFS in lenalidomide resistant patients was 3.9 months (95% CI: 3.5 to 4.6) vs 1.9 months (1.9 to 2.2); <i>P</i>&lt;0.0001).</p><p>1.7.4.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee considered that, while a small improvement in PFS, these results favoured low dose dexamethasone over high dose dexamethasone in this heavily pre-treated patient population with resistant disease.</p><p><span style=\"color: black;\">1.8.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee also noted the following evidence for pomalidomide in relapsed and/or refractory multiple myeloma:</p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0</span><a href=\"https://linkinghub.elsevier.com/retrieve/pii/S2152-2650(15)00363-8\" target=\"_blank\">Weisel et al. Clin Lymphoma Myeloma Leuk. 2015;15:519-30</a></p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0</span><a href=\"https://doi.org/10.1038/s41375-020-01021-3\" target=\"_blank\">Dimopoulos et al. Leukemia. 2020. doi: 10.1038/s41375-020-01021-3. Online ahead of print</a></p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0</span><a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26160879/\" target=\"_blank\">San Miguel et al. Haematologica. 2015;100:1334-9</a></p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0</span><a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/26250580/\" target=\"_blank\">Dimopoulos, et al. Haematologica. 2015;100:1327-33</a></p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0</span><a href=\"https://doi.org/10.1111/bjh.13227\" target=\"_blank\">Morgan et al. Br J Haematol. 2015;168:820-3</a></p><p>Summary</p><p><span style=\"color: black;\">1.9.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee considered that the evidence supporting the use of pomalidomide in combination with bortezomib and dexamethasone in the second- and third-line setting was of good quality and high strength. The Subcommittee considered that the evidence supporting the use of pomalidomide in combination with dexamethasone in the relapsed/refractory setting was of reasonable quality.</p><p><span style=\"color: black;\">1.10.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Subcommittee considered that the evidence indicates that pomalidomide is well tolerated with minimal risks. The Subcommittee considered that it was difficult to compare pomalidomide with other novel agents in the early relapsed setting (eg. carfilzomib and daratumumab).</p><p><span style=\"color: black;\">1.11.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Subcommittee considered that there would be a limited benefit of funding pomalidomide in combination with dexamethasone in earlier lines of therapy (ie second-line), because the benefit in second line therapy is difficult to ascertain, having been studied only in later lines of therapy. However, the Subcommittee considered that it would be reasonable to assume that there would be improved survival from pomalidomide in combination with dexamethasone when used in earlier lines of treatment compared with that observed in the heavily pre-treated population in the MM-003 (NIMBUS) study.</p><p><span style=\"color: black;\">1.12.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Subcommittee noted that pomalidomide appears to be effective regardless of prior therapy, and considered that use of this agent would be preferred for patients with multiply relapsed disease (who have progressed on other lines of treatment). The Subcommittee noted that there was no evidence to inform efficacy of other treatments (eg lenalidomide) subsequently used in patients whose disease has become resistant to pomalidomide. The Subcommittee considered that pomalidomide represents an additional line of treatment that may be reserved for use as a third- or later line and considered these patients would benefit most as they have few other options available.</p><p><span style=\"color: black;\">1.13.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Subcommittee noted that the use of pomalidomide in combination with bortezomib is outside the Medsafe-approved pomalidomide indications but considered this use would be reasonable given that its use is informed by a body of clinical trial evidence and it is routine internationally.</p><p><span style=\"color: black;\">1.14.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Subcommittee noted that pomalidomide with dexamethasone is an oral therapy, whilst pomalidomide with bortezomib would require infusion resources.</p><p><span style=\"color: black;\">1.15.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Subcommittee noted that the supplier-proposed Special Authority criteria for pomalidomide considered whether or not a patient had received a prior autologous stem cell transplant, however, the Subcommittee considered that progression on a lenalidomide-containing prior treatment regimen was a more meaningful distinction.</p><p><br></p><p><i>General</i></p><p><span style=\"color: black;\">1.16.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Subcommittee noted that there was no randomised controlled trial evidence comparing second-line treatment options against each other (ie carfilzomib vs pomalidomide) therefore evidence was lacking to inform preferred treatment sequencing. However, the Subcommittee considered that there would be a preference for carfilzomib to be used second-line, with pomalidomide reserved for third-line or later use. The Subcommittee noted that it will consider an <a href=\"https://connect.pharmac.govt.nz/apptracker/s/application-public/a102P00000BD0yw/p001671\" target=\"_blank\">application for subcutaneous daratumumab</a> at a future meeting and that the Subcommittee could again indicate the preferred treatment options for this population at that time.\u00a0</p><p><span style=\"color: black;\">1.17.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Subcommittee considered that it would be reasonable to target funding via Special Authority criteria to enable carfilzomib and pomalidomide each to be used once per patient lifetime, or to be used in pre-specified treatment lines, as supported by evidence.</p><p><span style=\"color: black;\">1.18.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Subcommittee noted the estimate that 50% of patients with multiple myeloma may be eligible for transplant. However, the Subcommittee considered this estimate was likely too high for second- or third-line patients, as transplant eligibility decreases over time given the age of patients at initial diagnosis. The Subcommittee considered that in time, the funded use of lenalidomide in the relapsed/refractory setting would be indicative of the proportion of patients who are ineligible for transplant in third-line setting. The Subcommittee noted that there are approximately 400 patients diagnosed with multiple myeloma each year and considered that approximately 50% would initially be eligible for transplant. The Subcommittee considered that on this basis there would be approximately 130 patients who would relapse post-transplant each year; that there would be approximately 150 patients who would relapse after first line treatment if ineligible for transplant each year; and there would be approximately 170 patients who would require treatment in the third line setting each year.</p><p><span style=\"color: black;\">1.19.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Subcommittee considered that the number of cycles received will depend on PFS which is influenced by prior lines of therapy and the proportion of patients whose disease was refractory, therefore the treatment cost per cycle would be most useful for cost-effectiveness assessment, as opposed to cost per treatment, given the variable extent of pre-treatment in the clinical trials.</p><p><span style=\"color: black;\">1.20.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Subcommittee considered that for second-line treatment, comparators could be bortezomib retreatment as CyBorD/BTD, or MPT and CTD. The Subcommittee considered that the key outcome of interest in this setting was improved PFS (above that gained from bortezomib retreatment). The Subcommittee considered the most appropriate comparator for use in the second-line would be BTD, unless the patient could not tolerate bortezomib, in which case regimens without bortezomib would be used. The Subcommittee considered that the efficacy of thalidomide in this setting is limited by the development of neuropathy, and efficacy difficult to establish from the scientific evidence base as most studies use more novel agents at relapse. The Subcommittee considered that outcomes would be expected to be worse without bortezomib.</p><p><span style=\"color: black;\">1.21.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Subcommittee considered that for third-line treatment, standard therapy is lenalidomide and dexamethasone with or without bortezomib, although patients who had a prior autologous stem cell transplant with lenalidomide maintenance could be considered for third-line treatment with a bortezomib and/or thalidomide-based regimen. The Subcommittee considered that the key outcomes of interest in this setting were improved PFS and OS.</p>",
+          "Status_History__c": "a132P000000D4JxQAK"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Apr 2021",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Following Clinical Advice, Pharmac staff considers the advice and the funding application under goes an assessment using our&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/factors-for-consideration/\" rel=\"nofollow\">Factors for Consideration</a>&nbsp;framework and seeks additional information as required.</p>\r\n<p>&nbsp;</p>\r\n<p>Research and Economic analysis are undertaken.&nbsp; This focuses on the costs and benefits of a proposed course of action. Economics is based on three fundamental concepts that summarise the issues Pharmac faces daily:&nbsp;</p>\r\n<ul>\r\n<li>Scarcity &ndash; resources will always be insufficient to support all possible activities.</li>\r\n<li>Choices &ndash; due to scarce resources, decisions must be made about how best to use them.</li>\r\n<li>Opportunity cost &ndash; by choosing to use resources one way, we forgo other opportunities to use the same resources.</li>\r\n</ul>\r\n<p>&nbsp;</p>\r\n<p>For further information on the purpose of, and techniques for, undertaking economic analysis in health care, please refer&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/economic-analysis/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/economic-analysis/</a></p>",
+    "position": 2,
+    "name": "Under Assessment",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Aug 2021",
+          "fs": "Aug 2021",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Working to compare options",
+          "fs": "Working to compare options",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000B9cZL2AZ"
+          },
+          "Id": "a0POZ00000B9cZL2AZ",
+          "Event_Date__c": "2021-08-27",
+          "Event_Description__c": "Working to compare options",
+          "Stage__c": "Under Assessment",
+          "Formatted_Date__c": "Aug 2021",
+          "Status_History__c": "a132P000000D7l8QAC"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Aug 2021",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Pharmac staff uses a prioritisation process to compare and rank funding options. Possible opportunities for new investment will always exceed the budget Pharmac has available; therefore, prioritisation is an intrinsic part of Pharmac\u2019s decision-making process.</p>\r\n<p>The relative ranking of options aims to support Pharmac&rsquo;s statutory objective &ldquo;to secure for eligible people in need of pharmaceuticals, the best health outcomes that are reasonably achievable from pharmaceutical treatment and from within the amount of funding provided&rdquo;.</p>\r\n<p>A funding application or proposal is considered ready for prioritisation when sufficient information is available to permit it to be reviewed against Pharmac's Factors for Consideration and to inform a comparison with other possible investment decisions.</p>\r\n<p>There is no guarantee when or if a ranked medicine will be funded.&nbsp;&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/prioritisation/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/prioritisation/</a></p>",
+    "position": 3,
+    "name": "Options Compared",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Oct 2023",
+          "fs": "Oct 2023",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "The relative ranking of the pharmaceutical application has been completed.",
+          "fs": "The relative ranking of the pharmaceutical application has been completed.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000B9cZM2AZ"
+          },
+          "Id": "a0POZ00000B9cZM2AZ",
+          "Event_Date__c": "2023-10-05",
+          "Event_Description__c": "The relative ranking of the pharmaceutical application has been completed.",
+          "Stage__c": "Options Compared",
+          "Formatted_Date__c": "Oct 2023",
+          "Status_History__c": "a13OZ000002VcazYAC"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Oct 2023",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Pharmac is consulting on a proposal to either approve or decline the application.&nbsp;We seek the views of all people who have an interest in our proposals, or who may be affected by them, to obtain feedback on our proposed approaches.</p>\r\n<p><a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/having-your-say/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/having-your-say/</a></p>",
+    "position": 4,
+    "name": "Under Consultation",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": "https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/proposal-to-increase-access-to-lenalidomide-and-pomalidomide-through-a-brand-change-for-lenalidomide",
+          "fs": "https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/proposal-to-increase-access-to-lenalidomide-and-pomalidomide-through-a-brand-change-for-lenalidomide",
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Apr 2024",
+          "fs": "Apr 2024",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Public consultation for this application is active.",
+          "fs": "Public consultation for this application is active.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000B9cZN2AZ"
+          },
+          "Id": "a0POZ00000B9cZN2AZ",
+          "Event_Date__c": "2024-04-23",
+          "Event_Description__c": "Public consultation for this application is active.",
+          "Stage__c": "Under Consultation",
+          "Summary__c": "https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/proposal-to-increase-access-to-lenalidomide-and-pomalidomide-through-a-brand-change-for-lenalidomide",
+          "Formatted_Date__c": "Apr 2024",
+          "Status_History__c": "a13OZ000009HthFYAS"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": "https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/proposal-to-increase-access-to-lenalidomide-and-pomalidomide-through-a-brand-change-for-lenalidomide",
+          "fs": "https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/proposal-to-increase-access-to-lenalidomide-and-pomalidomide-through-a-brand-change-for-lenalidomide",
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Apr 2024",
+          "fs": "Apr 2024",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Public consultation for this application is active.",
+          "fs": "Public consultation for this application is active.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000B9cZO2AZ"
+          },
+          "Id": "a0POZ00000B9cZO2AZ",
+          "Event_Date__c": "2024-04-23",
+          "Event_Description__c": "Public consultation for this application is active.",
+          "Stage__c": "Under Consultation",
+          "Summary__c": "https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/proposal-to-increase-access-to-lenalidomide-and-pomalidomide-through-a-brand-change-for-lenalidomide",
+          "Formatted_Date__c": "Apr 2024",
+          "Status_History__c": "a13OZ000009HtvlYAC"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Apr 2024",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Following the consultation process, Pharmac staff considers the feedback and identifies any additional information required as part of a gap analysis.&nbsp; The proposal may require further clinical advice, research, and assessment.</p>",
+    "position": 5,
+    "name": "Reviewing Consultation Feedback",
+    "last": false,
+    "events": null,
+    "dateString": null,
+    "collapsed": false,
+    "checked": false
+  },
+  {
+    "text": "<p>We refer to our decisions about whether and how particular pharmaceuticals are publicly-funded, as &ldquo;funding decisions&rdquo;.</p>\r\n<p>We consider and assess all funding decisions using the&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/about/operating-policies-and-procedures/#factorsfc\" rel=\"nofollow\">Factors for Consideration</a>. When we do so, we carefully evaluate clinical and other evidence for the benefits and suitability of a proposal, and to identify and understand the people who will be affected by it.</p>\r\n<p>While our main task is to allocate pharmaceutical funding, we consider the benefits and costs across the whole health system now and with a long-term focus, including the effects for hospitals and primary care, and consider direct costs to patients as well as to all health sector budgets.</p>\r\n<p>Final funding decisions are made by the Pharmac Board or delegated to senior Pharmac staff as required by the Board.</p>\r\n<p>&nbsp;</p>",
+    "position": 6,
+    "name": "Decision",
+    "last": true,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": "<p><a href=\"https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/decision-to-increase-access-to-lenalidomide-and-pomalidomide-through-a-brand-change-for-lenalidomide\" target=\"_blank\">Notification</a></p>",
+          "fs": "<p><a href=\"https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/decision-to-increase-access-to-lenalidomide-and-pomalidomide-through-a-brand-change-for-lenalidomide\" target=\"_blank\">Notification</a></p>",
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Aug 2024",
+          "fs": "Aug 2024",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "The funding application has been approved.",
+          "fs": "The funding application has been approved.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000B9cZP2AZ"
+          },
+          "Id": "a0POZ00000B9cZP2AZ",
+          "Event_Date__c": "2024-08-01",
+          "Event_Description__c": "The funding application has been approved.",
+          "Stage__c": "Decision",
+          "Links__c": "<p><a href=\"https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/decision-to-increase-access-to-lenalidomide-and-pomalidomide-through-a-brand-change-for-lenalidomide\" target=\"_blank\">Notification</a></p>",
+          "Formatted_Date__c": "Aug 2024",
+          "Status_History__c": "a13OZ00000Cp2wvYAB"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Aug 2024",
+    "collapsed": false,
+    "checked": true
+  }
+]

@@ -1,0 +1,745 @@
+[
+  {
+    "text": "<p>New funding applications are referred to one of Pharmac's Funding Application Advisors (FAAs), who'll review the application to ensure they have the relevant information to undertake a preliminary analysis.&nbsp; They may seek more information if required.</p>\r\n<p><a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/new-funding-applications/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/new-funding-applications/</a></p>",
+    "position": 0,
+    "name": "Application Received",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Feb 2019",
+          "fs": "Feb 2019",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Application received",
+          "fs": "Application received",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000Mc0lV2AR"
+          },
+          "Id": "a0POZ00000Mc0lV2AR",
+          "Event_Date__c": "2019-02-18",
+          "Event_Description__c": "Application received",
+          "Stage__c": "Application Received",
+          "Formatted_Date__c": "Feb 2019",
+          "Status_History__c": "a132P000000AramQAC"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Feb 2019",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Pharmac is identifying and gathering information required to get clinical advice.  The <a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/pharmacology-and-therapeutics-advisory-committee-ptac/\" rel=\"nofollow\">Pharmacology and Therapeutics Advisory Committee (PTAC)</a>  meets quarterly. There are also around 20 expert <a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/specialist-advisory-committees/\" rel=\"nofollow\">Specialist Advisory Committees (SACs)</a>, previously expert Subcommittees, which provide clinical evaluations in specialist areas. Specialist Advisory Committees meet as required to discuss issues referred to them by PTAC or Pharmac.</p>\n<p style=\"height: 20px\">&nbsp;</p>\n<p>In November 2021, we introduced separate terms of reference for the SACs to make clear that these committees have different, but complementary, roles, expertise and perspectives to PTAC.</p>\n<p style=\"height: 15px\">&nbsp;</p>\n<p>PTAC and SACs may make recommendations to Pharmac that differ from each other when looking at the same evidence. Pharmac considers the recommendations provided by all our clinical advisory committees when assessing applications.</p>\n<p style=\"height: 20px\">&nbsp;</p>\n<p><a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/pharmacology-and-therapeutics-advisory-committee-ptac/ptac-terms-of-reference-july-2021/\" rel=\"nofollow\">PTAC</a>  and <a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/specialist-advisory-committees/specialist-advisory-committee-terms-of-reference//\" rel=\"nofollow\">Specialist Advisory Committees</a> records of the meeting will be published on this website in accordance with the Terms of Reference.</p>",
+    "position": 1,
+    "name": "Seeking Clinical Advice",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Mar 2020",
+          "fs": "Mar 2020",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Clinical advice required",
+          "fs": "Clinical advice required",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000Mc0lW2AR"
+          },
+          "Id": "a0POZ00000Mc0lW2AR",
+          "Event_Date__c": "2020-03-24",
+          "Event_Description__c": "Clinical advice required",
+          "Stage__c": "Seeking Clinical Advice",
+          "Formatted_Date__c": "Mar 2020",
+          "Status_History__c": "a132P000000BbeWQAS"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Sep 2021",
+          "fs": "Sep 2021",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Assigned to Diabetes Subcommittee meeting to provide advice on Friday 24 September 2021",
+          "fs": "Assigned to Diabetes Subcommittee meeting to provide advice on Friday 24 September 2021",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000Mc0lX2AR"
+          },
+          "Id": "a0POZ00000Mc0lX2AR",
+          "Event_Date__c": "2021-09-03",
+          "Event_Description__c": "Assigned to Diabetes Subcommittee meeting to provide advice on Friday 24 September 2021",
+          "Stage__c": "Seeking Clinical Advice",
+          "Formatted_Date__c": "Sep 2021",
+          "Status_History__c": "a132P000000D95dQAC"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": "<p>The Subcommittee <b>recommended</b> that Pharmac decline to list the Medtronic Guardian 3 CGM system on the Pharmaceutical Schedule. </p><p>In making this recommendation, the Subcommittee noted that: </p><ul><li>The Medtronic Guardian 3 system has been superseded by newer products with greater functionality, such as the Medtronic Guardian 4 CGM or the Dexcom G6 CGM. </li><li>A paucity of data to support this particular system.\u00a0</li></ul>",
+          "fs": "<p>The Subcommittee <b>recommended</b> that Pharmac decline to list the Medtronic Guardian 3 CGM system on the Pharmaceutical Schedule. </p><p>In making this recommendation, the Subcommittee noted that: </p><ul><li>The Medtronic Guardian 3 system has been superseded by newer products with greater functionality, such as the Medtronic Guardian 4 CGM or the Dexcom G6 CGM. </li><li>A paucity of data to support this particular system.\u00a0</li></ul>",
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": "<p>Medtronic Guardian 3 CGM system</p><p><br></p><p>The Subcommittee noted the application for the Medtronic Guardian 3 system for people with type 1 diabetes. The Subcommittee noted that the Guardian 3 system consists of the Guardian Sensor (3) glucose sensor, the Guardian Connect transmitter and the Guardian Connect application (app). </p><p><br></p><p>The Subcommittee noted that the Guardian Link transmitter receives and sends data to the Guardian Connect app through a Bluetooth Smart wireless connection and that the app can be downloaded onto any mobile device with a compatible operating system version. </p><p><br></p><p>The Subcommittee noted that the Guardian Sensors work for up to 7 days and can be placed on a patient\u2019s abdomen or on the back of the arm. The Subcommittee noted that the transmitter can be worn for up to 7 days at a time without recharging and have a 12-month lifespan. </p><p><br></p><p>The Subcommittee noted that the Guardian 3 system, can pair with both currently Pharmac-funded Medtronic pumps (the MiniMed 640G and the MiniMed 770G). The Subcommittee noted that when paired with the MiniMed 640 users can utilise a predictive low glucose suspension function, while the MiniMed 770G offers greater closed-loop functionality through automatic basal insulin adjustment.</p><p><br></p><p>The Subcommittee noted that glucose readings are updated every five minutes to the patients pump screen or the user\u2019s smart device via the MiniMed application. The Subcommittee noted that CGM alerts notify the individual of high and low glucose values, and graphs and trend arrows show the speed and direction glucose levels are moving. The Subcommittee noted that the CGM system has an in-built hypoglycaemia threshold for alarm which can be adjusted by users.</p><p><br></p><p>The Subcommittee noted the Medtronic Guardian 3 glucose sensor and transmitter are registered on the Web Assisted Notification of Devices (WAND) database, which is a mandatory requirement for importers, exporters, and local manufacturers (Glucose Sensor WAND reference: 071010-WAND-77484E, Glucose Transmitter WAND reference: 071010-WAND-77U8G8). </p><p><br></p><p>The Subcommittee noted that unlike the Dexcom G6 CGM system, the Medtronic Guardian 3 system requires frequent calibration (up to four times per day) with finger-prick testing for reliable performance. The Subcommittee considers that frequent calibration is a significant driver of patient disengagement.</p><p><br></p><p>The Subcommittee noted the following studies provided by the supplier in the<span style=\"font-size: 8pt;\"> a</span>pplication for funding: </p><p><br></p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>Bergenstal et al. N Engl J Med. 2013. 18;369(3):224-32</p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>Charleer et al. J Clin Endocrinol Metab. 2018. 103(3):1224-1232</p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>Choudhary et al. Diabetes Technol. &amp; Therap. 2016. 18(5):288-291</p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>Deiss et al. Diabetes Care. 2006;29(12):2730-2</p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>Ly et al. JAMA. 2013. 310(12):1240-7</p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>Messer et al. Diabet Med. 2018. 35(4):409-418</p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>Rickles et al. J Clin Endocrinol Metab. 2018. 103(1):105-114</p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>Zhong et al. Diabetes Technol Ther. 2016. 18(10):657-663</p><p><br></p><p>The Subcommittee noted the evidence provided by the supplier broadly supports the wider CGM literature in reporting improvements in glycaemic control compared with patient self-monitoring, however, the Subcommittee considered the evidence to be of poor quality overall, namely due to the lack of high-quality clinical trial data.</p><p><br></p><p><span style=\"color: black;\">The Subcommittee noted that there was significant benefit in providing MiniMed users with a compatible CGM option, however, that this particular CGM system had been superseded by products with greater functionality. As such, the Subcommittee recommended this particular product for decline.\u00a0</span></p><p><br></p><p><span style=\"color: black;\">The Subcommittee considered that the below summarises its interpretation of the most appropriate PICO (population, intervention, comparator, outcomes) information for the Medtronic Guardian 3 CGM if it were to be funded in New Zealand for people with type 1 diabetes and those with diabetes secondary to cystic fibrosis or pancreatectomy. This PICO captures key clinical aspects of the proposal and may be used to frame any future economic assessment by Pharmac staff. This PICO is based on the Committee\u2019s assessment at this time and may differ from that requested by the applicant. The PICO may change based on new information, additional clinical advice, or further analysis by Pharmac staff.\u00a0</span></p><p><br></p><p><span style=\"color: black;\"><span class=\"ql-cursor\">\ufeff</span></span><img src=\"/apptracker/servlet/rtaImage?eid=a0POZ00000Mc0lY&amp;feoid=00N2P000000YsIc&amp;refid=0EM2P000001nrC4\" alt=\"image.png\"></img></p>",
+          "fs": "<p>Medtronic Guardian 3 CGM system</p><p><br></p><p>The Subcommittee noted the application for the Medtronic Guardian 3 system for people with type 1 diabetes. The Subcommittee noted that the Guardian 3 system consists of the Guardian Sensor (3) glucose sensor, the Guardian Connect transmitter and the Guardian Connect application (app). </p><p><br></p><p>The Subcommittee noted that the Guardian Link transmitter receives and sends data to the Guardian Connect app through a Bluetooth Smart wireless connection and that the app can be downloaded onto any mobile device with a compatible operating system version. </p><p><br></p><p>The Subcommittee noted that the Guardian Sensors work for up to 7 days and can be placed on a patient\u2019s abdomen or on the back of the arm. The Subcommittee noted that the transmitter can be worn for up to 7 days at a time without recharging and have a 12-month lifespan. </p><p><br></p><p>The Subcommittee noted that the Guardian 3 system, can pair with both currently Pharmac-funded Medtronic pumps (the MiniMed 640G and the MiniMed 770G). The Subcommittee noted that when paired with the MiniMed 640 users can utilise a predictive low glucose suspension function, while the MiniMed 770G offers greater closed-loop functionality through automatic basal insulin adjustment.</p><p><br></p><p>The Subcommittee noted that glucose readings are updated every five minutes to the patients pump screen or the user\u2019s smart device via the MiniMed application. The Subcommittee noted that CGM alerts notify the individual of high and low glucose values, and graphs and trend arrows show the speed and direction glucose levels are moving. The Subcommittee noted that the CGM system has an in-built hypoglycaemia threshold for alarm which can be adjusted by users.</p><p><br></p><p>The Subcommittee noted the Medtronic Guardian 3 glucose sensor and transmitter are registered on the Web Assisted Notification of Devices (WAND) database, which is a mandatory requirement for importers, exporters, and local manufacturers (Glucose Sensor WAND reference: 071010-WAND-77484E, Glucose Transmitter WAND reference: 071010-WAND-77U8G8). </p><p><br></p><p>The Subcommittee noted that unlike the Dexcom G6 CGM system, the Medtronic Guardian 3 system requires frequent calibration (up to four times per day) with finger-prick testing for reliable performance. The Subcommittee considers that frequent calibration is a significant driver of patient disengagement.</p><p><br></p><p>The Subcommittee noted the following studies provided by the supplier in the<span style=\"font-size: 8pt;\"> a</span>pplication for funding: </p><p><br></p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>Bergenstal et al. N Engl J Med. 2013. 18;369(3):224-32</p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>Charleer et al. J Clin Endocrinol Metab. 2018. 103(3):1224-1232</p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>Choudhary et al. Diabetes Technol. &amp; Therap. 2016. 18(5):288-291</p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>Deiss et al. Diabetes Care. 2006;29(12):2730-2</p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>Ly et al. JAMA. 2013. 310(12):1240-7</p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>Messer et al. Diabet Med. 2018. 35(4):409-418</p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>Rickles et al. J Clin Endocrinol Metab. 2018. 103(1):105-114</p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>Zhong et al. Diabetes Technol Ther. 2016. 18(10):657-663</p><p><br></p><p>The Subcommittee noted the evidence provided by the supplier broadly supports the wider CGM literature in reporting improvements in glycaemic control compared with patient self-monitoring, however, the Subcommittee considered the evidence to be of poor quality overall, namely due to the lack of high-quality clinical trial data.</p><p><br></p><p><span style=\"color: black;\">The Subcommittee noted that there was significant benefit in providing MiniMed users with a compatible CGM option, however, that this particular CGM system had been superseded by products with greater functionality. As such, the Subcommittee recommended this particular product for decline.\u00a0</span></p><p><br></p><p><span style=\"color: black;\">The Subcommittee considered that the below summarises its interpretation of the most appropriate PICO (population, intervention, comparator, outcomes) information for the Medtronic Guardian 3 CGM if it were to be funded in New Zealand for people with type 1 diabetes and those with diabetes secondary to cystic fibrosis or pancreatectomy. This PICO captures key clinical aspects of the proposal and may be used to frame any future economic assessment by Pharmac staff. This PICO is based on the Committee\u2019s assessment at this time and may differ from that requested by the applicant. The PICO may change based on new information, additional clinical advice, or further analysis by Pharmac staff.\u00a0</span></p><p><br></p><p><span style=\"color: black;\"><span class=\"ql-cursor\">\ufeff</span></span><img src=\"/apptracker/servlet/rtaImage?eid=a0POZ00000Mc0lY&amp;feoid=00N2P000000YsIc&amp;refid=0EM2P000001nrC4\" alt=\"image.png\"></img></p>",
+          "change": null
+        },
+        "Published_Application": {
+          "s": "<p>The Subcommittee considered an application from InterMed Medical Limited for the use of the Medtronic Guardian 3 continuous glucose monitoring (CGM) system for people with type 1 diabetes mellitus.</p>",
+          "fs": "<p>The Subcommittee considered an application from InterMed Medical Limited for the use of the Medtronic Guardian 3 continuous glucose monitoring (CGM) system for people with type 1 diabetes mellitus.</p>",
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": "Decline",
+          "fs": "Decline",
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Jan 2022",
+          "fs": "Jan 2022",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Clinical advice received from Diabetes Subcommittee at meeting Friday 24 September 2021.",
+          "fs": "Clinical advice received from Diabetes Subcommittee at meeting Friday 24 September 2021.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000Mc0lY2AR"
+          },
+          "Id": "a0POZ00000Mc0lY2AR",
+          "Event_Date__c": "2022-01-11",
+          "Event_Description__c": "Clinical advice received from Diabetes Subcommittee at meeting Friday 24 September 2021.",
+          "Stage__c": "Seeking Clinical Advice",
+          "Outcome__c": "Decline",
+          "Formatted_Date__c": "Jan 2022",
+          "Published_Recommendation__c": "<p>The Subcommittee <b>recommended</b> that Pharmac decline to list the Medtronic Guardian 3 CGM system on the Pharmaceutical Schedule. </p><p>In making this recommendation, the Subcommittee noted that: </p><ul><li>The Medtronic Guardian 3 system has been superseded by newer products with greater functionality, such as the Medtronic Guardian 4 CGM or the Dexcom G6 CGM. </li><li>A paucity of data to support this particular system.\u00a0</li></ul>",
+          "Published_Application__c": "<p>The Subcommittee considered an application from InterMed Medical Limited for the use of the Medtronic Guardian 3 continuous glucose monitoring (CGM) system for people with type 1 diabetes mellitus.</p>",
+          "Published_Discussion__c": "<p>Medtronic Guardian 3 CGM system</p><p><br></p><p>The Subcommittee noted the application for the Medtronic Guardian 3 system for people with type 1 diabetes. The Subcommittee noted that the Guardian 3 system consists of the Guardian Sensor (3) glucose sensor, the Guardian Connect transmitter and the Guardian Connect application (app). </p><p><br></p><p>The Subcommittee noted that the Guardian Link transmitter receives and sends data to the Guardian Connect app through a Bluetooth Smart wireless connection and that the app can be downloaded onto any mobile device with a compatible operating system version. </p><p><br></p><p>The Subcommittee noted that the Guardian Sensors work for up to 7 days and can be placed on a patient\u2019s abdomen or on the back of the arm. The Subcommittee noted that the transmitter can be worn for up to 7 days at a time without recharging and have a 12-month lifespan. </p><p><br></p><p>The Subcommittee noted that the Guardian 3 system, can pair with both currently Pharmac-funded Medtronic pumps (the MiniMed 640G and the MiniMed 770G). The Subcommittee noted that when paired with the MiniMed 640 users can utilise a predictive low glucose suspension function, while the MiniMed 770G offers greater closed-loop functionality through automatic basal insulin adjustment.</p><p><br></p><p>The Subcommittee noted that glucose readings are updated every five minutes to the patients pump screen or the user\u2019s smart device via the MiniMed application. The Subcommittee noted that CGM alerts notify the individual of high and low glucose values, and graphs and trend arrows show the speed and direction glucose levels are moving. The Subcommittee noted that the CGM system has an in-built hypoglycaemia threshold for alarm which can be adjusted by users.</p><p><br></p><p>The Subcommittee noted the Medtronic Guardian 3 glucose sensor and transmitter are registered on the Web Assisted Notification of Devices (WAND) database, which is a mandatory requirement for importers, exporters, and local manufacturers (Glucose Sensor WAND reference: 071010-WAND-77484E, Glucose Transmitter WAND reference: 071010-WAND-77U8G8). </p><p><br></p><p>The Subcommittee noted that unlike the Dexcom G6 CGM system, the Medtronic Guardian 3 system requires frequent calibration (up to four times per day) with finger-prick testing for reliable performance. The Subcommittee considers that frequent calibration is a significant driver of patient disengagement.</p><p><br></p><p>The Subcommittee noted the following studies provided by the supplier in the<span style=\"font-size: 8pt;\"> a</span>pplication for funding: </p><p><br></p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>Bergenstal et al. N Engl J Med. 2013. 18;369(3):224-32</p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>Charleer et al. J Clin Endocrinol Metab. 2018. 103(3):1224-1232</p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>Choudhary et al. Diabetes Technol. &amp; Therap. 2016. 18(5):288-291</p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>Deiss et al. Diabetes Care. 2006;29(12):2730-2</p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>Ly et al. JAMA. 2013. 310(12):1240-7</p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>Messer et al. Diabet Med. 2018. 35(4):409-418</p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>Rickles et al. J Clin Endocrinol Metab. 2018. 103(1):105-114</p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>Zhong et al. Diabetes Technol Ther. 2016. 18(10):657-663</p><p><br></p><p>The Subcommittee noted the evidence provided by the supplier broadly supports the wider CGM literature in reporting improvements in glycaemic control compared with patient self-monitoring, however, the Subcommittee considered the evidence to be of poor quality overall, namely due to the lack of high-quality clinical trial data.</p><p><br></p><p><span style=\"color: black;\">The Subcommittee noted that there was significant benefit in providing MiniMed users with a compatible CGM option, however, that this particular CGM system had been superseded by products with greater functionality. As such, the Subcommittee recommended this particular product for decline.\u00a0</span></p><p><br></p><p><span style=\"color: black;\">The Subcommittee considered that the below summarises its interpretation of the most appropriate PICO (population, intervention, comparator, outcomes) information for the Medtronic Guardian 3 CGM if it were to be funded in New Zealand for people with type 1 diabetes and those with diabetes secondary to cystic fibrosis or pancreatectomy. This PICO captures key clinical aspects of the proposal and may be used to frame any future economic assessment by Pharmac staff. This PICO is based on the Committee\u2019s assessment at this time and may differ from that requested by the applicant. The PICO may change based on new information, additional clinical advice, or further analysis by Pharmac staff.\u00a0</span></p><p><br></p><p><span style=\"color: black;\"><span class=\"ql-cursor\">\ufeff</span></span><img src=\"/apptracker/servlet/rtaImage?eid=a0POZ00000Mc0lY&amp;feoid=00N2P000000YsIc&amp;refid=0EM2P000001nrC4\" alt=\"image.png\"></img></p>",
+          "Status_History__c": "a132P000000DT3DQAW"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Mar 2020",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Following Clinical Advice, Pharmac staff considers the advice and the funding application under goes an assessment using our&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/factors-for-consideration/\" rel=\"nofollow\">Factors for Consideration</a>&nbsp;framework and seeks additional information as required.</p>\r\n<p>&nbsp;</p>\r\n<p>Research and Economic analysis are undertaken.&nbsp; This focuses on the costs and benefits of a proposed course of action. Economics is based on three fundamental concepts that summarise the issues Pharmac faces daily:&nbsp;</p>\r\n<ul>\r\n<li>Scarcity &ndash; resources will always be insufficient to support all possible activities.</li>\r\n<li>Choices &ndash; due to scarce resources, decisions must be made about how best to use them.</li>\r\n<li>Opportunity cost &ndash; by choosing to use resources one way, we forgo other opportunities to use the same resources.</li>\r\n</ul>\r\n<p>&nbsp;</p>\r\n<p>For further information on the purpose of, and techniques for, undertaking economic analysis in health care, please refer&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/economic-analysis/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/economic-analysis/</a></p>",
+    "position": 2,
+    "name": "Under Assessment",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Jan 2023",
+          "fs": "Jan 2023",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Working to compare options",
+          "fs": "Working to compare options",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000Mc0lZ2AR"
+          },
+          "Id": "a0POZ00000Mc0lZ2AR",
+          "Event_Date__c": "2023-01-28",
+          "Event_Description__c": "Working to compare options",
+          "Stage__c": "Under Assessment",
+          "Formatted_Date__c": "Jan 2023",
+          "Status_History__c": "a132P000000EDZxQAO"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Sep 2024",
+          "fs": "Sep 2024",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Working to compare options",
+          "fs": "Working to compare options",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000Mc0la2AB"
+          },
+          "Id": "a0POZ00000Mc0la2AB",
+          "Event_Date__c": "2024-09-25",
+          "Event_Description__c": "Working to compare options",
+          "Stage__c": "Under Assessment",
+          "Formatted_Date__c": "Sep 2024",
+          "Status_History__c": "a13OZ00000EbQZnYAN"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Jan 2023",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Pharmac staff uses a prioritisation process to compare and rank funding options. Possible opportunities for new investment will always exceed the budget Pharmac has available; therefore, prioritisation is an intrinsic part of Pharmac\u2019s decision-making process.</p>\r\n<p>The relative ranking of options aims to support Pharmac&rsquo;s statutory objective &ldquo;to secure for eligible people in need of pharmaceuticals, the best health outcomes that are reasonably achievable from pharmaceutical treatment and from within the amount of funding provided&rdquo;.</p>\r\n<p>A funding application or proposal is considered ready for prioritisation when sufficient information is available to permit it to be reviewed against Pharmac's Factors for Consideration and to inform a comparison with other possible investment decisions.</p>\r\n<p>There is no guarantee when or if a ranked medicine will be funded.&nbsp;&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/prioritisation/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/prioritisation/</a></p>",
+    "position": 3,
+    "name": "Options Compared",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Sep 2024",
+          "fs": "Sep 2024",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "The relative ranking of the pharmaceutical application has been completed.",
+          "fs": "The relative ranking of the pharmaceutical application has been completed.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000Mc0lb2AB"
+          },
+          "Id": "a0POZ00000Mc0lb2AB",
+          "Event_Date__c": "2024-09-25",
+          "Event_Description__c": "The relative ranking of the pharmaceutical application has been completed.",
+          "Stage__c": "Options Compared",
+          "Formatted_Date__c": "Sep 2024",
+          "Status_History__c": "a13OZ00000EbbGfYAJ"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Sep 2024",
+          "fs": "Sep 2024",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "The relative ranking of the pharmaceutical application has been completed.",
+          "fs": "The relative ranking of the pharmaceutical application has been completed.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000Mc0lc2AB"
+          },
+          "Id": "a0POZ00000Mc0lc2AB",
+          "Event_Date__c": "2024-09-25",
+          "Event_Description__c": "The relative ranking of the pharmaceutical application has been completed.",
+          "Stage__c": "Options Compared",
+          "Formatted_Date__c": "Sep 2024",
+          "Status_History__c": "a13OZ00000Ebso5YAB"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Sep 2024",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Pharmac is consulting on a proposal to either approve or decline the application.&nbsp;We seek the views of all people who have an interest in our proposals, or who may be affected by them, to obtain feedback on our proposed approaches.</p>\r\n<p><a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/having-your-say/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/having-your-say/</a></p>",
+    "position": 4,
+    "name": "Under Consultation",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": "<p><a href=\"https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/proposal-to-decline-inactive-applications-oct24\" target=\"_blank\">Consultation</a></p>",
+          "fs": "<p><a href=\"https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/proposal-to-decline-inactive-applications-oct24\" target=\"_blank\">Consultation</a></p>",
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Oct 2024",
+          "fs": "Oct 2024",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Public consultation for this application is active.",
+          "fs": "Public consultation for this application is active.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000Mc0ld2AB"
+          },
+          "Id": "a0POZ00000Mc0ld2AB",
+          "Event_Date__c": "2024-10-17",
+          "Event_Description__c": "Public consultation for this application is active.",
+          "Stage__c": "Under Consultation",
+          "Links__c": "<p><a href=\"https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/proposal-to-decline-inactive-applications-oct24\" target=\"_blank\">Consultation</a></p>",
+          "Formatted_Date__c": "Oct 2024",
+          "Status_History__c": "a13OZ00000FT8ckYAD"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Oct 2024",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Following the consultation process, Pharmac staff considers the feedback and identifies any additional information required as part of a gap analysis.&nbsp; The proposal may require further clinical advice, research, and assessment.</p>",
+    "position": 5,
+    "name": "Reviewing Consultation Feedback",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Nov 2024",
+          "fs": "Nov 2024",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Public consultation for this application is now closed. Pharmac is reviewing consultation feedback.",
+          "fs": "Public consultation for this application is now closed. Pharmac is reviewing consultation feedback.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000Mc0le2AB"
+          },
+          "Id": "a0POZ00000Mc0le2AB",
+          "Event_Date__c": "2024-11-30",
+          "Event_Description__c": "Public consultation for this application is now closed. Pharmac is reviewing consultation feedback.",
+          "Stage__c": "Reviewing Consultation Feedback",
+          "Formatted_Date__c": "Nov 2024",
+          "Status_History__c": "a13OZ00000HClSrYAL"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Nov 2024",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>We refer to our decisions about whether and how particular pharmaceuticals are publicly-funded, as &ldquo;funding decisions&rdquo;.</p>\r\n<p>We consider and assess all funding decisions using the&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/about/operating-policies-and-procedures/#factorsfc\" rel=\"nofollow\">Factors for Consideration</a>. When we do so, we carefully evaluate clinical and other evidence for the benefits and suitability of a proposal, and to identify and understand the people who will be affected by it.</p>\r\n<p>While our main task is to allocate pharmaceutical funding, we consider the benefits and costs across the whole health system now and with a long-term focus, including the effects for hospitals and primary care, and consider direct costs to patients as well as to all health sector budgets.</p>\r\n<p>Final funding decisions are made by the Pharmac Board or delegated to senior Pharmac staff as required by the Board.</p>\r\n<p>&nbsp;</p>",
+    "position": 6,
+    "name": "Decision",
+    "last": true,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": "<p><a href=\"https://www.pharmac.govt.nz/news-and-resources/consultations-and-decisions/2025-06-decision-to-decline-inactive-applications-for-the-funding-of-some-medicines\" target=\"_blank\">Notification of the decision </a></p>",
+          "fs": "<p><a href=\"https://www.pharmac.govt.nz/news-and-resources/consultations-and-decisions/2025-06-decision-to-decline-inactive-applications-for-the-funding-of-some-medicines\" target=\"_blank\">Notification of the decision </a></p>",
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Jun 2025",
+          "fs": "Jun 2025",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "The funding application has been declined.",
+          "fs": "The funding application has been declined.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000Mc0lf2AB"
+          },
+          "Id": "a0POZ00000Mc0lf2AB",
+          "Event_Date__c": "2025-06-17",
+          "Event_Description__c": "The funding application has been declined.",
+          "Stage__c": "Decision",
+          "Links__c": "<p><a href=\"https://www.pharmac.govt.nz/news-and-resources/consultations-and-decisions/2025-06-decision-to-decline-inactive-applications-for-the-funding-of-some-medicines\" target=\"_blank\">Notification of the decision </a></p>",
+          "Formatted_Date__c": "Jun 2025",
+          "Status_History__c": "a13OZ00000OhMdlYAF"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Jun 2025",
+    "collapsed": false,
+    "checked": true
+  }
+]

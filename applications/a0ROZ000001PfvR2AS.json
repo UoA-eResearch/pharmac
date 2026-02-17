@@ -1,0 +1,564 @@
+[
+  {
+    "text": "<p>New funding applications are referred to one of Pharmac's Funding Application Advisors (FAAs), who'll review the application to ensure they have the relevant information to undertake a preliminary analysis.&nbsp; They may seek more information if required.</p>\r\n<p><a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/new-funding-applications/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/new-funding-applications/</a></p>",
+    "position": 0,
+    "name": "Application Received",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Jan 2020",
+          "fs": "Jan 2020",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Application received",
+          "fs": "Application received",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ0000059Ste2AE"
+          },
+          "Id": "a0POZ0000059Ste2AE",
+          "Event_Date__c": "2020-01-31",
+          "Event_Description__c": "Application received",
+          "Stage__c": "Application Received",
+          "Formatted_Date__c": "Jan 2020",
+          "Status_History__c": "a132P000000CWYeQAO"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Jan 2020",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Pharmac is identifying and gathering information required to get clinical advice.  The <a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/pharmacology-and-therapeutics-advisory-committee-ptac/\" rel=\"nofollow\">Pharmacology and Therapeutics Advisory Committee (PTAC)</a>  meets quarterly. There are also around 20 expert <a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/specialist-advisory-committees/\" rel=\"nofollow\">Specialist Advisory Committees (SACs)</a>, previously expert Subcommittees, which provide clinical evaluations in specialist areas. Specialist Advisory Committees meet as required to discuss issues referred to them by PTAC or Pharmac.</p>\n<p style=\"height: 20px\">&nbsp;</p>\n<p>In November 2021, we introduced separate terms of reference for the SACs to make clear that these committees have different, but complementary, roles, expertise and perspectives to PTAC.</p>\n<p style=\"height: 15px\">&nbsp;</p>\n<p>PTAC and SACs may make recommendations to Pharmac that differ from each other when looking at the same evidence. Pharmac considers the recommendations provided by all our clinical advisory committees when assessing applications.</p>\n<p style=\"height: 20px\">&nbsp;</p>\n<p><a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/pharmacology-and-therapeutics-advisory-committee-ptac/ptac-terms-of-reference-july-2021/\" rel=\"nofollow\">PTAC</a>  and <a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/specialist-advisory-committees/specialist-advisory-committee-terms-of-reference//\" rel=\"nofollow\">Specialist Advisory Committees</a> records of the meeting will be published on this website in accordance with the Terms of Reference.</p>",
+    "position": 1,
+    "name": "Seeking Clinical Advice",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Jan 2021",
+          "fs": "Jan 2021",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Clinical advice required",
+          "fs": "Clinical advice required",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ0000059Stf2AE"
+          },
+          "Id": "a0POZ0000059Stf2AE",
+          "Event_Date__c": "2021-01-19",
+          "Event_Description__c": "Clinical advice required",
+          "Stage__c": "Seeking Clinical Advice",
+          "Formatted_Date__c": "Jan 2021",
+          "Status_History__c": "a132P000000CWYjQAO"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Apr 2022",
+          "fs": "Apr 2022",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Assigned to Pharmacology and Therapeutics Advisory Committee (PTAC) meeting to provide advice on Thursday 19 May 2022",
+          "fs": "Assigned to Pharmacology and Therapeutics Advisory Committee (PTAC) meeting to provide advice on Thursday 19 May 2022",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ0000059Stg2AE"
+          },
+          "Id": "a0POZ0000059Stg2AE",
+          "Event_Date__c": "2022-04-07",
+          "Event_Description__c": "Assigned to Pharmacology and Therapeutics Advisory Committee (PTAC) meeting to provide advice on Thursday 19 May 2022",
+          "Stage__c": "Seeking Clinical Advice",
+          "Formatted_Date__c": "Apr 2022",
+          "Status_History__c": "a132P000000DfqWQAS"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": "<p><span style=\"color: black;\">1.1.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee <strong>recommended</strong> that testosterone gel for transdermal hormone therapy be listed with a <strong>high priority</strong> as a funded replacement for testosterone undecanoate capsules following that product\u2019s discontinuation.</p><p><span style=\"color: black;\">1.2.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>In making this recommendation, the Committee considered:</p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The unmet health need of those who need testosterone replacement therapy and for whom testosterone transdermal patches or intramuscular injection cannot be tolerated</p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The moderate- to high-strength evidence that indicates the health benefit of testosterone gel as an effective testosterone replacement therapy</p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The suitability benefit of testosterone gel over the currently funded alternatives.</p>",
+          "fs": "<p><span style=\"color: black;\">1.1.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee <strong>recommended</strong> that testosterone gel for transdermal hormone therapy be listed with a <strong>high priority</strong> as a funded replacement for testosterone undecanoate capsules following that product\u2019s discontinuation.</p><p><span style=\"color: black;\">1.2.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>In making this recommendation, the Committee considered:</p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The unmet health need of those who need testosterone replacement therapy and for whom testosterone transdermal patches or intramuscular injection cannot be tolerated</p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The moderate- to high-strength evidence that indicates the health benefit of testosterone gel as an effective testosterone replacement therapy</p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The suitability benefit of testosterone gel over the currently funded alternatives.</p>",
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": "<h2><strong><em>M\u0101ori impact</em></strong></h2><p><span style=\"color: black;\">1.1.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee discussed the impact of funding testosterone gel for transdermal hormone therapy on M\u0101ori health areas of focus and M\u0101ori health outcomes. Members noted the paucity of evidence available, with only one study identified (<a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5695316/\" target=\"_blank\">Connolly et al. BMJ Open. 2017;7</a>), which suggested no difference in testosterone levels between M\u0101ori and non-M\u0101ori in old age but was confined to very old age groups and considered affected by selection bias. No further evidence was identified. The Committee therefore considered that the impact on M\u0101ori health outcomes to be unknown.</p><h2><strong><em>Background</em></strong></h2><p><span style=\"color: black;\">1.2.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that Pharmac has been informed of an upcoming discontinuation of testosterone undecanoate capsules, and that funding of this presentation is currently restricted to those who received treatment prior to 1 November 2021. The Committee noted that email correspondence with members of the Endocrinology Advisory Committee indicates that this discontinuation will result in an unmet health need; in particular, for those with a true needle phobia for injectable products or allergy to patches. The Committee noted that Pharmac has been unable to secure an ongoing supply of testosterone capsules, and that this application considers funding a gel in order to meet the health need of people requiring ongoing testosterone treatment for whom other funded options are unsuitable.</p><h2><strong><em>Discussion</em></strong></h2><p><span style=\"color: black;\">1.3.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that the clinical features of male hypogonadism are dependent upon the age of onset and severity of testosterone deficiency. The Committee noted that this funding application focused on adult onset (post pubertal), as Pharmac staff understood this would comprise the majority of use. The Committee noted that there would likely be some pubertal use as well for the management of adolescents experiencing delayed puberty. The Committee also considered that other patient groups requiring testosterone replacement therapy may include postmenopausal women with hypoactive sexual desire disorder and transgender individuals.</p><p><span style=\"color: black;\">1.4.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee<strong> </strong>noted that the <a href=\"https://uroweb.org/guidelines/sexual-and-reproductive-health\" target=\"_blank\">2022 updated guidelines</a> on male hypogonadism from the European Association of Urology state that androgen deficiency increases with age, with the major causes being: central obesity, overall poor health, and other comorbidities (eg diabetes, cardiovascular disease, chronic obstructive pulmonary disease, renal disease, cancer). The Committee noted that up to the age of 80 years, aging accounts for a low proportion of hypogonadism. The Committee noted that the incidence of symptomatic hypogonadism in men aged 40-79 years varies between 2.1-5.7%, and the overall incidence of hypogonadism has been reported to be 12.3 and 11.7 cases per 1,000 people per year. The Committee also noted that male hypogonadism is likely to be underdiagnosed and undertreated.</p><p><span style=\"color: black;\">1.5.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered there is a high health need for patients with testosterone deficiency. The Committee noted that, regarding adult testosterone deficiency, the applicant had listed symptoms including fatigue, loss of libido, loss of body hair, muscle wasting, and weight loss, extending in some cases to osteoporosis and anaemia. The Committee were made aware of a study that reported that those with hypogonadotropic hypogonadism have reduced health-related quality of life (HRQoL) (<a href=\"https://www.mdpi.com/2077-0383/10/12/2622/htm\" target=\"_blank\">Ka\u0142u\u017cna et al. J Clin Med. 2021;10:2622</a>). The Committee considered that the health need may also extend to that of the family, wh\u0101nau, and partners of those with testosterone deficiency.</p><p><span style=\"color: black;\">1.6.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that there are a range of fully funded testosterone products currently listed on the Pharmaceutical Schedule, including patches and injections. The Committee noted that 79% of patients using testosterone products are using injections (cipionate, esters, undecanoate), 12% using undecanoate capsules, and 10% using patches. The Committee noted that the median age of patch users is 40 years and of capsule users is 64 years, and that there is a bimodal age distribution for testosterone injections with peaks at ages 20-29 and then 60-79 years.</p><p><span style=\"color: black;\">1.7.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that there are several suitability issues with currently available products. The Committee noted that evidence from the Scottish Medicines Consortium, supplied by the applicant, cites up to 59% of recipients of testosterone patches experienced skin rash or irritation. The Committee also considered the patches to have administration issues regarding poor adhesion of the patch to the skin. The Committee also considered that there are suitability issues with injectable preparations in the small proportion of patients with needle phobia.</p><p><span style=\"color: black;\">1.8.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that testosterone gel is a hydroalcoholic gel absorbed through the skin, and that the circulating testosterone mainly binds to sex hormone-binding globulin and albumin. The Committee noted that there are no Medsafe-approved testosterone gel products in New Zealand, however, Pharmac staff are seeking advice on this proposal ahead of a commercial process for a non-injectable testosterone product. The Committee noted that the recommended dosing of Testogel (testosterone gel 1%) is equivalent to 50 mg testosterone once daily, which can be adjusted in 25 mg increments up to a maximum of 100 mg testosterone daily. The Committee noted that Testogel should be administered by the patient onto clean, dry, healthy skin over both shoulders, or both arms, or abdomen (<a href=\"https://www.medicines.org.uk/emc/product/6808/smpc#gref\" target=\"_blank\">Electronic Medicines Compendium: Testogel SPC. 2021</a>).</p><p><span style=\"color: black;\">1.9.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted the following evidence regarding the efficacy of testosterone gel provided by the applicant:</p><p class=\"ql-indent-1\">1.9.1.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>Scottish Medicines Consortium: A cost effectiveness report for NHS Scotland concluding that testosterone gel offers a cost-effective transdermal treatment for adult male hypogonadism compared with testosterone patches.</p><p class=\"ql-indent-1\">1.9.2.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span><a href=\"https://www.npjournal.org/article/S1555-4155(16)30716-4/pdf\" target=\"_blank\">Luthy et al. J. Nurse Pract. 2016;13(4):241-9</a>: A review of self-administered testosterone therapy medicines in the US (efficacy, patient adherence, monthly cost, and potential side effects), which recommended testosterone gel as a third-line option, following testosterone cipionate injections (Depo-Testosterone) and testosterone patches (Androderm).</p><p class=\"ql-indent-1\">1.9.3.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span><a href=\"https://scholarsarchive.byu.edu/studentpub/183/\" target=\"_blank\">Williams et al. BYU ScholarsArchive. 2016;183</a>: A review of the available testosterone products in the US, supporting the efficacy of testosterone gel products compared with other testosterone formulations.</p><p><span style=\"color: black;\">1.10.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee noted the additional evidence sourced by Pharmac staff in a literature search.</p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/20592293/\" target=\"_blank\">Basaria et al. N Engl J Med. 2010;363(2):109-22</a></p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/15049991/\" target=\"_blank\">Meikle et al. BJU Int. 2004;93(6):789-95</a></p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/22321357/\" target=\"_blank\">Kaufman et al. J Sex Med. 20129(4):1149-61</a></p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/10946892/\" target=\"_blank\">Wang et al. J Clin Endocrinol Metab. 2000;85(8):2839-53</a></p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/17538639/\" target=\"_blank\">Chaing et al. Int J Impot Res. 2007;19(4):411-7</a></p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/16061839/\" target=\"_blank\">Kuhnert et al. Eur J Endocrinol. 2005;153(2):317-26</a></p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/27792869/\" target=\"_blank\">Dias et al. Andrology. 2017;5(1):31-40</a></p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/32250330/\" target=\"_blank\">Ripley et al. NeuroRehabilitation. 2020;46(3):355-68</a></p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/21386088/\" target=\"_blank\">Jones et al. Diabetes Care. 2011;34(4):828-37</a></p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/15126525/\" target=\"_blank\">Wang et al. J Clin Endocrinol Metab. 2004;89(5):2085-98</a></p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/25599449/\" target=\"_blank\">Basaria et al. Pain. 2015;156(2):280-88</a></p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/15140340/\" target=\"_blank\">Dobs et al. Curr Med Res Opin. 2004;20(5):729-38</a></p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/22185431/\" target=\"_blank\">Stahlman et al. Curr Med Res Opin. 2012;28(2):271-9</a></p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/12788872/\" target=\"_blank\">Steidle et al. J Clin Endocrinol Metab. 2003;88(6):2673-81</a></p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/11549629/\" target=\"_blank\">Ly et al. J Clin Endocrinol Metab. 2001;86(9):4078-88</a></p><p><span style=\"color: black;\">1.11.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that testosterone gel improved sexual function and mood, increased lean mass and muscle strength (principally in the legs), and decreased fat mass in hypogonadal men, with less skin irritation and discontinuation compared with the recommended dose of the permeation-enhanced testosterone patch (<a href=\"https://pubmed.ncbi.nlm.nih.gov/15126525/\" target=\"_blank\">Wang et al. J Clin Endocrinol Metab. 2004;89:2085-98</a>).</p><p><span style=\"color: black;\">1.12.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee was also made aware of the following studies:</p><p class=\"ql-indent-1\">1.12.1.<span style=\"font-size: 7pt;\"> </span><a href=\"https://www.mdpi.com/2077-0383/10/12/2622/htm\" target=\"_blank\">Ka\u0142u\u017cna et al. J Clin Med. 2021;10:2622</a>: A study reporting no differences between HRQoL scores in patients receiving hormone replacement therapy and untreated subjects.</p><p class=\"ql-indent-1\">1.12.2.<span style=\"font-size: 7pt;\"> </span><a href=\"https://bmjopen.bmj.com/content/7/11/e015284.long\" target=\"_blank\">Elliott et al. BMJ Open. 2017;7:e015284</a>: A systematic review and network meta-analysis which reported, when considered as a class, improvements with testosterone replacement therapy in HRQoL, depression, erectile function, and libido when compared with placebo improved; however, when comparing the individual products directly head to head, there were few differences between the treatments.</p><p class=\"ql-indent-1\">1.12.3.<span style=\"font-size: 7pt;\"> </span>\u00a0<a href=\"https://www.ahajournals.org/doi/10.1161/JAHA.120.020562?url_ver=Z39.88-2003&amp;rfr_id=ori:rid:crossref.org&amp;rfr_dat=cr_pub%20%200pubmed\" target=\"_blank\">Shores et al. J Am Heart Assoc. 2021;10:e020562</a>: A study reporting that transdermal gels were not associated with an increased risk of composite cardiovascular outcome with or without prevalent cardiovascular disease (mean follow up of 4.3 years).</p><p><span style=\"color: black;\">1.13.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that, overall, the evidence provided was of moderate to high strength and supported the health benefit of testosterone gel as an effective testosterone replacement therapy.</p><p><span style=\"color: black;\">1.14.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that testosterone gel provides a suitable alternative where the currently funded patches or injection cannot be tolerated. The Committee considered that adherence to treatment would be greater in those using the gel compared to the patches. The Committee noted that there may be secondary exposure risks via transfer of gel to partners and children, however considered that education, cautious administration, and covering the application area minimises this potential risk.</p><p><span style=\"color: black;\">1.15.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee considered the other potential disadvantages of testosterone gel, including dose titration issues due to the difficulty in measuring an accurate quantity of gel, and the risk of treatment abuse in those patients prescribed higher than the recommended dosage to achieve enhanced and more rapid therapeutic effects. The Committee considered that these patterns of usage may contribute to an increased incidence of overdose and abuse. The Committee noted that the use of a product with a defined dose may mitigate some of these issues.</p><p><span style=\"color: black;\">1.16.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that there are currently 798 patients receiving testosterone undecanoate capsules who would be affected by the discontinuation of this product. The Committee considered that, if testosterone gel was funded as a transdermal hormone therapy, most of these patients would transition to the gel following the discontinuation of capsules.</p><p><span style=\"color: black;\">1.17.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that if open listed, testosterone gel would be the primary treatment of choice for patients requiring oral or transdermal testosterone therapy (ie not requiring an injectable product). The Committee noted that some patients may trial patches first, however, given the known suitability issues associated with the patches, most patients would use testosterone gel first line. The Committee considered that it would be reasonable to assume an annual discontinuation rate of 15% for patients on testosterone gel.</p><p><span style=\"color: black;\">1.18.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that the overall market for testosterone therapy is growing year-on-year due to its increased use in the transgender patient population. However, it considered that no additional growth over and above the background rate of growth would be expected if testosterone gel was funded.</p><p><span style=\"color: black;\">1.19.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee noted Pharmac does not currently have a commercial proposal with which to assess testosterone gel compared with the currently funded treatment options. The Committee noted that, if testosterone gel was funded, and depending on pricing received, Pharmac may consider managing the financial impact with the following Special Authority criteria:</p><p class=\"ql-indent-1\"><strong style=\"font-family: sans-serif; font-size: 10px;\">Special Authority for Subsidy</strong><span style=\"font-family: sans-serif; font-size: 10px;\"> - Initial application</span></p><p class=\"ql-indent-1\"><span style=\"font-family: sans-serif; font-size: 10px;\">From any relevant practitioner. Approvals valid without further renewal unless notified for applications where the patient has experienced intolerable side effects or received insufficient benefit from testosterone patches.</span></p><p><span style=\"color: black;\">1.20.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that the below summarises its interpretation of the most appropriate PICO (population, intervention, comparator, outcomes) information for testosterone gel if it were to be funded in New Zealand for transdermal hormone therapy. This PICO captures key clinical aspects of the proposal and may be used to frame any future economic assessment by Pharmac staff. This PICO is based on the Committee\u2019s assessment at this time and may differ from that requested by the applicant. The PICO may change based on new information, additional clinical advice, or further analysis by Pharmac staff. <span style=\"color: black;\">\u00a0</span></p><p><span style=\"color: black;\">\ufeff</span><img src=\"/apptracker/servlet/rtaImage?eid=a0POZ0000059Sth&amp;feoid=00N2P000000YsIc&amp;refid=0EM2P000002Ixvo\" alt=\"image.png\"></img></p>",
+          "fs": "<h2><strong><em>M\u0101ori impact</em></strong></h2><p><span style=\"color: black;\">1.1.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee discussed the impact of funding testosterone gel for transdermal hormone therapy on M\u0101ori health areas of focus and M\u0101ori health outcomes. Members noted the paucity of evidence available, with only one study identified (<a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5695316/\" target=\"_blank\">Connolly et al. BMJ Open. 2017;7</a>), which suggested no difference in testosterone levels between M\u0101ori and non-M\u0101ori in old age but was confined to very old age groups and considered affected by selection bias. No further evidence was identified. The Committee therefore considered that the impact on M\u0101ori health outcomes to be unknown.</p><h2><strong><em>Background</em></strong></h2><p><span style=\"color: black;\">1.2.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that Pharmac has been informed of an upcoming discontinuation of testosterone undecanoate capsules, and that funding of this presentation is currently restricted to those who received treatment prior to 1 November 2021. The Committee noted that email correspondence with members of the Endocrinology Advisory Committee indicates that this discontinuation will result in an unmet health need; in particular, for those with a true needle phobia for injectable products or allergy to patches. The Committee noted that Pharmac has been unable to secure an ongoing supply of testosterone capsules, and that this application considers funding a gel in order to meet the health need of people requiring ongoing testosterone treatment for whom other funded options are unsuitable.</p><h2><strong><em>Discussion</em></strong></h2><p><span style=\"color: black;\">1.3.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that the clinical features of male hypogonadism are dependent upon the age of onset and severity of testosterone deficiency. The Committee noted that this funding application focused on adult onset (post pubertal), as Pharmac staff understood this would comprise the majority of use. The Committee noted that there would likely be some pubertal use as well for the management of adolescents experiencing delayed puberty. The Committee also considered that other patient groups requiring testosterone replacement therapy may include postmenopausal women with hypoactive sexual desire disorder and transgender individuals.</p><p><span style=\"color: black;\">1.4.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee<strong> </strong>noted that the <a href=\"https://uroweb.org/guidelines/sexual-and-reproductive-health\" target=\"_blank\">2022 updated guidelines</a> on male hypogonadism from the European Association of Urology state that androgen deficiency increases with age, with the major causes being: central obesity, overall poor health, and other comorbidities (eg diabetes, cardiovascular disease, chronic obstructive pulmonary disease, renal disease, cancer). The Committee noted that up to the age of 80 years, aging accounts for a low proportion of hypogonadism. The Committee noted that the incidence of symptomatic hypogonadism in men aged 40-79 years varies between 2.1-5.7%, and the overall incidence of hypogonadism has been reported to be 12.3 and 11.7 cases per 1,000 people per year. The Committee also noted that male hypogonadism is likely to be underdiagnosed and undertreated.</p><p><span style=\"color: black;\">1.5.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered there is a high health need for patients with testosterone deficiency. The Committee noted that, regarding adult testosterone deficiency, the applicant had listed symptoms including fatigue, loss of libido, loss of body hair, muscle wasting, and weight loss, extending in some cases to osteoporosis and anaemia. The Committee were made aware of a study that reported that those with hypogonadotropic hypogonadism have reduced health-related quality of life (HRQoL) (<a href=\"https://www.mdpi.com/2077-0383/10/12/2622/htm\" target=\"_blank\">Ka\u0142u\u017cna et al. J Clin Med. 2021;10:2622</a>). The Committee considered that the health need may also extend to that of the family, wh\u0101nau, and partners of those with testosterone deficiency.</p><p><span style=\"color: black;\">1.6.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that there are a range of fully funded testosterone products currently listed on the Pharmaceutical Schedule, including patches and injections. The Committee noted that 79% of patients using testosterone products are using injections (cipionate, esters, undecanoate), 12% using undecanoate capsules, and 10% using patches. The Committee noted that the median age of patch users is 40 years and of capsule users is 64 years, and that there is a bimodal age distribution for testosterone injections with peaks at ages 20-29 and then 60-79 years.</p><p><span style=\"color: black;\">1.7.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that there are several suitability issues with currently available products. The Committee noted that evidence from the Scottish Medicines Consortium, supplied by the applicant, cites up to 59% of recipients of testosterone patches experienced skin rash or irritation. The Committee also considered the patches to have administration issues regarding poor adhesion of the patch to the skin. The Committee also considered that there are suitability issues with injectable preparations in the small proportion of patients with needle phobia.</p><p><span style=\"color: black;\">1.8.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that testosterone gel is a hydroalcoholic gel absorbed through the skin, and that the circulating testosterone mainly binds to sex hormone-binding globulin and albumin. The Committee noted that there are no Medsafe-approved testosterone gel products in New Zealand, however, Pharmac staff are seeking advice on this proposal ahead of a commercial process for a non-injectable testosterone product. The Committee noted that the recommended dosing of Testogel (testosterone gel 1%) is equivalent to 50 mg testosterone once daily, which can be adjusted in 25 mg increments up to a maximum of 100 mg testosterone daily. The Committee noted that Testogel should be administered by the patient onto clean, dry, healthy skin over both shoulders, or both arms, or abdomen (<a href=\"https://www.medicines.org.uk/emc/product/6808/smpc#gref\" target=\"_blank\">Electronic Medicines Compendium: Testogel SPC. 2021</a>).</p><p><span style=\"color: black;\">1.9.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted the following evidence regarding the efficacy of testosterone gel provided by the applicant:</p><p class=\"ql-indent-1\">1.9.1.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>Scottish Medicines Consortium: A cost effectiveness report for NHS Scotland concluding that testosterone gel offers a cost-effective transdermal treatment for adult male hypogonadism compared with testosterone patches.</p><p class=\"ql-indent-1\">1.9.2.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span><a href=\"https://www.npjournal.org/article/S1555-4155(16)30716-4/pdf\" target=\"_blank\">Luthy et al. J. Nurse Pract. 2016;13(4):241-9</a>: A review of self-administered testosterone therapy medicines in the US (efficacy, patient adherence, monthly cost, and potential side effects), which recommended testosterone gel as a third-line option, following testosterone cipionate injections (Depo-Testosterone) and testosterone patches (Androderm).</p><p class=\"ql-indent-1\">1.9.3.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span><a href=\"https://scholarsarchive.byu.edu/studentpub/183/\" target=\"_blank\">Williams et al. BYU ScholarsArchive. 2016;183</a>: A review of the available testosterone products in the US, supporting the efficacy of testosterone gel products compared with other testosterone formulations.</p><p><span style=\"color: black;\">1.10.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee noted the additional evidence sourced by Pharmac staff in a literature search.</p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/20592293/\" target=\"_blank\">Basaria et al. N Engl J Med. 2010;363(2):109-22</a></p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/15049991/\" target=\"_blank\">Meikle et al. BJU Int. 2004;93(6):789-95</a></p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/22321357/\" target=\"_blank\">Kaufman et al. J Sex Med. 20129(4):1149-61</a></p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/10946892/\" target=\"_blank\">Wang et al. J Clin Endocrinol Metab. 2000;85(8):2839-53</a></p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/17538639/\" target=\"_blank\">Chaing et al. Int J Impot Res. 2007;19(4):411-7</a></p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/16061839/\" target=\"_blank\">Kuhnert et al. Eur J Endocrinol. 2005;153(2):317-26</a></p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/27792869/\" target=\"_blank\">Dias et al. Andrology. 2017;5(1):31-40</a></p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/32250330/\" target=\"_blank\">Ripley et al. NeuroRehabilitation. 2020;46(3):355-68</a></p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/21386088/\" target=\"_blank\">Jones et al. Diabetes Care. 2011;34(4):828-37</a></p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/15126525/\" target=\"_blank\">Wang et al. J Clin Endocrinol Metab. 2004;89(5):2085-98</a></p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/25599449/\" target=\"_blank\">Basaria et al. Pain. 2015;156(2):280-88</a></p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/15140340/\" target=\"_blank\">Dobs et al. Curr Med Res Opin. 2004;20(5):729-38</a></p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/22185431/\" target=\"_blank\">Stahlman et al. Curr Med Res Opin. 2012;28(2):271-9</a></p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/12788872/\" target=\"_blank\">Steidle et al. J Clin Endocrinol Metab. 2003;88(6):2673-81</a></p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/11549629/\" target=\"_blank\">Ly et al. J Clin Endocrinol Metab. 2001;86(9):4078-88</a></p><p><span style=\"color: black;\">1.11.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that testosterone gel improved sexual function and mood, increased lean mass and muscle strength (principally in the legs), and decreased fat mass in hypogonadal men, with less skin irritation and discontinuation compared with the recommended dose of the permeation-enhanced testosterone patch (<a href=\"https://pubmed.ncbi.nlm.nih.gov/15126525/\" target=\"_blank\">Wang et al. J Clin Endocrinol Metab. 2004;89:2085-98</a>).</p><p><span style=\"color: black;\">1.12.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee was also made aware of the following studies:</p><p class=\"ql-indent-1\">1.12.1.<span style=\"font-size: 7pt;\"> </span><a href=\"https://www.mdpi.com/2077-0383/10/12/2622/htm\" target=\"_blank\">Ka\u0142u\u017cna et al. J Clin Med. 2021;10:2622</a>: A study reporting no differences between HRQoL scores in patients receiving hormone replacement therapy and untreated subjects.</p><p class=\"ql-indent-1\">1.12.2.<span style=\"font-size: 7pt;\"> </span><a href=\"https://bmjopen.bmj.com/content/7/11/e015284.long\" target=\"_blank\">Elliott et al. BMJ Open. 2017;7:e015284</a>: A systematic review and network meta-analysis which reported, when considered as a class, improvements with testosterone replacement therapy in HRQoL, depression, erectile function, and libido when compared with placebo improved; however, when comparing the individual products directly head to head, there were few differences between the treatments.</p><p class=\"ql-indent-1\">1.12.3.<span style=\"font-size: 7pt;\"> </span>\u00a0<a href=\"https://www.ahajournals.org/doi/10.1161/JAHA.120.020562?url_ver=Z39.88-2003&amp;rfr_id=ori:rid:crossref.org&amp;rfr_dat=cr_pub%20%200pubmed\" target=\"_blank\">Shores et al. J Am Heart Assoc. 2021;10:e020562</a>: A study reporting that transdermal gels were not associated with an increased risk of composite cardiovascular outcome with or without prevalent cardiovascular disease (mean follow up of 4.3 years).</p><p><span style=\"color: black;\">1.13.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that, overall, the evidence provided was of moderate to high strength and supported the health benefit of testosterone gel as an effective testosterone replacement therapy.</p><p><span style=\"color: black;\">1.14.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that testosterone gel provides a suitable alternative where the currently funded patches or injection cannot be tolerated. The Committee considered that adherence to treatment would be greater in those using the gel compared to the patches. The Committee noted that there may be secondary exposure risks via transfer of gel to partners and children, however considered that education, cautious administration, and covering the application area minimises this potential risk.</p><p><span style=\"color: black;\">1.15.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee considered the other potential disadvantages of testosterone gel, including dose titration issues due to the difficulty in measuring an accurate quantity of gel, and the risk of treatment abuse in those patients prescribed higher than the recommended dosage to achieve enhanced and more rapid therapeutic effects. The Committee considered that these patterns of usage may contribute to an increased incidence of overdose and abuse. The Committee noted that the use of a product with a defined dose may mitigate some of these issues.</p><p><span style=\"color: black;\">1.16.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that there are currently 798 patients receiving testosterone undecanoate capsules who would be affected by the discontinuation of this product. The Committee considered that, if testosterone gel was funded as a transdermal hormone therapy, most of these patients would transition to the gel following the discontinuation of capsules.</p><p><span style=\"color: black;\">1.17.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that if open listed, testosterone gel would be the primary treatment of choice for patients requiring oral or transdermal testosterone therapy (ie not requiring an injectable product). The Committee noted that some patients may trial patches first, however, given the known suitability issues associated with the patches, most patients would use testosterone gel first line. The Committee considered that it would be reasonable to assume an annual discontinuation rate of 15% for patients on testosterone gel.</p><p><span style=\"color: black;\">1.18.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that the overall market for testosterone therapy is growing year-on-year due to its increased use in the transgender patient population. However, it considered that no additional growth over and above the background rate of growth would be expected if testosterone gel was funded.</p><p><span style=\"color: black;\">1.19.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee noted Pharmac does not currently have a commercial proposal with which to assess testosterone gel compared with the currently funded treatment options. The Committee noted that, if testosterone gel was funded, and depending on pricing received, Pharmac may consider managing the financial impact with the following Special Authority criteria:</p><p class=\"ql-indent-1\"><strong style=\"font-family: sans-serif; font-size: 10px;\">Special Authority for Subsidy</strong><span style=\"font-family: sans-serif; font-size: 10px;\"> - Initial application</span></p><p class=\"ql-indent-1\"><span style=\"font-family: sans-serif; font-size: 10px;\">From any relevant practitioner. Approvals valid without further renewal unless notified for applications where the patient has experienced intolerable side effects or received insufficient benefit from testosterone patches.</span></p><p><span style=\"color: black;\">1.20.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that the below summarises its interpretation of the most appropriate PICO (population, intervention, comparator, outcomes) information for testosterone gel if it were to be funded in New Zealand for transdermal hormone therapy. This PICO captures key clinical aspects of the proposal and may be used to frame any future economic assessment by Pharmac staff. This PICO is based on the Committee\u2019s assessment at this time and may differ from that requested by the applicant. The PICO may change based on new information, additional clinical advice, or further analysis by Pharmac staff. <span style=\"color: black;\">\u00a0</span></p><p><span style=\"color: black;\">\ufeff</span><img src=\"/apptracker/servlet/rtaImage?eid=a0POZ0000059Sth&amp;feoid=00N2P000000YsIc&amp;refid=0EM2P000002Ixvo\" alt=\"image.png\"></img></p>",
+          "change": null
+        },
+        "Published_Application": {
+          "s": "<p><span style=\"color: black;\">1.1.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee reviewed the application for testosterone gel for transdermal hormone therapy.</p><p><span style=\"color: black;\">1.2.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee took into account, where applicable, Pharmac\u2019s relevant decision-making framework when considering this agenda item.\u00a0</p>",
+          "fs": "<p><span style=\"color: black;\">1.1.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee reviewed the application for testosterone gel for transdermal hormone therapy.</p><p><span style=\"color: black;\">1.2.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee took into account, where applicable, Pharmac\u2019s relevant decision-making framework when considering this agenda item.\u00a0</p>",
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": "High",
+          "fs": "High",
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Aug 2022",
+          "fs": "Aug 2022",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Clinical advice received from Pharmacology and Therapeutics Advisory Committee (PTAC) at meeting Thursday 19 May 2022.",
+          "fs": "Clinical advice received from Pharmacology and Therapeutics Advisory Committee (PTAC) at meeting Thursday 19 May 2022.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ0000059Sth2AE"
+          },
+          "Id": "a0POZ0000059Sth2AE",
+          "Event_Date__c": "2022-08-15",
+          "Event_Description__c": "Clinical advice received from Pharmacology and Therapeutics Advisory Committee (PTAC) at meeting Thursday 19 May 2022.",
+          "Stage__c": "Seeking Clinical Advice",
+          "Outcome__c": "High",
+          "Formatted_Date__c": "Aug 2022",
+          "Published_Recommendation__c": "<p><span style=\"color: black;\">1.1.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee <strong>recommended</strong> that testosterone gel for transdermal hormone therapy be listed with a <strong>high priority</strong> as a funded replacement for testosterone undecanoate capsules following that product\u2019s discontinuation.</p><p><span style=\"color: black;\">1.2.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>In making this recommendation, the Committee considered:</p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The unmet health need of those who need testosterone replacement therapy and for whom testosterone transdermal patches or intramuscular injection cannot be tolerated</p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The moderate- to high-strength evidence that indicates the health benefit of testosterone gel as an effective testosterone replacement therapy</p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The suitability benefit of testosterone gel over the currently funded alternatives.</p>",
+          "Published_Application__c": "<p><span style=\"color: black;\">1.1.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee reviewed the application for testosterone gel for transdermal hormone therapy.</p><p><span style=\"color: black;\">1.2.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee took into account, where applicable, Pharmac\u2019s relevant decision-making framework when considering this agenda item.\u00a0</p>",
+          "Published_Discussion__c": "<h2><strong><em>M\u0101ori impact</em></strong></h2><p><span style=\"color: black;\">1.1.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee discussed the impact of funding testosterone gel for transdermal hormone therapy on M\u0101ori health areas of focus and M\u0101ori health outcomes. Members noted the paucity of evidence available, with only one study identified (<a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5695316/\" target=\"_blank\">Connolly et al. BMJ Open. 2017;7</a>), which suggested no difference in testosterone levels between M\u0101ori and non-M\u0101ori in old age but was confined to very old age groups and considered affected by selection bias. No further evidence was identified. The Committee therefore considered that the impact on M\u0101ori health outcomes to be unknown.</p><h2><strong><em>Background</em></strong></h2><p><span style=\"color: black;\">1.2.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that Pharmac has been informed of an upcoming discontinuation of testosterone undecanoate capsules, and that funding of this presentation is currently restricted to those who received treatment prior to 1 November 2021. The Committee noted that email correspondence with members of the Endocrinology Advisory Committee indicates that this discontinuation will result in an unmet health need; in particular, for those with a true needle phobia for injectable products or allergy to patches. The Committee noted that Pharmac has been unable to secure an ongoing supply of testosterone capsules, and that this application considers funding a gel in order to meet the health need of people requiring ongoing testosterone treatment for whom other funded options are unsuitable.</p><h2><strong><em>Discussion</em></strong></h2><p><span style=\"color: black;\">1.3.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that the clinical features of male hypogonadism are dependent upon the age of onset and severity of testosterone deficiency. The Committee noted that this funding application focused on adult onset (post pubertal), as Pharmac staff understood this would comprise the majority of use. The Committee noted that there would likely be some pubertal use as well for the management of adolescents experiencing delayed puberty. The Committee also considered that other patient groups requiring testosterone replacement therapy may include postmenopausal women with hypoactive sexual desire disorder and transgender individuals.</p><p><span style=\"color: black;\">1.4.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee<strong> </strong>noted that the <a href=\"https://uroweb.org/guidelines/sexual-and-reproductive-health\" target=\"_blank\">2022 updated guidelines</a> on male hypogonadism from the European Association of Urology state that androgen deficiency increases with age, with the major causes being: central obesity, overall poor health, and other comorbidities (eg diabetes, cardiovascular disease, chronic obstructive pulmonary disease, renal disease, cancer). The Committee noted that up to the age of 80 years, aging accounts for a low proportion of hypogonadism. The Committee noted that the incidence of symptomatic hypogonadism in men aged 40-79 years varies between 2.1-5.7%, and the overall incidence of hypogonadism has been reported to be 12.3 and 11.7 cases per 1,000 people per year. The Committee also noted that male hypogonadism is likely to be underdiagnosed and undertreated.</p><p><span style=\"color: black;\">1.5.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered there is a high health need for patients with testosterone deficiency. The Committee noted that, regarding adult testosterone deficiency, the applicant had listed symptoms including fatigue, loss of libido, loss of body hair, muscle wasting, and weight loss, extending in some cases to osteoporosis and anaemia. The Committee were made aware of a study that reported that those with hypogonadotropic hypogonadism have reduced health-related quality of life (HRQoL) (<a href=\"https://www.mdpi.com/2077-0383/10/12/2622/htm\" target=\"_blank\">Ka\u0142u\u017cna et al. J Clin Med. 2021;10:2622</a>). The Committee considered that the health need may also extend to that of the family, wh\u0101nau, and partners of those with testosterone deficiency.</p><p><span style=\"color: black;\">1.6.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that there are a range of fully funded testosterone products currently listed on the Pharmaceutical Schedule, including patches and injections. The Committee noted that 79% of patients using testosterone products are using injections (cipionate, esters, undecanoate), 12% using undecanoate capsules, and 10% using patches. The Committee noted that the median age of patch users is 40 years and of capsule users is 64 years, and that there is a bimodal age distribution for testosterone injections with peaks at ages 20-29 and then 60-79 years.</p><p><span style=\"color: black;\">1.7.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that there are several suitability issues with currently available products. The Committee noted that evidence from the Scottish Medicines Consortium, supplied by the applicant, cites up to 59% of recipients of testosterone patches experienced skin rash or irritation. The Committee also considered the patches to have administration issues regarding poor adhesion of the patch to the skin. The Committee also considered that there are suitability issues with injectable preparations in the small proportion of patients with needle phobia.</p><p><span style=\"color: black;\">1.8.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that testosterone gel is a hydroalcoholic gel absorbed through the skin, and that the circulating testosterone mainly binds to sex hormone-binding globulin and albumin. The Committee noted that there are no Medsafe-approved testosterone gel products in New Zealand, however, Pharmac staff are seeking advice on this proposal ahead of a commercial process for a non-injectable testosterone product. The Committee noted that the recommended dosing of Testogel (testosterone gel 1%) is equivalent to 50 mg testosterone once daily, which can be adjusted in 25 mg increments up to a maximum of 100 mg testosterone daily. The Committee noted that Testogel should be administered by the patient onto clean, dry, healthy skin over both shoulders, or both arms, or abdomen (<a href=\"https://www.medicines.org.uk/emc/product/6808/smpc#gref\" target=\"_blank\">Electronic Medicines Compendium: Testogel SPC. 2021</a>).</p><p><span style=\"color: black;\">1.9.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted the following evidence regarding the efficacy of testosterone gel provided by the applicant:</p><p class=\"ql-indent-1\">1.9.1.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>Scottish Medicines Consortium: A cost effectiveness report for NHS Scotland concluding that testosterone gel offers a cost-effective transdermal treatment for adult male hypogonadism compared with testosterone patches.</p><p class=\"ql-indent-1\">1.9.2.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span><a href=\"https://www.npjournal.org/article/S1555-4155(16)30716-4/pdf\" target=\"_blank\">Luthy et al. J. Nurse Pract. 2016;13(4):241-9</a>: A review of self-administered testosterone therapy medicines in the US (efficacy, patient adherence, monthly cost, and potential side effects), which recommended testosterone gel as a third-line option, following testosterone cipionate injections (Depo-Testosterone) and testosterone patches (Androderm).</p><p class=\"ql-indent-1\">1.9.3.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span><a href=\"https://scholarsarchive.byu.edu/studentpub/183/\" target=\"_blank\">Williams et al. BYU ScholarsArchive. 2016;183</a>: A review of the available testosterone products in the US, supporting the efficacy of testosterone gel products compared with other testosterone formulations.</p><p><span style=\"color: black;\">1.10.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee noted the additional evidence sourced by Pharmac staff in a literature search.</p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/20592293/\" target=\"_blank\">Basaria et al. N Engl J Med. 2010;363(2):109-22</a></p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/15049991/\" target=\"_blank\">Meikle et al. BJU Int. 2004;93(6):789-95</a></p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/22321357/\" target=\"_blank\">Kaufman et al. J Sex Med. 20129(4):1149-61</a></p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/10946892/\" target=\"_blank\">Wang et al. J Clin Endocrinol Metab. 2000;85(8):2839-53</a></p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/17538639/\" target=\"_blank\">Chaing et al. Int J Impot Res. 2007;19(4):411-7</a></p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/16061839/\" target=\"_blank\">Kuhnert et al. Eur J Endocrinol. 2005;153(2):317-26</a></p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/27792869/\" target=\"_blank\">Dias et al. Andrology. 2017;5(1):31-40</a></p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/32250330/\" target=\"_blank\">Ripley et al. NeuroRehabilitation. 2020;46(3):355-68</a></p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/21386088/\" target=\"_blank\">Jones et al. Diabetes Care. 2011;34(4):828-37</a></p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/15126525/\" target=\"_blank\">Wang et al. J Clin Endocrinol Metab. 2004;89(5):2085-98</a></p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/25599449/\" target=\"_blank\">Basaria et al. Pain. 2015;156(2):280-88</a></p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/15140340/\" target=\"_blank\">Dobs et al. Curr Med Res Opin. 2004;20(5):729-38</a></p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/22185431/\" target=\"_blank\">Stahlman et al. Curr Med Res Opin. 2012;28(2):271-9</a></p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/12788872/\" target=\"_blank\">Steidle et al. J Clin Endocrinol Metab. 2003;88(6):2673-81</a></p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/11549629/\" target=\"_blank\">Ly et al. J Clin Endocrinol Metab. 2001;86(9):4078-88</a></p><p><span style=\"color: black;\">1.11.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that testosterone gel improved sexual function and mood, increased lean mass and muscle strength (principally in the legs), and decreased fat mass in hypogonadal men, with less skin irritation and discontinuation compared with the recommended dose of the permeation-enhanced testosterone patch (<a href=\"https://pubmed.ncbi.nlm.nih.gov/15126525/\" target=\"_blank\">Wang et al. J Clin Endocrinol Metab. 2004;89:2085-98</a>).</p><p><span style=\"color: black;\">1.12.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee was also made aware of the following studies:</p><p class=\"ql-indent-1\">1.12.1.<span style=\"font-size: 7pt;\"> </span><a href=\"https://www.mdpi.com/2077-0383/10/12/2622/htm\" target=\"_blank\">Ka\u0142u\u017cna et al. J Clin Med. 2021;10:2622</a>: A study reporting no differences between HRQoL scores in patients receiving hormone replacement therapy and untreated subjects.</p><p class=\"ql-indent-1\">1.12.2.<span style=\"font-size: 7pt;\"> </span><a href=\"https://bmjopen.bmj.com/content/7/11/e015284.long\" target=\"_blank\">Elliott et al. BMJ Open. 2017;7:e015284</a>: A systematic review and network meta-analysis which reported, when considered as a class, improvements with testosterone replacement therapy in HRQoL, depression, erectile function, and libido when compared with placebo improved; however, when comparing the individual products directly head to head, there were few differences between the treatments.</p><p class=\"ql-indent-1\">1.12.3.<span style=\"font-size: 7pt;\"> </span>\u00a0<a href=\"https://www.ahajournals.org/doi/10.1161/JAHA.120.020562?url_ver=Z39.88-2003&amp;rfr_id=ori:rid:crossref.org&amp;rfr_dat=cr_pub%20%200pubmed\" target=\"_blank\">Shores et al. J Am Heart Assoc. 2021;10:e020562</a>: A study reporting that transdermal gels were not associated with an increased risk of composite cardiovascular outcome with or without prevalent cardiovascular disease (mean follow up of 4.3 years).</p><p><span style=\"color: black;\">1.13.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that, overall, the evidence provided was of moderate to high strength and supported the health benefit of testosterone gel as an effective testosterone replacement therapy.</p><p><span style=\"color: black;\">1.14.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that testosterone gel provides a suitable alternative where the currently funded patches or injection cannot be tolerated. The Committee considered that adherence to treatment would be greater in those using the gel compared to the patches. The Committee noted that there may be secondary exposure risks via transfer of gel to partners and children, however considered that education, cautious administration, and covering the application area minimises this potential risk.</p><p><span style=\"color: black;\">1.15.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee considered the other potential disadvantages of testosterone gel, including dose titration issues due to the difficulty in measuring an accurate quantity of gel, and the risk of treatment abuse in those patients prescribed higher than the recommended dosage to achieve enhanced and more rapid therapeutic effects. The Committee considered that these patterns of usage may contribute to an increased incidence of overdose and abuse. The Committee noted that the use of a product with a defined dose may mitigate some of these issues.</p><p><span style=\"color: black;\">1.16.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that there are currently 798 patients receiving testosterone undecanoate capsules who would be affected by the discontinuation of this product. The Committee considered that, if testosterone gel was funded as a transdermal hormone therapy, most of these patients would transition to the gel following the discontinuation of capsules.</p><p><span style=\"color: black;\">1.17.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that if open listed, testosterone gel would be the primary treatment of choice for patients requiring oral or transdermal testosterone therapy (ie not requiring an injectable product). The Committee noted that some patients may trial patches first, however, given the known suitability issues associated with the patches, most patients would use testosterone gel first line. The Committee considered that it would be reasonable to assume an annual discontinuation rate of 15% for patients on testosterone gel.</p><p><span style=\"color: black;\">1.18.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that the overall market for testosterone therapy is growing year-on-year due to its increased use in the transgender patient population. However, it considered that no additional growth over and above the background rate of growth would be expected if testosterone gel was funded.</p><p><span style=\"color: black;\">1.19.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee noted Pharmac does not currently have a commercial proposal with which to assess testosterone gel compared with the currently funded treatment options. The Committee noted that, if testosterone gel was funded, and depending on pricing received, Pharmac may consider managing the financial impact with the following Special Authority criteria:</p><p class=\"ql-indent-1\"><strong style=\"font-family: sans-serif; font-size: 10px;\">Special Authority for Subsidy</strong><span style=\"font-family: sans-serif; font-size: 10px;\"> - Initial application</span></p><p class=\"ql-indent-1\"><span style=\"font-family: sans-serif; font-size: 10px;\">From any relevant practitioner. Approvals valid without further renewal unless notified for applications where the patient has experienced intolerable side effects or received insufficient benefit from testosterone patches.</span></p><p><span style=\"color: black;\">1.20.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that the below summarises its interpretation of the most appropriate PICO (population, intervention, comparator, outcomes) information for testosterone gel if it were to be funded in New Zealand for transdermal hormone therapy. This PICO captures key clinical aspects of the proposal and may be used to frame any future economic assessment by Pharmac staff. This PICO is based on the Committee\u2019s assessment at this time and may differ from that requested by the applicant. The PICO may change based on new information, additional clinical advice, or further analysis by Pharmac staff. <span style=\"color: black;\">\u00a0</span></p><p><span style=\"color: black;\">\ufeff</span><img src=\"/apptracker/servlet/rtaImage?eid=a0POZ0000059Sth&amp;feoid=00N2P000000YsIc&amp;refid=0EM2P000002Ixvo\" alt=\"image.png\"></img></p>",
+          "Status_History__c": "a132P000000DzD9QAK"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Jan 2021",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Following Clinical Advice, Pharmac staff considers the advice and the funding application under goes an assessment using our&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/factors-for-consideration/\" rel=\"nofollow\">Factors for Consideration</a>&nbsp;framework and seeks additional information as required.</p>\r\n<p>&nbsp;</p>\r\n<p>Research and Economic analysis are undertaken.&nbsp; This focuses on the costs and benefits of a proposed course of action. Economics is based on three fundamental concepts that summarise the issues Pharmac faces daily:&nbsp;</p>\r\n<ul>\r\n<li>Scarcity &ndash; resources will always be insufficient to support all possible activities.</li>\r\n<li>Choices &ndash; due to scarce resources, decisions must be made about how best to use them.</li>\r\n<li>Opportunity cost &ndash; by choosing to use resources one way, we forgo other opportunities to use the same resources.</li>\r\n</ul>\r\n<p>&nbsp;</p>\r\n<p>For further information on the purpose of, and techniques for, undertaking economic analysis in health care, please refer&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/economic-analysis/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/economic-analysis/</a></p>",
+    "position": 2,
+    "name": "Under Assessment",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Nov 2022",
+          "fs": "Nov 2022",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Working to compare options",
+          "fs": "Working to compare options",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ0000059Sti2AE"
+          },
+          "Id": "a0POZ0000059Sti2AE",
+          "Event_Date__c": "2022-11-30",
+          "Event_Description__c": "Working to compare options",
+          "Stage__c": "Under Assessment",
+          "Formatted_Date__c": "Nov 2022",
+          "Status_History__c": "a132P000000EDqzQAG"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Nov 2022",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Pharmac staff uses a prioritisation process to compare and rank funding options. Possible opportunities for new investment will always exceed the budget Pharmac has available; therefore, prioritisation is an intrinsic part of Pharmac\u2019s decision-making process.</p>\r\n<p>The relative ranking of options aims to support Pharmac&rsquo;s statutory objective &ldquo;to secure for eligible people in need of pharmaceuticals, the best health outcomes that are reasonably achievable from pharmaceutical treatment and from within the amount of funding provided&rdquo;.</p>\r\n<p>A funding application or proposal is considered ready for prioritisation when sufficient information is available to permit it to be reviewed against Pharmac's Factors for Consideration and to inform a comparison with other possible investment decisions.</p>\r\n<p>There is no guarantee when or if a ranked medicine will be funded.&nbsp;&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/prioritisation/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/prioritisation/</a></p>",
+    "position": 3,
+    "name": "Options Compared",
+    "last": false,
+    "events": null,
+    "dateString": null,
+    "collapsed": false,
+    "checked": false
+  },
+  {
+    "text": "<p>Pharmac is consulting on a proposal to either approve or decline the application.&nbsp;We seek the views of all people who have an interest in our proposals, or who may be affected by them, to obtain feedback on our proposed approaches.</p>\r\n<p><a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/having-your-say/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/having-your-say/</a></p>",
+    "position": 4,
+    "name": "Under Consultation",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": "<p><a href=\"https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/consultation-2023-11-08-testosterone\" target=\"_blank\">Consultation letter</a> </p>",
+          "fs": "<p><a href=\"https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/consultation-2023-11-08-testosterone\" target=\"_blank\">Consultation letter</a> </p>",
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Nov 2023",
+          "fs": "Nov 2023",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Public consultation for this application is active.",
+          "fs": "Public consultation for this application is active.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ0000059Stj2AE"
+          },
+          "Id": "a0POZ0000059Stj2AE",
+          "Event_Date__c": "2023-11-08",
+          "Event_Description__c": "Public consultation for this application is active.",
+          "Stage__c": "Under Consultation",
+          "Links__c": "<p><a href=\"https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/consultation-2023-11-08-testosterone\" target=\"_blank\">Consultation letter</a> </p>",
+          "Formatted_Date__c": "Nov 2023",
+          "Status_History__c": "a13OZ000005pVZzYAM"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Nov 2023",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Following the consultation process, Pharmac staff considers the feedback and identifies any additional information required as part of a gap analysis.&nbsp; The proposal may require further clinical advice, research, and assessment.</p>",
+    "position": 5,
+    "name": "Reviewing Consultation Feedback",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Nov 2023",
+          "fs": "Nov 2023",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Public consultation for this application is now closed. Pharmac is reviewing consultation feedback.",
+          "fs": "Public consultation for this application is now closed. Pharmac is reviewing consultation feedback.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ0000059Stk2AE"
+          },
+          "Id": "a0POZ0000059Stk2AE",
+          "Event_Date__c": "2023-11-22",
+          "Event_Description__c": "Public consultation for this application is now closed. Pharmac is reviewing consultation feedback.",
+          "Stage__c": "Reviewing Consultation Feedback",
+          "Formatted_Date__c": "Nov 2023",
+          "Status_History__c": "a13OZ000005pUcJYAU"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Nov 2023",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>We refer to our decisions about whether and how particular pharmaceuticals are publicly-funded, as &ldquo;funding decisions&rdquo;.</p>\r\n<p>We consider and assess all funding decisions using the&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/about/operating-policies-and-procedures/#factorsfc\" rel=\"nofollow\">Factors for Consideration</a>. When we do so, we carefully evaluate clinical and other evidence for the benefits and suitability of a proposal, and to identify and understand the people who will be affected by it.</p>\r\n<p>While our main task is to allocate pharmaceutical funding, we consider the benefits and costs across the whole health system now and with a long-term focus, including the effects for hospitals and primary care, and consider direct costs to patients as well as to all health sector budgets.</p>\r\n<p>Final funding decisions are made by the Pharmac Board or delegated to senior Pharmac staff as required by the Board.</p>\r\n<p>&nbsp;</p>",
+    "position": 6,
+    "name": "Decision",
+    "last": true,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": "<p><a href=\"https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/decision-2024-02-08-testosterone\" target=\"_blank\">Notification letter</a></p>",
+          "fs": "<p><a href=\"https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/decision-2024-02-08-testosterone\" target=\"_blank\">Notification letter</a></p>",
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Feb 2024",
+          "fs": "Feb 2024",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "The funding application has been approved.",
+          "fs": "The funding application has been approved.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ0000059Stl2AE"
+          },
+          "Id": "a0POZ0000059Stl2AE",
+          "Event_Date__c": "2024-02-10",
+          "Event_Description__c": "The funding application has been approved.",
+          "Stage__c": "Decision",
+          "Links__c": "<p><a href=\"https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/decision-2024-02-08-testosterone\" target=\"_blank\">Notification letter</a></p>",
+          "Formatted_Date__c": "Feb 2024",
+          "Status_History__c": "a13OZ000006aCAXYA2"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Feb 2024",
+    "collapsed": false,
+    "checked": true
+  }
+]

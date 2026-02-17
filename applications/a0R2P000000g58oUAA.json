@@ -1,0 +1,747 @@
+[
+  {
+    "text": "<p>New funding applications are referred to one of Pharmac's Funding Application Advisors (FAAs), who'll review the application to ensure they have the relevant information to undertake a preliminary analysis.&nbsp; They may seek more information if required.</p>\r\n<p><a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/new-funding-applications/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/new-funding-applications/</a></p>",
+    "position": 0,
+    "name": "Application Received",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Feb 2020",
+          "fs": "Feb 2020",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Application received",
+          "fs": "Application received",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P000007GKayUAG"
+          },
+          "Id": "a0P2P000007GKayUAG",
+          "Event_Date__c": "2020-02-24",
+          "Event_Description__c": "Application received",
+          "Stage__c": "Application Received",
+          "Formatted_Date__c": "Feb 2020",
+          "Status_History__c": "a132P000000BVPnQAO"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Feb 2020",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Pharmac is identifying and gathering information required to get clinical advice.  The <a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/pharmacology-and-therapeutics-advisory-committee-ptac/\" rel=\"nofollow\">Pharmacology and Therapeutics Advisory Committee (PTAC)</a>  meets quarterly. There are also around 20 expert <a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/specialist-advisory-committees/\" rel=\"nofollow\">Specialist Advisory Committees (SACs)</a>, previously expert Subcommittees, which provide clinical evaluations in specialist areas. Specialist Advisory Committees meet as required to discuss issues referred to them by PTAC or Pharmac.</p>\n<p style=\"height: 20px\">&nbsp;</p>\n<p>In November 2021, we introduced separate terms of reference for the SACs to make clear that these committees have different, but complementary, roles, expertise and perspectives to PTAC.</p>\n<p style=\"height: 15px\">&nbsp;</p>\n<p>PTAC and SACs may make recommendations to Pharmac that differ from each other when looking at the same evidence. Pharmac considers the recommendations provided by all our clinical advisory committees when assessing applications.</p>\n<p style=\"height: 20px\">&nbsp;</p>\n<p><a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/pharmacology-and-therapeutics-advisory-committee-ptac/ptac-terms-of-reference-july-2021/\" rel=\"nofollow\">PTAC</a>  and <a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/specialist-advisory-committees/specialist-advisory-committee-terms-of-reference//\" rel=\"nofollow\">Specialist Advisory Committees</a> records of the meeting will be published on this website in accordance with the Terms of Reference.</p>",
+    "position": 1,
+    "name": "Seeking Clinical Advice",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Feb 2020",
+          "fs": "Feb 2020",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Clinical advice required",
+          "fs": "Clinical advice required",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P000007GKazUAG"
+          },
+          "Id": "a0P2P000007GKazUAG",
+          "Event_Date__c": "2020-02-26",
+          "Event_Description__c": "Clinical advice required",
+          "Stage__c": "Seeking Clinical Advice",
+          "Formatted_Date__c": "Feb 2020",
+          "Status_History__c": "a132P000000BVQWQA4"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Apr 2020",
+          "fs": "Apr 2020",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Assigned to Pharmacology and Therapeutics Advisory Committee (PTAC) meeting to provide advice on Thursday 21 May 2020",
+          "fs": "Assigned to Pharmacology and Therapeutics Advisory Committee (PTAC) meeting to provide advice on Thursday 21 May 2020",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P000007GKb0UAG"
+          },
+          "Id": "a0P2P000007GKb0UAG",
+          "Event_Date__c": "2020-04-17",
+          "Event_Description__c": "Assigned to Pharmacology and Therapeutics Advisory Committee (PTAC) meeting to provide advice on Thursday 21 May 2020",
+          "Stage__c": "Seeking Clinical Advice",
+          "Formatted_Date__c": "Apr 2020",
+          "Status_History__c": "a132P000000BgU4QAK"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": "<p><span style=\"color: black;\">1.1.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee <b>recommended</b> that ustekinumab be funded for patients with moderately to severely active ulcerative colitis (UC) in adult patients who have experienced either: inadequate response to, intolerable side effects from, contraindications to, or loss of response from, infliximab with a medium priority subject to the following Special Authority criteria:</p><p>\t<b style=\"font-size: 9pt;\">USTEKINUMAB</b></p><p>\t<b style=\"font-size: 9pt;\">Initiation \u2013 moderately to severely active ulcerative colitis</b></p><p>\t<span style=\"font-size: 9pt;\">Applications only from a gastroenterologist or Practitioner on the recommendation of a gastroenterologist. Approvals valid for 4 months.</span></p><p>\t<span style=\"font-size: 9pt;\">All of the following:</span></p><p><span style=\"font-size: 9pt;\">1.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Patient has histologically confirmed ulcerative colitis; and</span></p><p><span style=\"font-size: 9pt;\">2.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Patients is 18 years or older with a total score of 6 to 12 on the Mayo scale and an endoscopic subscore of 2 or 3; and </span></p><p><span style=\"font-size: 9pt;\">3.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Patient has tried infliximab at an appropriate dose but received an inadequate response to (including lack of initial response and/or loss of initial response) or experienced intolerable side effects from prior treatment with infliximab; and</span></p><p><span style=\"font-size: 9pt;\">4.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Surgery (or further surgery) is considered clinically inappropriate; and</span></p><p><span style=\"font-size: 9pt;\">5.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Ustekinumab will be used at a dose of 130 mg for induction and used at a dose no greater than 90 mg subcutaneously every 8 weeks for maintenance.</span></p><p><br></p><p>\t<b style=\"font-size: 9pt;\">Renewal \u2013 moderately to severely active ulcerative colitis</b></p><p>\t<span style=\"font-size: 9pt;\">Applications only from a gastroenterologist or Practitioner on the recommendation of a gastroenterologist. Approvals valid for 6 months.</span></p><p>\t<span style=\"font-size: 9pt;\">All of the following:</span></p><p><span style=\"font-size: 9pt;\">1.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Patient is continuing to maintain a response (see Note) and the benefit of continuing treatment with ustekinumab outweighs the risks; and </span></p><p><span style=\"font-size: 9pt;\">2.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Patients is 18 years or older; and</span></p><p><span style=\"font-size: 9pt;\">3.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Ustekinumab will be used at a dose no greater than 90 mg subcutaneously every 8 weeks.</span></p><p><span style=\"font-size: 9pt;\">Note: Response is defined as a decrease from baseline in the Mayo score by \u226530% and \u22653 points, with either a decrease from baseline in the rectal bleeding sub score of \u22651 or a rectal bleeding subscore of 0 or 1.</span></p><p><span style=\"color: black;\">1.2.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>In making this recommendation, the Committee considered the high health need of this patient group, the suitability of ustekinumab, which for maintenance can be administered subcutaneously, and the evidence of particular efficacy in patients who have previously experienced biologic failure. However, the Committee noted that in the report of the UNIFI trial the estimates of the differences of quality of life may not have been clinically meaningful, and that there were limitations of the evidence comparing the benefits of different treatments for UC.\u00a0</p>",
+          "fs": "<p><span style=\"color: black;\">1.1.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee <b>recommended</b> that ustekinumab be funded for patients with moderately to severely active ulcerative colitis (UC) in adult patients who have experienced either: inadequate response to, intolerable side effects from, contraindications to, or loss of response from, infliximab with a medium priority subject to the following Special Authority criteria:</p><p>\t<b style=\"font-size: 9pt;\">USTEKINUMAB</b></p><p>\t<b style=\"font-size: 9pt;\">Initiation \u2013 moderately to severely active ulcerative colitis</b></p><p>\t<span style=\"font-size: 9pt;\">Applications only from a gastroenterologist or Practitioner on the recommendation of a gastroenterologist. Approvals valid for 4 months.</span></p><p>\t<span style=\"font-size: 9pt;\">All of the following:</span></p><p><span style=\"font-size: 9pt;\">1.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Patient has histologically confirmed ulcerative colitis; and</span></p><p><span style=\"font-size: 9pt;\">2.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Patients is 18 years or older with a total score of 6 to 12 on the Mayo scale and an endoscopic subscore of 2 or 3; and </span></p><p><span style=\"font-size: 9pt;\">3.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Patient has tried infliximab at an appropriate dose but received an inadequate response to (including lack of initial response and/or loss of initial response) or experienced intolerable side effects from prior treatment with infliximab; and</span></p><p><span style=\"font-size: 9pt;\">4.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Surgery (or further surgery) is considered clinically inappropriate; and</span></p><p><span style=\"font-size: 9pt;\">5.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Ustekinumab will be used at a dose of 130 mg for induction and used at a dose no greater than 90 mg subcutaneously every 8 weeks for maintenance.</span></p><p><br></p><p>\t<b style=\"font-size: 9pt;\">Renewal \u2013 moderately to severely active ulcerative colitis</b></p><p>\t<span style=\"font-size: 9pt;\">Applications only from a gastroenterologist or Practitioner on the recommendation of a gastroenterologist. Approvals valid for 6 months.</span></p><p>\t<span style=\"font-size: 9pt;\">All of the following:</span></p><p><span style=\"font-size: 9pt;\">1.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Patient is continuing to maintain a response (see Note) and the benefit of continuing treatment with ustekinumab outweighs the risks; and </span></p><p><span style=\"font-size: 9pt;\">2.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Patients is 18 years or older; and</span></p><p><span style=\"font-size: 9pt;\">3.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Ustekinumab will be used at a dose no greater than 90 mg subcutaneously every 8 weeks.</span></p><p><span style=\"font-size: 9pt;\">Note: Response is defined as a decrease from baseline in the Mayo score by \u226530% and \u22653 points, with either a decrease from baseline in the rectal bleeding sub score of \u22651 or a rectal bleeding subscore of 0 or 1.</span></p><p><span style=\"color: black;\">1.2.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>In making this recommendation, the Committee considered the high health need of this patient group, the suitability of ustekinumab, which for maintenance can be administered subcutaneously, and the evidence of particular efficacy in patients who have previously experienced biologic failure. However, the Committee noted that in the report of the UNIFI trial the estimates of the differences of quality of life may not have been clinically meaningful, and that there were limitations of the evidence comparing the benefits of different treatments for UC.\u00a0</p>",
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": "<p><span style=\"color: black;\">1.1.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that ulcerative colitis (UC) is a chronic inflammatory bowel disease affecting the large intestine that usually follows a remitting-relapsing course, has varying disease activity and severity, and has a tendency to become refractory to, or not respond to, treatment. The Committee noted that clinicians in New Zealand generally use the Simple Clinical Colitis Activity Index (SCCAI) to assess UC disease activity, while the Mayo index (which requires endoscopic examination) is often used to measure UC outcomes in clinical trials. Members considered that an SCCAI score of four or greater, or a Mayo score of six or higher, indicates moderate disease activity.</p><p><span style=\"color: black;\">1.2.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that the incidence and prevalence of UC in New Zealand has been estimated to be 7.5 and 145 cases per 100,000 population, respectively, which corresponds to up to 7,250 New Zealanders living with UC (<a href=\"https://pubmed.ncbi.nlm.nih.gov/17012964/\" target=\"_blank\">Gearry et al. Inflamm bowel dis. 2006;12:936-43</a>); members considered these rates could slowly be increasing and that more patients are living with chronic UC.</p><p><span style=\"color: black;\">1.3.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that current standard of care treatment for patients with UC follows a stepwise approach, initially using pharmaceutical treatments including aminosalicylates (mesalazine and sulphasalazine), corticosteroids (prednisone), and immunomodulators (azathioprine and mercaptopurine). Treatment is escalated to include anti-TNF therapies e.g. infliximab, for moderately to severely active UC that has not responded to earlier treatments, and then surgical resection if these treatments provide insufficient disease control. The Committee noted that response to a biologic therapy may delay colectomy, noting that UC often has a severe phase for the initial few years post-diagnosis with potential to abate, allowing a step down from biologic therapy if the patient has been adequately managed on biologics during the severe phase. However, the Committee considered that not all patients would proceed through all lines of funded therapy, as some may opt out of medical management at each step and proceed directly to surgery.</p><p><span style=\"color: black;\">1.4.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that infliximab is funded for first-line treatment of UC and the current Special Authority criteria allows for higher dosing as rescue therapy (to control disease flares) after 16 weeks. The Committee noted that the supplier estimated 700 people per year receive infliximab for UC, and the last Gastrointestinal Subcommittee advice (from <a href=\"https://www.pharmac.govt.nz/assets/ptac-gastrointestinal-subcommittee-minutes-2014-05-21.pdf\" target=\"_blank\">May 2014</a>) was that about 500 patients have moderate or severe UC that would be intolerant or refractory to other treatments and could be eligible for a second line biologic, if funded. The Committee considered that few of these patients would not be receiving treatment i.e. patients would either continue on infliximab or would proceed to surgery. Members considered that many patients would be on long-term maintenance infliximab treatment e.g. out to 3 years. </p><p><span style=\"color: black;\">1.5.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that approximately 30% of New Zealand patients who receive infliximab for UC achieve and maintain a response. The Committee estimated that between 5 and 10% of patients who experience a suboptimal response to infliximab may continue to meet funding criteria for renewal, and choose to continue infliximab as they are receiving sufficient benefit to warrant ongoing treatment. </p><p><span style=\"color: black;\">1.6.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that patients with moderately to severely active UC who have experienced either: inadequate response to, intolerable side effects from, contraindications to, or loss of response from, infliximab would have a high health need. Members considered that at least 50%, and potentially up to 80%, of patients who do not receive a response from infliximab will subsequently require surgery if no other medical options are available. </p><p><span style=\"color: black;\">1.7.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that some patients who proceed to colectomy may require up to 3 operations to achieve the final result. The surgical option will usually provide health benefits, but also carries risks of short- and long-term complications. The Committee considered it had seen no evidence about the incidence of colectomy for UC in New Zealand, however, members considered that colectomy rates are decreasing in some countries, partly driven by optimal use of thiopurines and the use of anti-TNF agents. </p><p><span style=\"color: black;\">1.8.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that ustekinumab is a monoclonal antibody directed against interleukin 12 and interleukin 23, naturally occurring proteins that regulate the immune system and immune-mediated inflammatory disorders. The Committee noted that ustekinumab is Medsafe-approved for the treatment of adult patients with moderately to severely active UC and for the treatment of patients with severe plaque psoriasis, patients with active psoriatic arthritis, and patients with moderately to severely active Crohn\u2019s disease (CD). </p><p><span style=\"color: black;\">1.9.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that ustekinumab has previously been considered by PHARMAC for the treatment of CD and for psoriasis, and that these proposals have been ranked. The Committee noted the differences in disease course and response to treatment for UC and CD, and noted that evidence for the use of ustekinumab in CD (reviewed by PTAC in <a href=\"https://www.pharmac.govt.nz/assets/ptac-minutes-2018-05.pdf\" target=\"_blank\">May 2018</a>, the Gastrointestinal Subcommittee in <a href=\"https://www.pharmac.govt.nz/assets/ptac-gastrointestinal-subcommittee-minutes-2018-10.pdf\" target=\"_blank\">Oct 2018</a> and PTAC in <a href=\"https://www.pharmac.govt.nz/assets/ptac-minutes-2019-02.pdf\" target=\"_blank\">Feb 2019</a>) was based on the UNITI-1, UNITI-2 and IM-UNITI clinical trials conducted in biologic-na\u00efve and biologic-experienced patients with CD; these studies also provide data for ustekinumab maintenance in CD.</p><p><span style=\"color: black;\">1.10.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that in clinical trials in UC the group randomised to placebo sometimes have a substantial reported response rate. Members noted that, based on the previously reviewed reports of the use of ustekinumab in CD, there was a 36% response rate in participants who received induction treatment with ustekinumab and then placebo maintenance, compared with 53% in participants who continued on ustekinumab 8-weekly after induction treatment. Members considered that the proportion of patients with CD in long-term follow-up who were in remission was consistent with ongoing reduction in disease activity after ustekinumab induction.</p><p><span style=\"color: black;\">1.11.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted the evidence from the phase 3, randomised (1:1:1), double-blind, placebo-controlled UNIFI trial of ustekinumab induction (intravenous ustekinumab 130 mg or 6 mg per kg dosing, or placebo) followed by maintenance in patients whose disease responded to induction therapy (subcutaneous ustekinumab 90 mg 8-weekly [q8w] or 90 mg 12-weekly [q12w], or placebo) in 961 patients with moderate to severe UC for whom other biologic or non-biologic therapies have failed (<a href=\"https://pubmed.ncbi.nlm.nih.gov/31553833/?dopt=Abstract\" target=\"_blank\">Sands et al. N Engl J Med. 2019;381:1201-14</a>; also <a href=\"https://www.nejm.org/doi/suppl/10.1056/NEJMoa1900750/suppl_file/nejmoa1900750_appendix.pdf\" target=\"_blank\">Supplementary Appendix</a>). </p><p><span style=\"color: black;\">1.12.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that the UNIFI trial criteria required patients to have a baseline total score of six to 12 on the Mayo scale and subscore of two or three for the endoscopic component, with endoscopy required to confirm suspected loss of response to treatment. The Committee noted that more than half of patients (N = 491) with moderate to severe UC had experienced failure of at least one biologic treatment, and many patients received ustekinumab third-line (N = 160) due to previous use of vedolizumab as well as infliximab or other anti-TNF agent. The Committee noted that delayed response to induction was common and patients who experienced this had the option to enter maintenance at 16 weeks.</p><p><span style=\"color: black;\">1.13.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that the primary endpoint of the UNIFI trial was clinical remission after induction at week 8 (defined as a total Mayo score of two or less, and no subscore greater than one) which was reported to have been achieved in 15.6% (50/320) of patients who received ustekinumab 130 mg compared with 15.5% (50/322) who received ustekinumab 6 mg per kg compared with 5.3% (17/319) who received placebo (<i>P</i>&lt;0.001 for each compared with placebo). The Committee considered that clinical remission was a challenging endpoint to achieve.</p><p><span style=\"color: black;\">1.14.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that clinical response at 8 weeks (defined in the UNIFI trial as a decrease from baseline in the Mayo score by 30% or greater and three or more points from baseline, with either a decrease from baseline in the rectal bleeding sub score of one or more, or a rectal bleeding subscore of zero or one) was 51.3% (130 mg), 61.8% (6 mg per kg) and 31.3% (placebo) for the three patient groups (<i>P</i>&lt;0.001 for each compared with placebo). </p><p><span style=\"color: black;\">1.15.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that, in the UNIFI maintenance setting, clinical remission at week 44 (defined as Mayo stool frequency score of zero or one, with rectal bleeding subscore of zero) was 38.4% (66/172) for patients who received ustekinumab 90 mg q12w compared with 43.8% (77/176) in patients who received ustekinumab 90 mg q8w compared with 24.0% (42/175) who received placebo (<i>P</i>=0.002 and <i>P</i>&lt;0.001, respectively, compared with placebo), and clinical response was maintained through week 44 in 68.0% (90 mg q12w) compared with 71.0% (90 mg q8w) and 44.6% of patients who received placebo (<i>P</i>&lt;0.001 for each compared with placebo). The Committee considered that the response rate in the placebo group was very high and considered it was likely driven by a carryover effect of ustekinumab induction doses.</p><p><span style=\"color: black;\">1.16.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted the outcomes of the UNIFI trial\u2019s secondary endpoints at 44 weeks of endoscopic remission (43.6% with 90 mg q12w compared with 51.1% 90 mg q8w compared with 28.6% for placebo;<i> P</i>=0.002 and <i>P</i>&lt;0.001, respectively, compared with placebo) and steroid-free clinical remission 37.8% for 90 mg q12w compared with 42.0% for 90 mg q8w compared with 23.4% for placebo (<i>P</i>=0.002 and <i>P</i>&lt;0.001, respectively, compared with placebo). The Committee considered that these were good results for endpoints that are challenging to achieve, and that steroid-free clinical remission is a highly relevant endpoint from a clinical perspective.</p><p><span style=\"color: black;\">1.17.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted the UNIFI trial outcomes for clinical remission at 44 weeks in patients who experienced previous failure of biologics were 22.9% with 90 mg q12w compared with 39.6% 90 mg q8w compared with 15% for placebo<i> (P</i>&lt;0.001 and <i>P=</i>0.044, respectively, compared with placebo); outcomes in patients who did not experience previous failure of biologics were 49% with 90 mg q12w compared with 48.2% 90 mg q8w and 31% for placebo<i> (P</i>=0.020 and <i>P=</i>0.024, respectively, compared with placebo)<span style=\"color: black;\"> (</span><a href=\"https://doi.org/10.1093/ecco-jcc/jjy222.436\" target=\"_blank\">Sands et al. J Crohn\u2019s Colitis. 2019;13(Suppl_1):S256-7</a><span style=\"color: black;\">). The Committee noted that clinical response at 44 weeks in patients who had experienced biologic failure was </span>55.7% with 90 mg q12w compared with 64.8% 90 mg q8w compared with 38.6% for placebo<i> (P</i>=0.008 and <i>P&lt;</i>0.001, respectively, compared with placebo), and in patients <span style=\"color: black;\">who had not experienced biologic failure</span> was 76.5% with 90 mg q12w compared with 77.6% 90 mg q8w compared with 50.6% for placebo<i> (P&lt;</i>0.001 for each, respectively, compared with placebo).</p><p><span style=\"color: black;\">1.18.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that Inflammatory Bowel Disease Questionnaire (IBDQ) scores in UNIFI were low at baseline (126 for ustekinumab and 127 placebo; and 174 in both groups at maintenance baseline) and noted that a 20-point improvement was achieved in 61% of ustekinumb 6 mg per kg patients compared with 37% of placebo patients at 8 weeks; and 20-point improvements in scores were achieved and maintained at 44 weeks in 70% and 71% of ustekinumab q8w patients, respectively, compared with 43% and 50% of placebo (<a href=\"https://doi.org/10.1093/ecco-jcc/jjy222.805\" target=\"_blank\">Sands et al. J Crohn\u2019s Colitis. 2019;13(Suppl_1):S460</a>). The Committee considered that these results indicate some change in quality of life with ustekinumab treatment, however, noted that the estimates of differences in quality of life data did not reach clinical significance according to the established minimal clinically important difference (MCID) for quality of life in UC. However, Members considered that it was possible that ongoing treatment might be associated with further improvements in patient related outcomes.</p><p><span style=\"color: black;\">1.19.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that UC-related hospitalisations in the UNIFI trial\u00a0at 8 and 44 weeks were reported in 0.6% (2) ustekinumab patients compared with 4.4% (14) placebo patients, respectively, and considered these results were encouraging although they were based on small patient numbers. </p><p><span style=\"color: black;\">1.20.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that there was evidence from the UNIFI trial suggesting that there is a relationship between serum ustekinumab concentration and clinical remission, however, there was no evidence for therapeutic benefits from monitoring target serum concentration levels of ustekinumab. The Committee noted that steady states were achieved after the first few doses of ustekinumab and that serum concentration was unaffected by prior or concomitant immunomodulator use (<a href=\"https://pubmed.ncbi.nlm.nih.gov/31816446\" target=\"_blank\">Adedokun et al. Clin Gastroenterol Hepatol. 2019;S1542-3565:31403-X [Epub ahead of print</a>]). Members noted that the trough concentrations for 8-weekly to 12-weekly dosing demonstrated higher trough concentrations with 8-weekly dosing, although remission rates were generally similar (except for patients whose 12-weekly dosing trough levels were in the bottom quartile who had lower remission rates).</p><p><span style=\"color: black;\">1.21.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted the results of the UNIFI long-term extension study, which provides long-term data for UNIFI patients who remained in the same randomised groups but were able to undergo dose adjustment from 12-weekly to 8-weekly dosing, and sham adjustment from 8-weekly to 8-weekly (<a href=\"https://doi.org/10.1093/ecco-jcc/jjz203.051\" target=\"_blank\">Panaccione et al. J Crohn&#39;s Colitis. 2020;14(Suppl_1):S049</a>; <a href=\"https://doi.org/10.1093/ecco-jcc/jjz203.693\" target=\"_blank\">Sands et al. J Crohn\u2019s Colitis. 2020;14(Suppl_1):S476-7</a>; <a href=\"https://doi.org/10.1093/ecco-jcc/jjz203.577\" target=\"_blank\">Danese et al. J Crohn\u2019s Colitis. 2020;14(Suppl_1):S403).</a> The Committee noted that the proportion of patients with symptomatic remission (assessed by an abbreviated Mayo) after two years indicated good maintenance of response even in patients <span style=\"color: black;\">who had experienced biologic failure</span>.\u00a0</p><p><span style=\"color: black;\">1.22.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that there was evidence of delayed response to ustekinumab 6 mg per kg induction in a proportion of patients in the UNIFI trial, with 209 of 322 patients responding at 8 weeks and 67 responding at 16 weeks (77.6% of patients responded to induction if delayed responders are included). Members considered that these patients had a genuine response at 16 weeks and that the data indicated their response would be maintained.</p><p><span style=\"color: black;\">1.23.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>Members noted that the UNIFI long-term data could provide information as to whether there was greater benefit from 12-weekly or 8-weekly dosing on symptomatic remission rates, however, noted that about a quarter of patients in the long-term extension on q12w dosing had adjusted to q8w based on clinical criteria. </p><p><span style=\"color: black;\">1.24.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that, after 2 years further follow-up in the UNIFI trial, there were no concerning safety signals for serious infections or malignancy. Members noted that additional data regarding ustekinumab in pregnancy (indicated for treatment of CD, psoriatic arthritis and plaque psoriasis) indicates that it is safe and there were no indications of miscarriage or congenital abnormalities (<a href=\"https://pubmed.ncbi.nlm.nih.gov/17764676/\" target=\"_blank\">Mahadevan et al. Gastroenterology. 2007;133:1106-12</a>). </p><p><span style=\"color: black;\">1.25.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee also noted the following conference abstracts (many from the ECCO Congress - European Crohn\u2019s and Colitis Organisation) regarding the UNIFI trial:</p><h1><span style=\"font-family: Symbol; font-size: 11pt;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://doi.org/10.1093/ecco-jcc/jjy222.012\" target=\"_blank\" style=\"font-size: 11pt;\">Li et al. J Crohn\u2019s Colitis. 2019;13(Suppl_1):S008-9</a></h1><h1><span style=\"font-family: Symbol; font-size: 11pt;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://doi.org/10.1093/ecco-jcc/jjy222.081\" target=\"_blank\" style=\"font-size: 11pt;\">Van Assche et al. J Crohn\u2019s Colitis. 2019;13(Suppl_1):S054-5</a><span style=\"font-size: 11pt;\"> </span></h1><h1><span style=\"font-family: Symbol; font-size: 11pt;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://doi.org/10.1093/ecco-jcc/jjy222.601\" target=\"_blank\" style=\"font-size: 11pt;\">Sandborn et al. J Crohn\u2019s Colitis. 2019;(Suppl_1):S350-1</a></h1><h1><span style=\"font-family: Symbol; font-size: 11pt;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6297917/\" target=\"_blank\" style=\"font-size: 11pt;\">Sands et al. United European Gastroenterol J. 2018;6:1586-97</a></h1><h1><span style=\"font-family: Symbol; font-size: 11pt;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://doi.org/10.1093/ecco-jcc/jjy222.105\" target=\"_blank\" style=\"font-size: 11pt;\">Li et al. J Crohn\u2019s Colitis. 2019;13(Suppl_1):S073</a></h1><h1><span style=\"font-family: Symbol; font-size: 11pt;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://doi.org/10.1093/ecco-jcc/jjy222.034\" target=\"_blank\" style=\"font-size: 11pt;\">Sandborn et al. J Crohn\u2019s Colitis. 2019;13(Suppl_1):S025-6</a></h1><h1><span style=\"font-family: Symbol; font-size: 11pt;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://doi.org/10.1093/ecco-jcc/jjy222.530\" target=\"_blank\" style=\"font-size: 11pt;\">Danese et al. J Crohn\u2019s Colitis. 2019;13(Suppl_1):S311-2</a></h1><h1><span style=\"color: black; font-family: Symbol; font-size: 11pt;\">\u00b7</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://doi.org/10.1093/ecco-jcc/jjy222.088\" target=\"_blank\" style=\"font-size: 11pt;\">Danese et al. J Crohn\u2019s Colitis. 2019;13(Suppl_1);S061-2</a></h1><h1><span style=\"color: black; font-family: Symbol; font-size: 11pt;\">\u00b7</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://doi.org/10.1093/ecco-jcc/jjy222.507\" target=\"_blank\" style=\"font-size: 11pt;\">Ochsenkuhn et al. J Crohn\u2019s Colitis. 2019;13(Suppl_1):S298-9</a></h1><p><span style=\"color: black;\">1.26.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted the results of a network meta-analysis that indirectly compared randomised controlled trials reporting induction and maintenance efficacy of anti-TNFs (infliximab, adalimumab and golimumab), vedolizumab, tofacitinib or ustekinumab, of which six trials included patients with failure of prior biologics and patients without biologic failure (<a href=\"https://pubmed.ncbi.nlm.nih.gov/31960724/\" target=\"_blank\">Welty et al. Curr Med Res Opin. 2020;36:595-606</a>). The Committee noted that analyses were conducted for clinical response, clinical remission and endoscopic-mucosal healing, and that the response-based trials were recalculated to correspond to a treat-through design for comparison. The Committee considered that the results were consistent with a greater response after 1 year (in patients who had experienced prior failure of biologics) with ustekinumab compared with vedolizumab, and also for ustekinumab compared with adalimumab. Members noted that indirect comparisons may be subject to biased estimates of effect sizes.</p><p><span style=\"color: black;\">1.27.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that another network meta-analysis indirect comparison was consistent with ustekinumab and tofacitinib having a better effect than vedolizumab or adalimumab for inducing remission in patients with moderate to severe UC who have had prior exposure to anti-TNFs (<a href=\"https://pubmed.ncbi.nlm.nih.gov/31945470/\" target=\"_blank\">Singh et al. Clin Gastroenterol Hepatol. 2020;S1542-3565:30044-6</a>). Members again noted the inherent limitations of such indirect comparisons, with bias that may affect reported estimates of effect sizes.</p><p><span style=\"color: black;\">1.28.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that the evidence for ustekinumab for UC was principally based on one commercially sponsored pivotal trial, which the Committee considered appropriately designed and well conducted; and therefore considered the evidence was of moderate strength and quality. However, the Committee noted that the quality of life changes did not reach clinical significance and considered that the network meta-analyses conducted to assess benefits of treatments for UC had important limitations. </p><p><span style=\"color: black;\">1.29.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that the evidence suggests ustekinumab is effective in patients who experienced previous failure of biologics i.e. second line use, with response rates close to that achieved in biologic-na\u00efve patients. </p><p><span style=\"color: black;\">1.30.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that achievement and maintenance of response would correspond to treatment persistence and may reduce the risk of needing surgical treatment, or may delay time to surgical treatment. The Committee considered that reduction in risk of surgery or delay in time to surgery is an important and relevant outcome for patients with UC. The Committee considered that remission may be used as a surrogate for avoidance of surgery and would be a desirable outcome, but noted that it is more challenging to see direct estimates of this outcome in relation to ustekinumab treatment. </p><p><span style=\"color: black;\">1.31.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that 8-weekly dosing of ustekinumab would be strongly preferred by patients and clinicians, and that dose escalation from 12 weekly to 8-weekly would be highly likely. </p><p><span style=\"color: black;\">1.32.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that the less frequent, 8 or 12 weekly self-administration of ustekinumab maintenance would be an advantage over fortnightly self-administered sub-cutaneous adalimumab, and over infliximab and vedolizumab which are both given intravenously and require treatment in a hospital setting.</p><p><span style=\"color: black;\">1.33.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that the target population and optimal place for ustekinumab in the UC treatment paradigm would be sequential to infliximab i.e. after infliximab, in patients for whom infliximab has provided an inadequate response, intolerable side effects, is contraindicated, or who have experienced a loss of response. The Committee considered that approximately 40% to 50% of patients who have received infliximab for two years would likely be eligible for ustekinumab, if funded, and therefore the number of patients who may be eligible for treatment would be lower than the supplier estimates, with uptake more likely to be approximately 150 to 200 patients per year.</p><p><span style=\"color: black;\">1.34.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that it would be appropriate for the Special Authority criteria for ustekinumab to use the Mayo score; the full Mayo score for initial approval and partial Mayo score for renewal. Members considered that colonoscopy would be commonly performed to confirm loss of response to infliximab and the need for an alternative agent and that the full Mayo score is considered to be a more accurate assessment of moderate to severe UC. Members considered that it would be appropriate for response to be assessed after 16 weeks, based on the evidence for delayed responders.</p>",
+          "fs": "<p><span style=\"color: black;\">1.1.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that ulcerative colitis (UC) is a chronic inflammatory bowel disease affecting the large intestine that usually follows a remitting-relapsing course, has varying disease activity and severity, and has a tendency to become refractory to, or not respond to, treatment. The Committee noted that clinicians in New Zealand generally use the Simple Clinical Colitis Activity Index (SCCAI) to assess UC disease activity, while the Mayo index (which requires endoscopic examination) is often used to measure UC outcomes in clinical trials. Members considered that an SCCAI score of four or greater, or a Mayo score of six or higher, indicates moderate disease activity.</p><p><span style=\"color: black;\">1.2.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that the incidence and prevalence of UC in New Zealand has been estimated to be 7.5 and 145 cases per 100,000 population, respectively, which corresponds to up to 7,250 New Zealanders living with UC (<a href=\"https://pubmed.ncbi.nlm.nih.gov/17012964/\" target=\"_blank\">Gearry et al. Inflamm bowel dis. 2006;12:936-43</a>); members considered these rates could slowly be increasing and that more patients are living with chronic UC.</p><p><span style=\"color: black;\">1.3.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that current standard of care treatment for patients with UC follows a stepwise approach, initially using pharmaceutical treatments including aminosalicylates (mesalazine and sulphasalazine), corticosteroids (prednisone), and immunomodulators (azathioprine and mercaptopurine). Treatment is escalated to include anti-TNF therapies e.g. infliximab, for moderately to severely active UC that has not responded to earlier treatments, and then surgical resection if these treatments provide insufficient disease control. The Committee noted that response to a biologic therapy may delay colectomy, noting that UC often has a severe phase for the initial few years post-diagnosis with potential to abate, allowing a step down from biologic therapy if the patient has been adequately managed on biologics during the severe phase. However, the Committee considered that not all patients would proceed through all lines of funded therapy, as some may opt out of medical management at each step and proceed directly to surgery.</p><p><span style=\"color: black;\">1.4.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that infliximab is funded for first-line treatment of UC and the current Special Authority criteria allows for higher dosing as rescue therapy (to control disease flares) after 16 weeks. The Committee noted that the supplier estimated 700 people per year receive infliximab for UC, and the last Gastrointestinal Subcommittee advice (from <a href=\"https://www.pharmac.govt.nz/assets/ptac-gastrointestinal-subcommittee-minutes-2014-05-21.pdf\" target=\"_blank\">May 2014</a>) was that about 500 patients have moderate or severe UC that would be intolerant or refractory to other treatments and could be eligible for a second line biologic, if funded. The Committee considered that few of these patients would not be receiving treatment i.e. patients would either continue on infliximab or would proceed to surgery. Members considered that many patients would be on long-term maintenance infliximab treatment e.g. out to 3 years. </p><p><span style=\"color: black;\">1.5.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that approximately 30% of New Zealand patients who receive infliximab for UC achieve and maintain a response. The Committee estimated that between 5 and 10% of patients who experience a suboptimal response to infliximab may continue to meet funding criteria for renewal, and choose to continue infliximab as they are receiving sufficient benefit to warrant ongoing treatment. </p><p><span style=\"color: black;\">1.6.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that patients with moderately to severely active UC who have experienced either: inadequate response to, intolerable side effects from, contraindications to, or loss of response from, infliximab would have a high health need. Members considered that at least 50%, and potentially up to 80%, of patients who do not receive a response from infliximab will subsequently require surgery if no other medical options are available. </p><p><span style=\"color: black;\">1.7.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that some patients who proceed to colectomy may require up to 3 operations to achieve the final result. The surgical option will usually provide health benefits, but also carries risks of short- and long-term complications. The Committee considered it had seen no evidence about the incidence of colectomy for UC in New Zealand, however, members considered that colectomy rates are decreasing in some countries, partly driven by optimal use of thiopurines and the use of anti-TNF agents. </p><p><span style=\"color: black;\">1.8.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that ustekinumab is a monoclonal antibody directed against interleukin 12 and interleukin 23, naturally occurring proteins that regulate the immune system and immune-mediated inflammatory disorders. The Committee noted that ustekinumab is Medsafe-approved for the treatment of adult patients with moderately to severely active UC and for the treatment of patients with severe plaque psoriasis, patients with active psoriatic arthritis, and patients with moderately to severely active Crohn\u2019s disease (CD). </p><p><span style=\"color: black;\">1.9.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that ustekinumab has previously been considered by PHARMAC for the treatment of CD and for psoriasis, and that these proposals have been ranked. The Committee noted the differences in disease course and response to treatment for UC and CD, and noted that evidence for the use of ustekinumab in CD (reviewed by PTAC in <a href=\"https://www.pharmac.govt.nz/assets/ptac-minutes-2018-05.pdf\" target=\"_blank\">May 2018</a>, the Gastrointestinal Subcommittee in <a href=\"https://www.pharmac.govt.nz/assets/ptac-gastrointestinal-subcommittee-minutes-2018-10.pdf\" target=\"_blank\">Oct 2018</a> and PTAC in <a href=\"https://www.pharmac.govt.nz/assets/ptac-minutes-2019-02.pdf\" target=\"_blank\">Feb 2019</a>) was based on the UNITI-1, UNITI-2 and IM-UNITI clinical trials conducted in biologic-na\u00efve and biologic-experienced patients with CD; these studies also provide data for ustekinumab maintenance in CD.</p><p><span style=\"color: black;\">1.10.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that in clinical trials in UC the group randomised to placebo sometimes have a substantial reported response rate. Members noted that, based on the previously reviewed reports of the use of ustekinumab in CD, there was a 36% response rate in participants who received induction treatment with ustekinumab and then placebo maintenance, compared with 53% in participants who continued on ustekinumab 8-weekly after induction treatment. Members considered that the proportion of patients with CD in long-term follow-up who were in remission was consistent with ongoing reduction in disease activity after ustekinumab induction.</p><p><span style=\"color: black;\">1.11.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted the evidence from the phase 3, randomised (1:1:1), double-blind, placebo-controlled UNIFI trial of ustekinumab induction (intravenous ustekinumab 130 mg or 6 mg per kg dosing, or placebo) followed by maintenance in patients whose disease responded to induction therapy (subcutaneous ustekinumab 90 mg 8-weekly [q8w] or 90 mg 12-weekly [q12w], or placebo) in 961 patients with moderate to severe UC for whom other biologic or non-biologic therapies have failed (<a href=\"https://pubmed.ncbi.nlm.nih.gov/31553833/?dopt=Abstract\" target=\"_blank\">Sands et al. N Engl J Med. 2019;381:1201-14</a>; also <a href=\"https://www.nejm.org/doi/suppl/10.1056/NEJMoa1900750/suppl_file/nejmoa1900750_appendix.pdf\" target=\"_blank\">Supplementary Appendix</a>). </p><p><span style=\"color: black;\">1.12.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that the UNIFI trial criteria required patients to have a baseline total score of six to 12 on the Mayo scale and subscore of two or three for the endoscopic component, with endoscopy required to confirm suspected loss of response to treatment. The Committee noted that more than half of patients (N = 491) with moderate to severe UC had experienced failure of at least one biologic treatment, and many patients received ustekinumab third-line (N = 160) due to previous use of vedolizumab as well as infliximab or other anti-TNF agent. The Committee noted that delayed response to induction was common and patients who experienced this had the option to enter maintenance at 16 weeks.</p><p><span style=\"color: black;\">1.13.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that the primary endpoint of the UNIFI trial was clinical remission after induction at week 8 (defined as a total Mayo score of two or less, and no subscore greater than one) which was reported to have been achieved in 15.6% (50/320) of patients who received ustekinumab 130 mg compared with 15.5% (50/322) who received ustekinumab 6 mg per kg compared with 5.3% (17/319) who received placebo (<i>P</i>&lt;0.001 for each compared with placebo). The Committee considered that clinical remission was a challenging endpoint to achieve.</p><p><span style=\"color: black;\">1.14.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that clinical response at 8 weeks (defined in the UNIFI trial as a decrease from baseline in the Mayo score by 30% or greater and three or more points from baseline, with either a decrease from baseline in the rectal bleeding sub score of one or more, or a rectal bleeding subscore of zero or one) was 51.3% (130 mg), 61.8% (6 mg per kg) and 31.3% (placebo) for the three patient groups (<i>P</i>&lt;0.001 for each compared with placebo). </p><p><span style=\"color: black;\">1.15.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that, in the UNIFI maintenance setting, clinical remission at week 44 (defined as Mayo stool frequency score of zero or one, with rectal bleeding subscore of zero) was 38.4% (66/172) for patients who received ustekinumab 90 mg q12w compared with 43.8% (77/176) in patients who received ustekinumab 90 mg q8w compared with 24.0% (42/175) who received placebo (<i>P</i>=0.002 and <i>P</i>&lt;0.001, respectively, compared with placebo), and clinical response was maintained through week 44 in 68.0% (90 mg q12w) compared with 71.0% (90 mg q8w) and 44.6% of patients who received placebo (<i>P</i>&lt;0.001 for each compared with placebo). The Committee considered that the response rate in the placebo group was very high and considered it was likely driven by a carryover effect of ustekinumab induction doses.</p><p><span style=\"color: black;\">1.16.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted the outcomes of the UNIFI trial\u2019s secondary endpoints at 44 weeks of endoscopic remission (43.6% with 90 mg q12w compared with 51.1% 90 mg q8w compared with 28.6% for placebo;<i> P</i>=0.002 and <i>P</i>&lt;0.001, respectively, compared with placebo) and steroid-free clinical remission 37.8% for 90 mg q12w compared with 42.0% for 90 mg q8w compared with 23.4% for placebo (<i>P</i>=0.002 and <i>P</i>&lt;0.001, respectively, compared with placebo). The Committee considered that these were good results for endpoints that are challenging to achieve, and that steroid-free clinical remission is a highly relevant endpoint from a clinical perspective.</p><p><span style=\"color: black;\">1.17.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted the UNIFI trial outcomes for clinical remission at 44 weeks in patients who experienced previous failure of biologics were 22.9% with 90 mg q12w compared with 39.6% 90 mg q8w compared with 15% for placebo<i> (P</i>&lt;0.001 and <i>P=</i>0.044, respectively, compared with placebo); outcomes in patients who did not experience previous failure of biologics were 49% with 90 mg q12w compared with 48.2% 90 mg q8w and 31% for placebo<i> (P</i>=0.020 and <i>P=</i>0.024, respectively, compared with placebo)<span style=\"color: black;\"> (</span><a href=\"https://doi.org/10.1093/ecco-jcc/jjy222.436\" target=\"_blank\">Sands et al. J Crohn\u2019s Colitis. 2019;13(Suppl_1):S256-7</a><span style=\"color: black;\">). The Committee noted that clinical response at 44 weeks in patients who had experienced biologic failure was </span>55.7% with 90 mg q12w compared with 64.8% 90 mg q8w compared with 38.6% for placebo<i> (P</i>=0.008 and <i>P&lt;</i>0.001, respectively, compared with placebo), and in patients <span style=\"color: black;\">who had not experienced biologic failure</span> was 76.5% with 90 mg q12w compared with 77.6% 90 mg q8w compared with 50.6% for placebo<i> (P&lt;</i>0.001 for each, respectively, compared with placebo).</p><p><span style=\"color: black;\">1.18.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that Inflammatory Bowel Disease Questionnaire (IBDQ) scores in UNIFI were low at baseline (126 for ustekinumab and 127 placebo; and 174 in both groups at maintenance baseline) and noted that a 20-point improvement was achieved in 61% of ustekinumb 6 mg per kg patients compared with 37% of placebo patients at 8 weeks; and 20-point improvements in scores were achieved and maintained at 44 weeks in 70% and 71% of ustekinumab q8w patients, respectively, compared with 43% and 50% of placebo (<a href=\"https://doi.org/10.1093/ecco-jcc/jjy222.805\" target=\"_blank\">Sands et al. J Crohn\u2019s Colitis. 2019;13(Suppl_1):S460</a>). The Committee considered that these results indicate some change in quality of life with ustekinumab treatment, however, noted that the estimates of differences in quality of life data did not reach clinical significance according to the established minimal clinically important difference (MCID) for quality of life in UC. However, Members considered that it was possible that ongoing treatment might be associated with further improvements in patient related outcomes.</p><p><span style=\"color: black;\">1.19.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that UC-related hospitalisations in the UNIFI trial\u00a0at 8 and 44 weeks were reported in 0.6% (2) ustekinumab patients compared with 4.4% (14) placebo patients, respectively, and considered these results were encouraging although they were based on small patient numbers. </p><p><span style=\"color: black;\">1.20.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that there was evidence from the UNIFI trial suggesting that there is a relationship between serum ustekinumab concentration and clinical remission, however, there was no evidence for therapeutic benefits from monitoring target serum concentration levels of ustekinumab. The Committee noted that steady states were achieved after the first few doses of ustekinumab and that serum concentration was unaffected by prior or concomitant immunomodulator use (<a href=\"https://pubmed.ncbi.nlm.nih.gov/31816446\" target=\"_blank\">Adedokun et al. Clin Gastroenterol Hepatol. 2019;S1542-3565:31403-X [Epub ahead of print</a>]). Members noted that the trough concentrations for 8-weekly to 12-weekly dosing demonstrated higher trough concentrations with 8-weekly dosing, although remission rates were generally similar (except for patients whose 12-weekly dosing trough levels were in the bottom quartile who had lower remission rates).</p><p><span style=\"color: black;\">1.21.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted the results of the UNIFI long-term extension study, which provides long-term data for UNIFI patients who remained in the same randomised groups but were able to undergo dose adjustment from 12-weekly to 8-weekly dosing, and sham adjustment from 8-weekly to 8-weekly (<a href=\"https://doi.org/10.1093/ecco-jcc/jjz203.051\" target=\"_blank\">Panaccione et al. J Crohn&#39;s Colitis. 2020;14(Suppl_1):S049</a>; <a href=\"https://doi.org/10.1093/ecco-jcc/jjz203.693\" target=\"_blank\">Sands et al. J Crohn\u2019s Colitis. 2020;14(Suppl_1):S476-7</a>; <a href=\"https://doi.org/10.1093/ecco-jcc/jjz203.577\" target=\"_blank\">Danese et al. J Crohn\u2019s Colitis. 2020;14(Suppl_1):S403).</a> The Committee noted that the proportion of patients with symptomatic remission (assessed by an abbreviated Mayo) after two years indicated good maintenance of response even in patients <span style=\"color: black;\">who had experienced biologic failure</span>.\u00a0</p><p><span style=\"color: black;\">1.22.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that there was evidence of delayed response to ustekinumab 6 mg per kg induction in a proportion of patients in the UNIFI trial, with 209 of 322 patients responding at 8 weeks and 67 responding at 16 weeks (77.6% of patients responded to induction if delayed responders are included). Members considered that these patients had a genuine response at 16 weeks and that the data indicated their response would be maintained.</p><p><span style=\"color: black;\">1.23.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>Members noted that the UNIFI long-term data could provide information as to whether there was greater benefit from 12-weekly or 8-weekly dosing on symptomatic remission rates, however, noted that about a quarter of patients in the long-term extension on q12w dosing had adjusted to q8w based on clinical criteria. </p><p><span style=\"color: black;\">1.24.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that, after 2 years further follow-up in the UNIFI trial, there were no concerning safety signals for serious infections or malignancy. Members noted that additional data regarding ustekinumab in pregnancy (indicated for treatment of CD, psoriatic arthritis and plaque psoriasis) indicates that it is safe and there were no indications of miscarriage or congenital abnormalities (<a href=\"https://pubmed.ncbi.nlm.nih.gov/17764676/\" target=\"_blank\">Mahadevan et al. Gastroenterology. 2007;133:1106-12</a>). </p><p><span style=\"color: black;\">1.25.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee also noted the following conference abstracts (many from the ECCO Congress - European Crohn\u2019s and Colitis Organisation) regarding the UNIFI trial:</p><h1><span style=\"font-family: Symbol; font-size: 11pt;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://doi.org/10.1093/ecco-jcc/jjy222.012\" target=\"_blank\" style=\"font-size: 11pt;\">Li et al. J Crohn\u2019s Colitis. 2019;13(Suppl_1):S008-9</a></h1><h1><span style=\"font-family: Symbol; font-size: 11pt;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://doi.org/10.1093/ecco-jcc/jjy222.081\" target=\"_blank\" style=\"font-size: 11pt;\">Van Assche et al. J Crohn\u2019s Colitis. 2019;13(Suppl_1):S054-5</a><span style=\"font-size: 11pt;\"> </span></h1><h1><span style=\"font-family: Symbol; font-size: 11pt;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://doi.org/10.1093/ecco-jcc/jjy222.601\" target=\"_blank\" style=\"font-size: 11pt;\">Sandborn et al. J Crohn\u2019s Colitis. 2019;(Suppl_1):S350-1</a></h1><h1><span style=\"font-family: Symbol; font-size: 11pt;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6297917/\" target=\"_blank\" style=\"font-size: 11pt;\">Sands et al. United European Gastroenterol J. 2018;6:1586-97</a></h1><h1><span style=\"font-family: Symbol; font-size: 11pt;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://doi.org/10.1093/ecco-jcc/jjy222.105\" target=\"_blank\" style=\"font-size: 11pt;\">Li et al. J Crohn\u2019s Colitis. 2019;13(Suppl_1):S073</a></h1><h1><span style=\"font-family: Symbol; font-size: 11pt;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://doi.org/10.1093/ecco-jcc/jjy222.034\" target=\"_blank\" style=\"font-size: 11pt;\">Sandborn et al. J Crohn\u2019s Colitis. 2019;13(Suppl_1):S025-6</a></h1><h1><span style=\"font-family: Symbol; font-size: 11pt;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://doi.org/10.1093/ecco-jcc/jjy222.530\" target=\"_blank\" style=\"font-size: 11pt;\">Danese et al. J Crohn\u2019s Colitis. 2019;13(Suppl_1):S311-2</a></h1><h1><span style=\"color: black; font-family: Symbol; font-size: 11pt;\">\u00b7</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://doi.org/10.1093/ecco-jcc/jjy222.088\" target=\"_blank\" style=\"font-size: 11pt;\">Danese et al. J Crohn\u2019s Colitis. 2019;13(Suppl_1);S061-2</a></h1><h1><span style=\"color: black; font-family: Symbol; font-size: 11pt;\">\u00b7</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://doi.org/10.1093/ecco-jcc/jjy222.507\" target=\"_blank\" style=\"font-size: 11pt;\">Ochsenkuhn et al. J Crohn\u2019s Colitis. 2019;13(Suppl_1):S298-9</a></h1><p><span style=\"color: black;\">1.26.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted the results of a network meta-analysis that indirectly compared randomised controlled trials reporting induction and maintenance efficacy of anti-TNFs (infliximab, adalimumab and golimumab), vedolizumab, tofacitinib or ustekinumab, of which six trials included patients with failure of prior biologics and patients without biologic failure (<a href=\"https://pubmed.ncbi.nlm.nih.gov/31960724/\" target=\"_blank\">Welty et al. Curr Med Res Opin. 2020;36:595-606</a>). The Committee noted that analyses were conducted for clinical response, clinical remission and endoscopic-mucosal healing, and that the response-based trials were recalculated to correspond to a treat-through design for comparison. The Committee considered that the results were consistent with a greater response after 1 year (in patients who had experienced prior failure of biologics) with ustekinumab compared with vedolizumab, and also for ustekinumab compared with adalimumab. Members noted that indirect comparisons may be subject to biased estimates of effect sizes.</p><p><span style=\"color: black;\">1.27.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that another network meta-analysis indirect comparison was consistent with ustekinumab and tofacitinib having a better effect than vedolizumab or adalimumab for inducing remission in patients with moderate to severe UC who have had prior exposure to anti-TNFs (<a href=\"https://pubmed.ncbi.nlm.nih.gov/31945470/\" target=\"_blank\">Singh et al. Clin Gastroenterol Hepatol. 2020;S1542-3565:30044-6</a>). Members again noted the inherent limitations of such indirect comparisons, with bias that may affect reported estimates of effect sizes.</p><p><span style=\"color: black;\">1.28.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that the evidence for ustekinumab for UC was principally based on one commercially sponsored pivotal trial, which the Committee considered appropriately designed and well conducted; and therefore considered the evidence was of moderate strength and quality. However, the Committee noted that the quality of life changes did not reach clinical significance and considered that the network meta-analyses conducted to assess benefits of treatments for UC had important limitations. </p><p><span style=\"color: black;\">1.29.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that the evidence suggests ustekinumab is effective in patients who experienced previous failure of biologics i.e. second line use, with response rates close to that achieved in biologic-na\u00efve patients. </p><p><span style=\"color: black;\">1.30.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that achievement and maintenance of response would correspond to treatment persistence and may reduce the risk of needing surgical treatment, or may delay time to surgical treatment. The Committee considered that reduction in risk of surgery or delay in time to surgery is an important and relevant outcome for patients with UC. The Committee considered that remission may be used as a surrogate for avoidance of surgery and would be a desirable outcome, but noted that it is more challenging to see direct estimates of this outcome in relation to ustekinumab treatment. </p><p><span style=\"color: black;\">1.31.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that 8-weekly dosing of ustekinumab would be strongly preferred by patients and clinicians, and that dose escalation from 12 weekly to 8-weekly would be highly likely. </p><p><span style=\"color: black;\">1.32.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that the less frequent, 8 or 12 weekly self-administration of ustekinumab maintenance would be an advantage over fortnightly self-administered sub-cutaneous adalimumab, and over infliximab and vedolizumab which are both given intravenously and require treatment in a hospital setting.</p><p><span style=\"color: black;\">1.33.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that the target population and optimal place for ustekinumab in the UC treatment paradigm would be sequential to infliximab i.e. after infliximab, in patients for whom infliximab has provided an inadequate response, intolerable side effects, is contraindicated, or who have experienced a loss of response. The Committee considered that approximately 40% to 50% of patients who have received infliximab for two years would likely be eligible for ustekinumab, if funded, and therefore the number of patients who may be eligible for treatment would be lower than the supplier estimates, with uptake more likely to be approximately 150 to 200 patients per year.</p><p><span style=\"color: black;\">1.34.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that it would be appropriate for the Special Authority criteria for ustekinumab to use the Mayo score; the full Mayo score for initial approval and partial Mayo score for renewal. Members considered that colonoscopy would be commonly performed to confirm loss of response to infliximab and the need for an alternative agent and that the full Mayo score is considered to be a more accurate assessment of moderate to severe UC. Members considered that it would be appropriate for response to be assessed after 16 weeks, based on the evidence for delayed responders.</p>",
+          "change": null
+        },
+        "Published_Application": {
+          "s": "<p><span style=\"color: black;\">1.1.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee reviewed the application from Janssen for ustekinumab for the treatment of moderately to severely active ulcerative colitis (UC) in adult patients who have experienced either: inadequate response to, intolerable side effects from, contraindications to, or loss of response from, infliximab.</p><p><span style=\"color: black;\">1.2.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee took into account, where applicable, PHARMAC\u2019s relevant decision-making framework when considering this agenda item.\u00a0</p>",
+          "fs": "<p><span style=\"color: black;\">1.1.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee reviewed the application from Janssen for ustekinumab for the treatment of moderately to severely active ulcerative colitis (UC) in adult patients who have experienced either: inadequate response to, intolerable side effects from, contraindications to, or loss of response from, infliximab.</p><p><span style=\"color: black;\">1.2.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee took into account, where applicable, PHARMAC\u2019s relevant decision-making framework when considering this agenda item.\u00a0</p>",
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": "Medium",
+          "fs": "Medium",
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Jul 2020",
+          "fs": "Jul 2020",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Clinical advice received from Pharmacology and Therapeutics Advisory Committee (PTAC) at meeting Thursday 21 May 2020.",
+          "fs": "Clinical advice received from Pharmacology and Therapeutics Advisory Committee (PTAC) at meeting Thursday 21 May 2020.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P000007GKb1UAG"
+          },
+          "Id": "a0P2P000007GKb1UAG",
+          "Event_Date__c": "2020-07-22",
+          "Event_Description__c": "Clinical advice received from Pharmacology and Therapeutics Advisory Committee (PTAC) at meeting Thursday 21 May 2020.",
+          "Stage__c": "Seeking Clinical Advice",
+          "Outcome__c": "Medium",
+          "Formatted_Date__c": "Jul 2020",
+          "Published_Recommendation__c": "<p><span style=\"color: black;\">1.1.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee <b>recommended</b> that ustekinumab be funded for patients with moderately to severely active ulcerative colitis (UC) in adult patients who have experienced either: inadequate response to, intolerable side effects from, contraindications to, or loss of response from, infliximab with a medium priority subject to the following Special Authority criteria:</p><p>\t<b style=\"font-size: 9pt;\">USTEKINUMAB</b></p><p>\t<b style=\"font-size: 9pt;\">Initiation \u2013 moderately to severely active ulcerative colitis</b></p><p>\t<span style=\"font-size: 9pt;\">Applications only from a gastroenterologist or Practitioner on the recommendation of a gastroenterologist. Approvals valid for 4 months.</span></p><p>\t<span style=\"font-size: 9pt;\">All of the following:</span></p><p><span style=\"font-size: 9pt;\">1.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Patient has histologically confirmed ulcerative colitis; and</span></p><p><span style=\"font-size: 9pt;\">2.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Patients is 18 years or older with a total score of 6 to 12 on the Mayo scale and an endoscopic subscore of 2 or 3; and </span></p><p><span style=\"font-size: 9pt;\">3.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Patient has tried infliximab at an appropriate dose but received an inadequate response to (including lack of initial response and/or loss of initial response) or experienced intolerable side effects from prior treatment with infliximab; and</span></p><p><span style=\"font-size: 9pt;\">4.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Surgery (or further surgery) is considered clinically inappropriate; and</span></p><p><span style=\"font-size: 9pt;\">5.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Ustekinumab will be used at a dose of 130 mg for induction and used at a dose no greater than 90 mg subcutaneously every 8 weeks for maintenance.</span></p><p><br></p><p>\t<b style=\"font-size: 9pt;\">Renewal \u2013 moderately to severely active ulcerative colitis</b></p><p>\t<span style=\"font-size: 9pt;\">Applications only from a gastroenterologist or Practitioner on the recommendation of a gastroenterologist. Approvals valid for 6 months.</span></p><p>\t<span style=\"font-size: 9pt;\">All of the following:</span></p><p><span style=\"font-size: 9pt;\">1.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Patient is continuing to maintain a response (see Note) and the benefit of continuing treatment with ustekinumab outweighs the risks; and </span></p><p><span style=\"font-size: 9pt;\">2.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Patients is 18 years or older; and</span></p><p><span style=\"font-size: 9pt;\">3.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Ustekinumab will be used at a dose no greater than 90 mg subcutaneously every 8 weeks.</span></p><p><span style=\"font-size: 9pt;\">Note: Response is defined as a decrease from baseline in the Mayo score by \u226530% and \u22653 points, with either a decrease from baseline in the rectal bleeding sub score of \u22651 or a rectal bleeding subscore of 0 or 1.</span></p><p><span style=\"color: black;\">1.2.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>In making this recommendation, the Committee considered the high health need of this patient group, the suitability of ustekinumab, which for maintenance can be administered subcutaneously, and the evidence of particular efficacy in patients who have previously experienced biologic failure. However, the Committee noted that in the report of the UNIFI trial the estimates of the differences of quality of life may not have been clinically meaningful, and that there were limitations of the evidence comparing the benefits of different treatments for UC.\u00a0</p>",
+          "Published_Application__c": "<p><span style=\"color: black;\">1.1.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee reviewed the application from Janssen for ustekinumab for the treatment of moderately to severely active ulcerative colitis (UC) in adult patients who have experienced either: inadequate response to, intolerable side effects from, contraindications to, or loss of response from, infliximab.</p><p><span style=\"color: black;\">1.2.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee took into account, where applicable, PHARMAC\u2019s relevant decision-making framework when considering this agenda item.\u00a0</p>",
+          "Published_Discussion__c": "<p><span style=\"color: black;\">1.1.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that ulcerative colitis (UC) is a chronic inflammatory bowel disease affecting the large intestine that usually follows a remitting-relapsing course, has varying disease activity and severity, and has a tendency to become refractory to, or not respond to, treatment. The Committee noted that clinicians in New Zealand generally use the Simple Clinical Colitis Activity Index (SCCAI) to assess UC disease activity, while the Mayo index (which requires endoscopic examination) is often used to measure UC outcomes in clinical trials. Members considered that an SCCAI score of four or greater, or a Mayo score of six or higher, indicates moderate disease activity.</p><p><span style=\"color: black;\">1.2.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that the incidence and prevalence of UC in New Zealand has been estimated to be 7.5 and 145 cases per 100,000 population, respectively, which corresponds to up to 7,250 New Zealanders living with UC (<a href=\"https://pubmed.ncbi.nlm.nih.gov/17012964/\" target=\"_blank\">Gearry et al. Inflamm bowel dis. 2006;12:936-43</a>); members considered these rates could slowly be increasing and that more patients are living with chronic UC.</p><p><span style=\"color: black;\">1.3.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that current standard of care treatment for patients with UC follows a stepwise approach, initially using pharmaceutical treatments including aminosalicylates (mesalazine and sulphasalazine), corticosteroids (prednisone), and immunomodulators (azathioprine and mercaptopurine). Treatment is escalated to include anti-TNF therapies e.g. infliximab, for moderately to severely active UC that has not responded to earlier treatments, and then surgical resection if these treatments provide insufficient disease control. The Committee noted that response to a biologic therapy may delay colectomy, noting that UC often has a severe phase for the initial few years post-diagnosis with potential to abate, allowing a step down from biologic therapy if the patient has been adequately managed on biologics during the severe phase. However, the Committee considered that not all patients would proceed through all lines of funded therapy, as some may opt out of medical management at each step and proceed directly to surgery.</p><p><span style=\"color: black;\">1.4.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that infliximab is funded for first-line treatment of UC and the current Special Authority criteria allows for higher dosing as rescue therapy (to control disease flares) after 16 weeks. The Committee noted that the supplier estimated 700 people per year receive infliximab for UC, and the last Gastrointestinal Subcommittee advice (from <a href=\"https://www.pharmac.govt.nz/assets/ptac-gastrointestinal-subcommittee-minutes-2014-05-21.pdf\" target=\"_blank\">May 2014</a>) was that about 500 patients have moderate or severe UC that would be intolerant or refractory to other treatments and could be eligible for a second line biologic, if funded. The Committee considered that few of these patients would not be receiving treatment i.e. patients would either continue on infliximab or would proceed to surgery. Members considered that many patients would be on long-term maintenance infliximab treatment e.g. out to 3 years. </p><p><span style=\"color: black;\">1.5.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that approximately 30% of New Zealand patients who receive infliximab for UC achieve and maintain a response. The Committee estimated that between 5 and 10% of patients who experience a suboptimal response to infliximab may continue to meet funding criteria for renewal, and choose to continue infliximab as they are receiving sufficient benefit to warrant ongoing treatment. </p><p><span style=\"color: black;\">1.6.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that patients with moderately to severely active UC who have experienced either: inadequate response to, intolerable side effects from, contraindications to, or loss of response from, infliximab would have a high health need. Members considered that at least 50%, and potentially up to 80%, of patients who do not receive a response from infliximab will subsequently require surgery if no other medical options are available. </p><p><span style=\"color: black;\">1.7.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that some patients who proceed to colectomy may require up to 3 operations to achieve the final result. The surgical option will usually provide health benefits, but also carries risks of short- and long-term complications. The Committee considered it had seen no evidence about the incidence of colectomy for UC in New Zealand, however, members considered that colectomy rates are decreasing in some countries, partly driven by optimal use of thiopurines and the use of anti-TNF agents. </p><p><span style=\"color: black;\">1.8.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that ustekinumab is a monoclonal antibody directed against interleukin 12 and interleukin 23, naturally occurring proteins that regulate the immune system and immune-mediated inflammatory disorders. The Committee noted that ustekinumab is Medsafe-approved for the treatment of adult patients with moderately to severely active UC and for the treatment of patients with severe plaque psoriasis, patients with active psoriatic arthritis, and patients with moderately to severely active Crohn\u2019s disease (CD). </p><p><span style=\"color: black;\">1.9.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that ustekinumab has previously been considered by PHARMAC for the treatment of CD and for psoriasis, and that these proposals have been ranked. The Committee noted the differences in disease course and response to treatment for UC and CD, and noted that evidence for the use of ustekinumab in CD (reviewed by PTAC in <a href=\"https://www.pharmac.govt.nz/assets/ptac-minutes-2018-05.pdf\" target=\"_blank\">May 2018</a>, the Gastrointestinal Subcommittee in <a href=\"https://www.pharmac.govt.nz/assets/ptac-gastrointestinal-subcommittee-minutes-2018-10.pdf\" target=\"_blank\">Oct 2018</a> and PTAC in <a href=\"https://www.pharmac.govt.nz/assets/ptac-minutes-2019-02.pdf\" target=\"_blank\">Feb 2019</a>) was based on the UNITI-1, UNITI-2 and IM-UNITI clinical trials conducted in biologic-na\u00efve and biologic-experienced patients with CD; these studies also provide data for ustekinumab maintenance in CD.</p><p><span style=\"color: black;\">1.10.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that in clinical trials in UC the group randomised to placebo sometimes have a substantial reported response rate. Members noted that, based on the previously reviewed reports of the use of ustekinumab in CD, there was a 36% response rate in participants who received induction treatment with ustekinumab and then placebo maintenance, compared with 53% in participants who continued on ustekinumab 8-weekly after induction treatment. Members considered that the proportion of patients with CD in long-term follow-up who were in remission was consistent with ongoing reduction in disease activity after ustekinumab induction.</p><p><span style=\"color: black;\">1.11.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted the evidence from the phase 3, randomised (1:1:1), double-blind, placebo-controlled UNIFI trial of ustekinumab induction (intravenous ustekinumab 130 mg or 6 mg per kg dosing, or placebo) followed by maintenance in patients whose disease responded to induction therapy (subcutaneous ustekinumab 90 mg 8-weekly [q8w] or 90 mg 12-weekly [q12w], or placebo) in 961 patients with moderate to severe UC for whom other biologic or non-biologic therapies have failed (<a href=\"https://pubmed.ncbi.nlm.nih.gov/31553833/?dopt=Abstract\" target=\"_blank\">Sands et al. N Engl J Med. 2019;381:1201-14</a>; also <a href=\"https://www.nejm.org/doi/suppl/10.1056/NEJMoa1900750/suppl_file/nejmoa1900750_appendix.pdf\" target=\"_blank\">Supplementary Appendix</a>). </p><p><span style=\"color: black;\">1.12.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that the UNIFI trial criteria required patients to have a baseline total score of six to 12 on the Mayo scale and subscore of two or three for the endoscopic component, with endoscopy required to confirm suspected loss of response to treatment. The Committee noted that more than half of patients (N = 491) with moderate to severe UC had experienced failure of at least one biologic treatment, and many patients received ustekinumab third-line (N = 160) due to previous use of vedolizumab as well as infliximab or other anti-TNF agent. The Committee noted that delayed response to induction was common and patients who experienced this had the option to enter maintenance at 16 weeks.</p><p><span style=\"color: black;\">1.13.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that the primary endpoint of the UNIFI trial was clinical remission after induction at week 8 (defined as a total Mayo score of two or less, and no subscore greater than one) which was reported to have been achieved in 15.6% (50/320) of patients who received ustekinumab 130 mg compared with 15.5% (50/322) who received ustekinumab 6 mg per kg compared with 5.3% (17/319) who received placebo (<i>P</i>&lt;0.001 for each compared with placebo). The Committee considered that clinical remission was a challenging endpoint to achieve.</p><p><span style=\"color: black;\">1.14.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that clinical response at 8 weeks (defined in the UNIFI trial as a decrease from baseline in the Mayo score by 30% or greater and three or more points from baseline, with either a decrease from baseline in the rectal bleeding sub score of one or more, or a rectal bleeding subscore of zero or one) was 51.3% (130 mg), 61.8% (6 mg per kg) and 31.3% (placebo) for the three patient groups (<i>P</i>&lt;0.001 for each compared with placebo). </p><p><span style=\"color: black;\">1.15.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that, in the UNIFI maintenance setting, clinical remission at week 44 (defined as Mayo stool frequency score of zero or one, with rectal bleeding subscore of zero) was 38.4% (66/172) for patients who received ustekinumab 90 mg q12w compared with 43.8% (77/176) in patients who received ustekinumab 90 mg q8w compared with 24.0% (42/175) who received placebo (<i>P</i>=0.002 and <i>P</i>&lt;0.001, respectively, compared with placebo), and clinical response was maintained through week 44 in 68.0% (90 mg q12w) compared with 71.0% (90 mg q8w) and 44.6% of patients who received placebo (<i>P</i>&lt;0.001 for each compared with placebo). The Committee considered that the response rate in the placebo group was very high and considered it was likely driven by a carryover effect of ustekinumab induction doses.</p><p><span style=\"color: black;\">1.16.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted the outcomes of the UNIFI trial\u2019s secondary endpoints at 44 weeks of endoscopic remission (43.6% with 90 mg q12w compared with 51.1% 90 mg q8w compared with 28.6% for placebo;<i> P</i>=0.002 and <i>P</i>&lt;0.001, respectively, compared with placebo) and steroid-free clinical remission 37.8% for 90 mg q12w compared with 42.0% for 90 mg q8w compared with 23.4% for placebo (<i>P</i>=0.002 and <i>P</i>&lt;0.001, respectively, compared with placebo). The Committee considered that these were good results for endpoints that are challenging to achieve, and that steroid-free clinical remission is a highly relevant endpoint from a clinical perspective.</p><p><span style=\"color: black;\">1.17.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted the UNIFI trial outcomes for clinical remission at 44 weeks in patients who experienced previous failure of biologics were 22.9% with 90 mg q12w compared with 39.6% 90 mg q8w compared with 15% for placebo<i> (P</i>&lt;0.001 and <i>P=</i>0.044, respectively, compared with placebo); outcomes in patients who did not experience previous failure of biologics were 49% with 90 mg q12w compared with 48.2% 90 mg q8w and 31% for placebo<i> (P</i>=0.020 and <i>P=</i>0.024, respectively, compared with placebo)<span style=\"color: black;\"> (</span><a href=\"https://doi.org/10.1093/ecco-jcc/jjy222.436\" target=\"_blank\">Sands et al. J Crohn\u2019s Colitis. 2019;13(Suppl_1):S256-7</a><span style=\"color: black;\">). The Committee noted that clinical response at 44 weeks in patients who had experienced biologic failure was </span>55.7% with 90 mg q12w compared with 64.8% 90 mg q8w compared with 38.6% for placebo<i> (P</i>=0.008 and <i>P&lt;</i>0.001, respectively, compared with placebo), and in patients <span style=\"color: black;\">who had not experienced biologic failure</span> was 76.5% with 90 mg q12w compared with 77.6% 90 mg q8w compared with 50.6% for placebo<i> (P&lt;</i>0.001 for each, respectively, compared with placebo).</p><p><span style=\"color: black;\">1.18.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that Inflammatory Bowel Disease Questionnaire (IBDQ) scores in UNIFI were low at baseline (126 for ustekinumab and 127 placebo; and 174 in both groups at maintenance baseline) and noted that a 20-point improvement was achieved in 61% of ustekinumb 6 mg per kg patients compared with 37% of placebo patients at 8 weeks; and 20-point improvements in scores were achieved and maintained at 44 weeks in 70% and 71% of ustekinumab q8w patients, respectively, compared with 43% and 50% of placebo (<a href=\"https://doi.org/10.1093/ecco-jcc/jjy222.805\" target=\"_blank\">Sands et al. J Crohn\u2019s Colitis. 2019;13(Suppl_1):S460</a>). The Committee considered that these results indicate some change in quality of life with ustekinumab treatment, however, noted that the estimates of differences in quality of life data did not reach clinical significance according to the established minimal clinically important difference (MCID) for quality of life in UC. However, Members considered that it was possible that ongoing treatment might be associated with further improvements in patient related outcomes.</p><p><span style=\"color: black;\">1.19.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that UC-related hospitalisations in the UNIFI trial\u00a0at 8 and 44 weeks were reported in 0.6% (2) ustekinumab patients compared with 4.4% (14) placebo patients, respectively, and considered these results were encouraging although they were based on small patient numbers. </p><p><span style=\"color: black;\">1.20.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that there was evidence from the UNIFI trial suggesting that there is a relationship between serum ustekinumab concentration and clinical remission, however, there was no evidence for therapeutic benefits from monitoring target serum concentration levels of ustekinumab. The Committee noted that steady states were achieved after the first few doses of ustekinumab and that serum concentration was unaffected by prior or concomitant immunomodulator use (<a href=\"https://pubmed.ncbi.nlm.nih.gov/31816446\" target=\"_blank\">Adedokun et al. Clin Gastroenterol Hepatol. 2019;S1542-3565:31403-X [Epub ahead of print</a>]). Members noted that the trough concentrations for 8-weekly to 12-weekly dosing demonstrated higher trough concentrations with 8-weekly dosing, although remission rates were generally similar (except for patients whose 12-weekly dosing trough levels were in the bottom quartile who had lower remission rates).</p><p><span style=\"color: black;\">1.21.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted the results of the UNIFI long-term extension study, which provides long-term data for UNIFI patients who remained in the same randomised groups but were able to undergo dose adjustment from 12-weekly to 8-weekly dosing, and sham adjustment from 8-weekly to 8-weekly (<a href=\"https://doi.org/10.1093/ecco-jcc/jjz203.051\" target=\"_blank\">Panaccione et al. J Crohn&#39;s Colitis. 2020;14(Suppl_1):S049</a>; <a href=\"https://doi.org/10.1093/ecco-jcc/jjz203.693\" target=\"_blank\">Sands et al. J Crohn\u2019s Colitis. 2020;14(Suppl_1):S476-7</a>; <a href=\"https://doi.org/10.1093/ecco-jcc/jjz203.577\" target=\"_blank\">Danese et al. J Crohn\u2019s Colitis. 2020;14(Suppl_1):S403).</a> The Committee noted that the proportion of patients with symptomatic remission (assessed by an abbreviated Mayo) after two years indicated good maintenance of response even in patients <span style=\"color: black;\">who had experienced biologic failure</span>.\u00a0</p><p><span style=\"color: black;\">1.22.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that there was evidence of delayed response to ustekinumab 6 mg per kg induction in a proportion of patients in the UNIFI trial, with 209 of 322 patients responding at 8 weeks and 67 responding at 16 weeks (77.6% of patients responded to induction if delayed responders are included). Members considered that these patients had a genuine response at 16 weeks and that the data indicated their response would be maintained.</p><p><span style=\"color: black;\">1.23.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>Members noted that the UNIFI long-term data could provide information as to whether there was greater benefit from 12-weekly or 8-weekly dosing on symptomatic remission rates, however, noted that about a quarter of patients in the long-term extension on q12w dosing had adjusted to q8w based on clinical criteria. </p><p><span style=\"color: black;\">1.24.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that, after 2 years further follow-up in the UNIFI trial, there were no concerning safety signals for serious infections or malignancy. Members noted that additional data regarding ustekinumab in pregnancy (indicated for treatment of CD, psoriatic arthritis and plaque psoriasis) indicates that it is safe and there were no indications of miscarriage or congenital abnormalities (<a href=\"https://pubmed.ncbi.nlm.nih.gov/17764676/\" target=\"_blank\">Mahadevan et al. Gastroenterology. 2007;133:1106-12</a>). </p><p><span style=\"color: black;\">1.25.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee also noted the following conference abstracts (many from the ECCO Congress - European Crohn\u2019s and Colitis Organisation) regarding the UNIFI trial:</p><h1><span style=\"font-family: Symbol; font-size: 11pt;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://doi.org/10.1093/ecco-jcc/jjy222.012\" target=\"_blank\" style=\"font-size: 11pt;\">Li et al. J Crohn\u2019s Colitis. 2019;13(Suppl_1):S008-9</a></h1><h1><span style=\"font-family: Symbol; font-size: 11pt;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://doi.org/10.1093/ecco-jcc/jjy222.081\" target=\"_blank\" style=\"font-size: 11pt;\">Van Assche et al. J Crohn\u2019s Colitis. 2019;13(Suppl_1):S054-5</a><span style=\"font-size: 11pt;\"> </span></h1><h1><span style=\"font-family: Symbol; font-size: 11pt;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://doi.org/10.1093/ecco-jcc/jjy222.601\" target=\"_blank\" style=\"font-size: 11pt;\">Sandborn et al. J Crohn\u2019s Colitis. 2019;(Suppl_1):S350-1</a></h1><h1><span style=\"font-family: Symbol; font-size: 11pt;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6297917/\" target=\"_blank\" style=\"font-size: 11pt;\">Sands et al. United European Gastroenterol J. 2018;6:1586-97</a></h1><h1><span style=\"font-family: Symbol; font-size: 11pt;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://doi.org/10.1093/ecco-jcc/jjy222.105\" target=\"_blank\" style=\"font-size: 11pt;\">Li et al. J Crohn\u2019s Colitis. 2019;13(Suppl_1):S073</a></h1><h1><span style=\"font-family: Symbol; font-size: 11pt;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://doi.org/10.1093/ecco-jcc/jjy222.034\" target=\"_blank\" style=\"font-size: 11pt;\">Sandborn et al. J Crohn\u2019s Colitis. 2019;13(Suppl_1):S025-6</a></h1><h1><span style=\"font-family: Symbol; font-size: 11pt;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://doi.org/10.1093/ecco-jcc/jjy222.530\" target=\"_blank\" style=\"font-size: 11pt;\">Danese et al. J Crohn\u2019s Colitis. 2019;13(Suppl_1):S311-2</a></h1><h1><span style=\"color: black; font-family: Symbol; font-size: 11pt;\">\u00b7</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://doi.org/10.1093/ecco-jcc/jjy222.088\" target=\"_blank\" style=\"font-size: 11pt;\">Danese et al. J Crohn\u2019s Colitis. 2019;13(Suppl_1);S061-2</a></h1><h1><span style=\"color: black; font-family: Symbol; font-size: 11pt;\">\u00b7</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://doi.org/10.1093/ecco-jcc/jjy222.507\" target=\"_blank\" style=\"font-size: 11pt;\">Ochsenkuhn et al. J Crohn\u2019s Colitis. 2019;13(Suppl_1):S298-9</a></h1><p><span style=\"color: black;\">1.26.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted the results of a network meta-analysis that indirectly compared randomised controlled trials reporting induction and maintenance efficacy of anti-TNFs (infliximab, adalimumab and golimumab), vedolizumab, tofacitinib or ustekinumab, of which six trials included patients with failure of prior biologics and patients without biologic failure (<a href=\"https://pubmed.ncbi.nlm.nih.gov/31960724/\" target=\"_blank\">Welty et al. Curr Med Res Opin. 2020;36:595-606</a>). The Committee noted that analyses were conducted for clinical response, clinical remission and endoscopic-mucosal healing, and that the response-based trials were recalculated to correspond to a treat-through design for comparison. The Committee considered that the results were consistent with a greater response after 1 year (in patients who had experienced prior failure of biologics) with ustekinumab compared with vedolizumab, and also for ustekinumab compared with adalimumab. Members noted that indirect comparisons may be subject to biased estimates of effect sizes.</p><p><span style=\"color: black;\">1.27.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that another network meta-analysis indirect comparison was consistent with ustekinumab and tofacitinib having a better effect than vedolizumab or adalimumab for inducing remission in patients with moderate to severe UC who have had prior exposure to anti-TNFs (<a href=\"https://pubmed.ncbi.nlm.nih.gov/31945470/\" target=\"_blank\">Singh et al. Clin Gastroenterol Hepatol. 2020;S1542-3565:30044-6</a>). Members again noted the inherent limitations of such indirect comparisons, with bias that may affect reported estimates of effect sizes.</p><p><span style=\"color: black;\">1.28.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that the evidence for ustekinumab for UC was principally based on one commercially sponsored pivotal trial, which the Committee considered appropriately designed and well conducted; and therefore considered the evidence was of moderate strength and quality. However, the Committee noted that the quality of life changes did not reach clinical significance and considered that the network meta-analyses conducted to assess benefits of treatments for UC had important limitations. </p><p><span style=\"color: black;\">1.29.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that the evidence suggests ustekinumab is effective in patients who experienced previous failure of biologics i.e. second line use, with response rates close to that achieved in biologic-na\u00efve patients. </p><p><span style=\"color: black;\">1.30.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that achievement and maintenance of response would correspond to treatment persistence and may reduce the risk of needing surgical treatment, or may delay time to surgical treatment. The Committee considered that reduction in risk of surgery or delay in time to surgery is an important and relevant outcome for patients with UC. The Committee considered that remission may be used as a surrogate for avoidance of surgery and would be a desirable outcome, but noted that it is more challenging to see direct estimates of this outcome in relation to ustekinumab treatment. </p><p><span style=\"color: black;\">1.31.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that 8-weekly dosing of ustekinumab would be strongly preferred by patients and clinicians, and that dose escalation from 12 weekly to 8-weekly would be highly likely. </p><p><span style=\"color: black;\">1.32.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that the less frequent, 8 or 12 weekly self-administration of ustekinumab maintenance would be an advantage over fortnightly self-administered sub-cutaneous adalimumab, and over infliximab and vedolizumab which are both given intravenously and require treatment in a hospital setting.</p><p><span style=\"color: black;\">1.33.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that the target population and optimal place for ustekinumab in the UC treatment paradigm would be sequential to infliximab i.e. after infliximab, in patients for whom infliximab has provided an inadequate response, intolerable side effects, is contraindicated, or who have experienced a loss of response. The Committee considered that approximately 40% to 50% of patients who have received infliximab for two years would likely be eligible for ustekinumab, if funded, and therefore the number of patients who may be eligible for treatment would be lower than the supplier estimates, with uptake more likely to be approximately 150 to 200 patients per year.</p><p><span style=\"color: black;\">1.34.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that it would be appropriate for the Special Authority criteria for ustekinumab to use the Mayo score; the full Mayo score for initial approval and partial Mayo score for renewal. Members considered that colonoscopy would be commonly performed to confirm loss of response to infliximab and the need for an alternative agent and that the full Mayo score is considered to be a more accurate assessment of moderate to severe UC. Members considered that it would be appropriate for response to be assessed after 16 weeks, based on the evidence for delayed responders.</p>",
+          "Status_History__c": "a132P000000BySLQA0"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Feb 2020",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Following Clinical Advice, Pharmac staff considers the advice and the funding application under goes an assessment using our&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/factors-for-consideration/\" rel=\"nofollow\">Factors for Consideration</a>&nbsp;framework and seeks additional information as required.</p>\r\n<p>&nbsp;</p>\r\n<p>Research and Economic analysis are undertaken.&nbsp; This focuses on the costs and benefits of a proposed course of action. Economics is based on three fundamental concepts that summarise the issues Pharmac faces daily:&nbsp;</p>\r\n<ul>\r\n<li>Scarcity &ndash; resources will always be insufficient to support all possible activities.</li>\r\n<li>Choices &ndash; due to scarce resources, decisions must be made about how best to use them.</li>\r\n<li>Opportunity cost &ndash; by choosing to use resources one way, we forgo other opportunities to use the same resources.</li>\r\n</ul>\r\n<p>&nbsp;</p>\r\n<p>For further information on the purpose of, and techniques for, undertaking economic analysis in health care, please refer&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/economic-analysis/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/economic-analysis/</a></p>",
+    "position": 2,
+    "name": "Under Assessment",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Jul 2020",
+          "fs": "Jul 2020",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Working to compare options",
+          "fs": "Working to compare options",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P000007GKcPUAW"
+          },
+          "Id": "a0P2P000007GKcPUAW",
+          "Event_Date__c": "2020-07-22",
+          "Event_Description__c": "Working to compare options",
+          "Stage__c": "Under Assessment",
+          "Formatted_Date__c": "Jul 2020",
+          "Status_History__c": "a132P000000BySQQA0"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Jul 2020",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Pharmac staff uses a prioritisation process to compare and rank funding options. Possible opportunities for new investment will always exceed the budget Pharmac has available; therefore, prioritisation is an intrinsic part of Pharmac\u2019s decision-making process.</p>\r\n<p>The relative ranking of options aims to support Pharmac&rsquo;s statutory objective &ldquo;to secure for eligible people in need of pharmaceuticals, the best health outcomes that are reasonably achievable from pharmaceutical treatment and from within the amount of funding provided&rdquo;.</p>\r\n<p>A funding application or proposal is considered ready for prioritisation when sufficient information is available to permit it to be reviewed against Pharmac's Factors for Consideration and to inform a comparison with other possible investment decisions.</p>\r\n<p>There is no guarantee when or if a ranked medicine will be funded.&nbsp;&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/prioritisation/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/prioritisation/</a></p>",
+    "position": 3,
+    "name": "Options Compared",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Sep 2020",
+          "fs": "Sep 2020",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "The relative ranking of the pharmaceutical application has been completed.",
+          "fs": "The relative ranking of the pharmaceutical application has been completed.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P000007GKcQUAW"
+          },
+          "Id": "a0P2P000007GKcQUAW",
+          "Event_Date__c": "2020-09-28",
+          "Event_Description__c": "The relative ranking of the pharmaceutical application has been completed.",
+          "Stage__c": "Options Compared",
+          "Formatted_Date__c": "Sep 2020",
+          "Status_History__c": "a132P000000CKB8QAO"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Dec 2020",
+          "fs": "Dec 2020",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "The relative ranking of the pharmaceutical application has been completed.",
+          "fs": "The relative ranking of the pharmaceutical application has been completed.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P000007GKcRUAW"
+          },
+          "Id": "a0P2P000007GKcRUAW",
+          "Event_Date__c": "2020-12-16",
+          "Event_Description__c": "The relative ranking of the pharmaceutical application has been completed.",
+          "Stage__c": "Options Compared",
+          "Formatted_Date__c": "Dec 2020",
+          "Status_History__c": "a132P000000CSGiQAO"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Jun 2022",
+          "fs": "Jun 2022",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "The relative ranking of the pharmaceutical application has been completed.",
+          "fs": "The relative ranking of the pharmaceutical application has been completed.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P000007GKcSUAW"
+          },
+          "Id": "a0P2P000007GKcSUAW",
+          "Event_Date__c": "2022-06-02",
+          "Event_Description__c": "The relative ranking of the pharmaceutical application has been completed.",
+          "Stage__c": "Options Compared",
+          "Formatted_Date__c": "Jun 2022",
+          "Status_History__c": "a132P000000DnXxQAK"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Sep 2020",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Pharmac is consulting on a proposal to either approve or decline the application.&nbsp;We seek the views of all people who have an interest in our proposals, or who may be affected by them, to obtain feedback on our proposed approaches.</p>\r\n<p><a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/having-your-say/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/having-your-say/</a></p>",
+    "position": 4,
+    "name": "Under Consultation",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Oct 2022",
+          "fs": "Oct 2022",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Public consultation for this application is active.",
+          "fs": "Public consultation for this application is active.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P000007GKcTUAW"
+          },
+          "Id": "a0P2P000007GKcTUAW",
+          "Event_Date__c": "2022-10-11",
+          "Event_Description__c": "Public consultation for this application is active.",
+          "Stage__c": "Under Consultation",
+          "Formatted_Date__c": "Oct 2022",
+          "Status_History__c": "a132P000000EDwiQAG"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Oct 2022",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Following the consultation process, Pharmac staff considers the feedback and identifies any additional information required as part of a gap analysis.&nbsp; The proposal may require further clinical advice, research, and assessment.</p>",
+    "position": 5,
+    "name": "Reviewing Consultation Feedback",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": "<p>From 1 February 2023 ustekinumab (Stelara) would be funded for people with Crohn\u2019s disease or ulcerative colitis for whom prior biologic therapy has not provided sufficient clinical benefit, was not tolerated, or is contraindicated, subject to eligibility criteria.</p><p><br></p>",
+          "fs": "<p>From 1 February 2023 ustekinumab (Stelara) would be funded for people with Crohn\u2019s disease or ulcerative colitis for whom prior biologic therapy has not provided sufficient clinical benefit, was not tolerated, or is contraindicated, subject to eligibility criteria.</p><p><br></p>",
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": "<p>https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/2022-10-11-proposal-to-fund-ustekinumab-for-inflammatory-bowel-disease-and-infliximab-for-inflammatory-bowel-disease-associated-arthritis/</p>",
+          "fs": "<p>https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/2022-10-11-proposal-to-fund-ustekinumab-for-inflammatory-bowel-disease-and-infliximab-for-inflammatory-bowel-disease-associated-arthritis/</p>",
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Oct 2022",
+          "fs": "Oct 2022",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Public consultation for this application is now closed. Pharmac is reviewing consultation feedback.",
+          "fs": "Public consultation for this application is now closed. Pharmac is reviewing consultation feedback.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P000007GKcUUAW"
+          },
+          "Id": "a0P2P000007GKcUUAW",
+          "Event_Date__c": "2022-10-26",
+          "Event_Description__c": "Public consultation for this application is now closed. Pharmac is reviewing consultation feedback.",
+          "Stage__c": "Reviewing Consultation Feedback",
+          "Links__c": "<p>https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/2022-10-11-proposal-to-fund-ustekinumab-for-inflammatory-bowel-disease-and-infliximab-for-inflammatory-bowel-disease-associated-arthritis/</p>",
+          "Summary__c": "<p>From 1 February 2023 ustekinumab (Stelara) would be funded for people with Crohn\u2019s disease or ulcerative colitis for whom prior biologic therapy has not provided sufficient clinical benefit, was not tolerated, or is contraindicated, subject to eligibility criteria.</p><p><br></p>",
+          "Formatted_Date__c": "Oct 2022",
+          "Status_History__c": "a132P000000EDwnQAG"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Oct 2022",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>We refer to our decisions about whether and how particular pharmaceuticals are publicly-funded, as &ldquo;funding decisions&rdquo;.</p>\r\n<p>We consider and assess all funding decisions using the&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/about/operating-policies-and-procedures/#factorsfc\" rel=\"nofollow\">Factors for Consideration</a>. When we do so, we carefully evaluate clinical and other evidence for the benefits and suitability of a proposal, and to identify and understand the people who will be affected by it.</p>\r\n<p>While our main task is to allocate pharmaceutical funding, we consider the benefits and costs across the whole health system now and with a long-term focus, including the effects for hospitals and primary care, and consider direct costs to patients as well as to all health sector budgets.</p>\r\n<p>Final funding decisions are made by the Pharmac Board or delegated to senior Pharmac staff as required by the Board.</p>\r\n<p>&nbsp;</p>",
+    "position": 6,
+    "name": "Decision",
+    "last": true,
+    "events": [
+      {
+        "Summary": {
+          "s": "<p><span style=\"font-size: 16px; font-family: Montserrat, sans-serif; color: rgb(51, 51, 51);\">We&#39;re pleased to announce a decision to fund ustekinumab for\u00a0inflammatory bowel disease and to widen access to\u00a0infliximab for people with inflammatory bowel disease-associated arthritis.\u00a0</span></p>",
+          "fs": "<p><span style=\"font-size: 16px; font-family: Montserrat, sans-serif; color: rgb(51, 51, 51);\">We&#39;re pleased to announce a decision to fund ustekinumab for\u00a0inflammatory bowel disease and to widen access to\u00a0infliximab for people with inflammatory bowel disease-associated arthritis.\u00a0</span></p>",
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": "<p>https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/2022-12-20-decision-to-fund-ustekinumab-for-inflammatory-bowel-disease-and-infliximab-for-inflammatory-bowel-disease-associated-arthritis/</p>",
+          "fs": "<p>https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/2022-12-20-decision-to-fund-ustekinumab-for-inflammatory-bowel-disease-and-infliximab-for-inflammatory-bowel-disease-associated-arthritis/</p>",
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Dec 2022",
+          "fs": "Dec 2022",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "The funding application has been approved.",
+          "fs": "The funding application has been approved.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P000007GKcVUAW"
+          },
+          "Id": "a0P2P000007GKcVUAW",
+          "Event_Date__c": "2022-12-02",
+          "Event_Description__c": "The funding application has been approved.",
+          "Stage__c": "Decision",
+          "Links__c": "<p>https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/2022-12-20-decision-to-fund-ustekinumab-for-inflammatory-bowel-disease-and-infliximab-for-inflammatory-bowel-disease-associated-arthritis/</p>",
+          "Summary__c": "<p><span style=\"font-size: 16px; font-family: Montserrat, sans-serif; color: rgb(51, 51, 51);\">We&#39;re pleased to announce a decision to fund ustekinumab for\u00a0inflammatory bowel disease and to widen access to\u00a0infliximab for people with inflammatory bowel disease-associated arthritis.\u00a0</span></p>",
+          "Formatted_Date__c": "Dec 2022",
+          "Status_History__c": "a132P000000EDwoQAG"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Dec 2022",
+    "collapsed": false,
+    "checked": true
+  }
+]

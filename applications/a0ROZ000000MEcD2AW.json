@@ -1,0 +1,751 @@
+[
+  {
+    "text": "<p>New funding applications are referred to one of Pharmac's Funding Application Advisors (FAAs), who'll review the application to ensure they have the relevant information to undertake a preliminary analysis.&nbsp; They may seek more information if required.</p>\r\n<p><a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/new-funding-applications/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/new-funding-applications/</a></p>",
+    "position": 0,
+    "name": "Application Received",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Aug 2017",
+          "fs": "Aug 2017",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Application received",
+          "fs": "Application received",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ000002jIVt2AM"
+          },
+          "Id": "a0POZ000002jIVt2AM",
+          "Event_Date__c": "2017-08-18",
+          "Event_Description__c": "Application received",
+          "Stage__c": "Application Received",
+          "Formatted_Date__c": "Aug 2017",
+          "Status_History__c": "a132P000000ArK6QAK"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Aug 2017",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Pharmac is identifying and gathering information required to get clinical advice.  The <a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/pharmacology-and-therapeutics-advisory-committee-ptac/\" rel=\"nofollow\">Pharmacology and Therapeutics Advisory Committee (PTAC)</a>  meets quarterly. There are also around 20 expert <a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/specialist-advisory-committees/\" rel=\"nofollow\">Specialist Advisory Committees (SACs)</a>, previously expert Subcommittees, which provide clinical evaluations in specialist areas. Specialist Advisory Committees meet as required to discuss issues referred to them by PTAC or Pharmac.</p>\n<p style=\"height: 20px\">&nbsp;</p>\n<p>In November 2021, we introduced separate terms of reference for the SACs to make clear that these committees have different, but complementary, roles, expertise and perspectives to PTAC.</p>\n<p style=\"height: 15px\">&nbsp;</p>\n<p>PTAC and SACs may make recommendations to Pharmac that differ from each other when looking at the same evidence. Pharmac considers the recommendations provided by all our clinical advisory committees when assessing applications.</p>\n<p style=\"height: 20px\">&nbsp;</p>\n<p><a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/pharmacology-and-therapeutics-advisory-committee-ptac/ptac-terms-of-reference-july-2021/\" rel=\"nofollow\">PTAC</a>  and <a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/specialist-advisory-committees/specialist-advisory-committee-terms-of-reference//\" rel=\"nofollow\">Specialist Advisory Committees</a> records of the meeting will be published on this website in accordance with the Terms of Reference.</p>",
+    "position": 1,
+    "name": "Seeking Clinical Advice",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": "The Subcommittee recommended that the changes to the ticagrelor or prasugrel Special Authority criteria to allow treatment guided by CYP2C19 genotyping for in patients with acute coronary syndromes (ACS) be deferred until more evidence was available on the clinical outcomes associated with selecting antiplatelet agents based on genetic testing.",
+          "fs": "The Subcommittee recommended that the changes to the ticagrelor or prasugrel Special Authority criteria to allow treatment guided by CYP2C19 genotyping for in patients with acute coronary syndromes (ACS) be deferred until more evidence was available on the clinical outcomes associated with selecting antiplatelet agents based on genetic testing.",
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": "<p>Deferred - Pending the availability of new evidence to support the application </p>",
+          "fs": "<p>Deferred - Pending the availability of new evidence to support the application </p>",
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": "<h2>1<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>Ticagrelor or prasugrel treatment based on CYP2C19 genotyping</h2><p style=\"text-align: justify;\"><b>Application</b></p><p style=\"text-align: justify;\">1.1<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee reviewed a funding application from a clinician for CYP2C19 genotyping in patients with acute coronary syndromes (ACS) to guide antiplatelet management.</p><p style=\"text-align: justify;\"><b>Recommendation</b></p><p style=\"text-align: justify;\">1.2<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee <b>recommended</b> that the changes to the ticagrelor or prasugrel Special Authority criteria to allow treatment guided by CYP2C19 genotyping for in patients with acute coronary syndromes (ACS) be deferred until more evidence was available on the clinical outcomes associated with selecting <span style=\"color: black;\">antiplatelet agents </span>based on genetic testing. </p><p style=\"text-align: justify;\"><b>Discussion</b></p><p style=\"text-align: justify;\">1.3<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted PHARMAC had received a clinician funding application for CYP2C19 genotyping in patients with acute coronary syndromes (ACS) to guide antiplatelet management. </p><p style=\"text-align: justify;\">1.4<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted one of the applicants is the owner of the testing instrumentation and patented technologies required for the proposed CYP2C19 genotyping and that the testing is currently only available at Waitemata DHB. </p><p style=\"text-align: justify;\">1.5<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that <span style=\"color: black;\">PHARMAC staff had communicated with the applicant that the funding of the </span>genotype testing is likely to be considered outside of PHARMACs remit, although PHARMAC could consider consider possible changes to the Special Authority criteria currently in place for ticagrelor and<span style=\"color: black;\">/or prasugrel.</span> </p><p style=\"text-align: justify;\">1.6<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that current Special Authority restrictions for ticagrelor allow 12 months of funded treatment post ST-elevation or a non-ST-elevation acute coronary syndrome for all patients. The Subcommittee noted that the applicant has suggested cost savings may be made by restricting access by allowing ticagrelor access only in \u2018clopidogrel non-responders\u2019. </p><p style=\"text-align: justify;\">1.7<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that current Special Authority restrictions for prasugrel, are that a patient needs to either be clopidogrel-allergic or have experienced cardiac stent thrombosis whilst on clopidogrel. The Subcommittee noted that the applicant has requested wider access for \u2018clopidogrel non-responders\u2019 following PCI. </p><p style=\"text-align: justify;\">1.8<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that there was a theoretical basis for guiding antiplatelet therapy by determining poor responders to clopidogrel (using various approaches, including CYP2C19 genotyping), and that there was some limited evidence of worse outcomes in this group. The Subcommittee however considered that there remained insufficient evidence for additional population health benefits by personalising antiplatelet therapy, as this was yet to be stablished in a significant clinical trial. Members noted that a large-scale trial confirming this personalised treatment approach was unlikely to occur. </p><p style=\"text-align: justify;\">1.9<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that there was no evidence to suggest that the differences observed for ticagrelor versus clopidogrel in patients with ACS in the pivotal PLATO trial was due to generic polymorphisms.\u00a0</p><p><br></p>",
+          "fs": "<h2>1<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>Ticagrelor or prasugrel treatment based on CYP2C19 genotyping</h2><p style=\"text-align: justify;\"><b>Application</b></p><p style=\"text-align: justify;\">1.1<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee reviewed a funding application from a clinician for CYP2C19 genotyping in patients with acute coronary syndromes (ACS) to guide antiplatelet management.</p><p style=\"text-align: justify;\"><b>Recommendation</b></p><p style=\"text-align: justify;\">1.2<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee <b>recommended</b> that the changes to the ticagrelor or prasugrel Special Authority criteria to allow treatment guided by CYP2C19 genotyping for in patients with acute coronary syndromes (ACS) be deferred until more evidence was available on the clinical outcomes associated with selecting <span style=\"color: black;\">antiplatelet agents </span>based on genetic testing. </p><p style=\"text-align: justify;\"><b>Discussion</b></p><p style=\"text-align: justify;\">1.3<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted PHARMAC had received a clinician funding application for CYP2C19 genotyping in patients with acute coronary syndromes (ACS) to guide antiplatelet management. </p><p style=\"text-align: justify;\">1.4<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted one of the applicants is the owner of the testing instrumentation and patented technologies required for the proposed CYP2C19 genotyping and that the testing is currently only available at Waitemata DHB. </p><p style=\"text-align: justify;\">1.5<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that <span style=\"color: black;\">PHARMAC staff had communicated with the applicant that the funding of the </span>genotype testing is likely to be considered outside of PHARMACs remit, although PHARMAC could consider consider possible changes to the Special Authority criteria currently in place for ticagrelor and<span style=\"color: black;\">/or prasugrel.</span> </p><p style=\"text-align: justify;\">1.6<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that current Special Authority restrictions for ticagrelor allow 12 months of funded treatment post ST-elevation or a non-ST-elevation acute coronary syndrome for all patients. The Subcommittee noted that the applicant has suggested cost savings may be made by restricting access by allowing ticagrelor access only in \u2018clopidogrel non-responders\u2019. </p><p style=\"text-align: justify;\">1.7<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that current Special Authority restrictions for prasugrel, are that a patient needs to either be clopidogrel-allergic or have experienced cardiac stent thrombosis whilst on clopidogrel. The Subcommittee noted that the applicant has requested wider access for \u2018clopidogrel non-responders\u2019 following PCI. </p><p style=\"text-align: justify;\">1.8<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that there was a theoretical basis for guiding antiplatelet therapy by determining poor responders to clopidogrel (using various approaches, including CYP2C19 genotyping), and that there was some limited evidence of worse outcomes in this group. The Subcommittee however considered that there remained insufficient evidence for additional population health benefits by personalising antiplatelet therapy, as this was yet to be stablished in a significant clinical trial. Members noted that a large-scale trial confirming this personalised treatment approach was unlikely to occur. </p><p style=\"text-align: justify;\">1.9<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that there was no evidence to suggest that the differences observed for ticagrelor versus clopidogrel in patients with ACS in the pivotal PLATO trial was due to generic polymorphisms.\u00a0</p><p><br></p>",
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": "Deferred",
+          "fs": "Deferred",
+          "change": null
+        },
+        "Links": {
+          "s": "<a href=\"https://www.pharmac.govt.nz/assets/ptac-cardiovascular-subcommittee-minutes-2017-09.pdf\" target=\"_blank\">Cardiovascular Subcommittee minutes</a>",
+          "fs": "<a href=\"https://www.pharmac.govt.nz/assets/ptac-cardiovascular-subcommittee-minutes-2017-09.pdf\" target=\"_blank\">Cardiovascular Subcommittee minutes</a>",
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Sep 2017",
+          "fs": "Sep 2017",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Clinical advice received from Cardiovascular Subcommittee at meeting Wednesday 27 September 2017.",
+          "fs": "Clinical advice received from Cardiovascular Subcommittee at meeting Wednesday 27 September 2017.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ000002jIVu2AM"
+          },
+          "Id": "a0POZ000002jIVu2AM",
+          "Event_Date__c": "2017-09-27",
+          "Event_Description__c": "Clinical advice received from Cardiovascular Subcommittee at meeting Wednesday 27 September 2017.",
+          "Stage__c": "Seeking Clinical Advice",
+          "Links__c": "<a href=\"https://www.pharmac.govt.nz/assets/ptac-cardiovascular-subcommittee-minutes-2017-09.pdf\" target=\"_blank\">Cardiovascular Subcommittee minutes</a>",
+          "Outcome__c": "Deferred",
+          "Summary__c": "The Subcommittee recommended that the changes to the ticagrelor or prasugrel Special Authority criteria to allow treatment guided by CYP2C19 genotyping for in patients with acute coronary syndromes (ACS) be deferred until more evidence was available on the clinical outcomes associated with selecting antiplatelet agents based on genetic testing.",
+          "Formatted_Date__c": "Sep 2017",
+          "Published_Recommendation__c": "<p>Deferred - Pending the availability of new evidence to support the application </p>",
+          "Published_Discussion__c": "<h2>1<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>Ticagrelor or prasugrel treatment based on CYP2C19 genotyping</h2><p style=\"text-align: justify;\"><b>Application</b></p><p style=\"text-align: justify;\">1.1<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee reviewed a funding application from a clinician for CYP2C19 genotyping in patients with acute coronary syndromes (ACS) to guide antiplatelet management.</p><p style=\"text-align: justify;\"><b>Recommendation</b></p><p style=\"text-align: justify;\">1.2<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee <b>recommended</b> that the changes to the ticagrelor or prasugrel Special Authority criteria to allow treatment guided by CYP2C19 genotyping for in patients with acute coronary syndromes (ACS) be deferred until more evidence was available on the clinical outcomes associated with selecting <span style=\"color: black;\">antiplatelet agents </span>based on genetic testing. </p><p style=\"text-align: justify;\"><b>Discussion</b></p><p style=\"text-align: justify;\">1.3<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted PHARMAC had received a clinician funding application for CYP2C19 genotyping in patients with acute coronary syndromes (ACS) to guide antiplatelet management. </p><p style=\"text-align: justify;\">1.4<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted one of the applicants is the owner of the testing instrumentation and patented technologies required for the proposed CYP2C19 genotyping and that the testing is currently only available at Waitemata DHB. </p><p style=\"text-align: justify;\">1.5<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that <span style=\"color: black;\">PHARMAC staff had communicated with the applicant that the funding of the </span>genotype testing is likely to be considered outside of PHARMACs remit, although PHARMAC could consider consider possible changes to the Special Authority criteria currently in place for ticagrelor and<span style=\"color: black;\">/or prasugrel.</span> </p><p style=\"text-align: justify;\">1.6<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that current Special Authority restrictions for ticagrelor allow 12 months of funded treatment post ST-elevation or a non-ST-elevation acute coronary syndrome for all patients. The Subcommittee noted that the applicant has suggested cost savings may be made by restricting access by allowing ticagrelor access only in \u2018clopidogrel non-responders\u2019. </p><p style=\"text-align: justify;\">1.7<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that current Special Authority restrictions for prasugrel, are that a patient needs to either be clopidogrel-allergic or have experienced cardiac stent thrombosis whilst on clopidogrel. The Subcommittee noted that the applicant has requested wider access for \u2018clopidogrel non-responders\u2019 following PCI. </p><p style=\"text-align: justify;\">1.8<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that there was a theoretical basis for guiding antiplatelet therapy by determining poor responders to clopidogrel (using various approaches, including CYP2C19 genotyping), and that there was some limited evidence of worse outcomes in this group. The Subcommittee however considered that there remained insufficient evidence for additional population health benefits by personalising antiplatelet therapy, as this was yet to be stablished in a significant clinical trial. Members noted that a large-scale trial confirming this personalised treatment approach was unlikely to occur. </p><p style=\"text-align: justify;\">1.9<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that there was no evidence to suggest that the differences observed for ticagrelor versus clopidogrel in patients with ACS in the pivotal PLATO trial was due to generic polymorphisms.\u00a0</p><p><br></p>",
+          "Status_History__c": "a132P000000ArLEQA0"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Sep 2018",
+          "fs": "Sep 2018",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Received Additional Information",
+          "fs": "Received Additional Information",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ000002jIVv2AM"
+          },
+          "Id": "a0POZ000002jIVv2AM",
+          "Event_Date__c": "2018-09-18",
+          "Event_Description__c": "Received Additional Information",
+          "Stage__c": "Seeking Clinical Advice",
+          "Formatted_Date__c": "Sep 2018",
+          "Status_History__c": "a132P000000ArXRQA0"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Mar 2019",
+          "fs": "Mar 2019",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Clinical advice required",
+          "fs": "Clinical advice required",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ000002jIVw2AM"
+          },
+          "Id": "a0POZ000002jIVw2AM",
+          "Event_Date__c": "2019-03-01",
+          "Event_Description__c": "Clinical advice required",
+          "Stage__c": "Seeking Clinical Advice",
+          "Formatted_Date__c": "Mar 2019",
+          "Status_History__c": "a132P000000ArcPQAS"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": "The Subcommittee considered that there was currently insufficient evidence to make a recommendation on this proposal. Instead, the Subcommittee deferred making a recommendation until the publication of TAILOR-PCI and the POPular Genetics trial.",
+          "fs": "The Subcommittee considered that there was currently insufficient evidence to make a recommendation on this proposal. Instead, the Subcommittee deferred making a recommendation until the publication of TAILOR-PCI and the POPular Genetics trial.",
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": "Deferred",
+          "fs": "Deferred",
+          "change": null
+        },
+        "Links": {
+          "s": "<a href=\"https://www.pharmac.govt.nz/assets/ptac-Cardiovascular-Subcommittee-Minutes-2019-05.pdf\" target=\"_blank\">Cardiovascular Subcommittee minutes</a>",
+          "fs": "<a href=\"https://www.pharmac.govt.nz/assets/ptac-Cardiovascular-Subcommittee-Minutes-2019-05.pdf\" target=\"_blank\">Cardiovascular Subcommittee minutes</a>",
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "May 2019",
+          "fs": "May 2019",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Clinical advice received from Cardiovascular Subcommittee at meeting Wednesday 8 May 2019.",
+          "fs": "Clinical advice received from Cardiovascular Subcommittee at meeting Wednesday 8 May 2019.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ000002jIVx2AM"
+          },
+          "Id": "a0POZ000002jIVx2AM",
+          "Event_Date__c": "2019-05-08",
+          "Event_Description__c": "Clinical advice received from Cardiovascular Subcommittee at meeting Wednesday 8 May 2019.",
+          "Stage__c": "Seeking Clinical Advice",
+          "Links__c": "<a href=\"https://www.pharmac.govt.nz/assets/ptac-Cardiovascular-Subcommittee-Minutes-2019-05.pdf\" target=\"_blank\">Cardiovascular Subcommittee minutes</a>",
+          "Outcome__c": "Deferred",
+          "Summary__c": "The Subcommittee considered that there was currently insufficient evidence to make a recommendation on this proposal. Instead, the Subcommittee deferred making a recommendation until the publication of TAILOR-PCI and the POPular Genetics trial.",
+          "Formatted_Date__c": "May 2019",
+          "Status_History__c": "a132P000000ArfFQAS"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": "<p><span style=\"font-family: Calibri, sans-serif; font-size: 11pt;\">The decision to amend the Special Authority criteria for Prasugrel and Ticagrelor is on hold until the publication of\u00a0TAILOR-PCI and the POPular Genetics trial.</span></p>",
+          "fs": "<p><span style=\"font-family: Calibri, sans-serif; font-size: 11pt;\">The decision to amend the Special Authority criteria for Prasugrel and Ticagrelor is on hold until the publication of\u00a0TAILOR-PCI and the POPular Genetics trial.</span></p>",
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "May 2019",
+          "fs": "May 2019",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Seeking further information.",
+          "fs": "Seeking further information.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ000002jIVy2AM"
+          },
+          "Id": "a0POZ000002jIVy2AM",
+          "Event_Date__c": "2019-05-09",
+          "Event_Description__c": "Seeking further information.",
+          "Stage__c": "Seeking Clinical Advice",
+          "Summary__c": "<p><span style=\"font-family: Calibri, sans-serif; font-size: 11pt;\">The decision to amend the Special Authority criteria for Prasugrel and Ticagrelor is on hold until the publication of\u00a0TAILOR-PCI and the POPular Genetics trial.</span></p>",
+          "Formatted_Date__c": "May 2019",
+          "Status_History__c": "a132P000000CxZpQAK"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Sep 2017",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Following Clinical Advice, Pharmac staff considers the advice and the funding application under goes an assessment using our&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/factors-for-consideration/\" rel=\"nofollow\">Factors for Consideration</a>&nbsp;framework and seeks additional information as required.</p>\r\n<p>&nbsp;</p>\r\n<p>Research and Economic analysis are undertaken.&nbsp; This focuses on the costs and benefits of a proposed course of action. Economics is based on three fundamental concepts that summarise the issues Pharmac faces daily:&nbsp;</p>\r\n<ul>\r\n<li>Scarcity &ndash; resources will always be insufficient to support all possible activities.</li>\r\n<li>Choices &ndash; due to scarce resources, decisions must be made about how best to use them.</li>\r\n<li>Opportunity cost &ndash; by choosing to use resources one way, we forgo other opportunities to use the same resources.</li>\r\n</ul>\r\n<p>&nbsp;</p>\r\n<p>For further information on the purpose of, and techniques for, undertaking economic analysis in health care, please refer&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/economic-analysis/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/economic-analysis/</a></p>",
+    "position": 2,
+    "name": "Under Assessment",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Jul 2023",
+          "fs": "Jul 2023",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Working to compare options",
+          "fs": "Working to compare options",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ000002jIVz2AM"
+          },
+          "Id": "a0POZ000002jIVz2AM",
+          "Event_Date__c": "2023-07-05",
+          "Event_Description__c": "Working to compare options",
+          "Stage__c": "Under Assessment",
+          "Formatted_Date__c": "Jul 2023",
+          "Status_History__c": "a132P000000F6seQAC"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Jul 2023",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Pharmac staff uses a prioritisation process to compare and rank funding options. Possible opportunities for new investment will always exceed the budget Pharmac has available; therefore, prioritisation is an intrinsic part of Pharmac\u2019s decision-making process.</p>\r\n<p>The relative ranking of options aims to support Pharmac&rsquo;s statutory objective &ldquo;to secure for eligible people in need of pharmaceuticals, the best health outcomes that are reasonably achievable from pharmaceutical treatment and from within the amount of funding provided&rdquo;.</p>\r\n<p>A funding application or proposal is considered ready for prioritisation when sufficient information is available to permit it to be reviewed against Pharmac's Factors for Consideration and to inform a comparison with other possible investment decisions.</p>\r\n<p>There is no guarantee when or if a ranked medicine will be funded.&nbsp;&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/prioritisation/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/prioritisation/</a></p>",
+    "position": 3,
+    "name": "Options Compared",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Jul 2023",
+          "fs": "Jul 2023",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "The relative ranking of the pharmaceutical application has been completed.",
+          "fs": "The relative ranking of the pharmaceutical application has been completed.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ000002jIW02AM"
+          },
+          "Id": "a0POZ000002jIW02AM",
+          "Event_Date__c": "2023-07-06",
+          "Event_Description__c": "The relative ranking of the pharmaceutical application has been completed.",
+          "Stage__c": "Options Compared",
+          "Formatted_Date__c": "Jul 2023",
+          "Status_History__c": "a132P000000FC9cQAG"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Jul 2023",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Pharmac is consulting on a proposal to either approve or decline the application.&nbsp;We seek the views of all people who have an interest in our proposals, or who may be affected by them, to obtain feedback on our proposed approaches.</p>\r\n<p><a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/having-your-say/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/having-your-say/</a></p>",
+    "position": 4,
+    "name": "Under Consultation",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": "<p><span style=\"color: rgb(68, 68, 68);\">We are proposing to decline this application because s</span>ince this application was received we have funded <a href=\"https://schedule.pharmac.govt.nz/2023/08/01/RS1774.pdf\" target=\"_blank\">ticagrelor</a> for the treatment of post - acute coronary syndromes for all patients without the requirement to demonstrate clopidogrel non-response. </p>",
+          "fs": "<p><span style=\"color: rgb(68, 68, 68);\">We are proposing to decline this application because s</span>ince this application was received we have funded <a href=\"https://schedule.pharmac.govt.nz/2023/08/01/RS1774.pdf\" target=\"_blank\">ticagrelor</a> for the treatment of post - acute coronary syndromes for all patients without the requirement to demonstrate clopidogrel non-response. </p>",
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": "<p><a href=\"https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/2023-08-02-proposal-to-decline-inactive-funding-applications\" target=\"_blank\">Consultation Notification</a></p>",
+          "fs": "<p><a href=\"https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/2023-08-02-proposal-to-decline-inactive-funding-applications\" target=\"_blank\">Consultation Notification</a></p>",
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Aug 2023",
+          "fs": "Aug 2023",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Public consultation for this application is active.",
+          "fs": "Public consultation for this application is active.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ000002jIW12AM"
+          },
+          "Id": "a0POZ000002jIW12AM",
+          "Event_Date__c": "2023-08-01",
+          "Event_Description__c": "Public consultation for this application is active.",
+          "Stage__c": "Under Consultation",
+          "Links__c": "<p><a href=\"https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/2023-08-02-proposal-to-decline-inactive-funding-applications\" target=\"_blank\">Consultation Notification</a></p>",
+          "Summary__c": "<p><span style=\"color: rgb(68, 68, 68);\">We are proposing to decline this application because s</span>ince this application was received we have funded <a href=\"https://schedule.pharmac.govt.nz/2023/08/01/RS1774.pdf\" target=\"_blank\">ticagrelor</a> for the treatment of post - acute coronary syndromes for all patients without the requirement to demonstrate clopidogrel non-response. </p>",
+          "Formatted_Date__c": "Aug 2023",
+          "Status_History__c": "a13OZ0000019auvYAA"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Aug 2023",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Following the consultation process, Pharmac staff considers the feedback and identifies any additional information required as part of a gap analysis.&nbsp; The proposal may require further clinical advice, research, and assessment.</p>",
+    "position": 5,
+    "name": "Reviewing Consultation Feedback",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Sep 2023",
+          "fs": "Sep 2023",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Public consultation for this application is now closed. Pharmac is reviewing consultation feedback.",
+          "fs": "Public consultation for this application is now closed. Pharmac is reviewing consultation feedback.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ000002jIW22AM"
+          },
+          "Id": "a0POZ000002jIW22AM",
+          "Event_Date__c": "2023-09-02",
+          "Event_Description__c": "Public consultation for this application is now closed. Pharmac is reviewing consultation feedback.",
+          "Stage__c": "Reviewing Consultation Feedback",
+          "Formatted_Date__c": "Sep 2023",
+          "Status_History__c": "a13OZ000004Dtm2YAC"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Sep 2023",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>We refer to our decisions about whether and how particular pharmaceuticals are publicly-funded, as &ldquo;funding decisions&rdquo;.</p>\r\n<p>We consider and assess all funding decisions using the&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/about/operating-policies-and-procedures/#factorsfc\" rel=\"nofollow\">Factors for Consideration</a>. When we do so, we carefully evaluate clinical and other evidence for the benefits and suitability of a proposal, and to identify and understand the people who will be affected by it.</p>\r\n<p>While our main task is to allocate pharmaceutical funding, we consider the benefits and costs across the whole health system now and with a long-term focus, including the effects for hospitals and primary care, and consider direct costs to patients as well as to all health sector budgets.</p>\r\n<p>Final funding decisions are made by the Pharmac Board or delegated to senior Pharmac staff as required by the Board.</p>\r\n<p>&nbsp;</p>",
+    "position": 6,
+    "name": "Decision",
+    "last": true,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": "<p><a href=\"https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/2023-11-07-decision-to-decline-inactive-applications-for-the-funding-of-some-medicines\" target=\"_blank\">Decision notified</a></p>",
+          "fs": "<p><a href=\"https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/2023-11-07-decision-to-decline-inactive-applications-for-the-funding-of-some-medicines\" target=\"_blank\">Decision notified</a></p>",
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Nov 2023",
+          "fs": "Nov 2023",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "The funding application has been declined.",
+          "fs": "The funding application has been declined.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ000002jIW32AM"
+          },
+          "Id": "a0POZ000002jIW32AM",
+          "Event_Date__c": "2023-11-07",
+          "Event_Description__c": "The funding application has been declined.",
+          "Stage__c": "Decision",
+          "Links__c": "<p><a href=\"https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/2023-11-07-decision-to-decline-inactive-applications-for-the-funding-of-some-medicines\" target=\"_blank\">Decision notified</a></p>",
+          "Formatted_Date__c": "Nov 2023",
+          "Status_History__c": "a13OZ000004Dzt1YAC"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Nov 2023",
+    "collapsed": false,
+    "checked": true
+  }
+]

@@ -1,0 +1,688 @@
+[
+  {
+    "text": "<p>New funding applications are referred to one of Pharmac's Funding Application Advisors (FAAs), who'll review the application to ensure they have the relevant information to undertake a preliminary analysis.&nbsp; They may seek more information if required.</p>\r\n<p><a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/new-funding-applications/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/new-funding-applications/</a></p>",
+    "position": 0,
+    "name": "Application Received",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Sep 2018",
+          "fs": "Sep 2018",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Application received",
+          "fs": "Application received",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ000004A5PA2A0"
+          },
+          "Id": "a0POZ000004A5PA2A0",
+          "Event_Date__c": "2018-09-03",
+          "Event_Description__c": "Application received",
+          "Stage__c": "Application Received",
+          "Formatted_Date__c": "Sep 2018",
+          "Status_History__c": "a132P000000ArWCQA0"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Sep 2018",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Pharmac is identifying and gathering information required to get clinical advice.  The <a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/pharmacology-and-therapeutics-advisory-committee-ptac/\" rel=\"nofollow\">Pharmacology and Therapeutics Advisory Committee (PTAC)</a>  meets quarterly. There are also around 20 expert <a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/specialist-advisory-committees/\" rel=\"nofollow\">Specialist Advisory Committees (SACs)</a>, previously expert Subcommittees, which provide clinical evaluations in specialist areas. Specialist Advisory Committees meet as required to discuss issues referred to them by PTAC or Pharmac.</p>\n<p style=\"height: 20px\">&nbsp;</p>\n<p>In November 2021, we introduced separate terms of reference for the SACs to make clear that these committees have different, but complementary, roles, expertise and perspectives to PTAC.</p>\n<p style=\"height: 15px\">&nbsp;</p>\n<p>PTAC and SACs may make recommendations to Pharmac that differ from each other when looking at the same evidence. Pharmac considers the recommendations provided by all our clinical advisory committees when assessing applications.</p>\n<p style=\"height: 20px\">&nbsp;</p>\n<p><a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/pharmacology-and-therapeutics-advisory-committee-ptac/ptac-terms-of-reference-july-2021/\" rel=\"nofollow\">PTAC</a>  and <a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/specialist-advisory-committees/specialist-advisory-committee-terms-of-reference//\" rel=\"nofollow\">Specialist Advisory Committees</a> records of the meeting will be published on this website in accordance with the Terms of Reference.</p>",
+    "position": 1,
+    "name": "Seeking Clinical Advice",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": "Application received from BioMarin following call for applications for medicines for rare disorders. To be considered at November 2018 Rare Disorders Subcommittee meeting",
+          "fs": "Application received from BioMarin following call for applications for medicines for rare disorders. To be considered at November 2018 Rare Disorders Subcommittee meeting",
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Sep 2018",
+          "fs": "Sep 2018",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Clinical advice required",
+          "fs": "Clinical advice required",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ000004A5PB2A0"
+          },
+          "Id": "a0POZ000004A5PB2A0",
+          "Event_Date__c": "2018-09-25",
+          "Event_Description__c": "Clinical advice required",
+          "Stage__c": "Seeking Clinical Advice",
+          "Summary__c": "Application received from BioMarin following call for applications for medicines for rare disorders. To be considered at November 2018 Rare Disorders Subcommittee meeting",
+          "Formatted_Date__c": "Sep 2018",
+          "Status_History__c": "a132P000000ArXrQAK"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": "The Subcommittee recommended that the application for elosulfase alfa be declined based on uncertainty regarding the long-term benefit of treatment and the high proposed cost of the medicine.",
+          "fs": "The Subcommittee recommended that the application for elosulfase alfa be declined based on uncertainty regarding the long-term benefit of treatment and the high proposed cost of the medicine.",
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": "Decline",
+          "fs": "Decline",
+          "change": null
+        },
+        "Links": {
+          "s": "<a href=\"https://www.pharmac.govt.nz/assets/ptac-rare-disorders-subcommittee-minutes-2018-11.pdf\" target=\"_blank\">Rare Disorders Subcommittee minutes</a>",
+          "fs": "<a href=\"https://www.pharmac.govt.nz/assets/ptac-rare-disorders-subcommittee-minutes-2018-11.pdf\" target=\"_blank\">Rare Disorders Subcommittee minutes</a>",
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Nov 2018",
+          "fs": "Nov 2018",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Clinical advice received from Rare Disorders Subcommittee at meeting Monday 5 November 2018.",
+          "fs": "Clinical advice received from Rare Disorders Subcommittee at meeting Monday 5 November 2018.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ000004A5PC2A0"
+          },
+          "Id": "a0POZ000004A5PC2A0",
+          "Event_Date__c": "2018-11-05",
+          "Event_Description__c": "Clinical advice received from Rare Disorders Subcommittee at meeting Monday 5 November 2018.",
+          "Stage__c": "Seeking Clinical Advice",
+          "Links__c": "<a href=\"https://www.pharmac.govt.nz/assets/ptac-rare-disorders-subcommittee-minutes-2018-11.pdf\" target=\"_blank\">Rare Disorders Subcommittee minutes</a>",
+          "Outcome__c": "Decline",
+          "Summary__c": "The Subcommittee recommended that the application for elosulfase alfa be declined based on uncertainty regarding the long-term benefit of treatment and the high proposed cost of the medicine.",
+          "Formatted_Date__c": "Nov 2018",
+          "Status_History__c": "a132P000000ArZAQA0"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": "The Subcommittee minutes will be considered at the February 2019 PTAC meeting.",
+          "fs": "The Subcommittee minutes will be considered at the February 2019 PTAC meeting.",
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Feb 2019",
+          "fs": "Feb 2019",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Clinical advice required",
+          "fs": "Clinical advice required",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ000004A5PD2A0"
+          },
+          "Id": "a0POZ000004A5PD2A0",
+          "Event_Date__c": "2019-02-21",
+          "Event_Description__c": "Clinical advice required",
+          "Stage__c": "Seeking Clinical Advice",
+          "Summary__c": "The Subcommittee minutes will be considered at the February 2019 PTAC meeting.",
+          "Formatted_Date__c": "Feb 2019",
+          "Status_History__c": "a132P000000ArawQAC"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": "PTAC accepted the recommendation of the Rare Disorders Subcommittee that this funding application be declined.",
+          "fs": "PTAC accepted the recommendation of the Rare Disorders Subcommittee that this funding application be declined.",
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": "No Formal Recommendation",
+          "fs": "No Formal Recommendation",
+          "change": null
+        },
+        "Links": {
+          "s": "<a href=\"https://www.pharmac.govt.nz/assets/ptac-minutes-2019-02.pdf\" target=\"_blank\">PTAC minutes</a>",
+          "fs": "<a href=\"https://www.pharmac.govt.nz/assets/ptac-minutes-2019-02.pdf\" target=\"_blank\">PTAC minutes</a>",
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Feb 2019",
+          "fs": "Feb 2019",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Clinical advice received from Pharmacology and Therapeutics Advisory Committee (PTAC) at meeting Thursday 21 February 2019.",
+          "fs": "Clinical advice received from Pharmacology and Therapeutics Advisory Committee (PTAC) at meeting Thursday 21 February 2019.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ000004A5PE2A0"
+          },
+          "Id": "a0POZ000004A5PE2A0",
+          "Event_Date__c": "2019-02-21",
+          "Event_Description__c": "Clinical advice received from Pharmacology and Therapeutics Advisory Committee (PTAC) at meeting Thursday 21 February 2019.",
+          "Stage__c": "Seeking Clinical Advice",
+          "Links__c": "<a href=\"https://www.pharmac.govt.nz/assets/ptac-minutes-2019-02.pdf\" target=\"_blank\">PTAC minutes</a>",
+          "Outcome__c": "No Formal Recommendation",
+          "Summary__c": "PTAC accepted the recommendation of the Rare Disorders Subcommittee that this funding application be declined.",
+          "Formatted_Date__c": "Feb 2019",
+          "Status_History__c": "a132P000000ArbOQAS"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Feb 2023",
+          "fs": "Feb 2023",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Clinical advice required",
+          "fs": "Clinical advice required",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ000004A5PG2A0"
+          },
+          "Id": "a0POZ000004A5PG2A0",
+          "Event_Date__c": "2023-02-28",
+          "Event_Description__c": "Clinical advice required",
+          "Stage__c": "Seeking Clinical Advice",
+          "Formatted_Date__c": "Feb 2023",
+          "Status_History__c": "a132P000000EDbzQAG"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Feb 2023",
+          "fs": "Feb 2023",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Assigned to Rare Disorders Advisory Committee meeting to provide advice on Tuesday 7 March 2023",
+          "fs": "Assigned to Rare Disorders Advisory Committee meeting to provide advice on Tuesday 7 March 2023",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ000004A5PH2A0"
+          },
+          "Id": "a0POZ000004A5PH2A0",
+          "Event_Date__c": "2023-02-28",
+          "Event_Description__c": "Assigned to Rare Disorders Advisory Committee meeting to provide advice on Tuesday 7 March 2023",
+          "Stage__c": "Seeking Clinical Advice",
+          "Formatted_Date__c": "Feb 2023",
+          "Status_History__c": "a132P000000EDcOQAW"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": "<p>1.1.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Advisory Committee <strong>recommended</strong> that elosulfase alfa for the treatment of MPS IVA be listed with a <strong>medium priority</strong> for individuals aged 2 years and over, within the context of treatments for rare disorders, subject to the following Special Authority Criteria:</p><p class=\"ql-indent-1\"><strong style=\"font-size: 9pt;\">Initial application </strong><span style=\"font-size: 9pt;\">only from a metabolic physician. Approvals valid for 12 months for applications meeting the following criteria.</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 9pt;\">All of the following:</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 9pt;\">1.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Person has a confirmed diagnosis of mucopolysaccharidosis type IVA; and</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 9pt;\">2.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Either:</span></p><p class=\"ql-indent-2\"><span style=\"font-size: 9pt;\">2.1.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Person is aged between 2 and 6 years; or</span></p><p class=\"ql-indent-2\"><span style=\"font-size: 9pt;\">2.2.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0</span><span style=\"font-size: 9pt;\">If the person is over 6 years of age, they must have a lung capacity Forced Vital Capacity of \u22650.3 litres; and</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 9pt;\">3.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Person must not have another life threatening or severe disease where the prognosis is unlikely to be influenced by enzyme replacement therapy (ERT) or might be reasonably expected to compromise a response to ERT; and</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 9pt;\">4.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Elosulfase alfa to be administered at a dose of 2 mg/kg weekly.</span></p><p class=\"ql-indent-1\"><strong style=\"font-size: 9pt;\">\u00a0</strong></p><p class=\"ql-indent-1\"><strong style=\"font-size: 9pt;\">Renewal </strong><span style=\"font-size: 9pt;\">only from a metabolic physician. Approvals valid for 12 months for applications meeting the following criteria:</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 9pt;\">All of the following:</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 9pt;\">1.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">The treatment remains appropriate, and the person is benefitting from treatment; and</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 9pt;\">2.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Person has not developed another life threatening or severe disease where the long term prognosis is unlikely to be influenced by ERT; and</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 9pt;\">3.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Person has not developed another medical condition that might reasonably be expected to compromise a response to ERT.</span></p><p class=\"ql-indent-1\"><br></p><p>1.2.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>In making these recommendations the Committee considered that:</p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>Children aged &lt;2 years have higher capacity to receive long term treatment benefit</p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>Trial data published since November 2018 has reported sustained improvement in lung function and activities of daily living in individuals with MPS IVA treated with elosulfase alfa when functional decline would be expected without treatment.</p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>Individuals with MPS IVA, and their families and wh\u0101nau, have severe unmet health need, and elosulfase alfa is the only treatment currently available for this indication;\u00a0</p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>Impacts on health services and costs are high, in the absence of funded effective disease treatments, where the current management of patients with MPS IVA is focused on addressing the symptoms of the disease.</p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>International guidelines recommend treatment with elosulfase alfa, and there here is no other specific therapy for treating this condition.\u00a0\u00a0</p>",
+          "fs": "<p>1.1.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Advisory Committee <strong>recommended</strong> that elosulfase alfa for the treatment of MPS IVA be listed with a <strong>medium priority</strong> for individuals aged 2 years and over, within the context of treatments for rare disorders, subject to the following Special Authority Criteria:</p><p class=\"ql-indent-1\"><strong style=\"font-size: 9pt;\">Initial application </strong><span style=\"font-size: 9pt;\">only from a metabolic physician. Approvals valid for 12 months for applications meeting the following criteria.</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 9pt;\">All of the following:</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 9pt;\">1.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Person has a confirmed diagnosis of mucopolysaccharidosis type IVA; and</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 9pt;\">2.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Either:</span></p><p class=\"ql-indent-2\"><span style=\"font-size: 9pt;\">2.1.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Person is aged between 2 and 6 years; or</span></p><p class=\"ql-indent-2\"><span style=\"font-size: 9pt;\">2.2.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0</span><span style=\"font-size: 9pt;\">If the person is over 6 years of age, they must have a lung capacity Forced Vital Capacity of \u22650.3 litres; and</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 9pt;\">3.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Person must not have another life threatening or severe disease where the prognosis is unlikely to be influenced by enzyme replacement therapy (ERT) or might be reasonably expected to compromise a response to ERT; and</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 9pt;\">4.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Elosulfase alfa to be administered at a dose of 2 mg/kg weekly.</span></p><p class=\"ql-indent-1\"><strong style=\"font-size: 9pt;\">\u00a0</strong></p><p class=\"ql-indent-1\"><strong style=\"font-size: 9pt;\">Renewal </strong><span style=\"font-size: 9pt;\">only from a metabolic physician. Approvals valid for 12 months for applications meeting the following criteria:</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 9pt;\">All of the following:</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 9pt;\">1.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">The treatment remains appropriate, and the person is benefitting from treatment; and</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 9pt;\">2.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Person has not developed another life threatening or severe disease where the long term prognosis is unlikely to be influenced by ERT; and</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 9pt;\">3.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Person has not developed another medical condition that might reasonably be expected to compromise a response to ERT.</span></p><p class=\"ql-indent-1\"><br></p><p>1.2.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>In making these recommendations the Committee considered that:</p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>Children aged &lt;2 years have higher capacity to receive long term treatment benefit</p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>Trial data published since November 2018 has reported sustained improvement in lung function and activities of daily living in individuals with MPS IVA treated with elosulfase alfa when functional decline would be expected without treatment.</p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>Individuals with MPS IVA, and their families and wh\u0101nau, have severe unmet health need, and elosulfase alfa is the only treatment currently available for this indication;\u00a0</p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>Impacts on health services and costs are high, in the absence of funded effective disease treatments, where the current management of patients with MPS IVA is focused on addressing the symptoms of the disease.</p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>International guidelines recommend treatment with elosulfase alfa, and there here is no other specific therapy for treating this condition.\u00a0\u00a0</p>",
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": "<h3><em style=\"font-size: 14px;\">M\u0101ori impact</em></h3><p>1.1.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee discussed the impact of funding elosulfase alfa for the treatment of MPS IVA on M\u0101ori health areas of focus and M\u0101ori health outcomes. The Committee noted that MPS IVA is not identified as one of the M\u0101ori health areas of focus for Pharmac, and considered there is no evidence that MPS IVA disproportionately affects any population groups experiencing health inequities in New Zealand.</p><h3><em style=\"font-size: 14px;\">Background</em></h3><p>1.2.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that the Rare Disorders Subcommittee (RDAC) (previously known as the Subcommittee, and now the Rare Disorders Advisory Committee) reviewed this application in <a href=\"https://pharmac.govt.nz/assets/ptac-rare-disorders-subcommittee-minutes-2018-11.pdf\" target=\"_blank\">November 2018</a> and recommended that the application be declined based on uncertainty regarding the long-term benefit of treatment and the high proposed cost of the medicine. The Committee also noted that in <a href=\"https://pharmac.govt.nz/assets/ptac-minutes-2019-02.pdf\" target=\"_blank\">February 2019</a>, PTAC accepted the recommendation of the Rare Disorders Subcommittee that the funding application be declined.</p><p>1.3.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that the key evidence reviewed in November 2018 included the following clinical trials:</p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><strong>BMN110-502 </strong><a href=\"https://www.scielo.br/j/jiems/a/qk78sx4VkdkdWkGLTRMtrtQ/?lang=en\" target=\"_blank\">(Bhattacharya et al. J. Inborn Errors Metab. Screen. 2020(8):1-9)<strong>:</strong></a> A phase III, open-label, single arm, multicentre trial in Australian participants. All participants given 2mg/kg elosulfase alfa weekly.</p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><strong>MOR-004</strong> (<a href=\"https://reader.elsevier.com/reader/sd/pii/S1096719214002777?token=9FDD3EB11127957A551EC6F3B7C1B70A3C90DC98E0441741D422A1EFCF80F8B0CE70A314A5436B6F6F315A579F582A07&amp;originRegion=us-east-1&amp;originCreation=20230123204055\" target=\"_blank\">Hendriksz et al. Molecular Genetics and Metabolism. 2015;114:178-185</a>): A phase III, randomised, double-blind, placebo-controlled multinational trial. Participants randomised 1:1:1 to receive elosulfase alfa 2mg/kg/week, elosulfase alfa 2mg/kg/every other week, or placebo.</p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><strong>MOR-005</strong> (<a href=\"https://onlinelibrary.wiley.com/doi/epdf/10.1007/s10545-016-9973-6\" target=\"_blank\">Hendriksz et al. Journal of Inherited Metabolic Disease. 2016;39:839-847):</a> A phase III, open-label trial, which is still ongoing (an extension of MOR-004) where participants initially randomised to either elosulfase alfa regimen in MOR-004 remained on their regimen and placebo participants were re-randomised to one of the two regimens</p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><strong>MOR-007</strong> (<a href=\"https://www.nature.com/articles/pr2015169#citeas\" target=\"_blank\">Jones et al. Pediatric Research. 2015;78:717-722</a>): A phase II, open-label, single arm, multinational trial. Participants aged &lt;5 years received elosulfase alfa 2.0\u2009mg/kg/week.</p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><strong>MOR-008</strong> (<a href=\"https://onlinelibrary.wiley.com/doi/10.1002/ajmg.a.37172\" target=\"_blank\">Burton et al. American Journal of Medical Genetics. 2015;167A:2272-2281</a>): Preliminary results from a randomised, double-blind, pilot study. Participants randomised to elosulfase alfa 2mg/kg/week or 4mg/kg/week.</p><p>1.4.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>At the <a href=\"https://pharmac.govt.nz/assets/ptac-rare-disorders-subcommittee-minutes-2018-11.pdf\" target=\"_blank\">November 2018 meeting,</a> the then Subcommittee had considered that the evidence for elosulfase alfa for MPS IVA was of low to moderate strength and quality and considered it unclear whether the results observed in the clinical trials translated to meaningful long-term clinical improvements. The Subcommittee considered that at the time there was significant uncertainty regarding whether elosulfase alfa would provide substantial long-term benefit in all patients with MPS IVA, due to the heterogeneity of the disease and variable age at treatment onset.</p><h3><em style=\"font-size: 14px;\">Health need</em></h3><p>1.5.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that MPS IVA, also known as Morquio A syndrome, is a rare, severe, and debilitating inherited disorder caused by mutations of the gene that codes for the lysosomal enzyme N-acetylgalactosamine-6-sulfatase (GALNS), which is an enzyme that degrades glycosaminoglycans (GAGs) including keratan sulfate (KS) and chondroitin-6-sulfate (C6S). The Committee noted that with insufficient GALNS, GAGs and other secondary storage compounds progressively accumulate in multiple body organs and tissues.</p><p>1.6.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that there is a wide spectrum of disease severity associated with MPS IVA. The Committee noted that the severe clinical manifestations of MPS IVA may lead to premature death (with a mean age of death reported to be 25.3 +/- 17.4 years (<a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4270860/\" target=\"_blank\">Lavery et al, JIMD Rep. 2015;15:59-66</a>). The Committee considered that these early deaths commonly occur from cardio-respiratory complications (obstructive and restrictive lung disease) and central nervous system complications relating to cervical spinal cord compression.</p><p>1.7.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that there are currently 5 diagnosed cases of MPS IVA in New Zealand. The Committee considered it was possible, but unlikely, that there were more <span style=\"font-size: 9pt;\">prevalent </span>cases, as<span style=\"font-size: 9pt;\"> </span>individuals with MPS IVA are unlikely to remain undiagnosed due to the severity of their symptoms. The Committee considered that MPS IVA does not disproportionately affect any specific ethnic group.</p><p>1.8.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that the severe morbidity associated with MPS IVA relates to profound skeletal dysplasia, which commonly results in short stature (most are less than 1 metre tall), abnormalities of the spine, chest and limbs, and cardio-respiratory compromise. The Committee noted that the skeletal dysplasia, short stature, and joint abnormalities as well as impaired respiratory function contribute to patients\u2019 restricted mobility.</p><p>1.9.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that current management of patients with MPS IVA is focused on addressing the symptoms of the disease, often including orthopaedic operations and analgesic medication for musculoskeletal symptoms and complications. Vaccination and aggressive treatments against respiratory infections are recommended, and respiratory surgeries including tonsillectomy are frequently required. (<a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4309407/\" target=\"_blank\">Hendriksz et al. Am J Med Genet A. 2015;167:11-25</a>.</p><p>1.10.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Committee considered that there may be a health need for other people as a result for caring for patients with MPS IVA. The Committee considered that the severe health needs of individuals with MPS IVA are likely to have a high emotional and psychological impact on their families and there a likely associated considerable strain on caregivers. The Committee noted one study that explored quality of life for carers of people with MPS that concluded caregivers may face strains (such as attending medical appointments with individuals with MPS IVA, and assisting with daily tasks such as toileting, dressing, or travelling to school or work) which affect their health and well-being (<a href=\"https://journals.sagepub.com/doi/epub/10.1177/2326409815613804\" target=\"_blank\">Guarany et al. J Inborn Errors Metab Screen. 2015;3).</a></p><p>1.11.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Committee noted that learning ability and cognitive intelligence of individuals with MPS IVA is not impacted by their condition. The Committee considered that ensuring that these individuals receive adequate education and have the opportunity to take part in meaningful work and other daily activities can be difficult due to MPS IVA-associated barriers.</p><p>1.12.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Subcommittee considered that the funding application for elosulfase alfa met Pharmac\u2019s principles for rare disorders <a href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/medicines-for-rare-disorders/\" target=\"_blank\">(Pharmac-applied definition of a rare disorder).</a></p><p>1.13.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Committee considered that MPS IVA does not disproportionately affect any population groups affected by health inequities in New Zealand. The Committee noted that MPS is not identified as one of the <a href=\"https://pharmac.govt.nz/te-tiriti-o-waitangi/hauora-arotahi-maori-health-areas-of-focus/\" target=\"_blank\">M\u0101ori health areas of focus for Pharmac</a>.</p><h3><em style=\"font-size: 14px;\">Health benefit</em></h3><p>1.14.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Committee noted that Vimizim is a formulation of elosulfase alfa, which is a purified human enzyme produced by recombinant DNA technology. The Committee noted that elosulfase alfa is intended to provide the exogenous enzyme N-acetylgalactosamine-6-sulfatase that will be taken up into the lysosomes and increase the catabolism of the GAGs, KS and C6S. The Committee noted that cell uptake of elosulfase alfa into lysosomes is through cation independent mannose-6-phosphate receptor mediated internalisation leading to restored GALNS activity and clearance of KS.</p><p>1.15.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Committee noted that Vimizim is approved by Medsafe for the treatment of MPS IVA; Morquio A syndrome in children and adults of all ages. The Committee noted that the recommended dosage of elosulfase alfa is 2 mg/kg of body weight administered via intravenous infusion once a week, and that the total volume of the infusion should be delivered over no less than 4 hours.</p><p>1.16.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Committee considered that treatment should start as early as possible after diagnosis, ideally before the appearance of non-reversible clinical manifestations of the disease. The Committee noted that MPS IVA is a chronic condition, and considered that treatment with elosulfase alfa would continue for an indefinite length of time.\u00a0</p><p>1.17.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Committee considered that enzyme replacement therapy for MPS IVA has been used internationally for several years. The Committee noted data from the multicentre, multinational, observational Morquio A Registry Study (MARS)which provides 6-year treatment data for elosulfase alfa for MPS IVA (<a href=\"https://pubmed.ncbi.nlm.nih.gov/36087504/\" target=\"_blank\">Mitchell et al. Mol Genet Metab. 2022;137(1-2):164-</a>72). The Committee noted the MARS data included 323 patients across 65 clinical sites in 17 countries. The Committee noted the mean age at treatment initiation was 14 years, and that the mean length of treatment exposure was 5.5 years.</p><p>1.18.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Committee noted that the MARS study reported that the mean change from baseline for the six-minute walk test (6MWT) was -6.1 metres (95% CI: \u221227.6, 15.5) over 5.5 years. The Committee considered this a slower decline than what would be expected in an untreated cohort. The Committee considered the effect size less precise with confidence intervals that were wide, but considered there was an indication that people may walk more and could improve their cardiovascular fitness, which may improve their ability to compete daily activities such as getting the bus to school.</p><p>1.19.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Committee noted the MARS registry study results for effect of elosulfase alfa on respiratory function as the mean forced expiratory volume in 1 second (FEV1) changing 0.2L from baseline (95% CI: 0.1, 0.2) and the mean forced vial capacity (FVC) changing 0.3L from baseline (95% CI: 0.2, 0.3) across a mean treatment duration 5.7 years <a href=\"https://pubmed.ncbi.nlm.nih.gov/36087504/\" target=\"_blank\">(Mitchell et al. Mol Genet Metab. 2022;137(1-2):164-72)</a>. The Committee noted that elosulfase alfa appeared to improve both obstructive and restrictive respiratory function. The Committee considered that there may represent an effect on the soft tissues of the ribs and on the airways and lung tissue.</p><p>1.20.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Committee also noted a review by <a href=\"https://pubmed.ncbi.nlm.nih.gov/35046639/\" target=\"_blank\">Lee et al. (Drug Des Devel Ther. 2022;1:143-54</a>), which included expert commentary on the use of elosulfase alfa for MPS IVA. The Committee noted reported associations between low enzyme activity and disease being severe, and between starting treatment a young age (preferably under the age of two years) and individuals with MPS IVA growing taller than would be expected in untreated individuals. The Committee considered this may be early evidence supporting starting treatment with elosulfase alfa early may lead to individuals with MPS growing taller. The Committee considered that benefits associated with growing taller include improved thoracic growth and ability to exercise (due to improved respiratory function) and participation in the community. The Committee noted that more mild phenotypes are often diagnosed later. Members reiterated that the ideal time to treat is as soon as possible after diagnosis.</p><p>1.21.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Committee also considered the following further studies or study final reports, not considered previously by the Committee, also related to the treatment of MPS IVA with elosulfase alpha:</p><p class=\"ql-indent-1\"><span style=\"color: windowtext; font-family: Symbol;\">\u00b7</span><span style=\"color: windowtext; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><strong>MOR-002 </strong>(<a href=\"https://www.sciencedirect.com/science/article/pii/S1096719218300684?via%3Dihub\" target=\"_blank\">Hendriksz et al. Molecular Genetics and Metabolism. 2018;</a>123:479-487): An open label, single arm phase I/II dose-escalation study. Elosulfase alfa was given at increasing doses over three consecutive 12-week intervals, at doses of 0.1mg/kg, 1mg/kg and 2mg/kg weekly, then 1mg/kg weekly.</p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><strong>MOR-100</strong> (<a href=\"https://pubmed.ncbi.nlm.nih.gov/24810369/\" target=\"_blank\">Hendriksz et al. Journal of Inherted Metabolic Disorders. 2014;37:979-90</a>): A Phase 3, double-blind, randomised placebo-controlled study. Participants were randomised to elosulfase alfa 2mg/kg fortnightly, elosulfase alfa 2mg/kg weekly, or placebo.</p><p class=\"ql-indent-1\"><span style=\"color: windowtext; font-family: Symbol;\">\u00b7</span><span style=\"color: windowtext; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><strong>MOR-006</strong> (<a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5298029/pdf/AJMG-173-375.pdf\" target=\"_blank\">Harmatz et al. American Journal of Medical Genetics. 2017;173:375-383</a>): A Phase 2, open-label study. Participants were treated with elosulfase alfa 2mg/kg weekly.</p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><strong>MOR-008</strong> (<a href=\"https://journals.sagepub.com/doi/pdf/10.1177/2326409817718850\" target=\"_blank\">Treadwell et al. Journal of Inborn Errors of Metabolism. 2017;5:1-5</a>; <a href=\"https://link.springer.com/chapter/10.1007%2F8904_2017_70\" target=\"_blank\">Berger et al. Journal of Medical Informatics and Decision Making. 2017;42:9-17</a>): Final results of the MOR-008 randomised, double-blind, pilot study, whose early results were considered by the Subcommittee in 2018. Participants received treatment with elosulfase alfa at 2mg/kg/week or 4mg/kg/week.</p><p>1.22.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Committee considered that the additional data/information provides evidence of longer-term benefit that was not available when they previously reviewed the application.</p><h3><em style=\"font-size: 14px;\">Suitability</em></h3><p>1.23.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Committee considered that if the infusion was able to be given at home once the individual is stable on therapy, caregivers and individuals with MPS IVA would not be required to attend weekly 4-hour hospital infusion appointments. The Committee considered that weekly four-hour long infusions in a hospital inpatient or other clinical setting may be an additional stressor for some individuals being treated and for those caring for them.</p><h3><em style=\"font-size: 14px;\">Cost and savings</em></h3><p>1.24.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Committee noted that the application to Pharmac estimated the median weight of patients to be 22kg at age 21.4 years. The Committee noted that the MARS registry data reported median weight to be 30kg. The Committee recommended that the calculations for cost be varied to account for these weight differences.</p><p>1.25.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Committee considered that if treatment is initiated before two years of age, and there is consequent treatment-induced growth of the spine, the need for orthopaedic surgery may be reduced.</p><h3><em style=\"font-size: 14px;\">Summary for assessment</em></h3><p>1.26.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The <span style=\"color: black;\">Advisory Committee considered that the below summarises its interpretation of the most appropriate PICO (population, intervention, comparator, outcomes) information for elosulfase alfa if it were to be funded in New Zealand for MPS IVA. This PICO captures key clinical aspects of the proposal and may be used to frame any future economic assessment by Pharmac staff. This PICO is based on the Advisory Committee\u2019s assessment at this time and may differ from that requested by the applicant. The PICO may change based on new information, additional clinical advice, or further analysis by Pharmac staff.</span></p><p><span style=\"color: black;\">\ufeff</span></p><p><img src=\"/apptracker/servlet/rtaImage?eid=a0POZ000004A5PI&amp;feoid=00N2P000000YsIc&amp;refid=0EMOZ0000005OeP\" alt=\"image.png\"></img></p>",
+          "fs": "<h3><em style=\"font-size: 14px;\">M\u0101ori impact</em></h3><p>1.1.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee discussed the impact of funding elosulfase alfa for the treatment of MPS IVA on M\u0101ori health areas of focus and M\u0101ori health outcomes. The Committee noted that MPS IVA is not identified as one of the M\u0101ori health areas of focus for Pharmac, and considered there is no evidence that MPS IVA disproportionately affects any population groups experiencing health inequities in New Zealand.</p><h3><em style=\"font-size: 14px;\">Background</em></h3><p>1.2.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that the Rare Disorders Subcommittee (RDAC) (previously known as the Subcommittee, and now the Rare Disorders Advisory Committee) reviewed this application in <a href=\"https://pharmac.govt.nz/assets/ptac-rare-disorders-subcommittee-minutes-2018-11.pdf\" target=\"_blank\">November 2018</a> and recommended that the application be declined based on uncertainty regarding the long-term benefit of treatment and the high proposed cost of the medicine. The Committee also noted that in <a href=\"https://pharmac.govt.nz/assets/ptac-minutes-2019-02.pdf\" target=\"_blank\">February 2019</a>, PTAC accepted the recommendation of the Rare Disorders Subcommittee that the funding application be declined.</p><p>1.3.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that the key evidence reviewed in November 2018 included the following clinical trials:</p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><strong>BMN110-502 </strong><a href=\"https://www.scielo.br/j/jiems/a/qk78sx4VkdkdWkGLTRMtrtQ/?lang=en\" target=\"_blank\">(Bhattacharya et al. J. Inborn Errors Metab. Screen. 2020(8):1-9)<strong>:</strong></a> A phase III, open-label, single arm, multicentre trial in Australian participants. All participants given 2mg/kg elosulfase alfa weekly.</p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><strong>MOR-004</strong> (<a href=\"https://reader.elsevier.com/reader/sd/pii/S1096719214002777?token=9FDD3EB11127957A551EC6F3B7C1B70A3C90DC98E0441741D422A1EFCF80F8B0CE70A314A5436B6F6F315A579F582A07&amp;originRegion=us-east-1&amp;originCreation=20230123204055\" target=\"_blank\">Hendriksz et al. Molecular Genetics and Metabolism. 2015;114:178-185</a>): A phase III, randomised, double-blind, placebo-controlled multinational trial. Participants randomised 1:1:1 to receive elosulfase alfa 2mg/kg/week, elosulfase alfa 2mg/kg/every other week, or placebo.</p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><strong>MOR-005</strong> (<a href=\"https://onlinelibrary.wiley.com/doi/epdf/10.1007/s10545-016-9973-6\" target=\"_blank\">Hendriksz et al. Journal of Inherited Metabolic Disease. 2016;39:839-847):</a> A phase III, open-label trial, which is still ongoing (an extension of MOR-004) where participants initially randomised to either elosulfase alfa regimen in MOR-004 remained on their regimen and placebo participants were re-randomised to one of the two regimens</p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><strong>MOR-007</strong> (<a href=\"https://www.nature.com/articles/pr2015169#citeas\" target=\"_blank\">Jones et al. Pediatric Research. 2015;78:717-722</a>): A phase II, open-label, single arm, multinational trial. Participants aged &lt;5 years received elosulfase alfa 2.0\u2009mg/kg/week.</p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><strong>MOR-008</strong> (<a href=\"https://onlinelibrary.wiley.com/doi/10.1002/ajmg.a.37172\" target=\"_blank\">Burton et al. American Journal of Medical Genetics. 2015;167A:2272-2281</a>): Preliminary results from a randomised, double-blind, pilot study. Participants randomised to elosulfase alfa 2mg/kg/week or 4mg/kg/week.</p><p>1.4.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>At the <a href=\"https://pharmac.govt.nz/assets/ptac-rare-disorders-subcommittee-minutes-2018-11.pdf\" target=\"_blank\">November 2018 meeting,</a> the then Subcommittee had considered that the evidence for elosulfase alfa for MPS IVA was of low to moderate strength and quality and considered it unclear whether the results observed in the clinical trials translated to meaningful long-term clinical improvements. The Subcommittee considered that at the time there was significant uncertainty regarding whether elosulfase alfa would provide substantial long-term benefit in all patients with MPS IVA, due to the heterogeneity of the disease and variable age at treatment onset.</p><h3><em style=\"font-size: 14px;\">Health need</em></h3><p>1.5.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that MPS IVA, also known as Morquio A syndrome, is a rare, severe, and debilitating inherited disorder caused by mutations of the gene that codes for the lysosomal enzyme N-acetylgalactosamine-6-sulfatase (GALNS), which is an enzyme that degrades glycosaminoglycans (GAGs) including keratan sulfate (KS) and chondroitin-6-sulfate (C6S). The Committee noted that with insufficient GALNS, GAGs and other secondary storage compounds progressively accumulate in multiple body organs and tissues.</p><p>1.6.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that there is a wide spectrum of disease severity associated with MPS IVA. The Committee noted that the severe clinical manifestations of MPS IVA may lead to premature death (with a mean age of death reported to be 25.3 +/- 17.4 years (<a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4270860/\" target=\"_blank\">Lavery et al, JIMD Rep. 2015;15:59-66</a>). The Committee considered that these early deaths commonly occur from cardio-respiratory complications (obstructive and restrictive lung disease) and central nervous system complications relating to cervical spinal cord compression.</p><p>1.7.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that there are currently 5 diagnosed cases of MPS IVA in New Zealand. The Committee considered it was possible, but unlikely, that there were more <span style=\"font-size: 9pt;\">prevalent </span>cases, as<span style=\"font-size: 9pt;\"> </span>individuals with MPS IVA are unlikely to remain undiagnosed due to the severity of their symptoms. The Committee considered that MPS IVA does not disproportionately affect any specific ethnic group.</p><p>1.8.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that the severe morbidity associated with MPS IVA relates to profound skeletal dysplasia, which commonly results in short stature (most are less than 1 metre tall), abnormalities of the spine, chest and limbs, and cardio-respiratory compromise. The Committee noted that the skeletal dysplasia, short stature, and joint abnormalities as well as impaired respiratory function contribute to patients\u2019 restricted mobility.</p><p>1.9.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that current management of patients with MPS IVA is focused on addressing the symptoms of the disease, often including orthopaedic operations and analgesic medication for musculoskeletal symptoms and complications. Vaccination and aggressive treatments against respiratory infections are recommended, and respiratory surgeries including tonsillectomy are frequently required. (<a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4309407/\" target=\"_blank\">Hendriksz et al. Am J Med Genet A. 2015;167:11-25</a>.</p><p>1.10.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Committee considered that there may be a health need for other people as a result for caring for patients with MPS IVA. The Committee considered that the severe health needs of individuals with MPS IVA are likely to have a high emotional and psychological impact on their families and there a likely associated considerable strain on caregivers. The Committee noted one study that explored quality of life for carers of people with MPS that concluded caregivers may face strains (such as attending medical appointments with individuals with MPS IVA, and assisting with daily tasks such as toileting, dressing, or travelling to school or work) which affect their health and well-being (<a href=\"https://journals.sagepub.com/doi/epub/10.1177/2326409815613804\" target=\"_blank\">Guarany et al. J Inborn Errors Metab Screen. 2015;3).</a></p><p>1.11.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Committee noted that learning ability and cognitive intelligence of individuals with MPS IVA is not impacted by their condition. The Committee considered that ensuring that these individuals receive adequate education and have the opportunity to take part in meaningful work and other daily activities can be difficult due to MPS IVA-associated barriers.</p><p>1.12.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Subcommittee considered that the funding application for elosulfase alfa met Pharmac\u2019s principles for rare disorders <a href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/medicines-for-rare-disorders/\" target=\"_blank\">(Pharmac-applied definition of a rare disorder).</a></p><p>1.13.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Committee considered that MPS IVA does not disproportionately affect any population groups affected by health inequities in New Zealand. The Committee noted that MPS is not identified as one of the <a href=\"https://pharmac.govt.nz/te-tiriti-o-waitangi/hauora-arotahi-maori-health-areas-of-focus/\" target=\"_blank\">M\u0101ori health areas of focus for Pharmac</a>.</p><h3><em style=\"font-size: 14px;\">Health benefit</em></h3><p>1.14.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Committee noted that Vimizim is a formulation of elosulfase alfa, which is a purified human enzyme produced by recombinant DNA technology. The Committee noted that elosulfase alfa is intended to provide the exogenous enzyme N-acetylgalactosamine-6-sulfatase that will be taken up into the lysosomes and increase the catabolism of the GAGs, KS and C6S. The Committee noted that cell uptake of elosulfase alfa into lysosomes is through cation independent mannose-6-phosphate receptor mediated internalisation leading to restored GALNS activity and clearance of KS.</p><p>1.15.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Committee noted that Vimizim is approved by Medsafe for the treatment of MPS IVA; Morquio A syndrome in children and adults of all ages. The Committee noted that the recommended dosage of elosulfase alfa is 2 mg/kg of body weight administered via intravenous infusion once a week, and that the total volume of the infusion should be delivered over no less than 4 hours.</p><p>1.16.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Committee considered that treatment should start as early as possible after diagnosis, ideally before the appearance of non-reversible clinical manifestations of the disease. The Committee noted that MPS IVA is a chronic condition, and considered that treatment with elosulfase alfa would continue for an indefinite length of time.\u00a0</p><p>1.17.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Committee considered that enzyme replacement therapy for MPS IVA has been used internationally for several years. The Committee noted data from the multicentre, multinational, observational Morquio A Registry Study (MARS)which provides 6-year treatment data for elosulfase alfa for MPS IVA (<a href=\"https://pubmed.ncbi.nlm.nih.gov/36087504/\" target=\"_blank\">Mitchell et al. Mol Genet Metab. 2022;137(1-2):164-</a>72). The Committee noted the MARS data included 323 patients across 65 clinical sites in 17 countries. The Committee noted the mean age at treatment initiation was 14 years, and that the mean length of treatment exposure was 5.5 years.</p><p>1.18.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Committee noted that the MARS study reported that the mean change from baseline for the six-minute walk test (6MWT) was -6.1 metres (95% CI: \u221227.6, 15.5) over 5.5 years. The Committee considered this a slower decline than what would be expected in an untreated cohort. The Committee considered the effect size less precise with confidence intervals that were wide, but considered there was an indication that people may walk more and could improve their cardiovascular fitness, which may improve their ability to compete daily activities such as getting the bus to school.</p><p>1.19.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Committee noted the MARS registry study results for effect of elosulfase alfa on respiratory function as the mean forced expiratory volume in 1 second (FEV1) changing 0.2L from baseline (95% CI: 0.1, 0.2) and the mean forced vial capacity (FVC) changing 0.3L from baseline (95% CI: 0.2, 0.3) across a mean treatment duration 5.7 years <a href=\"https://pubmed.ncbi.nlm.nih.gov/36087504/\" target=\"_blank\">(Mitchell et al. Mol Genet Metab. 2022;137(1-2):164-72)</a>. The Committee noted that elosulfase alfa appeared to improve both obstructive and restrictive respiratory function. The Committee considered that there may represent an effect on the soft tissues of the ribs and on the airways and lung tissue.</p><p>1.20.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Committee also noted a review by <a href=\"https://pubmed.ncbi.nlm.nih.gov/35046639/\" target=\"_blank\">Lee et al. (Drug Des Devel Ther. 2022;1:143-54</a>), which included expert commentary on the use of elosulfase alfa for MPS IVA. The Committee noted reported associations between low enzyme activity and disease being severe, and between starting treatment a young age (preferably under the age of two years) and individuals with MPS IVA growing taller than would be expected in untreated individuals. The Committee considered this may be early evidence supporting starting treatment with elosulfase alfa early may lead to individuals with MPS growing taller. The Committee considered that benefits associated with growing taller include improved thoracic growth and ability to exercise (due to improved respiratory function) and participation in the community. The Committee noted that more mild phenotypes are often diagnosed later. Members reiterated that the ideal time to treat is as soon as possible after diagnosis.</p><p>1.21.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Committee also considered the following further studies or study final reports, not considered previously by the Committee, also related to the treatment of MPS IVA with elosulfase alpha:</p><p class=\"ql-indent-1\"><span style=\"color: windowtext; font-family: Symbol;\">\u00b7</span><span style=\"color: windowtext; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><strong>MOR-002 </strong>(<a href=\"https://www.sciencedirect.com/science/article/pii/S1096719218300684?via%3Dihub\" target=\"_blank\">Hendriksz et al. Molecular Genetics and Metabolism. 2018;</a>123:479-487): An open label, single arm phase I/II dose-escalation study. Elosulfase alfa was given at increasing doses over three consecutive 12-week intervals, at doses of 0.1mg/kg, 1mg/kg and 2mg/kg weekly, then 1mg/kg weekly.</p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><strong>MOR-100</strong> (<a href=\"https://pubmed.ncbi.nlm.nih.gov/24810369/\" target=\"_blank\">Hendriksz et al. Journal of Inherted Metabolic Disorders. 2014;37:979-90</a>): A Phase 3, double-blind, randomised placebo-controlled study. Participants were randomised to elosulfase alfa 2mg/kg fortnightly, elosulfase alfa 2mg/kg weekly, or placebo.</p><p class=\"ql-indent-1\"><span style=\"color: windowtext; font-family: Symbol;\">\u00b7</span><span style=\"color: windowtext; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><strong>MOR-006</strong> (<a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5298029/pdf/AJMG-173-375.pdf\" target=\"_blank\">Harmatz et al. American Journal of Medical Genetics. 2017;173:375-383</a>): A Phase 2, open-label study. Participants were treated with elosulfase alfa 2mg/kg weekly.</p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><strong>MOR-008</strong> (<a href=\"https://journals.sagepub.com/doi/pdf/10.1177/2326409817718850\" target=\"_blank\">Treadwell et al. Journal of Inborn Errors of Metabolism. 2017;5:1-5</a>; <a href=\"https://link.springer.com/chapter/10.1007%2F8904_2017_70\" target=\"_blank\">Berger et al. Journal of Medical Informatics and Decision Making. 2017;42:9-17</a>): Final results of the MOR-008 randomised, double-blind, pilot study, whose early results were considered by the Subcommittee in 2018. Participants received treatment with elosulfase alfa at 2mg/kg/week or 4mg/kg/week.</p><p>1.22.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Committee considered that the additional data/information provides evidence of longer-term benefit that was not available when they previously reviewed the application.</p><h3><em style=\"font-size: 14px;\">Suitability</em></h3><p>1.23.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Committee considered that if the infusion was able to be given at home once the individual is stable on therapy, caregivers and individuals with MPS IVA would not be required to attend weekly 4-hour hospital infusion appointments. The Committee considered that weekly four-hour long infusions in a hospital inpatient or other clinical setting may be an additional stressor for some individuals being treated and for those caring for them.</p><h3><em style=\"font-size: 14px;\">Cost and savings</em></h3><p>1.24.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Committee noted that the application to Pharmac estimated the median weight of patients to be 22kg at age 21.4 years. The Committee noted that the MARS registry data reported median weight to be 30kg. The Committee recommended that the calculations for cost be varied to account for these weight differences.</p><p>1.25.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Committee considered that if treatment is initiated before two years of age, and there is consequent treatment-induced growth of the spine, the need for orthopaedic surgery may be reduced.</p><h3><em style=\"font-size: 14px;\">Summary for assessment</em></h3><p>1.26.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The <span style=\"color: black;\">Advisory Committee considered that the below summarises its interpretation of the most appropriate PICO (population, intervention, comparator, outcomes) information for elosulfase alfa if it were to be funded in New Zealand for MPS IVA. This PICO captures key clinical aspects of the proposal and may be used to frame any future economic assessment by Pharmac staff. This PICO is based on the Advisory Committee\u2019s assessment at this time and may differ from that requested by the applicant. The PICO may change based on new information, additional clinical advice, or further analysis by Pharmac staff.</span></p><p><span style=\"color: black;\">\ufeff</span></p><p><img src=\"/apptracker/servlet/rtaImage?eid=a0POZ000004A5PI&amp;feoid=00N2P000000YsIc&amp;refid=0EMOZ0000005OeP\" alt=\"image.png\"></img></p>",
+          "change": null
+        },
+        "Published_Application": {
+          "s": "<p>1.1.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Advisory Committee reviewed the application for elosulfase alfa in the treatment of Mucopolysaccharidosis Type IVA (MPS IVA).</p><p>1.2.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Advisory Committee took into account, where applicable, Pharmac\u2019s relevant decision-making framework when considering this agenda item.\u00a0</p>",
+          "fs": "<p>1.1.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Advisory Committee reviewed the application for elosulfase alfa in the treatment of Mucopolysaccharidosis Type IVA (MPS IVA).</p><p>1.2.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Advisory Committee took into account, where applicable, Pharmac\u2019s relevant decision-making framework when considering this agenda item.\u00a0</p>",
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": "Medium",
+          "fs": "Medium",
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Aug 2023",
+          "fs": "Aug 2023",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Clinical advice received from Rare Disorders Advisory Committee at meeting Tuesday 7 March 2023.",
+          "fs": "Clinical advice received from Rare Disorders Advisory Committee at meeting Tuesday 7 March 2023.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ000004A5PI2A0"
+          },
+          "Id": "a0POZ000004A5PI2A0",
+          "Event_Date__c": "2023-08-11",
+          "Event_Description__c": "Clinical advice received from Rare Disorders Advisory Committee at meeting Tuesday 7 March 2023.",
+          "Stage__c": "Seeking Clinical Advice",
+          "Outcome__c": "Medium",
+          "Formatted_Date__c": "Aug 2023",
+          "Published_Recommendation__c": "<p>1.1.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Advisory Committee <strong>recommended</strong> that elosulfase alfa for the treatment of MPS IVA be listed with a <strong>medium priority</strong> for individuals aged 2 years and over, within the context of treatments for rare disorders, subject to the following Special Authority Criteria:</p><p class=\"ql-indent-1\"><strong style=\"font-size: 9pt;\">Initial application </strong><span style=\"font-size: 9pt;\">only from a metabolic physician. Approvals valid for 12 months for applications meeting the following criteria.</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 9pt;\">All of the following:</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 9pt;\">1.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Person has a confirmed diagnosis of mucopolysaccharidosis type IVA; and</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 9pt;\">2.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Either:</span></p><p class=\"ql-indent-2\"><span style=\"font-size: 9pt;\">2.1.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Person is aged between 2 and 6 years; or</span></p><p class=\"ql-indent-2\"><span style=\"font-size: 9pt;\">2.2.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0</span><span style=\"font-size: 9pt;\">If the person is over 6 years of age, they must have a lung capacity Forced Vital Capacity of \u22650.3 litres; and</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 9pt;\">3.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Person must not have another life threatening or severe disease where the prognosis is unlikely to be influenced by enzyme replacement therapy (ERT) or might be reasonably expected to compromise a response to ERT; and</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 9pt;\">4.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Elosulfase alfa to be administered at a dose of 2 mg/kg weekly.</span></p><p class=\"ql-indent-1\"><strong style=\"font-size: 9pt;\">\u00a0</strong></p><p class=\"ql-indent-1\"><strong style=\"font-size: 9pt;\">Renewal </strong><span style=\"font-size: 9pt;\">only from a metabolic physician. Approvals valid for 12 months for applications meeting the following criteria:</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 9pt;\">All of the following:</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 9pt;\">1.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">The treatment remains appropriate, and the person is benefitting from treatment; and</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 9pt;\">2.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Person has not developed another life threatening or severe disease where the long term prognosis is unlikely to be influenced by ERT; and</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 9pt;\">3.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Person has not developed another medical condition that might reasonably be expected to compromise a response to ERT.</span></p><p class=\"ql-indent-1\"><br></p><p>1.2.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>In making these recommendations the Committee considered that:</p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>Children aged &lt;2 years have higher capacity to receive long term treatment benefit</p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>Trial data published since November 2018 has reported sustained improvement in lung function and activities of daily living in individuals with MPS IVA treated with elosulfase alfa when functional decline would be expected without treatment.</p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>Individuals with MPS IVA, and their families and wh\u0101nau, have severe unmet health need, and elosulfase alfa is the only treatment currently available for this indication;\u00a0</p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>Impacts on health services and costs are high, in the absence of funded effective disease treatments, where the current management of patients with MPS IVA is focused on addressing the symptoms of the disease.</p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>International guidelines recommend treatment with elosulfase alfa, and there here is no other specific therapy for treating this condition.\u00a0\u00a0</p>",
+          "Published_Application__c": "<p>1.1.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Advisory Committee reviewed the application for elosulfase alfa in the treatment of Mucopolysaccharidosis Type IVA (MPS IVA).</p><p>1.2.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Advisory Committee took into account, where applicable, Pharmac\u2019s relevant decision-making framework when considering this agenda item.\u00a0</p>",
+          "Published_Discussion__c": "<h3><em style=\"font-size: 14px;\">M\u0101ori impact</em></h3><p>1.1.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee discussed the impact of funding elosulfase alfa for the treatment of MPS IVA on M\u0101ori health areas of focus and M\u0101ori health outcomes. The Committee noted that MPS IVA is not identified as one of the M\u0101ori health areas of focus for Pharmac, and considered there is no evidence that MPS IVA disproportionately affects any population groups experiencing health inequities in New Zealand.</p><h3><em style=\"font-size: 14px;\">Background</em></h3><p>1.2.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that the Rare Disorders Subcommittee (RDAC) (previously known as the Subcommittee, and now the Rare Disorders Advisory Committee) reviewed this application in <a href=\"https://pharmac.govt.nz/assets/ptac-rare-disorders-subcommittee-minutes-2018-11.pdf\" target=\"_blank\">November 2018</a> and recommended that the application be declined based on uncertainty regarding the long-term benefit of treatment and the high proposed cost of the medicine. The Committee also noted that in <a href=\"https://pharmac.govt.nz/assets/ptac-minutes-2019-02.pdf\" target=\"_blank\">February 2019</a>, PTAC accepted the recommendation of the Rare Disorders Subcommittee that the funding application be declined.</p><p>1.3.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that the key evidence reviewed in November 2018 included the following clinical trials:</p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><strong>BMN110-502 </strong><a href=\"https://www.scielo.br/j/jiems/a/qk78sx4VkdkdWkGLTRMtrtQ/?lang=en\" target=\"_blank\">(Bhattacharya et al. J. Inborn Errors Metab. Screen. 2020(8):1-9)<strong>:</strong></a> A phase III, open-label, single arm, multicentre trial in Australian participants. All participants given 2mg/kg elosulfase alfa weekly.</p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><strong>MOR-004</strong> (<a href=\"https://reader.elsevier.com/reader/sd/pii/S1096719214002777?token=9FDD3EB11127957A551EC6F3B7C1B70A3C90DC98E0441741D422A1EFCF80F8B0CE70A314A5436B6F6F315A579F582A07&amp;originRegion=us-east-1&amp;originCreation=20230123204055\" target=\"_blank\">Hendriksz et al. Molecular Genetics and Metabolism. 2015;114:178-185</a>): A phase III, randomised, double-blind, placebo-controlled multinational trial. Participants randomised 1:1:1 to receive elosulfase alfa 2mg/kg/week, elosulfase alfa 2mg/kg/every other week, or placebo.</p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><strong>MOR-005</strong> (<a href=\"https://onlinelibrary.wiley.com/doi/epdf/10.1007/s10545-016-9973-6\" target=\"_blank\">Hendriksz et al. Journal of Inherited Metabolic Disease. 2016;39:839-847):</a> A phase III, open-label trial, which is still ongoing (an extension of MOR-004) where participants initially randomised to either elosulfase alfa regimen in MOR-004 remained on their regimen and placebo participants were re-randomised to one of the two regimens</p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><strong>MOR-007</strong> (<a href=\"https://www.nature.com/articles/pr2015169#citeas\" target=\"_blank\">Jones et al. Pediatric Research. 2015;78:717-722</a>): A phase II, open-label, single arm, multinational trial. Participants aged &lt;5 years received elosulfase alfa 2.0\u2009mg/kg/week.</p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><strong>MOR-008</strong> (<a href=\"https://onlinelibrary.wiley.com/doi/10.1002/ajmg.a.37172\" target=\"_blank\">Burton et al. American Journal of Medical Genetics. 2015;167A:2272-2281</a>): Preliminary results from a randomised, double-blind, pilot study. Participants randomised to elosulfase alfa 2mg/kg/week or 4mg/kg/week.</p><p>1.4.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>At the <a href=\"https://pharmac.govt.nz/assets/ptac-rare-disorders-subcommittee-minutes-2018-11.pdf\" target=\"_blank\">November 2018 meeting,</a> the then Subcommittee had considered that the evidence for elosulfase alfa for MPS IVA was of low to moderate strength and quality and considered it unclear whether the results observed in the clinical trials translated to meaningful long-term clinical improvements. The Subcommittee considered that at the time there was significant uncertainty regarding whether elosulfase alfa would provide substantial long-term benefit in all patients with MPS IVA, due to the heterogeneity of the disease and variable age at treatment onset.</p><h3><em style=\"font-size: 14px;\">Health need</em></h3><p>1.5.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that MPS IVA, also known as Morquio A syndrome, is a rare, severe, and debilitating inherited disorder caused by mutations of the gene that codes for the lysosomal enzyme N-acetylgalactosamine-6-sulfatase (GALNS), which is an enzyme that degrades glycosaminoglycans (GAGs) including keratan sulfate (KS) and chondroitin-6-sulfate (C6S). The Committee noted that with insufficient GALNS, GAGs and other secondary storage compounds progressively accumulate in multiple body organs and tissues.</p><p>1.6.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that there is a wide spectrum of disease severity associated with MPS IVA. The Committee noted that the severe clinical manifestations of MPS IVA may lead to premature death (with a mean age of death reported to be 25.3 +/- 17.4 years (<a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4270860/\" target=\"_blank\">Lavery et al, JIMD Rep. 2015;15:59-66</a>). The Committee considered that these early deaths commonly occur from cardio-respiratory complications (obstructive and restrictive lung disease) and central nervous system complications relating to cervical spinal cord compression.</p><p>1.7.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that there are currently 5 diagnosed cases of MPS IVA in New Zealand. The Committee considered it was possible, but unlikely, that there were more <span style=\"font-size: 9pt;\">prevalent </span>cases, as<span style=\"font-size: 9pt;\"> </span>individuals with MPS IVA are unlikely to remain undiagnosed due to the severity of their symptoms. The Committee considered that MPS IVA does not disproportionately affect any specific ethnic group.</p><p>1.8.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that the severe morbidity associated with MPS IVA relates to profound skeletal dysplasia, which commonly results in short stature (most are less than 1 metre tall), abnormalities of the spine, chest and limbs, and cardio-respiratory compromise. The Committee noted that the skeletal dysplasia, short stature, and joint abnormalities as well as impaired respiratory function contribute to patients\u2019 restricted mobility.</p><p>1.9.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that current management of patients with MPS IVA is focused on addressing the symptoms of the disease, often including orthopaedic operations and analgesic medication for musculoskeletal symptoms and complications. Vaccination and aggressive treatments against respiratory infections are recommended, and respiratory surgeries including tonsillectomy are frequently required. (<a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4309407/\" target=\"_blank\">Hendriksz et al. Am J Med Genet A. 2015;167:11-25</a>.</p><p>1.10.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Committee considered that there may be a health need for other people as a result for caring for patients with MPS IVA. The Committee considered that the severe health needs of individuals with MPS IVA are likely to have a high emotional and psychological impact on their families and there a likely associated considerable strain on caregivers. The Committee noted one study that explored quality of life for carers of people with MPS that concluded caregivers may face strains (such as attending medical appointments with individuals with MPS IVA, and assisting with daily tasks such as toileting, dressing, or travelling to school or work) which affect their health and well-being (<a href=\"https://journals.sagepub.com/doi/epub/10.1177/2326409815613804\" target=\"_blank\">Guarany et al. J Inborn Errors Metab Screen. 2015;3).</a></p><p>1.11.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Committee noted that learning ability and cognitive intelligence of individuals with MPS IVA is not impacted by their condition. The Committee considered that ensuring that these individuals receive adequate education and have the opportunity to take part in meaningful work and other daily activities can be difficult due to MPS IVA-associated barriers.</p><p>1.12.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Subcommittee considered that the funding application for elosulfase alfa met Pharmac\u2019s principles for rare disorders <a href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/medicines-for-rare-disorders/\" target=\"_blank\">(Pharmac-applied definition of a rare disorder).</a></p><p>1.13.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Committee considered that MPS IVA does not disproportionately affect any population groups affected by health inequities in New Zealand. The Committee noted that MPS is not identified as one of the <a href=\"https://pharmac.govt.nz/te-tiriti-o-waitangi/hauora-arotahi-maori-health-areas-of-focus/\" target=\"_blank\">M\u0101ori health areas of focus for Pharmac</a>.</p><h3><em style=\"font-size: 14px;\">Health benefit</em></h3><p>1.14.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Committee noted that Vimizim is a formulation of elosulfase alfa, which is a purified human enzyme produced by recombinant DNA technology. The Committee noted that elosulfase alfa is intended to provide the exogenous enzyme N-acetylgalactosamine-6-sulfatase that will be taken up into the lysosomes and increase the catabolism of the GAGs, KS and C6S. The Committee noted that cell uptake of elosulfase alfa into lysosomes is through cation independent mannose-6-phosphate receptor mediated internalisation leading to restored GALNS activity and clearance of KS.</p><p>1.15.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Committee noted that Vimizim is approved by Medsafe for the treatment of MPS IVA; Morquio A syndrome in children and adults of all ages. The Committee noted that the recommended dosage of elosulfase alfa is 2 mg/kg of body weight administered via intravenous infusion once a week, and that the total volume of the infusion should be delivered over no less than 4 hours.</p><p>1.16.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Committee considered that treatment should start as early as possible after diagnosis, ideally before the appearance of non-reversible clinical manifestations of the disease. The Committee noted that MPS IVA is a chronic condition, and considered that treatment with elosulfase alfa would continue for an indefinite length of time.\u00a0</p><p>1.17.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Committee considered that enzyme replacement therapy for MPS IVA has been used internationally for several years. The Committee noted data from the multicentre, multinational, observational Morquio A Registry Study (MARS)which provides 6-year treatment data for elosulfase alfa for MPS IVA (<a href=\"https://pubmed.ncbi.nlm.nih.gov/36087504/\" target=\"_blank\">Mitchell et al. Mol Genet Metab. 2022;137(1-2):164-</a>72). The Committee noted the MARS data included 323 patients across 65 clinical sites in 17 countries. The Committee noted the mean age at treatment initiation was 14 years, and that the mean length of treatment exposure was 5.5 years.</p><p>1.18.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Committee noted that the MARS study reported that the mean change from baseline for the six-minute walk test (6MWT) was -6.1 metres (95% CI: \u221227.6, 15.5) over 5.5 years. The Committee considered this a slower decline than what would be expected in an untreated cohort. The Committee considered the effect size less precise with confidence intervals that were wide, but considered there was an indication that people may walk more and could improve their cardiovascular fitness, which may improve their ability to compete daily activities such as getting the bus to school.</p><p>1.19.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Committee noted the MARS registry study results for effect of elosulfase alfa on respiratory function as the mean forced expiratory volume in 1 second (FEV1) changing 0.2L from baseline (95% CI: 0.1, 0.2) and the mean forced vial capacity (FVC) changing 0.3L from baseline (95% CI: 0.2, 0.3) across a mean treatment duration 5.7 years <a href=\"https://pubmed.ncbi.nlm.nih.gov/36087504/\" target=\"_blank\">(Mitchell et al. Mol Genet Metab. 2022;137(1-2):164-72)</a>. The Committee noted that elosulfase alfa appeared to improve both obstructive and restrictive respiratory function. The Committee considered that there may represent an effect on the soft tissues of the ribs and on the airways and lung tissue.</p><p>1.20.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Committee also noted a review by <a href=\"https://pubmed.ncbi.nlm.nih.gov/35046639/\" target=\"_blank\">Lee et al. (Drug Des Devel Ther. 2022;1:143-54</a>), which included expert commentary on the use of elosulfase alfa for MPS IVA. The Committee noted reported associations between low enzyme activity and disease being severe, and between starting treatment a young age (preferably under the age of two years) and individuals with MPS IVA growing taller than would be expected in untreated individuals. The Committee considered this may be early evidence supporting starting treatment with elosulfase alfa early may lead to individuals with MPS growing taller. The Committee considered that benefits associated with growing taller include improved thoracic growth and ability to exercise (due to improved respiratory function) and participation in the community. The Committee noted that more mild phenotypes are often diagnosed later. Members reiterated that the ideal time to treat is as soon as possible after diagnosis.</p><p>1.21.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Committee also considered the following further studies or study final reports, not considered previously by the Committee, also related to the treatment of MPS IVA with elosulfase alpha:</p><p class=\"ql-indent-1\"><span style=\"color: windowtext; font-family: Symbol;\">\u00b7</span><span style=\"color: windowtext; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><strong>MOR-002 </strong>(<a href=\"https://www.sciencedirect.com/science/article/pii/S1096719218300684?via%3Dihub\" target=\"_blank\">Hendriksz et al. Molecular Genetics and Metabolism. 2018;</a>123:479-487): An open label, single arm phase I/II dose-escalation study. Elosulfase alfa was given at increasing doses over three consecutive 12-week intervals, at doses of 0.1mg/kg, 1mg/kg and 2mg/kg weekly, then 1mg/kg weekly.</p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><strong>MOR-100</strong> (<a href=\"https://pubmed.ncbi.nlm.nih.gov/24810369/\" target=\"_blank\">Hendriksz et al. Journal of Inherted Metabolic Disorders. 2014;37:979-90</a>): A Phase 3, double-blind, randomised placebo-controlled study. Participants were randomised to elosulfase alfa 2mg/kg fortnightly, elosulfase alfa 2mg/kg weekly, or placebo.</p><p class=\"ql-indent-1\"><span style=\"color: windowtext; font-family: Symbol;\">\u00b7</span><span style=\"color: windowtext; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><strong>MOR-006</strong> (<a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5298029/pdf/AJMG-173-375.pdf\" target=\"_blank\">Harmatz et al. American Journal of Medical Genetics. 2017;173:375-383</a>): A Phase 2, open-label study. Participants were treated with elosulfase alfa 2mg/kg weekly.</p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><strong>MOR-008</strong> (<a href=\"https://journals.sagepub.com/doi/pdf/10.1177/2326409817718850\" target=\"_blank\">Treadwell et al. Journal of Inborn Errors of Metabolism. 2017;5:1-5</a>; <a href=\"https://link.springer.com/chapter/10.1007%2F8904_2017_70\" target=\"_blank\">Berger et al. Journal of Medical Informatics and Decision Making. 2017;42:9-17</a>): Final results of the MOR-008 randomised, double-blind, pilot study, whose early results were considered by the Subcommittee in 2018. Participants received treatment with elosulfase alfa at 2mg/kg/week or 4mg/kg/week.</p><p>1.22.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Committee considered that the additional data/information provides evidence of longer-term benefit that was not available when they previously reviewed the application.</p><h3><em style=\"font-size: 14px;\">Suitability</em></h3><p>1.23.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Committee considered that if the infusion was able to be given at home once the individual is stable on therapy, caregivers and individuals with MPS IVA would not be required to attend weekly 4-hour hospital infusion appointments. The Committee considered that weekly four-hour long infusions in a hospital inpatient or other clinical setting may be an additional stressor for some individuals being treated and for those caring for them.</p><h3><em style=\"font-size: 14px;\">Cost and savings</em></h3><p>1.24.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Committee noted that the application to Pharmac estimated the median weight of patients to be 22kg at age 21.4 years. The Committee noted that the MARS registry data reported median weight to be 30kg. The Committee recommended that the calculations for cost be varied to account for these weight differences.</p><p>1.25.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Committee considered that if treatment is initiated before two years of age, and there is consequent treatment-induced growth of the spine, the need for orthopaedic surgery may be reduced.</p><h3><em style=\"font-size: 14px;\">Summary for assessment</em></h3><p>1.26.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The <span style=\"color: black;\">Advisory Committee considered that the below summarises its interpretation of the most appropriate PICO (population, intervention, comparator, outcomes) information for elosulfase alfa if it were to be funded in New Zealand for MPS IVA. This PICO captures key clinical aspects of the proposal and may be used to frame any future economic assessment by Pharmac staff. This PICO is based on the Advisory Committee\u2019s assessment at this time and may differ from that requested by the applicant. The PICO may change based on new information, additional clinical advice, or further analysis by Pharmac staff.</span></p><p><span style=\"color: black;\">\ufeff</span></p><p><img src=\"/apptracker/servlet/rtaImage?eid=a0POZ000004A5PI&amp;feoid=00N2P000000YsIc&amp;refid=0EMOZ0000005OeP\" alt=\"image.png\"></img></p>",
+          "Status_History__c": "a13OZ000001LdU6YAK"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Sep 2018",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Following Clinical Advice, Pharmac staff considers the advice and the funding application under goes an assessment using our&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/factors-for-consideration/\" rel=\"nofollow\">Factors for Consideration</a>&nbsp;framework and seeks additional information as required.</p>\r\n<p>&nbsp;</p>\r\n<p>Research and Economic analysis are undertaken.&nbsp; This focuses on the costs and benefits of a proposed course of action. Economics is based on three fundamental concepts that summarise the issues Pharmac faces daily:&nbsp;</p>\r\n<ul>\r\n<li>Scarcity &ndash; resources will always be insufficient to support all possible activities.</li>\r\n<li>Choices &ndash; due to scarce resources, decisions must be made about how best to use them.</li>\r\n<li>Opportunity cost &ndash; by choosing to use resources one way, we forgo other opportunities to use the same resources.</li>\r\n</ul>\r\n<p>&nbsp;</p>\r\n<p>For further information on the purpose of, and techniques for, undertaking economic analysis in health care, please refer&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/economic-analysis/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/economic-analysis/</a></p>",
+    "position": 2,
+    "name": "Under Assessment",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Jan 2024",
+          "fs": "Jan 2024",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Working to compare options",
+          "fs": "Working to compare options",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ000004A5PJ2A0"
+          },
+          "Id": "a0POZ000004A5PJ2A0",
+          "Event_Date__c": "2024-01-17",
+          "Event_Description__c": "Working to compare options",
+          "Stage__c": "Under Assessment",
+          "Formatted_Date__c": "Jan 2024",
+          "Status_History__c": "a13OZ000005jdX2YAI"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Jan 2024",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Pharmac staff uses a prioritisation process to compare and rank funding options. Possible opportunities for new investment will always exceed the budget Pharmac has available; therefore, prioritisation is an intrinsic part of Pharmac\u2019s decision-making process.</p>\r\n<p>The relative ranking of options aims to support Pharmac&rsquo;s statutory objective &ldquo;to secure for eligible people in need of pharmaceuticals, the best health outcomes that are reasonably achievable from pharmaceutical treatment and from within the amount of funding provided&rdquo;.</p>\r\n<p>A funding application or proposal is considered ready for prioritisation when sufficient information is available to permit it to be reviewed against Pharmac's Factors for Consideration and to inform a comparison with other possible investment decisions.</p>\r\n<p>There is no guarantee when or if a ranked medicine will be funded.&nbsp;&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/prioritisation/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/prioritisation/</a></p>",
+    "position": 3,
+    "name": "Options Compared",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Apr 2019",
+          "fs": "Apr 2019",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "The relative ranking of the pharmaceutical application has been completed.",
+          "fs": "The relative ranking of the pharmaceutical application has been completed.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ000004A5PF2A0"
+          },
+          "Id": "a0POZ000004A5PF2A0",
+          "Event_Date__c": "2019-04-16",
+          "Event_Description__c": "The relative ranking of the pharmaceutical application has been completed.",
+          "Stage__c": "Options Compared",
+          "Formatted_Date__c": "Apr 2019",
+          "Status_History__c": "a132P000000AreHQAS"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Apr 2019",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Pharmac is consulting on a proposal to either approve or decline the application.&nbsp;We seek the views of all people who have an interest in our proposals, or who may be affected by them, to obtain feedback on our proposed approaches.</p>\r\n<p><a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/having-your-say/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/having-your-say/</a></p>",
+    "position": 4,
+    "name": "Under Consultation",
+    "last": false,
+    "events": null,
+    "dateString": null,
+    "collapsed": false,
+    "checked": false
+  },
+  {
+    "text": "<p>Following the consultation process, Pharmac staff considers the feedback and identifies any additional information required as part of a gap analysis.&nbsp; The proposal may require further clinical advice, research, and assessment.</p>",
+    "position": 5,
+    "name": "Reviewing Consultation Feedback",
+    "last": false,
+    "events": null,
+    "dateString": null,
+    "collapsed": false,
+    "checked": false
+  },
+  {
+    "text": "<p>We refer to our decisions about whether and how particular pharmaceuticals are publicly-funded, as &ldquo;funding decisions&rdquo;.</p>\r\n<p>We consider and assess all funding decisions using the&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/about/operating-policies-and-procedures/#factorsfc\" rel=\"nofollow\">Factors for Consideration</a>. When we do so, we carefully evaluate clinical and other evidence for the benefits and suitability of a proposal, and to identify and understand the people who will be affected by it.</p>\r\n<p>While our main task is to allocate pharmaceutical funding, we consider the benefits and costs across the whole health system now and with a long-term focus, including the effects for hospitals and primary care, and consider direct costs to patients as well as to all health sector budgets.</p>\r\n<p>Final funding decisions are made by the Pharmac Board or delegated to senior Pharmac staff as required by the Board.</p>\r\n<p>&nbsp;</p>",
+    "position": 6,
+    "name": "Decision",
+    "last": true,
+    "events": null,
+    "dateString": null,
+    "collapsed": false,
+    "checked": false
+  }
+]

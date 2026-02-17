@@ -1,0 +1,625 @@
+[
+  {
+    "text": "<p>New funding applications are referred to one of Pharmac's Funding Application Advisors (FAAs), who'll review the application to ensure they have the relevant information to undertake a preliminary analysis.&nbsp; They may seek more information if required.</p>\r\n<p><a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/new-funding-applications/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/new-funding-applications/</a></p>",
+    "position": 0,
+    "name": "Application Received",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "May 2020",
+          "fs": "May 2020",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Application received",
+          "fs": "Application received",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P0000066jUEUAY"
+          },
+          "Id": "a0P2P0000066jUEUAY",
+          "Event_Date__c": "2020-05-12",
+          "Event_Description__c": "Application received",
+          "Stage__c": "Application Received",
+          "Formatted_Date__c": "May 2020",
+          "Status_History__c": "a132P000000BmdHQAS"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "May 2020",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Pharmac is identifying and gathering information required to get clinical advice.  The <a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/pharmacology-and-therapeutics-advisory-committee-ptac/\" rel=\"nofollow\">Pharmacology and Therapeutics Advisory Committee (PTAC)</a>  meets quarterly. There are also around 20 expert <a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/specialist-advisory-committees/\" rel=\"nofollow\">Specialist Advisory Committees (SACs)</a>, previously expert Subcommittees, which provide clinical evaluations in specialist areas. Specialist Advisory Committees meet as required to discuss issues referred to them by PTAC or Pharmac.</p>\n<p style=\"height: 20px\">&nbsp;</p>\n<p>In November 2021, we introduced separate terms of reference for the SACs to make clear that these committees have different, but complementary, roles, expertise and perspectives to PTAC.</p>\n<p style=\"height: 15px\">&nbsp;</p>\n<p>PTAC and SACs may make recommendations to Pharmac that differ from each other when looking at the same evidence. Pharmac considers the recommendations provided by all our clinical advisory committees when assessing applications.</p>\n<p style=\"height: 20px\">&nbsp;</p>\n<p><a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/pharmacology-and-therapeutics-advisory-committee-ptac/ptac-terms-of-reference-july-2021/\" rel=\"nofollow\">PTAC</a>  and <a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/specialist-advisory-committees/specialist-advisory-committee-terms-of-reference//\" rel=\"nofollow\">Specialist Advisory Committees</a> records of the meeting will be published on this website in accordance with the Terms of Reference.</p>",
+    "position": 1,
+    "name": "Seeking Clinical Advice",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "May 2020",
+          "fs": "May 2020",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Clinical advice required",
+          "fs": "Clinical advice required",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P0000066jUFUAY"
+          },
+          "Id": "a0P2P0000066jUFUAY",
+          "Event_Date__c": "2020-05-22",
+          "Event_Description__c": "Clinical advice required",
+          "Stage__c": "Seeking Clinical Advice",
+          "Formatted_Date__c": "May 2020",
+          "Status_History__c": "a132P000000BmdRQAS"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Aug 2020",
+          "fs": "Aug 2020",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Clinical advice required",
+          "fs": "Clinical advice required",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P0000066jUGUAY"
+          },
+          "Id": "a0P2P0000066jUGUAY",
+          "Event_Date__c": "2020-08-18",
+          "Event_Description__c": "Clinical advice required",
+          "Stage__c": "Seeking Clinical Advice",
+          "Formatted_Date__c": "Aug 2020",
+          "Status_History__c": "a132P000000C3CDQA0"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": "<p>The Committee recommended that access to zoledronic acid be widened for the prevention of bone loss following spinal cord injury with a high priority subject to the following Special Authority criteria:</p><p><span style=\"font-size: 9pt;\">Initial application \u2014 (spinal cord injury) from any relevant practitioner. Approvals valid for 12 months for applications meeting the following criteria:</span></p><p><span style=\"font-size: 9pt;\">All of the following:</span></p><p><span style=\"font-size: 9pt;\">1.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Patient has experienced an acute traumatic spinal cord injury in the last six months; and </span></p><p><span style=\"font-size: 9pt;\">2.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Patient is being managed in a specialist spinal acute care and rehabilitation unit; and </span></p><p><span style=\"font-size: 9pt;\">3.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Patient is contraindicated to, or has trialled and is unable to tolerate, oral bisphosphonate therapy; and\u00a0</span></p><p><span style=\"font-size: 9pt;\">4.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">The patient will not be prescribed more than 5 mg of zoledronic acid in a 12-month period.</span></p><p><br></p><p><span style=\"font-size: 9pt;\">Renewal \u2013 (prevention of bone loss following spinal cord injury) from any relevant practitioner. </span></p><p><span style=\"font-size: 9pt;\">1.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">The patient remains unable to tolerate oral bisphosphonate therapy; and</span></p><p><span style=\"font-size: 9pt;\">2.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">The patient will not be prescribed more than 5 mg of zoledronic acid in a 12-month period.</span></p><p><span style=\"font-size: 9pt;\">3.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">The patient has not received two or more doses of zoledronic acid for this indication</span></p><p><br></p><p><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0</span><span style=\"font-size: 11pt;\">In making this recommendation, the Committee considered the high health need of patients who experience bone loss following spinal cord injury (SCI), noting the increased risk of bone fracture, the evidence supporting a reduction in loss of bone mineral density (BMD) following treatment with zoledronic acid, higher prevalence of SCIs in M\u0101ori and Pasifika, and the suitability of zoledronic acid treatment compared to current oral treatments. </span></p>",
+          "fs": "<p>The Committee recommended that access to zoledronic acid be widened for the prevention of bone loss following spinal cord injury with a high priority subject to the following Special Authority criteria:</p><p><span style=\"font-size: 9pt;\">Initial application \u2014 (spinal cord injury) from any relevant practitioner. Approvals valid for 12 months for applications meeting the following criteria:</span></p><p><span style=\"font-size: 9pt;\">All of the following:</span></p><p><span style=\"font-size: 9pt;\">1.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Patient has experienced an acute traumatic spinal cord injury in the last six months; and </span></p><p><span style=\"font-size: 9pt;\">2.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Patient is being managed in a specialist spinal acute care and rehabilitation unit; and </span></p><p><span style=\"font-size: 9pt;\">3.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Patient is contraindicated to, or has trialled and is unable to tolerate, oral bisphosphonate therapy; and\u00a0</span></p><p><span style=\"font-size: 9pt;\">4.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">The patient will not be prescribed more than 5 mg of zoledronic acid in a 12-month period.</span></p><p><br></p><p><span style=\"font-size: 9pt;\">Renewal \u2013 (prevention of bone loss following spinal cord injury) from any relevant practitioner. </span></p><p><span style=\"font-size: 9pt;\">1.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">The patient remains unable to tolerate oral bisphosphonate therapy; and</span></p><p><span style=\"font-size: 9pt;\">2.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">The patient will not be prescribed more than 5 mg of zoledronic acid in a 12-month period.</span></p><p><span style=\"font-size: 9pt;\">3.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">The patient has not received two or more doses of zoledronic acid for this indication</span></p><p><br></p><p><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0</span><span style=\"font-size: 11pt;\">In making this recommendation, the Committee considered the high health need of patients who experience bone loss following spinal cord injury (SCI), noting the increased risk of bone fracture, the evidence supporting a reduction in loss of bone mineral density (BMD) following treatment with zoledronic acid, higher prevalence of SCIs in M\u0101ori and Pasifika, and the suitability of zoledronic acid treatment compared to current oral treatments. </span></p>",
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": "<p>The Committee noted the Clinician application for the use of zoledronic acid in the treatment of bone loss for patients following SCI, noting SCI to be devastating with the possibility of lifetime disability. The Committee noted that SCI is associated with a rapid and profound loss of BMD of approximately 1% per week for 6-12 months post-injury, compared to other osteoporotic states. The Committee considered that the rate of reduction in BMD generally plateaus 24 months following injury.</p><p><br></p><p>The Committee noted that low BMD levels are a contributor to the incidence of low trauma fractures in osteoporotic states. The Committee noted the associated complications and difficulties in treating fractures in individuals with a SCI such as altered fracture healing, delayed union, malunion and non-union, pressure sores, infection, and osteomyelitis, which may result in prolonged immobilisation and hospitalisation that may negatively impact quality of life (<a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1949032/\" target=\"_blank\">Giangregorio et al. J Spinal Cord Med. 2006;29:489-500</a>).</p><p><br></p><p>The Committee considered that the aetiology of BMD loss following SCI is unclear, however many factors may have an impact including; loss of neuronal stimuli, catabolic state, altered anabolic milieu, and early high dose steroid treatment in the SCI treatment algorithm. The Committee noted that trabecular bone is generally affected more than cortical bone, and that femur and tibia (sub-lesional) sites often experience the most profound reductions in BMD.</p><p><br></p><p>The Committee noted that M\u0101ori and Pacific have higher age-adjusted incidence rates for spinal cord injuries compared with NZ European (<a href=\"https://injuryprevention.bmj.com/content/injuryprev/18/5/343.full.pdf\" target=\"_blank\">Derrett et al. Inj Prevent. 2012;18:343-6</a>).</p><p><br></p><p>The Committee noted a retrospective cohort analysis 8,150 veterans with chronic multiple sclerosis (MS, n=1,789) or traumatic SCI (n=6,361), which reported a mean per-person fracture rate of 3.1 per 100 patient-years (<a href=\"https://pubmed.ncbi.nlm.nih.gov/18226646/\" target=\"_blank\">Logan et al. Arch Phys Med Rehabil 2008:89: 237-43</a>). The Committee also noted a higher risk of fracture in those with some motor impairment (RR=2.33, p&lt;0.001). The Committee considered that this analysis had limitations due to the inclusion of patients with MS.</p><p><br></p><p>The Committee noted a retrospective 10-year follow-up study of 63 patients with recent SCI, which reported fractures were observed 6.4 \u00b1 2.4 years after SCI (<a href=\"https://pubmed.ncbi.nlm.nih.gov/24096543/\" target=\"_blank\">Gifre et al. Clin Rehabil 2014: 28: 361-9</a>). The Committee noted that 50% of patients presented with associated clinical complications, and that severity of SCI was a risk factor associated with the development of fractures.</p><p><br></p><p>The Committee noted a retrospective chart review of 325 individuals with SCI and osteoporosis-related fractures, which reported a mean time between SCI and fracture was 9.7 (standard deviation \u00b1 9.3) years (<a href=\"https://pubmed.ncbi.nlm.nih.gov/31784672/\" target=\"_blank\">Champs et al. Spinal Cord 2020: 58: 484-9</a>). The Committee noted that 82% of fractures occurred in lower limbs (distal femur, 27%; proximal femur, 27%; tibia and/or distal fibula, 28%).\u00a0\u00a0</p><p><br></p><p>The Committee noted that zoledronic acid is an intravenous bisphosphonate treatment that acts as an inhibitor of osteoclast-mediated bone resorption and is currently funded for a number of indications, including osteoporosis, subject to Special Authority. The Committee noted that zoledronic acid is not approved for use in patients with significant baseline renal impairment (creatinine clearance &lt;35 ml/min). The Committee considered that the safety profile of zoledronic acid is well described in clinical trials of patients with osteoporosis, with 6% of patients treated with zoledronic acid experiencing infusion-site reactions and 20-30% experiencing transient influenza-life symptoms shortly after treatment.</p><p><br></p><p>The Committee noted that oral bisphosphonate treatments carry the risk of oesophagitis and as a result, patients must remain upright after an oral dose for 30 minutes. The Committee considered that such postural requirements were usually not possible in the acute spinal cord injury setting, and that such patients, or patients who are otherwise contraindicated to these treatments, currently do not receive bisphosphonate treatment of any sort for the prevention of bone loss immediately following SCI beyond supportive care.</p><p>The Committee considered that, in the context of this application, the patient population who would most benefit from zoledronic acid would be those contraindicated to or unsuited for oral bisphosphonates, with severe SCI, being treated in a rehabilitation unit. Members considered that people with non-traumatic spinal cord injuries (e.g. degenerative) are often eligible for zoledronic acid treatment through other Special Authority criteria.</p><p><br></p><p>The Committee noted 2018 data from two supra-regional SCI sites, which reported 217 new patients with SCI cases in people aged 16 to 95 years discharged with tetraplegia or paraplegia (<a href=\"https://nzspinaltrust.org.nz/wp-content/uploads/2020/02/NZSCIR-Annual-Technical-Report-2018.-FINAL..pdf\" target=\"_blank\">New Zealand Spinal Cord Injury Registry, 2018</a>). The Committee noted that 45.8% of patients had an American Spinal Injury Association impairment scale grade of A, B or C at discharge, and that the rehabilitation length of stay typically varied between 55-65 days.</p><p><br></p><p>The Committee considered that earlier administration of bisphosphonate therapy after SCI would be expected to confer the greatest benefit in reducing loss of BMD, and that patients would likely be in hospital at the time treatment would be administered. The Committee therefore considered approximately 100% of eligible patients would be treated with zoledronic acid shortly following a SCI; however, only 30-40% of patients would likely require re-treatment with 12 months as many patients would have sufficiently recovered to be able to sit up and thus likely to be able to tolerate oral bisphosphonates, and would therefore not meet the renewal criteria.</p><p><br></p><p>The Committee noted the results of the following randomised, double-blind, placebo-controlled trials of the use of zoledronic acid to prevent bone loss following SCI:</p><p>A study of patients with spinal cord injury and neurological deficits sustained within 3 months of study initiation (<a href=\"https://pubmed.ncbi.nlm.nih.gov/30258212/\" target=\"_blank\">Goenka et al. Spinal Cord. 2018;56:1207-11</a>). The Committee noted that after one year the mean bone mineral density difference at the femoral neck was 0.806 g/cm<span style=\"font-size: 9.75px;\">2</span> in the zoledronic acid group compared with 0.729 g/cm<span style=\"font-size: 9.75px;\">2</span> (p=0.003) in placebo and at the total hip was 0.845 g/cm<span style=\"font-size: 9.75px;\">2 </span>vs 0.734 g/cm<span style=\"font-size: 9.75px;\">2</span> (p&lt;0.001).</p><p>A study of adult patients with C4-T10 complete traumatic spinal cord injuries (n=15), one year follow up (<a href=\"https://pubmed.ncbi.nlm.nih.gov/32055041/\" target=\"_blank\">Oleson et al. Spinal Cord. 2020; DOI 10.1038/s41393-020-0431-9</a>). The Committee noted after one year, the mean difference between percentage change of bone mineral density between zoledronic acid and placebo were: total proximal femur: 13.1 (p=0.002), intertrochanteric femur: 10.8 (p=0.004), femoral neck: 13.1 (p=0.013), distal femur: 1.94 (p=0.622), and proximal tibia: 5.49 (p=0.421).</p><p>A study of patients who had experienced a spinal cord injury in the previous six months (n=16) (<a href=\"https://pubmed.ncbi.nlm.nih.gov/26828618/\" target=\"_blank\">Schnitzer et al. PM R. 2016;8:833-43</a>).</p><p><br></p><p>The Committee noted at six months there were statistically significant smaller reductions in bone mineral density at the hip and femoral neck for the group <span style=\"color: rgb(33, 33, 33);\">treated with zoledronic acid</span> compared with the placebo group (mean difference in percentage change in BMD between zoledronic acid and placebo group at right hip: 6.4 (p=0.03); left hip: 8.6 (p=0.03); right femoral neck: 14.9 (p=0.01); left femoral neck: 10.0 (p=0.02)).</p><p>A study of patients with acute traumatic C2 to T12 spinal cord injury (<a href=\"https://pubmed.ncbi.nlm.nih.gov/17417700/\" target=\"_blank\">Shapiro et al. Calcif Tissue Int. 2007;80:316-22</a>). The Committee noted after one year, patients treated with zoledronic acid experienced statistically significant smaller reductions in bone mineral density at the narrow-neck and shaft of the femur compared to placebo.</p><p><br></p><p>The Committee also noted the results of the following cohort studies of zoledronic use following spinal cord injury:</p><p><span style=\"color: black; font-family: Symbol;\">\u00b7</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/25158630/\" target=\"_blank\">Bauman et al. J Bone Miner Metab. 2015;33:410-21</a></p><p><span style=\"color: black; font-family: Symbol;\">\u00b7</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/20358358/\" target=\"_blank\">Bubbear et al. Osteoporosis Int. 2011;22:271-9</a></p><p><br></p><p>The Committee noted the results of the systematic review and meta-analysis by Chang et al, which examined the use of bisphosphonates following spinal cord injury to attenuate sub-lesional bone loss (<a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3838359/\" target=\"_blank\">Chang et al. PLoS One. 2013;8:e81124</a>).</p><p><br></p><p>The Committee considered there was evidence that zoledronic acid reduced the loss of BMD; however, noted it did not identify any direct evidence on the impact of zoledronic acid use on bone fracture after acute SCI. The Committee considered that in the absence of this, it was reasonable to assume that a reduction in the loss of BMD would reduce fracture rate in these patients. The Committee also considered that the evidence of zoledronic acid in reducing BMD loss and reducing fracture risk in osteoporosis was of good strength and quality; noting that these trials often recruit participants with low BMD, the Committee considered that it is reasonable to assume zoledronic acid has a similar effect in the acute SCI setting.</p><p><br></p><p>The Committee considered that all people being treated with bisphosphonates should also receive colecalciferol, noting that a combination oral alendronate and colecalciferol product is currently funded; therefore, people who receive zoledronic acid for SCI may also receive oral colecalciferol supplementation. The Committee considered that patients may also undergo dental assessment due to the risks of osteonecrosis of the jaw associated with bisphosphonate treatment.</p><p><br></p><p>The Committee noted that a single dose of zoledronic acid via intravenous infusion is generally not difficult to administer and, given relative infrequency (once a year), considered that zoledronic acid would likely be more suitable for many patients compared with once-weekly oral bisphosphonates. The Committee considered that there would likely be minimal impact to the health system from this proposal, as zoledronic acid is infused over a short time period and many of the recipients would be in pre-rehabilitation or rehabilitation care in hospital when they receive the initial infusion.</p><p><br></p><p>The Committee noted that there may be barrier to access for subsequent infusions of zoledronic acid for patients with SCI, noting there is often costs associated and access for these patients can be difficult. However, the Committee considered that a significant proportion of patients would not require follow-up zoledronic acid intravenous infusion in the community, as they would be able to tolerate oral treatment given improvements in their ability to be upright.\u00a0</p>",
+          "fs": "<p>The Committee noted the Clinician application for the use of zoledronic acid in the treatment of bone loss for patients following SCI, noting SCI to be devastating with the possibility of lifetime disability. The Committee noted that SCI is associated with a rapid and profound loss of BMD of approximately 1% per week for 6-12 months post-injury, compared to other osteoporotic states. The Committee considered that the rate of reduction in BMD generally plateaus 24 months following injury.</p><p><br></p><p>The Committee noted that low BMD levels are a contributor to the incidence of low trauma fractures in osteoporotic states. The Committee noted the associated complications and difficulties in treating fractures in individuals with a SCI such as altered fracture healing, delayed union, malunion and non-union, pressure sores, infection, and osteomyelitis, which may result in prolonged immobilisation and hospitalisation that may negatively impact quality of life (<a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1949032/\" target=\"_blank\">Giangregorio et al. J Spinal Cord Med. 2006;29:489-500</a>).</p><p><br></p><p>The Committee considered that the aetiology of BMD loss following SCI is unclear, however many factors may have an impact including; loss of neuronal stimuli, catabolic state, altered anabolic milieu, and early high dose steroid treatment in the SCI treatment algorithm. The Committee noted that trabecular bone is generally affected more than cortical bone, and that femur and tibia (sub-lesional) sites often experience the most profound reductions in BMD.</p><p><br></p><p>The Committee noted that M\u0101ori and Pacific have higher age-adjusted incidence rates for spinal cord injuries compared with NZ European (<a href=\"https://injuryprevention.bmj.com/content/injuryprev/18/5/343.full.pdf\" target=\"_blank\">Derrett et al. Inj Prevent. 2012;18:343-6</a>).</p><p><br></p><p>The Committee noted a retrospective cohort analysis 8,150 veterans with chronic multiple sclerosis (MS, n=1,789) or traumatic SCI (n=6,361), which reported a mean per-person fracture rate of 3.1 per 100 patient-years (<a href=\"https://pubmed.ncbi.nlm.nih.gov/18226646/\" target=\"_blank\">Logan et al. Arch Phys Med Rehabil 2008:89: 237-43</a>). The Committee also noted a higher risk of fracture in those with some motor impairment (RR=2.33, p&lt;0.001). The Committee considered that this analysis had limitations due to the inclusion of patients with MS.</p><p><br></p><p>The Committee noted a retrospective 10-year follow-up study of 63 patients with recent SCI, which reported fractures were observed 6.4 \u00b1 2.4 years after SCI (<a href=\"https://pubmed.ncbi.nlm.nih.gov/24096543/\" target=\"_blank\">Gifre et al. Clin Rehabil 2014: 28: 361-9</a>). The Committee noted that 50% of patients presented with associated clinical complications, and that severity of SCI was a risk factor associated with the development of fractures.</p><p><br></p><p>The Committee noted a retrospective chart review of 325 individuals with SCI and osteoporosis-related fractures, which reported a mean time between SCI and fracture was 9.7 (standard deviation \u00b1 9.3) years (<a href=\"https://pubmed.ncbi.nlm.nih.gov/31784672/\" target=\"_blank\">Champs et al. Spinal Cord 2020: 58: 484-9</a>). The Committee noted that 82% of fractures occurred in lower limbs (distal femur, 27%; proximal femur, 27%; tibia and/or distal fibula, 28%).\u00a0\u00a0</p><p><br></p><p>The Committee noted that zoledronic acid is an intravenous bisphosphonate treatment that acts as an inhibitor of osteoclast-mediated bone resorption and is currently funded for a number of indications, including osteoporosis, subject to Special Authority. The Committee noted that zoledronic acid is not approved for use in patients with significant baseline renal impairment (creatinine clearance &lt;35 ml/min). The Committee considered that the safety profile of zoledronic acid is well described in clinical trials of patients with osteoporosis, with 6% of patients treated with zoledronic acid experiencing infusion-site reactions and 20-30% experiencing transient influenza-life symptoms shortly after treatment.</p><p><br></p><p>The Committee noted that oral bisphosphonate treatments carry the risk of oesophagitis and as a result, patients must remain upright after an oral dose for 30 minutes. The Committee considered that such postural requirements were usually not possible in the acute spinal cord injury setting, and that such patients, or patients who are otherwise contraindicated to these treatments, currently do not receive bisphosphonate treatment of any sort for the prevention of bone loss immediately following SCI beyond supportive care.</p><p>The Committee considered that, in the context of this application, the patient population who would most benefit from zoledronic acid would be those contraindicated to or unsuited for oral bisphosphonates, with severe SCI, being treated in a rehabilitation unit. Members considered that people with non-traumatic spinal cord injuries (e.g. degenerative) are often eligible for zoledronic acid treatment through other Special Authority criteria.</p><p><br></p><p>The Committee noted 2018 data from two supra-regional SCI sites, which reported 217 new patients with SCI cases in people aged 16 to 95 years discharged with tetraplegia or paraplegia (<a href=\"https://nzspinaltrust.org.nz/wp-content/uploads/2020/02/NZSCIR-Annual-Technical-Report-2018.-FINAL..pdf\" target=\"_blank\">New Zealand Spinal Cord Injury Registry, 2018</a>). The Committee noted that 45.8% of patients had an American Spinal Injury Association impairment scale grade of A, B or C at discharge, and that the rehabilitation length of stay typically varied between 55-65 days.</p><p><br></p><p>The Committee considered that earlier administration of bisphosphonate therapy after SCI would be expected to confer the greatest benefit in reducing loss of BMD, and that patients would likely be in hospital at the time treatment would be administered. The Committee therefore considered approximately 100% of eligible patients would be treated with zoledronic acid shortly following a SCI; however, only 30-40% of patients would likely require re-treatment with 12 months as many patients would have sufficiently recovered to be able to sit up and thus likely to be able to tolerate oral bisphosphonates, and would therefore not meet the renewal criteria.</p><p><br></p><p>The Committee noted the results of the following randomised, double-blind, placebo-controlled trials of the use of zoledronic acid to prevent bone loss following SCI:</p><p>A study of patients with spinal cord injury and neurological deficits sustained within 3 months of study initiation (<a href=\"https://pubmed.ncbi.nlm.nih.gov/30258212/\" target=\"_blank\">Goenka et al. Spinal Cord. 2018;56:1207-11</a>). The Committee noted that after one year the mean bone mineral density difference at the femoral neck was 0.806 g/cm<span style=\"font-size: 9.75px;\">2</span> in the zoledronic acid group compared with 0.729 g/cm<span style=\"font-size: 9.75px;\">2</span> (p=0.003) in placebo and at the total hip was 0.845 g/cm<span style=\"font-size: 9.75px;\">2 </span>vs 0.734 g/cm<span style=\"font-size: 9.75px;\">2</span> (p&lt;0.001).</p><p>A study of adult patients with C4-T10 complete traumatic spinal cord injuries (n=15), one year follow up (<a href=\"https://pubmed.ncbi.nlm.nih.gov/32055041/\" target=\"_blank\">Oleson et al. Spinal Cord. 2020; DOI 10.1038/s41393-020-0431-9</a>). The Committee noted after one year, the mean difference between percentage change of bone mineral density between zoledronic acid and placebo were: total proximal femur: 13.1 (p=0.002), intertrochanteric femur: 10.8 (p=0.004), femoral neck: 13.1 (p=0.013), distal femur: 1.94 (p=0.622), and proximal tibia: 5.49 (p=0.421).</p><p>A study of patients who had experienced a spinal cord injury in the previous six months (n=16) (<a href=\"https://pubmed.ncbi.nlm.nih.gov/26828618/\" target=\"_blank\">Schnitzer et al. PM R. 2016;8:833-43</a>).</p><p><br></p><p>The Committee noted at six months there were statistically significant smaller reductions in bone mineral density at the hip and femoral neck for the group <span style=\"color: rgb(33, 33, 33);\">treated with zoledronic acid</span> compared with the placebo group (mean difference in percentage change in BMD between zoledronic acid and placebo group at right hip: 6.4 (p=0.03); left hip: 8.6 (p=0.03); right femoral neck: 14.9 (p=0.01); left femoral neck: 10.0 (p=0.02)).</p><p>A study of patients with acute traumatic C2 to T12 spinal cord injury (<a href=\"https://pubmed.ncbi.nlm.nih.gov/17417700/\" target=\"_blank\">Shapiro et al. Calcif Tissue Int. 2007;80:316-22</a>). The Committee noted after one year, patients treated with zoledronic acid experienced statistically significant smaller reductions in bone mineral density at the narrow-neck and shaft of the femur compared to placebo.</p><p><br></p><p>The Committee also noted the results of the following cohort studies of zoledronic use following spinal cord injury:</p><p><span style=\"color: black; font-family: Symbol;\">\u00b7</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/25158630/\" target=\"_blank\">Bauman et al. J Bone Miner Metab. 2015;33:410-21</a></p><p><span style=\"color: black; font-family: Symbol;\">\u00b7</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/20358358/\" target=\"_blank\">Bubbear et al. Osteoporosis Int. 2011;22:271-9</a></p><p><br></p><p>The Committee noted the results of the systematic review and meta-analysis by Chang et al, which examined the use of bisphosphonates following spinal cord injury to attenuate sub-lesional bone loss (<a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3838359/\" target=\"_blank\">Chang et al. PLoS One. 2013;8:e81124</a>).</p><p><br></p><p>The Committee considered there was evidence that zoledronic acid reduced the loss of BMD; however, noted it did not identify any direct evidence on the impact of zoledronic acid use on bone fracture after acute SCI. The Committee considered that in the absence of this, it was reasonable to assume that a reduction in the loss of BMD would reduce fracture rate in these patients. The Committee also considered that the evidence of zoledronic acid in reducing BMD loss and reducing fracture risk in osteoporosis was of good strength and quality; noting that these trials often recruit participants with low BMD, the Committee considered that it is reasonable to assume zoledronic acid has a similar effect in the acute SCI setting.</p><p><br></p><p>The Committee considered that all people being treated with bisphosphonates should also receive colecalciferol, noting that a combination oral alendronate and colecalciferol product is currently funded; therefore, people who receive zoledronic acid for SCI may also receive oral colecalciferol supplementation. The Committee considered that patients may also undergo dental assessment due to the risks of osteonecrosis of the jaw associated with bisphosphonate treatment.</p><p><br></p><p>The Committee noted that a single dose of zoledronic acid via intravenous infusion is generally not difficult to administer and, given relative infrequency (once a year), considered that zoledronic acid would likely be more suitable for many patients compared with once-weekly oral bisphosphonates. The Committee considered that there would likely be minimal impact to the health system from this proposal, as zoledronic acid is infused over a short time period and many of the recipients would be in pre-rehabilitation or rehabilitation care in hospital when they receive the initial infusion.</p><p><br></p><p>The Committee noted that there may be barrier to access for subsequent infusions of zoledronic acid for patients with SCI, noting there is often costs associated and access for these patients can be difficult. However, the Committee considered that a significant proportion of patients would not require follow-up zoledronic acid intravenous infusion in the community, as they would be able to tolerate oral treatment given improvements in their ability to be upright.\u00a0</p>",
+          "change": null
+        },
+        "Published_Application": {
+          "s": "<p>The Committee recommended that access to zoledronic acid be widened for the prevention of bone loss following spinal cord injury with a high priority subject to the following Special Authority criteria:</p><p><span style=\"font-size: 9pt;\">Initial application \u2014 (spinal cord injury) from any relevant practitioner. Approvals valid for 12 months for applications meeting the following criteria:</span></p><p><span style=\"font-size: 9pt;\">All of the following:</span></p><p><span style=\"font-size: 9pt;\">1.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Patient has experienced an acute traumatic spinal cord injury in the last six months; and </span></p><p><span style=\"font-size: 9pt;\">2.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Patient is being managed in a specialist spinal acute care and rehabilitation unit; and </span></p><p><span style=\"font-size: 9pt;\">3.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Patient is contraindicated to, or has trialled and is unable to tolerate, oral bisphosphonate therapy; and\u00a0</span></p><p><span style=\"font-size: 9pt;\">4.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">The patient will not be prescribed more than 5 mg of zoledronic acid in a 12-month period.</span></p><p><br></p><p><span style=\"font-size: 9pt;\">Renewal \u2013 (prevention of bone loss following spinal cord injury) from any relevant practitioner. </span></p><p><span style=\"font-size: 9pt;\">1.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">The patient remains unable to tolerate oral bisphosphonate therapy; and</span></p><p><span style=\"font-size: 9pt;\">2.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">The patient will not be prescribed more than 5 mg of zoledronic acid in a 12-month period.</span></p><p><span style=\"font-size: 9pt;\">3.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">The patient has not received two or more doses of zoledronic acid for this indication</span></p><p><br></p><p><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0</span><span style=\"font-size: 11pt;\">In making this recommendation, the Committee considered the high health need of patients who experience bone loss following spinal cord injury (SCI), noting the increased risk of bone fracture, the evidence supporting a reduction in loss of bone mineral density (BMD) following treatment with zoledronic acid, higher prevalence of SCIs in M\u0101ori and Pasifika, and the suitability of zoledronic acid treatment compared to current oral treatments. </span></p>",
+          "fs": "<p>The Committee recommended that access to zoledronic acid be widened for the prevention of bone loss following spinal cord injury with a high priority subject to the following Special Authority criteria:</p><p><span style=\"font-size: 9pt;\">Initial application \u2014 (spinal cord injury) from any relevant practitioner. Approvals valid for 12 months for applications meeting the following criteria:</span></p><p><span style=\"font-size: 9pt;\">All of the following:</span></p><p><span style=\"font-size: 9pt;\">1.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Patient has experienced an acute traumatic spinal cord injury in the last six months; and </span></p><p><span style=\"font-size: 9pt;\">2.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Patient is being managed in a specialist spinal acute care and rehabilitation unit; and </span></p><p><span style=\"font-size: 9pt;\">3.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Patient is contraindicated to, or has trialled and is unable to tolerate, oral bisphosphonate therapy; and\u00a0</span></p><p><span style=\"font-size: 9pt;\">4.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">The patient will not be prescribed more than 5 mg of zoledronic acid in a 12-month period.</span></p><p><br></p><p><span style=\"font-size: 9pt;\">Renewal \u2013 (prevention of bone loss following spinal cord injury) from any relevant practitioner. </span></p><p><span style=\"font-size: 9pt;\">1.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">The patient remains unable to tolerate oral bisphosphonate therapy; and</span></p><p><span style=\"font-size: 9pt;\">2.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">The patient will not be prescribed more than 5 mg of zoledronic acid in a 12-month period.</span></p><p><span style=\"font-size: 9pt;\">3.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">The patient has not received two or more doses of zoledronic acid for this indication</span></p><p><br></p><p><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0</span><span style=\"font-size: 11pt;\">In making this recommendation, the Committee considered the high health need of patients who experience bone loss following spinal cord injury (SCI), noting the increased risk of bone fracture, the evidence supporting a reduction in loss of bone mineral density (BMD) following treatment with zoledronic acid, higher prevalence of SCIs in M\u0101ori and Pasifika, and the suitability of zoledronic acid treatment compared to current oral treatments. </span></p>",
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": "High",
+          "fs": "High",
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Nov 2020",
+          "fs": "Nov 2020",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Clinical advice received from Pharmacology and Therapeutics Advisory Committee (PTAC) at meeting Friday 18 September 2020.",
+          "fs": "Clinical advice received from Pharmacology and Therapeutics Advisory Committee (PTAC) at meeting Friday 18 September 2020.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P0000066jUHUAY"
+          },
+          "Id": "a0P2P0000066jUHUAY",
+          "Event_Date__c": "2020-11-19",
+          "Event_Description__c": "Clinical advice received from Pharmacology and Therapeutics Advisory Committee (PTAC) at meeting Friday 18 September 2020.",
+          "Stage__c": "Seeking Clinical Advice",
+          "Outcome__c": "High",
+          "Formatted_Date__c": "Nov 2020",
+          "Published_Recommendation__c": "<p>The Committee recommended that access to zoledronic acid be widened for the prevention of bone loss following spinal cord injury with a high priority subject to the following Special Authority criteria:</p><p><span style=\"font-size: 9pt;\">Initial application \u2014 (spinal cord injury) from any relevant practitioner. Approvals valid for 12 months for applications meeting the following criteria:</span></p><p><span style=\"font-size: 9pt;\">All of the following:</span></p><p><span style=\"font-size: 9pt;\">1.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Patient has experienced an acute traumatic spinal cord injury in the last six months; and </span></p><p><span style=\"font-size: 9pt;\">2.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Patient is being managed in a specialist spinal acute care and rehabilitation unit; and </span></p><p><span style=\"font-size: 9pt;\">3.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Patient is contraindicated to, or has trialled and is unable to tolerate, oral bisphosphonate therapy; and\u00a0</span></p><p><span style=\"font-size: 9pt;\">4.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">The patient will not be prescribed more than 5 mg of zoledronic acid in a 12-month period.</span></p><p><br></p><p><span style=\"font-size: 9pt;\">Renewal \u2013 (prevention of bone loss following spinal cord injury) from any relevant practitioner. </span></p><p><span style=\"font-size: 9pt;\">1.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">The patient remains unable to tolerate oral bisphosphonate therapy; and</span></p><p><span style=\"font-size: 9pt;\">2.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">The patient will not be prescribed more than 5 mg of zoledronic acid in a 12-month period.</span></p><p><span style=\"font-size: 9pt;\">3.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">The patient has not received two or more doses of zoledronic acid for this indication</span></p><p><br></p><p><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0</span><span style=\"font-size: 11pt;\">In making this recommendation, the Committee considered the high health need of patients who experience bone loss following spinal cord injury (SCI), noting the increased risk of bone fracture, the evidence supporting a reduction in loss of bone mineral density (BMD) following treatment with zoledronic acid, higher prevalence of SCIs in M\u0101ori and Pasifika, and the suitability of zoledronic acid treatment compared to current oral treatments. </span></p>",
+          "Published_Application__c": "<p>The Committee recommended that access to zoledronic acid be widened for the prevention of bone loss following spinal cord injury with a high priority subject to the following Special Authority criteria:</p><p><span style=\"font-size: 9pt;\">Initial application \u2014 (spinal cord injury) from any relevant practitioner. Approvals valid for 12 months for applications meeting the following criteria:</span></p><p><span style=\"font-size: 9pt;\">All of the following:</span></p><p><span style=\"font-size: 9pt;\">1.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Patient has experienced an acute traumatic spinal cord injury in the last six months; and </span></p><p><span style=\"font-size: 9pt;\">2.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Patient is being managed in a specialist spinal acute care and rehabilitation unit; and </span></p><p><span style=\"font-size: 9pt;\">3.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Patient is contraindicated to, or has trialled and is unable to tolerate, oral bisphosphonate therapy; and\u00a0</span></p><p><span style=\"font-size: 9pt;\">4.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">The patient will not be prescribed more than 5 mg of zoledronic acid in a 12-month period.</span></p><p><br></p><p><span style=\"font-size: 9pt;\">Renewal \u2013 (prevention of bone loss following spinal cord injury) from any relevant practitioner. </span></p><p><span style=\"font-size: 9pt;\">1.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">The patient remains unable to tolerate oral bisphosphonate therapy; and</span></p><p><span style=\"font-size: 9pt;\">2.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">The patient will not be prescribed more than 5 mg of zoledronic acid in a 12-month period.</span></p><p><span style=\"font-size: 9pt;\">3.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">The patient has not received two or more doses of zoledronic acid for this indication</span></p><p><br></p><p><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0</span><span style=\"font-size: 11pt;\">In making this recommendation, the Committee considered the high health need of patients who experience bone loss following spinal cord injury (SCI), noting the increased risk of bone fracture, the evidence supporting a reduction in loss of bone mineral density (BMD) following treatment with zoledronic acid, higher prevalence of SCIs in M\u0101ori and Pasifika, and the suitability of zoledronic acid treatment compared to current oral treatments. </span></p>",
+          "Published_Discussion__c": "<p>The Committee noted the Clinician application for the use of zoledronic acid in the treatment of bone loss for patients following SCI, noting SCI to be devastating with the possibility of lifetime disability. The Committee noted that SCI is associated with a rapid and profound loss of BMD of approximately 1% per week for 6-12 months post-injury, compared to other osteoporotic states. The Committee considered that the rate of reduction in BMD generally plateaus 24 months following injury.</p><p><br></p><p>The Committee noted that low BMD levels are a contributor to the incidence of low trauma fractures in osteoporotic states. The Committee noted the associated complications and difficulties in treating fractures in individuals with a SCI such as altered fracture healing, delayed union, malunion and non-union, pressure sores, infection, and osteomyelitis, which may result in prolonged immobilisation and hospitalisation that may negatively impact quality of life (<a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1949032/\" target=\"_blank\">Giangregorio et al. J Spinal Cord Med. 2006;29:489-500</a>).</p><p><br></p><p>The Committee considered that the aetiology of BMD loss following SCI is unclear, however many factors may have an impact including; loss of neuronal stimuli, catabolic state, altered anabolic milieu, and early high dose steroid treatment in the SCI treatment algorithm. The Committee noted that trabecular bone is generally affected more than cortical bone, and that femur and tibia (sub-lesional) sites often experience the most profound reductions in BMD.</p><p><br></p><p>The Committee noted that M\u0101ori and Pacific have higher age-adjusted incidence rates for spinal cord injuries compared with NZ European (<a href=\"https://injuryprevention.bmj.com/content/injuryprev/18/5/343.full.pdf\" target=\"_blank\">Derrett et al. Inj Prevent. 2012;18:343-6</a>).</p><p><br></p><p>The Committee noted a retrospective cohort analysis 8,150 veterans with chronic multiple sclerosis (MS, n=1,789) or traumatic SCI (n=6,361), which reported a mean per-person fracture rate of 3.1 per 100 patient-years (<a href=\"https://pubmed.ncbi.nlm.nih.gov/18226646/\" target=\"_blank\">Logan et al. Arch Phys Med Rehabil 2008:89: 237-43</a>). The Committee also noted a higher risk of fracture in those with some motor impairment (RR=2.33, p&lt;0.001). The Committee considered that this analysis had limitations due to the inclusion of patients with MS.</p><p><br></p><p>The Committee noted a retrospective 10-year follow-up study of 63 patients with recent SCI, which reported fractures were observed 6.4 \u00b1 2.4 years after SCI (<a href=\"https://pubmed.ncbi.nlm.nih.gov/24096543/\" target=\"_blank\">Gifre et al. Clin Rehabil 2014: 28: 361-9</a>). The Committee noted that 50% of patients presented with associated clinical complications, and that severity of SCI was a risk factor associated with the development of fractures.</p><p><br></p><p>The Committee noted a retrospective chart review of 325 individuals with SCI and osteoporosis-related fractures, which reported a mean time between SCI and fracture was 9.7 (standard deviation \u00b1 9.3) years (<a href=\"https://pubmed.ncbi.nlm.nih.gov/31784672/\" target=\"_blank\">Champs et al. Spinal Cord 2020: 58: 484-9</a>). The Committee noted that 82% of fractures occurred in lower limbs (distal femur, 27%; proximal femur, 27%; tibia and/or distal fibula, 28%).\u00a0\u00a0</p><p><br></p><p>The Committee noted that zoledronic acid is an intravenous bisphosphonate treatment that acts as an inhibitor of osteoclast-mediated bone resorption and is currently funded for a number of indications, including osteoporosis, subject to Special Authority. The Committee noted that zoledronic acid is not approved for use in patients with significant baseline renal impairment (creatinine clearance &lt;35 ml/min). The Committee considered that the safety profile of zoledronic acid is well described in clinical trials of patients with osteoporosis, with 6% of patients treated with zoledronic acid experiencing infusion-site reactions and 20-30% experiencing transient influenza-life symptoms shortly after treatment.</p><p><br></p><p>The Committee noted that oral bisphosphonate treatments carry the risk of oesophagitis and as a result, patients must remain upright after an oral dose for 30 minutes. The Committee considered that such postural requirements were usually not possible in the acute spinal cord injury setting, and that such patients, or patients who are otherwise contraindicated to these treatments, currently do not receive bisphosphonate treatment of any sort for the prevention of bone loss immediately following SCI beyond supportive care.</p><p>The Committee considered that, in the context of this application, the patient population who would most benefit from zoledronic acid would be those contraindicated to or unsuited for oral bisphosphonates, with severe SCI, being treated in a rehabilitation unit. Members considered that people with non-traumatic spinal cord injuries (e.g. degenerative) are often eligible for zoledronic acid treatment through other Special Authority criteria.</p><p><br></p><p>The Committee noted 2018 data from two supra-regional SCI sites, which reported 217 new patients with SCI cases in people aged 16 to 95 years discharged with tetraplegia or paraplegia (<a href=\"https://nzspinaltrust.org.nz/wp-content/uploads/2020/02/NZSCIR-Annual-Technical-Report-2018.-FINAL..pdf\" target=\"_blank\">New Zealand Spinal Cord Injury Registry, 2018</a>). The Committee noted that 45.8% of patients had an American Spinal Injury Association impairment scale grade of A, B or C at discharge, and that the rehabilitation length of stay typically varied between 55-65 days.</p><p><br></p><p>The Committee considered that earlier administration of bisphosphonate therapy after SCI would be expected to confer the greatest benefit in reducing loss of BMD, and that patients would likely be in hospital at the time treatment would be administered. The Committee therefore considered approximately 100% of eligible patients would be treated with zoledronic acid shortly following a SCI; however, only 30-40% of patients would likely require re-treatment with 12 months as many patients would have sufficiently recovered to be able to sit up and thus likely to be able to tolerate oral bisphosphonates, and would therefore not meet the renewal criteria.</p><p><br></p><p>The Committee noted the results of the following randomised, double-blind, placebo-controlled trials of the use of zoledronic acid to prevent bone loss following SCI:</p><p>A study of patients with spinal cord injury and neurological deficits sustained within 3 months of study initiation (<a href=\"https://pubmed.ncbi.nlm.nih.gov/30258212/\" target=\"_blank\">Goenka et al. Spinal Cord. 2018;56:1207-11</a>). The Committee noted that after one year the mean bone mineral density difference at the femoral neck was 0.806 g/cm<span style=\"font-size: 9.75px;\">2</span> in the zoledronic acid group compared with 0.729 g/cm<span style=\"font-size: 9.75px;\">2</span> (p=0.003) in placebo and at the total hip was 0.845 g/cm<span style=\"font-size: 9.75px;\">2 </span>vs 0.734 g/cm<span style=\"font-size: 9.75px;\">2</span> (p&lt;0.001).</p><p>A study of adult patients with C4-T10 complete traumatic spinal cord injuries (n=15), one year follow up (<a href=\"https://pubmed.ncbi.nlm.nih.gov/32055041/\" target=\"_blank\">Oleson et al. Spinal Cord. 2020; DOI 10.1038/s41393-020-0431-9</a>). The Committee noted after one year, the mean difference between percentage change of bone mineral density between zoledronic acid and placebo were: total proximal femur: 13.1 (p=0.002), intertrochanteric femur: 10.8 (p=0.004), femoral neck: 13.1 (p=0.013), distal femur: 1.94 (p=0.622), and proximal tibia: 5.49 (p=0.421).</p><p>A study of patients who had experienced a spinal cord injury in the previous six months (n=16) (<a href=\"https://pubmed.ncbi.nlm.nih.gov/26828618/\" target=\"_blank\">Schnitzer et al. PM R. 2016;8:833-43</a>).</p><p><br></p><p>The Committee noted at six months there were statistically significant smaller reductions in bone mineral density at the hip and femoral neck for the group <span style=\"color: rgb(33, 33, 33);\">treated with zoledronic acid</span> compared with the placebo group (mean difference in percentage change in BMD between zoledronic acid and placebo group at right hip: 6.4 (p=0.03); left hip: 8.6 (p=0.03); right femoral neck: 14.9 (p=0.01); left femoral neck: 10.0 (p=0.02)).</p><p>A study of patients with acute traumatic C2 to T12 spinal cord injury (<a href=\"https://pubmed.ncbi.nlm.nih.gov/17417700/\" target=\"_blank\">Shapiro et al. Calcif Tissue Int. 2007;80:316-22</a>). The Committee noted after one year, patients treated with zoledronic acid experienced statistically significant smaller reductions in bone mineral density at the narrow-neck and shaft of the femur compared to placebo.</p><p><br></p><p>The Committee also noted the results of the following cohort studies of zoledronic use following spinal cord injury:</p><p><span style=\"color: black; font-family: Symbol;\">\u00b7</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/25158630/\" target=\"_blank\">Bauman et al. J Bone Miner Metab. 2015;33:410-21</a></p><p><span style=\"color: black; font-family: Symbol;\">\u00b7</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/20358358/\" target=\"_blank\">Bubbear et al. Osteoporosis Int. 2011;22:271-9</a></p><p><br></p><p>The Committee noted the results of the systematic review and meta-analysis by Chang et al, which examined the use of bisphosphonates following spinal cord injury to attenuate sub-lesional bone loss (<a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3838359/\" target=\"_blank\">Chang et al. PLoS One. 2013;8:e81124</a>).</p><p><br></p><p>The Committee considered there was evidence that zoledronic acid reduced the loss of BMD; however, noted it did not identify any direct evidence on the impact of zoledronic acid use on bone fracture after acute SCI. The Committee considered that in the absence of this, it was reasonable to assume that a reduction in the loss of BMD would reduce fracture rate in these patients. The Committee also considered that the evidence of zoledronic acid in reducing BMD loss and reducing fracture risk in osteoporosis was of good strength and quality; noting that these trials often recruit participants with low BMD, the Committee considered that it is reasonable to assume zoledronic acid has a similar effect in the acute SCI setting.</p><p><br></p><p>The Committee considered that all people being treated with bisphosphonates should also receive colecalciferol, noting that a combination oral alendronate and colecalciferol product is currently funded; therefore, people who receive zoledronic acid for SCI may also receive oral colecalciferol supplementation. The Committee considered that patients may also undergo dental assessment due to the risks of osteonecrosis of the jaw associated with bisphosphonate treatment.</p><p><br></p><p>The Committee noted that a single dose of zoledronic acid via intravenous infusion is generally not difficult to administer and, given relative infrequency (once a year), considered that zoledronic acid would likely be more suitable for many patients compared with once-weekly oral bisphosphonates. The Committee considered that there would likely be minimal impact to the health system from this proposal, as zoledronic acid is infused over a short time period and many of the recipients would be in pre-rehabilitation or rehabilitation care in hospital when they receive the initial infusion.</p><p><br></p><p>The Committee noted that there may be barrier to access for subsequent infusions of zoledronic acid for patients with SCI, noting there is often costs associated and access for these patients can be difficult. However, the Committee considered that a significant proportion of patients would not require follow-up zoledronic acid intravenous infusion in the community, as they would be able to tolerate oral treatment given improvements in their ability to be upright.\u00a0</p>",
+          "Status_History__c": "a132P000000CRRMQA4"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "May 2020",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Following Clinical Advice, Pharmac staff considers the advice and the funding application under goes an assessment using our&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/factors-for-consideration/\" rel=\"nofollow\">Factors for Consideration</a>&nbsp;framework and seeks additional information as required.</p>\r\n<p>&nbsp;</p>\r\n<p>Research and Economic analysis are undertaken.&nbsp; This focuses on the costs and benefits of a proposed course of action. Economics is based on three fundamental concepts that summarise the issues Pharmac faces daily:&nbsp;</p>\r\n<ul>\r\n<li>Scarcity &ndash; resources will always be insufficient to support all possible activities.</li>\r\n<li>Choices &ndash; due to scarce resources, decisions must be made about how best to use them.</li>\r\n<li>Opportunity cost &ndash; by choosing to use resources one way, we forgo other opportunities to use the same resources.</li>\r\n</ul>\r\n<p>&nbsp;</p>\r\n<p>For further information on the purpose of, and techniques for, undertaking economic analysis in health care, please refer&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/economic-analysis/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/economic-analysis/</a></p>",
+    "position": 2,
+    "name": "Under Assessment",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Dec 2020",
+          "fs": "Dec 2020",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Working to compare options",
+          "fs": "Working to compare options",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P0000066jUIUAY"
+          },
+          "Id": "a0P2P0000066jUIUAY",
+          "Event_Date__c": "2020-12-01",
+          "Event_Description__c": "Working to compare options",
+          "Stage__c": "Under Assessment",
+          "Formatted_Date__c": "Dec 2020",
+          "Status_History__c": "a132P000000CoZDQA0"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Dec 2020",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Pharmac staff uses a prioritisation process to compare and rank funding options. Possible opportunities for new investment will always exceed the budget Pharmac has available; therefore, prioritisation is an intrinsic part of Pharmac\u2019s decision-making process.</p>\r\n<p>The relative ranking of options aims to support Pharmac&rsquo;s statutory objective &ldquo;to secure for eligible people in need of pharmaceuticals, the best health outcomes that are reasonably achievable from pharmaceutical treatment and from within the amount of funding provided&rdquo;.</p>\r\n<p>A funding application or proposal is considered ready for prioritisation when sufficient information is available to permit it to be reviewed against Pharmac's Factors for Consideration and to inform a comparison with other possible investment decisions.</p>\r\n<p>There is no guarantee when or if a ranked medicine will be funded.&nbsp;&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/prioritisation/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/prioritisation/</a></p>",
+    "position": 3,
+    "name": "Options Compared",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "May 2021",
+          "fs": "May 2021",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "The relative ranking of the pharmaceutical application has been completed.",
+          "fs": "The relative ranking of the pharmaceutical application has been completed.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P0000066jUJUAY"
+          },
+          "Id": "a0P2P0000066jUJUAY",
+          "Event_Date__c": "2021-05-27",
+          "Event_Description__c": "The relative ranking of the pharmaceutical application has been completed.",
+          "Stage__c": "Options Compared",
+          "Formatted_Date__c": "May 2021",
+          "Status_History__c": "a132P000000CsccQAC"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "May 2021",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Pharmac is consulting on a proposal to either approve or decline the application.&nbsp;We seek the views of all people who have an interest in our proposals, or who may be affected by them, to obtain feedback on our proposed approaches.</p>\r\n<p><a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/having-your-say/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/having-your-say/</a></p>",
+    "position": 4,
+    "name": "Under Consultation",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": "<p>Pharmac is consulting on the proposal to widen access to zoledronic acid to bone loss prevention post spinal cord injury. You can find the consultation <a href=\"https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/consultation-2022-02-14-rituximab-zoledronic-acid/\" target=\"_blank\">here</a>.</p><p><br></p><p>Consultation closes at <b>5 pm Tuesday 1 March 2022</b> and feedback can be emailed to <a href=\"mailto:consult@pharmac.govt.nz\" target=\"_blank\">consult@pharmac.govt.nz</a>.</p>",
+          "fs": "<p>Pharmac is consulting on the proposal to widen access to zoledronic acid to bone loss prevention post spinal cord injury. You can find the consultation <a href=\"https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/consultation-2022-02-14-rituximab-zoledronic-acid/\" target=\"_blank\">here</a>.</p><p><br></p><p>Consultation closes at <b>5 pm Tuesday 1 March 2022</b> and feedback can be emailed to <a href=\"mailto:consult@pharmac.govt.nz\" target=\"_blank\">consult@pharmac.govt.nz</a>.</p>",
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Feb 2022",
+          "fs": "Feb 2022",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Public consultation for this application is active.",
+          "fs": "Public consultation for this application is active.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P0000066jUKUAY"
+          },
+          "Id": "a0P2P0000066jUKUAY",
+          "Event_Date__c": "2022-02-11",
+          "Event_Description__c": "Public consultation for this application is active.",
+          "Stage__c": "Under Consultation",
+          "Summary__c": "<p>Pharmac is consulting on the proposal to widen access to zoledronic acid to bone loss prevention post spinal cord injury. You can find the consultation <a href=\"https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/consultation-2022-02-14-rituximab-zoledronic-acid/\" target=\"_blank\">here</a>.</p><p><br></p><p>Consultation closes at <b>5 pm Tuesday 1 March 2022</b> and feedback can be emailed to <a href=\"mailto:consult@pharmac.govt.nz\" target=\"_blank\">consult@pharmac.govt.nz</a>.</p>",
+          "Formatted_Date__c": "Feb 2022",
+          "Status_History__c": "a132P000000DXH4QAO"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Feb 2022",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Following the consultation process, Pharmac staff considers the feedback and identifies any additional information required as part of a gap analysis.&nbsp; The proposal may require further clinical advice, research, and assessment.</p>",
+    "position": 5,
+    "name": "Reviewing Consultation Feedback",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Mar 2022",
+          "fs": "Mar 2022",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Public consultation for this application is now closed. Pharmac is reviewing consultation feedback.",
+          "fs": "Public consultation for this application is now closed. Pharmac is reviewing consultation feedback.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P0000066jULUAY"
+          },
+          "Id": "a0P2P0000066jULUAY",
+          "Event_Date__c": "2022-03-02",
+          "Event_Description__c": "Public consultation for this application is now closed. Pharmac is reviewing consultation feedback.",
+          "Stage__c": "Reviewing Consultation Feedback",
+          "Formatted_Date__c": "Mar 2022",
+          "Status_History__c": "a132P000000Da5LQAS"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Mar 2022",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>We refer to our decisions about whether and how particular pharmaceuticals are publicly-funded, as &ldquo;funding decisions&rdquo;.</p>\r\n<p>We consider and assess all funding decisions using the&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/about/operating-policies-and-procedures/#factorsfc\" rel=\"nofollow\">Factors for Consideration</a>. When we do so, we carefully evaluate clinical and other evidence for the benefits and suitability of a proposal, and to identify and understand the people who will be affected by it.</p>\r\n<p>While our main task is to allocate pharmaceutical funding, we consider the benefits and costs across the whole health system now and with a long-term focus, including the effects for hospitals and primary care, and consider direct costs to patients as well as to all health sector budgets.</p>\r\n<p>Final funding decisions are made by the Pharmac Board or delegated to senior Pharmac staff as required by the Board.</p>\r\n<p>&nbsp;</p>",
+    "position": 6,
+    "name": "Decision",
+    "last": true,
+    "events": [
+      {
+        "Summary": {
+          "s": "<p><span style=\"color: rgb(68, 68, 68);\">You can read the notification on the decision to widen access to zoledronic acid to include prevention of bone loss after spinal cord injury on the Pharmac website </span><a href=\"https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/decision-2022-03-17-rituximab-zoledronic-acid/\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255);\">here</a><span style=\"color: rgb(68, 68, 68);\">.</span></p>",
+          "fs": "<p><span style=\"color: rgb(68, 68, 68);\">You can read the notification on the decision to widen access to zoledronic acid to include prevention of bone loss after spinal cord injury on the Pharmac website </span><a href=\"https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/decision-2022-03-17-rituximab-zoledronic-acid/\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255);\">here</a><span style=\"color: rgb(68, 68, 68);\">.</span></p>",
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Mar 2022",
+          "fs": "Mar 2022",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "The funding application has been approved.",
+          "fs": "The funding application has been approved.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P0000066jUMUAY"
+          },
+          "Id": "a0P2P0000066jUMUAY",
+          "Event_Date__c": "2022-03-21",
+          "Event_Description__c": "The funding application has been approved.",
+          "Stage__c": "Decision",
+          "Summary__c": "<p><span style=\"color: rgb(68, 68, 68);\">You can read the notification on the decision to widen access to zoledronic acid to include prevention of bone loss after spinal cord injury on the Pharmac website </span><a href=\"https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/decision-2022-03-17-rituximab-zoledronic-acid/\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255);\">here</a><span style=\"color: rgb(68, 68, 68);\">.</span></p>",
+          "Formatted_Date__c": "Mar 2022",
+          "Status_History__c": "a132P000000DczFQAS"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Mar 2022",
+    "collapsed": false,
+    "checked": true
+  }
+]

@@ -1,0 +1,741 @@
+[
+  {
+    "text": "<p>New funding applications are referred to one of Pharmac's Funding Application Advisors (FAAs), who'll review the application to ensure they have the relevant information to undertake a preliminary analysis.&nbsp; They may seek more information if required.</p>\r\n<p><a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/new-funding-applications/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/new-funding-applications/</a></p>",
+    "position": 0,
+    "name": "Application Received",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Apr 2020",
+          "fs": "Apr 2020",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Application received",
+          "fs": "Application received",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000PbDG22AN"
+          },
+          "Id": "a0POZ00000PbDG22AN",
+          "Event_Date__c": "2020-04-10",
+          "Event_Description__c": "Application received",
+          "Stage__c": "Application Received",
+          "Formatted_Date__c": "Apr 2020",
+          "Status_History__c": "a132P000000Bn4uQAC"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Apr 2020",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Pharmac is identifying and gathering information required to get clinical advice.  The <a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/pharmacology-and-therapeutics-advisory-committee-ptac/\" rel=\"nofollow\">Pharmacology and Therapeutics Advisory Committee (PTAC)</a>  meets quarterly. There are also around 20 expert <a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/specialist-advisory-committees/\" rel=\"nofollow\">Specialist Advisory Committees (SACs)</a>, previously expert Subcommittees, which provide clinical evaluations in specialist areas. Specialist Advisory Committees meet as required to discuss issues referred to them by PTAC or Pharmac.</p>\n<p style=\"height: 20px\">&nbsp;</p>\n<p>In November 2021, we introduced separate terms of reference for the SACs to make clear that these committees have different, but complementary, roles, expertise and perspectives to PTAC.</p>\n<p style=\"height: 15px\">&nbsp;</p>\n<p>PTAC and SACs may make recommendations to Pharmac that differ from each other when looking at the same evidence. Pharmac considers the recommendations provided by all our clinical advisory committees when assessing applications.</p>\n<p style=\"height: 20px\">&nbsp;</p>\n<p><a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/pharmacology-and-therapeutics-advisory-committee-ptac/ptac-terms-of-reference-july-2021/\" rel=\"nofollow\">PTAC</a>  and <a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/specialist-advisory-committees/specialist-advisory-committee-terms-of-reference//\" rel=\"nofollow\">Specialist Advisory Committees</a> records of the meeting will be published on this website in accordance with the Terms of Reference.</p>",
+    "position": 1,
+    "name": "Seeking Clinical Advice",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "May 2020",
+          "fs": "May 2020",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Clinical advice required",
+          "fs": "Clinical advice required",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000PbDG32AN"
+          },
+          "Id": "a0POZ00000PbDG32AN",
+          "Event_Date__c": "2020-05-25",
+          "Event_Description__c": "Clinical advice required",
+          "Stage__c": "Seeking Clinical Advice",
+          "Formatted_Date__c": "May 2020",
+          "Status_History__c": "a132P000000Bn4zQAC"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Aug 2020",
+          "fs": "Aug 2020",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Clinical advice required",
+          "fs": "Clinical advice required",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000PbDG42AN"
+          },
+          "Id": "a0POZ00000PbDG42AN",
+          "Event_Date__c": "2020-08-18",
+          "Event_Description__c": "Clinical advice required",
+          "Stage__c": "Seeking Clinical Advice",
+          "Formatted_Date__c": "Aug 2020",
+          "Status_History__c": "a132P000000C3CLQA0"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Aug 2020",
+          "fs": "Aug 2020",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Assigned to Pharmacology and Therapeutics Advisory Committee (PTAC) meeting to provide advice on Friday 18 September 2020",
+          "fs": "Assigned to Pharmacology and Therapeutics Advisory Committee (PTAC) meeting to provide advice on Friday 18 September 2020",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000PbDG52AN"
+          },
+          "Id": "a0POZ00000PbDG52AN",
+          "Event_Date__c": "2020-08-25",
+          "Event_Description__c": "Assigned to Pharmacology and Therapeutics Advisory Committee (PTAC) meeting to provide advice on Friday 18 September 2020",
+          "Stage__c": "Seeking Clinical Advice",
+          "Formatted_Date__c": "Aug 2020",
+          "Status_History__c": "a132P000000C4e9QAC"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": "<p>The Committee recommended that diflunisal be funded with a low priority subject to the following Special Authority criteria:</p><p><b style=\"font-size: 9pt;\">DIFLUNISAL</b></p><p><b style=\"font-size: 9pt;\">Special Authority for Subsidy </b></p><p><b style=\"font-size: 9pt;\">Initial application </b><span style=\"font-size: 9pt;\">from a haematologist, cardiologist or relevant medical specialist on the recommendation of a haematologist or cardiologist. Approvals valid for 6 months for applications meeting the following criteria:</span></p><p><span style=\"font-size: 9pt;\">All of the following: </span></p><p><span style=\"font-size: 9pt;\">1.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Patient has mutated or wild-type ATTR (transthyretin) amyloidosis; and</span></p><p><span style=\"font-size: 9pt;\">2.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Patient has histological confirmation of ATTR based on cardiac or non-cardiac biopsy; and</span></p><p><span style=\"font-size: 9pt;\">3.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Patient\u2019s symptoms meet the criteria of the New York Heart Association (NYHA) Class I, II or III.</span></p><p><br></p><p><b style=\"font-size: 9pt;\">Renewal \u2013 </b><span style=\"font-size: 9pt;\">from any relevant practitioner on the recommendation of a haematologist, cardiologist or relevant medical specialist. Approvals valid for 6 months for applications meeting the following criteria:</span></p><p><span style=\"font-size: 9pt;\">All of the following: </span></p><p><span style=\"font-size: 9pt;\">1.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">The treatment remains appropriate and the patient is benefiting from treatment; and</span></p><p><span style=\"font-size: 9pt;\">2.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Patient\u2019s symptoms meet the criteria of the New York Heart Association (NYHA) Class I, II or III.</span></p><p><br></p><p>In making this recommendation, the Committee considered: the high health need of this patient group; the lack of a funded disease-modifying treatment; a possible survival benefit with diflunisal compared to best supportive care in ATTR cardiomyopathy, based on low quality evidence i.e. retrospective case-control studies with small patient numbers, and inherent differences between patient groups at baseline; the well-established NSAID safety profile of diflunisal; and the suitability of an oral treatment, noting that there is currently no Medsafe-approved diflunisal product for any indication.\u00a0</p>",
+          "fs": "<p>The Committee recommended that diflunisal be funded with a low priority subject to the following Special Authority criteria:</p><p><b style=\"font-size: 9pt;\">DIFLUNISAL</b></p><p><b style=\"font-size: 9pt;\">Special Authority for Subsidy </b></p><p><b style=\"font-size: 9pt;\">Initial application </b><span style=\"font-size: 9pt;\">from a haematologist, cardiologist or relevant medical specialist on the recommendation of a haematologist or cardiologist. Approvals valid for 6 months for applications meeting the following criteria:</span></p><p><span style=\"font-size: 9pt;\">All of the following: </span></p><p><span style=\"font-size: 9pt;\">1.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Patient has mutated or wild-type ATTR (transthyretin) amyloidosis; and</span></p><p><span style=\"font-size: 9pt;\">2.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Patient has histological confirmation of ATTR based on cardiac or non-cardiac biopsy; and</span></p><p><span style=\"font-size: 9pt;\">3.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Patient\u2019s symptoms meet the criteria of the New York Heart Association (NYHA) Class I, II or III.</span></p><p><br></p><p><b style=\"font-size: 9pt;\">Renewal \u2013 </b><span style=\"font-size: 9pt;\">from any relevant practitioner on the recommendation of a haematologist, cardiologist or relevant medical specialist. Approvals valid for 6 months for applications meeting the following criteria:</span></p><p><span style=\"font-size: 9pt;\">All of the following: </span></p><p><span style=\"font-size: 9pt;\">1.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">The treatment remains appropriate and the patient is benefiting from treatment; and</span></p><p><span style=\"font-size: 9pt;\">2.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Patient\u2019s symptoms meet the criteria of the New York Heart Association (NYHA) Class I, II or III.</span></p><p><br></p><p>In making this recommendation, the Committee considered: the high health need of this patient group; the lack of a funded disease-modifying treatment; a possible survival benefit with diflunisal compared to best supportive care in ATTR cardiomyopathy, based on low quality evidence i.e. retrospective case-control studies with small patient numbers, and inherent differences between patient groups at baseline; the well-established NSAID safety profile of diflunisal; and the suitability of an oral treatment, noting that there is currently no Medsafe-approved diflunisal product for any indication.\u00a0</p>",
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": "<p>The Committee noted that amyloidosis is a group of diseases in which a pathologically abnormal protein causes amyloid (fibril) deposits to accumulate in organs, leading to rapid and progressive damage. The Committee noted that abnormal transthyretin (TTR) protein which is produced in the liver causes transthyretin amyloidosis (ATTR), which arises from either mutated TTR (ATTRm) or wild-type TTR (ATTRwt) and can result in cardiomyopathy and heart failure due to amyloid deposits accumulating in the heart. </p><p><br></p><p>The Committee considered that patients with amyloidosis have a high health need due to the severe and chronic nature of the disease and noted that the average overall survival is approximately three to five years from diagnosis. The Committee noted that many patients have moderate to severe symptomatic cardiomyopathy corresponding to New York Heart Association (NYHA) functional classification of III or IV at diagnosis, and that a UK study reported diagnoses of ATTR cardiomyopathy occurring three to four years after presentation with cardiac symptoms, during which time many patients used hospital services (<a href=\"https://www.ahajournals.org/doi/10.1161/CIRCULATIONAHA.118.038169?url_ver=Z39.88-2003&amp;rfr_id=ori:rid:crossref.org&amp;rfr_dat=cr_pub%20%200pubmed\" target=\"_blank\">Lane et al. Circulation. 2019;140:16-26</a><u style=\"color: blue;\">)</u>. </p><p>Members noted that, in addition to heart failure, progressive neuropathy is a substantial issue for many people with ATTR (<a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6598024/\" target=\"_blank\" style=\"color: windowtext;\">Kapoor et al. J Neuromuscul Dis. 2019;6:189-99</a>), however, members considered that biological differences may exist between the disease of patients with ATTR with neuropathy compared with those without neuropathy.</p><p>The Committee noted that patients with ATTRwt cardiomyopathy typically present between 60 to 70 years of age, possibly accompanied or preceded by carpal tunnel syndrome, whereas earlier presentation is likely with ATTRm cardiomyopathy, occurring from about thirty years of age and onward. The Committee noted that there is currently no data to indicate whether ATTR cardiomyopathy disproportionately affects M\u0101ori, Pacific people or groups experiencing health disparities.</p><p><br></p><p>The Committee noted that while the true prevalence (estimated in a Japanese hospital database cross-sectional study to be 70-86 cases of ATTRwt per million and 2.4-2.9 cases of ATTRm per million) may be underestimated, there is evidence that the prevalence and incidence of ATTR cardiomyopathy (and ATTRwt in particular) is increasing worldwide (<a href=\"https://pubmed.ncbi.nlm.nih.gov/31376091/\" target=\"_blank\">Winburn et al. Cardiol Ther. 2019;8:297-316</a><u style=\"color: blue;\">;</u> <a href=\"https://pubmed.ncbi.nlm.nih.gov/31170802/\" target=\"_blank\">Gilstrap et al. Circ Heart Fail. 2019;12:e005407</a>; <a href=\"https://www.ahajournals.org/doi/10.1161/CIRCULATIONAHA.118.038169?url_ver=Z39.88-2003&amp;rfr_id=ori:rid:crossref.org&amp;rfr_dat=cr_pub%20%200pubmed\" target=\"_blank\">Lane et al. Circulation. 2019;140:16-26</a>). This is likely a result of increased awareness, diagnosis (including non-invasive imaging), and treatment options. Members considered that the prevalence of mutated disease in New Zealand is lower than previously estimated, with approximately 30 patients who have ATTRm cardiomyopathy seen per year. </p><p><br></p><p>The Committee noted that there are no funded disease-modifying treatments for ATTR cardiomyopathy in New Zealand. Unfunded treatments which are being used or investigated internationally for ATTR cardiomyopathy aim to either suppress TTR e.g. inotersen, patisiran, stabilise TTR e.g. tafamidis, or disrupt or reabsorb TTR e.g. monoclonal antibodies.</p><p><br></p><p>The Committee noted that liver transplant (or combined liver and heart transplant) are treatment options in New Zealand for some patients with ATTR cardiomyopathy. These are undertaken to suppress production of abnormal TTR in the liver, however, transplant may not be suitable for all patients and may not be curative because amyloid can continue to accumulate even after transplantation. </p><p>The Committee noted that, in <a href=\"https://www.pharmac.govt.nz/assets/ptac-Cardiovascular-Subcommittee-Minutes-2019-05.pdf\" target=\"_blank\">May 2019</a><u style=\"color: blue;\"> </u>the Cardiovascular Subcommittee considered a proposal for the funding of tafamidis for the treatment of cardiac amyloidosis that is specifically caused by transthyretin amyloidosis (ATTR); including both ATTRm and ATTRwt. The Cardiovascular Subcommittee recommended tafamidis be funded with a medium priority, subject to restrictions under Special Authority. In making this recommendation, the Subcommittee noted the high health need of patients and lack of funded pharmaceutical treatments that modify disease progression. </p><p>Patient characteristics in the Special Authority restrictions for tafamidis recommended by the Cardiovascular Subcommittee included ATTR cardiomyopathy (either hereditary mutated or wild-type) with no/minimal or mild symptoms of heart failure i.e. NYHA class I and II.</p><p>In <a href=\"https://www.pharmac.govt.nz/assets/ptac-minutes-2019-08.pdf\" target=\"_blank\">August 2019</a>, PTAC reviewed the Cardiovascular Subcommittee\u2019s record, noted a survival benefit associated with tafamidis and recommended that it review the application for tafamidis, based on the likely high cost of this medicine, once there was a clear signal that a product would be registered in New Zealand. </p><p>In <a href=\"https://www.pharmac.govt.nz/assets/ptac-rare-disorder-subcommittee-record-2019-09.pdf\" target=\"_blank\">September 2019</a>, the Rare Disorders Subcommittee reviewed the Cardiovascular Subcommittee\u2019s record regarding tafamidis and considered there was uncertainty in patient numbers but that it was likely at least 100 people in New Zealand would have this condition, and that rates of diagnosis were likely to increase in future.</p><p><br></p><p>The Committee noted that tafamidis is under assessment by PHARMAC and staff have contacted the supplier (Pfizer), however, there has been no formal response regarding regulatory approval or supply of tafamidis in New Zealand.</p><p><br></p><p>The Committee noted that diflunisal is a long-established non-selective non-steroidal anti-inflammatory drug (NSAID) that the Committee understood was approved for use in New Zealand from the late 1970s until 1999. The Committee noted that, based on <i>in vitro</i> and phase I clinical trial evidence, diflunisal stabilises TTR tetramers through its interaction with TTR\u2019s thyroxine binding site, and has been proposed as a disease-modifying pharmaceutical for ATTR cardiomyopathy. </p><p><br></p><p>The Committee noted that diflunisal is a tablet that is taken orally every 8 to 12 hours, swallowed whole, at around the same time each day at a dose of 250 mg twice daily for ATTR cardiomyopathy. The Committee considered that, as an oral formulation, diflunisal would be suitable for long-term treatment, noting that tablet splitting may be required if a 500 mg tablet were funded.</p><p><br></p><p>The Committee noted that NSAIDs carry risks in relation to gastrointestinal bleeding, and considered that the risk associated with diflunisal would be moderate relative to other NSAIDs. Members noted that a six-month study in patients with osteoarthritis reported fewer side effects (including gastrointestinal effects) with diflunisal compared with ibuprofen or acetylsalicylic acid (<a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1428844/\" target=\"_blank\">Andrew et al. Br J Clin Pharmacol. 1977;4(Suppl 1):45S-52S</a>). The Committee considered it was reasonable to expect the general safety profile of diflunisal to be similar to that of other non-selective NSAIDs as a result of a likely class effect of NSAIDs. The Committee considered that, as with much non-selective NSAID prescribing, diflunisal would likely be used in combination with a proton pump inhibitor and/or an H2 antagonist. The Committee also noted that, in line with NZ Formulary guidance, NSAIDs should be used with caution in patients with cardiac impairment, and should be avoided if possible or used with caution in patients with renal impairment. </p><p>The Committee noted that there is currently no diflunisal product approved by Medsafe, and that the approval of two previously approved diflunisal products has lapsed. The Committee noted that diflunisal is approved by the FDA (USA) and EMA (Europe) for use in indications such as pain relief, inflammation and rheumatoid arthritis; that in Australia diflunisal can be accessed for the treatment of amyloidosis via the Special Access Scheme; and that it appears to be used off-label in other countries for the treatment of ATTR cardiomyopathy.</p><p><br></p><p>The Committee considered it unlikely that a supplier would seek Medsafe approval of diflunisal for the treatment of ATTR cardiomyopathy, given relatively small patient numbers and the apparent absence of approval in any international jurisdiction. The Committee considered that, while it would be preferable to fund an approved product, the funded use of diflunisal in New Zealand without Medsafe approval i.e. accessed via Section 29 of the Medicines Act, would be reasonable, given that diflunisal has previously been approved by Medsafe, the known NSAID safety profile of diflunisal, and its international off-label use in this indication. </p><p>The Committee noted that the evidence base for the efficacy of diflunisal for ATTR cardiomyopathy consists of low-quality non-experimental evidence from retrospective case control studies, with no phase III randomised controlled trials identified in patients with ATTR cardiomyopathy. </p><p>The Committee noted the results from a retrospective, case-control single-centre cohort study in 120 patients with ATTR cardiac amyloidosis presenting to a US specialist centre between 2001 and 2016 who either received a stabiliser (N = 29; either diflunisal [N = 13] or tafamidis [N = 16]) or did not receive a stabiliser (N = 91) and who were followed up for a median of 1.9 years (<a href=\"https://pubmed.ncbi.nlm.nih.gov/29615436/\" target=\"_blank\">Rosenblum et al. Circ Heart Fail. 2018;11:e004769</a>). The Committee noted that patients who received stabilisers were NYHA class I (N = 2), class II (N = 21) or class III (N = 6); none were NYHA class IV.</p><p>The Committee noted that there were differences between groups at baseline including the proportion of ATTRm patients in each group, NYHA severity and renal function. The Committee considered that patients who received a stabiliser likely had a less severe disease phenotype at baseline compared with patients who did not receive a stabiliser, and considered this potential selection bias affected the quality of the evidence.</p><p><br></p><p>The Committee noted that the risk of the combined endpoint of death or orthotopic heart transplant (OHT) was lower with stabiliser use compared with no stabiliser use (hazard ratio (HR) 0.32, 95% CI 0.18 to 0.58, P&lt;0.0001) and that the findings persisted after adjustment for all non-linear covariate predictors. The Committee considered that this statistically significant result may have been confounded by the case control data used for analysis.</p><p><br></p><p>The Committee noted that the authors reported survival probability for each of the two stabiliser types separately, compared with no stabiliser use, and considered that these results indicated a similar benefit over time between the two stabilisers, although limited by very small patient numbers contributing data to the later years of follow-up and the various between-group differences in disease severity at baseline. The Committee considered that the evidence comparing stabiliser type was hypothesis-generating and limited by the small sample size.</p><p><br></p><p>The Committee noted the results from a retrospective study of 105 patients with ATTRwt cardiac amyloidosis seen between 2009 and 2016 who were treated with diflunisal for at least one year (N = 35), or untreated (N = 70), which were published in abstract form only (<a href=\"https://www.ahajournals.org/doi/10.1161/circ.140.suppl_1.13123\" target=\"_blank\">Mints et al. Circulation. 2019;140 [Suppl_1]: Abstract Nr. 13123</a>). </p><p><br></p><p>The Committee noted that patients who received diflunisal had a less severe disease phenotype at baseline with younger age (P=0.07), lower BNP levels (P=0.008), lower troponin I levels (P=0.03) and a trend towards worse renal function, compared with patients who did not receive diflunisal. </p><p><br></p><p>The Committee noted that diflunisal was associated with improved survival that reportedly persisted after adjustment for several covariates (HR, 0.23, 95% CI: 0.09 to 0.60, P=0.003), however, the Committee considered the minimal amount of information available in abstract form and the imbalance between treated and untreated groups (suggesting appreciable selection bias) limited this evidence.</p><p><br></p><p>The Committee noted the following evidence regarding safety and tolerability of diflunisal in ATTR cardiomyopathy from retrospective longitudinal studies and an open-label study:</p><p><span style=\"color: black; font-family: Symbol;\">\u00b7</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/30388377/\" target=\"_blank\">Ikram et al. Amyloid. 2018;25:197-202</a> (N = 23)</p><p><span style=\"color: black; font-family: Symbol;\">\u00b7</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/26017328/\" target=\"_blank\">Sekijima et al. Amyloid. 2015;22:79-83</a> (N = 40)</p><p><span style=\"color: black; font-family: Symbol;\">\u00b7</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3727153/\" target=\"_blank\">Castano et al. Congest Heart Fail. 2012;18:315-9</a> (N = 13)</p><p><br></p><p>The Committee noted these studies were limited by small numbers of patients and variation in the proportion of patients with each NYHA class (in particular, there were few patients with NYHA class IV). The Committee noted each study had a small number of patients withdraw, one study reported gastrointestinal toxicities and one study reported a trend towards decreased renal function over time.</p><p>The Committee also noted the following evidence regarding diflunisal in ATTR cardiomyopathy:</p><p><span style=\"color: black; font-family: Symbol;\">\u00b7</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/31805416/\" target=\"_blank\">Lohrmann et al. J Card Fail. 2019;S1071-9164:31435-6</a></p><p><span style=\"color: black; font-family: Symbol;\">\u00b7</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/31343354/\" target=\"_blank\">Wixner et al. Amyloid. 2019;26:39-40</a></p><p><br></p><p>The Committee noted that severe gastro-intestinal bleeding was not reported in any patients in the studies reviewed, although cases of erosive gastritis, reduced appetite and gastric pain were reported and did result in discontinuation for some patients. Members noted evidence from a Swedish study in 54 patients with ATTRm with neuropathy and considered that despite treatment discontinuation in 19% of patients (in part due to diarrhoea or increased creatinine), many patients tolerated treatment with diflunisal for many years (<a href=\"https://www.tandfonline.com/doi/full/10.1080/13506129.2019.1593133\" target=\"_blank\" style=\"color: windowtext;\">Wixner et al. Amyloid. 2019;26(sup1):39-40</a>). </p><p><br></p><p>The Committee considered that the evidence supported the known NSAID side effect profile of diflunisal, with no unexpected or idiosyncratic toxicities identified. The Committee considered that management of patients with reduced or preserved EF (who may require different management) or with either heart failure or impaired renal function (in which case NSAIDs may be contraindicated) would be at their treating clinician\u2019s discretion, including the decision whether or not diflunisal was an appropriate treatment option.</p><p><br></p><p>The Committee considered that there was no evidence to indicate whether patients administered diflunisal are likely to have fewer cardiovascular-related hospitalisations than those who do not receive diflunisal. </p><p><br></p><p>The Committee considered that there is evidence of increased survival associated with diflunisal compared with best supportive care for patients with ATTRm cardiomyopathy or ATTRwt cardiomyopathy. The Committee considered that this assessment was based on low-quality evidence, with potential study bias caused by differences in the disease severity of the patient populations, small numbers of patients in the studies (and with ATTRm, in particular), limited evidence for ATTRwt (noting there is an abstract only for one study in this patient group), and limitations of the evidence quality and strength.</p><p><br></p><p>The Committee considered that the evidence suggests the long-term survival benefit with diflunisal is possibly less than the long-term survival benefit with tafamidis, but noted that there were substantial limitations in this assessment as a result of the low quality and strength of the evidence, mentioned above. </p><p>Members considered that an additional benefit of diflunisal may be improvement of neuropathy from ATTR, although patients with neuropathy were not the target population in these applications and evidence for patients with ATTR cardiomyopathy with neuropathy was not reviewed in detail. Members considered that an improvement in neuropathy for patients with ATTR cardiomyopathy would likely be associated with improvement in quality of life for affected patients e.g. due to reduced postural hypotension.</p><p><br></p><p>The Committee also noted the following international consensus guidelines:</p><p><span style=\"color: black; font-family: Symbol;\">\u00b7</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>Clinical practice update on heart failure 2019: pharmacotherapy, procedures, devices and patient management. An expert consensus meeting report of the Heart Failure Association of the European Society of Cardiology (<a href=\"https://pubmed.ncbi.nlm.nih.gov/31129923/\" target=\"_blank\">Seferovic et al. Eur J Heart Fail. 2019;21:1169-1186</a>).</p><p><span style=\"color: black; font-family: Symbol;\">\u00b7</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>Cardiac Amyloidosis: Evolving Diagnosis and Management: A Scientific Statement From the American Heart Association (<a href=\"https://pubmed.ncbi.nlm.nih.gov/32476490/\" target=\"_blank\">Kittleson et al. Circulation. 2020;142:e7-e22</a>).</p><p><span style=\"color: black; font-family: Symbol;\">\u00b7</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The American College of Cardiology <a href=\"https://www.acc.org/sitecore/content/Sites/ACC/Home/Latest-in-Cardiology/ten-points-to-remember/2019/12/13/13/34/Treatment-of-Cardiac-Transthyretin-Amyloidosis\" target=\"_blank\">December 2019 update</a> (based on the European Heart Journal article by <a href=\"https://academic.oup.com/eurheartj/article/40/45/3699/5492358\" target=\"_blank\">Emdin et al. Eur Heart J. 2019;40:3699-706</a>).</p><p><span style=\"color: black; font-family: Symbol;\">\u00b7</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>Management of Cardiac ATTR. Australian Amyloidosis Network [Internet]. Australia; 2012 [cited 2020 July 21]. Available from <a href=\"http://amyloidosis.net.au/health-professionals/amyloidosis-for-cardiologists/\" target=\"_blank\">http://amyloidosis.net.au/health-professionals/amyloidosis-for-cardiologists/</a></p><p><br></p><p>The Committee considered that the proposed Special Authority criteria for diflunisal identified a specific patient group with ATTR cardiomyopathy based on the evidence available (including NYHA class). The Committee did not consider at this stage that the Special Authority criteria for tafamidis required amendment in light of the evidence reviewed by the Committee for diflunisal.</p><p><br></p><p>The Committee considered that with an estimated 100 patients per year with ATTR cardiomyopathy that the cost to the pharmaceutical budget each year would be low, however, the Committee considered that the presence of a funded disease-modifying treatment for ATTR cardiomyopathy e.g. diflunisal, would likely increase the disease prevalence in New Zealand, due to greater awareness and diagnosis resulting in more patients being considered for treatment. </p><p><br></p><p>The Committee considered that funding a disease-modifying therapy for ATTR cardiomyopathy e.g. diflunisal, would also lead to increased use of health system resource for early diagnosis such as biopsies (either endomyocardial biopsy, or non-cardiac biopsy e.g. fat pad, cardiac MRI scans, or 99mtechnetium-pyrophosphate (99mTc-PYP) scans, if available.</p>",
+          "fs": "<p>The Committee noted that amyloidosis is a group of diseases in which a pathologically abnormal protein causes amyloid (fibril) deposits to accumulate in organs, leading to rapid and progressive damage. The Committee noted that abnormal transthyretin (TTR) protein which is produced in the liver causes transthyretin amyloidosis (ATTR), which arises from either mutated TTR (ATTRm) or wild-type TTR (ATTRwt) and can result in cardiomyopathy and heart failure due to amyloid deposits accumulating in the heart. </p><p><br></p><p>The Committee considered that patients with amyloidosis have a high health need due to the severe and chronic nature of the disease and noted that the average overall survival is approximately three to five years from diagnosis. The Committee noted that many patients have moderate to severe symptomatic cardiomyopathy corresponding to New York Heart Association (NYHA) functional classification of III or IV at diagnosis, and that a UK study reported diagnoses of ATTR cardiomyopathy occurring three to four years after presentation with cardiac symptoms, during which time many patients used hospital services (<a href=\"https://www.ahajournals.org/doi/10.1161/CIRCULATIONAHA.118.038169?url_ver=Z39.88-2003&amp;rfr_id=ori:rid:crossref.org&amp;rfr_dat=cr_pub%20%200pubmed\" target=\"_blank\">Lane et al. Circulation. 2019;140:16-26</a><u style=\"color: blue;\">)</u>. </p><p>Members noted that, in addition to heart failure, progressive neuropathy is a substantial issue for many people with ATTR (<a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6598024/\" target=\"_blank\" style=\"color: windowtext;\">Kapoor et al. J Neuromuscul Dis. 2019;6:189-99</a>), however, members considered that biological differences may exist between the disease of patients with ATTR with neuropathy compared with those without neuropathy.</p><p>The Committee noted that patients with ATTRwt cardiomyopathy typically present between 60 to 70 years of age, possibly accompanied or preceded by carpal tunnel syndrome, whereas earlier presentation is likely with ATTRm cardiomyopathy, occurring from about thirty years of age and onward. The Committee noted that there is currently no data to indicate whether ATTR cardiomyopathy disproportionately affects M\u0101ori, Pacific people or groups experiencing health disparities.</p><p><br></p><p>The Committee noted that while the true prevalence (estimated in a Japanese hospital database cross-sectional study to be 70-86 cases of ATTRwt per million and 2.4-2.9 cases of ATTRm per million) may be underestimated, there is evidence that the prevalence and incidence of ATTR cardiomyopathy (and ATTRwt in particular) is increasing worldwide (<a href=\"https://pubmed.ncbi.nlm.nih.gov/31376091/\" target=\"_blank\">Winburn et al. Cardiol Ther. 2019;8:297-316</a><u style=\"color: blue;\">;</u> <a href=\"https://pubmed.ncbi.nlm.nih.gov/31170802/\" target=\"_blank\">Gilstrap et al. Circ Heart Fail. 2019;12:e005407</a>; <a href=\"https://www.ahajournals.org/doi/10.1161/CIRCULATIONAHA.118.038169?url_ver=Z39.88-2003&amp;rfr_id=ori:rid:crossref.org&amp;rfr_dat=cr_pub%20%200pubmed\" target=\"_blank\">Lane et al. Circulation. 2019;140:16-26</a>). This is likely a result of increased awareness, diagnosis (including non-invasive imaging), and treatment options. Members considered that the prevalence of mutated disease in New Zealand is lower than previously estimated, with approximately 30 patients who have ATTRm cardiomyopathy seen per year. </p><p><br></p><p>The Committee noted that there are no funded disease-modifying treatments for ATTR cardiomyopathy in New Zealand. Unfunded treatments which are being used or investigated internationally for ATTR cardiomyopathy aim to either suppress TTR e.g. inotersen, patisiran, stabilise TTR e.g. tafamidis, or disrupt or reabsorb TTR e.g. monoclonal antibodies.</p><p><br></p><p>The Committee noted that liver transplant (or combined liver and heart transplant) are treatment options in New Zealand for some patients with ATTR cardiomyopathy. These are undertaken to suppress production of abnormal TTR in the liver, however, transplant may not be suitable for all patients and may not be curative because amyloid can continue to accumulate even after transplantation. </p><p>The Committee noted that, in <a href=\"https://www.pharmac.govt.nz/assets/ptac-Cardiovascular-Subcommittee-Minutes-2019-05.pdf\" target=\"_blank\">May 2019</a><u style=\"color: blue;\"> </u>the Cardiovascular Subcommittee considered a proposal for the funding of tafamidis for the treatment of cardiac amyloidosis that is specifically caused by transthyretin amyloidosis (ATTR); including both ATTRm and ATTRwt. The Cardiovascular Subcommittee recommended tafamidis be funded with a medium priority, subject to restrictions under Special Authority. In making this recommendation, the Subcommittee noted the high health need of patients and lack of funded pharmaceutical treatments that modify disease progression. </p><p>Patient characteristics in the Special Authority restrictions for tafamidis recommended by the Cardiovascular Subcommittee included ATTR cardiomyopathy (either hereditary mutated or wild-type) with no/minimal or mild symptoms of heart failure i.e. NYHA class I and II.</p><p>In <a href=\"https://www.pharmac.govt.nz/assets/ptac-minutes-2019-08.pdf\" target=\"_blank\">August 2019</a>, PTAC reviewed the Cardiovascular Subcommittee\u2019s record, noted a survival benefit associated with tafamidis and recommended that it review the application for tafamidis, based on the likely high cost of this medicine, once there was a clear signal that a product would be registered in New Zealand. </p><p>In <a href=\"https://www.pharmac.govt.nz/assets/ptac-rare-disorder-subcommittee-record-2019-09.pdf\" target=\"_blank\">September 2019</a>, the Rare Disorders Subcommittee reviewed the Cardiovascular Subcommittee\u2019s record regarding tafamidis and considered there was uncertainty in patient numbers but that it was likely at least 100 people in New Zealand would have this condition, and that rates of diagnosis were likely to increase in future.</p><p><br></p><p>The Committee noted that tafamidis is under assessment by PHARMAC and staff have contacted the supplier (Pfizer), however, there has been no formal response regarding regulatory approval or supply of tafamidis in New Zealand.</p><p><br></p><p>The Committee noted that diflunisal is a long-established non-selective non-steroidal anti-inflammatory drug (NSAID) that the Committee understood was approved for use in New Zealand from the late 1970s until 1999. The Committee noted that, based on <i>in vitro</i> and phase I clinical trial evidence, diflunisal stabilises TTR tetramers through its interaction with TTR\u2019s thyroxine binding site, and has been proposed as a disease-modifying pharmaceutical for ATTR cardiomyopathy. </p><p><br></p><p>The Committee noted that diflunisal is a tablet that is taken orally every 8 to 12 hours, swallowed whole, at around the same time each day at a dose of 250 mg twice daily for ATTR cardiomyopathy. The Committee considered that, as an oral formulation, diflunisal would be suitable for long-term treatment, noting that tablet splitting may be required if a 500 mg tablet were funded.</p><p><br></p><p>The Committee noted that NSAIDs carry risks in relation to gastrointestinal bleeding, and considered that the risk associated with diflunisal would be moderate relative to other NSAIDs. Members noted that a six-month study in patients with osteoarthritis reported fewer side effects (including gastrointestinal effects) with diflunisal compared with ibuprofen or acetylsalicylic acid (<a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1428844/\" target=\"_blank\">Andrew et al. Br J Clin Pharmacol. 1977;4(Suppl 1):45S-52S</a>). The Committee considered it was reasonable to expect the general safety profile of diflunisal to be similar to that of other non-selective NSAIDs as a result of a likely class effect of NSAIDs. The Committee considered that, as with much non-selective NSAID prescribing, diflunisal would likely be used in combination with a proton pump inhibitor and/or an H2 antagonist. The Committee also noted that, in line with NZ Formulary guidance, NSAIDs should be used with caution in patients with cardiac impairment, and should be avoided if possible or used with caution in patients with renal impairment. </p><p>The Committee noted that there is currently no diflunisal product approved by Medsafe, and that the approval of two previously approved diflunisal products has lapsed. The Committee noted that diflunisal is approved by the FDA (USA) and EMA (Europe) for use in indications such as pain relief, inflammation and rheumatoid arthritis; that in Australia diflunisal can be accessed for the treatment of amyloidosis via the Special Access Scheme; and that it appears to be used off-label in other countries for the treatment of ATTR cardiomyopathy.</p><p><br></p><p>The Committee considered it unlikely that a supplier would seek Medsafe approval of diflunisal for the treatment of ATTR cardiomyopathy, given relatively small patient numbers and the apparent absence of approval in any international jurisdiction. The Committee considered that, while it would be preferable to fund an approved product, the funded use of diflunisal in New Zealand without Medsafe approval i.e. accessed via Section 29 of the Medicines Act, would be reasonable, given that diflunisal has previously been approved by Medsafe, the known NSAID safety profile of diflunisal, and its international off-label use in this indication. </p><p>The Committee noted that the evidence base for the efficacy of diflunisal for ATTR cardiomyopathy consists of low-quality non-experimental evidence from retrospective case control studies, with no phase III randomised controlled trials identified in patients with ATTR cardiomyopathy. </p><p>The Committee noted the results from a retrospective, case-control single-centre cohort study in 120 patients with ATTR cardiac amyloidosis presenting to a US specialist centre between 2001 and 2016 who either received a stabiliser (N = 29; either diflunisal [N = 13] or tafamidis [N = 16]) or did not receive a stabiliser (N = 91) and who were followed up for a median of 1.9 years (<a href=\"https://pubmed.ncbi.nlm.nih.gov/29615436/\" target=\"_blank\">Rosenblum et al. Circ Heart Fail. 2018;11:e004769</a>). The Committee noted that patients who received stabilisers were NYHA class I (N = 2), class II (N = 21) or class III (N = 6); none were NYHA class IV.</p><p>The Committee noted that there were differences between groups at baseline including the proportion of ATTRm patients in each group, NYHA severity and renal function. The Committee considered that patients who received a stabiliser likely had a less severe disease phenotype at baseline compared with patients who did not receive a stabiliser, and considered this potential selection bias affected the quality of the evidence.</p><p><br></p><p>The Committee noted that the risk of the combined endpoint of death or orthotopic heart transplant (OHT) was lower with stabiliser use compared with no stabiliser use (hazard ratio (HR) 0.32, 95% CI 0.18 to 0.58, P&lt;0.0001) and that the findings persisted after adjustment for all non-linear covariate predictors. The Committee considered that this statistically significant result may have been confounded by the case control data used for analysis.</p><p><br></p><p>The Committee noted that the authors reported survival probability for each of the two stabiliser types separately, compared with no stabiliser use, and considered that these results indicated a similar benefit over time between the two stabilisers, although limited by very small patient numbers contributing data to the later years of follow-up and the various between-group differences in disease severity at baseline. The Committee considered that the evidence comparing stabiliser type was hypothesis-generating and limited by the small sample size.</p><p><br></p><p>The Committee noted the results from a retrospective study of 105 patients with ATTRwt cardiac amyloidosis seen between 2009 and 2016 who were treated with diflunisal for at least one year (N = 35), or untreated (N = 70), which were published in abstract form only (<a href=\"https://www.ahajournals.org/doi/10.1161/circ.140.suppl_1.13123\" target=\"_blank\">Mints et al. Circulation. 2019;140 [Suppl_1]: Abstract Nr. 13123</a>). </p><p><br></p><p>The Committee noted that patients who received diflunisal had a less severe disease phenotype at baseline with younger age (P=0.07), lower BNP levels (P=0.008), lower troponin I levels (P=0.03) and a trend towards worse renal function, compared with patients who did not receive diflunisal. </p><p><br></p><p>The Committee noted that diflunisal was associated with improved survival that reportedly persisted after adjustment for several covariates (HR, 0.23, 95% CI: 0.09 to 0.60, P=0.003), however, the Committee considered the minimal amount of information available in abstract form and the imbalance between treated and untreated groups (suggesting appreciable selection bias) limited this evidence.</p><p><br></p><p>The Committee noted the following evidence regarding safety and tolerability of diflunisal in ATTR cardiomyopathy from retrospective longitudinal studies and an open-label study:</p><p><span style=\"color: black; font-family: Symbol;\">\u00b7</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/30388377/\" target=\"_blank\">Ikram et al. Amyloid. 2018;25:197-202</a> (N = 23)</p><p><span style=\"color: black; font-family: Symbol;\">\u00b7</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/26017328/\" target=\"_blank\">Sekijima et al. Amyloid. 2015;22:79-83</a> (N = 40)</p><p><span style=\"color: black; font-family: Symbol;\">\u00b7</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3727153/\" target=\"_blank\">Castano et al. Congest Heart Fail. 2012;18:315-9</a> (N = 13)</p><p><br></p><p>The Committee noted these studies were limited by small numbers of patients and variation in the proportion of patients with each NYHA class (in particular, there were few patients with NYHA class IV). The Committee noted each study had a small number of patients withdraw, one study reported gastrointestinal toxicities and one study reported a trend towards decreased renal function over time.</p><p>The Committee also noted the following evidence regarding diflunisal in ATTR cardiomyopathy:</p><p><span style=\"color: black; font-family: Symbol;\">\u00b7</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/31805416/\" target=\"_blank\">Lohrmann et al. J Card Fail. 2019;S1071-9164:31435-6</a></p><p><span style=\"color: black; font-family: Symbol;\">\u00b7</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/31343354/\" target=\"_blank\">Wixner et al. Amyloid. 2019;26:39-40</a></p><p><br></p><p>The Committee noted that severe gastro-intestinal bleeding was not reported in any patients in the studies reviewed, although cases of erosive gastritis, reduced appetite and gastric pain were reported and did result in discontinuation for some patients. Members noted evidence from a Swedish study in 54 patients with ATTRm with neuropathy and considered that despite treatment discontinuation in 19% of patients (in part due to diarrhoea or increased creatinine), many patients tolerated treatment with diflunisal for many years (<a href=\"https://www.tandfonline.com/doi/full/10.1080/13506129.2019.1593133\" target=\"_blank\" style=\"color: windowtext;\">Wixner et al. Amyloid. 2019;26(sup1):39-40</a>). </p><p><br></p><p>The Committee considered that the evidence supported the known NSAID side effect profile of diflunisal, with no unexpected or idiosyncratic toxicities identified. The Committee considered that management of patients with reduced or preserved EF (who may require different management) or with either heart failure or impaired renal function (in which case NSAIDs may be contraindicated) would be at their treating clinician\u2019s discretion, including the decision whether or not diflunisal was an appropriate treatment option.</p><p><br></p><p>The Committee considered that there was no evidence to indicate whether patients administered diflunisal are likely to have fewer cardiovascular-related hospitalisations than those who do not receive diflunisal. </p><p><br></p><p>The Committee considered that there is evidence of increased survival associated with diflunisal compared with best supportive care for patients with ATTRm cardiomyopathy or ATTRwt cardiomyopathy. The Committee considered that this assessment was based on low-quality evidence, with potential study bias caused by differences in the disease severity of the patient populations, small numbers of patients in the studies (and with ATTRm, in particular), limited evidence for ATTRwt (noting there is an abstract only for one study in this patient group), and limitations of the evidence quality and strength.</p><p><br></p><p>The Committee considered that the evidence suggests the long-term survival benefit with diflunisal is possibly less than the long-term survival benefit with tafamidis, but noted that there were substantial limitations in this assessment as a result of the low quality and strength of the evidence, mentioned above. </p><p>Members considered that an additional benefit of diflunisal may be improvement of neuropathy from ATTR, although patients with neuropathy were not the target population in these applications and evidence for patients with ATTR cardiomyopathy with neuropathy was not reviewed in detail. Members considered that an improvement in neuropathy for patients with ATTR cardiomyopathy would likely be associated with improvement in quality of life for affected patients e.g. due to reduced postural hypotension.</p><p><br></p><p>The Committee also noted the following international consensus guidelines:</p><p><span style=\"color: black; font-family: Symbol;\">\u00b7</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>Clinical practice update on heart failure 2019: pharmacotherapy, procedures, devices and patient management. An expert consensus meeting report of the Heart Failure Association of the European Society of Cardiology (<a href=\"https://pubmed.ncbi.nlm.nih.gov/31129923/\" target=\"_blank\">Seferovic et al. Eur J Heart Fail. 2019;21:1169-1186</a>).</p><p><span style=\"color: black; font-family: Symbol;\">\u00b7</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>Cardiac Amyloidosis: Evolving Diagnosis and Management: A Scientific Statement From the American Heart Association (<a href=\"https://pubmed.ncbi.nlm.nih.gov/32476490/\" target=\"_blank\">Kittleson et al. Circulation. 2020;142:e7-e22</a>).</p><p><span style=\"color: black; font-family: Symbol;\">\u00b7</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The American College of Cardiology <a href=\"https://www.acc.org/sitecore/content/Sites/ACC/Home/Latest-in-Cardiology/ten-points-to-remember/2019/12/13/13/34/Treatment-of-Cardiac-Transthyretin-Amyloidosis\" target=\"_blank\">December 2019 update</a> (based on the European Heart Journal article by <a href=\"https://academic.oup.com/eurheartj/article/40/45/3699/5492358\" target=\"_blank\">Emdin et al. Eur Heart J. 2019;40:3699-706</a>).</p><p><span style=\"color: black; font-family: Symbol;\">\u00b7</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>Management of Cardiac ATTR. Australian Amyloidosis Network [Internet]. Australia; 2012 [cited 2020 July 21]. Available from <a href=\"http://amyloidosis.net.au/health-professionals/amyloidosis-for-cardiologists/\" target=\"_blank\">http://amyloidosis.net.au/health-professionals/amyloidosis-for-cardiologists/</a></p><p><br></p><p>The Committee considered that the proposed Special Authority criteria for diflunisal identified a specific patient group with ATTR cardiomyopathy based on the evidence available (including NYHA class). The Committee did not consider at this stage that the Special Authority criteria for tafamidis required amendment in light of the evidence reviewed by the Committee for diflunisal.</p><p><br></p><p>The Committee considered that with an estimated 100 patients per year with ATTR cardiomyopathy that the cost to the pharmaceutical budget each year would be low, however, the Committee considered that the presence of a funded disease-modifying treatment for ATTR cardiomyopathy e.g. diflunisal, would likely increase the disease prevalence in New Zealand, due to greater awareness and diagnosis resulting in more patients being considered for treatment. </p><p><br></p><p>The Committee considered that funding a disease-modifying therapy for ATTR cardiomyopathy e.g. diflunisal, would also lead to increased use of health system resource for early diagnosis such as biopsies (either endomyocardial biopsy, or non-cardiac biopsy e.g. fat pad, cardiac MRI scans, or 99mtechnetium-pyrophosphate (99mTc-PYP) scans, if available.</p>",
+          "change": null
+        },
+        "Published_Application": {
+          "s": "<p>The Committee reviewed two consumer applications for diflunisal for the treatment of transthyretin amyloidosis (ATTR) cardiomyopathy. The Committee noted that one of the consumer applications was from a representative of the New Zealand Amyloidosis Patients Association (NZAPA) for ATTR cardiomyopathy in general i.e. both hereditary mutated and wild-type; the other was from a patient with ATTR wild-type (ATTRwt) cardiomyopathy who requested diflunisal be considered specifically for ATTRwt cardiomyopathy. </p><p><br></p><p>The Committee noted that PHARMAC sought advice from the Committee regarding both ATTRwt cardiomyopathy and the hereditary mutated form of the disease, ATTRm cardiomyopathy.</p><p><br></p><p>The Committee took into account, where applicable, PHARMAC\u2019s relevant decision-making framework when considering this agenda item.\u00a0</p>",
+          "fs": "<p>The Committee reviewed two consumer applications for diflunisal for the treatment of transthyretin amyloidosis (ATTR) cardiomyopathy. The Committee noted that one of the consumer applications was from a representative of the New Zealand Amyloidosis Patients Association (NZAPA) for ATTR cardiomyopathy in general i.e. both hereditary mutated and wild-type; the other was from a patient with ATTR wild-type (ATTRwt) cardiomyopathy who requested diflunisal be considered specifically for ATTRwt cardiomyopathy. </p><p><br></p><p>The Committee noted that PHARMAC sought advice from the Committee regarding both ATTRwt cardiomyopathy and the hereditary mutated form of the disease, ATTRm cardiomyopathy.</p><p><br></p><p>The Committee took into account, where applicable, PHARMAC\u2019s relevant decision-making framework when considering this agenda item.\u00a0</p>",
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": "Low",
+          "fs": "Low",
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Nov 2020",
+          "fs": "Nov 2020",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Clinical advice received from Pharmacology and Therapeutics Advisory Committee (PTAC) at meeting Friday 18 September 2020.",
+          "fs": "Clinical advice received from Pharmacology and Therapeutics Advisory Committee (PTAC) at meeting Friday 18 September 2020.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000PbDG62AN"
+          },
+          "Id": "a0POZ00000PbDG62AN",
+          "Event_Date__c": "2020-11-30",
+          "Event_Description__c": "Clinical advice received from Pharmacology and Therapeutics Advisory Committee (PTAC) at meeting Friday 18 September 2020.",
+          "Stage__c": "Seeking Clinical Advice",
+          "Outcome__c": "Low",
+          "Formatted_Date__c": "Nov 2020",
+          "Published_Recommendation__c": "<p>The Committee recommended that diflunisal be funded with a low priority subject to the following Special Authority criteria:</p><p><b style=\"font-size: 9pt;\">DIFLUNISAL</b></p><p><b style=\"font-size: 9pt;\">Special Authority for Subsidy </b></p><p><b style=\"font-size: 9pt;\">Initial application </b><span style=\"font-size: 9pt;\">from a haematologist, cardiologist or relevant medical specialist on the recommendation of a haematologist or cardiologist. Approvals valid for 6 months for applications meeting the following criteria:</span></p><p><span style=\"font-size: 9pt;\">All of the following: </span></p><p><span style=\"font-size: 9pt;\">1.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Patient has mutated or wild-type ATTR (transthyretin) amyloidosis; and</span></p><p><span style=\"font-size: 9pt;\">2.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Patient has histological confirmation of ATTR based on cardiac or non-cardiac biopsy; and</span></p><p><span style=\"font-size: 9pt;\">3.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Patient\u2019s symptoms meet the criteria of the New York Heart Association (NYHA) Class I, II or III.</span></p><p><br></p><p><b style=\"font-size: 9pt;\">Renewal \u2013 </b><span style=\"font-size: 9pt;\">from any relevant practitioner on the recommendation of a haematologist, cardiologist or relevant medical specialist. Approvals valid for 6 months for applications meeting the following criteria:</span></p><p><span style=\"font-size: 9pt;\">All of the following: </span></p><p><span style=\"font-size: 9pt;\">1.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">The treatment remains appropriate and the patient is benefiting from treatment; and</span></p><p><span style=\"font-size: 9pt;\">2.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Patient\u2019s symptoms meet the criteria of the New York Heart Association (NYHA) Class I, II or III.</span></p><p><br></p><p>In making this recommendation, the Committee considered: the high health need of this patient group; the lack of a funded disease-modifying treatment; a possible survival benefit with diflunisal compared to best supportive care in ATTR cardiomyopathy, based on low quality evidence i.e. retrospective case-control studies with small patient numbers, and inherent differences between patient groups at baseline; the well-established NSAID safety profile of diflunisal; and the suitability of an oral treatment, noting that there is currently no Medsafe-approved diflunisal product for any indication.\u00a0</p>",
+          "Published_Application__c": "<p>The Committee reviewed two consumer applications for diflunisal for the treatment of transthyretin amyloidosis (ATTR) cardiomyopathy. The Committee noted that one of the consumer applications was from a representative of the New Zealand Amyloidosis Patients Association (NZAPA) for ATTR cardiomyopathy in general i.e. both hereditary mutated and wild-type; the other was from a patient with ATTR wild-type (ATTRwt) cardiomyopathy who requested diflunisal be considered specifically for ATTRwt cardiomyopathy. </p><p><br></p><p>The Committee noted that PHARMAC sought advice from the Committee regarding both ATTRwt cardiomyopathy and the hereditary mutated form of the disease, ATTRm cardiomyopathy.</p><p><br></p><p>The Committee took into account, where applicable, PHARMAC\u2019s relevant decision-making framework when considering this agenda item.\u00a0</p>",
+          "Published_Discussion__c": "<p>The Committee noted that amyloidosis is a group of diseases in which a pathologically abnormal protein causes amyloid (fibril) deposits to accumulate in organs, leading to rapid and progressive damage. The Committee noted that abnormal transthyretin (TTR) protein which is produced in the liver causes transthyretin amyloidosis (ATTR), which arises from either mutated TTR (ATTRm) or wild-type TTR (ATTRwt) and can result in cardiomyopathy and heart failure due to amyloid deposits accumulating in the heart. </p><p><br></p><p>The Committee considered that patients with amyloidosis have a high health need due to the severe and chronic nature of the disease and noted that the average overall survival is approximately three to five years from diagnosis. The Committee noted that many patients have moderate to severe symptomatic cardiomyopathy corresponding to New York Heart Association (NYHA) functional classification of III or IV at diagnosis, and that a UK study reported diagnoses of ATTR cardiomyopathy occurring three to four years after presentation with cardiac symptoms, during which time many patients used hospital services (<a href=\"https://www.ahajournals.org/doi/10.1161/CIRCULATIONAHA.118.038169?url_ver=Z39.88-2003&amp;rfr_id=ori:rid:crossref.org&amp;rfr_dat=cr_pub%20%200pubmed\" target=\"_blank\">Lane et al. Circulation. 2019;140:16-26</a><u style=\"color: blue;\">)</u>. </p><p>Members noted that, in addition to heart failure, progressive neuropathy is a substantial issue for many people with ATTR (<a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6598024/\" target=\"_blank\" style=\"color: windowtext;\">Kapoor et al. J Neuromuscul Dis. 2019;6:189-99</a>), however, members considered that biological differences may exist between the disease of patients with ATTR with neuropathy compared with those without neuropathy.</p><p>The Committee noted that patients with ATTRwt cardiomyopathy typically present between 60 to 70 years of age, possibly accompanied or preceded by carpal tunnel syndrome, whereas earlier presentation is likely with ATTRm cardiomyopathy, occurring from about thirty years of age and onward. The Committee noted that there is currently no data to indicate whether ATTR cardiomyopathy disproportionately affects M\u0101ori, Pacific people or groups experiencing health disparities.</p><p><br></p><p>The Committee noted that while the true prevalence (estimated in a Japanese hospital database cross-sectional study to be 70-86 cases of ATTRwt per million and 2.4-2.9 cases of ATTRm per million) may be underestimated, there is evidence that the prevalence and incidence of ATTR cardiomyopathy (and ATTRwt in particular) is increasing worldwide (<a href=\"https://pubmed.ncbi.nlm.nih.gov/31376091/\" target=\"_blank\">Winburn et al. Cardiol Ther. 2019;8:297-316</a><u style=\"color: blue;\">;</u> <a href=\"https://pubmed.ncbi.nlm.nih.gov/31170802/\" target=\"_blank\">Gilstrap et al. Circ Heart Fail. 2019;12:e005407</a>; <a href=\"https://www.ahajournals.org/doi/10.1161/CIRCULATIONAHA.118.038169?url_ver=Z39.88-2003&amp;rfr_id=ori:rid:crossref.org&amp;rfr_dat=cr_pub%20%200pubmed\" target=\"_blank\">Lane et al. Circulation. 2019;140:16-26</a>). This is likely a result of increased awareness, diagnosis (including non-invasive imaging), and treatment options. Members considered that the prevalence of mutated disease in New Zealand is lower than previously estimated, with approximately 30 patients who have ATTRm cardiomyopathy seen per year. </p><p><br></p><p>The Committee noted that there are no funded disease-modifying treatments for ATTR cardiomyopathy in New Zealand. Unfunded treatments which are being used or investigated internationally for ATTR cardiomyopathy aim to either suppress TTR e.g. inotersen, patisiran, stabilise TTR e.g. tafamidis, or disrupt or reabsorb TTR e.g. monoclonal antibodies.</p><p><br></p><p>The Committee noted that liver transplant (or combined liver and heart transplant) are treatment options in New Zealand for some patients with ATTR cardiomyopathy. These are undertaken to suppress production of abnormal TTR in the liver, however, transplant may not be suitable for all patients and may not be curative because amyloid can continue to accumulate even after transplantation. </p><p>The Committee noted that, in <a href=\"https://www.pharmac.govt.nz/assets/ptac-Cardiovascular-Subcommittee-Minutes-2019-05.pdf\" target=\"_blank\">May 2019</a><u style=\"color: blue;\"> </u>the Cardiovascular Subcommittee considered a proposal for the funding of tafamidis for the treatment of cardiac amyloidosis that is specifically caused by transthyretin amyloidosis (ATTR); including both ATTRm and ATTRwt. The Cardiovascular Subcommittee recommended tafamidis be funded with a medium priority, subject to restrictions under Special Authority. In making this recommendation, the Subcommittee noted the high health need of patients and lack of funded pharmaceutical treatments that modify disease progression. </p><p>Patient characteristics in the Special Authority restrictions for tafamidis recommended by the Cardiovascular Subcommittee included ATTR cardiomyopathy (either hereditary mutated or wild-type) with no/minimal or mild symptoms of heart failure i.e. NYHA class I and II.</p><p>In <a href=\"https://www.pharmac.govt.nz/assets/ptac-minutes-2019-08.pdf\" target=\"_blank\">August 2019</a>, PTAC reviewed the Cardiovascular Subcommittee\u2019s record, noted a survival benefit associated with tafamidis and recommended that it review the application for tafamidis, based on the likely high cost of this medicine, once there was a clear signal that a product would be registered in New Zealand. </p><p>In <a href=\"https://www.pharmac.govt.nz/assets/ptac-rare-disorder-subcommittee-record-2019-09.pdf\" target=\"_blank\">September 2019</a>, the Rare Disorders Subcommittee reviewed the Cardiovascular Subcommittee\u2019s record regarding tafamidis and considered there was uncertainty in patient numbers but that it was likely at least 100 people in New Zealand would have this condition, and that rates of diagnosis were likely to increase in future.</p><p><br></p><p>The Committee noted that tafamidis is under assessment by PHARMAC and staff have contacted the supplier (Pfizer), however, there has been no formal response regarding regulatory approval or supply of tafamidis in New Zealand.</p><p><br></p><p>The Committee noted that diflunisal is a long-established non-selective non-steroidal anti-inflammatory drug (NSAID) that the Committee understood was approved for use in New Zealand from the late 1970s until 1999. The Committee noted that, based on <i>in vitro</i> and phase I clinical trial evidence, diflunisal stabilises TTR tetramers through its interaction with TTR\u2019s thyroxine binding site, and has been proposed as a disease-modifying pharmaceutical for ATTR cardiomyopathy. </p><p><br></p><p>The Committee noted that diflunisal is a tablet that is taken orally every 8 to 12 hours, swallowed whole, at around the same time each day at a dose of 250 mg twice daily for ATTR cardiomyopathy. The Committee considered that, as an oral formulation, diflunisal would be suitable for long-term treatment, noting that tablet splitting may be required if a 500 mg tablet were funded.</p><p><br></p><p>The Committee noted that NSAIDs carry risks in relation to gastrointestinal bleeding, and considered that the risk associated with diflunisal would be moderate relative to other NSAIDs. Members noted that a six-month study in patients with osteoarthritis reported fewer side effects (including gastrointestinal effects) with diflunisal compared with ibuprofen or acetylsalicylic acid (<a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1428844/\" target=\"_blank\">Andrew et al. Br J Clin Pharmacol. 1977;4(Suppl 1):45S-52S</a>). The Committee considered it was reasonable to expect the general safety profile of diflunisal to be similar to that of other non-selective NSAIDs as a result of a likely class effect of NSAIDs. The Committee considered that, as with much non-selective NSAID prescribing, diflunisal would likely be used in combination with a proton pump inhibitor and/or an H2 antagonist. The Committee also noted that, in line with NZ Formulary guidance, NSAIDs should be used with caution in patients with cardiac impairment, and should be avoided if possible or used with caution in patients with renal impairment. </p><p>The Committee noted that there is currently no diflunisal product approved by Medsafe, and that the approval of two previously approved diflunisal products has lapsed. The Committee noted that diflunisal is approved by the FDA (USA) and EMA (Europe) for use in indications such as pain relief, inflammation and rheumatoid arthritis; that in Australia diflunisal can be accessed for the treatment of amyloidosis via the Special Access Scheme; and that it appears to be used off-label in other countries for the treatment of ATTR cardiomyopathy.</p><p><br></p><p>The Committee considered it unlikely that a supplier would seek Medsafe approval of diflunisal for the treatment of ATTR cardiomyopathy, given relatively small patient numbers and the apparent absence of approval in any international jurisdiction. The Committee considered that, while it would be preferable to fund an approved product, the funded use of diflunisal in New Zealand without Medsafe approval i.e. accessed via Section 29 of the Medicines Act, would be reasonable, given that diflunisal has previously been approved by Medsafe, the known NSAID safety profile of diflunisal, and its international off-label use in this indication. </p><p>The Committee noted that the evidence base for the efficacy of diflunisal for ATTR cardiomyopathy consists of low-quality non-experimental evidence from retrospective case control studies, with no phase III randomised controlled trials identified in patients with ATTR cardiomyopathy. </p><p>The Committee noted the results from a retrospective, case-control single-centre cohort study in 120 patients with ATTR cardiac amyloidosis presenting to a US specialist centre between 2001 and 2016 who either received a stabiliser (N = 29; either diflunisal [N = 13] or tafamidis [N = 16]) or did not receive a stabiliser (N = 91) and who were followed up for a median of 1.9 years (<a href=\"https://pubmed.ncbi.nlm.nih.gov/29615436/\" target=\"_blank\">Rosenblum et al. Circ Heart Fail. 2018;11:e004769</a>). The Committee noted that patients who received stabilisers were NYHA class I (N = 2), class II (N = 21) or class III (N = 6); none were NYHA class IV.</p><p>The Committee noted that there were differences between groups at baseline including the proportion of ATTRm patients in each group, NYHA severity and renal function. The Committee considered that patients who received a stabiliser likely had a less severe disease phenotype at baseline compared with patients who did not receive a stabiliser, and considered this potential selection bias affected the quality of the evidence.</p><p><br></p><p>The Committee noted that the risk of the combined endpoint of death or orthotopic heart transplant (OHT) was lower with stabiliser use compared with no stabiliser use (hazard ratio (HR) 0.32, 95% CI 0.18 to 0.58, P&lt;0.0001) and that the findings persisted after adjustment for all non-linear covariate predictors. The Committee considered that this statistically significant result may have been confounded by the case control data used for analysis.</p><p><br></p><p>The Committee noted that the authors reported survival probability for each of the two stabiliser types separately, compared with no stabiliser use, and considered that these results indicated a similar benefit over time between the two stabilisers, although limited by very small patient numbers contributing data to the later years of follow-up and the various between-group differences in disease severity at baseline. The Committee considered that the evidence comparing stabiliser type was hypothesis-generating and limited by the small sample size.</p><p><br></p><p>The Committee noted the results from a retrospective study of 105 patients with ATTRwt cardiac amyloidosis seen between 2009 and 2016 who were treated with diflunisal for at least one year (N = 35), or untreated (N = 70), which were published in abstract form only (<a href=\"https://www.ahajournals.org/doi/10.1161/circ.140.suppl_1.13123\" target=\"_blank\">Mints et al. Circulation. 2019;140 [Suppl_1]: Abstract Nr. 13123</a>). </p><p><br></p><p>The Committee noted that patients who received diflunisal had a less severe disease phenotype at baseline with younger age (P=0.07), lower BNP levels (P=0.008), lower troponin I levels (P=0.03) and a trend towards worse renal function, compared with patients who did not receive diflunisal. </p><p><br></p><p>The Committee noted that diflunisal was associated with improved survival that reportedly persisted after adjustment for several covariates (HR, 0.23, 95% CI: 0.09 to 0.60, P=0.003), however, the Committee considered the minimal amount of information available in abstract form and the imbalance between treated and untreated groups (suggesting appreciable selection bias) limited this evidence.</p><p><br></p><p>The Committee noted the following evidence regarding safety and tolerability of diflunisal in ATTR cardiomyopathy from retrospective longitudinal studies and an open-label study:</p><p><span style=\"color: black; font-family: Symbol;\">\u00b7</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/30388377/\" target=\"_blank\">Ikram et al. Amyloid. 2018;25:197-202</a> (N = 23)</p><p><span style=\"color: black; font-family: Symbol;\">\u00b7</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/26017328/\" target=\"_blank\">Sekijima et al. Amyloid. 2015;22:79-83</a> (N = 40)</p><p><span style=\"color: black; font-family: Symbol;\">\u00b7</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3727153/\" target=\"_blank\">Castano et al. Congest Heart Fail. 2012;18:315-9</a> (N = 13)</p><p><br></p><p>The Committee noted these studies were limited by small numbers of patients and variation in the proportion of patients with each NYHA class (in particular, there were few patients with NYHA class IV). The Committee noted each study had a small number of patients withdraw, one study reported gastrointestinal toxicities and one study reported a trend towards decreased renal function over time.</p><p>The Committee also noted the following evidence regarding diflunisal in ATTR cardiomyopathy:</p><p><span style=\"color: black; font-family: Symbol;\">\u00b7</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/31805416/\" target=\"_blank\">Lohrmann et al. J Card Fail. 2019;S1071-9164:31435-6</a></p><p><span style=\"color: black; font-family: Symbol;\">\u00b7</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/31343354/\" target=\"_blank\">Wixner et al. Amyloid. 2019;26:39-40</a></p><p><br></p><p>The Committee noted that severe gastro-intestinal bleeding was not reported in any patients in the studies reviewed, although cases of erosive gastritis, reduced appetite and gastric pain were reported and did result in discontinuation for some patients. Members noted evidence from a Swedish study in 54 patients with ATTRm with neuropathy and considered that despite treatment discontinuation in 19% of patients (in part due to diarrhoea or increased creatinine), many patients tolerated treatment with diflunisal for many years (<a href=\"https://www.tandfonline.com/doi/full/10.1080/13506129.2019.1593133\" target=\"_blank\" style=\"color: windowtext;\">Wixner et al. Amyloid. 2019;26(sup1):39-40</a>). </p><p><br></p><p>The Committee considered that the evidence supported the known NSAID side effect profile of diflunisal, with no unexpected or idiosyncratic toxicities identified. The Committee considered that management of patients with reduced or preserved EF (who may require different management) or with either heart failure or impaired renal function (in which case NSAIDs may be contraindicated) would be at their treating clinician\u2019s discretion, including the decision whether or not diflunisal was an appropriate treatment option.</p><p><br></p><p>The Committee considered that there was no evidence to indicate whether patients administered diflunisal are likely to have fewer cardiovascular-related hospitalisations than those who do not receive diflunisal. </p><p><br></p><p>The Committee considered that there is evidence of increased survival associated with diflunisal compared with best supportive care for patients with ATTRm cardiomyopathy or ATTRwt cardiomyopathy. The Committee considered that this assessment was based on low-quality evidence, with potential study bias caused by differences in the disease severity of the patient populations, small numbers of patients in the studies (and with ATTRm, in particular), limited evidence for ATTRwt (noting there is an abstract only for one study in this patient group), and limitations of the evidence quality and strength.</p><p><br></p><p>The Committee considered that the evidence suggests the long-term survival benefit with diflunisal is possibly less than the long-term survival benefit with tafamidis, but noted that there were substantial limitations in this assessment as a result of the low quality and strength of the evidence, mentioned above. </p><p>Members considered that an additional benefit of diflunisal may be improvement of neuropathy from ATTR, although patients with neuropathy were not the target population in these applications and evidence for patients with ATTR cardiomyopathy with neuropathy was not reviewed in detail. Members considered that an improvement in neuropathy for patients with ATTR cardiomyopathy would likely be associated with improvement in quality of life for affected patients e.g. due to reduced postural hypotension.</p><p><br></p><p>The Committee also noted the following international consensus guidelines:</p><p><span style=\"color: black; font-family: Symbol;\">\u00b7</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>Clinical practice update on heart failure 2019: pharmacotherapy, procedures, devices and patient management. An expert consensus meeting report of the Heart Failure Association of the European Society of Cardiology (<a href=\"https://pubmed.ncbi.nlm.nih.gov/31129923/\" target=\"_blank\">Seferovic et al. Eur J Heart Fail. 2019;21:1169-1186</a>).</p><p><span style=\"color: black; font-family: Symbol;\">\u00b7</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>Cardiac Amyloidosis: Evolving Diagnosis and Management: A Scientific Statement From the American Heart Association (<a href=\"https://pubmed.ncbi.nlm.nih.gov/32476490/\" target=\"_blank\">Kittleson et al. Circulation. 2020;142:e7-e22</a>).</p><p><span style=\"color: black; font-family: Symbol;\">\u00b7</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The American College of Cardiology <a href=\"https://www.acc.org/sitecore/content/Sites/ACC/Home/Latest-in-Cardiology/ten-points-to-remember/2019/12/13/13/34/Treatment-of-Cardiac-Transthyretin-Amyloidosis\" target=\"_blank\">December 2019 update</a> (based on the European Heart Journal article by <a href=\"https://academic.oup.com/eurheartj/article/40/45/3699/5492358\" target=\"_blank\">Emdin et al. Eur Heart J. 2019;40:3699-706</a>).</p><p><span style=\"color: black; font-family: Symbol;\">\u00b7</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>Management of Cardiac ATTR. Australian Amyloidosis Network [Internet]. Australia; 2012 [cited 2020 July 21]. Available from <a href=\"http://amyloidosis.net.au/health-professionals/amyloidosis-for-cardiologists/\" target=\"_blank\">http://amyloidosis.net.au/health-professionals/amyloidosis-for-cardiologists/</a></p><p><br></p><p>The Committee considered that the proposed Special Authority criteria for diflunisal identified a specific patient group with ATTR cardiomyopathy based on the evidence available (including NYHA class). The Committee did not consider at this stage that the Special Authority criteria for tafamidis required amendment in light of the evidence reviewed by the Committee for diflunisal.</p><p><br></p><p>The Committee considered that with an estimated 100 patients per year with ATTR cardiomyopathy that the cost to the pharmaceutical budget each year would be low, however, the Committee considered that the presence of a funded disease-modifying treatment for ATTR cardiomyopathy e.g. diflunisal, would likely increase the disease prevalence in New Zealand, due to greater awareness and diagnosis resulting in more patients being considered for treatment. </p><p><br></p><p>The Committee considered that funding a disease-modifying therapy for ATTR cardiomyopathy e.g. diflunisal, would also lead to increased use of health system resource for early diagnosis such as biopsies (either endomyocardial biopsy, or non-cardiac biopsy e.g. fat pad, cardiac MRI scans, or 99mtechnetium-pyrophosphate (99mTc-PYP) scans, if available.</p>",
+          "Status_History__c": "a132P000000COeBQAW"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "May 2020",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Following Clinical Advice, Pharmac staff considers the advice and the funding application under goes an assessment using our&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/factors-for-consideration/\" rel=\"nofollow\">Factors for Consideration</a>&nbsp;framework and seeks additional information as required.</p>\r\n<p>&nbsp;</p>\r\n<p>Research and Economic analysis are undertaken.&nbsp; This focuses on the costs and benefits of a proposed course of action. Economics is based on three fundamental concepts that summarise the issues Pharmac faces daily:&nbsp;</p>\r\n<ul>\r\n<li>Scarcity &ndash; resources will always be insufficient to support all possible activities.</li>\r\n<li>Choices &ndash; due to scarce resources, decisions must be made about how best to use them.</li>\r\n<li>Opportunity cost &ndash; by choosing to use resources one way, we forgo other opportunities to use the same resources.</li>\r\n</ul>\r\n<p>&nbsp;</p>\r\n<p>For further information on the purpose of, and techniques for, undertaking economic analysis in health care, please refer&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/economic-analysis/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/economic-analysis/</a></p>",
+    "position": 2,
+    "name": "Under Assessment",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Nov 2020",
+          "fs": "Nov 2020",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Working to compare options",
+          "fs": "Working to compare options",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000PbDG72AN"
+          },
+          "Id": "a0POZ00000PbDG72AN",
+          "Event_Date__c": "2020-11-30",
+          "Event_Description__c": "Working to compare options",
+          "Stage__c": "Under Assessment",
+          "Formatted_Date__c": "Nov 2020",
+          "Status_History__c": "a132P000000COeHQAW"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Mar 2022",
+          "fs": "Mar 2022",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Awaiting registration with Medsafe.",
+          "fs": "Awaiting registration with Medsafe.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000PbDG82AN"
+          },
+          "Id": "a0POZ00000PbDG82AN",
+          "Event_Date__c": "2022-03-16",
+          "Event_Description__c": "Awaiting registration with Medsafe.",
+          "Stage__c": "Under Assessment",
+          "Formatted_Date__c": "Mar 2022",
+          "Status_History__c": "a132P000000DcNoQAK"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": "<p>No approved product/supplier interest</p>",
+          "fs": "<p>No approved product/supplier interest</p>",
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Jun 2025",
+          "fs": "Jun 2025",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Working to compare options",
+          "fs": "Working to compare options",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000PbDG92AN"
+          },
+          "Id": "a0POZ00000PbDG92AN",
+          "Event_Date__c": "2025-06-03",
+          "Event_Description__c": "Working to compare options",
+          "Stage__c": "Under Assessment",
+          "Summary__c": "<p>No approved product/supplier interest</p>",
+          "Formatted_Date__c": "Jun 2025",
+          "Status_History__c": "a13OZ00000O9OGgYAN"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Aug 2025",
+          "fs": "Aug 2025",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Working to compare options",
+          "fs": "Working to compare options",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000PbDGB2A3"
+          },
+          "Id": "a0POZ00000PbDGB2A3",
+          "Event_Date__c": "2025-08-28",
+          "Event_Description__c": "Working to compare options",
+          "Stage__c": "Under Assessment",
+          "Formatted_Date__c": "Aug 2025",
+          "Status_History__c": "a13OZ00000RoCeOYAV"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Nov 2020",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Pharmac staff uses a prioritisation process to compare and rank funding options. Possible opportunities for new investment will always exceed the budget Pharmac has available; therefore, prioritisation is an intrinsic part of Pharmac\u2019s decision-making process.</p>\r\n<p>The relative ranking of options aims to support Pharmac&rsquo;s statutory objective &ldquo;to secure for eligible people in need of pharmaceuticals, the best health outcomes that are reasonably achievable from pharmaceutical treatment and from within the amount of funding provided&rdquo;.</p>\r\n<p>A funding application or proposal is considered ready for prioritisation when sufficient information is available to permit it to be reviewed against Pharmac's Factors for Consideration and to inform a comparison with other possible investment decisions.</p>\r\n<p>There is no guarantee when or if a ranked medicine will be funded.&nbsp;&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/prioritisation/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/prioritisation/</a></p>",
+    "position": 3,
+    "name": "Options Compared",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Jun 2025",
+          "fs": "Jun 2025",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "The relative ranking of the pharmaceutical application has been completed.",
+          "fs": "The relative ranking of the pharmaceutical application has been completed.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000PbDGA2A3"
+          },
+          "Id": "a0POZ00000PbDGA2A3",
+          "Event_Date__c": "2025-06-09",
+          "Event_Description__c": "The relative ranking of the pharmaceutical application has been completed.",
+          "Stage__c": "Options Compared",
+          "Formatted_Date__c": "Jun 2025",
+          "Status_History__c": "a13OZ00000ONwqmYAD"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Aug 2025",
+          "fs": "Aug 2025",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "The relative ranking of the pharmaceutical application has been completed.",
+          "fs": "The relative ranking of the pharmaceutical application has been completed.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000PbDGC2A3"
+          },
+          "Id": "a0POZ00000PbDGC2A3",
+          "Event_Date__c": "2025-08-29",
+          "Event_Description__c": "The relative ranking of the pharmaceutical application has been completed.",
+          "Stage__c": "Options Compared",
+          "Formatted_Date__c": "Aug 2025",
+          "Status_History__c": "a13OZ00000Rqn57YAB"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Jun 2025",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Pharmac is consulting on a proposal to either approve or decline the application.&nbsp;We seek the views of all people who have an interest in our proposals, or who may be affected by them, to obtain feedback on our proposed approaches.</p>\r\n<p><a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/having-your-say/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/having-your-say/</a></p>",
+    "position": 4,
+    "name": "Under Consultation",
+    "last": false,
+    "events": null,
+    "dateString": null,
+    "collapsed": false,
+    "checked": false
+  },
+  {
+    "text": "<p>Following the consultation process, Pharmac staff considers the feedback and identifies any additional information required as part of a gap analysis.&nbsp; The proposal may require further clinical advice, research, and assessment.</p>",
+    "position": 5,
+    "name": "Reviewing Consultation Feedback",
+    "last": false,
+    "events": null,
+    "dateString": null,
+    "collapsed": false,
+    "checked": false
+  },
+  {
+    "text": "<p>We refer to our decisions about whether and how particular pharmaceuticals are publicly-funded, as &ldquo;funding decisions&rdquo;.</p>\r\n<p>We consider and assess all funding decisions using the&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/about/operating-policies-and-procedures/#factorsfc\" rel=\"nofollow\">Factors for Consideration</a>. When we do so, we carefully evaluate clinical and other evidence for the benefits and suitability of a proposal, and to identify and understand the people who will be affected by it.</p>\r\n<p>While our main task is to allocate pharmaceutical funding, we consider the benefits and costs across the whole health system now and with a long-term focus, including the effects for hospitals and primary care, and consider direct costs to patients as well as to all health sector budgets.</p>\r\n<p>Final funding decisions are made by the Pharmac Board or delegated to senior Pharmac staff as required by the Board.</p>\r\n<p>&nbsp;</p>",
+    "position": 6,
+    "name": "Decision",
+    "last": true,
+    "events": null,
+    "dateString": null,
+    "collapsed": false,
+    "checked": false
+  }
+]

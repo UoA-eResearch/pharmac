@@ -1,0 +1,626 @@
+[
+  {
+    "text": "<p>New funding applications are referred to one of Pharmac's Funding Application Advisors (FAAs), who'll review the application to ensure they have the relevant information to undertake a preliminary analysis.&nbsp; They may seek more information if required.</p>\r\n<p><a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/new-funding-applications/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/new-funding-applications/</a></p>",
+    "position": 0,
+    "name": "Application Received",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Sep 2021",
+          "fs": "Sep 2021",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Application received",
+          "fs": "Application received",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000B4Xry2AF"
+          },
+          "Id": "a0POZ00000B4Xry2AF",
+          "Event_Date__c": "2021-09-02",
+          "Event_Description__c": "Application received",
+          "Stage__c": "Application Received",
+          "Formatted_Date__c": "Sep 2021",
+          "Status_History__c": "a13OZ000003BIKwYAO"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Sep 2021",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Pharmac is identifying and gathering information required to get clinical advice.  The <a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/pharmacology-and-therapeutics-advisory-committee-ptac/\" rel=\"nofollow\">Pharmacology and Therapeutics Advisory Committee (PTAC)</a>  meets quarterly. There are also around 20 expert <a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/specialist-advisory-committees/\" rel=\"nofollow\">Specialist Advisory Committees (SACs)</a>, previously expert Subcommittees, which provide clinical evaluations in specialist areas. Specialist Advisory Committees meet as required to discuss issues referred to them by PTAC or Pharmac.</p>\n<p style=\"height: 20px\">&nbsp;</p>\n<p>In November 2021, we introduced separate terms of reference for the SACs to make clear that these committees have different, but complementary, roles, expertise and perspectives to PTAC.</p>\n<p style=\"height: 15px\">&nbsp;</p>\n<p>PTAC and SACs may make recommendations to Pharmac that differ from each other when looking at the same evidence. Pharmac considers the recommendations provided by all our clinical advisory committees when assessing applications.</p>\n<p style=\"height: 20px\">&nbsp;</p>\n<p><a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/pharmacology-and-therapeutics-advisory-committee-ptac/ptac-terms-of-reference-july-2021/\" rel=\"nofollow\">PTAC</a>  and <a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/specialist-advisory-committees/specialist-advisory-committee-terms-of-reference//\" rel=\"nofollow\">Specialist Advisory Committees</a> records of the meeting will be published on this website in accordance with the Terms of Reference.</p>",
+    "position": 1,
+    "name": "Seeking Clinical Advice",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Jan 2022",
+          "fs": "Jan 2022",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Clinical advice required",
+          "fs": "Clinical advice required",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000B4Xrz2AF"
+          },
+          "Id": "a0POZ00000B4Xrz2AF",
+          "Event_Date__c": "2022-01-31",
+          "Event_Description__c": "Clinical advice required",
+          "Stage__c": "Seeking Clinical Advice",
+          "Formatted_Date__c": "Jan 2022",
+          "Status_History__c": "a13OZ000003pPKbYAM"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Feb 2022",
+          "fs": "Feb 2022",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Assigned to COVID-19 Treatments Advisory Group meeting to provide advice on Monday 28 February 2022",
+          "fs": "Assigned to COVID-19 Treatments Advisory Group meeting to provide advice on Monday 28 February 2022",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000B4Xs02AF"
+          },
+          "Id": "a0POZ00000B4Xs02AF",
+          "Event_Date__c": "2022-02-21",
+          "Event_Description__c": "Assigned to COVID-19 Treatments Advisory Group meeting to provide advice on Monday 28 February 2022",
+          "Stage__c": "Seeking Clinical Advice",
+          "Formatted_Date__c": "Feb 2022",
+          "Status_History__c": "a13OZ000003p1EwYAI"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": "<p>1.3. The Advisory Group noted that an application had been submitted to Pharmac by a consumer for the funding of ivermectin for the treatment of people infected with SARsCoV-2 (COVID-19). </p><p><br></p><p>1.4. The Advisory Group recommended that ivermectin not be funded for the treatment of COVID-19 at this time, based on the very low certainty of evidence available for ivermectin in this setting. </p><p><br></p><p>1.5. The Advisory Group acknowledged the importance of securing a portfolio of treatments for COVID-19 for New Zealand and noted it would welcome any additional information regarding the effectiveness of ivermectin in the treatment of COVID-19.</p>",
+          "fs": "<p>1.3. The Advisory Group noted that an application had been submitted to Pharmac by a consumer for the funding of ivermectin for the treatment of people infected with SARsCoV-2 (COVID-19). </p><p><br></p><p>1.4. The Advisory Group recommended that ivermectin not be funded for the treatment of COVID-19 at this time, based on the very low certainty of evidence available for ivermectin in this setting. </p><p><br></p><p>1.5. The Advisory Group acknowledged the importance of securing a portfolio of treatments for COVID-19 for New Zealand and noted it would welcome any additional information regarding the effectiveness of ivermectin in the treatment of COVID-19.</p>",
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": "<p>1.6. The Advisory Group noted that no priority ranking (within the context of treatments for COVID-19) was sought by Pharmac, reflecting the rapidly evolving evidence for treatments in COVID-19 and separate funding outside the Combined Pharmaceutical Budget, and therefore did not need to discuss a priority ranking.</p><p><br></p><p>1.7. The Advisory Group reiterated this was an area of rapidly evolving evidence and knowledge and identified that its recommendation may need to be reconsidered in the future, noting this was based on currently available data from published studies and could be subject to change should new data become available, warranting further review. </p><p><br></p><p>1.8. The Advisory Group noted that ivermectin is a semi-synthetic macrocyclic lactone with a broad-spectrum antiparasitic activity, which binds with high affinity to glutamate-gated chloride channels causing an increase in the permeability of the cell membrane to chloride ions with hyperpolarisation of the nerve or muscle cell. </p><p><br></p><p>1.9. The Advisory Group noted that the potential mechanism of action for ivermectin as an antiviral against COVID-19 is currently unknown. </p><p><br></p><p>1.10. The Advisory Group noted that ivermectin is available in New Zealand as a 3 mg tablet and dosing for the treatment of parasitic infections is in multiples of 3 mg depending on body weight and the severity of infection being treated. </p><p><br></p><p>1.11. The Advisory Group noted that the dosing of ivermectin in clinical trials for the treatment of COVID-19 is variable and was approximately 150 mcg to 200 mcg per kg twice per day for up to 5 days. </p><p><br></p><p>1.12. The Advisory Group noted that in routine, single dose treatments of parasitic infections, side effects from ivermectin are relatively uncommon, however the Group acknowledged that safety data for the use of ivermectin as a preventative treatment over longer periods of time (as it would be used in the treatment of COVID-19) was not available. </p><p><br></p><p>1.13. The Advisory Group considered clinical evidence for ivermectin for the treatment of COVID-19:</p><p><br></p><p>1.13.1. The Group noted that a number of meta-analyses had been undertaken to evaluate the effectiveness of ivermectin in the treatment of COVID-19. The Group noted an article by Rothrock, Weber Giordano et al 2022, which concluded that the poor design of these meta-analyses and the limitations of the component studies were sufficiently appreciable to invalidate findings that use of ivermectin was associated with reduced mortality from COVID-19. </p><p><br></p><p>1.13.2. The Group noted a Cochrane review of trials up to 26 May 2021 (Popp et al. CDSR 2021;7:CD015017). The authors reported very low to low certainty of evidence for the efficacy and safety of ivermectin for prevention of SARS-CoV-2 infection or the treatment of patients hospitalised or in outpatient settings with COVID-19, and concluded that the available evidence did not support the use of ivermectin in the treatment of COVID-19. The Group noted this review did not include the most recent studies, and considered that treatments for COVID-19 is a rapidly evolving area and data continues to emerge.</p><p><br></p><p>1.13.3. The Group noted a sub group meta-analysis of trials for ivermectin in COVID-19 to assess the effects of stratifying by trial quality on the overall results (Hill, Mirchandani and Pilkington et al. 2022), which reported that when all 12 studies evaluated in the meta-analysis were included, the use of ivermectin in the treatment of COVID-19 was associated with a 51% increase in survival. However, excluding all trials considered to be fraudulent or at risk of bias, resulted in no material increase in survival associated with ivermectin use.</p><p><br></p><p>1.14. The Advisory Group considered recent studies for ivermectin in the treatment of COVID-19 which were undertaken subsequent to Popp et al 2021 and not identified by Hill, Mirchandani and Pilkington et al 2022 as being at risk of bias. These included: </p><p><br></p><p>1.14.1. Efficacy and safety of ivermectin in the treatment of COVID-19 Buonfrate et al 2022 COVER Study: A randomised, investigator-initiated, double-blind, multicentre, phase II, dose-finding, proof-of-concept clinical trial to assess the efficacy and safety of high doses of ivermectin in reducing viral load in individuals with early SARS-CoV-2 infection in outpatient settings. Patients were randomly assigned to receive placebo (arm A) 600 mg/kg/day (Arm b) or 1200 mg/kg/day (arm C) for 5 days (n=93). Mean (S.D.) log10 viral load reduction was 2.9 (1.6) in arm C, 2.5 (2.2) in arm B and 2.0 (2.1) in arm A, (P = 0.099 and 0.122 for C vs. A and B vs. A, respectively). High dose ivermectin was safe but did not show efficacy to reduce SARS-CoV-2 viral load. </p><p><br></p><p>1.14.2. Prophylaxis against COVID-19 Bartoszko, Siemieniuk, Kum, et al, 2021: A living systematic review and network meta-analysis evaluating the effects of prophylactic treatments on SARS-CoV-2 infection and COVID-19, which reported that the effects of ivermectin alone and in combination with iota-carrageenan as a prophylactic treatment against COVID-19 remains very uncertain with 50 and 52 fewer COVID-19 infections per 1000 people respectively compared to placebo. The meta-analysis reported serious risk of bias and very serious imprecision, leading to low certainty of evidence regarding the effectiveness of ivermectin alone and combined with iota-carrageenan on laboratory confirmed COVID-19. </p><p><br></p><p>1.14.3. Inpatients with COVID-19 at risk of severe disease Lim et al 2022 (ITech Study): A multicentre, open-label, randomised clinical trial conducted at 20 government hospitals and a COVID-19 quarantine centre in Malaysia between May 31 and October 25, 2021 to evaluate the effects of oral ivermectin (0.4 mg/kg/day for five days) plus standard of care in patients with confirmed COVID-19 who were 50 years or older with at least 1 comorbidity and presented with mild to moderate illness within 7 days from symptom onset (n=490). Among the 490 patients, 95 (19.4%) progressed to severe disease during the study period; 52 of 241 (21.6%) received ivermectin plus standard of care, and 43 of 249 (17.3%) received standard of care alone (RR, 1.25; 95% CI, 0.87-1.80; P\u2009=0.25). There were no statistically significant differences between ivermectin and control groups for all the prespecified secondary outcomes. </p><p><br></p><p>1.14.4. Treatment of mild to moderate COVID-19 infection Ravikirti et al 2021: A double blind, parallel, randomised, placebo-controlled trial between August and 31 October 2020 to evaluate the effectiveness of oral ivermectin (12 mg/day administered on day 1 and 2 post enrolment) in adult patients with mild to moderate COVID-19 (n=112); On 6th day, 23.6% of patients in the intervention arm and 31.6% in the placebo arm tested negative for SARS-CoV-2 [RR: 0.8; 95%, CI: 0.4 -1.4; p=0.348]; Mechanical ventilation was required for 1.8% of patients in the intervention arm and 8.8% of patients in the placebo arm [RR: 0.2; 95%CI: 0.0-1.7; (p=0.102)]; No patients in the intervention arm but 7% of patients (n=4) in the placebo arm died [RR: 1.1; 95% CI; 1.0-1.2; p=0.045)]. </p><p><br></p><p>1.15. The Advisory Group considered that the strength and quality of evidence supporting the use of ivermectin in the treatment COVID-19 was very low based on available publications. The Group noted that overall, the studies evaluating the effectiveness of ivermectin in the treatment of COVID-19 were small and did not consider factors such as vaccination, social isolation and mask wearing. In addition, many of the studies had been undertaken in less developed countries where social distancing has not been implemented. As a result of these factors the Group considered that many of the studies evaluating the effectiveness of ivermectin in the treatment of COVID-19 were at risk of bias. The Group noted there was no evidence for the effectiveness of ivermectin in the treatment of the Omicron variant of SARS-CoV-2 and its various subvariants, and the Group considered there would be no benefit from the use of ivermectin for the current treatment of COVID-19. </p><p><br></p><p>1.16. The Advisory Group noted that it was aware that a small number of people may be using ivermectin for the treatment of COVID-19 in New Zealand. Members raised concerns that if ivermectin were to be funded for the treatment of COVID-19 in New Zealand there was a risk that sufficient supply may not be available for currently funded indications for which there is clinical evidence of benefit. </p><p><br></p><p>1.17. The Advisory Group noted that internationally ivermectin has not been approved for use or funded for the treatment of COVID-19. This included jurisdictions with comparable assessment and regulatory environments to New Zealand including Australia, Canada, the European Union and the United States of America. In addition, the Group noted the public statement from Merk Sharpe &amp; Dome, the manufacturer of ivermectin, that it does not support the use of ivermectin for the Treatment of COVID-19, noting there is no scientific basis for a potential therapeutic effect against COVID-19 from pre-clinical studies and there is no meaningful evidence for clinical activity or clinical efficacy in patients with COVID-19 disease. </p><p><br></p><p>1.18. The Group noted that in New Zealand the Ministry of Health and Medsafe have strongly recommended that, on the basis of the evidence available, ivermectin should not be used in the prevention or treatment of COVID-19.</p><p><br></p><p><br></p>",
+          "fs": "<p>1.6. The Advisory Group noted that no priority ranking (within the context of treatments for COVID-19) was sought by Pharmac, reflecting the rapidly evolving evidence for treatments in COVID-19 and separate funding outside the Combined Pharmaceutical Budget, and therefore did not need to discuss a priority ranking.</p><p><br></p><p>1.7. The Advisory Group reiterated this was an area of rapidly evolving evidence and knowledge and identified that its recommendation may need to be reconsidered in the future, noting this was based on currently available data from published studies and could be subject to change should new data become available, warranting further review. </p><p><br></p><p>1.8. The Advisory Group noted that ivermectin is a semi-synthetic macrocyclic lactone with a broad-spectrum antiparasitic activity, which binds with high affinity to glutamate-gated chloride channels causing an increase in the permeability of the cell membrane to chloride ions with hyperpolarisation of the nerve or muscle cell. </p><p><br></p><p>1.9. The Advisory Group noted that the potential mechanism of action for ivermectin as an antiviral against COVID-19 is currently unknown. </p><p><br></p><p>1.10. The Advisory Group noted that ivermectin is available in New Zealand as a 3 mg tablet and dosing for the treatment of parasitic infections is in multiples of 3 mg depending on body weight and the severity of infection being treated. </p><p><br></p><p>1.11. The Advisory Group noted that the dosing of ivermectin in clinical trials for the treatment of COVID-19 is variable and was approximately 150 mcg to 200 mcg per kg twice per day for up to 5 days. </p><p><br></p><p>1.12. The Advisory Group noted that in routine, single dose treatments of parasitic infections, side effects from ivermectin are relatively uncommon, however the Group acknowledged that safety data for the use of ivermectin as a preventative treatment over longer periods of time (as it would be used in the treatment of COVID-19) was not available. </p><p><br></p><p>1.13. The Advisory Group considered clinical evidence for ivermectin for the treatment of COVID-19:</p><p><br></p><p>1.13.1. The Group noted that a number of meta-analyses had been undertaken to evaluate the effectiveness of ivermectin in the treatment of COVID-19. The Group noted an article by Rothrock, Weber Giordano et al 2022, which concluded that the poor design of these meta-analyses and the limitations of the component studies were sufficiently appreciable to invalidate findings that use of ivermectin was associated with reduced mortality from COVID-19. </p><p><br></p><p>1.13.2. The Group noted a Cochrane review of trials up to 26 May 2021 (Popp et al. CDSR 2021;7:CD015017). The authors reported very low to low certainty of evidence for the efficacy and safety of ivermectin for prevention of SARS-CoV-2 infection or the treatment of patients hospitalised or in outpatient settings with COVID-19, and concluded that the available evidence did not support the use of ivermectin in the treatment of COVID-19. The Group noted this review did not include the most recent studies, and considered that treatments for COVID-19 is a rapidly evolving area and data continues to emerge.</p><p><br></p><p>1.13.3. The Group noted a sub group meta-analysis of trials for ivermectin in COVID-19 to assess the effects of stratifying by trial quality on the overall results (Hill, Mirchandani and Pilkington et al. 2022), which reported that when all 12 studies evaluated in the meta-analysis were included, the use of ivermectin in the treatment of COVID-19 was associated with a 51% increase in survival. However, excluding all trials considered to be fraudulent or at risk of bias, resulted in no material increase in survival associated with ivermectin use.</p><p><br></p><p>1.14. The Advisory Group considered recent studies for ivermectin in the treatment of COVID-19 which were undertaken subsequent to Popp et al 2021 and not identified by Hill, Mirchandani and Pilkington et al 2022 as being at risk of bias. These included: </p><p><br></p><p>1.14.1. Efficacy and safety of ivermectin in the treatment of COVID-19 Buonfrate et al 2022 COVER Study: A randomised, investigator-initiated, double-blind, multicentre, phase II, dose-finding, proof-of-concept clinical trial to assess the efficacy and safety of high doses of ivermectin in reducing viral load in individuals with early SARS-CoV-2 infection in outpatient settings. Patients were randomly assigned to receive placebo (arm A) 600 mg/kg/day (Arm b) or 1200 mg/kg/day (arm C) for 5 days (n=93). Mean (S.D.) log10 viral load reduction was 2.9 (1.6) in arm C, 2.5 (2.2) in arm B and 2.0 (2.1) in arm A, (P = 0.099 and 0.122 for C vs. A and B vs. A, respectively). High dose ivermectin was safe but did not show efficacy to reduce SARS-CoV-2 viral load. </p><p><br></p><p>1.14.2. Prophylaxis against COVID-19 Bartoszko, Siemieniuk, Kum, et al, 2021: A living systematic review and network meta-analysis evaluating the effects of prophylactic treatments on SARS-CoV-2 infection and COVID-19, which reported that the effects of ivermectin alone and in combination with iota-carrageenan as a prophylactic treatment against COVID-19 remains very uncertain with 50 and 52 fewer COVID-19 infections per 1000 people respectively compared to placebo. The meta-analysis reported serious risk of bias and very serious imprecision, leading to low certainty of evidence regarding the effectiveness of ivermectin alone and combined with iota-carrageenan on laboratory confirmed COVID-19. </p><p><br></p><p>1.14.3. Inpatients with COVID-19 at risk of severe disease Lim et al 2022 (ITech Study): A multicentre, open-label, randomised clinical trial conducted at 20 government hospitals and a COVID-19 quarantine centre in Malaysia between May 31 and October 25, 2021 to evaluate the effects of oral ivermectin (0.4 mg/kg/day for five days) plus standard of care in patients with confirmed COVID-19 who were 50 years or older with at least 1 comorbidity and presented with mild to moderate illness within 7 days from symptom onset (n=490). Among the 490 patients, 95 (19.4%) progressed to severe disease during the study period; 52 of 241 (21.6%) received ivermectin plus standard of care, and 43 of 249 (17.3%) received standard of care alone (RR, 1.25; 95% CI, 0.87-1.80; P\u2009=0.25). There were no statistically significant differences between ivermectin and control groups for all the prespecified secondary outcomes. </p><p><br></p><p>1.14.4. Treatment of mild to moderate COVID-19 infection Ravikirti et al 2021: A double blind, parallel, randomised, placebo-controlled trial between August and 31 October 2020 to evaluate the effectiveness of oral ivermectin (12 mg/day administered on day 1 and 2 post enrolment) in adult patients with mild to moderate COVID-19 (n=112); On 6th day, 23.6% of patients in the intervention arm and 31.6% in the placebo arm tested negative for SARS-CoV-2 [RR: 0.8; 95%, CI: 0.4 -1.4; p=0.348]; Mechanical ventilation was required for 1.8% of patients in the intervention arm and 8.8% of patients in the placebo arm [RR: 0.2; 95%CI: 0.0-1.7; (p=0.102)]; No patients in the intervention arm but 7% of patients (n=4) in the placebo arm died [RR: 1.1; 95% CI; 1.0-1.2; p=0.045)]. </p><p><br></p><p>1.15. The Advisory Group considered that the strength and quality of evidence supporting the use of ivermectin in the treatment COVID-19 was very low based on available publications. The Group noted that overall, the studies evaluating the effectiveness of ivermectin in the treatment of COVID-19 were small and did not consider factors such as vaccination, social isolation and mask wearing. In addition, many of the studies had been undertaken in less developed countries where social distancing has not been implemented. As a result of these factors the Group considered that many of the studies evaluating the effectiveness of ivermectin in the treatment of COVID-19 were at risk of bias. The Group noted there was no evidence for the effectiveness of ivermectin in the treatment of the Omicron variant of SARS-CoV-2 and its various subvariants, and the Group considered there would be no benefit from the use of ivermectin for the current treatment of COVID-19. </p><p><br></p><p>1.16. The Advisory Group noted that it was aware that a small number of people may be using ivermectin for the treatment of COVID-19 in New Zealand. Members raised concerns that if ivermectin were to be funded for the treatment of COVID-19 in New Zealand there was a risk that sufficient supply may not be available for currently funded indications for which there is clinical evidence of benefit. </p><p><br></p><p>1.17. The Advisory Group noted that internationally ivermectin has not been approved for use or funded for the treatment of COVID-19. This included jurisdictions with comparable assessment and regulatory environments to New Zealand including Australia, Canada, the European Union and the United States of America. In addition, the Group noted the public statement from Merk Sharpe &amp; Dome, the manufacturer of ivermectin, that it does not support the use of ivermectin for the Treatment of COVID-19, noting there is no scientific basis for a potential therapeutic effect against COVID-19 from pre-clinical studies and there is no meaningful evidence for clinical activity or clinical efficacy in patients with COVID-19 disease. </p><p><br></p><p>1.18. The Group noted that in New Zealand the Ministry of Health and Medsafe have strongly recommended that, on the basis of the evidence available, ivermectin should not be used in the prevention or treatment of COVID-19.</p><p><br></p><p><br></p>",
+          "change": null
+        },
+        "Published_Application": {
+          "s": "<p>1.1. The Advisory Group reviewed material provided by Pharmac staff regarding the use of ivermectin for the treatment of COVID-19. </p><p><br></p><p>1.2. The Advisory Group took into account, where applicable, Pharmac\u2019s relevant decision making criteria when considering this item.</p>",
+          "fs": "<p>1.1. The Advisory Group reviewed material provided by Pharmac staff regarding the use of ivermectin for the treatment of COVID-19. </p><p><br></p><p>1.2. The Advisory Group took into account, where applicable, Pharmac\u2019s relevant decision making criteria when considering this item.</p>",
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": "Decline",
+          "fs": "Decline",
+          "change": null
+        },
+        "Links": {
+          "s": "<p><a href=\"https://pharmac.govt.nz/assets/2022-02-28-COVID-treatments-group-meeting-record-Web-version.pdf\" target=\"_blank\">Meeting record</a></p>",
+          "fs": "<p><a href=\"https://pharmac.govt.nz/assets/2022-02-28-COVID-treatments-group-meeting-record-Web-version.pdf\" target=\"_blank\">Meeting record</a></p>",
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Apr 2022",
+          "fs": "Apr 2022",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Clinical advice received from COVID-19 Treatments Advisory Group at meeting Monday 28 February 2022.",
+          "fs": "Clinical advice received from COVID-19 Treatments Advisory Group at meeting Monday 28 February 2022.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000B4Xs12AF"
+          },
+          "Id": "a0POZ00000B4Xs12AF",
+          "Event_Date__c": "2022-04-28",
+          "Event_Description__c": "Clinical advice received from COVID-19 Treatments Advisory Group at meeting Monday 28 February 2022.",
+          "Stage__c": "Seeking Clinical Advice",
+          "Links__c": "<p><a href=\"https://pharmac.govt.nz/assets/2022-02-28-COVID-treatments-group-meeting-record-Web-version.pdf\" target=\"_blank\">Meeting record</a></p>",
+          "Outcome__c": "Decline",
+          "Formatted_Date__c": "Apr 2022",
+          "Published_Recommendation__c": "<p>1.3. The Advisory Group noted that an application had been submitted to Pharmac by a consumer for the funding of ivermectin for the treatment of people infected with SARsCoV-2 (COVID-19). </p><p><br></p><p>1.4. The Advisory Group recommended that ivermectin not be funded for the treatment of COVID-19 at this time, based on the very low certainty of evidence available for ivermectin in this setting. </p><p><br></p><p>1.5. The Advisory Group acknowledged the importance of securing a portfolio of treatments for COVID-19 for New Zealand and noted it would welcome any additional information regarding the effectiveness of ivermectin in the treatment of COVID-19.</p>",
+          "Published_Application__c": "<p>1.1. The Advisory Group reviewed material provided by Pharmac staff regarding the use of ivermectin for the treatment of COVID-19. </p><p><br></p><p>1.2. The Advisory Group took into account, where applicable, Pharmac\u2019s relevant decision making criteria when considering this item.</p>",
+          "Published_Discussion__c": "<p>1.6. The Advisory Group noted that no priority ranking (within the context of treatments for COVID-19) was sought by Pharmac, reflecting the rapidly evolving evidence for treatments in COVID-19 and separate funding outside the Combined Pharmaceutical Budget, and therefore did not need to discuss a priority ranking.</p><p><br></p><p>1.7. The Advisory Group reiterated this was an area of rapidly evolving evidence and knowledge and identified that its recommendation may need to be reconsidered in the future, noting this was based on currently available data from published studies and could be subject to change should new data become available, warranting further review. </p><p><br></p><p>1.8. The Advisory Group noted that ivermectin is a semi-synthetic macrocyclic lactone with a broad-spectrum antiparasitic activity, which binds with high affinity to glutamate-gated chloride channels causing an increase in the permeability of the cell membrane to chloride ions with hyperpolarisation of the nerve or muscle cell. </p><p><br></p><p>1.9. The Advisory Group noted that the potential mechanism of action for ivermectin as an antiviral against COVID-19 is currently unknown. </p><p><br></p><p>1.10. The Advisory Group noted that ivermectin is available in New Zealand as a 3 mg tablet and dosing for the treatment of parasitic infections is in multiples of 3 mg depending on body weight and the severity of infection being treated. </p><p><br></p><p>1.11. The Advisory Group noted that the dosing of ivermectin in clinical trials for the treatment of COVID-19 is variable and was approximately 150 mcg to 200 mcg per kg twice per day for up to 5 days. </p><p><br></p><p>1.12. The Advisory Group noted that in routine, single dose treatments of parasitic infections, side effects from ivermectin are relatively uncommon, however the Group acknowledged that safety data for the use of ivermectin as a preventative treatment over longer periods of time (as it would be used in the treatment of COVID-19) was not available. </p><p><br></p><p>1.13. The Advisory Group considered clinical evidence for ivermectin for the treatment of COVID-19:</p><p><br></p><p>1.13.1. The Group noted that a number of meta-analyses had been undertaken to evaluate the effectiveness of ivermectin in the treatment of COVID-19. The Group noted an article by Rothrock, Weber Giordano et al 2022, which concluded that the poor design of these meta-analyses and the limitations of the component studies were sufficiently appreciable to invalidate findings that use of ivermectin was associated with reduced mortality from COVID-19. </p><p><br></p><p>1.13.2. The Group noted a Cochrane review of trials up to 26 May 2021 (Popp et al. CDSR 2021;7:CD015017). The authors reported very low to low certainty of evidence for the efficacy and safety of ivermectin for prevention of SARS-CoV-2 infection or the treatment of patients hospitalised or in outpatient settings with COVID-19, and concluded that the available evidence did not support the use of ivermectin in the treatment of COVID-19. The Group noted this review did not include the most recent studies, and considered that treatments for COVID-19 is a rapidly evolving area and data continues to emerge.</p><p><br></p><p>1.13.3. The Group noted a sub group meta-analysis of trials for ivermectin in COVID-19 to assess the effects of stratifying by trial quality on the overall results (Hill, Mirchandani and Pilkington et al. 2022), which reported that when all 12 studies evaluated in the meta-analysis were included, the use of ivermectin in the treatment of COVID-19 was associated with a 51% increase in survival. However, excluding all trials considered to be fraudulent or at risk of bias, resulted in no material increase in survival associated with ivermectin use.</p><p><br></p><p>1.14. The Advisory Group considered recent studies for ivermectin in the treatment of COVID-19 which were undertaken subsequent to Popp et al 2021 and not identified by Hill, Mirchandani and Pilkington et al 2022 as being at risk of bias. These included: </p><p><br></p><p>1.14.1. Efficacy and safety of ivermectin in the treatment of COVID-19 Buonfrate et al 2022 COVER Study: A randomised, investigator-initiated, double-blind, multicentre, phase II, dose-finding, proof-of-concept clinical trial to assess the efficacy and safety of high doses of ivermectin in reducing viral load in individuals with early SARS-CoV-2 infection in outpatient settings. Patients were randomly assigned to receive placebo (arm A) 600 mg/kg/day (Arm b) or 1200 mg/kg/day (arm C) for 5 days (n=93). Mean (S.D.) log10 viral load reduction was 2.9 (1.6) in arm C, 2.5 (2.2) in arm B and 2.0 (2.1) in arm A, (P = 0.099 and 0.122 for C vs. A and B vs. A, respectively). High dose ivermectin was safe but did not show efficacy to reduce SARS-CoV-2 viral load. </p><p><br></p><p>1.14.2. Prophylaxis against COVID-19 Bartoszko, Siemieniuk, Kum, et al, 2021: A living systematic review and network meta-analysis evaluating the effects of prophylactic treatments on SARS-CoV-2 infection and COVID-19, which reported that the effects of ivermectin alone and in combination with iota-carrageenan as a prophylactic treatment against COVID-19 remains very uncertain with 50 and 52 fewer COVID-19 infections per 1000 people respectively compared to placebo. The meta-analysis reported serious risk of bias and very serious imprecision, leading to low certainty of evidence regarding the effectiveness of ivermectin alone and combined with iota-carrageenan on laboratory confirmed COVID-19. </p><p><br></p><p>1.14.3. Inpatients with COVID-19 at risk of severe disease Lim et al 2022 (ITech Study): A multicentre, open-label, randomised clinical trial conducted at 20 government hospitals and a COVID-19 quarantine centre in Malaysia between May 31 and October 25, 2021 to evaluate the effects of oral ivermectin (0.4 mg/kg/day for five days) plus standard of care in patients with confirmed COVID-19 who were 50 years or older with at least 1 comorbidity and presented with mild to moderate illness within 7 days from symptom onset (n=490). Among the 490 patients, 95 (19.4%) progressed to severe disease during the study period; 52 of 241 (21.6%) received ivermectin plus standard of care, and 43 of 249 (17.3%) received standard of care alone (RR, 1.25; 95% CI, 0.87-1.80; P\u2009=0.25). There were no statistically significant differences between ivermectin and control groups for all the prespecified secondary outcomes. </p><p><br></p><p>1.14.4. Treatment of mild to moderate COVID-19 infection Ravikirti et al 2021: A double blind, parallel, randomised, placebo-controlled trial between August and 31 October 2020 to evaluate the effectiveness of oral ivermectin (12 mg/day administered on day 1 and 2 post enrolment) in adult patients with mild to moderate COVID-19 (n=112); On 6th day, 23.6% of patients in the intervention arm and 31.6% in the placebo arm tested negative for SARS-CoV-2 [RR: 0.8; 95%, CI: 0.4 -1.4; p=0.348]; Mechanical ventilation was required for 1.8% of patients in the intervention arm and 8.8% of patients in the placebo arm [RR: 0.2; 95%CI: 0.0-1.7; (p=0.102)]; No patients in the intervention arm but 7% of patients (n=4) in the placebo arm died [RR: 1.1; 95% CI; 1.0-1.2; p=0.045)]. </p><p><br></p><p>1.15. The Advisory Group considered that the strength and quality of evidence supporting the use of ivermectin in the treatment COVID-19 was very low based on available publications. The Group noted that overall, the studies evaluating the effectiveness of ivermectin in the treatment of COVID-19 were small and did not consider factors such as vaccination, social isolation and mask wearing. In addition, many of the studies had been undertaken in less developed countries where social distancing has not been implemented. As a result of these factors the Group considered that many of the studies evaluating the effectiveness of ivermectin in the treatment of COVID-19 were at risk of bias. The Group noted there was no evidence for the effectiveness of ivermectin in the treatment of the Omicron variant of SARS-CoV-2 and its various subvariants, and the Group considered there would be no benefit from the use of ivermectin for the current treatment of COVID-19. </p><p><br></p><p>1.16. The Advisory Group noted that it was aware that a small number of people may be using ivermectin for the treatment of COVID-19 in New Zealand. Members raised concerns that if ivermectin were to be funded for the treatment of COVID-19 in New Zealand there was a risk that sufficient supply may not be available for currently funded indications for which there is clinical evidence of benefit. </p><p><br></p><p>1.17. The Advisory Group noted that internationally ivermectin has not been approved for use or funded for the treatment of COVID-19. This included jurisdictions with comparable assessment and regulatory environments to New Zealand including Australia, Canada, the European Union and the United States of America. In addition, the Group noted the public statement from Merk Sharpe &amp; Dome, the manufacturer of ivermectin, that it does not support the use of ivermectin for the Treatment of COVID-19, noting there is no scientific basis for a potential therapeutic effect against COVID-19 from pre-clinical studies and there is no meaningful evidence for clinical activity or clinical efficacy in patients with COVID-19 disease. </p><p><br></p><p>1.18. The Group noted that in New Zealand the Ministry of Health and Medsafe have strongly recommended that, on the basis of the evidence available, ivermectin should not be used in the prevention or treatment of COVID-19.</p><p><br></p><p><br></p>",
+          "Status_History__c": "a13OZ000003pPVoYAM"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Jan 2022",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Following Clinical Advice, Pharmac staff considers the advice and the funding application under goes an assessment using our&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/factors-for-consideration/\" rel=\"nofollow\">Factors for Consideration</a>&nbsp;framework and seeks additional information as required.</p>\r\n<p>&nbsp;</p>\r\n<p>Research and Economic analysis are undertaken.&nbsp; This focuses on the costs and benefits of a proposed course of action. Economics is based on three fundamental concepts that summarise the issues Pharmac faces daily:&nbsp;</p>\r\n<ul>\r\n<li>Scarcity &ndash; resources will always be insufficient to support all possible activities.</li>\r\n<li>Choices &ndash; due to scarce resources, decisions must be made about how best to use them.</li>\r\n<li>Opportunity cost &ndash; by choosing to use resources one way, we forgo other opportunities to use the same resources.</li>\r\n</ul>\r\n<p>&nbsp;</p>\r\n<p>For further information on the purpose of, and techniques for, undertaking economic analysis in health care, please refer&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/economic-analysis/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/economic-analysis/</a></p>",
+    "position": 2,
+    "name": "Under Assessment",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Dec 2023",
+          "fs": "Dec 2023",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Working to compare options",
+          "fs": "Working to compare options",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000B4Xs22AF"
+          },
+          "Id": "a0POZ00000B4Xs22AF",
+          "Event_Date__c": "2023-12-07",
+          "Event_Description__c": "Working to compare options",
+          "Stage__c": "Under Assessment",
+          "Formatted_Date__c": "Dec 2023",
+          "Status_History__c": "a13OZ000004JmBbYAK"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Dec 2023",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Pharmac staff uses a prioritisation process to compare and rank funding options. Possible opportunities for new investment will always exceed the budget Pharmac has available; therefore, prioritisation is an intrinsic part of Pharmac\u2019s decision-making process.</p>\r\n<p>The relative ranking of options aims to support Pharmac&rsquo;s statutory objective &ldquo;to secure for eligible people in need of pharmaceuticals, the best health outcomes that are reasonably achievable from pharmaceutical treatment and from within the amount of funding provided&rdquo;.</p>\r\n<p>A funding application or proposal is considered ready for prioritisation when sufficient information is available to permit it to be reviewed against Pharmac's Factors for Consideration and to inform a comparison with other possible investment decisions.</p>\r\n<p>There is no guarantee when or if a ranked medicine will be funded.&nbsp;&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/prioritisation/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/prioritisation/</a></p>",
+    "position": 3,
+    "name": "Options Compared",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Dec 2023",
+          "fs": "Dec 2023",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "The relative ranking of the pharmaceutical application has been completed.",
+          "fs": "The relative ranking of the pharmaceutical application has been completed.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000B4Xs32AF"
+          },
+          "Id": "a0POZ00000B4Xs32AF",
+          "Event_Date__c": "2023-12-07",
+          "Event_Description__c": "The relative ranking of the pharmaceutical application has been completed.",
+          "Stage__c": "Options Compared",
+          "Formatted_Date__c": "Dec 2023",
+          "Status_History__c": "a13OZ000004JtLYYA0"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Dec 2023",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Pharmac is consulting on a proposal to either approve or decline the application.&nbsp;We seek the views of all people who have an interest in our proposals, or who may be affected by them, to obtain feedback on our proposed approaches.</p>\r\n<p><a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/having-your-say/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/having-your-say/</a></p>",
+    "position": 4,
+    "name": "Under Consultation",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": "<p><a href=\"https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/2023-12-proposal-to-decline-inactive-funding-applications-2\" target=\"_blank\">Consultation notification</a></p>",
+          "fs": "<p><a href=\"https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/2023-12-proposal-to-decline-inactive-funding-applications-2\" target=\"_blank\">Consultation notification</a></p>",
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Dec 2023",
+          "fs": "Dec 2023",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Public consultation for this application is active.",
+          "fs": "Public consultation for this application is active.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000B4Xs42AF"
+          },
+          "Id": "a0POZ00000B4Xs42AF",
+          "Event_Date__c": "2023-12-18",
+          "Event_Description__c": "Public consultation for this application is active.",
+          "Stage__c": "Under Consultation",
+          "Links__c": "<p><a href=\"https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/2023-12-proposal-to-decline-inactive-funding-applications-2\" target=\"_blank\">Consultation notification</a></p>",
+          "Formatted_Date__c": "Dec 2023",
+          "Status_History__c": "a13OZ000004kUK9YAM"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Dec 2023",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Following the consultation process, Pharmac staff considers the feedback and identifies any additional information required as part of a gap analysis.&nbsp; The proposal may require further clinical advice, research, and assessment.</p>",
+    "position": 5,
+    "name": "Reviewing Consultation Feedback",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Feb 2024",
+          "fs": "Feb 2024",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Public consultation for this application is now closed. Pharmac is reviewing consultation feedback.",
+          "fs": "Public consultation for this application is now closed. Pharmac is reviewing consultation feedback.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000B4Xs52AF"
+          },
+          "Id": "a0POZ00000B4Xs52AF",
+          "Event_Date__c": "2024-02-12",
+          "Event_Description__c": "Public consultation for this application is now closed. Pharmac is reviewing consultation feedback.",
+          "Stage__c": "Reviewing Consultation Feedback",
+          "Formatted_Date__c": "Feb 2024",
+          "Status_History__c": "a13OZ000006m6faYAA"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Feb 2024",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>We refer to our decisions about whether and how particular pharmaceuticals are publicly-funded, as &ldquo;funding decisions&rdquo;.</p>\r\n<p>We consider and assess all funding decisions using the&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/about/operating-policies-and-procedures/#factorsfc\" rel=\"nofollow\">Factors for Consideration</a>. When we do so, we carefully evaluate clinical and other evidence for the benefits and suitability of a proposal, and to identify and understand the people who will be affected by it.</p>\r\n<p>While our main task is to allocate pharmaceutical funding, we consider the benefits and costs across the whole health system now and with a long-term focus, including the effects for hospitals and primary care, and consider direct costs to patients as well as to all health sector budgets.</p>\r\n<p>Final funding decisions are made by the Pharmac Board or delegated to senior Pharmac staff as required by the Board.</p>\r\n<p>&nbsp;</p>",
+    "position": 6,
+    "name": "Decision",
+    "last": true,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": "<p><a href=\"https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/decision-to-decline-inactive-funding-applications-july-24\" target=\"_blank\">Decision notification</a></p>",
+          "fs": "<p><a href=\"https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/decision-to-decline-inactive-funding-applications-july-24\" target=\"_blank\">Decision notification</a></p>",
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Jul 2024",
+          "fs": "Jul 2024",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "The funding application has been declined.",
+          "fs": "The funding application has been declined.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000B4Xs62AF"
+          },
+          "Id": "a0POZ00000B4Xs62AF",
+          "Event_Date__c": "2024-07-23",
+          "Event_Description__c": "The funding application has been declined.",
+          "Stage__c": "Decision",
+          "Links__c": "<p><a href=\"https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/decision-to-decline-inactive-funding-applications-july-24\" target=\"_blank\">Decision notification</a></p>",
+          "Formatted_Date__c": "Jul 2024",
+          "Status_History__c": "a13OZ00000CTkgXYAT"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Jul 2024",
+    "collapsed": false,
+    "checked": true
+  }
+]

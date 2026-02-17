@@ -1,0 +1,626 @@
+[
+  {
+    "text": "<p>New funding applications are referred to one of Pharmac's Funding Application Advisors (FAAs), who'll review the application to ensure they have the relevant information to undertake a preliminary analysis.&nbsp; They may seek more information if required.</p>\r\n<p><a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/new-funding-applications/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/new-funding-applications/</a></p>",
+    "position": 0,
+    "name": "Application Received",
+    "last": false,
+    "events": null,
+    "dateString": null,
+    "collapsed": false,
+    "checked": false
+  },
+  {
+    "text": "<p>Pharmac is identifying and gathering information required to get clinical advice.  The <a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/pharmacology-and-therapeutics-advisory-committee-ptac/\" rel=\"nofollow\">Pharmacology and Therapeutics Advisory Committee (PTAC)</a>  meets quarterly. There are also around 20 expert <a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/specialist-advisory-committees/\" rel=\"nofollow\">Specialist Advisory Committees (SACs)</a>, previously expert Subcommittees, which provide clinical evaluations in specialist areas. Specialist Advisory Committees meet as required to discuss issues referred to them by PTAC or Pharmac.</p>\n<p style=\"height: 20px\">&nbsp;</p>\n<p>In November 2021, we introduced separate terms of reference for the SACs to make clear that these committees have different, but complementary, roles, expertise and perspectives to PTAC.</p>\n<p style=\"height: 15px\">&nbsp;</p>\n<p>PTAC and SACs may make recommendations to Pharmac that differ from each other when looking at the same evidence. Pharmac considers the recommendations provided by all our clinical advisory committees when assessing applications.</p>\n<p style=\"height: 20px\">&nbsp;</p>\n<p><a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/pharmacology-and-therapeutics-advisory-committee-ptac/ptac-terms-of-reference-july-2021/\" rel=\"nofollow\">PTAC</a>  and <a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/specialist-advisory-committees/specialist-advisory-committee-terms-of-reference//\" rel=\"nofollow\">Specialist Advisory Committees</a> records of the meeting will be published on this website in accordance with the Terms of Reference.</p>",
+    "position": 1,
+    "name": "Seeking Clinical Advice",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Nov 2020",
+          "fs": "Nov 2020",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Clinical advice required",
+          "fs": "Clinical advice required",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P000007GWH5UAO"
+          },
+          "Id": "a0P2P000007GWH5UAO",
+          "Event_Date__c": "2020-11-24",
+          "Event_Description__c": "Clinical advice required",
+          "Stage__c": "Seeking Clinical Advice",
+          "Formatted_Date__c": "Nov 2020",
+          "Status_History__c": "a132P000000CNStQAO"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": "<p>The Committee <b>recommended</b> that vedolizumab be listed as a first line biologic treatment for Crohn\u2019s disease if cost neutral to TNF-\u03b1 inhibitors, subject to the following Special Authority criteria:</p><p><b style=\"font-size: 9pt;\">Initiation \u2013 Crohn\u2019s disease (adults) </b></p><p><span style=\"font-size: 9pt;\">Applications only from a gastroenterologist or Practitioner on the recommendation of a gastroenterologist. Approvals valid for 4 months. </span></p><p><br></p><p><span style=\"font-size: 9pt;\"> All of the following:</span></p><p><span style=\"font-size: 9pt;\">1 Patient has severe active Crohn\u2019s disease; and</span></p><p><span style=\"font-size: 9pt;\">2 Any of the following:</span></p><p><span style=\"font-size: 9pt;\">2.1 Patient has a Crohn\u2019s Disease Activity Index (CDAI) score of greater than or equal to 300; or</span></p><p><span style=\"font-size: 9pt;\">2.2 Patient has extensive small intestine disease affecting more than 50 cm of the small intestine; or</span></p><p><span style=\"font-size: 9pt;\">2.3 Patient has evidence of short gut syndrome or would be at risk of short gut syndrome with further bowel resection; or</span></p><p><span style=\"font-size: 9pt;\">2.4 Patient has an ileostomy or colostomy, and has intestinal inflammation; and</span></p><p><span style=\"font-size: 9pt;\">3 Patient has tried but had an inadequate response to, or has experienced intolerable side effects from, prior systemic therapy with immunomodulators at maximum tolerated doses (unless contraindicated) and corticosteroids; and</span></p><p><span style=\"font-size: 9pt;\">4 Surgery (or further surgery) is considered to be clinically inappropriate.</span></p><p><span style=\"font-size: 9pt;\">\u00a0</span></p><p><b style=\"font-size: 9pt;\">\u00a0</b></p><p><b style=\"font-size: 9pt;\">Initiation \u2013 Crohn\u2019s disease (children) </b></p><p><span style=\"font-size: 9pt;\">Applications only from a gastroenterologist or Practitioner on the recommendation of a gastroenterologist. Approvals valid for 4 months.</span></p><p><span style=\"font-size: 9pt;\">\u00a0</span></p><p><span style=\"font-size: 9pt;\">All of the following:</span></p><p><span style=\"font-size: 9pt;\">1 Paediatric patient has severe active Crohn\u2019s disease; and</span></p><p><span style=\"font-size: 9pt;\">2 Any of the following:</span></p><p><span style=\"font-size: 9pt;\">2.1 Patient has a Paediatric Crohn\u2019s Disease Activity Index (PCDAI) score of greater than or equal to 30; or</span></p><p><span style=\"font-size: 9pt;\">2.2 Patient has extensive small intestine disease; and</span></p><p><span style=\"font-size: 9pt;\">3 Patient has tried but had an inadequate response to, or has experienced intolerable side effects from, prior systemic therapy with immunomodulators at maximum tolerated doses (unless contraindicated) and corticosteroids; and</span></p><p><span style=\"font-size: 9pt;\">4 Surgery (or further surgery) is considered to be clinically inappropriate.</span></p><p><b style=\"font-size: 9pt;\">\u00a0</b></p><p><b style=\"font-size: 9pt;\">Renewal \u2013 Crohn\u2019s disease (adults)</b></p><p><span style=\"font-size: 9pt;\">Applications only from a gastroenterologist or Practitioner on the recommendation of a gastroenterologist. Approvals valid for 6 months. All of the following:</span></p><p><span style=\"font-size: 9pt;\">1 Either:</span></p><p><span style=\"font-size: 9pt;\">1.1</span><span style=\"font-size: 7pt;\">\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Either: </span></p><p><span style=\"font-size: 9pt;\">1.1.1</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">CDAI score has reduced by 100 points from the CDAI score when the patient was initiated on vedolizumab; or</span></p><p><span style=\"font-size: 9pt;\">1.1.2</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">CDAI score is 150 or less; or</span></p><p><span style=\"font-size: 9pt;\">\u00a0</span></p><p><span style=\"font-size: 9pt;\">1.2</span><span style=\"font-size: 7pt;\">\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Both:</span></p><p><span style=\"font-size: 9pt;\">1.2.1</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">The patient has experienced an adequate response to treatment but the CDAI score cannot be assessed; and</span></p><p><span style=\"font-size: 9pt;\">1.2.2</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Applicant to indicate the reason the CDAI score cannot be assessed; and</span></p><p><span style=\"font-size: 9pt;\">2</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Vedolizumab to administered at a dose no greater than 300 mg every 8 weeks.</span></p><p><span style=\"font-size: 9pt;\">\u00a0</span></p><p><b style=\"font-size: 9pt;\">Renewal \u2013 Crohn\u2019s disease (children)</b></p><p><span style=\"font-size: 9pt;\">Applications only from a gastroenterologist or Practitioner on the recommendation of a gastroenterologist. Approvals valid for 6 months. All of the following:</span></p><p><span style=\"font-size: 9pt;\">1 Either:</span></p><p><span style=\"font-size: 9pt;\">2.1</span><span style=\"font-size: 7pt;\">\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Either: </span></p><p><span style=\"font-size: 9pt;\">2.1.1</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">PCDAI score has reduced by 10 points from the PCDAI score when the patient was initiated on vedolizumab; or</span></p><p><span style=\"font-size: 9pt;\">2.1.2</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">PCDAI score is 15 or less; or</span></p><p><span style=\"font-size: 9pt;\">2.2</span><span style=\"font-size: 7pt;\">\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Both:</span></p><p><span style=\"font-size: 9pt;\">2.2.1</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">The patient has experienced an adequate response to treatment but the PCDAI score cannot be assessed; and</span></p><p><span style=\"font-size: 9pt;\">2.2.2</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Applicant to indicate the reason the PCDAI score cannot be assessed; and</span></p><p><span style=\"font-size: 9pt;\">3</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Vedolizumab to administered at a dose no greater than 300 mg every 8 weeks.</span></p><p><span style=\"font-size: 9pt;\">\u00a0</span></p><p><span style=\"font-size: 11pt; font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 11pt;\">In making this recommendation, the Committee noted the lack of direct head to head trials comparing vedolizumab to first line TNF-\u03b1 inhibitor agents such as infliximab and adalimumab and the limited evidence on the efficacy of TNF-\u03b1 inhibitor agents after prior vedolizumab use in CD, however noted the evidence of treatment benefit of vedolizumab in TNF-\u03b1 inhibitor treatment na\u00efve patients. The Committee noted and agreed with the Gastrointestinal Subcommittees 2017 recommendation for funding if cost-neutral (same access criteria as infliximab or adalimumab), and if a registered product is available.\u00a0</span></p><p><br></p>",
+          "fs": "<p>The Committee <b>recommended</b> that vedolizumab be listed as a first line biologic treatment for Crohn\u2019s disease if cost neutral to TNF-\u03b1 inhibitors, subject to the following Special Authority criteria:</p><p><b style=\"font-size: 9pt;\">Initiation \u2013 Crohn\u2019s disease (adults) </b></p><p><span style=\"font-size: 9pt;\">Applications only from a gastroenterologist or Practitioner on the recommendation of a gastroenterologist. Approvals valid for 4 months. </span></p><p><br></p><p><span style=\"font-size: 9pt;\"> All of the following:</span></p><p><span style=\"font-size: 9pt;\">1 Patient has severe active Crohn\u2019s disease; and</span></p><p><span style=\"font-size: 9pt;\">2 Any of the following:</span></p><p><span style=\"font-size: 9pt;\">2.1 Patient has a Crohn\u2019s Disease Activity Index (CDAI) score of greater than or equal to 300; or</span></p><p><span style=\"font-size: 9pt;\">2.2 Patient has extensive small intestine disease affecting more than 50 cm of the small intestine; or</span></p><p><span style=\"font-size: 9pt;\">2.3 Patient has evidence of short gut syndrome or would be at risk of short gut syndrome with further bowel resection; or</span></p><p><span style=\"font-size: 9pt;\">2.4 Patient has an ileostomy or colostomy, and has intestinal inflammation; and</span></p><p><span style=\"font-size: 9pt;\">3 Patient has tried but had an inadequate response to, or has experienced intolerable side effects from, prior systemic therapy with immunomodulators at maximum tolerated doses (unless contraindicated) and corticosteroids; and</span></p><p><span style=\"font-size: 9pt;\">4 Surgery (or further surgery) is considered to be clinically inappropriate.</span></p><p><span style=\"font-size: 9pt;\">\u00a0</span></p><p><b style=\"font-size: 9pt;\">\u00a0</b></p><p><b style=\"font-size: 9pt;\">Initiation \u2013 Crohn\u2019s disease (children) </b></p><p><span style=\"font-size: 9pt;\">Applications only from a gastroenterologist or Practitioner on the recommendation of a gastroenterologist. Approvals valid for 4 months.</span></p><p><span style=\"font-size: 9pt;\">\u00a0</span></p><p><span style=\"font-size: 9pt;\">All of the following:</span></p><p><span style=\"font-size: 9pt;\">1 Paediatric patient has severe active Crohn\u2019s disease; and</span></p><p><span style=\"font-size: 9pt;\">2 Any of the following:</span></p><p><span style=\"font-size: 9pt;\">2.1 Patient has a Paediatric Crohn\u2019s Disease Activity Index (PCDAI) score of greater than or equal to 30; or</span></p><p><span style=\"font-size: 9pt;\">2.2 Patient has extensive small intestine disease; and</span></p><p><span style=\"font-size: 9pt;\">3 Patient has tried but had an inadequate response to, or has experienced intolerable side effects from, prior systemic therapy with immunomodulators at maximum tolerated doses (unless contraindicated) and corticosteroids; and</span></p><p><span style=\"font-size: 9pt;\">4 Surgery (or further surgery) is considered to be clinically inappropriate.</span></p><p><b style=\"font-size: 9pt;\">\u00a0</b></p><p><b style=\"font-size: 9pt;\">Renewal \u2013 Crohn\u2019s disease (adults)</b></p><p><span style=\"font-size: 9pt;\">Applications only from a gastroenterologist or Practitioner on the recommendation of a gastroenterologist. Approvals valid for 6 months. All of the following:</span></p><p><span style=\"font-size: 9pt;\">1 Either:</span></p><p><span style=\"font-size: 9pt;\">1.1</span><span style=\"font-size: 7pt;\">\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Either: </span></p><p><span style=\"font-size: 9pt;\">1.1.1</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">CDAI score has reduced by 100 points from the CDAI score when the patient was initiated on vedolizumab; or</span></p><p><span style=\"font-size: 9pt;\">1.1.2</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">CDAI score is 150 or less; or</span></p><p><span style=\"font-size: 9pt;\">\u00a0</span></p><p><span style=\"font-size: 9pt;\">1.2</span><span style=\"font-size: 7pt;\">\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Both:</span></p><p><span style=\"font-size: 9pt;\">1.2.1</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">The patient has experienced an adequate response to treatment but the CDAI score cannot be assessed; and</span></p><p><span style=\"font-size: 9pt;\">1.2.2</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Applicant to indicate the reason the CDAI score cannot be assessed; and</span></p><p><span style=\"font-size: 9pt;\">2</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Vedolizumab to administered at a dose no greater than 300 mg every 8 weeks.</span></p><p><span style=\"font-size: 9pt;\">\u00a0</span></p><p><b style=\"font-size: 9pt;\">Renewal \u2013 Crohn\u2019s disease (children)</b></p><p><span style=\"font-size: 9pt;\">Applications only from a gastroenterologist or Practitioner on the recommendation of a gastroenterologist. Approvals valid for 6 months. All of the following:</span></p><p><span style=\"font-size: 9pt;\">1 Either:</span></p><p><span style=\"font-size: 9pt;\">2.1</span><span style=\"font-size: 7pt;\">\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Either: </span></p><p><span style=\"font-size: 9pt;\">2.1.1</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">PCDAI score has reduced by 10 points from the PCDAI score when the patient was initiated on vedolizumab; or</span></p><p><span style=\"font-size: 9pt;\">2.1.2</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">PCDAI score is 15 or less; or</span></p><p><span style=\"font-size: 9pt;\">2.2</span><span style=\"font-size: 7pt;\">\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Both:</span></p><p><span style=\"font-size: 9pt;\">2.2.1</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">The patient has experienced an adequate response to treatment but the PCDAI score cannot be assessed; and</span></p><p><span style=\"font-size: 9pt;\">2.2.2</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Applicant to indicate the reason the PCDAI score cannot be assessed; and</span></p><p><span style=\"font-size: 9pt;\">3</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Vedolizumab to administered at a dose no greater than 300 mg every 8 weeks.</span></p><p><span style=\"font-size: 9pt;\">\u00a0</span></p><p><span style=\"font-size: 11pt; font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 11pt;\">In making this recommendation, the Committee noted the lack of direct head to head trials comparing vedolizumab to first line TNF-\u03b1 inhibitor agents such as infliximab and adalimumab and the limited evidence on the efficacy of TNF-\u03b1 inhibitor agents after prior vedolizumab use in CD, however noted the evidence of treatment benefit of vedolizumab in TNF-\u03b1 inhibitor treatment na\u00efve patients. The Committee noted and agreed with the Gastrointestinal Subcommittees 2017 recommendation for funding if cost-neutral (same access criteria as infliximab or adalimumab), and if a registered product is available.\u00a0</span></p><p><br></p>",
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": "<p>PTAC and PTAC Subcommittees may differ in the advice they provide to PHARMAC, including recommendations\u2019 priority, due to the committees\u2019 different, albeit complementary, roles, expertise, experience, and perspectives.</p><p><br></p><p>Vedolizumab</p><p>The Committee noted that vedolizumab is a humanised monoclonal antibody which selectively binds to the \u03b14\u03b27 integrin on T-lymphocytes that are present in the gastrointestinal tract and cause characteristic inflammation in Crohn\u2019s disease and ulcerative colitis. The Committee noted vedolizumabs binds selectively to the integrin unique to the bowel, resulting in a gut-specific mechanism of action. The Committee considered that this gut specificity may be associated with a reduction in systemic side effects, however, may similarly result in a limited effect of vedolizumab on the prevention and management of extraintestinal manifestations associated with Crohn\u2019s disease and ulcerative colitis.</p><p><br></p><p>The Committee noted that vedolizumab is proposed to be used for patients with moderately to severely active ulcerative colitis or severe Crohn\u2019s disease who have experienced either inadequate response, intolerable side effects, or loss of response with the currently available TNF-\u03b1 inhibitors The Committee noted vedolizumab induction therapy is typically given as 300 mg initially and at week two, with maintenance dosing of 300 mg at week six, then every eight weeks. The Committee considered that an additional 300 mg dose at week 10 may be considered in patients who received suboptimal response after induction therapy. The Committee noted that all doses (induction and maintenance) are administered via IV infusion over a period of approximately 30 minutes in a hospital setting.</p><p><br></p><p>The Committee noted that, in March 2017, the Gastrointestinal Subcommittee considered the clinician application for vedolizumab for the treatment of patients with Crohn\u2019s disease and ulcerative colitis who have either had failure of, become refractory to, or experienced severe and intractable side effects from TNF-\u03b1 inhibitor treatment(s) and:</p><p>1.\tRecommended that vedolizumab be funded for Crohn\u2019s disease, in a first line setting if cost neutral with infliximab and adalimumab if a registered product becomes available; and\u00a0</p><p>2.\tRecommended that vedolizumab be funded for Crohn\u2019s disease, in a second line setting with a high priority for primary non-responders to infliximab, if a registered product becomes available; and</p><p>3.\tRecommended that vedolizumab be funded for ulcerative colitis, in a first line setting if cost neutral with infliximab if a registered product becomes available; and</p><p>4.\tRecommended that vedolizumab be funded for ulcerative colitis, in a second line setting with a high priority for primary and secondary non-responders to infliximab, if a registered product becomes available.\u00a0</p><p><br></p><p>The Committee noted that, in November 2017, PTAC noted that vedolizumab was neither registered nor sought for registration in New Zealand, and noted that PHARMAC intended to invite Takeda (the supplier of vedolizumab) to submit an application for funding. At that time, PTAC requested it review the evidence from the supplier when applications were made for funding and registration in New Zealand.</p><p><br></p><p>The Committee noted that, in February 2019, PTAC noted that PHARMAC had undertaken an economic analysis for vedolizumab and the proposal had been ranked against other proposals. At that time, PTAC recommended that it be presented a full paper on vedolizumab, and that it could reconsider its advice on vedolizumab, following that paper.</p><p><br></p><p>Health need\u00a0</p><p>The Committee noted that the current treatment paradigm for management of inflammatory bowel disease (IBD) i.e. patients with Crohn\u2019s disease and ulcerative colitis, typically begins with aminosalicylates and escalates to steroid treatment if patients experience flare-ups and disease progression. The Committee noted that, following failure of steroid treatment to manage symptoms, patients may be initiated on immunomodulators such as azathioprine, or TNF-\u03b1 inhibitor treatment for patients who have not responded to corticosteroids and/or immunosuppressive agents, or have experienced an adverse event or become unable to tolerate corticosteroids and/or immunosuppressive agents. The Committee noted that calcineurin inhibitors are not a feature of New Zealand clinical practice in the treatment of IBD but are used internationally. The Committee noted that for patients for whom biologic therapy does not elicit a response, surgical resection is an option, with more favourable long-term outcomes typically seen in ulcerative colitis patients.</p><p><br></p><p>The Committee considered that more data is needed on whether early aggressive therapy is more beneficial than a step-up treatment approach in the longer term for the treatment of inflammatory bowel diseases, particularly with regard to whether early aggressive therapy has a role in altering the natural history of the disease.\u00a0</p><p>The Committee noted that the majority of Crohn\u2019s disease patients are treated with adalimumab as their first biologic agent, with infliximab used first line in approximately 10-15% of cases. The Committee considered that infliximab is the most common initial biologic agent for patients presenting to hospital with acute Crohn\u2019s disease such as those presenting with fistulising disease. The Committee noted that approximately half of Crohn\u2019s disease patients who experience primary non-response to a TNF-\u03b1 inhibitor are likely to experience the same with a second TNF-\u03b1 inhibitor, and 23% to 46% of those with prior TNF-\u03b1 inhibitor treatment failure are likely to experience treatment failure (secondary loss of response) to a second TNF-\u03b1 inhibitor at 12 months (Ben-Horin et al. Autoimmun Rev. 2014;13:24-30).\u00a0</p><p><br></p><p>The Committee noted that the health need for the IBD patient population is high. Members noted that children and adolescents presenting with IBD are more likely to be diagnosed with severe disease but are less likely to have the complications seen in adult patients such as fistulae, abscesses, and strictures that are associated with longer duration disease (Jakobsen et al. Aliment Pharmacol Ther. 2011;34:1217-24; Duricova et al. J Crohns Colitis. 2014;8:1351-61). Children with ulcerative colitis have more extensive disease after presentation, a higher risk of being treated with systemic steroids and azathioprine\u2044 mercaptopurine, a higher frequency of steroid dependency and a more severe disease course.\u00a0</p><p><br></p><p>Members noted that a non-experimental study investigating the health care utilisation and cost for ulcerative colitis in Australia (Gibson et al. J Crohns Colitis. 2014;8:598-606). The Committee noted that the mean (SD) 3-month UC-related health care cost per patient was reported as AUD $2914 ($3447); with mean for patients in remission, $1970; mild disease, $3736; and moderate/severe disease, $4162; and that patients in remission had the least work and activity impairment. Additionally, the Committee noted that ulcerative colitis patients have a lower health related quality of life than the general population, and that the most important treatment attribute was efficacy, but that patients also value avoiding steroids, and prefer a fast onset of effect (Hagelund et al. Curr Med Res Opin. 2020;36:771-779). The Committee considered that the health system costs, and quality of life impacts would be similar for Crohn\u2019s disease.\u00a0</p><p><br></p><p>Evidence for vedolizumab in Crohn\u2019s disease\u00a0</p><p>The Committee noted the results of the double-blind, placebo-controlled GEMINI II induction and maintenance trials of 829 patients with Crohn\u2019s disease; in the induction trial, patients received either intravenous vedolizumab 300 mg (N=220) or placebo (N=148) at weeks 0 and 2, and 747 patients received open-label vedolizumab at weeks 0 and 2. The Committee noted that in the maintenance phase, patients received 300 mg vedolizumab 4-weekly (N=154), 8-weekly (N=154) or placebo (N=153) (Sandborn et al. N Engl J Med 2013; 369:711-21).\u00a0</p><p>\u2022\tThe Committee noted that, in the induction phase, 31.4% of the patients receiving vedolizumab achieved a clinical response, compared with 25.7% in the placebo treatment arm at week 6 (p=0.23). The Committee also noted that, 14.5% of the vedolizumab group and 6.8% of the placebo group achieved clinical remission at week 6 (P=0.02). Of the patients receiving open label vedolizumab, 17.7% achieved clinical remission and 34.4% had a clinical response at week 6.\u00a0</p><p>\u2022\tThe Committee noted that, in the induction phase, 39.0% of patients receiving vedolizumab every 8 weeks and 36.4% receiving vedolizumab every 4 weeks achieved clinical remission, compared with 21.6% of patients receiving placebo at week 52 (P&lt;0.001 and P=0.004 for the comparison of the two vedolizumab groups, respectively, with placebo). The Committee noted that patients were not stratified by previous TNF-\u03b1 inhibitor exposure</p><p>\u2022\tThe Committee noted that the results from GEMINI II were similar to those seen in a 2018 meta-analysis where the rates of corticosteroid-free remission was 25% at week 14 (95%, CI 20% to 31%) and 31% at month 12 (95%, CI 20% to 45%) (Schreiber et al. J Gastroenterol. 2018;53:1048-1064).\u00a0</p><p><br></p><p>The Committee noted the results of the double-blind, placebo-controlled GEMINI III trial of 416 patients with Crohn\u2019s disease in whom previous therapy with a TNF-\u03b1 inhibitor had failed were given 300 mg of vedolizumab (N=209) or placebo (N=207) intravenously at weeks 0, 2, and 6 (Sands et al. Gastroenterology 2014; 147(3): 618-27). The Committee noted that, at week 6, among patients with prior TNF-\u03b1 inhibitor failure, 15.2% achieved clinical remission in the vedolizumab group compared with 12.1% in the placebo group (P=0.433). The Committee noted that a clinical response was achieved in 39.2% of vedolizumab patients compared with 22.3% of the placebo patients (P=0.001).</p><p><br></p><p>The Committee noted that, among patients na\u00efve to TNF-\u03b1 inhibitor treatment, remission occurred in 31.4% of the vedolizumab group compared with 12.0% in the placebo group. The Committee also noted that clinical response was achieved in 39.2% of the vedolizumab group compared with 24.0% of the placebo group.</p><p><br></p><p>The Committee noted that, at week ten, among patients with prior TNF-\u03b1 inhibitor failure, 26.6% achieved clinical remission in the vedolizumab group compared with 12.1% in the placebo group (P=0.001). The Committee noted that a clinical response was achieved in 46.8% of vedolizumab patients compared with 24.8% of the placebo patients (P=0.001). The Committee also noted that among patients na\u00efve to TNF-\u03b1 inhibitors, clinical remission was 35.3% for vedolizumab compared with 16.0% with placebo, and clinical response was 51.0% with vedolizumab compared with 22.0% with placebo.</p><p><br></p><p>The Committee noted the results of a study performed at five hospitals in Paris comparing vedolizumab to ustekinumab in 239 patients with Crohn\u2019s disease that have not responded to TNF-\u03b1 inhibitor therapy (Alric et al. Aliment Pharmacol Therap.2020;51:948-57). The Committee noted that at week 14, the rate of clinical remission was similar between vedolizumab and ustekinumab (46.1% vs 42.3%; OR=0.86, 95% CI 0.49 to 1.50, P=0.59), but that at week 48 ustekinumab was associated with a higher clinical remission rate (54.4% vs 38.3%; OR=1.92, 95% CI 1.09 to 3.39, P = 0.03) and treatment persistence (71.5% vs 49.7%; OR=2.54, 95% CI 1.40 to 4.62], P&lt;0.01) than vedolizumab. The Committee considered that results from both treatments were good results in the context of treatment for Crohn\u2019s disease. Members considered that the study used a robust definition for steroid-free remission and that similar results were reported for this outcome.\u00a0</p><p><br></p><p>Suitability\u00a0</p><p>The Committee noted that the infusion duration for intravenous administration of vedolizumab is shorter than that of infliximab, and that vedolizumab does not require treatment in combination with immunosuppressants e.g. thiopurines.\u00a0</p><p><br></p><p>The Committee noted that some wastage could be expected with vedolizumab e.g. due to lower doses for children) The Committee considered that if effective, treatment with vedolizumab would likely be long-term due to its long duration of effect. The Committee considered that the loss of response with vedolizumab is less than 10% per year, and this is likely lower than the 13-15% loss of response per year observed with TNF-\u03b1 inhibitors.</p><p><br></p><p>The Committee considered that if a subcutaneous vedolizumab formulation were available, it would enable administration in the community and self-administration, however, it may require more frequent administration than the intravenous formulation.\u00a0</p><p><br></p><p>Uptake of vedolizumab in Crohn\u2019s disease.</p><p>The Committee considered that approximately 46% of patients with Crohn\u2019s have disease that is refractory to TNF-\u03b1 inhibitor therapy. The Committee considered that there is likely to be a small prevalent pool of patients initiating vedolizumab shortly after listing, and this prevalent pool is likely to be larger in Crohn\u2019s disease than in ulcerative colitis. The Committee considered that the estimated uptake and number of patients (who may be eligible for vedolizumab as a second-line treatment for severe Crohn\u2019s disease) of approximately 280 equivalent full-year patients in year 1, rising to 420 in three years was reasonable. The Committee considered that the rate of failure of maintenance therapy with vedolizumab was likely to be less than that of infliximab.</p><p><br></p><p>The Committee considered there was some uncertainty around how many patients would use vedolizumab after the failure of one TNF-\u03b1 inhibitor (instead of a second anti-TNF), and considered it is possible that up to 50% could use vedolizumab as an alternative to a second TNF-\u03b1 inhibitor. The Committee considered it was quite common to exhaust funded treatments within the same class before shifting out of class to a biologic with an alternative mechanism of action and considered that vedolizumab is commonly used overseas after the failure of two prior TNF-\u03b1 inhibitors.\u00a0</p><p><br></p><p>The Committee considered that there should be no age restriction in the funding criteria for vedolizumab for Crohn\u2019s disease.\u00a0</p><p><br></p><p>General</p><p>The Committee noted that since the introduction of TNF-\u03b1 inhibitors, the need for and rates of surgery for ulcerative colitis and Crohn\u2019s disease patients has decreased substantially. The Committee also noted that the pivotal trials for vedolizumab did not show a reduction in surgery rates compared with placebo, and thus considered that longer term follow-up may be required to determine the impact of vedolizumab treatment (and/or other biological treatments) on surgical rates. The Committee considered that the greatest benefit from funding vedolizumab would be increased symptom control and improvement in quality of life measures, and that an appropriate comparator for vedolizumab is adalimumab and/or infliximab.\u00a0</p><p><br></p><p>The Committee noted that information on the duration of treatment, stopping points for treatment, use of endoscopy, and use of combination therapy was missing from the clinical trial data and commentary submitted by the applicant.\u00a0</p><p><br></p><p>The Committee suggested that the Gastrointestinal Subcommittee review the application for vedolizumab for the treatment of moderately to severely active ulcerative colitis and provide expert advice on the VARSITY trial evidence (not yet reviewed by the Subcommittee), and the use of therapeutic drug monitoring in this setting.</p>",
+          "fs": "<p>PTAC and PTAC Subcommittees may differ in the advice they provide to PHARMAC, including recommendations\u2019 priority, due to the committees\u2019 different, albeit complementary, roles, expertise, experience, and perspectives.</p><p><br></p><p>Vedolizumab</p><p>The Committee noted that vedolizumab is a humanised monoclonal antibody which selectively binds to the \u03b14\u03b27 integrin on T-lymphocytes that are present in the gastrointestinal tract and cause characteristic inflammation in Crohn\u2019s disease and ulcerative colitis. The Committee noted vedolizumabs binds selectively to the integrin unique to the bowel, resulting in a gut-specific mechanism of action. The Committee considered that this gut specificity may be associated with a reduction in systemic side effects, however, may similarly result in a limited effect of vedolizumab on the prevention and management of extraintestinal manifestations associated with Crohn\u2019s disease and ulcerative colitis.</p><p><br></p><p>The Committee noted that vedolizumab is proposed to be used for patients with moderately to severely active ulcerative colitis or severe Crohn\u2019s disease who have experienced either inadequate response, intolerable side effects, or loss of response with the currently available TNF-\u03b1 inhibitors The Committee noted vedolizumab induction therapy is typically given as 300 mg initially and at week two, with maintenance dosing of 300 mg at week six, then every eight weeks. The Committee considered that an additional 300 mg dose at week 10 may be considered in patients who received suboptimal response after induction therapy. The Committee noted that all doses (induction and maintenance) are administered via IV infusion over a period of approximately 30 minutes in a hospital setting.</p><p><br></p><p>The Committee noted that, in March 2017, the Gastrointestinal Subcommittee considered the clinician application for vedolizumab for the treatment of patients with Crohn\u2019s disease and ulcerative colitis who have either had failure of, become refractory to, or experienced severe and intractable side effects from TNF-\u03b1 inhibitor treatment(s) and:</p><p>1.\tRecommended that vedolizumab be funded for Crohn\u2019s disease, in a first line setting if cost neutral with infliximab and adalimumab if a registered product becomes available; and\u00a0</p><p>2.\tRecommended that vedolizumab be funded for Crohn\u2019s disease, in a second line setting with a high priority for primary non-responders to infliximab, if a registered product becomes available; and</p><p>3.\tRecommended that vedolizumab be funded for ulcerative colitis, in a first line setting if cost neutral with infliximab if a registered product becomes available; and</p><p>4.\tRecommended that vedolizumab be funded for ulcerative colitis, in a second line setting with a high priority for primary and secondary non-responders to infliximab, if a registered product becomes available.\u00a0</p><p><br></p><p>The Committee noted that, in November 2017, PTAC noted that vedolizumab was neither registered nor sought for registration in New Zealand, and noted that PHARMAC intended to invite Takeda (the supplier of vedolizumab) to submit an application for funding. At that time, PTAC requested it review the evidence from the supplier when applications were made for funding and registration in New Zealand.</p><p><br></p><p>The Committee noted that, in February 2019, PTAC noted that PHARMAC had undertaken an economic analysis for vedolizumab and the proposal had been ranked against other proposals. At that time, PTAC recommended that it be presented a full paper on vedolizumab, and that it could reconsider its advice on vedolizumab, following that paper.</p><p><br></p><p>Health need\u00a0</p><p>The Committee noted that the current treatment paradigm for management of inflammatory bowel disease (IBD) i.e. patients with Crohn\u2019s disease and ulcerative colitis, typically begins with aminosalicylates and escalates to steroid treatment if patients experience flare-ups and disease progression. The Committee noted that, following failure of steroid treatment to manage symptoms, patients may be initiated on immunomodulators such as azathioprine, or TNF-\u03b1 inhibitor treatment for patients who have not responded to corticosteroids and/or immunosuppressive agents, or have experienced an adverse event or become unable to tolerate corticosteroids and/or immunosuppressive agents. The Committee noted that calcineurin inhibitors are not a feature of New Zealand clinical practice in the treatment of IBD but are used internationally. The Committee noted that for patients for whom biologic therapy does not elicit a response, surgical resection is an option, with more favourable long-term outcomes typically seen in ulcerative colitis patients.</p><p><br></p><p>The Committee considered that more data is needed on whether early aggressive therapy is more beneficial than a step-up treatment approach in the longer term for the treatment of inflammatory bowel diseases, particularly with regard to whether early aggressive therapy has a role in altering the natural history of the disease.\u00a0</p><p>The Committee noted that the majority of Crohn\u2019s disease patients are treated with adalimumab as their first biologic agent, with infliximab used first line in approximately 10-15% of cases. The Committee considered that infliximab is the most common initial biologic agent for patients presenting to hospital with acute Crohn\u2019s disease such as those presenting with fistulising disease. The Committee noted that approximately half of Crohn\u2019s disease patients who experience primary non-response to a TNF-\u03b1 inhibitor are likely to experience the same with a second TNF-\u03b1 inhibitor, and 23% to 46% of those with prior TNF-\u03b1 inhibitor treatment failure are likely to experience treatment failure (secondary loss of response) to a second TNF-\u03b1 inhibitor at 12 months (Ben-Horin et al. Autoimmun Rev. 2014;13:24-30).\u00a0</p><p><br></p><p>The Committee noted that the health need for the IBD patient population is high. Members noted that children and adolescents presenting with IBD are more likely to be diagnosed with severe disease but are less likely to have the complications seen in adult patients such as fistulae, abscesses, and strictures that are associated with longer duration disease (Jakobsen et al. Aliment Pharmacol Ther. 2011;34:1217-24; Duricova et al. J Crohns Colitis. 2014;8:1351-61). Children with ulcerative colitis have more extensive disease after presentation, a higher risk of being treated with systemic steroids and azathioprine\u2044 mercaptopurine, a higher frequency of steroid dependency and a more severe disease course.\u00a0</p><p><br></p><p>Members noted that a non-experimental study investigating the health care utilisation and cost for ulcerative colitis in Australia (Gibson et al. J Crohns Colitis. 2014;8:598-606). The Committee noted that the mean (SD) 3-month UC-related health care cost per patient was reported as AUD $2914 ($3447); with mean for patients in remission, $1970; mild disease, $3736; and moderate/severe disease, $4162; and that patients in remission had the least work and activity impairment. Additionally, the Committee noted that ulcerative colitis patients have a lower health related quality of life than the general population, and that the most important treatment attribute was efficacy, but that patients also value avoiding steroids, and prefer a fast onset of effect (Hagelund et al. Curr Med Res Opin. 2020;36:771-779). The Committee considered that the health system costs, and quality of life impacts would be similar for Crohn\u2019s disease.\u00a0</p><p><br></p><p>Evidence for vedolizumab in Crohn\u2019s disease\u00a0</p><p>The Committee noted the results of the double-blind, placebo-controlled GEMINI II induction and maintenance trials of 829 patients with Crohn\u2019s disease; in the induction trial, patients received either intravenous vedolizumab 300 mg (N=220) or placebo (N=148) at weeks 0 and 2, and 747 patients received open-label vedolizumab at weeks 0 and 2. The Committee noted that in the maintenance phase, patients received 300 mg vedolizumab 4-weekly (N=154), 8-weekly (N=154) or placebo (N=153) (Sandborn et al. N Engl J Med 2013; 369:711-21).\u00a0</p><p>\u2022\tThe Committee noted that, in the induction phase, 31.4% of the patients receiving vedolizumab achieved a clinical response, compared with 25.7% in the placebo treatment arm at week 6 (p=0.23). The Committee also noted that, 14.5% of the vedolizumab group and 6.8% of the placebo group achieved clinical remission at week 6 (P=0.02). Of the patients receiving open label vedolizumab, 17.7% achieved clinical remission and 34.4% had a clinical response at week 6.\u00a0</p><p>\u2022\tThe Committee noted that, in the induction phase, 39.0% of patients receiving vedolizumab every 8 weeks and 36.4% receiving vedolizumab every 4 weeks achieved clinical remission, compared with 21.6% of patients receiving placebo at week 52 (P&lt;0.001 and P=0.004 for the comparison of the two vedolizumab groups, respectively, with placebo). The Committee noted that patients were not stratified by previous TNF-\u03b1 inhibitor exposure</p><p>\u2022\tThe Committee noted that the results from GEMINI II were similar to those seen in a 2018 meta-analysis where the rates of corticosteroid-free remission was 25% at week 14 (95%, CI 20% to 31%) and 31% at month 12 (95%, CI 20% to 45%) (Schreiber et al. J Gastroenterol. 2018;53:1048-1064).\u00a0</p><p><br></p><p>The Committee noted the results of the double-blind, placebo-controlled GEMINI III trial of 416 patients with Crohn\u2019s disease in whom previous therapy with a TNF-\u03b1 inhibitor had failed were given 300 mg of vedolizumab (N=209) or placebo (N=207) intravenously at weeks 0, 2, and 6 (Sands et al. Gastroenterology 2014; 147(3): 618-27). The Committee noted that, at week 6, among patients with prior TNF-\u03b1 inhibitor failure, 15.2% achieved clinical remission in the vedolizumab group compared with 12.1% in the placebo group (P=0.433). The Committee noted that a clinical response was achieved in 39.2% of vedolizumab patients compared with 22.3% of the placebo patients (P=0.001).</p><p><br></p><p>The Committee noted that, among patients na\u00efve to TNF-\u03b1 inhibitor treatment, remission occurred in 31.4% of the vedolizumab group compared with 12.0% in the placebo group. The Committee also noted that clinical response was achieved in 39.2% of the vedolizumab group compared with 24.0% of the placebo group.</p><p><br></p><p>The Committee noted that, at week ten, among patients with prior TNF-\u03b1 inhibitor failure, 26.6% achieved clinical remission in the vedolizumab group compared with 12.1% in the placebo group (P=0.001). The Committee noted that a clinical response was achieved in 46.8% of vedolizumab patients compared with 24.8% of the placebo patients (P=0.001). The Committee also noted that among patients na\u00efve to TNF-\u03b1 inhibitors, clinical remission was 35.3% for vedolizumab compared with 16.0% with placebo, and clinical response was 51.0% with vedolizumab compared with 22.0% with placebo.</p><p><br></p><p>The Committee noted the results of a study performed at five hospitals in Paris comparing vedolizumab to ustekinumab in 239 patients with Crohn\u2019s disease that have not responded to TNF-\u03b1 inhibitor therapy (Alric et al. Aliment Pharmacol Therap.2020;51:948-57). The Committee noted that at week 14, the rate of clinical remission was similar between vedolizumab and ustekinumab (46.1% vs 42.3%; OR=0.86, 95% CI 0.49 to 1.50, P=0.59), but that at week 48 ustekinumab was associated with a higher clinical remission rate (54.4% vs 38.3%; OR=1.92, 95% CI 1.09 to 3.39, P = 0.03) and treatment persistence (71.5% vs 49.7%; OR=2.54, 95% CI 1.40 to 4.62], P&lt;0.01) than vedolizumab. The Committee considered that results from both treatments were good results in the context of treatment for Crohn\u2019s disease. Members considered that the study used a robust definition for steroid-free remission and that similar results were reported for this outcome.\u00a0</p><p><br></p><p>Suitability\u00a0</p><p>The Committee noted that the infusion duration for intravenous administration of vedolizumab is shorter than that of infliximab, and that vedolizumab does not require treatment in combination with immunosuppressants e.g. thiopurines.\u00a0</p><p><br></p><p>The Committee noted that some wastage could be expected with vedolizumab e.g. due to lower doses for children) The Committee considered that if effective, treatment with vedolizumab would likely be long-term due to its long duration of effect. The Committee considered that the loss of response with vedolizumab is less than 10% per year, and this is likely lower than the 13-15% loss of response per year observed with TNF-\u03b1 inhibitors.</p><p><br></p><p>The Committee considered that if a subcutaneous vedolizumab formulation were available, it would enable administration in the community and self-administration, however, it may require more frequent administration than the intravenous formulation.\u00a0</p><p><br></p><p>Uptake of vedolizumab in Crohn\u2019s disease.</p><p>The Committee considered that approximately 46% of patients with Crohn\u2019s have disease that is refractory to TNF-\u03b1 inhibitor therapy. The Committee considered that there is likely to be a small prevalent pool of patients initiating vedolizumab shortly after listing, and this prevalent pool is likely to be larger in Crohn\u2019s disease than in ulcerative colitis. The Committee considered that the estimated uptake and number of patients (who may be eligible for vedolizumab as a second-line treatment for severe Crohn\u2019s disease) of approximately 280 equivalent full-year patients in year 1, rising to 420 in three years was reasonable. The Committee considered that the rate of failure of maintenance therapy with vedolizumab was likely to be less than that of infliximab.</p><p><br></p><p>The Committee considered there was some uncertainty around how many patients would use vedolizumab after the failure of one TNF-\u03b1 inhibitor (instead of a second anti-TNF), and considered it is possible that up to 50% could use vedolizumab as an alternative to a second TNF-\u03b1 inhibitor. The Committee considered it was quite common to exhaust funded treatments within the same class before shifting out of class to a biologic with an alternative mechanism of action and considered that vedolizumab is commonly used overseas after the failure of two prior TNF-\u03b1 inhibitors.\u00a0</p><p><br></p><p>The Committee considered that there should be no age restriction in the funding criteria for vedolizumab for Crohn\u2019s disease.\u00a0</p><p><br></p><p>General</p><p>The Committee noted that since the introduction of TNF-\u03b1 inhibitors, the need for and rates of surgery for ulcerative colitis and Crohn\u2019s disease patients has decreased substantially. The Committee also noted that the pivotal trials for vedolizumab did not show a reduction in surgery rates compared with placebo, and thus considered that longer term follow-up may be required to determine the impact of vedolizumab treatment (and/or other biological treatments) on surgical rates. The Committee considered that the greatest benefit from funding vedolizumab would be increased symptom control and improvement in quality of life measures, and that an appropriate comparator for vedolizumab is adalimumab and/or infliximab.\u00a0</p><p><br></p><p>The Committee noted that information on the duration of treatment, stopping points for treatment, use of endoscopy, and use of combination therapy was missing from the clinical trial data and commentary submitted by the applicant.\u00a0</p><p><br></p><p>The Committee suggested that the Gastrointestinal Subcommittee review the application for vedolizumab for the treatment of moderately to severely active ulcerative colitis and provide expert advice on the VARSITY trial evidence (not yet reviewed by the Subcommittee), and the use of therapeutic drug monitoring in this setting.</p>",
+          "change": null
+        },
+        "Published_Application": {
+          "s": "<p>The Committee reviewed the application from the New Zealand Society of Gastroenterology (NZSG) for vedolizumab for the treatment of patients with Crohn\u2019s disease (CD) who have either had failure of, became refractory to, or experienced severe and intractable side effects from infliximab and/or adalimumab.</p><p><br></p><p>The Committee reviewed the application from the New Zealand Society of Gastroenterology (NZSG) for vedolizumab for the treatment of patients with ulcerative colitis (UC) who have either had failure of, or became refractory to, or experienced severe and intractable side effects from infliximab.</p><p><br></p><p>The Committee took into account, where applicable, PHARMAC\u2019s relevant decision-making framework when considering this agenda item.\u00a0</p>",
+          "fs": "<p>The Committee reviewed the application from the New Zealand Society of Gastroenterology (NZSG) for vedolizumab for the treatment of patients with Crohn\u2019s disease (CD) who have either had failure of, became refractory to, or experienced severe and intractable side effects from infliximab and/or adalimumab.</p><p><br></p><p>The Committee reviewed the application from the New Zealand Society of Gastroenterology (NZSG) for vedolizumab for the treatment of patients with ulcerative colitis (UC) who have either had failure of, or became refractory to, or experienced severe and intractable side effects from infliximab.</p><p><br></p><p>The Committee took into account, where applicable, PHARMAC\u2019s relevant decision-making framework when considering this agenda item.\u00a0</p>",
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": "Cost Neutral",
+          "fs": "Cost Neutral",
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Feb 2021",
+          "fs": "Feb 2021",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Clinical advice received from Pharmacology and Therapeutics Advisory Committee (PTAC) at meeting Friday 13 November 2020.",
+          "fs": "Clinical advice received from Pharmacology and Therapeutics Advisory Committee (PTAC) at meeting Friday 13 November 2020.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P000007GWH8UAO"
+          },
+          "Id": "a0P2P000007GWH8UAO",
+          "Event_Date__c": "2021-02-23",
+          "Event_Description__c": "Clinical advice received from Pharmacology and Therapeutics Advisory Committee (PTAC) at meeting Friday 13 November 2020.",
+          "Stage__c": "Seeking Clinical Advice",
+          "Outcome__c": "Cost Neutral",
+          "Formatted_Date__c": "Feb 2021",
+          "Published_Recommendation__c": "<p>The Committee <b>recommended</b> that vedolizumab be listed as a first line biologic treatment for Crohn\u2019s disease if cost neutral to TNF-\u03b1 inhibitors, subject to the following Special Authority criteria:</p><p><b style=\"font-size: 9pt;\">Initiation \u2013 Crohn\u2019s disease (adults) </b></p><p><span style=\"font-size: 9pt;\">Applications only from a gastroenterologist or Practitioner on the recommendation of a gastroenterologist. Approvals valid for 4 months. </span></p><p><br></p><p><span style=\"font-size: 9pt;\"> All of the following:</span></p><p><span style=\"font-size: 9pt;\">1 Patient has severe active Crohn\u2019s disease; and</span></p><p><span style=\"font-size: 9pt;\">2 Any of the following:</span></p><p><span style=\"font-size: 9pt;\">2.1 Patient has a Crohn\u2019s Disease Activity Index (CDAI) score of greater than or equal to 300; or</span></p><p><span style=\"font-size: 9pt;\">2.2 Patient has extensive small intestine disease affecting more than 50 cm of the small intestine; or</span></p><p><span style=\"font-size: 9pt;\">2.3 Patient has evidence of short gut syndrome or would be at risk of short gut syndrome with further bowel resection; or</span></p><p><span style=\"font-size: 9pt;\">2.4 Patient has an ileostomy or colostomy, and has intestinal inflammation; and</span></p><p><span style=\"font-size: 9pt;\">3 Patient has tried but had an inadequate response to, or has experienced intolerable side effects from, prior systemic therapy with immunomodulators at maximum tolerated doses (unless contraindicated) and corticosteroids; and</span></p><p><span style=\"font-size: 9pt;\">4 Surgery (or further surgery) is considered to be clinically inappropriate.</span></p><p><span style=\"font-size: 9pt;\">\u00a0</span></p><p><b style=\"font-size: 9pt;\">\u00a0</b></p><p><b style=\"font-size: 9pt;\">Initiation \u2013 Crohn\u2019s disease (children) </b></p><p><span style=\"font-size: 9pt;\">Applications only from a gastroenterologist or Practitioner on the recommendation of a gastroenterologist. Approvals valid for 4 months.</span></p><p><span style=\"font-size: 9pt;\">\u00a0</span></p><p><span style=\"font-size: 9pt;\">All of the following:</span></p><p><span style=\"font-size: 9pt;\">1 Paediatric patient has severe active Crohn\u2019s disease; and</span></p><p><span style=\"font-size: 9pt;\">2 Any of the following:</span></p><p><span style=\"font-size: 9pt;\">2.1 Patient has a Paediatric Crohn\u2019s Disease Activity Index (PCDAI) score of greater than or equal to 30; or</span></p><p><span style=\"font-size: 9pt;\">2.2 Patient has extensive small intestine disease; and</span></p><p><span style=\"font-size: 9pt;\">3 Patient has tried but had an inadequate response to, or has experienced intolerable side effects from, prior systemic therapy with immunomodulators at maximum tolerated doses (unless contraindicated) and corticosteroids; and</span></p><p><span style=\"font-size: 9pt;\">4 Surgery (or further surgery) is considered to be clinically inappropriate.</span></p><p><b style=\"font-size: 9pt;\">\u00a0</b></p><p><b style=\"font-size: 9pt;\">Renewal \u2013 Crohn\u2019s disease (adults)</b></p><p><span style=\"font-size: 9pt;\">Applications only from a gastroenterologist or Practitioner on the recommendation of a gastroenterologist. Approvals valid for 6 months. All of the following:</span></p><p><span style=\"font-size: 9pt;\">1 Either:</span></p><p><span style=\"font-size: 9pt;\">1.1</span><span style=\"font-size: 7pt;\">\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Either: </span></p><p><span style=\"font-size: 9pt;\">1.1.1</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">CDAI score has reduced by 100 points from the CDAI score when the patient was initiated on vedolizumab; or</span></p><p><span style=\"font-size: 9pt;\">1.1.2</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">CDAI score is 150 or less; or</span></p><p><span style=\"font-size: 9pt;\">\u00a0</span></p><p><span style=\"font-size: 9pt;\">1.2</span><span style=\"font-size: 7pt;\">\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Both:</span></p><p><span style=\"font-size: 9pt;\">1.2.1</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">The patient has experienced an adequate response to treatment but the CDAI score cannot be assessed; and</span></p><p><span style=\"font-size: 9pt;\">1.2.2</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Applicant to indicate the reason the CDAI score cannot be assessed; and</span></p><p><span style=\"font-size: 9pt;\">2</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Vedolizumab to administered at a dose no greater than 300 mg every 8 weeks.</span></p><p><span style=\"font-size: 9pt;\">\u00a0</span></p><p><b style=\"font-size: 9pt;\">Renewal \u2013 Crohn\u2019s disease (children)</b></p><p><span style=\"font-size: 9pt;\">Applications only from a gastroenterologist or Practitioner on the recommendation of a gastroenterologist. Approvals valid for 6 months. All of the following:</span></p><p><span style=\"font-size: 9pt;\">1 Either:</span></p><p><span style=\"font-size: 9pt;\">2.1</span><span style=\"font-size: 7pt;\">\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Either: </span></p><p><span style=\"font-size: 9pt;\">2.1.1</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">PCDAI score has reduced by 10 points from the PCDAI score when the patient was initiated on vedolizumab; or</span></p><p><span style=\"font-size: 9pt;\">2.1.2</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">PCDAI score is 15 or less; or</span></p><p><span style=\"font-size: 9pt;\">2.2</span><span style=\"font-size: 7pt;\">\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Both:</span></p><p><span style=\"font-size: 9pt;\">2.2.1</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">The patient has experienced an adequate response to treatment but the PCDAI score cannot be assessed; and</span></p><p><span style=\"font-size: 9pt;\">2.2.2</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Applicant to indicate the reason the PCDAI score cannot be assessed; and</span></p><p><span style=\"font-size: 9pt;\">3</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Vedolizumab to administered at a dose no greater than 300 mg every 8 weeks.</span></p><p><span style=\"font-size: 9pt;\">\u00a0</span></p><p><span style=\"font-size: 11pt; font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 11pt;\">In making this recommendation, the Committee noted the lack of direct head to head trials comparing vedolizumab to first line TNF-\u03b1 inhibitor agents such as infliximab and adalimumab and the limited evidence on the efficacy of TNF-\u03b1 inhibitor agents after prior vedolizumab use in CD, however noted the evidence of treatment benefit of vedolizumab in TNF-\u03b1 inhibitor treatment na\u00efve patients. The Committee noted and agreed with the Gastrointestinal Subcommittees 2017 recommendation for funding if cost-neutral (same access criteria as infliximab or adalimumab), and if a registered product is available.\u00a0</span></p><p><br></p>",
+          "Published_Application__c": "<p>The Committee reviewed the application from the New Zealand Society of Gastroenterology (NZSG) for vedolizumab for the treatment of patients with Crohn\u2019s disease (CD) who have either had failure of, became refractory to, or experienced severe and intractable side effects from infliximab and/or adalimumab.</p><p><br></p><p>The Committee reviewed the application from the New Zealand Society of Gastroenterology (NZSG) for vedolizumab for the treatment of patients with ulcerative colitis (UC) who have either had failure of, or became refractory to, or experienced severe and intractable side effects from infliximab.</p><p><br></p><p>The Committee took into account, where applicable, PHARMAC\u2019s relevant decision-making framework when considering this agenda item.\u00a0</p>",
+          "Published_Discussion__c": "<p>PTAC and PTAC Subcommittees may differ in the advice they provide to PHARMAC, including recommendations\u2019 priority, due to the committees\u2019 different, albeit complementary, roles, expertise, experience, and perspectives.</p><p><br></p><p>Vedolizumab</p><p>The Committee noted that vedolizumab is a humanised monoclonal antibody which selectively binds to the \u03b14\u03b27 integrin on T-lymphocytes that are present in the gastrointestinal tract and cause characteristic inflammation in Crohn\u2019s disease and ulcerative colitis. The Committee noted vedolizumabs binds selectively to the integrin unique to the bowel, resulting in a gut-specific mechanism of action. The Committee considered that this gut specificity may be associated with a reduction in systemic side effects, however, may similarly result in a limited effect of vedolizumab on the prevention and management of extraintestinal manifestations associated with Crohn\u2019s disease and ulcerative colitis.</p><p><br></p><p>The Committee noted that vedolizumab is proposed to be used for patients with moderately to severely active ulcerative colitis or severe Crohn\u2019s disease who have experienced either inadequate response, intolerable side effects, or loss of response with the currently available TNF-\u03b1 inhibitors The Committee noted vedolizumab induction therapy is typically given as 300 mg initially and at week two, with maintenance dosing of 300 mg at week six, then every eight weeks. The Committee considered that an additional 300 mg dose at week 10 may be considered in patients who received suboptimal response after induction therapy. The Committee noted that all doses (induction and maintenance) are administered via IV infusion over a period of approximately 30 minutes in a hospital setting.</p><p><br></p><p>The Committee noted that, in March 2017, the Gastrointestinal Subcommittee considered the clinician application for vedolizumab for the treatment of patients with Crohn\u2019s disease and ulcerative colitis who have either had failure of, become refractory to, or experienced severe and intractable side effects from TNF-\u03b1 inhibitor treatment(s) and:</p><p>1.\tRecommended that vedolizumab be funded for Crohn\u2019s disease, in a first line setting if cost neutral with infliximab and adalimumab if a registered product becomes available; and\u00a0</p><p>2.\tRecommended that vedolizumab be funded for Crohn\u2019s disease, in a second line setting with a high priority for primary non-responders to infliximab, if a registered product becomes available; and</p><p>3.\tRecommended that vedolizumab be funded for ulcerative colitis, in a first line setting if cost neutral with infliximab if a registered product becomes available; and</p><p>4.\tRecommended that vedolizumab be funded for ulcerative colitis, in a second line setting with a high priority for primary and secondary non-responders to infliximab, if a registered product becomes available.\u00a0</p><p><br></p><p>The Committee noted that, in November 2017, PTAC noted that vedolizumab was neither registered nor sought for registration in New Zealand, and noted that PHARMAC intended to invite Takeda (the supplier of vedolizumab) to submit an application for funding. At that time, PTAC requested it review the evidence from the supplier when applications were made for funding and registration in New Zealand.</p><p><br></p><p>The Committee noted that, in February 2019, PTAC noted that PHARMAC had undertaken an economic analysis for vedolizumab and the proposal had been ranked against other proposals. At that time, PTAC recommended that it be presented a full paper on vedolizumab, and that it could reconsider its advice on vedolizumab, following that paper.</p><p><br></p><p>Health need\u00a0</p><p>The Committee noted that the current treatment paradigm for management of inflammatory bowel disease (IBD) i.e. patients with Crohn\u2019s disease and ulcerative colitis, typically begins with aminosalicylates and escalates to steroid treatment if patients experience flare-ups and disease progression. The Committee noted that, following failure of steroid treatment to manage symptoms, patients may be initiated on immunomodulators such as azathioprine, or TNF-\u03b1 inhibitor treatment for patients who have not responded to corticosteroids and/or immunosuppressive agents, or have experienced an adverse event or become unable to tolerate corticosteroids and/or immunosuppressive agents. The Committee noted that calcineurin inhibitors are not a feature of New Zealand clinical practice in the treatment of IBD but are used internationally. The Committee noted that for patients for whom biologic therapy does not elicit a response, surgical resection is an option, with more favourable long-term outcomes typically seen in ulcerative colitis patients.</p><p><br></p><p>The Committee considered that more data is needed on whether early aggressive therapy is more beneficial than a step-up treatment approach in the longer term for the treatment of inflammatory bowel diseases, particularly with regard to whether early aggressive therapy has a role in altering the natural history of the disease.\u00a0</p><p>The Committee noted that the majority of Crohn\u2019s disease patients are treated with adalimumab as their first biologic agent, with infliximab used first line in approximately 10-15% of cases. The Committee considered that infliximab is the most common initial biologic agent for patients presenting to hospital with acute Crohn\u2019s disease such as those presenting with fistulising disease. The Committee noted that approximately half of Crohn\u2019s disease patients who experience primary non-response to a TNF-\u03b1 inhibitor are likely to experience the same with a second TNF-\u03b1 inhibitor, and 23% to 46% of those with prior TNF-\u03b1 inhibitor treatment failure are likely to experience treatment failure (secondary loss of response) to a second TNF-\u03b1 inhibitor at 12 months (Ben-Horin et al. Autoimmun Rev. 2014;13:24-30).\u00a0</p><p><br></p><p>The Committee noted that the health need for the IBD patient population is high. Members noted that children and adolescents presenting with IBD are more likely to be diagnosed with severe disease but are less likely to have the complications seen in adult patients such as fistulae, abscesses, and strictures that are associated with longer duration disease (Jakobsen et al. Aliment Pharmacol Ther. 2011;34:1217-24; Duricova et al. J Crohns Colitis. 2014;8:1351-61). Children with ulcerative colitis have more extensive disease after presentation, a higher risk of being treated with systemic steroids and azathioprine\u2044 mercaptopurine, a higher frequency of steroid dependency and a more severe disease course.\u00a0</p><p><br></p><p>Members noted that a non-experimental study investigating the health care utilisation and cost for ulcerative colitis in Australia (Gibson et al. J Crohns Colitis. 2014;8:598-606). The Committee noted that the mean (SD) 3-month UC-related health care cost per patient was reported as AUD $2914 ($3447); with mean for patients in remission, $1970; mild disease, $3736; and moderate/severe disease, $4162; and that patients in remission had the least work and activity impairment. Additionally, the Committee noted that ulcerative colitis patients have a lower health related quality of life than the general population, and that the most important treatment attribute was efficacy, but that patients also value avoiding steroids, and prefer a fast onset of effect (Hagelund et al. Curr Med Res Opin. 2020;36:771-779). The Committee considered that the health system costs, and quality of life impacts would be similar for Crohn\u2019s disease.\u00a0</p><p><br></p><p>Evidence for vedolizumab in Crohn\u2019s disease\u00a0</p><p>The Committee noted the results of the double-blind, placebo-controlled GEMINI II induction and maintenance trials of 829 patients with Crohn\u2019s disease; in the induction trial, patients received either intravenous vedolizumab 300 mg (N=220) or placebo (N=148) at weeks 0 and 2, and 747 patients received open-label vedolizumab at weeks 0 and 2. The Committee noted that in the maintenance phase, patients received 300 mg vedolizumab 4-weekly (N=154), 8-weekly (N=154) or placebo (N=153) (Sandborn et al. N Engl J Med 2013; 369:711-21).\u00a0</p><p>\u2022\tThe Committee noted that, in the induction phase, 31.4% of the patients receiving vedolizumab achieved a clinical response, compared with 25.7% in the placebo treatment arm at week 6 (p=0.23). The Committee also noted that, 14.5% of the vedolizumab group and 6.8% of the placebo group achieved clinical remission at week 6 (P=0.02). Of the patients receiving open label vedolizumab, 17.7% achieved clinical remission and 34.4% had a clinical response at week 6.\u00a0</p><p>\u2022\tThe Committee noted that, in the induction phase, 39.0% of patients receiving vedolizumab every 8 weeks and 36.4% receiving vedolizumab every 4 weeks achieved clinical remission, compared with 21.6% of patients receiving placebo at week 52 (P&lt;0.001 and P=0.004 for the comparison of the two vedolizumab groups, respectively, with placebo). The Committee noted that patients were not stratified by previous TNF-\u03b1 inhibitor exposure</p><p>\u2022\tThe Committee noted that the results from GEMINI II were similar to those seen in a 2018 meta-analysis where the rates of corticosteroid-free remission was 25% at week 14 (95%, CI 20% to 31%) and 31% at month 12 (95%, CI 20% to 45%) (Schreiber et al. J Gastroenterol. 2018;53:1048-1064).\u00a0</p><p><br></p><p>The Committee noted the results of the double-blind, placebo-controlled GEMINI III trial of 416 patients with Crohn\u2019s disease in whom previous therapy with a TNF-\u03b1 inhibitor had failed were given 300 mg of vedolizumab (N=209) or placebo (N=207) intravenously at weeks 0, 2, and 6 (Sands et al. Gastroenterology 2014; 147(3): 618-27). The Committee noted that, at week 6, among patients with prior TNF-\u03b1 inhibitor failure, 15.2% achieved clinical remission in the vedolizumab group compared with 12.1% in the placebo group (P=0.433). The Committee noted that a clinical response was achieved in 39.2% of vedolizumab patients compared with 22.3% of the placebo patients (P=0.001).</p><p><br></p><p>The Committee noted that, among patients na\u00efve to TNF-\u03b1 inhibitor treatment, remission occurred in 31.4% of the vedolizumab group compared with 12.0% in the placebo group. The Committee also noted that clinical response was achieved in 39.2% of the vedolizumab group compared with 24.0% of the placebo group.</p><p><br></p><p>The Committee noted that, at week ten, among patients with prior TNF-\u03b1 inhibitor failure, 26.6% achieved clinical remission in the vedolizumab group compared with 12.1% in the placebo group (P=0.001). The Committee noted that a clinical response was achieved in 46.8% of vedolizumab patients compared with 24.8% of the placebo patients (P=0.001). The Committee also noted that among patients na\u00efve to TNF-\u03b1 inhibitors, clinical remission was 35.3% for vedolizumab compared with 16.0% with placebo, and clinical response was 51.0% with vedolizumab compared with 22.0% with placebo.</p><p><br></p><p>The Committee noted the results of a study performed at five hospitals in Paris comparing vedolizumab to ustekinumab in 239 patients with Crohn\u2019s disease that have not responded to TNF-\u03b1 inhibitor therapy (Alric et al. Aliment Pharmacol Therap.2020;51:948-57). The Committee noted that at week 14, the rate of clinical remission was similar between vedolizumab and ustekinumab (46.1% vs 42.3%; OR=0.86, 95% CI 0.49 to 1.50, P=0.59), but that at week 48 ustekinumab was associated with a higher clinical remission rate (54.4% vs 38.3%; OR=1.92, 95% CI 1.09 to 3.39, P = 0.03) and treatment persistence (71.5% vs 49.7%; OR=2.54, 95% CI 1.40 to 4.62], P&lt;0.01) than vedolizumab. The Committee considered that results from both treatments were good results in the context of treatment for Crohn\u2019s disease. Members considered that the study used a robust definition for steroid-free remission and that similar results were reported for this outcome.\u00a0</p><p><br></p><p>Suitability\u00a0</p><p>The Committee noted that the infusion duration for intravenous administration of vedolizumab is shorter than that of infliximab, and that vedolizumab does not require treatment in combination with immunosuppressants e.g. thiopurines.\u00a0</p><p><br></p><p>The Committee noted that some wastage could be expected with vedolizumab e.g. due to lower doses for children) The Committee considered that if effective, treatment with vedolizumab would likely be long-term due to its long duration of effect. The Committee considered that the loss of response with vedolizumab is less than 10% per year, and this is likely lower than the 13-15% loss of response per year observed with TNF-\u03b1 inhibitors.</p><p><br></p><p>The Committee considered that if a subcutaneous vedolizumab formulation were available, it would enable administration in the community and self-administration, however, it may require more frequent administration than the intravenous formulation.\u00a0</p><p><br></p><p>Uptake of vedolizumab in Crohn\u2019s disease.</p><p>The Committee considered that approximately 46% of patients with Crohn\u2019s have disease that is refractory to TNF-\u03b1 inhibitor therapy. The Committee considered that there is likely to be a small prevalent pool of patients initiating vedolizumab shortly after listing, and this prevalent pool is likely to be larger in Crohn\u2019s disease than in ulcerative colitis. The Committee considered that the estimated uptake and number of patients (who may be eligible for vedolizumab as a second-line treatment for severe Crohn\u2019s disease) of approximately 280 equivalent full-year patients in year 1, rising to 420 in three years was reasonable. The Committee considered that the rate of failure of maintenance therapy with vedolizumab was likely to be less than that of infliximab.</p><p><br></p><p>The Committee considered there was some uncertainty around how many patients would use vedolizumab after the failure of one TNF-\u03b1 inhibitor (instead of a second anti-TNF), and considered it is possible that up to 50% could use vedolizumab as an alternative to a second TNF-\u03b1 inhibitor. The Committee considered it was quite common to exhaust funded treatments within the same class before shifting out of class to a biologic with an alternative mechanism of action and considered that vedolizumab is commonly used overseas after the failure of two prior TNF-\u03b1 inhibitors.\u00a0</p><p><br></p><p>The Committee considered that there should be no age restriction in the funding criteria for vedolizumab for Crohn\u2019s disease.\u00a0</p><p><br></p><p>General</p><p>The Committee noted that since the introduction of TNF-\u03b1 inhibitors, the need for and rates of surgery for ulcerative colitis and Crohn\u2019s disease patients has decreased substantially. The Committee also noted that the pivotal trials for vedolizumab did not show a reduction in surgery rates compared with placebo, and thus considered that longer term follow-up may be required to determine the impact of vedolizumab treatment (and/or other biological treatments) on surgical rates. The Committee considered that the greatest benefit from funding vedolizumab would be increased symptom control and improvement in quality of life measures, and that an appropriate comparator for vedolizumab is adalimumab and/or infliximab.\u00a0</p><p><br></p><p>The Committee noted that information on the duration of treatment, stopping points for treatment, use of endoscopy, and use of combination therapy was missing from the clinical trial data and commentary submitted by the applicant.\u00a0</p><p><br></p><p>The Committee suggested that the Gastrointestinal Subcommittee review the application for vedolizumab for the treatment of moderately to severely active ulcerative colitis and provide expert advice on the VARSITY trial evidence (not yet reviewed by the Subcommittee), and the use of therapeutic drug monitoring in this setting.</p>",
+          "Status_History__c": "a132P000000CcxDQAS"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Nov 2020",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Following Clinical Advice, Pharmac staff considers the advice and the funding application under goes an assessment using our&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/factors-for-consideration/\" rel=\"nofollow\">Factors for Consideration</a>&nbsp;framework and seeks additional information as required.</p>\r\n<p>&nbsp;</p>\r\n<p>Research and Economic analysis are undertaken.&nbsp; This focuses on the costs and benefits of a proposed course of action. Economics is based on three fundamental concepts that summarise the issues Pharmac faces daily:&nbsp;</p>\r\n<ul>\r\n<li>Scarcity &ndash; resources will always be insufficient to support all possible activities.</li>\r\n<li>Choices &ndash; due to scarce resources, decisions must be made about how best to use them.</li>\r\n<li>Opportunity cost &ndash; by choosing to use resources one way, we forgo other opportunities to use the same resources.</li>\r\n</ul>\r\n<p>&nbsp;</p>\r\n<p>For further information on the purpose of, and techniques for, undertaking economic analysis in health care, please refer&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/economic-analysis/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/economic-analysis/</a></p>",
+    "position": 2,
+    "name": "Under Assessment",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Nov 2020",
+          "fs": "Nov 2020",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Working to compare options",
+          "fs": "Working to compare options",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P000007GWH6UAO"
+          },
+          "Id": "a0P2P000007GWH6UAO",
+          "Event_Date__c": "2020-11-24",
+          "Event_Description__c": "Working to compare options",
+          "Stage__c": "Under Assessment",
+          "Formatted_Date__c": "Nov 2020",
+          "Status_History__c": "a132P000000CNT3QAO"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Nov 2020",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Pharmac staff uses a prioritisation process to compare and rank funding options. Possible opportunities for new investment will always exceed the budget Pharmac has available; therefore, prioritisation is an intrinsic part of Pharmac\u2019s decision-making process.</p>\r\n<p>The relative ranking of options aims to support Pharmac&rsquo;s statutory objective &ldquo;to secure for eligible people in need of pharmaceuticals, the best health outcomes that are reasonably achievable from pharmaceutical treatment and from within the amount of funding provided&rdquo;.</p>\r\n<p>A funding application or proposal is considered ready for prioritisation when sufficient information is available to permit it to be reviewed against Pharmac's Factors for Consideration and to inform a comparison with other possible investment decisions.</p>\r\n<p>There is no guarantee when or if a ranked medicine will be funded.&nbsp;&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/prioritisation/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/prioritisation/</a></p>",
+    "position": 3,
+    "name": "Options Compared",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Dec 2020",
+          "fs": "Dec 2020",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "The relative ranking of the pharmaceutical application has been completed.",
+          "fs": "The relative ranking of the pharmaceutical application has been completed.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P000007GWH7UAO"
+          },
+          "Id": "a0P2P000007GWH7UAO",
+          "Event_Date__c": "2020-12-16",
+          "Event_Description__c": "The relative ranking of the pharmaceutical application has been completed.",
+          "Stage__c": "Options Compared",
+          "Formatted_Date__c": "Dec 2020",
+          "Status_History__c": "a132P000000CSGqQAO"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Mar 2021",
+          "fs": "Mar 2021",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "The relative ranking of the pharmaceutical application has been completed.",
+          "fs": "The relative ranking of the pharmaceutical application has been completed.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P000007GWmUUAW"
+          },
+          "Id": "a0P2P000007GWmUUAW",
+          "Event_Date__c": "2021-03-11",
+          "Event_Description__c": "The relative ranking of the pharmaceutical application has been completed.",
+          "Stage__c": "Options Compared",
+          "Formatted_Date__c": "Mar 2021",
+          "Status_History__c": "a132P000000CfrSQAS"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Jun 2022",
+          "fs": "Jun 2022",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "The relative ranking of the pharmaceutical application has been completed.",
+          "fs": "The relative ranking of the pharmaceutical application has been completed.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P000007GWmVUAW"
+          },
+          "Id": "a0P2P000007GWmVUAW",
+          "Event_Date__c": "2022-06-02",
+          "Event_Description__c": "The relative ranking of the pharmaceutical application has been completed.",
+          "Stage__c": "Options Compared",
+          "Formatted_Date__c": "Jun 2022",
+          "Status_History__c": "a132P000000DnXzQAK"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Dec 2020",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Pharmac is consulting on a proposal to either approve or decline the application.&nbsp;We seek the views of all people who have an interest in our proposals, or who may be affected by them, to obtain feedback on our proposed approaches.</p>\r\n<p><a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/having-your-say/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/having-your-say/</a></p>",
+    "position": 4,
+    "name": "Under Consultation",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": "<p><span style=\"font-size: 14px; color: rgb(51, 51, 51);\">From 1 February 2023 vedolizumab (Entyvio) would be funded for people with ulcerative colitis or Crohn\u2019s disease that has not responded to, or are intolerant of, conventional therapies and/or anti-tumour necrosis factor (TNF) alpha therapy (ie adalimumab and infliximab, subject to eligibility criteria.</span></p>",
+          "fs": "<p><span style=\"font-size: 14px; color: rgb(51, 51, 51);\">From 1 February 2023 vedolizumab (Entyvio) would be funded for people with ulcerative colitis or Crohn\u2019s disease that has not responded to, or are intolerant of, conventional therapies and/or anti-tumour necrosis factor (TNF) alpha therapy (ie adalimumab and infliximab, subject to eligibility criteria.</span></p>",
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": "<p>https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/2022-09-20-proposal-to-fund-vedolizumab-for-inflammatory-bowel-disease-and-brentuximab-for-rare-lymphomas/</p>",
+          "fs": "<p>https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/2022-09-20-proposal-to-fund-vedolizumab-for-inflammatory-bowel-disease-and-brentuximab-for-rare-lymphomas/</p>",
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Sep 2022",
+          "fs": "Sep 2022",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Public consultation for this application is active.",
+          "fs": "Public consultation for this application is active.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P000007GWmWUAW"
+          },
+          "Id": "a0P2P000007GWmWUAW",
+          "Event_Date__c": "2022-09-19",
+          "Event_Description__c": "Public consultation for this application is active.",
+          "Stage__c": "Under Consultation",
+          "Links__c": "<p>https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/2022-09-20-proposal-to-fund-vedolizumab-for-inflammatory-bowel-disease-and-brentuximab-for-rare-lymphomas/</p>",
+          "Summary__c": "<p><span style=\"font-size: 14px; color: rgb(51, 51, 51);\">From 1 February 2023 vedolizumab (Entyvio) would be funded for people with ulcerative colitis or Crohn\u2019s disease that has not responded to, or are intolerant of, conventional therapies and/or anti-tumour necrosis factor (TNF) alpha therapy (ie adalimumab and infliximab, subject to eligibility criteria.</span></p>",
+          "Formatted_Date__c": "Sep 2022",
+          "Status_History__c": "a132P000000EDxRQAW"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Sep 2022",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Following the consultation process, Pharmac staff considers the feedback and identifies any additional information required as part of a gap analysis.&nbsp; The proposal may require further clinical advice, research, and assessment.</p>",
+    "position": 5,
+    "name": "Reviewing Consultation Feedback",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Oct 2022",
+          "fs": "Oct 2022",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Public consultation for this application is now closed. Pharmac is reviewing consultation feedback.",
+          "fs": "Public consultation for this application is now closed. Pharmac is reviewing consultation feedback.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P000007GWmXUAW"
+          },
+          "Id": "a0P2P000007GWmXUAW",
+          "Event_Date__c": "2022-10-05",
+          "Event_Description__c": "Public consultation for this application is now closed. Pharmac is reviewing consultation feedback.",
+          "Stage__c": "Reviewing Consultation Feedback",
+          "Formatted_Date__c": "Oct 2022",
+          "Status_History__c": "a132P000000EDxWQAW"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Oct 2022",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>We refer to our decisions about whether and how particular pharmaceuticals are publicly-funded, as &ldquo;funding decisions&rdquo;.</p>\r\n<p>We consider and assess all funding decisions using the&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/about/operating-policies-and-procedures/#factorsfc\" rel=\"nofollow\">Factors for Consideration</a>. When we do so, we carefully evaluate clinical and other evidence for the benefits and suitability of a proposal, and to identify and understand the people who will be affected by it.</p>\r\n<p>While our main task is to allocate pharmaceutical funding, we consider the benefits and costs across the whole health system now and with a long-term focus, including the effects for hospitals and primary care, and consider direct costs to patients as well as to all health sector budgets.</p>\r\n<p>Final funding decisions are made by the Pharmac Board or delegated to senior Pharmac staff as required by the Board.</p>\r\n<p>&nbsp;</p>",
+    "position": 6,
+    "name": "Decision",
+    "last": true,
+    "events": [
+      {
+        "Summary": {
+          "s": "<p><span style=\"font-size: 14px; color: rgb(51, 51, 51);\">We&#39;re pleased to announce a decision to fund two new treatments: vedolizumab for inflammatory bowel disease and brentuximub vedotin for rare lymphomas through a supply agreement with Takeda New Zealand Limited (Takeda).</span></p>",
+          "fs": "<p><span style=\"font-size: 14px; color: rgb(51, 51, 51);\">We&#39;re pleased to announce a decision to fund two new treatments: vedolizumab for inflammatory bowel disease and brentuximub vedotin for rare lymphomas through a supply agreement with Takeda New Zealand Limited (Takeda).</span></p>",
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": "<p>https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/2022-11-10-decision-to-fund-vedolizumab-for-inflammatory-bowel-disease-and-brentuximab-for-rare-lymphomas/</p>",
+          "fs": "<p>https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/2022-11-10-decision-to-fund-vedolizumab-for-inflammatory-bowel-disease-and-brentuximab-for-rare-lymphomas/</p>",
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Nov 2022",
+          "fs": "Nov 2022",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "The funding application has been approved.",
+          "fs": "The funding application has been approved.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P000007GWmYUAW"
+          },
+          "Id": "a0P2P000007GWmYUAW",
+          "Event_Date__c": "2022-11-10",
+          "Event_Description__c": "The funding application has been approved.",
+          "Stage__c": "Decision",
+          "Links__c": "<p>https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/2022-11-10-decision-to-fund-vedolizumab-for-inflammatory-bowel-disease-and-brentuximab-for-rare-lymphomas/</p>",
+          "Summary__c": "<p><span style=\"font-size: 14px; color: rgb(51, 51, 51);\">We&#39;re pleased to announce a decision to fund two new treatments: vedolizumab for inflammatory bowel disease and brentuximub vedotin for rare lymphomas through a supply agreement with Takeda New Zealand Limited (Takeda).</span></p>",
+          "Formatted_Date__c": "Nov 2022",
+          "Status_History__c": "a132P000000EDxbQAG"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Nov 2022",
+    "collapsed": false,
+    "checked": true
+  }
+]

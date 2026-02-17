@@ -1,0 +1,754 @@
+[
+  {
+    "text": "<p>New funding applications are referred to one of Pharmac's Funding Application Advisors (FAAs), who'll review the application to ensure they have the relevant information to undertake a preliminary analysis.&nbsp; They may seek more information if required.</p>\r\n<p><a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/new-funding-applications/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/new-funding-applications/</a></p>",
+    "position": 0,
+    "name": "Application Received",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": "This proposal is a subgroup of the Invasive meningococcal group B disease application (https://www.pharmac.govt.nz/wwwtrs/ApplicationTracker.php?ProposalId=1634)",
+          "fs": "This proposal is a subgroup of the Invasive meningococcal group B disease application (https://www.pharmac.govt.nz/wwwtrs/ApplicationTracker.php?ProposalId=1634)",
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Feb 2018",
+          "fs": "Feb 2018",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Application received",
+          "fs": "Application received",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P000005N8zdUAC"
+          },
+          "Id": "a0P2P000005N8zdUAC",
+          "Event_Date__c": "2018-02-08",
+          "Event_Description__c": "Application received",
+          "Stage__c": "Application Received",
+          "Summary__c": "This proposal is a subgroup of the Invasive meningococcal group B disease application (https://www.pharmac.govt.nz/wwwtrs/ApplicationTracker.php?ProposalId=1634)",
+          "Formatted_Date__c": "Feb 2018",
+          "Status_History__c": "a132P000000ArP4QAK"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Feb 2018",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Pharmac is identifying and gathering information required to get clinical advice.  The <a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/pharmacology-and-therapeutics-advisory-committee-ptac/\" rel=\"nofollow\">Pharmacology and Therapeutics Advisory Committee (PTAC)</a>  meets quarterly. There are also around 20 expert <a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/specialist-advisory-committees/\" rel=\"nofollow\">Specialist Advisory Committees (SACs)</a>, previously expert Subcommittees, which provide clinical evaluations in specialist areas. Specialist Advisory Committees meet as required to discuss issues referred to them by PTAC or Pharmac.</p>\n<p style=\"height: 20px\">&nbsp;</p>\n<p>In November 2021, we introduced separate terms of reference for the SACs to make clear that these committees have different, but complementary, roles, expertise and perspectives to PTAC.</p>\n<p style=\"height: 15px\">&nbsp;</p>\n<p>PTAC and SACs may make recommendations to Pharmac that differ from each other when looking at the same evidence. Pharmac considers the recommendations provided by all our clinical advisory committees when assessing applications.</p>\n<p style=\"height: 20px\">&nbsp;</p>\n<p><a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/pharmacology-and-therapeutics-advisory-committee-ptac/ptac-terms-of-reference-july-2021/\" rel=\"nofollow\">PTAC</a>  and <a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/specialist-advisory-committees/specialist-advisory-committee-terms-of-reference//\" rel=\"nofollow\">Specialist Advisory Committees</a> records of the meeting will be published on this website in accordance with the Terms of Reference.</p>",
+    "position": 1,
+    "name": "Seeking Clinical Advice",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": "The Subcommittee recommended that 4CMenB be funded with a medium priority for high risk groups and close contacts, based on high clinical need.    The Subcommittee noted that 4CMenB is not yet approved by Medsafe, but that an application was submitted to Medsafe for priority assessment in December 2017.",
+          "fs": "The Subcommittee recommended that 4CMenB be funded with a medium priority for high risk groups and close contacts, based on high clinical need.    The Subcommittee noted that 4CMenB is not yet approved by Medsafe, but that an application was submitted to Medsafe for priority assessment in December 2017.",
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": "Medium",
+          "fs": "Medium",
+          "change": null
+        },
+        "Links": {
+          "s": "<a href=\"https://www.pharmac.govt.nz/assets/ptac-immunisation-subcommittee-minutes-2018-05.pdf\" target=\"_blank\">Immunisation Subcommittee minutes</a>",
+          "fs": "<a href=\"https://www.pharmac.govt.nz/assets/ptac-immunisation-subcommittee-minutes-2018-05.pdf\" target=\"_blank\">Immunisation Subcommittee minutes</a>",
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "May 2018",
+          "fs": "May 2018",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Clinical advice received from Immunisation Subcommittee at meeting Wednesday 16 May 2018.",
+          "fs": "Clinical advice received from Immunisation Subcommittee at meeting Wednesday 16 May 2018.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P000005N8zeUAC"
+          },
+          "Id": "a0P2P000005N8zeUAC",
+          "Event_Date__c": "2018-05-16",
+          "Event_Description__c": "Clinical advice received from Immunisation Subcommittee at meeting Wednesday 16 May 2018.",
+          "Stage__c": "Seeking Clinical Advice",
+          "Links__c": "<a href=\"https://www.pharmac.govt.nz/assets/ptac-immunisation-subcommittee-minutes-2018-05.pdf\" target=\"_blank\">Immunisation Subcommittee minutes</a>",
+          "Outcome__c": "Medium",
+          "Summary__c": "The Subcommittee recommended that 4CMenB be funded with a medium priority for high risk groups and close contacts, based on high clinical need.    The Subcommittee noted that 4CMenB is not yet approved by Medsafe, but that an application was submitted to Medsafe for priority assessment in December 2017.",
+          "Formatted_Date__c": "May 2018",
+          "Status_History__c": "a132P000000ArSkQAK"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": "PTAC considered the minutes from the May 2018 Immunisation Subcommittee meeting.     PTAC noted that the Immunisation Subcommittee reviewed a funding application for a meningococcal B vaccine, 4CMenB (Bexsero) and made recommendations 8.3 and 8.4. The Committee considered that there was a lack of clarity in the way the UK Joint Committee on Vaccination and Immunisation (JCVI) assessed the cost effectiveness of  4CMenB.     PTAC considered that it should consider this funding application at its next meeting now that it has been approved by Medsafe.",
+          "fs": "PTAC considered the minutes from the May 2018 Immunisation Subcommittee meeting.     PTAC noted that the Immunisation Subcommittee reviewed a funding application for a meningococcal B vaccine, 4CMenB (Bexsero) and made recommendations 8.3 and 8.4. The Committee considered that there was a lack of clarity in the way the UK Joint Committee on Vaccination and Immunisation (JCVI) assessed the cost effectiveness of  4CMenB.     PTAC considered that it should consider this funding application at its next meeting now that it has been approved by Medsafe.",
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": "<a href=\"https://www.pharmac.govt.nz/assets/ptac-minutes-2018-11.pdf\" target=\"_blank\">PTAC minutes</a>",
+          "fs": "<a href=\"https://www.pharmac.govt.nz/assets/ptac-minutes-2018-11.pdf\" target=\"_blank\">PTAC minutes</a>",
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Nov 2018",
+          "fs": "Nov 2018",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Clinical advice required",
+          "fs": "Clinical advice required",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P000005N8zfUAC"
+          },
+          "Id": "a0P2P000005N8zfUAC",
+          "Event_Date__c": "2018-11-01",
+          "Event_Description__c": "Clinical advice required",
+          "Stage__c": "Seeking Clinical Advice",
+          "Links__c": "<a href=\"https://www.pharmac.govt.nz/assets/ptac-minutes-2018-11.pdf\" target=\"_blank\">PTAC minutes</a>",
+          "Summary__c": "PTAC considered the minutes from the May 2018 Immunisation Subcommittee meeting.     PTAC noted that the Immunisation Subcommittee reviewed a funding application for a meningococcal B vaccine, 4CMenB (Bexsero) and made recommendations 8.3 and 8.4. The Committee considered that there was a lack of clarity in the way the UK Joint Committee on Vaccination and Immunisation (JCVI) assessed the cost effectiveness of  4CMenB.     PTAC considered that it should consider this funding application at its next meeting now that it has been approved by Medsafe.",
+          "Formatted_Date__c": "Nov 2018",
+          "Status_History__c": "a132P000000ArYUQA0"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": "PTAC recommended that meningococcal B vaccine be listed in the Pharmaceutical Schedule for universal childhood vaccination as part of the Infant Immunisation Schedule, with a 2+1 dosing schedule, with a medium priority.    PTAC recommended that meningococcal B vaccine be listed in the Pharmaceutical Schedule for adolescents in close-living situations with a medium priority.",
+          "fs": "PTAC recommended that meningococcal B vaccine be listed in the Pharmaceutical Schedule for universal childhood vaccination as part of the Infant Immunisation Schedule, with a 2+1 dosing schedule, with a medium priority.    PTAC recommended that meningococcal B vaccine be listed in the Pharmaceutical Schedule for adolescents in close-living situations with a medium priority.",
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": "Medium",
+          "fs": "Medium",
+          "change": null
+        },
+        "Links": {
+          "s": "<a href=\"https://www.pharmac.govt.nz/assets/ptac-minutes-2019-02.pdf\" target=\"_blank\">PTAC minutes</a>",
+          "fs": "<a href=\"https://www.pharmac.govt.nz/assets/ptac-minutes-2019-02.pdf\" target=\"_blank\">PTAC minutes</a>",
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Feb 2019",
+          "fs": "Feb 2019",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Clinical advice received from Pharmacology and Therapeutics Advisory Committee (PTAC) at meeting Thursday 21 February 2019.",
+          "fs": "Clinical advice received from Pharmacology and Therapeutics Advisory Committee (PTAC) at meeting Thursday 21 February 2019.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P000005N8zgUAC"
+          },
+          "Id": "a0P2P000005N8zgUAC",
+          "Event_Date__c": "2019-02-21",
+          "Event_Description__c": "Clinical advice received from Pharmacology and Therapeutics Advisory Committee (PTAC) at meeting Thursday 21 February 2019.",
+          "Stage__c": "Seeking Clinical Advice",
+          "Links__c": "<a href=\"https://www.pharmac.govt.nz/assets/ptac-minutes-2019-02.pdf\" target=\"_blank\">PTAC minutes</a>",
+          "Outcome__c": "Medium",
+          "Summary__c": "PTAC recommended that meningococcal B vaccine be listed in the Pharmaceutical Schedule for universal childhood vaccination as part of the Infant Immunisation Schedule, with a 2+1 dosing schedule, with a medium priority.    PTAC recommended that meningococcal B vaccine be listed in the Pharmaceutical Schedule for adolescents in close-living situations with a medium priority.",
+          "Formatted_Date__c": "Feb 2019",
+          "Status_History__c": "a132P000000Arb7QAC"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": "The Subcommittee recommended meningococcal B (Men B) vaccine be listed in the Pharmaceutical Schedule with a medium priority for close contacts of meningococcal B cases and people who have previously had meningococcal disease of any group. The Subcommittee considered that these people are at higher risk of contracting meningococcal disease",
+          "fs": "The Subcommittee recommended meningococcal B (Men B) vaccine be listed in the Pharmaceutical Schedule with a medium priority for close contacts of meningococcal B cases and people who have previously had meningococcal disease of any group. The Subcommittee considered that these people are at higher risk of contracting meningococcal disease",
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": "Medium",
+          "fs": "Medium",
+          "change": null
+        },
+        "Links": {
+          "s": "<a href=\"https://www.pharmac.govt.nz/assets/ptac-immunisation-subcommittee-minutes-2019-03.pdf\" target=\"_blank\">Immunisation Subcommittee minutes</a>",
+          "fs": "<a href=\"https://www.pharmac.govt.nz/assets/ptac-immunisation-subcommittee-minutes-2019-03.pdf\" target=\"_blank\">Immunisation Subcommittee minutes</a>",
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Mar 2019",
+          "fs": "Mar 2019",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Clinical advice received from Immunisation Subcommittee at meeting Friday 8 March 2019.",
+          "fs": "Clinical advice received from Immunisation Subcommittee at meeting Friday 8 March 2019.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P000005N93uUAC"
+          },
+          "Id": "a0P2P000005N93uUAC",
+          "Event_Date__c": "2019-03-08",
+          "Event_Description__c": "Clinical advice received from Immunisation Subcommittee at meeting Friday 8 March 2019.",
+          "Stage__c": "Seeking Clinical Advice",
+          "Links__c": "<a href=\"https://www.pharmac.govt.nz/assets/ptac-immunisation-subcommittee-minutes-2019-03.pdf\" target=\"_blank\">Immunisation Subcommittee minutes</a>",
+          "Outcome__c": "Medium",
+          "Summary__c": "The Subcommittee recommended meningococcal B (Men B) vaccine be listed in the Pharmaceutical Schedule with a medium priority for close contacts of meningococcal B cases and people who have previously had meningococcal disease of any group. The Subcommittee considered that these people are at higher risk of contracting meningococcal disease",
+          "Formatted_Date__c": "Mar 2019",
+          "Status_History__c": "a132P000000ArdDQAS"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": "Medium",
+          "fs": "Medium",
+          "change": null
+        },
+        "Links": {
+          "s": "<a href=\"https://www.pharmac.govt.nz/assets/ptac-minutes-2019-05.pdf\" target=\"_blank\">PTAC minutes</a>",
+          "fs": "<a href=\"https://www.pharmac.govt.nz/assets/ptac-minutes-2019-05.pdf\" target=\"_blank\">PTAC minutes</a>",
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "May 2019",
+          "fs": "May 2019",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Clinical advice received from Pharmacology and Therapeutics Advisory Committee (PTAC) at meeting Thursday 23 May 2019.",
+          "fs": "Clinical advice received from Pharmacology and Therapeutics Advisory Committee (PTAC) at meeting Thursday 23 May 2019.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P000005N93wUAC"
+          },
+          "Id": "a0P2P000005N93wUAC",
+          "Event_Date__c": "2019-05-23",
+          "Event_Description__c": "Clinical advice received from Pharmacology and Therapeutics Advisory Committee (PTAC) at meeting Thursday 23 May 2019.",
+          "Stage__c": "Seeking Clinical Advice",
+          "Links__c": "<a href=\"https://www.pharmac.govt.nz/assets/ptac-minutes-2019-05.pdf\" target=\"_blank\">PTAC minutes</a>",
+          "Outcome__c": "Medium",
+          "Formatted_Date__c": "May 2019",
+          "Status_History__c": "a132P000000ArgBQAS"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "May 2018",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Following Clinical Advice, Pharmac staff considers the advice and the funding application under goes an assessment using our&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/factors-for-consideration/\" rel=\"nofollow\">Factors for Consideration</a>&nbsp;framework and seeks additional information as required.</p>\r\n<p>&nbsp;</p>\r\n<p>Research and Economic analysis are undertaken.&nbsp; This focuses on the costs and benefits of a proposed course of action. Economics is based on three fundamental concepts that summarise the issues Pharmac faces daily:&nbsp;</p>\r\n<ul>\r\n<li>Scarcity &ndash; resources will always be insufficient to support all possible activities.</li>\r\n<li>Choices &ndash; due to scarce resources, decisions must be made about how best to use them.</li>\r\n<li>Opportunity cost &ndash; by choosing to use resources one way, we forgo other opportunities to use the same resources.</li>\r\n</ul>\r\n<p>&nbsp;</p>\r\n<p>For further information on the purpose of, and techniques for, undertaking economic analysis in health care, please refer&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/economic-analysis/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/economic-analysis/</a></p>",
+    "position": 2,
+    "name": "Under Assessment",
+    "last": false,
+    "events": null,
+    "dateString": null,
+    "collapsed": false,
+    "checked": false
+  },
+  {
+    "text": "<p>Pharmac staff uses a prioritisation process to compare and rank funding options. Possible opportunities for new investment will always exceed the budget Pharmac has available; therefore, prioritisation is an intrinsic part of Pharmac\u2019s decision-making process.</p>\r\n<p>The relative ranking of options aims to support Pharmac&rsquo;s statutory objective &ldquo;to secure for eligible people in need of pharmaceuticals, the best health outcomes that are reasonably achievable from pharmaceutical treatment and from within the amount of funding provided&rdquo;.</p>\r\n<p>A funding application or proposal is considered ready for prioritisation when sufficient information is available to permit it to be reviewed against Pharmac's Factors for Consideration and to inform a comparison with other possible investment decisions.</p>\r\n<p>There is no guarantee when or if a ranked medicine will be funded.&nbsp;&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/prioritisation/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/prioritisation/</a></p>",
+    "position": 3,
+    "name": "Options Compared",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Mar 2019",
+          "fs": "Mar 2019",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "The relative ranking of the pharmaceutical application has been completed.",
+          "fs": "The relative ranking of the pharmaceutical application has been completed.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P000005N93tUAC"
+          },
+          "Id": "a0P2P000005N93tUAC",
+          "Event_Date__c": "2019-03-02",
+          "Event_Description__c": "The relative ranking of the pharmaceutical application has been completed.",
+          "Stage__c": "Options Compared",
+          "Formatted_Date__c": "Mar 2019",
+          "Status_History__c": "a132P000000ArceQAC"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": "This proposal was ranked for close contacts of meningococcal cases.",
+          "fs": "This proposal was ranked for close contacts of meningococcal cases.",
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Apr 2019",
+          "fs": "Apr 2019",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "The relative ranking of the pharmaceutical application has been completed.",
+          "fs": "The relative ranking of the pharmaceutical application has been completed.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P000005N93vUAC"
+          },
+          "Id": "a0P2P000005N93vUAC",
+          "Event_Date__c": "2019-04-16",
+          "Event_Description__c": "The relative ranking of the pharmaceutical application has been completed.",
+          "Stage__c": "Options Compared",
+          "Summary__c": "This proposal was ranked for close contacts of meningococcal cases.",
+          "Formatted_Date__c": "Apr 2019",
+          "Status_History__c": "a132P000000ArePQAS"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Jan 2020",
+          "fs": "Jan 2020",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "The relative ranking of the pharmaceutical application has been completed.",
+          "fs": "The relative ranking of the pharmaceutical application has been completed.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P000005N93xUAC"
+          },
+          "Id": "a0P2P000005N93xUAC",
+          "Event_Date__c": "2020-01-24",
+          "Event_Description__c": "The relative ranking of the pharmaceutical application has been completed.",
+          "Stage__c": "Options Compared",
+          "Formatted_Date__c": "Jan 2020",
+          "Status_History__c": "a132P000000BPtUQAW"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Mar 2019",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Pharmac is consulting on a proposal to either approve or decline the application.&nbsp;We seek the views of all people who have an interest in our proposals, or who may be affected by them, to obtain feedback on our proposed approaches.</p>\r\n<p><a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/having-your-say/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/having-your-say/</a></p>",
+    "position": 4,
+    "name": "Under Consultation",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": "<p><a href=\"https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/consultation-2021-05-03-menb-vaccine/\" target=\"_blank\">Consultation letter</a></p>",
+          "fs": "<p><a href=\"https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/consultation-2021-05-03-menb-vaccine/\" target=\"_blank\">Consultation letter</a></p>",
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "May 2021",
+          "fs": "May 2021",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Public consultation for this application is active.",
+          "fs": "Public consultation for this application is active.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P000005N93yUAC"
+          },
+          "Id": "a0P2P000005N93yUAC",
+          "Event_Date__c": "2021-05-03",
+          "Event_Description__c": "Public consultation for this application is active.",
+          "Stage__c": "Under Consultation",
+          "Links__c": "<p><a href=\"https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/consultation-2021-05-03-menb-vaccine/\" target=\"_blank\">Consultation letter</a></p>",
+          "Formatted_Date__c": "May 2021",
+          "Status_History__c": "a132P000000CxXoQAK"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "May 2021",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Following the consultation process, Pharmac staff considers the feedback and identifies any additional information required as part of a gap analysis.&nbsp; The proposal may require further clinical advice, research, and assessment.</p>",
+    "position": 5,
+    "name": "Reviewing Consultation Feedback",
+    "last": false,
+    "events": null,
+    "dateString": null,
+    "collapsed": false,
+    "checked": false
+  },
+  {
+    "text": "<p>We refer to our decisions about whether and how particular pharmaceuticals are publicly-funded, as &ldquo;funding decisions&rdquo;.</p>\r\n<p>We consider and assess all funding decisions using the&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/about/operating-policies-and-procedures/#factorsfc\" rel=\"nofollow\">Factors for Consideration</a>. When we do so, we carefully evaluate clinical and other evidence for the benefits and suitability of a proposal, and to identify and understand the people who will be affected by it.</p>\r\n<p>While our main task is to allocate pharmaceutical funding, we consider the benefits and costs across the whole health system now and with a long-term focus, including the effects for hospitals and primary care, and consider direct costs to patients as well as to all health sector budgets.</p>\r\n<p>Final funding decisions are made by the Pharmac Board or delegated to senior Pharmac staff as required by the Board.</p>\r\n<p>&nbsp;</p>",
+    "position": 6,
+    "name": "Decision",
+    "last": true,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": "<p><a href=\"https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/decision-2021-06-16-menb-vaccine/\" target=\"_blank\">Notification letter</a></p>",
+          "fs": "<p><a href=\"https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/decision-2021-06-16-menb-vaccine/\" target=\"_blank\">Notification letter</a></p>",
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Jun 2021",
+          "fs": "Jun 2021",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "The funding application has been approved.",
+          "fs": "The funding application has been approved.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P000005N93zUAC"
+          },
+          "Id": "a0P2P000005N93zUAC",
+          "Event_Date__c": "2021-06-28",
+          "Event_Description__c": "The funding application has been approved.",
+          "Stage__c": "Decision",
+          "Links__c": "<p><a href=\"https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/decision-2021-06-16-menb-vaccine/\" target=\"_blank\">Notification letter</a></p>",
+          "Formatted_Date__c": "Jun 2021",
+          "Status_History__c": "a132P000000CxXtQAK"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Jun 2021",
+    "collapsed": false,
+    "checked": true
+  }
+]

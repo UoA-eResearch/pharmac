@@ -1,0 +1,625 @@
+[
+  {
+    "text": "<p>New funding applications are referred to one of Pharmac's Funding Application Advisors (FAAs), who'll review the application to ensure they have the relevant information to undertake a preliminary analysis.&nbsp; They may seek more information if required.</p>\r\n<p><a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/new-funding-applications/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/new-funding-applications/</a></p>",
+    "position": 0,
+    "name": "Application Received",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Jun 2019",
+          "fs": "Jun 2019",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Application received",
+          "fs": "Application received",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P000005SlUHUA0"
+          },
+          "Id": "a0P2P000005SlUHUA0",
+          "Event_Date__c": "2019-06-25",
+          "Event_Description__c": "Application received",
+          "Stage__c": "Application Received",
+          "Formatted_Date__c": "Jun 2019",
+          "Status_History__c": "a132P000000BVOLQA4"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Jun 2019",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Pharmac is identifying and gathering information required to get clinical advice.  The <a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/pharmacology-and-therapeutics-advisory-committee-ptac/\" rel=\"nofollow\">Pharmacology and Therapeutics Advisory Committee (PTAC)</a>  meets quarterly. There are also around 20 expert <a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/specialist-advisory-committees/\" rel=\"nofollow\">Specialist Advisory Committees (SACs)</a>, previously expert Subcommittees, which provide clinical evaluations in specialist areas. Specialist Advisory Committees meet as required to discuss issues referred to them by PTAC or Pharmac.</p>\n<p style=\"height: 20px\">&nbsp;</p>\n<p>In November 2021, we introduced separate terms of reference for the SACs to make clear that these committees have different, but complementary, roles, expertise and perspectives to PTAC.</p>\n<p style=\"height: 15px\">&nbsp;</p>\n<p>PTAC and SACs may make recommendations to Pharmac that differ from each other when looking at the same evidence. Pharmac considers the recommendations provided by all our clinical advisory committees when assessing applications.</p>\n<p style=\"height: 20px\">&nbsp;</p>\n<p><a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/pharmacology-and-therapeutics-advisory-committee-ptac/ptac-terms-of-reference-july-2021/\" rel=\"nofollow\">PTAC</a>  and <a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/specialist-advisory-committees/specialist-advisory-committee-terms-of-reference//\" rel=\"nofollow\">Specialist Advisory Committees</a> records of the meeting will be published on this website in accordance with the Terms of Reference.</p>",
+    "position": 1,
+    "name": "Seeking Clinical Advice",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Oct 2019",
+          "fs": "Oct 2019",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Clinical advice required",
+          "fs": "Clinical advice required",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P000005SlUIUA0"
+          },
+          "Id": "a0P2P000005SlUIUA0",
+          "Event_Date__c": "2019-10-01",
+          "Event_Description__c": "Clinical advice required",
+          "Stage__c": "Seeking Clinical Advice",
+          "Formatted_Date__c": "Oct 2019",
+          "Status_History__c": "a132P000000BVOaQAO"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Nov 2019",
+          "fs": "Nov 2019",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Assigned to Pharmacology and Therapeutics Advisory Committee (PTAC) meeting to provide advice on Thursday 14 November 2019",
+          "fs": "Assigned to Pharmacology and Therapeutics Advisory Committee (PTAC) meeting to provide advice on Thursday 14 November 2019",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P000005SlUJUA0"
+          },
+          "Id": "a0P2P000005SlUJUA0",
+          "Event_Date__c": "2019-11-01",
+          "Event_Description__c": "Assigned to Pharmacology and Therapeutics Advisory Committee (PTAC) meeting to provide advice on Thursday 14 November 2019",
+          "Stage__c": "Seeking Clinical Advice",
+          "Formatted_Date__c": "Nov 2019",
+          "Status_History__c": "a132P000000BVOuQAO"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": "<p>3.3<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee recommended that the funding of adalimumab and etanercept for the treatment of patients with juvenile idiopathic arthritis (JIA) be widened with a high priority, subject to the following Special Authority criteria (additions in bold and deletions in strike through):</p><p><span style=\"font-size: 9pt;\">ADALIMUMAB</span></p><p><span style=\"font-size: 9pt;\">Initiation \u2013 juvenile idiopathic arthritis</span></p><p><span style=\"font-size: 9pt;\">Rheumatologist or named specialist</span></p><p><i style=\"font-size: 9pt;\">Re-assessment required after 6 months</i></p><p><span style=\"font-size: 9pt;\">Either:</span></p><p><span style=\"font-size: 9pt;\">1 Both:</span></p><p><span style=\"font-size: 9pt;\">1.1 The patient has had an initial Special Authority approval for etanercept for juvenile idiopathic arthritis (JIA); and</span></p><p><span style=\"font-size: 9pt;\">1.2 Either:</span></p><p><span style=\"font-size: 9pt;\">1.2.1 The patient has experienced intolerable side effects from etanercept; or</span></p><p><span style=\"font-size: 9pt;\">1.2.2 The patient has received insufficient benefit from etanercept to meet the renewal criteria for etanercept for JIA; or</span></p><p><span style=\"font-size: 9pt;\">2 All of the following:</span></p><p><span style=\"font-size: 9pt;\">2.1 Patient diagnosed with Juvenile Idiopathic Arthritis (JIA); and</span></p><p><span style=\"font-size: 9pt;\">2.2 To be used as an adjunct to methotrexate therapy or monotherapy where use of methotrexate is limited by toxicity or intolerance; and</span></p><p><span style=\"font-size: 9pt;\">2.3 Either:</span></p><p><span style=\"font-size: 9pt;\">2.3.1 Patient has polyarticular course JIA for 6 months duration or longer; and</span></p><p><span style=\"font-size: 9pt;\">2.3.1.1 Either:</span></p><p><span style=\"font-size: 9pt;\">2.3.1.1.1 At least 5 swollen joints and at least 3 joints with limitation of motion, pain and tenderness; or</span></p><p><span style=\"font-size: 9pt;\">2.3.1.1.2 Moderate or high disease activity (cJADAS score of at least 2.5) after a 3-month trial of methotrexate (at a dose of 10-20 mg/m2\u00a0weekly or at the maximum tolerated dose); or</span></p><p><span style=\"font-size: 9pt;\">2.3.1.1.3 Low disease activity (cJADAS score between 1.1 and 2.5) after a 6-month trial of methotrexate; and</span></p><p><span style=\"font-size: 9pt;\">2.3.1.2 Patient has tried and not responded to a therapeutic trial of</span><b style=\"font-size: 9pt;\">\u00a0</b><span style=\"font-size: 9pt;\">oral corticosteroids (prednisone 0.25 mg/kg or at the maximum tolerated dose); or</span></p><p><span style=\"font-size: 9pt;\">2.3.2 Patient has oligoarticular course JIA for 6 months duration or longer; and</span></p><p><span style=\"font-size: 9pt;\">2.3.2.1 Either:</span></p><p><span style=\"font-size: 9pt;\">2.3.2.1.1 At least 2 active joints with swelling or limited range of motion; or</span></p><p><span style=\"font-size: 9pt;\">2.3.2.1.2 Moderate or high disease activity (cJADAS score greater than 1.5) with poor prognostic features after a 3-month trial of methotrexate (at a dose of 10-20 mg/m2\u00a0weekly or at the maximum tolerated dose); or</span></p><p><span style=\"font-size: 9pt;\">2.3.2.1.3 High disease activity (cJADAS score greater than 4) after a 6-month trial of methotrexate.</span></p><p><span style=\"font-size: 10pt;\">\u00a0</span></p><p><span style=\"font-size: 9pt;\">ETANERCEPT</span></p><p><span style=\"font-size: 9pt;\">Restricted</span></p><p><span style=\"font-size: 9pt;\">Initiation \u2013 juvenile idiopathic arthritis</span></p><p><span style=\"font-size: 9pt;\">Rheumatologist or named specialist</span></p><p><i style=\"font-size: 9pt;\">Re-assessment required after 6 months</i></p><p><span style=\"font-size: 9pt;\">Either:</span></p><p><span style=\"font-size: 9pt;\">1 Both:</span></p><p><span style=\"font-size: 9pt;\">1.1 The patient has had an initial Special Authority approval for adalimumab for juvenile idiopathic arthritis (JIA); and</span></p><p><span style=\"font-size: 9pt;\">1.2 Either:</span></p><p><span style=\"font-size: 9pt;\">1.2.1 The patient has experienced intolerable side effects from adalimumab; or</span></p><p><span style=\"font-size: 9pt;\">1.2.2 The patient has received insufficient benefit from adalimumab to meet the renewal criteria for adalimumab for JIA; or</span></p><p><span style=\"font-size: 9pt;\">2 All of the following:</span></p><p><span style=\"font-size: 9pt;\">2.1 Patient diagnosed with Juvenile Idiopathic Arthritis (JIA); and</span></p><p><span style=\"font-size: 9pt;\">2.2 To be used as an adjunct to methotrexate therapy or monotherapy where use of methotrexate is limited by toxicity or intolerance; and</span></p><p><span style=\"font-size: 9pt;\">2.3 Either:</span></p><p><span style=\"font-size: 9pt;\">2.3.1 Patient has polyarticular course JIA for 6 months duration or longer; and</span></p><p><span style=\"font-size: 9pt;\">2.3.1.1 Either:</span></p><p><span style=\"font-size: 9pt;\">2.3.1.1.1 At least 5 swollen joints and at least 3 joints with limitation of motion, pain and tenderness; or</span></p><p><span style=\"font-size: 9pt;\">2.3.1.1.2 Moderate or high disease activity (cJADAS score of at least 2.5) after a 3-month trial of methotrexate (at a dose of 10-20 mg/m2\u00a0weekly or at the maximum tolerated dose); or</span></p><p><span style=\"font-size: 9pt;\">2.3.1.1.3 Low disease activity (cJADAS score between 1.1 and 2.5) after a 6-month trial of methotrexate; and</span></p><p><span style=\"font-size: 9pt;\">2.3.1.2 Patient has tried and not responded to a therapeutic trial of</span><b style=\"font-size: 9pt;\">\u00a0</b><span style=\"font-size: 9pt;\">oral corticosteroids (prednisone 0.25 mg/kg or at the maximum tolerated dose); or</span></p><p><span style=\"font-size: 9pt;\">2.3.2 Patient has oligoarticular course JIA for 6 months duration or longer; and</span></p><p><span style=\"font-size: 9pt;\">2.3.2.1 Either:</span></p><p><span style=\"font-size: 9pt;\">2.3.2.1.1 At least 2 active joints with swelling or limited range of motion; or</span></p><p><span style=\"font-size: 9pt;\">2.3.2.1.2 Moderate or high disease activity (cJADAS score greater than 1.5) with poor prognostic features after a 3-month trial of methotrexate (at a dose of 10-20 mg/m2\u00a0weekly or at the maximum tolerated dose); or</span></p><p><span style=\"font-size: 9pt;\">2.3.2.1.3 High disease activity (cJADAS score greater than 4) after a 6-month trial of methotrexate.</span></p><p><br></p><p><span style=\"font-size: 9pt;\">[ADALIMUMAB/ETANERCEPT]</span></p><p><span style=\"font-size: 9pt;\">Continuation \u2013 juvenile idiopathic arthritis</span></p><p><span style=\"font-size: 9pt;\">Rheumatologist or named specialist, or on the recommendation of a rheumatologist or named specialist</span></p><p><i style=\"font-size: 9pt;\">Re-assessment required after 6 months</i></p><p><span style=\"font-size: 9pt;\">Both:</span></p><p><span style=\"font-size: 9pt;\">1 Treatment is to be used as an adjunct to methotrexate therapy or monotherapy where use of methotrexate is limited by toxicity or intolerance; and</span></p><p><span style=\"font-size: 9pt;\">2 Either:</span></p><p><span style=\"font-size: 9pt;\">2.1\u00a0\u00a0Following 3 to 4 months&#39; initial treatment, the patient has at least a 50% decrease in active joint count and an improvement in physician&#39;s global assessment from baseline; or</span></p><p><span style=\"font-size: 9pt;\">2.2\u00a0\u00a0On subsequent reapplications, the patient demonstrates at least a continuing 30% improvement in active joint count and continued improvement in physician&#39;s global assessment from baseline.</span></p><p><span style=\"font-size: 10pt;\">\u00a0</span></p><p>3.4<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee made this recommendation based on the health need of patients with JIA with severe pain and joint involvement, and evidence for a prolonged treatment benefit resulting in long-term remission. The Committee considered that this recommendation and the proposed changes to the Special Authority criteria would widen access to these treatments for patients with eoJIA, PsA and ERA.</p><p>3.5<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that the Special Authority criteria for tocilizumab also refers to numbers of joints and considered that, if wider access for adalimumab and etanercept is funded, the tocilizumab Special Authority criteria should be reviewed.</p><p>3.6<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that the Rheumatology Subcommittee could provide advice regarding the appropriate response assessment outcomes eg. ACR Pedi 30 in combination with clinical Juvenile Arthritis Disease Activity Score (cJADAS), for use in cost-effectiveness modelling and advice regarding whether there is a need for stopping criteria.\u00a0</p><p><br></p>",
+          "fs": "<p>3.3<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee recommended that the funding of adalimumab and etanercept for the treatment of patients with juvenile idiopathic arthritis (JIA) be widened with a high priority, subject to the following Special Authority criteria (additions in bold and deletions in strike through):</p><p><span style=\"font-size: 9pt;\">ADALIMUMAB</span></p><p><span style=\"font-size: 9pt;\">Initiation \u2013 juvenile idiopathic arthritis</span></p><p><span style=\"font-size: 9pt;\">Rheumatologist or named specialist</span></p><p><i style=\"font-size: 9pt;\">Re-assessment required after 6 months</i></p><p><span style=\"font-size: 9pt;\">Either:</span></p><p><span style=\"font-size: 9pt;\">1 Both:</span></p><p><span style=\"font-size: 9pt;\">1.1 The patient has had an initial Special Authority approval for etanercept for juvenile idiopathic arthritis (JIA); and</span></p><p><span style=\"font-size: 9pt;\">1.2 Either:</span></p><p><span style=\"font-size: 9pt;\">1.2.1 The patient has experienced intolerable side effects from etanercept; or</span></p><p><span style=\"font-size: 9pt;\">1.2.2 The patient has received insufficient benefit from etanercept to meet the renewal criteria for etanercept for JIA; or</span></p><p><span style=\"font-size: 9pt;\">2 All of the following:</span></p><p><span style=\"font-size: 9pt;\">2.1 Patient diagnosed with Juvenile Idiopathic Arthritis (JIA); and</span></p><p><span style=\"font-size: 9pt;\">2.2 To be used as an adjunct to methotrexate therapy or monotherapy where use of methotrexate is limited by toxicity or intolerance; and</span></p><p><span style=\"font-size: 9pt;\">2.3 Either:</span></p><p><span style=\"font-size: 9pt;\">2.3.1 Patient has polyarticular course JIA for 6 months duration or longer; and</span></p><p><span style=\"font-size: 9pt;\">2.3.1.1 Either:</span></p><p><span style=\"font-size: 9pt;\">2.3.1.1.1 At least 5 swollen joints and at least 3 joints with limitation of motion, pain and tenderness; or</span></p><p><span style=\"font-size: 9pt;\">2.3.1.1.2 Moderate or high disease activity (cJADAS score of at least 2.5) after a 3-month trial of methotrexate (at a dose of 10-20 mg/m2\u00a0weekly or at the maximum tolerated dose); or</span></p><p><span style=\"font-size: 9pt;\">2.3.1.1.3 Low disease activity (cJADAS score between 1.1 and 2.5) after a 6-month trial of methotrexate; and</span></p><p><span style=\"font-size: 9pt;\">2.3.1.2 Patient has tried and not responded to a therapeutic trial of</span><b style=\"font-size: 9pt;\">\u00a0</b><span style=\"font-size: 9pt;\">oral corticosteroids (prednisone 0.25 mg/kg or at the maximum tolerated dose); or</span></p><p><span style=\"font-size: 9pt;\">2.3.2 Patient has oligoarticular course JIA for 6 months duration or longer; and</span></p><p><span style=\"font-size: 9pt;\">2.3.2.1 Either:</span></p><p><span style=\"font-size: 9pt;\">2.3.2.1.1 At least 2 active joints with swelling or limited range of motion; or</span></p><p><span style=\"font-size: 9pt;\">2.3.2.1.2 Moderate or high disease activity (cJADAS score greater than 1.5) with poor prognostic features after a 3-month trial of methotrexate (at a dose of 10-20 mg/m2\u00a0weekly or at the maximum tolerated dose); or</span></p><p><span style=\"font-size: 9pt;\">2.3.2.1.3 High disease activity (cJADAS score greater than 4) after a 6-month trial of methotrexate.</span></p><p><span style=\"font-size: 10pt;\">\u00a0</span></p><p><span style=\"font-size: 9pt;\">ETANERCEPT</span></p><p><span style=\"font-size: 9pt;\">Restricted</span></p><p><span style=\"font-size: 9pt;\">Initiation \u2013 juvenile idiopathic arthritis</span></p><p><span style=\"font-size: 9pt;\">Rheumatologist or named specialist</span></p><p><i style=\"font-size: 9pt;\">Re-assessment required after 6 months</i></p><p><span style=\"font-size: 9pt;\">Either:</span></p><p><span style=\"font-size: 9pt;\">1 Both:</span></p><p><span style=\"font-size: 9pt;\">1.1 The patient has had an initial Special Authority approval for adalimumab for juvenile idiopathic arthritis (JIA); and</span></p><p><span style=\"font-size: 9pt;\">1.2 Either:</span></p><p><span style=\"font-size: 9pt;\">1.2.1 The patient has experienced intolerable side effects from adalimumab; or</span></p><p><span style=\"font-size: 9pt;\">1.2.2 The patient has received insufficient benefit from adalimumab to meet the renewal criteria for adalimumab for JIA; or</span></p><p><span style=\"font-size: 9pt;\">2 All of the following:</span></p><p><span style=\"font-size: 9pt;\">2.1 Patient diagnosed with Juvenile Idiopathic Arthritis (JIA); and</span></p><p><span style=\"font-size: 9pt;\">2.2 To be used as an adjunct to methotrexate therapy or monotherapy where use of methotrexate is limited by toxicity or intolerance; and</span></p><p><span style=\"font-size: 9pt;\">2.3 Either:</span></p><p><span style=\"font-size: 9pt;\">2.3.1 Patient has polyarticular course JIA for 6 months duration or longer; and</span></p><p><span style=\"font-size: 9pt;\">2.3.1.1 Either:</span></p><p><span style=\"font-size: 9pt;\">2.3.1.1.1 At least 5 swollen joints and at least 3 joints with limitation of motion, pain and tenderness; or</span></p><p><span style=\"font-size: 9pt;\">2.3.1.1.2 Moderate or high disease activity (cJADAS score of at least 2.5) after a 3-month trial of methotrexate (at a dose of 10-20 mg/m2\u00a0weekly or at the maximum tolerated dose); or</span></p><p><span style=\"font-size: 9pt;\">2.3.1.1.3 Low disease activity (cJADAS score between 1.1 and 2.5) after a 6-month trial of methotrexate; and</span></p><p><span style=\"font-size: 9pt;\">2.3.1.2 Patient has tried and not responded to a therapeutic trial of</span><b style=\"font-size: 9pt;\">\u00a0</b><span style=\"font-size: 9pt;\">oral corticosteroids (prednisone 0.25 mg/kg or at the maximum tolerated dose); or</span></p><p><span style=\"font-size: 9pt;\">2.3.2 Patient has oligoarticular course JIA for 6 months duration or longer; and</span></p><p><span style=\"font-size: 9pt;\">2.3.2.1 Either:</span></p><p><span style=\"font-size: 9pt;\">2.3.2.1.1 At least 2 active joints with swelling or limited range of motion; or</span></p><p><span style=\"font-size: 9pt;\">2.3.2.1.2 Moderate or high disease activity (cJADAS score greater than 1.5) with poor prognostic features after a 3-month trial of methotrexate (at a dose of 10-20 mg/m2\u00a0weekly or at the maximum tolerated dose); or</span></p><p><span style=\"font-size: 9pt;\">2.3.2.1.3 High disease activity (cJADAS score greater than 4) after a 6-month trial of methotrexate.</span></p><p><br></p><p><span style=\"font-size: 9pt;\">[ADALIMUMAB/ETANERCEPT]</span></p><p><span style=\"font-size: 9pt;\">Continuation \u2013 juvenile idiopathic arthritis</span></p><p><span style=\"font-size: 9pt;\">Rheumatologist or named specialist, or on the recommendation of a rheumatologist or named specialist</span></p><p><i style=\"font-size: 9pt;\">Re-assessment required after 6 months</i></p><p><span style=\"font-size: 9pt;\">Both:</span></p><p><span style=\"font-size: 9pt;\">1 Treatment is to be used as an adjunct to methotrexate therapy or monotherapy where use of methotrexate is limited by toxicity or intolerance; and</span></p><p><span style=\"font-size: 9pt;\">2 Either:</span></p><p><span style=\"font-size: 9pt;\">2.1\u00a0\u00a0Following 3 to 4 months&#39; initial treatment, the patient has at least a 50% decrease in active joint count and an improvement in physician&#39;s global assessment from baseline; or</span></p><p><span style=\"font-size: 9pt;\">2.2\u00a0\u00a0On subsequent reapplications, the patient demonstrates at least a continuing 30% improvement in active joint count and continued improvement in physician&#39;s global assessment from baseline.</span></p><p><span style=\"font-size: 10pt;\">\u00a0</span></p><p>3.4<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee made this recommendation based on the health need of patients with JIA with severe pain and joint involvement, and evidence for a prolonged treatment benefit resulting in long-term remission. The Committee considered that this recommendation and the proposed changes to the Special Authority criteria would widen access to these treatments for patients with eoJIA, PsA and ERA.</p><p>3.5<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that the Special Authority criteria for tocilizumab also refers to numbers of joints and considered that, if wider access for adalimumab and etanercept is funded, the tocilizumab Special Authority criteria should be reviewed.</p><p>3.6<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that the Rheumatology Subcommittee could provide advice regarding the appropriate response assessment outcomes eg. ACR Pedi 30 in combination with clinical Juvenile Arthritis Disease Activity Score (cJADAS), for use in cost-effectiveness modelling and advice regarding whether there is a need for stopping criteria.\u00a0</p><p><br></p>",
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": "<p>3.3<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that Juvenile Idiopathic Arthritis (JIA), formerly called Juvenile Rheumatoid Arthritis (JRA), is a chronic inflammatory condition of unknown cause that affects the joints, commences prior to the age of 16, persists for at least 6 weeks, and is diagnosed clinically (supported by ultrasound or MRI findings). The Committee noted that JIA can have an oligoarticular course, which affects 4 or fewer joints at any time, or polyarticular course, which affects 5 or more joints at any time.</p><p>3.4<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that the International League of Associations for Rheumatology (ILAR) classification system delineates cases into mutually-exclusive categories of JIA based on predominant clinical and laboratory features (<a href=\"https://www.ncbi.nlm.nih.gov/pubmed/14760812\" target=\"_blank\" style=\"color: rgb(53, 88, 214);\">Petty et al. J Rheumatol. 2004;31:390-2</a>). The Committee noted that the applicant requested funding for patients with any of the following ILAR subtypes:</p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>Extended oligoarticular (eoJIA), where 1-4 joints are involved during the first 6 months of illness and more than 4 joints affected after the first 6 months; and</p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>Juvenile psoriatic (PsA), where children have arthritis and psoriasis, or arthritis and at least two other specific features (eg dactylitis, psoriasis in a relative); and</p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>Enthesitis-related arthritis (ERA), where children have arthritis and enthesitis, or arthritis or enthesitis with two other specific factors (eg sacroiliac joint tenderness, presence of specific antigen).</p><p>3.5<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that patients with JIA (especially eoJIA or other oligoarticular course types) have a high health need due to substantial pain from disease involvement in even a few joints, based on joint count and physician-assessed pain scores. Members considered that JIA seriously impacts on the health of families/wh\u0101nau of patients with JIA. Members considered that, based on anecdotal evidence for health disparities in patients with JIA, the disease could disproportionately affect M\u0101ori, Pacific people or other patient groups if other factors that result in reduced engagement with the health system are present.</p><p>3.6<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted the applicant\u2019s new patient case estimates of approximately 45 JIA cases nationally per year (21 oligoarticular course, 11 polyarticular course, 7 ERA, 4 systemic JIA and 2 PsA). The Committee considered that the application represents the views and expertise of the four paediatric rheumatologists who provide expert advice regarding treatment of New Zealand children with JIA and who would provide reasonable estimates of suitable patient numbers. The Committee considered that, when compared to the applicant\u2019s estimates, PHARMAC staff\u2019s prevalence-based estimate of 90 per year are high. The Committee noted that there would be a natural departure of patients from the JIA patient population into the adult population.</p><p>3.7<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that the tumour necrosis factor (TNF) inhibitors adalimumab and etanercept are funded for the treatment of JIA, limited to patients with either: intolerable side effects from, or insufficient benefit from, the alternate agent (adalimumab or etanercept); and for patients with severe active polyarticular course JIA for at least 6 months, with persistent symptoms of poorly-controlled and active disease, who meet other criteria including trials of other therapies and use with methotrexate (if appropriate).</p><p>3.8<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that tocilizumab is funded for the treatment of polyarticular JIA, limited to patients with either: intolerable side effects from, or insufficient benefit from, both adalimumab and etanercept; or for patients with severe active polyarticular course JIA for at least 6 months, with persistent symptoms of poorly-controlled and active disease, who meet other criteria including trials of other therapies, use with methotrexate (if appropriate) and contraindication to TNF inhibitor treatment. Members considered that the number of patients suitable for funded tocilizumab may be useful for reference.</p><p>3.9<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that adalimumab is Medsafe-approved for use in polyarticular JIA and ERA, and that etanercept is Medsafe-approved for use in eoJIA, ERA, PsA and polyarthritis: at least 5 joints involved during the first 6 months of illness. The Committee noted that there is substantial international and national experience with these agents for the treatment of children with JIA or other diseases, and had no concerns regarding their use in the requested patient populations from the perspective of use outside the specific Medsafe-approved JIA indications, under appropriate specialist supervision.</p><p>3.10<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that the Juvenile Arthritis Disease Activity Score (JADAS) is a composite JIA disease activity score based on 4 measures (physician\u2019s global assessment of disease activity, parent/guardian\u2019s global assessment of overall wellbeing, number of active joints, and erythrocyte sedimentation rate [ESR]). The Committee noted variants include JADAS-CRP which uses C-reactive protein (CRP) instead of ESR, and cJADAS, a clinical, 3-item version of JADAS that excludes both ESR and CRP. The Committee noted that the applicant stated the cJADAS score was a validated measure based on the 2013 update of 2011 American College of Rheumatology (ACR) recommendations. It is an easily applied surrogate measure of disease activity in clinical practice.</p><p>3.11<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that the American College of Rheumatology (ACR) Paediatric (Pedi) 30 treatment response is used in JIA, defined as at least a 30% improvement from baseline in three of six variables, with no more than one other variable worsening by &gt;30 %. The Committee noted that the ACR Pedi 50, 70, 90 and 100 require the corresponding percentage improvement in at least three variables. The Committee considered that, although this measure is used in clinical trials, its application in a clinical setting is significantly more cumbersome than that of cJADAS.</p><p>3.12<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that the evidence for etanercept in patients with eoJIA, ERA and PsA comes from the phase IIIb, open-label, prospective, multicentre, CLIPPER study, which included 127 children with eoJIA, ERA or PsA who received e<span style=\"color: black;\">tanercept 0.8 mg/kg once weekly (maximum 50 mg) for 12 weeks and were followed-up for 96 weeks (</span><a href=\"https://www.ncbi.nlm.nih.gov/pubmed/23696632\" target=\"_blank\" style=\"color: rgb(53, 88, 214);\">Horneff et al. Ann Rheum Dis. 2014;73:1114-22</a>;\u00a0<a href=\"https://www.ncbi.nlm.nih.gov/pubmed/26932344\" target=\"_blank\" style=\"color: rgb(53, 88, 214);\">Constantin et al. J Rheumatol. 2016;43:816-24</a>).</p><p>3.12.1<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that CLIPPER used historical placebo controls as comparison, and that the patients enrolled had less severe disease than patients who would access funded etanercept according to the current Special Authority criteria.</p><p>3.12.2<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that at 12 weeks ACR 30 responses were achieved in 88.6% of CLIPPER patients overall (95% CI: 81.6% to 93.6%) with similar results in the eoJIA, PsA and ERA subgroups, and that at 96 weeks ACR 30 responses were achieved in 84.3% of patients overall (95% CI: 76.7% to 90.1%). The Subcommittee noted that the results signalled a benefit when compared to a historical placebo, and less benefit (although still an effect) when compared to a historical active control.</p><p>3.12.3<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that short-term safety reported in CLIPPER was acceptable.</p><p>3.12.4<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that about 10% of patients with eoJIA had inactive disease at the end of the CLIPPER trial, and other evidence suggested prolonged remission in patients with JIA (<a href=\"https://pubmed.ncbi.nlm.nih.gov/30044538-time-of-disease-modifying-antirheumatic-drug-start-in-juvenile-idiopathic-arthritis-and-the-likelihood-of-a-drug-free-remission-in-young-adulthood/?from_term=minden+antirheumatic+idiopathic&amp;from_pos=7\" target=\"_blank\" style=\"color: rgb(53, 88, 214);\">Minden et al. Arthritis Care Res (Hoboken). 2019;71:471-81</a>). Members considered that this suggested the potential of a \u2018window of opportunity\u2019, whereby disease course could be radically improved or even cured.</p><p>3.13<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted the results of CLIPPER-2, an\u00a0<span style=\"color: black;\">extension of the CLIPPER study,\u00a0</span>which reported data from a total of 6<span style=\"color: black;\">\u00a0years trial participation in 109 CLIPPER participants (</span><a href=\"https://www.ncbi.nlm.nih.gov/pubmed/31122296\" target=\"_blank\" style=\"color: rgb(53, 88, 214);\">Foeldvari et al. Arthritis Res Ther. 2019;21:125</a>)<span style=\"color: black;\">. The Committee noted that 24% of patients had JADAS inactive disease at 6 years. The Committee considered that these results suggest patients with early response at 12 weeks maintained this improvement long-term. The Committee noted that frequently reported treatment-emergent adverse events included headache, arthralgia, pyrexia, diarrhoea and leukopenia. Although there were no reported deaths there was one report of malignancy, a patient with non-Hodgkin lymphoma.</span></p><p>3.14<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted evidence from an industry-funded \u2018BIKER\u2019 registry, which prospectively collected data over 11 years for 1,678 p<span style=\"color: black;\">atients\u00a0</span>who received treatment with etanercept for\u00a0<span style=\"color: black;\">JIA, including eoJIA, ERA and PsA</span>\u00a0(<a href=\"https://www.ncbi.nlm.nih.gov/pubmed/25034081\" target=\"_blank\" style=\"color: rgb(53, 88, 214);\">Windschall et al. Clin Rheumatol. 2015;34:61-9</a>).<span style=\"color: black;\">\u00a0The Committee considered that the BIKER registry patient population was similar to the patient population requested by the applicant, and noted that BIKER patients had 4.3 affected joints on average and most had previously received methotrexate and non-steroidal anti-inflammatory drugs. The Committee noted that a reduction in JADAS score was reported at 24 months and considered that this was clinically relevant based on anecdotal expert advice.</span></p><p>3.15<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted the following evidence from randomised trials and prospective observational registry studies that either reported outcomes for the broader JIA groups (polyarticular course JIA and oligoarticular course JIA), or outcomes according to older definitions such as juvenile rheumatoid arthritis (JRA) in patients who received adalimumab or etanercept:</p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://www.ncbi.nlm.nih.gov/pubmed/27709443\" target=\"_blank\" style=\"color: rgb(53, 88, 214);\">Windschall et al . Clin Rheumatol. 2016:35;2925-32</a></p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://www.ncbi.nlm.nih.gov/pubmed/28615036\" target=\"_blank\" style=\"color: rgb(53, 88, 214);\">Alexeeva et al. Pediatr Rheumatol Online J. 2017:15;51</a></p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://www.ncbi.nlm.nih.gov/pubmed/?term=23267169\" target=\"_blank\" style=\"color: rgb(53, 88, 214);\">Anink et al. Rheumatology (Oxford). 2013:52;712-7)</a></p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://www.ncbi.nlm.nih.gov/pubmed/10717011\" target=\"_blank\" style=\"color: rgb(53, 88, 214);\">Lovell et al. N Engl J Med. 2000:342;763-9</a></p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://www.ncbi.nlm.nih.gov/pubmed/12528122\" target=\"_blank\" style=\"color: rgb(53, 88, 214);\">Lovell et al. Arthritis Rheum. 2003:48;218-26</a></p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://www.ncbi.nlm.nih.gov/pubmed/16732547\" target=\"_blank\" style=\"color: rgb(53, 88, 214);\">Lovell et al. Arthritis Rheum. 2006:54;1987-94</a></p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://www.ncbi.nlm.nih.gov/pubmed/18716298\" target=\"_blank\" style=\"color: rgb(53, 88, 214);\">Lovell et al. N Eng J Med. 2008:359;810-20</a></p><p>3.15.1<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that some evidence supported the safety of etanercept and of adalimumab in these settings and suggests a benefit from early treatment especially in younger children and those with eoJIA. The Committee considered that the four publications by Lovell et al. were of limited value due to different dosing and outcomes and trial design limited to assessing relapses only. The Committed noted the majority of the evidence available was for etanercept, as opposed to adalimumab.</p><p>3.16<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted the following published recommendations:</p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://www.nice.org.uk/guidance/ta373\" target=\"_blank\" style=\"color: rgb(53, 88, 214);\">Abatacept, adalimumab, etanercept and tocilizumab for treating juvenile idiopathic arthritis: Technology appraisal guidance TA373 [Internet]. National Institute for Health and Care Excellence (UK); Dec 2015 [revised Dec 2018; cited Nov 2019].</a></p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The 2013 update of 2011 American College of Rheumatology recommendations<span style=\"color: black;\">\u00a0(</span><a href=\"https://www.ncbi.nlm.nih.gov/pubmed/24092554\" target=\"_blank\" style=\"color: rgb(53, 88, 214);\">Ringold et al. Arthritis Rheum. 2013:65;2499-512</a><span style=\"color: black;\">).</span></p><p>3.17<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that the evidence generally uses ACR Pedi scores, however, New Zealand clinicians prefer to use the cJADAS score. Members considered that there are published minimal clinically important difference (MCID) scores for the cJADAS, which vary according to disease severity, based on the BIKER registry.</p><p>3.18<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that the evidence suggests patients with persistent eoJIA receive the most benefit from treatment commenced for oligoarticular course JIA, however, all children with JIA who meet the criteria to commence on adalimumab or etanercept earlier would benefit from reduced joint damage and pain and from achieving remission. The Committee considered that there are a variety of guidelines regarding the use of TNF inhibitors for JIA, including the recommendation to use one of these agents in cases with axial disease (although this was not specifically requested by the applicant). The Committee noted that TNF inhibitors are not recommended for first-line treatment of JIA.</p><p>3.19<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that there are long-term risks with the use of etanercept and adalimumab, such as increased risk of malignancy. Members considered that there are now fewer signals of cancer incidence being reported from biologic/disease registries than were previously reported in patients who commenced long-term treatment with disease-modifying anti-rheumatic drugs (DMARDs). Members considered that this may be due to earlier control of inflammation from earlier use of DMARDs. Members noted that previously, many of the patients in these cancer registries would have had exposure to multiple older systemic DMARDS.</p><p>3.20<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that widening access to adalimumab and etanercept for JIA could increase the workload of paediatric rheumatologists due to earlier treatment of these patients. The Committee considered that, as these same specialists were the applicants, this workload could be managed adequately by staff and health system resources.</p><p>3.21<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that the target patient population would be patients with JIA who have trialled some, but not necessarily all, DMARDs, and that some patients would use methotrexate in combination with adalimumab or etanercept, while other patients may be intolerant to methotrexate and therefore use adalimumab or etanercept instead. Members considered that patients may swap between adalimumab and etanercept, but this would be patient-dependent.</p><p>3.22<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that the response outcome for use in modelling could be the ACR Pedi 30 in combination with the cJADAS score. The Committee considered that the Rheumatology Subcommittee could provide advice regarding appropriate outcomes for PHARMAC to model.</p><p>3.23<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered it likely that widening access to adalimumab and etanercept for JIA would benefit family and wh\u0101nau through increased periods of remission for the patient, resulting in reduced caregiver stress and consequent health decrements.</p><p>3.24<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that the Special Authority criteria for adalimumab and etanercept for patients with eoJIA, PsA and ERA should be amended to widen access, with specific changes to the number of affected joints and definitions of disease severity.</p><p>3.24.1<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered it was not appropriate to include a requirement for intra-articular steroid injections in oligoarticular course JIA, noting that such injections frequently need to be given under short general anaesthesia for these children, and rather considered that injections should be performed according to clinical judgment and need.</p><p>3.24.2<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>Members similarly considered that a requirement for patients to have trialled all DMARDs prior to use of adalimumab or etanercept may not be appropriate, as this would take a long period of time, minimising the potential \u2018window of opportunity\u2019 effect.</p><p>3.24.3<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that it was not appropriate to include the applicant-proposed additional prescribing option of \u2018according to District Health Board (DHB) protocol\u2019, understanding that paediatric rheumatologists would accept non-inclusion. The Committee noted that the proposed SA criteria included prescribing by, or on the recommendation of, a rheumatologist or named specialist, to ensure appropriate prescribing and minimise the risk of slippage.</p><p>3.24.4<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that currently there are no clear stopping criteria, nor had any been proposed by the applicant, for adalimumab and etanercept for JIA, and considered that this presented a fiscal, and potentially clinical, risk. The Committee suggested that PHARMAC could contact the New Zealand paediatric rheumatologists to ascertain whether stopping criteria would be appropriate, and if so, what these criteria should be.</p><p>3.25<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that the Special Authority criteria for tocilizumab for JIA also refer to numbers of joints and considered that, if adalimumab and etanercept funding was widened for JIA, the tocilizumab Special Authority criteria should be reviewed and amended if required, for funded consistency between TNF inhibitors.\u00a0</p>",
+          "fs": "<p>3.3<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that Juvenile Idiopathic Arthritis (JIA), formerly called Juvenile Rheumatoid Arthritis (JRA), is a chronic inflammatory condition of unknown cause that affects the joints, commences prior to the age of 16, persists for at least 6 weeks, and is diagnosed clinically (supported by ultrasound or MRI findings). The Committee noted that JIA can have an oligoarticular course, which affects 4 or fewer joints at any time, or polyarticular course, which affects 5 or more joints at any time.</p><p>3.4<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that the International League of Associations for Rheumatology (ILAR) classification system delineates cases into mutually-exclusive categories of JIA based on predominant clinical and laboratory features (<a href=\"https://www.ncbi.nlm.nih.gov/pubmed/14760812\" target=\"_blank\" style=\"color: rgb(53, 88, 214);\">Petty et al. J Rheumatol. 2004;31:390-2</a>). The Committee noted that the applicant requested funding for patients with any of the following ILAR subtypes:</p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>Extended oligoarticular (eoJIA), where 1-4 joints are involved during the first 6 months of illness and more than 4 joints affected after the first 6 months; and</p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>Juvenile psoriatic (PsA), where children have arthritis and psoriasis, or arthritis and at least two other specific features (eg dactylitis, psoriasis in a relative); and</p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>Enthesitis-related arthritis (ERA), where children have arthritis and enthesitis, or arthritis or enthesitis with two other specific factors (eg sacroiliac joint tenderness, presence of specific antigen).</p><p>3.5<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that patients with JIA (especially eoJIA or other oligoarticular course types) have a high health need due to substantial pain from disease involvement in even a few joints, based on joint count and physician-assessed pain scores. Members considered that JIA seriously impacts on the health of families/wh\u0101nau of patients with JIA. Members considered that, based on anecdotal evidence for health disparities in patients with JIA, the disease could disproportionately affect M\u0101ori, Pacific people or other patient groups if other factors that result in reduced engagement with the health system are present.</p><p>3.6<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted the applicant\u2019s new patient case estimates of approximately 45 JIA cases nationally per year (21 oligoarticular course, 11 polyarticular course, 7 ERA, 4 systemic JIA and 2 PsA). The Committee considered that the application represents the views and expertise of the four paediatric rheumatologists who provide expert advice regarding treatment of New Zealand children with JIA and who would provide reasonable estimates of suitable patient numbers. The Committee considered that, when compared to the applicant\u2019s estimates, PHARMAC staff\u2019s prevalence-based estimate of 90 per year are high. The Committee noted that there would be a natural departure of patients from the JIA patient population into the adult population.</p><p>3.7<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that the tumour necrosis factor (TNF) inhibitors adalimumab and etanercept are funded for the treatment of JIA, limited to patients with either: intolerable side effects from, or insufficient benefit from, the alternate agent (adalimumab or etanercept); and for patients with severe active polyarticular course JIA for at least 6 months, with persistent symptoms of poorly-controlled and active disease, who meet other criteria including trials of other therapies and use with methotrexate (if appropriate).</p><p>3.8<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that tocilizumab is funded for the treatment of polyarticular JIA, limited to patients with either: intolerable side effects from, or insufficient benefit from, both adalimumab and etanercept; or for patients with severe active polyarticular course JIA for at least 6 months, with persistent symptoms of poorly-controlled and active disease, who meet other criteria including trials of other therapies, use with methotrexate (if appropriate) and contraindication to TNF inhibitor treatment. Members considered that the number of patients suitable for funded tocilizumab may be useful for reference.</p><p>3.9<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that adalimumab is Medsafe-approved for use in polyarticular JIA and ERA, and that etanercept is Medsafe-approved for use in eoJIA, ERA, PsA and polyarthritis: at least 5 joints involved during the first 6 months of illness. The Committee noted that there is substantial international and national experience with these agents for the treatment of children with JIA or other diseases, and had no concerns regarding their use in the requested patient populations from the perspective of use outside the specific Medsafe-approved JIA indications, under appropriate specialist supervision.</p><p>3.10<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that the Juvenile Arthritis Disease Activity Score (JADAS) is a composite JIA disease activity score based on 4 measures (physician\u2019s global assessment of disease activity, parent/guardian\u2019s global assessment of overall wellbeing, number of active joints, and erythrocyte sedimentation rate [ESR]). The Committee noted variants include JADAS-CRP which uses C-reactive protein (CRP) instead of ESR, and cJADAS, a clinical, 3-item version of JADAS that excludes both ESR and CRP. The Committee noted that the applicant stated the cJADAS score was a validated measure based on the 2013 update of 2011 American College of Rheumatology (ACR) recommendations. It is an easily applied surrogate measure of disease activity in clinical practice.</p><p>3.11<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that the American College of Rheumatology (ACR) Paediatric (Pedi) 30 treatment response is used in JIA, defined as at least a 30% improvement from baseline in three of six variables, with no more than one other variable worsening by &gt;30 %. The Committee noted that the ACR Pedi 50, 70, 90 and 100 require the corresponding percentage improvement in at least three variables. The Committee considered that, although this measure is used in clinical trials, its application in a clinical setting is significantly more cumbersome than that of cJADAS.</p><p>3.12<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that the evidence for etanercept in patients with eoJIA, ERA and PsA comes from the phase IIIb, open-label, prospective, multicentre, CLIPPER study, which included 127 children with eoJIA, ERA or PsA who received e<span style=\"color: black;\">tanercept 0.8 mg/kg once weekly (maximum 50 mg) for 12 weeks and were followed-up for 96 weeks (</span><a href=\"https://www.ncbi.nlm.nih.gov/pubmed/23696632\" target=\"_blank\" style=\"color: rgb(53, 88, 214);\">Horneff et al. Ann Rheum Dis. 2014;73:1114-22</a>;\u00a0<a href=\"https://www.ncbi.nlm.nih.gov/pubmed/26932344\" target=\"_blank\" style=\"color: rgb(53, 88, 214);\">Constantin et al. J Rheumatol. 2016;43:816-24</a>).</p><p>3.12.1<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that CLIPPER used historical placebo controls as comparison, and that the patients enrolled had less severe disease than patients who would access funded etanercept according to the current Special Authority criteria.</p><p>3.12.2<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that at 12 weeks ACR 30 responses were achieved in 88.6% of CLIPPER patients overall (95% CI: 81.6% to 93.6%) with similar results in the eoJIA, PsA and ERA subgroups, and that at 96 weeks ACR 30 responses were achieved in 84.3% of patients overall (95% CI: 76.7% to 90.1%). The Subcommittee noted that the results signalled a benefit when compared to a historical placebo, and less benefit (although still an effect) when compared to a historical active control.</p><p>3.12.3<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that short-term safety reported in CLIPPER was acceptable.</p><p>3.12.4<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that about 10% of patients with eoJIA had inactive disease at the end of the CLIPPER trial, and other evidence suggested prolonged remission in patients with JIA (<a href=\"https://pubmed.ncbi.nlm.nih.gov/30044538-time-of-disease-modifying-antirheumatic-drug-start-in-juvenile-idiopathic-arthritis-and-the-likelihood-of-a-drug-free-remission-in-young-adulthood/?from_term=minden+antirheumatic+idiopathic&amp;from_pos=7\" target=\"_blank\" style=\"color: rgb(53, 88, 214);\">Minden et al. Arthritis Care Res (Hoboken). 2019;71:471-81</a>). Members considered that this suggested the potential of a \u2018window of opportunity\u2019, whereby disease course could be radically improved or even cured.</p><p>3.13<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted the results of CLIPPER-2, an\u00a0<span style=\"color: black;\">extension of the CLIPPER study,\u00a0</span>which reported data from a total of 6<span style=\"color: black;\">\u00a0years trial participation in 109 CLIPPER participants (</span><a href=\"https://www.ncbi.nlm.nih.gov/pubmed/31122296\" target=\"_blank\" style=\"color: rgb(53, 88, 214);\">Foeldvari et al. Arthritis Res Ther. 2019;21:125</a>)<span style=\"color: black;\">. The Committee noted that 24% of patients had JADAS inactive disease at 6 years. The Committee considered that these results suggest patients with early response at 12 weeks maintained this improvement long-term. The Committee noted that frequently reported treatment-emergent adverse events included headache, arthralgia, pyrexia, diarrhoea and leukopenia. Although there were no reported deaths there was one report of malignancy, a patient with non-Hodgkin lymphoma.</span></p><p>3.14<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted evidence from an industry-funded \u2018BIKER\u2019 registry, which prospectively collected data over 11 years for 1,678 p<span style=\"color: black;\">atients\u00a0</span>who received treatment with etanercept for\u00a0<span style=\"color: black;\">JIA, including eoJIA, ERA and PsA</span>\u00a0(<a href=\"https://www.ncbi.nlm.nih.gov/pubmed/25034081\" target=\"_blank\" style=\"color: rgb(53, 88, 214);\">Windschall et al. Clin Rheumatol. 2015;34:61-9</a>).<span style=\"color: black;\">\u00a0The Committee considered that the BIKER registry patient population was similar to the patient population requested by the applicant, and noted that BIKER patients had 4.3 affected joints on average and most had previously received methotrexate and non-steroidal anti-inflammatory drugs. The Committee noted that a reduction in JADAS score was reported at 24 months and considered that this was clinically relevant based on anecdotal expert advice.</span></p><p>3.15<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted the following evidence from randomised trials and prospective observational registry studies that either reported outcomes for the broader JIA groups (polyarticular course JIA and oligoarticular course JIA), or outcomes according to older definitions such as juvenile rheumatoid arthritis (JRA) in patients who received adalimumab or etanercept:</p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://www.ncbi.nlm.nih.gov/pubmed/27709443\" target=\"_blank\" style=\"color: rgb(53, 88, 214);\">Windschall et al . Clin Rheumatol. 2016:35;2925-32</a></p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://www.ncbi.nlm.nih.gov/pubmed/28615036\" target=\"_blank\" style=\"color: rgb(53, 88, 214);\">Alexeeva et al. Pediatr Rheumatol Online J. 2017:15;51</a></p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://www.ncbi.nlm.nih.gov/pubmed/?term=23267169\" target=\"_blank\" style=\"color: rgb(53, 88, 214);\">Anink et al. Rheumatology (Oxford). 2013:52;712-7)</a></p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://www.ncbi.nlm.nih.gov/pubmed/10717011\" target=\"_blank\" style=\"color: rgb(53, 88, 214);\">Lovell et al. N Engl J Med. 2000:342;763-9</a></p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://www.ncbi.nlm.nih.gov/pubmed/12528122\" target=\"_blank\" style=\"color: rgb(53, 88, 214);\">Lovell et al. Arthritis Rheum. 2003:48;218-26</a></p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://www.ncbi.nlm.nih.gov/pubmed/16732547\" target=\"_blank\" style=\"color: rgb(53, 88, 214);\">Lovell et al. Arthritis Rheum. 2006:54;1987-94</a></p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://www.ncbi.nlm.nih.gov/pubmed/18716298\" target=\"_blank\" style=\"color: rgb(53, 88, 214);\">Lovell et al. N Eng J Med. 2008:359;810-20</a></p><p>3.15.1<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that some evidence supported the safety of etanercept and of adalimumab in these settings and suggests a benefit from early treatment especially in younger children and those with eoJIA. The Committee considered that the four publications by Lovell et al. were of limited value due to different dosing and outcomes and trial design limited to assessing relapses only. The Committed noted the majority of the evidence available was for etanercept, as opposed to adalimumab.</p><p>3.16<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted the following published recommendations:</p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://www.nice.org.uk/guidance/ta373\" target=\"_blank\" style=\"color: rgb(53, 88, 214);\">Abatacept, adalimumab, etanercept and tocilizumab for treating juvenile idiopathic arthritis: Technology appraisal guidance TA373 [Internet]. National Institute for Health and Care Excellence (UK); Dec 2015 [revised Dec 2018; cited Nov 2019].</a></p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The 2013 update of 2011 American College of Rheumatology recommendations<span style=\"color: black;\">\u00a0(</span><a href=\"https://www.ncbi.nlm.nih.gov/pubmed/24092554\" target=\"_blank\" style=\"color: rgb(53, 88, 214);\">Ringold et al. Arthritis Rheum. 2013:65;2499-512</a><span style=\"color: black;\">).</span></p><p>3.17<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that the evidence generally uses ACR Pedi scores, however, New Zealand clinicians prefer to use the cJADAS score. Members considered that there are published minimal clinically important difference (MCID) scores for the cJADAS, which vary according to disease severity, based on the BIKER registry.</p><p>3.18<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that the evidence suggests patients with persistent eoJIA receive the most benefit from treatment commenced for oligoarticular course JIA, however, all children with JIA who meet the criteria to commence on adalimumab or etanercept earlier would benefit from reduced joint damage and pain and from achieving remission. The Committee considered that there are a variety of guidelines regarding the use of TNF inhibitors for JIA, including the recommendation to use one of these agents in cases with axial disease (although this was not specifically requested by the applicant). The Committee noted that TNF inhibitors are not recommended for first-line treatment of JIA.</p><p>3.19<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that there are long-term risks with the use of etanercept and adalimumab, such as increased risk of malignancy. Members considered that there are now fewer signals of cancer incidence being reported from biologic/disease registries than were previously reported in patients who commenced long-term treatment with disease-modifying anti-rheumatic drugs (DMARDs). Members considered that this may be due to earlier control of inflammation from earlier use of DMARDs. Members noted that previously, many of the patients in these cancer registries would have had exposure to multiple older systemic DMARDS.</p><p>3.20<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that widening access to adalimumab and etanercept for JIA could increase the workload of paediatric rheumatologists due to earlier treatment of these patients. The Committee considered that, as these same specialists were the applicants, this workload could be managed adequately by staff and health system resources.</p><p>3.21<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that the target patient population would be patients with JIA who have trialled some, but not necessarily all, DMARDs, and that some patients would use methotrexate in combination with adalimumab or etanercept, while other patients may be intolerant to methotrexate and therefore use adalimumab or etanercept instead. Members considered that patients may swap between adalimumab and etanercept, but this would be patient-dependent.</p><p>3.22<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that the response outcome for use in modelling could be the ACR Pedi 30 in combination with the cJADAS score. The Committee considered that the Rheumatology Subcommittee could provide advice regarding appropriate outcomes for PHARMAC to model.</p><p>3.23<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered it likely that widening access to adalimumab and etanercept for JIA would benefit family and wh\u0101nau through increased periods of remission for the patient, resulting in reduced caregiver stress and consequent health decrements.</p><p>3.24<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that the Special Authority criteria for adalimumab and etanercept for patients with eoJIA, PsA and ERA should be amended to widen access, with specific changes to the number of affected joints and definitions of disease severity.</p><p>3.24.1<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered it was not appropriate to include a requirement for intra-articular steroid injections in oligoarticular course JIA, noting that such injections frequently need to be given under short general anaesthesia for these children, and rather considered that injections should be performed according to clinical judgment and need.</p><p>3.24.2<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>Members similarly considered that a requirement for patients to have trialled all DMARDs prior to use of adalimumab or etanercept may not be appropriate, as this would take a long period of time, minimising the potential \u2018window of opportunity\u2019 effect.</p><p>3.24.3<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that it was not appropriate to include the applicant-proposed additional prescribing option of \u2018according to District Health Board (DHB) protocol\u2019, understanding that paediatric rheumatologists would accept non-inclusion. The Committee noted that the proposed SA criteria included prescribing by, or on the recommendation of, a rheumatologist or named specialist, to ensure appropriate prescribing and minimise the risk of slippage.</p><p>3.24.4<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that currently there are no clear stopping criteria, nor had any been proposed by the applicant, for adalimumab and etanercept for JIA, and considered that this presented a fiscal, and potentially clinical, risk. The Committee suggested that PHARMAC could contact the New Zealand paediatric rheumatologists to ascertain whether stopping criteria would be appropriate, and if so, what these criteria should be.</p><p>3.25<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that the Special Authority criteria for tocilizumab for JIA also refer to numbers of joints and considered that, if adalimumab and etanercept funding was widened for JIA, the tocilizumab Special Authority criteria should be reviewed and amended if required, for funded consistency between TNF inhibitors.\u00a0</p>",
+          "change": null
+        },
+        "Published_Application": {
+          "s": "<p>3.3<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee reviewed the clinician application for widening of access to adalimumab and etanercept for juvenile idiopathic arthritis.</p><p>3.4<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee took into account, where applicable, PHARMAC\u2019s relevant decision-making framework when considering this agenda item.\u00a0</p><p><br></p>",
+          "fs": "<p>3.3<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee reviewed the clinician application for widening of access to adalimumab and etanercept for juvenile idiopathic arthritis.</p><p>3.4<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee took into account, where applicable, PHARMAC\u2019s relevant decision-making framework when considering this agenda item.\u00a0</p><p><br></p>",
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": "High",
+          "fs": "High",
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Feb 2020",
+          "fs": "Feb 2020",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Clinical advice received from Pharmacology and Therapeutics Advisory Committee (PTAC) at meeting Thursday 14 November 2019.",
+          "fs": "Clinical advice received from Pharmacology and Therapeutics Advisory Committee (PTAC) at meeting Thursday 14 November 2019.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P000005SlUKUA0"
+          },
+          "Id": "a0P2P000005SlUKUA0",
+          "Event_Date__c": "2020-02-26",
+          "Event_Description__c": "Clinical advice received from Pharmacology and Therapeutics Advisory Committee (PTAC) at meeting Thursday 14 November 2019.",
+          "Stage__c": "Seeking Clinical Advice",
+          "Outcome__c": "High",
+          "Formatted_Date__c": "Feb 2020",
+          "Published_Recommendation__c": "<p>3.3<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee recommended that the funding of adalimumab and etanercept for the treatment of patients with juvenile idiopathic arthritis (JIA) be widened with a high priority, subject to the following Special Authority criteria (additions in bold and deletions in strike through):</p><p><span style=\"font-size: 9pt;\">ADALIMUMAB</span></p><p><span style=\"font-size: 9pt;\">Initiation \u2013 juvenile idiopathic arthritis</span></p><p><span style=\"font-size: 9pt;\">Rheumatologist or named specialist</span></p><p><i style=\"font-size: 9pt;\">Re-assessment required after 6 months</i></p><p><span style=\"font-size: 9pt;\">Either:</span></p><p><span style=\"font-size: 9pt;\">1 Both:</span></p><p><span style=\"font-size: 9pt;\">1.1 The patient has had an initial Special Authority approval for etanercept for juvenile idiopathic arthritis (JIA); and</span></p><p><span style=\"font-size: 9pt;\">1.2 Either:</span></p><p><span style=\"font-size: 9pt;\">1.2.1 The patient has experienced intolerable side effects from etanercept; or</span></p><p><span style=\"font-size: 9pt;\">1.2.2 The patient has received insufficient benefit from etanercept to meet the renewal criteria for etanercept for JIA; or</span></p><p><span style=\"font-size: 9pt;\">2 All of the following:</span></p><p><span style=\"font-size: 9pt;\">2.1 Patient diagnosed with Juvenile Idiopathic Arthritis (JIA); and</span></p><p><span style=\"font-size: 9pt;\">2.2 To be used as an adjunct to methotrexate therapy or monotherapy where use of methotrexate is limited by toxicity or intolerance; and</span></p><p><span style=\"font-size: 9pt;\">2.3 Either:</span></p><p><span style=\"font-size: 9pt;\">2.3.1 Patient has polyarticular course JIA for 6 months duration or longer; and</span></p><p><span style=\"font-size: 9pt;\">2.3.1.1 Either:</span></p><p><span style=\"font-size: 9pt;\">2.3.1.1.1 At least 5 swollen joints and at least 3 joints with limitation of motion, pain and tenderness; or</span></p><p><span style=\"font-size: 9pt;\">2.3.1.1.2 Moderate or high disease activity (cJADAS score of at least 2.5) after a 3-month trial of methotrexate (at a dose of 10-20 mg/m2\u00a0weekly or at the maximum tolerated dose); or</span></p><p><span style=\"font-size: 9pt;\">2.3.1.1.3 Low disease activity (cJADAS score between 1.1 and 2.5) after a 6-month trial of methotrexate; and</span></p><p><span style=\"font-size: 9pt;\">2.3.1.2 Patient has tried and not responded to a therapeutic trial of</span><b style=\"font-size: 9pt;\">\u00a0</b><span style=\"font-size: 9pt;\">oral corticosteroids (prednisone 0.25 mg/kg or at the maximum tolerated dose); or</span></p><p><span style=\"font-size: 9pt;\">2.3.2 Patient has oligoarticular course JIA for 6 months duration or longer; and</span></p><p><span style=\"font-size: 9pt;\">2.3.2.1 Either:</span></p><p><span style=\"font-size: 9pt;\">2.3.2.1.1 At least 2 active joints with swelling or limited range of motion; or</span></p><p><span style=\"font-size: 9pt;\">2.3.2.1.2 Moderate or high disease activity (cJADAS score greater than 1.5) with poor prognostic features after a 3-month trial of methotrexate (at a dose of 10-20 mg/m2\u00a0weekly or at the maximum tolerated dose); or</span></p><p><span style=\"font-size: 9pt;\">2.3.2.1.3 High disease activity (cJADAS score greater than 4) after a 6-month trial of methotrexate.</span></p><p><span style=\"font-size: 10pt;\">\u00a0</span></p><p><span style=\"font-size: 9pt;\">ETANERCEPT</span></p><p><span style=\"font-size: 9pt;\">Restricted</span></p><p><span style=\"font-size: 9pt;\">Initiation \u2013 juvenile idiopathic arthritis</span></p><p><span style=\"font-size: 9pt;\">Rheumatologist or named specialist</span></p><p><i style=\"font-size: 9pt;\">Re-assessment required after 6 months</i></p><p><span style=\"font-size: 9pt;\">Either:</span></p><p><span style=\"font-size: 9pt;\">1 Both:</span></p><p><span style=\"font-size: 9pt;\">1.1 The patient has had an initial Special Authority approval for adalimumab for juvenile idiopathic arthritis (JIA); and</span></p><p><span style=\"font-size: 9pt;\">1.2 Either:</span></p><p><span style=\"font-size: 9pt;\">1.2.1 The patient has experienced intolerable side effects from adalimumab; or</span></p><p><span style=\"font-size: 9pt;\">1.2.2 The patient has received insufficient benefit from adalimumab to meet the renewal criteria for adalimumab for JIA; or</span></p><p><span style=\"font-size: 9pt;\">2 All of the following:</span></p><p><span style=\"font-size: 9pt;\">2.1 Patient diagnosed with Juvenile Idiopathic Arthritis (JIA); and</span></p><p><span style=\"font-size: 9pt;\">2.2 To be used as an adjunct to methotrexate therapy or monotherapy where use of methotrexate is limited by toxicity or intolerance; and</span></p><p><span style=\"font-size: 9pt;\">2.3 Either:</span></p><p><span style=\"font-size: 9pt;\">2.3.1 Patient has polyarticular course JIA for 6 months duration or longer; and</span></p><p><span style=\"font-size: 9pt;\">2.3.1.1 Either:</span></p><p><span style=\"font-size: 9pt;\">2.3.1.1.1 At least 5 swollen joints and at least 3 joints with limitation of motion, pain and tenderness; or</span></p><p><span style=\"font-size: 9pt;\">2.3.1.1.2 Moderate or high disease activity (cJADAS score of at least 2.5) after a 3-month trial of methotrexate (at a dose of 10-20 mg/m2\u00a0weekly or at the maximum tolerated dose); or</span></p><p><span style=\"font-size: 9pt;\">2.3.1.1.3 Low disease activity (cJADAS score between 1.1 and 2.5) after a 6-month trial of methotrexate; and</span></p><p><span style=\"font-size: 9pt;\">2.3.1.2 Patient has tried and not responded to a therapeutic trial of</span><b style=\"font-size: 9pt;\">\u00a0</b><span style=\"font-size: 9pt;\">oral corticosteroids (prednisone 0.25 mg/kg or at the maximum tolerated dose); or</span></p><p><span style=\"font-size: 9pt;\">2.3.2 Patient has oligoarticular course JIA for 6 months duration or longer; and</span></p><p><span style=\"font-size: 9pt;\">2.3.2.1 Either:</span></p><p><span style=\"font-size: 9pt;\">2.3.2.1.1 At least 2 active joints with swelling or limited range of motion; or</span></p><p><span style=\"font-size: 9pt;\">2.3.2.1.2 Moderate or high disease activity (cJADAS score greater than 1.5) with poor prognostic features after a 3-month trial of methotrexate (at a dose of 10-20 mg/m2\u00a0weekly or at the maximum tolerated dose); or</span></p><p><span style=\"font-size: 9pt;\">2.3.2.1.3 High disease activity (cJADAS score greater than 4) after a 6-month trial of methotrexate.</span></p><p><br></p><p><span style=\"font-size: 9pt;\">[ADALIMUMAB/ETANERCEPT]</span></p><p><span style=\"font-size: 9pt;\">Continuation \u2013 juvenile idiopathic arthritis</span></p><p><span style=\"font-size: 9pt;\">Rheumatologist or named specialist, or on the recommendation of a rheumatologist or named specialist</span></p><p><i style=\"font-size: 9pt;\">Re-assessment required after 6 months</i></p><p><span style=\"font-size: 9pt;\">Both:</span></p><p><span style=\"font-size: 9pt;\">1 Treatment is to be used as an adjunct to methotrexate therapy or monotherapy where use of methotrexate is limited by toxicity or intolerance; and</span></p><p><span style=\"font-size: 9pt;\">2 Either:</span></p><p><span style=\"font-size: 9pt;\">2.1\u00a0\u00a0Following 3 to 4 months&#39; initial treatment, the patient has at least a 50% decrease in active joint count and an improvement in physician&#39;s global assessment from baseline; or</span></p><p><span style=\"font-size: 9pt;\">2.2\u00a0\u00a0On subsequent reapplications, the patient demonstrates at least a continuing 30% improvement in active joint count and continued improvement in physician&#39;s global assessment from baseline.</span></p><p><span style=\"font-size: 10pt;\">\u00a0</span></p><p>3.4<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee made this recommendation based on the health need of patients with JIA with severe pain and joint involvement, and evidence for a prolonged treatment benefit resulting in long-term remission. The Committee considered that this recommendation and the proposed changes to the Special Authority criteria would widen access to these treatments for patients with eoJIA, PsA and ERA.</p><p>3.5<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that the Special Authority criteria for tocilizumab also refers to numbers of joints and considered that, if wider access for adalimumab and etanercept is funded, the tocilizumab Special Authority criteria should be reviewed.</p><p>3.6<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that the Rheumatology Subcommittee could provide advice regarding the appropriate response assessment outcomes eg. ACR Pedi 30 in combination with clinical Juvenile Arthritis Disease Activity Score (cJADAS), for use in cost-effectiveness modelling and advice regarding whether there is a need for stopping criteria.\u00a0</p><p><br></p>",
+          "Published_Application__c": "<p>3.3<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee reviewed the clinician application for widening of access to adalimumab and etanercept for juvenile idiopathic arthritis.</p><p>3.4<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee took into account, where applicable, PHARMAC\u2019s relevant decision-making framework when considering this agenda item.\u00a0</p><p><br></p>",
+          "Published_Discussion__c": "<p>3.3<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that Juvenile Idiopathic Arthritis (JIA), formerly called Juvenile Rheumatoid Arthritis (JRA), is a chronic inflammatory condition of unknown cause that affects the joints, commences prior to the age of 16, persists for at least 6 weeks, and is diagnosed clinically (supported by ultrasound or MRI findings). The Committee noted that JIA can have an oligoarticular course, which affects 4 or fewer joints at any time, or polyarticular course, which affects 5 or more joints at any time.</p><p>3.4<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that the International League of Associations for Rheumatology (ILAR) classification system delineates cases into mutually-exclusive categories of JIA based on predominant clinical and laboratory features (<a href=\"https://www.ncbi.nlm.nih.gov/pubmed/14760812\" target=\"_blank\" style=\"color: rgb(53, 88, 214);\">Petty et al. J Rheumatol. 2004;31:390-2</a>). The Committee noted that the applicant requested funding for patients with any of the following ILAR subtypes:</p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>Extended oligoarticular (eoJIA), where 1-4 joints are involved during the first 6 months of illness and more than 4 joints affected after the first 6 months; and</p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>Juvenile psoriatic (PsA), where children have arthritis and psoriasis, or arthritis and at least two other specific features (eg dactylitis, psoriasis in a relative); and</p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>Enthesitis-related arthritis (ERA), where children have arthritis and enthesitis, or arthritis or enthesitis with two other specific factors (eg sacroiliac joint tenderness, presence of specific antigen).</p><p>3.5<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that patients with JIA (especially eoJIA or other oligoarticular course types) have a high health need due to substantial pain from disease involvement in even a few joints, based on joint count and physician-assessed pain scores. Members considered that JIA seriously impacts on the health of families/wh\u0101nau of patients with JIA. Members considered that, based on anecdotal evidence for health disparities in patients with JIA, the disease could disproportionately affect M\u0101ori, Pacific people or other patient groups if other factors that result in reduced engagement with the health system are present.</p><p>3.6<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted the applicant\u2019s new patient case estimates of approximately 45 JIA cases nationally per year (21 oligoarticular course, 11 polyarticular course, 7 ERA, 4 systemic JIA and 2 PsA). The Committee considered that the application represents the views and expertise of the four paediatric rheumatologists who provide expert advice regarding treatment of New Zealand children with JIA and who would provide reasonable estimates of suitable patient numbers. The Committee considered that, when compared to the applicant\u2019s estimates, PHARMAC staff\u2019s prevalence-based estimate of 90 per year are high. The Committee noted that there would be a natural departure of patients from the JIA patient population into the adult population.</p><p>3.7<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that the tumour necrosis factor (TNF) inhibitors adalimumab and etanercept are funded for the treatment of JIA, limited to patients with either: intolerable side effects from, or insufficient benefit from, the alternate agent (adalimumab or etanercept); and for patients with severe active polyarticular course JIA for at least 6 months, with persistent symptoms of poorly-controlled and active disease, who meet other criteria including trials of other therapies and use with methotrexate (if appropriate).</p><p>3.8<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that tocilizumab is funded for the treatment of polyarticular JIA, limited to patients with either: intolerable side effects from, or insufficient benefit from, both adalimumab and etanercept; or for patients with severe active polyarticular course JIA for at least 6 months, with persistent symptoms of poorly-controlled and active disease, who meet other criteria including trials of other therapies, use with methotrexate (if appropriate) and contraindication to TNF inhibitor treatment. Members considered that the number of patients suitable for funded tocilizumab may be useful for reference.</p><p>3.9<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that adalimumab is Medsafe-approved for use in polyarticular JIA and ERA, and that etanercept is Medsafe-approved for use in eoJIA, ERA, PsA and polyarthritis: at least 5 joints involved during the first 6 months of illness. The Committee noted that there is substantial international and national experience with these agents for the treatment of children with JIA or other diseases, and had no concerns regarding their use in the requested patient populations from the perspective of use outside the specific Medsafe-approved JIA indications, under appropriate specialist supervision.</p><p>3.10<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that the Juvenile Arthritis Disease Activity Score (JADAS) is a composite JIA disease activity score based on 4 measures (physician\u2019s global assessment of disease activity, parent/guardian\u2019s global assessment of overall wellbeing, number of active joints, and erythrocyte sedimentation rate [ESR]). The Committee noted variants include JADAS-CRP which uses C-reactive protein (CRP) instead of ESR, and cJADAS, a clinical, 3-item version of JADAS that excludes both ESR and CRP. The Committee noted that the applicant stated the cJADAS score was a validated measure based on the 2013 update of 2011 American College of Rheumatology (ACR) recommendations. It is an easily applied surrogate measure of disease activity in clinical practice.</p><p>3.11<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that the American College of Rheumatology (ACR) Paediatric (Pedi) 30 treatment response is used in JIA, defined as at least a 30% improvement from baseline in three of six variables, with no more than one other variable worsening by &gt;30 %. The Committee noted that the ACR Pedi 50, 70, 90 and 100 require the corresponding percentage improvement in at least three variables. The Committee considered that, although this measure is used in clinical trials, its application in a clinical setting is significantly more cumbersome than that of cJADAS.</p><p>3.12<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that the evidence for etanercept in patients with eoJIA, ERA and PsA comes from the phase IIIb, open-label, prospective, multicentre, CLIPPER study, which included 127 children with eoJIA, ERA or PsA who received e<span style=\"color: black;\">tanercept 0.8 mg/kg once weekly (maximum 50 mg) for 12 weeks and were followed-up for 96 weeks (</span><a href=\"https://www.ncbi.nlm.nih.gov/pubmed/23696632\" target=\"_blank\" style=\"color: rgb(53, 88, 214);\">Horneff et al. Ann Rheum Dis. 2014;73:1114-22</a>;\u00a0<a href=\"https://www.ncbi.nlm.nih.gov/pubmed/26932344\" target=\"_blank\" style=\"color: rgb(53, 88, 214);\">Constantin et al. J Rheumatol. 2016;43:816-24</a>).</p><p>3.12.1<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that CLIPPER used historical placebo controls as comparison, and that the patients enrolled had less severe disease than patients who would access funded etanercept according to the current Special Authority criteria.</p><p>3.12.2<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that at 12 weeks ACR 30 responses were achieved in 88.6% of CLIPPER patients overall (95% CI: 81.6% to 93.6%) with similar results in the eoJIA, PsA and ERA subgroups, and that at 96 weeks ACR 30 responses were achieved in 84.3% of patients overall (95% CI: 76.7% to 90.1%). The Subcommittee noted that the results signalled a benefit when compared to a historical placebo, and less benefit (although still an effect) when compared to a historical active control.</p><p>3.12.3<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that short-term safety reported in CLIPPER was acceptable.</p><p>3.12.4<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that about 10% of patients with eoJIA had inactive disease at the end of the CLIPPER trial, and other evidence suggested prolonged remission in patients with JIA (<a href=\"https://pubmed.ncbi.nlm.nih.gov/30044538-time-of-disease-modifying-antirheumatic-drug-start-in-juvenile-idiopathic-arthritis-and-the-likelihood-of-a-drug-free-remission-in-young-adulthood/?from_term=minden+antirheumatic+idiopathic&amp;from_pos=7\" target=\"_blank\" style=\"color: rgb(53, 88, 214);\">Minden et al. Arthritis Care Res (Hoboken). 2019;71:471-81</a>). Members considered that this suggested the potential of a \u2018window of opportunity\u2019, whereby disease course could be radically improved or even cured.</p><p>3.13<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted the results of CLIPPER-2, an\u00a0<span style=\"color: black;\">extension of the CLIPPER study,\u00a0</span>which reported data from a total of 6<span style=\"color: black;\">\u00a0years trial participation in 109 CLIPPER participants (</span><a href=\"https://www.ncbi.nlm.nih.gov/pubmed/31122296\" target=\"_blank\" style=\"color: rgb(53, 88, 214);\">Foeldvari et al. Arthritis Res Ther. 2019;21:125</a>)<span style=\"color: black;\">. The Committee noted that 24% of patients had JADAS inactive disease at 6 years. The Committee considered that these results suggest patients with early response at 12 weeks maintained this improvement long-term. The Committee noted that frequently reported treatment-emergent adverse events included headache, arthralgia, pyrexia, diarrhoea and leukopenia. Although there were no reported deaths there was one report of malignancy, a patient with non-Hodgkin lymphoma.</span></p><p>3.14<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted evidence from an industry-funded \u2018BIKER\u2019 registry, which prospectively collected data over 11 years for 1,678 p<span style=\"color: black;\">atients\u00a0</span>who received treatment with etanercept for\u00a0<span style=\"color: black;\">JIA, including eoJIA, ERA and PsA</span>\u00a0(<a href=\"https://www.ncbi.nlm.nih.gov/pubmed/25034081\" target=\"_blank\" style=\"color: rgb(53, 88, 214);\">Windschall et al. Clin Rheumatol. 2015;34:61-9</a>).<span style=\"color: black;\">\u00a0The Committee considered that the BIKER registry patient population was similar to the patient population requested by the applicant, and noted that BIKER patients had 4.3 affected joints on average and most had previously received methotrexate and non-steroidal anti-inflammatory drugs. The Committee noted that a reduction in JADAS score was reported at 24 months and considered that this was clinically relevant based on anecdotal expert advice.</span></p><p>3.15<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted the following evidence from randomised trials and prospective observational registry studies that either reported outcomes for the broader JIA groups (polyarticular course JIA and oligoarticular course JIA), or outcomes according to older definitions such as juvenile rheumatoid arthritis (JRA) in patients who received adalimumab or etanercept:</p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://www.ncbi.nlm.nih.gov/pubmed/27709443\" target=\"_blank\" style=\"color: rgb(53, 88, 214);\">Windschall et al . Clin Rheumatol. 2016:35;2925-32</a></p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://www.ncbi.nlm.nih.gov/pubmed/28615036\" target=\"_blank\" style=\"color: rgb(53, 88, 214);\">Alexeeva et al. Pediatr Rheumatol Online J. 2017:15;51</a></p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://www.ncbi.nlm.nih.gov/pubmed/?term=23267169\" target=\"_blank\" style=\"color: rgb(53, 88, 214);\">Anink et al. Rheumatology (Oxford). 2013:52;712-7)</a></p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://www.ncbi.nlm.nih.gov/pubmed/10717011\" target=\"_blank\" style=\"color: rgb(53, 88, 214);\">Lovell et al. N Engl J Med. 2000:342;763-9</a></p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://www.ncbi.nlm.nih.gov/pubmed/12528122\" target=\"_blank\" style=\"color: rgb(53, 88, 214);\">Lovell et al. Arthritis Rheum. 2003:48;218-26</a></p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://www.ncbi.nlm.nih.gov/pubmed/16732547\" target=\"_blank\" style=\"color: rgb(53, 88, 214);\">Lovell et al. Arthritis Rheum. 2006:54;1987-94</a></p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://www.ncbi.nlm.nih.gov/pubmed/18716298\" target=\"_blank\" style=\"color: rgb(53, 88, 214);\">Lovell et al. N Eng J Med. 2008:359;810-20</a></p><p>3.15.1<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that some evidence supported the safety of etanercept and of adalimumab in these settings and suggests a benefit from early treatment especially in younger children and those with eoJIA. The Committee considered that the four publications by Lovell et al. were of limited value due to different dosing and outcomes and trial design limited to assessing relapses only. The Committed noted the majority of the evidence available was for etanercept, as opposed to adalimumab.</p><p>3.16<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted the following published recommendations:</p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://www.nice.org.uk/guidance/ta373\" target=\"_blank\" style=\"color: rgb(53, 88, 214);\">Abatacept, adalimumab, etanercept and tocilizumab for treating juvenile idiopathic arthritis: Technology appraisal guidance TA373 [Internet]. National Institute for Health and Care Excellence (UK); Dec 2015 [revised Dec 2018; cited Nov 2019].</a></p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The 2013 update of 2011 American College of Rheumatology recommendations<span style=\"color: black;\">\u00a0(</span><a href=\"https://www.ncbi.nlm.nih.gov/pubmed/24092554\" target=\"_blank\" style=\"color: rgb(53, 88, 214);\">Ringold et al. Arthritis Rheum. 2013:65;2499-512</a><span style=\"color: black;\">).</span></p><p>3.17<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that the evidence generally uses ACR Pedi scores, however, New Zealand clinicians prefer to use the cJADAS score. Members considered that there are published minimal clinically important difference (MCID) scores for the cJADAS, which vary according to disease severity, based on the BIKER registry.</p><p>3.18<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that the evidence suggests patients with persistent eoJIA receive the most benefit from treatment commenced for oligoarticular course JIA, however, all children with JIA who meet the criteria to commence on adalimumab or etanercept earlier would benefit from reduced joint damage and pain and from achieving remission. The Committee considered that there are a variety of guidelines regarding the use of TNF inhibitors for JIA, including the recommendation to use one of these agents in cases with axial disease (although this was not specifically requested by the applicant). The Committee noted that TNF inhibitors are not recommended for first-line treatment of JIA.</p><p>3.19<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that there are long-term risks with the use of etanercept and adalimumab, such as increased risk of malignancy. Members considered that there are now fewer signals of cancer incidence being reported from biologic/disease registries than were previously reported in patients who commenced long-term treatment with disease-modifying anti-rheumatic drugs (DMARDs). Members considered that this may be due to earlier control of inflammation from earlier use of DMARDs. Members noted that previously, many of the patients in these cancer registries would have had exposure to multiple older systemic DMARDS.</p><p>3.20<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that widening access to adalimumab and etanercept for JIA could increase the workload of paediatric rheumatologists due to earlier treatment of these patients. The Committee considered that, as these same specialists were the applicants, this workload could be managed adequately by staff and health system resources.</p><p>3.21<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that the target patient population would be patients with JIA who have trialled some, but not necessarily all, DMARDs, and that some patients would use methotrexate in combination with adalimumab or etanercept, while other patients may be intolerant to methotrexate and therefore use adalimumab or etanercept instead. Members considered that patients may swap between adalimumab and etanercept, but this would be patient-dependent.</p><p>3.22<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that the response outcome for use in modelling could be the ACR Pedi 30 in combination with the cJADAS score. The Committee considered that the Rheumatology Subcommittee could provide advice regarding appropriate outcomes for PHARMAC to model.</p><p>3.23<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered it likely that widening access to adalimumab and etanercept for JIA would benefit family and wh\u0101nau through increased periods of remission for the patient, resulting in reduced caregiver stress and consequent health decrements.</p><p>3.24<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that the Special Authority criteria for adalimumab and etanercept for patients with eoJIA, PsA and ERA should be amended to widen access, with specific changes to the number of affected joints and definitions of disease severity.</p><p>3.24.1<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered it was not appropriate to include a requirement for intra-articular steroid injections in oligoarticular course JIA, noting that such injections frequently need to be given under short general anaesthesia for these children, and rather considered that injections should be performed according to clinical judgment and need.</p><p>3.24.2<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>Members similarly considered that a requirement for patients to have trialled all DMARDs prior to use of adalimumab or etanercept may not be appropriate, as this would take a long period of time, minimising the potential \u2018window of opportunity\u2019 effect.</p><p>3.24.3<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that it was not appropriate to include the applicant-proposed additional prescribing option of \u2018according to District Health Board (DHB) protocol\u2019, understanding that paediatric rheumatologists would accept non-inclusion. The Committee noted that the proposed SA criteria included prescribing by, or on the recommendation of, a rheumatologist or named specialist, to ensure appropriate prescribing and minimise the risk of slippage.</p><p>3.24.4<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that currently there are no clear stopping criteria, nor had any been proposed by the applicant, for adalimumab and etanercept for JIA, and considered that this presented a fiscal, and potentially clinical, risk. The Committee suggested that PHARMAC could contact the New Zealand paediatric rheumatologists to ascertain whether stopping criteria would be appropriate, and if so, what these criteria should be.</p><p>3.25<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that the Special Authority criteria for tocilizumab for JIA also refer to numbers of joints and considered that, if adalimumab and etanercept funding was widened for JIA, the tocilizumab Special Authority criteria should be reviewed and amended if required, for funded consistency between TNF inhibitors.\u00a0</p>",
+          "Status_History__c": "a132P000000BVOzQAO"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Oct 2019",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Following Clinical Advice, Pharmac staff considers the advice and the funding application under goes an assessment using our&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/factors-for-consideration/\" rel=\"nofollow\">Factors for Consideration</a>&nbsp;framework and seeks additional information as required.</p>\r\n<p>&nbsp;</p>\r\n<p>Research and Economic analysis are undertaken.&nbsp; This focuses on the costs and benefits of a proposed course of action. Economics is based on three fundamental concepts that summarise the issues Pharmac faces daily:&nbsp;</p>\r\n<ul>\r\n<li>Scarcity &ndash; resources will always be insufficient to support all possible activities.</li>\r\n<li>Choices &ndash; due to scarce resources, decisions must be made about how best to use them.</li>\r\n<li>Opportunity cost &ndash; by choosing to use resources one way, we forgo other opportunities to use the same resources.</li>\r\n</ul>\r\n<p>&nbsp;</p>\r\n<p>For further information on the purpose of, and techniques for, undertaking economic analysis in health care, please refer&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/economic-analysis/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/economic-analysis/</a></p>",
+    "position": 2,
+    "name": "Under Assessment",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Feb 2020",
+          "fs": "Feb 2020",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Working to compare options",
+          "fs": "Working to compare options",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P000005SlULUA0"
+          },
+          "Id": "a0P2P000005SlULUA0",
+          "Event_Date__c": "2020-02-26",
+          "Event_Description__c": "Working to compare options",
+          "Stage__c": "Under Assessment",
+          "Formatted_Date__c": "Feb 2020",
+          "Status_History__c": "a132P000000BVPxQAO"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Feb 2020",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Pharmac staff uses a prioritisation process to compare and rank funding options. Possible opportunities for new investment will always exceed the budget Pharmac has available; therefore, prioritisation is an intrinsic part of Pharmac\u2019s decision-making process.</p>\r\n<p>The relative ranking of options aims to support Pharmac&rsquo;s statutory objective &ldquo;to secure for eligible people in need of pharmaceuticals, the best health outcomes that are reasonably achievable from pharmaceutical treatment and from within the amount of funding provided&rdquo;.</p>\r\n<p>A funding application or proposal is considered ready for prioritisation when sufficient information is available to permit it to be reviewed against Pharmac's Factors for Consideration and to inform a comparison with other possible investment decisions.</p>\r\n<p>There is no guarantee when or if a ranked medicine will be funded.&nbsp;&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/prioritisation/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/prioritisation/</a></p>",
+    "position": 3,
+    "name": "Options Compared",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Mar 2020",
+          "fs": "Mar 2020",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "The relative ranking of the pharmaceutical application has been completed.",
+          "fs": "The relative ranking of the pharmaceutical application has been completed.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P000005SlUMUA0"
+          },
+          "Id": "a0P2P000005SlUMUA0",
+          "Event_Date__c": "2020-03-03",
+          "Event_Description__c": "The relative ranking of the pharmaceutical application has been completed.",
+          "Stage__c": "Options Compared",
+          "Formatted_Date__c": "Mar 2020",
+          "Status_History__c": "a132P000000BwsRQAS"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Mar 2020",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Pharmac is consulting on a proposal to either approve or decline the application.&nbsp;We seek the views of all people who have an interest in our proposals, or who may be affected by them, to obtain feedback on our proposed approaches.</p>\r\n<p><a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/having-your-say/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/having-your-say/</a></p>",
+    "position": 4,
+    "name": "Under Consultation",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": "<p><a href=\"https://www.pharmac.govt.nz/news/2020-09-11-proposal-to-widen-access-to-treatments-for-juvenile-idiopathic-arthritis/\" target=\"_blank\">Consultation letter</a></p>",
+          "fs": "<p><a href=\"https://www.pharmac.govt.nz/news/2020-09-11-proposal-to-widen-access-to-treatments-for-juvenile-idiopathic-arthritis/\" target=\"_blank\">Consultation letter</a></p>",
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Sep 2020",
+          "fs": "Sep 2020",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Public consultation for this application is active.",
+          "fs": "Public consultation for this application is active.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P000005SlUNUA0"
+          },
+          "Id": "a0P2P000005SlUNUA0",
+          "Event_Date__c": "2020-09-11",
+          "Event_Description__c": "Public consultation for this application is active.",
+          "Stage__c": "Under Consultation",
+          "Links__c": "<p><a href=\"https://www.pharmac.govt.nz/news/2020-09-11-proposal-to-widen-access-to-treatments-for-juvenile-idiopathic-arthritis/\" target=\"_blank\">Consultation letter</a></p>",
+          "Formatted_Date__c": "Sep 2020",
+          "Status_History__c": "a132P000000C9TTQA0"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Sep 2020",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Following the consultation process, Pharmac staff considers the feedback and identifies any additional information required as part of a gap analysis.&nbsp; The proposal may require further clinical advice, research, and assessment.</p>",
+    "position": 5,
+    "name": "Reviewing Consultation Feedback",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Sep 2020",
+          "fs": "Sep 2020",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Public consultation for this application is now closed. Pharmac is reviewing consultation feedback.",
+          "fs": "Public consultation for this application is now closed. Pharmac is reviewing consultation feedback.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P000005SlUOUA0"
+          },
+          "Id": "a0P2P000005SlUOUA0",
+          "Event_Date__c": "2020-09-28",
+          "Event_Description__c": "Public consultation for this application is now closed. Pharmac is reviewing consultation feedback.",
+          "Stage__c": "Reviewing Consultation Feedback",
+          "Formatted_Date__c": "Sep 2020",
+          "Status_History__c": "a132P000000CCfSQAW"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Sep 2020",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>We refer to our decisions about whether and how particular pharmaceuticals are publicly-funded, as &ldquo;funding decisions&rdquo;.</p>\r\n<p>We consider and assess all funding decisions using the&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/about/operating-policies-and-procedures/#factorsfc\" rel=\"nofollow\">Factors for Consideration</a>. When we do so, we carefully evaluate clinical and other evidence for the benefits and suitability of a proposal, and to identify and understand the people who will be affected by it.</p>\r\n<p>While our main task is to allocate pharmaceutical funding, we consider the benefits and costs across the whole health system now and with a long-term focus, including the effects for hospitals and primary care, and consider direct costs to patients as well as to all health sector budgets.</p>\r\n<p>Final funding decisions are made by the Pharmac Board or delegated to senior Pharmac staff as required by the Board.</p>\r\n<p>&nbsp;</p>",
+    "position": 6,
+    "name": "Decision",
+    "last": true,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": "<p><a href=\"https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/decision-2020-11-11-jia/\" target=\"_blank\">Decision notification letter</a></p>",
+          "fs": "<p><a href=\"https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/decision-2020-11-11-jia/\" target=\"_blank\">Decision notification letter</a></p>",
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Nov 2020",
+          "fs": "Nov 2020",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "The funding application has been approved.",
+          "fs": "The funding application has been approved.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P000005SlUPUA0"
+          },
+          "Id": "a0P2P000005SlUPUA0",
+          "Event_Date__c": "2020-11-11",
+          "Event_Description__c": "The funding application has been approved.",
+          "Stage__c": "Decision",
+          "Links__c": "<p><a href=\"https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/decision-2020-11-11-jia/\" target=\"_blank\">Decision notification letter</a></p>",
+          "Formatted_Date__c": "Nov 2020",
+          "Status_History__c": "a132P000000CL9EQAW"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Nov 2020",
+    "collapsed": false,
+    "checked": true
+  }
+]

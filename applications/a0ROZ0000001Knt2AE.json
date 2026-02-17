@@ -1,0 +1,631 @@
+[
+  {
+    "text": "<p>New funding applications are referred to one of Pharmac's Funding Application Advisors (FAAs), who'll review the application to ensure they have the relevant information to undertake a preliminary analysis.&nbsp; They may seek more information if required.</p>\r\n<p><a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/new-funding-applications/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/new-funding-applications/</a></p>",
+    "position": 0,
+    "name": "Application Received",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "May 2019",
+          "fs": "May 2019",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Application received",
+          "fs": "Application received",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ000000fzHG2AY"
+          },
+          "Id": "a0POZ000000fzHG2AY",
+          "Event_Date__c": "2019-05-23",
+          "Event_Description__c": "Application received",
+          "Stage__c": "Application Received",
+          "Formatted_Date__c": "May 2019",
+          "Status_History__c": "a132P000000ArfiQAC"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "May 2019",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Pharmac is identifying and gathering information required to get clinical advice.  The <a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/pharmacology-and-therapeutics-advisory-committee-ptac/\" rel=\"nofollow\">Pharmacology and Therapeutics Advisory Committee (PTAC)</a>  meets quarterly. There are also around 20 expert <a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/specialist-advisory-committees/\" rel=\"nofollow\">Specialist Advisory Committees (SACs)</a>, previously expert Subcommittees, which provide clinical evaluations in specialist areas. Specialist Advisory Committees meet as required to discuss issues referred to them by PTAC or Pharmac.</p>\n<p style=\"height: 20px\">&nbsp;</p>\n<p>In November 2021, we introduced separate terms of reference for the SACs to make clear that these committees have different, but complementary, roles, expertise and perspectives to PTAC.</p>\n<p style=\"height: 15px\">&nbsp;</p>\n<p>PTAC and SACs may make recommendations to Pharmac that differ from each other when looking at the same evidence. Pharmac considers the recommendations provided by all our clinical advisory committees when assessing applications.</p>\n<p style=\"height: 20px\">&nbsp;</p>\n<p><a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/pharmacology-and-therapeutics-advisory-committee-ptac/ptac-terms-of-reference-july-2021/\" rel=\"nofollow\">PTAC</a>  and <a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/specialist-advisory-committees/specialist-advisory-committee-terms-of-reference//\" rel=\"nofollow\">Specialist Advisory Committees</a> records of the meeting will be published on this website in accordance with the Terms of Reference.</p>",
+    "position": 1,
+    "name": "Seeking Clinical Advice",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Jun 2019",
+          "fs": "Jun 2019",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Clinical advice required",
+          "fs": "Clinical advice required",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ000000fzHH2AY"
+          },
+          "Id": "a0POZ000000fzHH2AY",
+          "Event_Date__c": "2019-06-19",
+          "Event_Description__c": "Clinical advice required",
+          "Stage__c": "Seeking Clinical Advice",
+          "Formatted_Date__c": "Jun 2019",
+          "Status_History__c": "a132P000000Arh3QAC"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": "<p><span style=\"color: windowtext;\">1.1.</span><span style=\"color: windowtext; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee recommended that PHARMAC could progress a competitive procurement process for trastuzumab and considered that a managed change to a single trastuzumab biosimilar product, such as CT-P6, would be clinically acceptable for the treatment of HER2-positive early breast cancer and HER2-positive metastatic breast cancer.</p><p>1.2.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee requested the Cancer Treatment Subcommittee of PTAC (CaTSoP) provide PHARMAC any advice on implementation issues.</p>",
+          "fs": "<p><span style=\"color: windowtext;\">1.1.</span><span style=\"color: windowtext; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee recommended that PHARMAC could progress a competitive procurement process for trastuzumab and considered that a managed change to a single trastuzumab biosimilar product, such as CT-P6, would be clinically acceptable for the treatment of HER2-positive early breast cancer and HER2-positive metastatic breast cancer.</p><p>1.2.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee requested the Cancer Treatment Subcommittee of PTAC (CaTSoP) provide PHARMAC any advice on implementation issues.</p>",
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": "<p><span style=\"color: windowtext;\">1.1.</span><span style=\"color: windowtext; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that the application for CT-P6 (Herzuma) requested funding for the treatment of early breast cancer, metastatic breast cancer, and gastric cancer, subject to patent expiry. </p><p><span style=\"color: windowtext;\">1.2.</span><span style=\"color: windowtext; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that the intravenous preparation of the trastuzumab reference product (Herceptin) has been listed on the Pharmaceutical Schedule since 2005 and is currently funded in New Zealand for HER2-positive early and metastatic breast cancer.</p><p><span style=\"color: windowtext;\">1.3.</span><span style=\"color: windowtext; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that an application for intravenous trastuzumab for the treatment of HER2-positive advanced gastric cancer was recommended for decline by CaTSoP and PTAC in 2011 (PHARMAC application tracker: <a href=\"https://www.pharmac.govt.nz/wwwtrs/ApplicationTracker.php?ProposalId=428\" target=\"_blank\">trastuzumab for gastric cancer</a>). The Committee noted that PHARMAC made a decision to decline this application in <a href=\"https://www.pharmac.govt.nz/news/notification-2019-07-22-inactive-applications/\" target=\"_blank\">July 2019</a>. The Committee therefore considered that in the absence of new evidence relevant to gastric cancer, that the application for CT-P6 would be considered only for HER2-positive early and metastatic breast cancers.</p><p><span style=\"color: windowtext;\">1.4.</span><span style=\"color: windowtext; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that biosimilars are likely to play an important role in the field of oncology in the future, and that uptake will be dependent on clinician and patient confidence in regulatory processes and appropriate education. </p><p><span style=\"color: windowtext;\">1.5.</span><span style=\"color: windowtext; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that both the European Society for Medical Oncology and the American Society of Clinical Oncology have released position statements in support of biosimilar use in oncology (<a href=\"https://www.ncbi.nlm.nih.gov/pubmed/28848668\" target=\"_blank\" style=\"color: windowtext;\">Tabernero et al. ESMO Open. 2017;16:e000142</a>; <a href=\"https://www.ncbi.nlm.nih.gov/pubmed/29443651\" target=\"_blank\" style=\"color: windowtext;\">Lyman et al. J Clin Oncol. 2018;36:1260-5</a>).</p><p><span style=\"color: windowtext;\">1.6.</span><span style=\"color: windowtext; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that while the active biologic substance of a biosimilar is essentially the same as the innovator product, there can be minor differences in post-translational modification e.g. glycosylation, and quaternary structure due to molecular folding. However, the Committee considered there is also variation in the innovator product over time due to changes in manufacturing processes. </p><p><span style=\"color: windowtext;\">1.7.</span><span style=\"color: windowtext; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that CT-P6 has been approved by the EMA for use in the European Union, by the FDA for use in the United States, and by Medsafe for use in New Zealand for all the indications of the reference trastuzumab product. The Committee noted the comprehensive international regulatory processes regarding the safety and efficacy of biosimilars. </p><p><span style=\"color: windowtext;\">1.8.</span><span style=\"color: windowtext; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that the clinical development program for CT-P6 includes two un-published Phase 1 trials (Study CT-P6 1.5 and Study CT-P6 1.4) and one Phase 3 trial (Study CT-P6 3.2). </p><p><span style=\"color: windowtext;\">1.9.</span><span style=\"color: windowtext; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted the two randomised, double-blind, controlled, single-dose Phase 1 studies conducted to investigate CT-P6: a pivotal pharmacokinetic study in health subjects (Study CT-P6 1.5), and a pilot study evaluating initial safety and pharmacokinetics in healthy subjects (Study CT-P6 1.4). The Committee noted that the results of these studies are unpublished, but that there is a summary available in the European Medicines Agency Assessment report for CT-P6 (<a href=\"https://www.ema.europa.eu/en/documents/assessment-report/herzuma-epar-public-assessment-report_en.pdf\" target=\"_blank\">EMA Assessment Report. Herzuma. December 2017</a>). The Committee considered that the results of these studies support the biosimilarity of CT-P6 with the reference trastuzumab product, from a pharmacokinetic perspective.</p><p><span style=\"color: windowtext;\">1.10.</span><span style=\"color: windowtext; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted the randomised, double-blind, active-controlled, Phase 3 trial that aimed to establish the equivalence of CT-P6 and reference trastuzumab (Herceptin) in the treatment of 549 patients with HER2-positive early-stage breast cancer (Study CT-P6 3.2; <a href=\"https://www.ncbi.nlm.nih.gov/pubmed/28592386\" target=\"_blank\">Stebbing et al. Lancet Oncol. 2017;18:917-28</a>). The Committee noted that the primary endpoint was pathological complete response (pCR) at the time of definitive surgery (following 24 weeks of neoadjuvant trastuzumab), and that pharmacokinetic, pharmacodynamic, and safety data were also collected. The Committee noted that regulators, including in Europe and the United States, have accepted pCR as a surrogate endpoint for efficacy, albeit the evidence appeared mixed on whether pCR is truly predictive of event-free survival and/or overall survival. The Committee also noted that it is unlikely that survival data will be forthcoming as it is not mandated for biosimilars approval.</p><p>1.10.1.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that Stebbing et al. (2017) reported that 116 of 248 (46.8%) patients receiving CT\u2011P6 achieved pCR compared with 129 of 256 (50.4%) patients receiving reference trastuzumab, and that the 95% confidence interval of the estimated treatment outcome difference was within the equivalence margin of -0.15 to 0.15 (outcome difference -0.04%; 95% CI -0.12 to 0.05). The Committee considered that the results from the secondary endpoints at the end of the neoadjuvant period were similar between the treatment groups.</p><p>1.10.2.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that the safety profiles of CT-P6 and reference trastuzumab reported by Stebbing et al. (2017) were similar; treatment-emergent adverse events were reported in 19 of 271 (7%) patients receiving CT-P6 and 22 of 278 (8%) patients receiving reference trastuzumab, and serious adverse events included febrile neutropenia (4 [1%] CT-P6 vs 1 [&lt;1%] reference trastuzumab) and neutropenia (1 [&lt;1%] CT-P6 vs 2 [1%] reference trastuzumab).</p><p>1.10.3.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that Stebbing et al (2017) reported that there were no notable differences in pharmacokinetic endpoints between the treatment groups at any cycle in the neoadjuvant period. The Committee noted that the EMA Assessment report provided further details on the pharmacokinetic findings from the Phase 3 trial, including a discussion of unexpected findings that were subsequently attributed to the assay platform used.</p><p>1.10.4.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that antidrug antibodies can develop as a result of exposure to a drug, and that the biological role of these is unclear (antidrug antibodies can be neutralising, immunogenic, or present with no discernible effect). The Committee noted that 12 patients in the Phase 3 trial were antidrug antibody positive at baseline (all neutralising antibody negative), but that no patients were positive for antidrug antibodies in the adjuvant or post-treatment follow-up period (<a href=\"https://www.ema.europa.eu/en/documents/assessment-report/herzuma-epar-public-assessment-report_en.pdf\" target=\"_blank\">EMA Assessment Report. Herzuma. December 2017</a>).</p><p><span style=\"color: windowtext;\">1.11.</span><span style=\"color: windowtext; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered a randomised double-blind equivalence trial that investigated the safety and efficacy of switching patients with HER2-positive early breast cancer from reference trastuzumab to the biosimilar trastuzumab ABP 980, after neoadjuvant treatment with the reference product (<a href=\"https://www.ncbi.nlm.nih.gov/pubmed/29880292\" target=\"_blank\">von Minckwitz et al. Lancet Oncol. 2018;19:987-98</a>). The Committee noted the conclusion of the study, which was that the lower bounds of the 90% confidence intervals for the risk ratio and risk difference showed non-inferiority but that the upper bounds exceeded the predefined equivalence margins, meaning the analysis of non-superiority was inconclusive. The Committee noted that the reference trastuzumab product and ABP 980 had similar safety outcomes. The Committee noted there have been a number of switching studies between biosimilar formulations of rituximab.</p><p><span style=\"color: windowtext;\">1.12.</span><span style=\"color: windowtext; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that there is limited switching data available at this time specifically for CT-P6, and none relevant to breast cancer. The Committee also considered that there is no data available for the use of biosimilar trastuzumab in combination with other monoclonal antibody therapies e.g. pertuzumab, or for sequencing of therapies following biosimilar trastuzumab.</p><p><span style=\"color: windowtext;\">1.13.</span><span style=\"color: windowtext; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that that there are a number of biosimilar trastuzumab products undergoing regulatory approval internationally. The Committee noted that CT-P6 is the only biosimilar trastuzumab currently approved by Medsafe, but that there are two others currently under review.</p><p><span style=\"color: windowtext;\">1.14.</span><span style=\"color: windowtext; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that if CT-P6 or another biosimilar trastuzumab were to be funded, that there should be only one trastuzumab product listed on the Pharmaceutical Schedule to reduce the possibility of unmanaged switching, given the lack of biosimilar to biosimilar switching data available at this time. The Committee also considered that frequent switching between products is not desirable, and that the contract period for a listed product should be at least three years to minimise this (noting that this period exceeds the average duration of treatment for most patients, meaning the majority of patients would need to switch a maximum of once).</p><p>1.15.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that if CT-P6 or any other trastuzumab biosimilar were to be funded, that a managed transition period of six months would be appropriate, provided immunogenicity is monitored. </p><p><span style=\"color: windowtext;\">1.16.</span><span style=\"color: windowtext; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that the nocebo effect (i.e. a negative outcome occurring due to a belief that the intervention will cause harm via adverse effects or a perceived lack of treatment benefit) will be a concern with biosimilars in oncology, particularly in the metastatic setting where disease progression is inevitable and may be attributed to a biosimilar switch without good evidence. The Committee considered that the nocebo effect depends highly on prescriber-patient interaction, and this could be particularly important in oncology.</p><p><span style=\"color: windowtext;\">1.17.</span><span style=\"color: windowtext; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that in future, it would continue to be appropriate for clinical advice to be sought on biosimilar products prior to a funding decision being made.</p><p><span style=\"color: windowtext;\">1.18.</span><span style=\"color: windowtext; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee was generally supportive of biosimilars, and considered that these agents will play an increasingly important role in the oncology field. The Committee considered that the evidence available to date supports biosimilarity between CT-P6 and the reference trastuzumab product and that there is no evidence of any safety concerns. </p><p><span style=\"color: windowtext;\">1.19.</span><span style=\"color: windowtext; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that if CT-P6 or another biosimilar trastuzumab were to be funded, that it should be listed through a sole-supply process with a transition period of six months.\u00a0</p>",
+          "fs": "<p><span style=\"color: windowtext;\">1.1.</span><span style=\"color: windowtext; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that the application for CT-P6 (Herzuma) requested funding for the treatment of early breast cancer, metastatic breast cancer, and gastric cancer, subject to patent expiry. </p><p><span style=\"color: windowtext;\">1.2.</span><span style=\"color: windowtext; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that the intravenous preparation of the trastuzumab reference product (Herceptin) has been listed on the Pharmaceutical Schedule since 2005 and is currently funded in New Zealand for HER2-positive early and metastatic breast cancer.</p><p><span style=\"color: windowtext;\">1.3.</span><span style=\"color: windowtext; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that an application for intravenous trastuzumab for the treatment of HER2-positive advanced gastric cancer was recommended for decline by CaTSoP and PTAC in 2011 (PHARMAC application tracker: <a href=\"https://www.pharmac.govt.nz/wwwtrs/ApplicationTracker.php?ProposalId=428\" target=\"_blank\">trastuzumab for gastric cancer</a>). The Committee noted that PHARMAC made a decision to decline this application in <a href=\"https://www.pharmac.govt.nz/news/notification-2019-07-22-inactive-applications/\" target=\"_blank\">July 2019</a>. The Committee therefore considered that in the absence of new evidence relevant to gastric cancer, that the application for CT-P6 would be considered only for HER2-positive early and metastatic breast cancers.</p><p><span style=\"color: windowtext;\">1.4.</span><span style=\"color: windowtext; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that biosimilars are likely to play an important role in the field of oncology in the future, and that uptake will be dependent on clinician and patient confidence in regulatory processes and appropriate education. </p><p><span style=\"color: windowtext;\">1.5.</span><span style=\"color: windowtext; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that both the European Society for Medical Oncology and the American Society of Clinical Oncology have released position statements in support of biosimilar use in oncology (<a href=\"https://www.ncbi.nlm.nih.gov/pubmed/28848668\" target=\"_blank\" style=\"color: windowtext;\">Tabernero et al. ESMO Open. 2017;16:e000142</a>; <a href=\"https://www.ncbi.nlm.nih.gov/pubmed/29443651\" target=\"_blank\" style=\"color: windowtext;\">Lyman et al. J Clin Oncol. 2018;36:1260-5</a>).</p><p><span style=\"color: windowtext;\">1.6.</span><span style=\"color: windowtext; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that while the active biologic substance of a biosimilar is essentially the same as the innovator product, there can be minor differences in post-translational modification e.g. glycosylation, and quaternary structure due to molecular folding. However, the Committee considered there is also variation in the innovator product over time due to changes in manufacturing processes. </p><p><span style=\"color: windowtext;\">1.7.</span><span style=\"color: windowtext; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that CT-P6 has been approved by the EMA for use in the European Union, by the FDA for use in the United States, and by Medsafe for use in New Zealand for all the indications of the reference trastuzumab product. The Committee noted the comprehensive international regulatory processes regarding the safety and efficacy of biosimilars. </p><p><span style=\"color: windowtext;\">1.8.</span><span style=\"color: windowtext; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that the clinical development program for CT-P6 includes two un-published Phase 1 trials (Study CT-P6 1.5 and Study CT-P6 1.4) and one Phase 3 trial (Study CT-P6 3.2). </p><p><span style=\"color: windowtext;\">1.9.</span><span style=\"color: windowtext; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted the two randomised, double-blind, controlled, single-dose Phase 1 studies conducted to investigate CT-P6: a pivotal pharmacokinetic study in health subjects (Study CT-P6 1.5), and a pilot study evaluating initial safety and pharmacokinetics in healthy subjects (Study CT-P6 1.4). The Committee noted that the results of these studies are unpublished, but that there is a summary available in the European Medicines Agency Assessment report for CT-P6 (<a href=\"https://www.ema.europa.eu/en/documents/assessment-report/herzuma-epar-public-assessment-report_en.pdf\" target=\"_blank\">EMA Assessment Report. Herzuma. December 2017</a>). The Committee considered that the results of these studies support the biosimilarity of CT-P6 with the reference trastuzumab product, from a pharmacokinetic perspective.</p><p><span style=\"color: windowtext;\">1.10.</span><span style=\"color: windowtext; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted the randomised, double-blind, active-controlled, Phase 3 trial that aimed to establish the equivalence of CT-P6 and reference trastuzumab (Herceptin) in the treatment of 549 patients with HER2-positive early-stage breast cancer (Study CT-P6 3.2; <a href=\"https://www.ncbi.nlm.nih.gov/pubmed/28592386\" target=\"_blank\">Stebbing et al. Lancet Oncol. 2017;18:917-28</a>). The Committee noted that the primary endpoint was pathological complete response (pCR) at the time of definitive surgery (following 24 weeks of neoadjuvant trastuzumab), and that pharmacokinetic, pharmacodynamic, and safety data were also collected. The Committee noted that regulators, including in Europe and the United States, have accepted pCR as a surrogate endpoint for efficacy, albeit the evidence appeared mixed on whether pCR is truly predictive of event-free survival and/or overall survival. The Committee also noted that it is unlikely that survival data will be forthcoming as it is not mandated for biosimilars approval.</p><p>1.10.1.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that Stebbing et al. (2017) reported that 116 of 248 (46.8%) patients receiving CT\u2011P6 achieved pCR compared with 129 of 256 (50.4%) patients receiving reference trastuzumab, and that the 95% confidence interval of the estimated treatment outcome difference was within the equivalence margin of -0.15 to 0.15 (outcome difference -0.04%; 95% CI -0.12 to 0.05). The Committee considered that the results from the secondary endpoints at the end of the neoadjuvant period were similar between the treatment groups.</p><p>1.10.2.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that the safety profiles of CT-P6 and reference trastuzumab reported by Stebbing et al. (2017) were similar; treatment-emergent adverse events were reported in 19 of 271 (7%) patients receiving CT-P6 and 22 of 278 (8%) patients receiving reference trastuzumab, and serious adverse events included febrile neutropenia (4 [1%] CT-P6 vs 1 [&lt;1%] reference trastuzumab) and neutropenia (1 [&lt;1%] CT-P6 vs 2 [1%] reference trastuzumab).</p><p>1.10.3.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that Stebbing et al (2017) reported that there were no notable differences in pharmacokinetic endpoints between the treatment groups at any cycle in the neoadjuvant period. The Committee noted that the EMA Assessment report provided further details on the pharmacokinetic findings from the Phase 3 trial, including a discussion of unexpected findings that were subsequently attributed to the assay platform used.</p><p>1.10.4.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that antidrug antibodies can develop as a result of exposure to a drug, and that the biological role of these is unclear (antidrug antibodies can be neutralising, immunogenic, or present with no discernible effect). The Committee noted that 12 patients in the Phase 3 trial were antidrug antibody positive at baseline (all neutralising antibody negative), but that no patients were positive for antidrug antibodies in the adjuvant or post-treatment follow-up period (<a href=\"https://www.ema.europa.eu/en/documents/assessment-report/herzuma-epar-public-assessment-report_en.pdf\" target=\"_blank\">EMA Assessment Report. Herzuma. December 2017</a>).</p><p><span style=\"color: windowtext;\">1.11.</span><span style=\"color: windowtext; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered a randomised double-blind equivalence trial that investigated the safety and efficacy of switching patients with HER2-positive early breast cancer from reference trastuzumab to the biosimilar trastuzumab ABP 980, after neoadjuvant treatment with the reference product (<a href=\"https://www.ncbi.nlm.nih.gov/pubmed/29880292\" target=\"_blank\">von Minckwitz et al. Lancet Oncol. 2018;19:987-98</a>). The Committee noted the conclusion of the study, which was that the lower bounds of the 90% confidence intervals for the risk ratio and risk difference showed non-inferiority but that the upper bounds exceeded the predefined equivalence margins, meaning the analysis of non-superiority was inconclusive. The Committee noted that the reference trastuzumab product and ABP 980 had similar safety outcomes. The Committee noted there have been a number of switching studies between biosimilar formulations of rituximab.</p><p><span style=\"color: windowtext;\">1.12.</span><span style=\"color: windowtext; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that there is limited switching data available at this time specifically for CT-P6, and none relevant to breast cancer. The Committee also considered that there is no data available for the use of biosimilar trastuzumab in combination with other monoclonal antibody therapies e.g. pertuzumab, or for sequencing of therapies following biosimilar trastuzumab.</p><p><span style=\"color: windowtext;\">1.13.</span><span style=\"color: windowtext; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that that there are a number of biosimilar trastuzumab products undergoing regulatory approval internationally. The Committee noted that CT-P6 is the only biosimilar trastuzumab currently approved by Medsafe, but that there are two others currently under review.</p><p><span style=\"color: windowtext;\">1.14.</span><span style=\"color: windowtext; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that if CT-P6 or another biosimilar trastuzumab were to be funded, that there should be only one trastuzumab product listed on the Pharmaceutical Schedule to reduce the possibility of unmanaged switching, given the lack of biosimilar to biosimilar switching data available at this time. The Committee also considered that frequent switching between products is not desirable, and that the contract period for a listed product should be at least three years to minimise this (noting that this period exceeds the average duration of treatment for most patients, meaning the majority of patients would need to switch a maximum of once).</p><p>1.15.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that if CT-P6 or any other trastuzumab biosimilar were to be funded, that a managed transition period of six months would be appropriate, provided immunogenicity is monitored. </p><p><span style=\"color: windowtext;\">1.16.</span><span style=\"color: windowtext; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that the nocebo effect (i.e. a negative outcome occurring due to a belief that the intervention will cause harm via adverse effects or a perceived lack of treatment benefit) will be a concern with biosimilars in oncology, particularly in the metastatic setting where disease progression is inevitable and may be attributed to a biosimilar switch without good evidence. The Committee considered that the nocebo effect depends highly on prescriber-patient interaction, and this could be particularly important in oncology.</p><p><span style=\"color: windowtext;\">1.17.</span><span style=\"color: windowtext; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that in future, it would continue to be appropriate for clinical advice to be sought on biosimilar products prior to a funding decision being made.</p><p><span style=\"color: windowtext;\">1.18.</span><span style=\"color: windowtext; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee was generally supportive of biosimilars, and considered that these agents will play an increasingly important role in the oncology field. The Committee considered that the evidence available to date supports biosimilarity between CT-P6 and the reference trastuzumab product and that there is no evidence of any safety concerns. </p><p><span style=\"color: windowtext;\">1.19.</span><span style=\"color: windowtext; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that if CT-P6 or another biosimilar trastuzumab were to be funded, that it should be listed through a sole-supply process with a transition period of six months.\u00a0</p>",
+          "change": null
+        },
+        "Published_Application": {
+          "s": "<p>1.1.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee reviewed an application for CT-P6, a biosimilar trastuzumab, for use in multiple indications (early breast cancer, metastatic breast cancer, and gastric cancer). </p><p>1.2.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee took into account, where applicable, PHARMAC\u2019s relevant decision-making framework when considering this agenda item.\u00a0</p>",
+          "fs": "<p>1.1.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee reviewed an application for CT-P6, a biosimilar trastuzumab, for use in multiple indications (early breast cancer, metastatic breast cancer, and gastric cancer). </p><p>1.2.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee took into account, where applicable, PHARMAC\u2019s relevant decision-making framework when considering this agenda item.\u00a0</p>",
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": "No Formal Recommendation",
+          "fs": "No Formal Recommendation",
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Aug 2019",
+          "fs": "Aug 2019",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Clinical advice received from Pharmacology and Therapeutics Advisory Committee (PTAC) at meeting Friday 23 August 2019.",
+          "fs": "Clinical advice received from Pharmacology and Therapeutics Advisory Committee (PTAC) at meeting Friday 23 August 2019.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ000000fzHI2AY"
+          },
+          "Id": "a0POZ000000fzHI2AY",
+          "Event_Date__c": "2019-08-23",
+          "Event_Description__c": "Clinical advice received from Pharmacology and Therapeutics Advisory Committee (PTAC) at meeting Friday 23 August 2019.",
+          "Stage__c": "Seeking Clinical Advice",
+          "Outcome__c": "No Formal Recommendation",
+          "Formatted_Date__c": "Aug 2019",
+          "Published_Recommendation__c": "<p><span style=\"color: windowtext;\">1.1.</span><span style=\"color: windowtext; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee recommended that PHARMAC could progress a competitive procurement process for trastuzumab and considered that a managed change to a single trastuzumab biosimilar product, such as CT-P6, would be clinically acceptable for the treatment of HER2-positive early breast cancer and HER2-positive metastatic breast cancer.</p><p>1.2.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee requested the Cancer Treatment Subcommittee of PTAC (CaTSoP) provide PHARMAC any advice on implementation issues.</p>",
+          "Published_Application__c": "<p>1.1.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee reviewed an application for CT-P6, a biosimilar trastuzumab, for use in multiple indications (early breast cancer, metastatic breast cancer, and gastric cancer). </p><p>1.2.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee took into account, where applicable, PHARMAC\u2019s relevant decision-making framework when considering this agenda item.\u00a0</p>",
+          "Published_Discussion__c": "<p><span style=\"color: windowtext;\">1.1.</span><span style=\"color: windowtext; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that the application for CT-P6 (Herzuma) requested funding for the treatment of early breast cancer, metastatic breast cancer, and gastric cancer, subject to patent expiry. </p><p><span style=\"color: windowtext;\">1.2.</span><span style=\"color: windowtext; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that the intravenous preparation of the trastuzumab reference product (Herceptin) has been listed on the Pharmaceutical Schedule since 2005 and is currently funded in New Zealand for HER2-positive early and metastatic breast cancer.</p><p><span style=\"color: windowtext;\">1.3.</span><span style=\"color: windowtext; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that an application for intravenous trastuzumab for the treatment of HER2-positive advanced gastric cancer was recommended for decline by CaTSoP and PTAC in 2011 (PHARMAC application tracker: <a href=\"https://www.pharmac.govt.nz/wwwtrs/ApplicationTracker.php?ProposalId=428\" target=\"_blank\">trastuzumab for gastric cancer</a>). The Committee noted that PHARMAC made a decision to decline this application in <a href=\"https://www.pharmac.govt.nz/news/notification-2019-07-22-inactive-applications/\" target=\"_blank\">July 2019</a>. The Committee therefore considered that in the absence of new evidence relevant to gastric cancer, that the application for CT-P6 would be considered only for HER2-positive early and metastatic breast cancers.</p><p><span style=\"color: windowtext;\">1.4.</span><span style=\"color: windowtext; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that biosimilars are likely to play an important role in the field of oncology in the future, and that uptake will be dependent on clinician and patient confidence in regulatory processes and appropriate education. </p><p><span style=\"color: windowtext;\">1.5.</span><span style=\"color: windowtext; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that both the European Society for Medical Oncology and the American Society of Clinical Oncology have released position statements in support of biosimilar use in oncology (<a href=\"https://www.ncbi.nlm.nih.gov/pubmed/28848668\" target=\"_blank\" style=\"color: windowtext;\">Tabernero et al. ESMO Open. 2017;16:e000142</a>; <a href=\"https://www.ncbi.nlm.nih.gov/pubmed/29443651\" target=\"_blank\" style=\"color: windowtext;\">Lyman et al. J Clin Oncol. 2018;36:1260-5</a>).</p><p><span style=\"color: windowtext;\">1.6.</span><span style=\"color: windowtext; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that while the active biologic substance of a biosimilar is essentially the same as the innovator product, there can be minor differences in post-translational modification e.g. glycosylation, and quaternary structure due to molecular folding. However, the Committee considered there is also variation in the innovator product over time due to changes in manufacturing processes. </p><p><span style=\"color: windowtext;\">1.7.</span><span style=\"color: windowtext; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that CT-P6 has been approved by the EMA for use in the European Union, by the FDA for use in the United States, and by Medsafe for use in New Zealand for all the indications of the reference trastuzumab product. The Committee noted the comprehensive international regulatory processes regarding the safety and efficacy of biosimilars. </p><p><span style=\"color: windowtext;\">1.8.</span><span style=\"color: windowtext; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that the clinical development program for CT-P6 includes two un-published Phase 1 trials (Study CT-P6 1.5 and Study CT-P6 1.4) and one Phase 3 trial (Study CT-P6 3.2). </p><p><span style=\"color: windowtext;\">1.9.</span><span style=\"color: windowtext; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted the two randomised, double-blind, controlled, single-dose Phase 1 studies conducted to investigate CT-P6: a pivotal pharmacokinetic study in health subjects (Study CT-P6 1.5), and a pilot study evaluating initial safety and pharmacokinetics in healthy subjects (Study CT-P6 1.4). The Committee noted that the results of these studies are unpublished, but that there is a summary available in the European Medicines Agency Assessment report for CT-P6 (<a href=\"https://www.ema.europa.eu/en/documents/assessment-report/herzuma-epar-public-assessment-report_en.pdf\" target=\"_blank\">EMA Assessment Report. Herzuma. December 2017</a>). The Committee considered that the results of these studies support the biosimilarity of CT-P6 with the reference trastuzumab product, from a pharmacokinetic perspective.</p><p><span style=\"color: windowtext;\">1.10.</span><span style=\"color: windowtext; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted the randomised, double-blind, active-controlled, Phase 3 trial that aimed to establish the equivalence of CT-P6 and reference trastuzumab (Herceptin) in the treatment of 549 patients with HER2-positive early-stage breast cancer (Study CT-P6 3.2; <a href=\"https://www.ncbi.nlm.nih.gov/pubmed/28592386\" target=\"_blank\">Stebbing et al. Lancet Oncol. 2017;18:917-28</a>). The Committee noted that the primary endpoint was pathological complete response (pCR) at the time of definitive surgery (following 24 weeks of neoadjuvant trastuzumab), and that pharmacokinetic, pharmacodynamic, and safety data were also collected. The Committee noted that regulators, including in Europe and the United States, have accepted pCR as a surrogate endpoint for efficacy, albeit the evidence appeared mixed on whether pCR is truly predictive of event-free survival and/or overall survival. The Committee also noted that it is unlikely that survival data will be forthcoming as it is not mandated for biosimilars approval.</p><p>1.10.1.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that Stebbing et al. (2017) reported that 116 of 248 (46.8%) patients receiving CT\u2011P6 achieved pCR compared with 129 of 256 (50.4%) patients receiving reference trastuzumab, and that the 95% confidence interval of the estimated treatment outcome difference was within the equivalence margin of -0.15 to 0.15 (outcome difference -0.04%; 95% CI -0.12 to 0.05). The Committee considered that the results from the secondary endpoints at the end of the neoadjuvant period were similar between the treatment groups.</p><p>1.10.2.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that the safety profiles of CT-P6 and reference trastuzumab reported by Stebbing et al. (2017) were similar; treatment-emergent adverse events were reported in 19 of 271 (7%) patients receiving CT-P6 and 22 of 278 (8%) patients receiving reference trastuzumab, and serious adverse events included febrile neutropenia (4 [1%] CT-P6 vs 1 [&lt;1%] reference trastuzumab) and neutropenia (1 [&lt;1%] CT-P6 vs 2 [1%] reference trastuzumab).</p><p>1.10.3.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that Stebbing et al (2017) reported that there were no notable differences in pharmacokinetic endpoints between the treatment groups at any cycle in the neoadjuvant period. The Committee noted that the EMA Assessment report provided further details on the pharmacokinetic findings from the Phase 3 trial, including a discussion of unexpected findings that were subsequently attributed to the assay platform used.</p><p>1.10.4.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that antidrug antibodies can develop as a result of exposure to a drug, and that the biological role of these is unclear (antidrug antibodies can be neutralising, immunogenic, or present with no discernible effect). The Committee noted that 12 patients in the Phase 3 trial were antidrug antibody positive at baseline (all neutralising antibody negative), but that no patients were positive for antidrug antibodies in the adjuvant or post-treatment follow-up period (<a href=\"https://www.ema.europa.eu/en/documents/assessment-report/herzuma-epar-public-assessment-report_en.pdf\" target=\"_blank\">EMA Assessment Report. Herzuma. December 2017</a>).</p><p><span style=\"color: windowtext;\">1.11.</span><span style=\"color: windowtext; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered a randomised double-blind equivalence trial that investigated the safety and efficacy of switching patients with HER2-positive early breast cancer from reference trastuzumab to the biosimilar trastuzumab ABP 980, after neoadjuvant treatment with the reference product (<a href=\"https://www.ncbi.nlm.nih.gov/pubmed/29880292\" target=\"_blank\">von Minckwitz et al. Lancet Oncol. 2018;19:987-98</a>). The Committee noted the conclusion of the study, which was that the lower bounds of the 90% confidence intervals for the risk ratio and risk difference showed non-inferiority but that the upper bounds exceeded the predefined equivalence margins, meaning the analysis of non-superiority was inconclusive. The Committee noted that the reference trastuzumab product and ABP 980 had similar safety outcomes. The Committee noted there have been a number of switching studies between biosimilar formulations of rituximab.</p><p><span style=\"color: windowtext;\">1.12.</span><span style=\"color: windowtext; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that there is limited switching data available at this time specifically for CT-P6, and none relevant to breast cancer. The Committee also considered that there is no data available for the use of biosimilar trastuzumab in combination with other monoclonal antibody therapies e.g. pertuzumab, or for sequencing of therapies following biosimilar trastuzumab.</p><p><span style=\"color: windowtext;\">1.13.</span><span style=\"color: windowtext; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that that there are a number of biosimilar trastuzumab products undergoing regulatory approval internationally. The Committee noted that CT-P6 is the only biosimilar trastuzumab currently approved by Medsafe, but that there are two others currently under review.</p><p><span style=\"color: windowtext;\">1.14.</span><span style=\"color: windowtext; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that if CT-P6 or another biosimilar trastuzumab were to be funded, that there should be only one trastuzumab product listed on the Pharmaceutical Schedule to reduce the possibility of unmanaged switching, given the lack of biosimilar to biosimilar switching data available at this time. The Committee also considered that frequent switching between products is not desirable, and that the contract period for a listed product should be at least three years to minimise this (noting that this period exceeds the average duration of treatment for most patients, meaning the majority of patients would need to switch a maximum of once).</p><p>1.15.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that if CT-P6 or any other trastuzumab biosimilar were to be funded, that a managed transition period of six months would be appropriate, provided immunogenicity is monitored. </p><p><span style=\"color: windowtext;\">1.16.</span><span style=\"color: windowtext; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that the nocebo effect (i.e. a negative outcome occurring due to a belief that the intervention will cause harm via adverse effects or a perceived lack of treatment benefit) will be a concern with biosimilars in oncology, particularly in the metastatic setting where disease progression is inevitable and may be attributed to a biosimilar switch without good evidence. The Committee considered that the nocebo effect depends highly on prescriber-patient interaction, and this could be particularly important in oncology.</p><p><span style=\"color: windowtext;\">1.17.</span><span style=\"color: windowtext; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that in future, it would continue to be appropriate for clinical advice to be sought on biosimilar products prior to a funding decision being made.</p><p><span style=\"color: windowtext;\">1.18.</span><span style=\"color: windowtext; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee was generally supportive of biosimilars, and considered that these agents will play an increasingly important role in the oncology field. The Committee considered that the evidence available to date supports biosimilarity between CT-P6 and the reference trastuzumab product and that there is no evidence of any safety concerns. </p><p><span style=\"color: windowtext;\">1.19.</span><span style=\"color: windowtext; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that if CT-P6 or another biosimilar trastuzumab were to be funded, that it should be listed through a sole-supply process with a transition period of six months.\u00a0</p>",
+          "Status_History__c": "a132P000000BAYnQAO"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": "<p><span style=\"color: black;\">1.1.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee considered that there is no evidence to suggest any differences in the health benefits or risks between reference and biosimilar trastuzumab, and <b>recommended</b> it was clinically acceptable for a biosimilar trastuzumab, such as CT-P6, to be listed and be the only available trastuzumab product for all funded indications, if the cost saving is worthwhile and supply is secured.</p><p><span style=\"color: black;\">1.2.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee supported a competitive process and <b>recommended</b> that PHARMAC bring any other biosimilar trastuzumab options to CaTSoP, when available in future, for review. The Subcommittee noted that there is sufficient evidence of biosimilarity to reference trastuzumab (Herceptin) and considered that interchangeability or switch data should be reviewed if available in future.\u00a0</p>",
+          "fs": "<p><span style=\"color: black;\">1.1.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee considered that there is no evidence to suggest any differences in the health benefits or risks between reference and biosimilar trastuzumab, and <b>recommended</b> it was clinically acceptable for a biosimilar trastuzumab, such as CT-P6, to be listed and be the only available trastuzumab product for all funded indications, if the cost saving is worthwhile and supply is secured.</p><p><span style=\"color: black;\">1.2.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee supported a competitive process and <b>recommended</b> that PHARMAC bring any other biosimilar trastuzumab options to CaTSoP, when available in future, for review. The Subcommittee noted that there is sufficient evidence of biosimilarity to reference trastuzumab (Herceptin) and considered that interchangeability or switch data should be reviewed if available in future.\u00a0</p>",
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": "<p><span style=\"color: black;\">1.1.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that in <a href=\"https://www.pharmac.govt.nz/assets/ptac-minutes-2019-08.pdf\" target=\"_blank\">August 2019</a>, PTAC reviewed an application for CT-P6, a biosimilar trastuzumab, for use in multiple indications (early breast cancer, metastatic breast cancer, and gastric cancer). </p><p><span style=\"color: black;\">1.2.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that PTAC recommended that PHARMAC could progress a competitive procurement process for trastuzumab and considered that a managed change to a single trastuzumab biosimilar product, such as CT-P6, would be clinically acceptable for the treatment of HER2-positive early breast cancer and HER2-positive metastatic breast cancer.</p><p><span style=\"color: black;\">1.3.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that PTAC requested the Cancer Treatment Subcommittee of PTAC (CaTSoP) provide PHARMAC any advice on implementation issues. </p><p><span style=\"color: black;\">1.4.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that CT-P6 is a humanised monoclonal antibody that selectively binds with high affinity to HER2, that trastuzumab products have been shown to inhibit proliferation and mediate antibody-dependent cellular toxicity in tumour cells that overexpress HER2, and that in vitro analysis has confirmed that CT-P6 functions in a manner similar to reference trastuzumab (Herceptin) (<a href=\"https://www.ncbi.nlm.nih.gov/pubmed/30541352\" target=\"_blank\">Jeong et al. Expert Opin Biol Ther. 2019;19:1085-95</a>).</p><p><span style=\"color: black;\">1.5.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that the application for CT-P6 (Herzuma) requested funding for trastuzumab for the treatment of early breast cancer, metastatic breast cancer, and gastric cancer, subject to patent expiry. The Subcommittee also noted that PTAC considered that, in the absence of new evidence relevant to gastric cancer, the application for CT-P6 would be considered only for HER2-positive early and metastatic breast cancers. </p><p><span style=\"color: black;\">1.6.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that the intravenous preparation of the trastuzumab reference product has been listed on the Pharmaceutical Schedule since 2005 and is currently funded in New Zealand for HER2-positive early and metastatic breast cancer. Members considered that patients who receive neoadjuvant treatment for breast cancer are a relatively homogenous group, however, patients with metastatic breast cancer are a heterogenous group whose drug resistance mechanisms may have been altered by prior anticancer treatment regimens.</p><p><span style=\"color: black;\">1.7.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that CT-P6 has been approved by the EMA for use in the European Union, by the FDA for use in the United States, and by Medsafe for use in New Zealand for all the indications of the reference trastuzumab product. The Subcommittee noted that the Medsafe approval for CT-P6 includes use in combination with a taxane for patients who have not received chemotherapy for metastatic disease. Members also considered vinorelbine in combination was a suitable and effective alternative to combine with a taxane, as occurs with reference trastuzumab (although use of reference trastuzumab or CT-P6 in combination with vinorelbine is not Medsafe-approved for this indication).</p><p><span style=\"color: black;\">1.8.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that biosimilars are rigorously investigated for risks of reactions and to assess immunogenicity. The Subcommittee noted that investigation of pharmacokinetics (PK), pharmacodynamics (PD), antidrug antibodies, safety and efficacy are required to assess clinical efficacy in appropriate populations and to establish biosimilarity with the reference product. </p><p><span style=\"color: black;\">1.9.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee considered the non-clinical evidence was comprehensive and supported biosimilarity between CT-P6 and reference trastuzumab:</p><p><span style=\"color: black;\">1.10.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted data from a 3-way similarity study with an extensive comparative analysis of primary, secondary and tertiary structure, glycan profiles and of post-translational modifications, and considered that the molecular characteristics of CT-P6 demonstrated no significant differences between the biosimilar and reference trastuzumab (<a href=\"https://www.ncbi.nlm.nih.gov/pubmed/29482416\" target=\"_blank\">Lee et al. MAbs. 2018;10:547-71</a>).</p><p><span style=\"color: black;\">1.11.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>Members noted that non-clinical PD data for CT-P6 demonstrated very similar blocking of HER2 cleavage and subsequent HER-2 down-regulation compared with reference trastuzumab (<a href=\"https://www.ema.europa.eu/en/documents/assessment-report/herzuma-epar-public-assessment-report_en.pdf\" target=\"_blank\">Herzuma Assessment report. European Medicines Agency [EMA], 2017</a>).</p><p><span style=\"color: black;\">1.12.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee considered that the safety data from the phase I clinical trials in healthy subjects were similar and presented no concerns. </p><p><span style=\"color: black;\">1.13.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted the results of the phase III, randomised, double-blind, active-controlled, CT-P6 3.2 equivalence trial which investigated 8 cycles of neoadjuvant CT-P6 or reference trastuzumab (with neoadjuvant chemotherapy), then surgery, followed by adjuvant CT-P6 or reference trastuzumab for a total of 1 year of treatment in 549 women with stage I-IIIa operable HER2-positive breast cancer (<a href=\"https://www.ncbi.nlm.nih.gov/pubmed/28592386\" target=\"_blank\">Stebbing et al. Lancet Oncol. 2017;18:917-28</a>). </p><p><span style=\"color: black;\">1.14.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee considered that the CT-P6 3.2 trial patient characteristics were well balanced between groups, that patients had good baseline left ventricular ejection fraction (LVEF) and that staging was slightly higher in the CT-P6 arm. The Subcommittee considered that these factors were not sufficient to impact the clinical trial outcomes. </p><p><span style=\"color: black;\">1.15.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that the primary outcome of the CT-P6 3.2 trial was pathological complete response (pCR) after surgery, and that this excluded ductal carcinoma in situ (DCIS). The Subcommittee noted that after 19.5 months of follow up the pCR rate was 46.8% with CT-P6 compared to 50.4% with reference trastuzumab. The Subcommittee noted that the pCR with CT-P6 was within the prespecified equivalence margin of \u00b115% from the expected pCR of 54%, therefore demonstrating equivalence according to this definition.</p><p><span style=\"color: black;\">1.16.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted the safety data from the CT-P6 3.2 trial was broadly similar between CT-P6 and reference trastuzumab. The Subcommittee considered that there were similar frequencies of treatment-emergent adverse events in each group, and comparable immunogenicity with no differences in the frequency of infusion reactions or anti-drug antibodies. The Subcommittee noted that there were no significant differences in LVEF change.</p><p><span style=\"color: black;\">1.17.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>Members considered the possibility of an interaction between pertuzumab and biosimilar trastuzumab, which bind to different subdomains of the HER2 receptor and therefore do not directly interact. Members considered that as CT-P6 binds to the same epitope on subdomain IV of the HER2 receptor as reference trastuzumab, it is unlikely there would be an interaction between CT-P6 and pertuzumab which binds to subdomain II. Members considered CT-P6 would provide the same benefit that would be expected as for reference trastuzumab.</p><p><span style=\"color: black;\">1.18.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee considered that the efficacy and safety data supported the biosimilarity of CT-P6 compared with reference trastuzumab.</p><p><span style=\"color: black;\">1.19.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee considered that a change to a biosimilar trastuzumab as a result of a competitive procurement process would be unlikely to have any impact on health benefits or risks for patients who would receive treatment with reference trastuzumab, due to comprehensive testing already being done to assess risks and benefits. The Subcommittee considered that it was clinically acceptable for a biosimilar trastuzumab to be listed and be the only available trastuzumab product for all funded indications if the cost saving is worthwhile and supply is secured. The Subcommittee supported a competitive process and recommended that PHARMAC bring any other biosimilar trastuzumab options that are proposed for funding to CaTSoP, when available in future, for review. </p><p><span style=\"color: black;\">1.20.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee considered that the evidence for biosimilarity of CT-P6 and reference trastuzumab demonstrated that similarity was established. The Subcommittee considered that interchangeability (for which there are different regulatory definitions used in Europe and the USA) still remained unconfirmed and that there is limited real-world data regarding switching from one trastuzumab product to another, or multiple changes between trastuzumab products over time. The Subcommittee considered that interchangeability data would be desirable and should be reviewed in future, if such data becomes available.</p><p><span style=\"color: black;\">1.21.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee considered that they had no concerns and did not identify any specific risks associated with changing existing patients who have commenced on a treatment course of reference trastuzumab to biosimilar trastuzumab, whether these were patients with early breast cancer who would receive a 9 week or 12 month course, or patients with metastatic breast cancer who would be treated until disease progression. The Subcommittee considered that, for patients who were responding well to reference trastuzumab and then change to biosimilar trastuzumab, it may be difficult to ascertain whether any subsequent loss of response was due to the change or due to natural progression of the disease. Members noted that any change would be closely managed and supported by treating clinicians and hospital pharmacists. </p><p><span style=\"color: black;\">1.22.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted a 6-month transition period has been proposed by PHARMAC. The Subcommittee considered that it would be clinically acceptable to change trastuzumab products during a patient\u2019s treatment course if they have more than 6 months\u2019 Herceptin treatment remaining. The Subcommittee noted that during the transition period, Herceptin would remain funded as per Special Authority current criteria and that patients with less than 6 months\u2019 Herceptin treatment remaining would not be required to transition.</p><p><span style=\"color: black;\">1.23.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee considered that it would be important to establish confidence for prescribers and other groups regarding biosimilar trastuzumab in order to support implementation of a biosimilar. The Subcommittee considered that the minor batch-to-batch variation of reference trastuzumab in 2019 compared with trastuzumab in 2015 was relevant for comparative purposes, and similar data may be helpful for clinician education. Members considered it would also be useful to have patient outcome data available to support and assess the impact of any change.\u00a0</p>",
+          "fs": "<p><span style=\"color: black;\">1.1.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that in <a href=\"https://www.pharmac.govt.nz/assets/ptac-minutes-2019-08.pdf\" target=\"_blank\">August 2019</a>, PTAC reviewed an application for CT-P6, a biosimilar trastuzumab, for use in multiple indications (early breast cancer, metastatic breast cancer, and gastric cancer). </p><p><span style=\"color: black;\">1.2.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that PTAC recommended that PHARMAC could progress a competitive procurement process for trastuzumab and considered that a managed change to a single trastuzumab biosimilar product, such as CT-P6, would be clinically acceptable for the treatment of HER2-positive early breast cancer and HER2-positive metastatic breast cancer.</p><p><span style=\"color: black;\">1.3.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that PTAC requested the Cancer Treatment Subcommittee of PTAC (CaTSoP) provide PHARMAC any advice on implementation issues. </p><p><span style=\"color: black;\">1.4.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that CT-P6 is a humanised monoclonal antibody that selectively binds with high affinity to HER2, that trastuzumab products have been shown to inhibit proliferation and mediate antibody-dependent cellular toxicity in tumour cells that overexpress HER2, and that in vitro analysis has confirmed that CT-P6 functions in a manner similar to reference trastuzumab (Herceptin) (<a href=\"https://www.ncbi.nlm.nih.gov/pubmed/30541352\" target=\"_blank\">Jeong et al. Expert Opin Biol Ther. 2019;19:1085-95</a>).</p><p><span style=\"color: black;\">1.5.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that the application for CT-P6 (Herzuma) requested funding for trastuzumab for the treatment of early breast cancer, metastatic breast cancer, and gastric cancer, subject to patent expiry. The Subcommittee also noted that PTAC considered that, in the absence of new evidence relevant to gastric cancer, the application for CT-P6 would be considered only for HER2-positive early and metastatic breast cancers. </p><p><span style=\"color: black;\">1.6.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that the intravenous preparation of the trastuzumab reference product has been listed on the Pharmaceutical Schedule since 2005 and is currently funded in New Zealand for HER2-positive early and metastatic breast cancer. Members considered that patients who receive neoadjuvant treatment for breast cancer are a relatively homogenous group, however, patients with metastatic breast cancer are a heterogenous group whose drug resistance mechanisms may have been altered by prior anticancer treatment regimens.</p><p><span style=\"color: black;\">1.7.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that CT-P6 has been approved by the EMA for use in the European Union, by the FDA for use in the United States, and by Medsafe for use in New Zealand for all the indications of the reference trastuzumab product. The Subcommittee noted that the Medsafe approval for CT-P6 includes use in combination with a taxane for patients who have not received chemotherapy for metastatic disease. Members also considered vinorelbine in combination was a suitable and effective alternative to combine with a taxane, as occurs with reference trastuzumab (although use of reference trastuzumab or CT-P6 in combination with vinorelbine is not Medsafe-approved for this indication).</p><p><span style=\"color: black;\">1.8.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that biosimilars are rigorously investigated for risks of reactions and to assess immunogenicity. The Subcommittee noted that investigation of pharmacokinetics (PK), pharmacodynamics (PD), antidrug antibodies, safety and efficacy are required to assess clinical efficacy in appropriate populations and to establish biosimilarity with the reference product. </p><p><span style=\"color: black;\">1.9.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee considered the non-clinical evidence was comprehensive and supported biosimilarity between CT-P6 and reference trastuzumab:</p><p><span style=\"color: black;\">1.10.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted data from a 3-way similarity study with an extensive comparative analysis of primary, secondary and tertiary structure, glycan profiles and of post-translational modifications, and considered that the molecular characteristics of CT-P6 demonstrated no significant differences between the biosimilar and reference trastuzumab (<a href=\"https://www.ncbi.nlm.nih.gov/pubmed/29482416\" target=\"_blank\">Lee et al. MAbs. 2018;10:547-71</a>).</p><p><span style=\"color: black;\">1.11.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>Members noted that non-clinical PD data for CT-P6 demonstrated very similar blocking of HER2 cleavage and subsequent HER-2 down-regulation compared with reference trastuzumab (<a href=\"https://www.ema.europa.eu/en/documents/assessment-report/herzuma-epar-public-assessment-report_en.pdf\" target=\"_blank\">Herzuma Assessment report. European Medicines Agency [EMA], 2017</a>).</p><p><span style=\"color: black;\">1.12.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee considered that the safety data from the phase I clinical trials in healthy subjects were similar and presented no concerns. </p><p><span style=\"color: black;\">1.13.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted the results of the phase III, randomised, double-blind, active-controlled, CT-P6 3.2 equivalence trial which investigated 8 cycles of neoadjuvant CT-P6 or reference trastuzumab (with neoadjuvant chemotherapy), then surgery, followed by adjuvant CT-P6 or reference trastuzumab for a total of 1 year of treatment in 549 women with stage I-IIIa operable HER2-positive breast cancer (<a href=\"https://www.ncbi.nlm.nih.gov/pubmed/28592386\" target=\"_blank\">Stebbing et al. Lancet Oncol. 2017;18:917-28</a>). </p><p><span style=\"color: black;\">1.14.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee considered that the CT-P6 3.2 trial patient characteristics were well balanced between groups, that patients had good baseline left ventricular ejection fraction (LVEF) and that staging was slightly higher in the CT-P6 arm. The Subcommittee considered that these factors were not sufficient to impact the clinical trial outcomes. </p><p><span style=\"color: black;\">1.15.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that the primary outcome of the CT-P6 3.2 trial was pathological complete response (pCR) after surgery, and that this excluded ductal carcinoma in situ (DCIS). The Subcommittee noted that after 19.5 months of follow up the pCR rate was 46.8% with CT-P6 compared to 50.4% with reference trastuzumab. The Subcommittee noted that the pCR with CT-P6 was within the prespecified equivalence margin of \u00b115% from the expected pCR of 54%, therefore demonstrating equivalence according to this definition.</p><p><span style=\"color: black;\">1.16.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted the safety data from the CT-P6 3.2 trial was broadly similar between CT-P6 and reference trastuzumab. The Subcommittee considered that there were similar frequencies of treatment-emergent adverse events in each group, and comparable immunogenicity with no differences in the frequency of infusion reactions or anti-drug antibodies. The Subcommittee noted that there were no significant differences in LVEF change.</p><p><span style=\"color: black;\">1.17.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>Members considered the possibility of an interaction between pertuzumab and biosimilar trastuzumab, which bind to different subdomains of the HER2 receptor and therefore do not directly interact. Members considered that as CT-P6 binds to the same epitope on subdomain IV of the HER2 receptor as reference trastuzumab, it is unlikely there would be an interaction between CT-P6 and pertuzumab which binds to subdomain II. Members considered CT-P6 would provide the same benefit that would be expected as for reference trastuzumab.</p><p><span style=\"color: black;\">1.18.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee considered that the efficacy and safety data supported the biosimilarity of CT-P6 compared with reference trastuzumab.</p><p><span style=\"color: black;\">1.19.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee considered that a change to a biosimilar trastuzumab as a result of a competitive procurement process would be unlikely to have any impact on health benefits or risks for patients who would receive treatment with reference trastuzumab, due to comprehensive testing already being done to assess risks and benefits. The Subcommittee considered that it was clinically acceptable for a biosimilar trastuzumab to be listed and be the only available trastuzumab product for all funded indications if the cost saving is worthwhile and supply is secured. The Subcommittee supported a competitive process and recommended that PHARMAC bring any other biosimilar trastuzumab options that are proposed for funding to CaTSoP, when available in future, for review. </p><p><span style=\"color: black;\">1.20.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee considered that the evidence for biosimilarity of CT-P6 and reference trastuzumab demonstrated that similarity was established. The Subcommittee considered that interchangeability (for which there are different regulatory definitions used in Europe and the USA) still remained unconfirmed and that there is limited real-world data regarding switching from one trastuzumab product to another, or multiple changes between trastuzumab products over time. The Subcommittee considered that interchangeability data would be desirable and should be reviewed in future, if such data becomes available.</p><p><span style=\"color: black;\">1.21.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee considered that they had no concerns and did not identify any specific risks associated with changing existing patients who have commenced on a treatment course of reference trastuzumab to biosimilar trastuzumab, whether these were patients with early breast cancer who would receive a 9 week or 12 month course, or patients with metastatic breast cancer who would be treated until disease progression. The Subcommittee considered that, for patients who were responding well to reference trastuzumab and then change to biosimilar trastuzumab, it may be difficult to ascertain whether any subsequent loss of response was due to the change or due to natural progression of the disease. Members noted that any change would be closely managed and supported by treating clinicians and hospital pharmacists. </p><p><span style=\"color: black;\">1.22.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted a 6-month transition period has been proposed by PHARMAC. The Subcommittee considered that it would be clinically acceptable to change trastuzumab products during a patient\u2019s treatment course if they have more than 6 months\u2019 Herceptin treatment remaining. The Subcommittee noted that during the transition period, Herceptin would remain funded as per Special Authority current criteria and that patients with less than 6 months\u2019 Herceptin treatment remaining would not be required to transition.</p><p><span style=\"color: black;\">1.23.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee considered that it would be important to establish confidence for prescribers and other groups regarding biosimilar trastuzumab in order to support implementation of a biosimilar. The Subcommittee considered that the minor batch-to-batch variation of reference trastuzumab in 2019 compared with trastuzumab in 2015 was relevant for comparative purposes, and similar data may be helpful for clinician education. Members considered it would also be useful to have patient outcome data available to support and assess the impact of any change.\u00a0</p>",
+          "change": null
+        },
+        "Published_Application": {
+          "s": "<p><span style=\"color: black;\">1.1.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee reviewed an application from Celltrion Healthcare New Zealand Limited for CT-P6, a biosimilar trastuzumab, for use in multiple indications (early breast cancer, metastatic breast cancer, and gastric cancer).</p><p><span style=\"color: black;\">1.2.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee took into account, where applicable, PHARMAC\u2019s relevant decision-making framework when considering this agenda item.</p>",
+          "fs": "<p><span style=\"color: black;\">1.1.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee reviewed an application from Celltrion Healthcare New Zealand Limited for CT-P6, a biosimilar trastuzumab, for use in multiple indications (early breast cancer, metastatic breast cancer, and gastric cancer).</p><p><span style=\"color: black;\">1.2.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee took into account, where applicable, PHARMAC\u2019s relevant decision-making framework when considering this agenda item.</p>",
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": "<p><span style=\"font-family: Arial, sans-serif; font-size: 10pt;\">The Committee noted and agreed with the Subcommittee\u2019s recorded considerations and recommendations\u00a0</span></p>",
+          "fs": "<p><span style=\"font-family: Arial, sans-serif; font-size: 10pt;\">The Committee noted and agreed with the Subcommittee\u2019s recorded considerations and recommendations\u00a0</span></p>",
+          "change": null
+        },
+        "Outcome": {
+          "s": "Cost Saving",
+          "fs": "Cost Saving",
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Oct 2019",
+          "fs": "Oct 2019",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Clinical advice received from Cancer Treatments Subcommittee (CaTSoP) at meeting Friday 18 October 2019.",
+          "fs": "Clinical advice received from Cancer Treatments Subcommittee (CaTSoP) at meeting Friday 18 October 2019.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ000000fzHJ2AY"
+          },
+          "Id": "a0POZ000000fzHJ2AY",
+          "Event_Date__c": "2019-10-18",
+          "Event_Description__c": "Clinical advice received from Cancer Treatments Subcommittee (CaTSoP) at meeting Friday 18 October 2019.",
+          "Stage__c": "Seeking Clinical Advice",
+          "Outcome__c": "Cost Saving",
+          "Formatted_Date__c": "Oct 2019",
+          "Published_Recommendation__c": "<p><span style=\"color: black;\">1.1.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee considered that there is no evidence to suggest any differences in the health benefits or risks between reference and biosimilar trastuzumab, and <b>recommended</b> it was clinically acceptable for a biosimilar trastuzumab, such as CT-P6, to be listed and be the only available trastuzumab product for all funded indications, if the cost saving is worthwhile and supply is secured.</p><p><span style=\"color: black;\">1.2.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee supported a competitive process and <b>recommended</b> that PHARMAC bring any other biosimilar trastuzumab options to CaTSoP, when available in future, for review. The Subcommittee noted that there is sufficient evidence of biosimilarity to reference trastuzumab (Herceptin) and considered that interchangeability or switch data should be reviewed if available in future.\u00a0</p>",
+          "Published_Application__c": "<p><span style=\"color: black;\">1.1.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee reviewed an application from Celltrion Healthcare New Zealand Limited for CT-P6, a biosimilar trastuzumab, for use in multiple indications (early breast cancer, metastatic breast cancer, and gastric cancer).</p><p><span style=\"color: black;\">1.2.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee took into account, where applicable, PHARMAC\u2019s relevant decision-making framework when considering this agenda item.</p>",
+          "Published_Discussion__c": "<p><span style=\"color: black;\">1.1.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that in <a href=\"https://www.pharmac.govt.nz/assets/ptac-minutes-2019-08.pdf\" target=\"_blank\">August 2019</a>, PTAC reviewed an application for CT-P6, a biosimilar trastuzumab, for use in multiple indications (early breast cancer, metastatic breast cancer, and gastric cancer). </p><p><span style=\"color: black;\">1.2.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that PTAC recommended that PHARMAC could progress a competitive procurement process for trastuzumab and considered that a managed change to a single trastuzumab biosimilar product, such as CT-P6, would be clinically acceptable for the treatment of HER2-positive early breast cancer and HER2-positive metastatic breast cancer.</p><p><span style=\"color: black;\">1.3.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that PTAC requested the Cancer Treatment Subcommittee of PTAC (CaTSoP) provide PHARMAC any advice on implementation issues. </p><p><span style=\"color: black;\">1.4.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that CT-P6 is a humanised monoclonal antibody that selectively binds with high affinity to HER2, that trastuzumab products have been shown to inhibit proliferation and mediate antibody-dependent cellular toxicity in tumour cells that overexpress HER2, and that in vitro analysis has confirmed that CT-P6 functions in a manner similar to reference trastuzumab (Herceptin) (<a href=\"https://www.ncbi.nlm.nih.gov/pubmed/30541352\" target=\"_blank\">Jeong et al. Expert Opin Biol Ther. 2019;19:1085-95</a>).</p><p><span style=\"color: black;\">1.5.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that the application for CT-P6 (Herzuma) requested funding for trastuzumab for the treatment of early breast cancer, metastatic breast cancer, and gastric cancer, subject to patent expiry. The Subcommittee also noted that PTAC considered that, in the absence of new evidence relevant to gastric cancer, the application for CT-P6 would be considered only for HER2-positive early and metastatic breast cancers. </p><p><span style=\"color: black;\">1.6.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that the intravenous preparation of the trastuzumab reference product has been listed on the Pharmaceutical Schedule since 2005 and is currently funded in New Zealand for HER2-positive early and metastatic breast cancer. Members considered that patients who receive neoadjuvant treatment for breast cancer are a relatively homogenous group, however, patients with metastatic breast cancer are a heterogenous group whose drug resistance mechanisms may have been altered by prior anticancer treatment regimens.</p><p><span style=\"color: black;\">1.7.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that CT-P6 has been approved by the EMA for use in the European Union, by the FDA for use in the United States, and by Medsafe for use in New Zealand for all the indications of the reference trastuzumab product. The Subcommittee noted that the Medsafe approval for CT-P6 includes use in combination with a taxane for patients who have not received chemotherapy for metastatic disease. Members also considered vinorelbine in combination was a suitable and effective alternative to combine with a taxane, as occurs with reference trastuzumab (although use of reference trastuzumab or CT-P6 in combination with vinorelbine is not Medsafe-approved for this indication).</p><p><span style=\"color: black;\">1.8.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that biosimilars are rigorously investigated for risks of reactions and to assess immunogenicity. The Subcommittee noted that investigation of pharmacokinetics (PK), pharmacodynamics (PD), antidrug antibodies, safety and efficacy are required to assess clinical efficacy in appropriate populations and to establish biosimilarity with the reference product. </p><p><span style=\"color: black;\">1.9.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee considered the non-clinical evidence was comprehensive and supported biosimilarity between CT-P6 and reference trastuzumab:</p><p><span style=\"color: black;\">1.10.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted data from a 3-way similarity study with an extensive comparative analysis of primary, secondary and tertiary structure, glycan profiles and of post-translational modifications, and considered that the molecular characteristics of CT-P6 demonstrated no significant differences between the biosimilar and reference trastuzumab (<a href=\"https://www.ncbi.nlm.nih.gov/pubmed/29482416\" target=\"_blank\">Lee et al. MAbs. 2018;10:547-71</a>).</p><p><span style=\"color: black;\">1.11.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>Members noted that non-clinical PD data for CT-P6 demonstrated very similar blocking of HER2 cleavage and subsequent HER-2 down-regulation compared with reference trastuzumab (<a href=\"https://www.ema.europa.eu/en/documents/assessment-report/herzuma-epar-public-assessment-report_en.pdf\" target=\"_blank\">Herzuma Assessment report. European Medicines Agency [EMA], 2017</a>).</p><p><span style=\"color: black;\">1.12.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee considered that the safety data from the phase I clinical trials in healthy subjects were similar and presented no concerns. </p><p><span style=\"color: black;\">1.13.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted the results of the phase III, randomised, double-blind, active-controlled, CT-P6 3.2 equivalence trial which investigated 8 cycles of neoadjuvant CT-P6 or reference trastuzumab (with neoadjuvant chemotherapy), then surgery, followed by adjuvant CT-P6 or reference trastuzumab for a total of 1 year of treatment in 549 women with stage I-IIIa operable HER2-positive breast cancer (<a href=\"https://www.ncbi.nlm.nih.gov/pubmed/28592386\" target=\"_blank\">Stebbing et al. Lancet Oncol. 2017;18:917-28</a>). </p><p><span style=\"color: black;\">1.14.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee considered that the CT-P6 3.2 trial patient characteristics were well balanced between groups, that patients had good baseline left ventricular ejection fraction (LVEF) and that staging was slightly higher in the CT-P6 arm. The Subcommittee considered that these factors were not sufficient to impact the clinical trial outcomes. </p><p><span style=\"color: black;\">1.15.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that the primary outcome of the CT-P6 3.2 trial was pathological complete response (pCR) after surgery, and that this excluded ductal carcinoma in situ (DCIS). The Subcommittee noted that after 19.5 months of follow up the pCR rate was 46.8% with CT-P6 compared to 50.4% with reference trastuzumab. The Subcommittee noted that the pCR with CT-P6 was within the prespecified equivalence margin of \u00b115% from the expected pCR of 54%, therefore demonstrating equivalence according to this definition.</p><p><span style=\"color: black;\">1.16.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted the safety data from the CT-P6 3.2 trial was broadly similar between CT-P6 and reference trastuzumab. The Subcommittee considered that there were similar frequencies of treatment-emergent adverse events in each group, and comparable immunogenicity with no differences in the frequency of infusion reactions or anti-drug antibodies. The Subcommittee noted that there were no significant differences in LVEF change.</p><p><span style=\"color: black;\">1.17.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>Members considered the possibility of an interaction between pertuzumab and biosimilar trastuzumab, which bind to different subdomains of the HER2 receptor and therefore do not directly interact. Members considered that as CT-P6 binds to the same epitope on subdomain IV of the HER2 receptor as reference trastuzumab, it is unlikely there would be an interaction between CT-P6 and pertuzumab which binds to subdomain II. Members considered CT-P6 would provide the same benefit that would be expected as for reference trastuzumab.</p><p><span style=\"color: black;\">1.18.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee considered that the efficacy and safety data supported the biosimilarity of CT-P6 compared with reference trastuzumab.</p><p><span style=\"color: black;\">1.19.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee considered that a change to a biosimilar trastuzumab as a result of a competitive procurement process would be unlikely to have any impact on health benefits or risks for patients who would receive treatment with reference trastuzumab, due to comprehensive testing already being done to assess risks and benefits. The Subcommittee considered that it was clinically acceptable for a biosimilar trastuzumab to be listed and be the only available trastuzumab product for all funded indications if the cost saving is worthwhile and supply is secured. The Subcommittee supported a competitive process and recommended that PHARMAC bring any other biosimilar trastuzumab options that are proposed for funding to CaTSoP, when available in future, for review. </p><p><span style=\"color: black;\">1.20.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee considered that the evidence for biosimilarity of CT-P6 and reference trastuzumab demonstrated that similarity was established. The Subcommittee considered that interchangeability (for which there are different regulatory definitions used in Europe and the USA) still remained unconfirmed and that there is limited real-world data regarding switching from one trastuzumab product to another, or multiple changes between trastuzumab products over time. The Subcommittee considered that interchangeability data would be desirable and should be reviewed in future, if such data becomes available.</p><p><span style=\"color: black;\">1.21.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee considered that they had no concerns and did not identify any specific risks associated with changing existing patients who have commenced on a treatment course of reference trastuzumab to biosimilar trastuzumab, whether these were patients with early breast cancer who would receive a 9 week or 12 month course, or patients with metastatic breast cancer who would be treated until disease progression. The Subcommittee considered that, for patients who were responding well to reference trastuzumab and then change to biosimilar trastuzumab, it may be difficult to ascertain whether any subsequent loss of response was due to the change or due to natural progression of the disease. Members noted that any change would be closely managed and supported by treating clinicians and hospital pharmacists. </p><p><span style=\"color: black;\">1.22.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted a 6-month transition period has been proposed by PHARMAC. The Subcommittee considered that it would be clinically acceptable to change trastuzumab products during a patient\u2019s treatment course if they have more than 6 months\u2019 Herceptin treatment remaining. The Subcommittee noted that during the transition period, Herceptin would remain funded as per Special Authority current criteria and that patients with less than 6 months\u2019 Herceptin treatment remaining would not be required to transition.</p><p><span style=\"color: black;\">1.23.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee considered that it would be important to establish confidence for prescribers and other groups regarding biosimilar trastuzumab in order to support implementation of a biosimilar. The Subcommittee considered that the minor batch-to-batch variation of reference trastuzumab in 2019 compared with trastuzumab in 2015 was relevant for comparative purposes, and similar data may be helpful for clinician education. Members considered it would also be useful to have patient outcome data available to support and assess the impact of any change.\u00a0</p>",
+          "PTAC_Comments__c": "<p><span style=\"font-family: Arial, sans-serif; font-size: 10pt;\">The Committee noted and agreed with the Subcommittee\u2019s recorded considerations and recommendations\u00a0</span></p>",
+          "Status_History__c": "a132P000000BTMSQA4"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Jun 2019",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Following Clinical Advice, Pharmac staff considers the advice and the funding application under goes an assessment using our&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/factors-for-consideration/\" rel=\"nofollow\">Factors for Consideration</a>&nbsp;framework and seeks additional information as required.</p>\r\n<p>&nbsp;</p>\r\n<p>Research and Economic analysis are undertaken.&nbsp; This focuses on the costs and benefits of a proposed course of action. Economics is based on three fundamental concepts that summarise the issues Pharmac faces daily:&nbsp;</p>\r\n<ul>\r\n<li>Scarcity &ndash; resources will always be insufficient to support all possible activities.</li>\r\n<li>Choices &ndash; due to scarce resources, decisions must be made about how best to use them.</li>\r\n<li>Opportunity cost &ndash; by choosing to use resources one way, we forgo other opportunities to use the same resources.</li>\r\n</ul>\r\n<p>&nbsp;</p>\r\n<p>For further information on the purpose of, and techniques for, undertaking economic analysis in health care, please refer&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/economic-analysis/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/economic-analysis/</a></p>",
+    "position": 2,
+    "name": "Under Assessment",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "May 2020",
+          "fs": "May 2020",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Working to compare options",
+          "fs": "Working to compare options",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ000000fzHK2AY"
+          },
+          "Id": "a0POZ000000fzHK2AY",
+          "Event_Date__c": "2020-05-15",
+          "Event_Description__c": "Working to compare options",
+          "Stage__c": "Under Assessment",
+          "Formatted_Date__c": "May 2020",
+          "Status_History__c": "a132P000000BlGCQA0"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "May 2020",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Pharmac staff uses a prioritisation process to compare and rank funding options. Possible opportunities for new investment will always exceed the budget Pharmac has available; therefore, prioritisation is an intrinsic part of Pharmac\u2019s decision-making process.</p>\r\n<p>The relative ranking of options aims to support Pharmac&rsquo;s statutory objective &ldquo;to secure for eligible people in need of pharmaceuticals, the best health outcomes that are reasonably achievable from pharmaceutical treatment and from within the amount of funding provided&rdquo;.</p>\r\n<p>A funding application or proposal is considered ready for prioritisation when sufficient information is available to permit it to be reviewed against Pharmac's Factors for Consideration and to inform a comparison with other possible investment decisions.</p>\r\n<p>There is no guarantee when or if a ranked medicine will be funded.&nbsp;&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/prioritisation/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/prioritisation/</a></p>",
+    "position": 3,
+    "name": "Options Compared",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Mar 2022",
+          "fs": "Mar 2022",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "The relative ranking of the pharmaceutical application has been completed.",
+          "fs": "The relative ranking of the pharmaceutical application has been completed.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ000000fzHL2AY"
+          },
+          "Id": "a0POZ000000fzHL2AY",
+          "Event_Date__c": "2022-03-04",
+          "Event_Description__c": "The relative ranking of the pharmaceutical application has been completed.",
+          "Stage__c": "Options Compared",
+          "Formatted_Date__c": "Mar 2022",
+          "Status_History__c": "a132P000000DaQBQA0"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Mar 2022",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Pharmac is consulting on a proposal to either approve or decline the application.&nbsp;We seek the views of all people who have an interest in our proposals, or who may be affected by them, to obtain feedback on our proposed approaches.</p>\r\n<p><a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/having-your-say/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/having-your-say/</a></p>",
+    "position": 4,
+    "name": "Under Consultation",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": "<p>We are seeking feedback on a proposal to widen funded access to intravenous trastuzumab and transition to a biosimilar brand of intravenous trastuzumab. Feedback can be submitted to <a href=\"mailto:consult@pharmac.govt.nz\" target=\"_blank\">consult@pharmac.govt.nz</a> until 4 pm, 30 June 2023.</p>",
+          "fs": "<p>We are seeking feedback on a proposal to widen funded access to intravenous trastuzumab and transition to a biosimilar brand of intravenous trastuzumab. Feedback can be submitted to <a href=\"mailto:consult@pharmac.govt.nz\" target=\"_blank\">consult@pharmac.govt.nz</a> until 4 pm, 30 June 2023.</p>",
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": "<p><a href=\"https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/2023-06-08-proposal-to-widen-access-to-intravenous-trastuzumab-and-change-the-funded-brand\" target=\"_blank\">Consultation letter</a></p>",
+          "fs": "<p><a href=\"https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/2023-06-08-proposal-to-widen-access-to-intravenous-trastuzumab-and-change-the-funded-brand\" target=\"_blank\">Consultation letter</a></p>",
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Jun 2023",
+          "fs": "Jun 2023",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Public consultation for this application is active.",
+          "fs": "Public consultation for this application is active.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ000000fzHM2AY"
+          },
+          "Id": "a0POZ000000fzHM2AY",
+          "Event_Date__c": "2023-06-08",
+          "Event_Description__c": "Public consultation for this application is active.",
+          "Stage__c": "Under Consultation",
+          "Links__c": "<p><a href=\"https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/2023-06-08-proposal-to-widen-access-to-intravenous-trastuzumab-and-change-the-funded-brand\" target=\"_blank\">Consultation letter</a></p>",
+          "Summary__c": "<p>We are seeking feedback on a proposal to widen funded access to intravenous trastuzumab and transition to a biosimilar brand of intravenous trastuzumab. Feedback can be submitted to <a href=\"mailto:consult@pharmac.govt.nz\" target=\"_blank\">consult@pharmac.govt.nz</a> until 4 pm, 30 June 2023.</p>",
+          "Formatted_Date__c": "Jun 2023",
+          "Status_History__c": "a132P000000EJDJQA4"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Jun 2023",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Following the consultation process, Pharmac staff considers the feedback and identifies any additional information required as part of a gap analysis.&nbsp; The proposal may require further clinical advice, research, and assessment.</p>",
+    "position": 5,
+    "name": "Reviewing Consultation Feedback",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Jul 2023",
+          "fs": "Jul 2023",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Public consultation for this application is now closed. Pharmac is reviewing consultation feedback.",
+          "fs": "Public consultation for this application is now closed. Pharmac is reviewing consultation feedback.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ000000fzHN2AY"
+          },
+          "Id": "a0POZ000000fzHN2AY",
+          "Event_Date__c": "2023-07-02",
+          "Event_Description__c": "Public consultation for this application is now closed. Pharmac is reviewing consultation feedback.",
+          "Stage__c": "Reviewing Consultation Feedback",
+          "Formatted_Date__c": "Jul 2023",
+          "Status_History__c": "a132P000000EwKcQAK"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Jul 2023",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>We refer to our decisions about whether and how particular pharmaceuticals are publicly-funded, as &ldquo;funding decisions&rdquo;.</p>\r\n<p>We consider and assess all funding decisions using the&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/about/operating-policies-and-procedures/#factorsfc\" rel=\"nofollow\">Factors for Consideration</a>. When we do so, we carefully evaluate clinical and other evidence for the benefits and suitability of a proposal, and to identify and understand the people who will be affected by it.</p>\r\n<p>While our main task is to allocate pharmaceutical funding, we consider the benefits and costs across the whole health system now and with a long-term focus, including the effects for hospitals and primary care, and consider direct costs to patients as well as to all health sector budgets.</p>\r\n<p>Final funding decisions are made by the Pharmac Board or delegated to senior Pharmac staff as required by the Board.</p>\r\n<p>&nbsp;</p>",
+    "position": 6,
+    "name": "Decision",
+    "last": true,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": "<p><a href=\"https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/23-08-23-decision-to-widen-access-to-intravenous-trastuzumab-and-change-the-funded-brand/\" target=\"_blank\">Notification letter</a></p>",
+          "fs": "<p><a href=\"https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/23-08-23-decision-to-widen-access-to-intravenous-trastuzumab-and-change-the-funded-brand/\" target=\"_blank\">Notification letter</a></p>",
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Aug 2023",
+          "fs": "Aug 2023",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "The funding application has been approved.",
+          "fs": "The funding application has been approved.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ000000fzHO2AY"
+          },
+          "Id": "a0POZ000000fzHO2AY",
+          "Event_Date__c": "2023-08-23",
+          "Event_Description__c": "The funding application has been approved.",
+          "Stage__c": "Decision",
+          "Links__c": "<p><a href=\"https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/23-08-23-decision-to-widen-access-to-intravenous-trastuzumab-and-change-the-funded-brand/\" target=\"_blank\">Notification letter</a></p>",
+          "Formatted_Date__c": "Aug 2023",
+          "Status_History__c": "a13OZ000001bikfYAA"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Aug 2023",
+    "collapsed": false,
+    "checked": true
+  }
+]

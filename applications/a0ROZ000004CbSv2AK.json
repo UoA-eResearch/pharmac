@@ -1,0 +1,630 @@
+[
+  {
+    "text": "<p>New funding applications are referred to one of Pharmac's Funding Application Advisors (FAAs), who'll review the application to ensure they have the relevant information to undertake a preliminary analysis.&nbsp; They may seek more information if required.</p>\r\n<p><a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/new-funding-applications/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/new-funding-applications/</a></p>",
+    "position": 0,
+    "name": "Application Received",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Jan 2018",
+          "fs": "Jan 2018",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Application received",
+          "fs": "Application received",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000B4plZ2AR"
+          },
+          "Id": "a0POZ00000B4plZ2AR",
+          "Event_Date__c": "2018-01-11",
+          "Event_Description__c": "Application received",
+          "Stage__c": "Application Received",
+          "Formatted_Date__c": "Jan 2018",
+          "Status_History__c": "a132P000000ArOcQAK"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Jan 2018",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Pharmac is identifying and gathering information required to get clinical advice.  The <a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/pharmacology-and-therapeutics-advisory-committee-ptac/\" rel=\"nofollow\">Pharmacology and Therapeutics Advisory Committee (PTAC)</a>  meets quarterly. There are also around 20 expert <a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/specialist-advisory-committees/\" rel=\"nofollow\">Specialist Advisory Committees (SACs)</a>, previously expert Subcommittees, which provide clinical evaluations in specialist areas. Specialist Advisory Committees meet as required to discuss issues referred to them by PTAC or Pharmac.</p>\n<p style=\"height: 20px\">&nbsp;</p>\n<p>In November 2021, we introduced separate terms of reference for the SACs to make clear that these committees have different, but complementary, roles, expertise and perspectives to PTAC.</p>\n<p style=\"height: 15px\">&nbsp;</p>\n<p>PTAC and SACs may make recommendations to Pharmac that differ from each other when looking at the same evidence. Pharmac considers the recommendations provided by all our clinical advisory committees when assessing applications.</p>\n<p style=\"height: 20px\">&nbsp;</p>\n<p><a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/pharmacology-and-therapeutics-advisory-committee-ptac/ptac-terms-of-reference-july-2021/\" rel=\"nofollow\">PTAC</a>  and <a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/specialist-advisory-committees/specialist-advisory-committee-terms-of-reference//\" rel=\"nofollow\">Specialist Advisory Committees</a> records of the meeting will be published on this website in accordance with the Terms of Reference.</p>",
+    "position": 1,
+    "name": "Seeking Clinical Advice",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Mar 2018",
+          "fs": "Mar 2018",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Clinical advice required",
+          "fs": "Clinical advice required",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000B4pla2AB"
+          },
+          "Id": "a0POZ00000B4pla2AB",
+          "Event_Date__c": "2018-03-19",
+          "Event_Description__c": "Clinical advice required",
+          "Stage__c": "Seeking Clinical Advice",
+          "Formatted_Date__c": "Mar 2018",
+          "Status_History__c": "a132P000000ArQyQAK"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": "<p><span style=\"font-size: 14px;\">The Subcommittee recommended that the application for ring protection of high risk groups be declined. The Subcommittee recommended that widened access to Maori people from an earlier age than 65 years be declined.</span></p>",
+          "fs": "<p><span style=\"font-size: 14px;\">The Subcommittee recommended that the application for ring protection of high risk groups be declined. The Subcommittee recommended that widened access to Maori people from an earlier age than 65 years be declined.</span></p>",
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": "<p>The Subcommittee recommended that:</p><p>the application for ring protection of high risk groups be declined</p><p>widened access to M\u0101ori people from an earlier age than 65 years be declined</p><p>widened access to Pacific people from an earlier age than 65 years be declined.\u00a0</p>",
+          "fs": "<p>The Subcommittee recommended that:</p><p>the application for ring protection of high risk groups be declined</p><p>widened access to M\u0101ori people from an earlier age than 65 years be declined</p><p>widened access to Pacific people from an earlier age than 65 years be declined.\u00a0</p>",
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": "<p>4.8 The Subcommittee noted that all age groups are affected by influenza, but mortality is higher in those under one year of age and starts to increase for those over 50 years of age. The Subcommittee noted that 2017 hospital discharge rates show that hospitalisation rates are highest for Pacific people, then M\u0101ori, European and Asian groups. The rate for Pacific people is approximately three times that for M\u0101ori or European.</p><p>4.9 The Subcommittee noted that in recent years, approximately 1.2 million doses of influenza vaccine have been distributed each year, which equates to approximately 28% of the population covered. The Subcommittee noted that estimated coverage for high risk groups receiving funded vaccine is approximately 3% for children aged 0-4, 30% for pregnant women and 65% for people aged 65 years or over. Subsets of the 65 year and over group include M\u0101ori with 46% coverage and Pacific people with 51% coverage.</p><p>4.10 The Subcommittee noted that vaccine effectiveness of inactivated vaccines declines at 8% per month. This suggests that the elderly may have very little protection by 3- 4 months after vaccination. The Subcommittee considered that it would be necessary to increase coverage with inactivated influenza vaccines above the current 28% coverage to generate herd immunity. The Subcommittee considered that improving vaccine effectiveness in the elderly would have a greater impact on the elderly.</p><p>4.11 The Subcommittee considered a retrospective cohort study by Izurieta et al. Lancet Infect Dis. 2015;15: 293\u2013300 which demonstrated a stronger immune response to a high dose trivalent influenza vaccine (hdTIV) in the elderly compared to a trivalent influenza vaccine (TIV). This study showed hdTIV was 22% more effective in reducing hospitalisations in the elderly, compared to TIV. The Subcommittee considered that hdTIV would provide an additional health benefit to those aged over 65 years and over, with minimal additional risks compared to TIV or quadrivalent influenza vaccine (QIV). Members noted that hdTIV is not currently available in New Zealand. The Subcommittee considered that hdTIV would be likely to work in people 50 years of age and older from an immunological point of view, although data is lacking to support this view and it is not approved for use in people under 65 years of age.</p><p>4.12 The Subcommittee considered an observational study of adjuvanted influenza vaccination in an elderly population in Northern Italy by Mannino et al. Am J Epidemiol. 2012;176: 527\u2013533 which showed adjuvanted trivalent influenza vaccine (aTIV) gave a 25% reduction in the risk of hospitalisation. The Subcommittee considered that aTIV would provide an additional health benefit to those aged over 65 years and over, with minimal additional risks compared to a TIV or QIV.</p><p>4.13 The Subcommittee noted that live attenuated influenza vaccine (LAIV) is administered intranasally and is indicated for those aged 2-49 years. The Subcommittee considered that LAIV generates a broader immune response than inactivated influenza vaccines. The Subcommittee noted that LAIV has been used in both the US and UK, but there were issues with the H1N1 response in the US and LAIV has not been recommended in the US for the 2017/2018 season. The Subcommittee noted that more response data is expected be become available over coming influenza seasons, particularly from England.</p><p>4.14 The Subcommittee considered that vaccination of primary school age children contributes to herd immunity, protecting high risk individuals who may respond less well to vaccines. The Subcommittee considered that a universal childhood influenza vaccination programme would only be achievable using LAIV, with optimal delivery through a school based programme. The Subcommittee noted that there is currently no registered LAIV product in New Zealand.</p><p>4.15 The Subcommittee considered that universal childhood influenza vaccination would provide additional health benefits with minimal additional risks. The Subcommittee considered that additional benefits would include the ability to generate herd immunity, protection of the wider community and reduced hospitalisation of children. The Subcommittee considered that the groups who would benefit most from universal childhood vaccination are the elderly and those with comorbidities. The Subcommittee considered that there is not a particularly high disease burden in school based children. The Subcommittee considered that while vaccinating children may protect other groups, it is an ethical consideration that the children themselves should also derive benefit from the vaccination.</p><p>4.16 The Subcommittee considered that there are some groups disproportionately affected by influenza, including M\u0101ori, Pacific people, NZ Dep 9-10 deprivation, refugees and asylum seekers. The Subcommittee considered the concept of \u201crisk stacking\u201d for influenza, but noted that data is lacking to support this approach to targeting.</p><p>4.17 The Subcommittee considered the concept of \u201cring protection\u201d ie. the protection of high risk groups by vaccinating close contacts. The Subcommittee considered that ring protection theoretically would provide a health benefit to high risk groups. The Subcommittee noted that only 65% of DHB healthcare workers are vaccinated, but approximately 80% coverage would be required to protect high risk groups. The Subcommittee noted that there is limited evidence supporting the ring fence approach.</p><p>4.18 The Subcommittee considered that the introduction of any of hdTIV, aTIV, LAIV or universal childhood vaccination could result in reduced healthcare costs in some years. The Subcommittee considered that if herd immunity was generated, then there would be healthcare savings. The Subcommittee recommended that PHARMAC conduct cost effectiveness analysis on universal vaccination compared to childhood school vaccination to achieve herd immunity and bring the results back to a future Subcommittee meeting.</p><p><br></p><p><i>Clinical advice questions from the Ministry of Health</i></p><p>4.19 The Subcommittee considered that the definition of coverage level required to achieve community immunity depends on vaccine effectiveness; and can only ever be partial for influenza. UK data suggests that for school children, 30% coverage achieves indirect protection.</p><p>4.20 The Subcommittee considered that it would be more effective to use LAIV in a school based delivery programme, as this would have better user acceptibility. The Subcommittee considered that it would be expensive to implement a school based programme.</p><p>4.21 The Subcommittee considered a study by Mannino et al. J Amer Epidemiol 2012 which showed adjuvanted trivalent influenza vaccine (aTIV) gave a 25% reduction in the risk of hospitalisation. The Subcommittee considered that aTIV would provide an additional health benefit to those aged 65 years and over, with minimal additional risks compared to a TIV or QIV.</p><p>4.22 The Subcommittee considered a study by Izurieta et al. NEJM 2000 which demonstrated a stronger immune response to a high dose trivalent influenza vaccine (hdTIV) in the elderly compared to a trivalent influenza vaccine (TIV). This study showed hdTIV was 22% more effective in reducing hospitalisations in the elderly, compared to TIV. The Subcommittee considered that hdTIV would provide an additional health benefit to those aged over 65 years and over, with minimal additional risks compared to TIV or quadrivalent influenza vaccine (QIV).</p><p>4.23 The Subcommittee considered that there was limited evidence supporting the use of multiple vaccine doses to protect those aged 65 years and over.</p><p>4.24 The Subcommittee considered that the observed higher mortality from influenza in M\u0101ori and Pacific populations is related to lower coverage in these groups.</p><p>4.25 The Subcommittee considered that current coverage of targeted groups is not high, so expanding eligibility to M\u0101ori and Pacific from a younger age does not address the low coverage. The Subcommittee considered that increasing coverage was likely to be the best way to protect more M\u0101ori and Pacific people.</p><p>4.26 The Subcommittee considered that target strategies for particular groups often lead to other inequities. The Subcommittee considered that working towards universal vaccination could be considered, eg. starting with the access for the most deprived groups and then expanding access from there.\u00a0</p>",
+          "fs": "<p>4.8 The Subcommittee noted that all age groups are affected by influenza, but mortality is higher in those under one year of age and starts to increase for those over 50 years of age. The Subcommittee noted that 2017 hospital discharge rates show that hospitalisation rates are highest for Pacific people, then M\u0101ori, European and Asian groups. The rate for Pacific people is approximately three times that for M\u0101ori or European.</p><p>4.9 The Subcommittee noted that in recent years, approximately 1.2 million doses of influenza vaccine have been distributed each year, which equates to approximately 28% of the population covered. The Subcommittee noted that estimated coverage for high risk groups receiving funded vaccine is approximately 3% for children aged 0-4, 30% for pregnant women and 65% for people aged 65 years or over. Subsets of the 65 year and over group include M\u0101ori with 46% coverage and Pacific people with 51% coverage.</p><p>4.10 The Subcommittee noted that vaccine effectiveness of inactivated vaccines declines at 8% per month. This suggests that the elderly may have very little protection by 3- 4 months after vaccination. The Subcommittee considered that it would be necessary to increase coverage with inactivated influenza vaccines above the current 28% coverage to generate herd immunity. The Subcommittee considered that improving vaccine effectiveness in the elderly would have a greater impact on the elderly.</p><p>4.11 The Subcommittee considered a retrospective cohort study by Izurieta et al. Lancet Infect Dis. 2015;15: 293\u2013300 which demonstrated a stronger immune response to a high dose trivalent influenza vaccine (hdTIV) in the elderly compared to a trivalent influenza vaccine (TIV). This study showed hdTIV was 22% more effective in reducing hospitalisations in the elderly, compared to TIV. The Subcommittee considered that hdTIV would provide an additional health benefit to those aged over 65 years and over, with minimal additional risks compared to TIV or quadrivalent influenza vaccine (QIV). Members noted that hdTIV is not currently available in New Zealand. The Subcommittee considered that hdTIV would be likely to work in people 50 years of age and older from an immunological point of view, although data is lacking to support this view and it is not approved for use in people under 65 years of age.</p><p>4.12 The Subcommittee considered an observational study of adjuvanted influenza vaccination in an elderly population in Northern Italy by Mannino et al. Am J Epidemiol. 2012;176: 527\u2013533 which showed adjuvanted trivalent influenza vaccine (aTIV) gave a 25% reduction in the risk of hospitalisation. The Subcommittee considered that aTIV would provide an additional health benefit to those aged over 65 years and over, with minimal additional risks compared to a TIV or QIV.</p><p>4.13 The Subcommittee noted that live attenuated influenza vaccine (LAIV) is administered intranasally and is indicated for those aged 2-49 years. The Subcommittee considered that LAIV generates a broader immune response than inactivated influenza vaccines. The Subcommittee noted that LAIV has been used in both the US and UK, but there were issues with the H1N1 response in the US and LAIV has not been recommended in the US for the 2017/2018 season. The Subcommittee noted that more response data is expected be become available over coming influenza seasons, particularly from England.</p><p>4.14 The Subcommittee considered that vaccination of primary school age children contributes to herd immunity, protecting high risk individuals who may respond less well to vaccines. The Subcommittee considered that a universal childhood influenza vaccination programme would only be achievable using LAIV, with optimal delivery through a school based programme. The Subcommittee noted that there is currently no registered LAIV product in New Zealand.</p><p>4.15 The Subcommittee considered that universal childhood influenza vaccination would provide additional health benefits with minimal additional risks. The Subcommittee considered that additional benefits would include the ability to generate herd immunity, protection of the wider community and reduced hospitalisation of children. The Subcommittee considered that the groups who would benefit most from universal childhood vaccination are the elderly and those with comorbidities. The Subcommittee considered that there is not a particularly high disease burden in school based children. The Subcommittee considered that while vaccinating children may protect other groups, it is an ethical consideration that the children themselves should also derive benefit from the vaccination.</p><p>4.16 The Subcommittee considered that there are some groups disproportionately affected by influenza, including M\u0101ori, Pacific people, NZ Dep 9-10 deprivation, refugees and asylum seekers. The Subcommittee considered the concept of \u201crisk stacking\u201d for influenza, but noted that data is lacking to support this approach to targeting.</p><p>4.17 The Subcommittee considered the concept of \u201cring protection\u201d ie. the protection of high risk groups by vaccinating close contacts. The Subcommittee considered that ring protection theoretically would provide a health benefit to high risk groups. The Subcommittee noted that only 65% of DHB healthcare workers are vaccinated, but approximately 80% coverage would be required to protect high risk groups. The Subcommittee noted that there is limited evidence supporting the ring fence approach.</p><p>4.18 The Subcommittee considered that the introduction of any of hdTIV, aTIV, LAIV or universal childhood vaccination could result in reduced healthcare costs in some years. The Subcommittee considered that if herd immunity was generated, then there would be healthcare savings. The Subcommittee recommended that PHARMAC conduct cost effectiveness analysis on universal vaccination compared to childhood school vaccination to achieve herd immunity and bring the results back to a future Subcommittee meeting.</p><p><br></p><p><i>Clinical advice questions from the Ministry of Health</i></p><p>4.19 The Subcommittee considered that the definition of coverage level required to achieve community immunity depends on vaccine effectiveness; and can only ever be partial for influenza. UK data suggests that for school children, 30% coverage achieves indirect protection.</p><p>4.20 The Subcommittee considered that it would be more effective to use LAIV in a school based delivery programme, as this would have better user acceptibility. The Subcommittee considered that it would be expensive to implement a school based programme.</p><p>4.21 The Subcommittee considered a study by Mannino et al. J Amer Epidemiol 2012 which showed adjuvanted trivalent influenza vaccine (aTIV) gave a 25% reduction in the risk of hospitalisation. The Subcommittee considered that aTIV would provide an additional health benefit to those aged 65 years and over, with minimal additional risks compared to a TIV or QIV.</p><p>4.22 The Subcommittee considered a study by Izurieta et al. NEJM 2000 which demonstrated a stronger immune response to a high dose trivalent influenza vaccine (hdTIV) in the elderly compared to a trivalent influenza vaccine (TIV). This study showed hdTIV was 22% more effective in reducing hospitalisations in the elderly, compared to TIV. The Subcommittee considered that hdTIV would provide an additional health benefit to those aged over 65 years and over, with minimal additional risks compared to TIV or quadrivalent influenza vaccine (QIV).</p><p>4.23 The Subcommittee considered that there was limited evidence supporting the use of multiple vaccine doses to protect those aged 65 years and over.</p><p>4.24 The Subcommittee considered that the observed higher mortality from influenza in M\u0101ori and Pacific populations is related to lower coverage in these groups.</p><p>4.25 The Subcommittee considered that current coverage of targeted groups is not high, so expanding eligibility to M\u0101ori and Pacific from a younger age does not address the low coverage. The Subcommittee considered that increasing coverage was likely to be the best way to protect more M\u0101ori and Pacific people.</p><p>4.26 The Subcommittee considered that target strategies for particular groups often lead to other inequities. The Subcommittee considered that working towards universal vaccination could be considered, eg. starting with the access for the most deprived groups and then expanding access from there.\u00a0</p>",
+          "change": null
+        },
+        "Published_Application": {
+          "s": "<p>The Subcommittee reviewed an influenza vaccine overview paper prepared by PHARMAC staff, a clinician funding application to consider widening access of influenza vaccines and different vaccination strategies, a Ministry of Health strategic direction paper regarding influenza vaccination and correspondence from District Health Boards regarding childhood influenza vaccination. The purpose of the overview paper was to seek the Subcommittee\u2019s advice about possible future strategic options for seasonal influenza vaccination. Any funding applications for types of influenza vaccine that are not currently funded would need to be considered at future Subcommittee and PTAC meetings.</p>",
+          "fs": "<p>The Subcommittee reviewed an influenza vaccine overview paper prepared by PHARMAC staff, a clinician funding application to consider widening access of influenza vaccines and different vaccination strategies, a Ministry of Health strategic direction paper regarding influenza vaccination and correspondence from District Health Boards regarding childhood influenza vaccination. The purpose of the overview paper was to seek the Subcommittee\u2019s advice about possible future strategic options for seasonal influenza vaccination. Any funding applications for types of influenza vaccine that are not currently funded would need to be considered at future Subcommittee and PTAC meetings.</p>",
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": "Decline",
+          "fs": "Decline",
+          "change": null
+        },
+        "Links": {
+          "s": "<p><a href=\"https://pharmac.govt.nz/assets/ptac-immunisation-subcommittee-minutes-2018-6.pdf\" target=\"_blank\">Immunisation Subcommittee minutes</a></p>",
+          "fs": "<p><a href=\"https://pharmac.govt.nz/assets/ptac-immunisation-subcommittee-minutes-2018-6.pdf\" target=\"_blank\">Immunisation Subcommittee minutes</a></p>",
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "May 2018",
+          "fs": "May 2018",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Clinical advice received from Immunisation Subcommittee at meeting Wednesday 16 May 2018.",
+          "fs": "Clinical advice received from Immunisation Subcommittee at meeting Wednesday 16 May 2018.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000B4plb2AB"
+          },
+          "Id": "a0POZ00000B4plb2AB",
+          "Event_Date__c": "2018-05-16",
+          "Event_Description__c": "Clinical advice received from Immunisation Subcommittee at meeting Wednesday 16 May 2018.",
+          "Stage__c": "Seeking Clinical Advice",
+          "Links__c": "<p><a href=\"https://pharmac.govt.nz/assets/ptac-immunisation-subcommittee-minutes-2018-6.pdf\" target=\"_blank\">Immunisation Subcommittee minutes</a></p>",
+          "Outcome__c": "Decline",
+          "Summary__c": "<p><span style=\"font-size: 14px;\">The Subcommittee recommended that the application for ring protection of high risk groups be declined. The Subcommittee recommended that widened access to Maori people from an earlier age than 65 years be declined.</span></p>",
+          "Formatted_Date__c": "May 2018",
+          "Published_Recommendation__c": "<p>The Subcommittee recommended that:</p><p>the application for ring protection of high risk groups be declined</p><p>widened access to M\u0101ori people from an earlier age than 65 years be declined</p><p>widened access to Pacific people from an earlier age than 65 years be declined.\u00a0</p>",
+          "Published_Application__c": "<p>The Subcommittee reviewed an influenza vaccine overview paper prepared by PHARMAC staff, a clinician funding application to consider widening access of influenza vaccines and different vaccination strategies, a Ministry of Health strategic direction paper regarding influenza vaccination and correspondence from District Health Boards regarding childhood influenza vaccination. The purpose of the overview paper was to seek the Subcommittee\u2019s advice about possible future strategic options for seasonal influenza vaccination. Any funding applications for types of influenza vaccine that are not currently funded would need to be considered at future Subcommittee and PTAC meetings.</p>",
+          "Published_Discussion__c": "<p>4.8 The Subcommittee noted that all age groups are affected by influenza, but mortality is higher in those under one year of age and starts to increase for those over 50 years of age. The Subcommittee noted that 2017 hospital discharge rates show that hospitalisation rates are highest for Pacific people, then M\u0101ori, European and Asian groups. The rate for Pacific people is approximately three times that for M\u0101ori or European.</p><p>4.9 The Subcommittee noted that in recent years, approximately 1.2 million doses of influenza vaccine have been distributed each year, which equates to approximately 28% of the population covered. The Subcommittee noted that estimated coverage for high risk groups receiving funded vaccine is approximately 3% for children aged 0-4, 30% for pregnant women and 65% for people aged 65 years or over. Subsets of the 65 year and over group include M\u0101ori with 46% coverage and Pacific people with 51% coverage.</p><p>4.10 The Subcommittee noted that vaccine effectiveness of inactivated vaccines declines at 8% per month. This suggests that the elderly may have very little protection by 3- 4 months after vaccination. The Subcommittee considered that it would be necessary to increase coverage with inactivated influenza vaccines above the current 28% coverage to generate herd immunity. The Subcommittee considered that improving vaccine effectiveness in the elderly would have a greater impact on the elderly.</p><p>4.11 The Subcommittee considered a retrospective cohort study by Izurieta et al. Lancet Infect Dis. 2015;15: 293\u2013300 which demonstrated a stronger immune response to a high dose trivalent influenza vaccine (hdTIV) in the elderly compared to a trivalent influenza vaccine (TIV). This study showed hdTIV was 22% more effective in reducing hospitalisations in the elderly, compared to TIV. The Subcommittee considered that hdTIV would provide an additional health benefit to those aged over 65 years and over, with minimal additional risks compared to TIV or quadrivalent influenza vaccine (QIV). Members noted that hdTIV is not currently available in New Zealand. The Subcommittee considered that hdTIV would be likely to work in people 50 years of age and older from an immunological point of view, although data is lacking to support this view and it is not approved for use in people under 65 years of age.</p><p>4.12 The Subcommittee considered an observational study of adjuvanted influenza vaccination in an elderly population in Northern Italy by Mannino et al. Am J Epidemiol. 2012;176: 527\u2013533 which showed adjuvanted trivalent influenza vaccine (aTIV) gave a 25% reduction in the risk of hospitalisation. The Subcommittee considered that aTIV would provide an additional health benefit to those aged over 65 years and over, with minimal additional risks compared to a TIV or QIV.</p><p>4.13 The Subcommittee noted that live attenuated influenza vaccine (LAIV) is administered intranasally and is indicated for those aged 2-49 years. The Subcommittee considered that LAIV generates a broader immune response than inactivated influenza vaccines. The Subcommittee noted that LAIV has been used in both the US and UK, but there were issues with the H1N1 response in the US and LAIV has not been recommended in the US for the 2017/2018 season. The Subcommittee noted that more response data is expected be become available over coming influenza seasons, particularly from England.</p><p>4.14 The Subcommittee considered that vaccination of primary school age children contributes to herd immunity, protecting high risk individuals who may respond less well to vaccines. The Subcommittee considered that a universal childhood influenza vaccination programme would only be achievable using LAIV, with optimal delivery through a school based programme. The Subcommittee noted that there is currently no registered LAIV product in New Zealand.</p><p>4.15 The Subcommittee considered that universal childhood influenza vaccination would provide additional health benefits with minimal additional risks. The Subcommittee considered that additional benefits would include the ability to generate herd immunity, protection of the wider community and reduced hospitalisation of children. The Subcommittee considered that the groups who would benefit most from universal childhood vaccination are the elderly and those with comorbidities. The Subcommittee considered that there is not a particularly high disease burden in school based children. The Subcommittee considered that while vaccinating children may protect other groups, it is an ethical consideration that the children themselves should also derive benefit from the vaccination.</p><p>4.16 The Subcommittee considered that there are some groups disproportionately affected by influenza, including M\u0101ori, Pacific people, NZ Dep 9-10 deprivation, refugees and asylum seekers. The Subcommittee considered the concept of \u201crisk stacking\u201d for influenza, but noted that data is lacking to support this approach to targeting.</p><p>4.17 The Subcommittee considered the concept of \u201cring protection\u201d ie. the protection of high risk groups by vaccinating close contacts. The Subcommittee considered that ring protection theoretically would provide a health benefit to high risk groups. The Subcommittee noted that only 65% of DHB healthcare workers are vaccinated, but approximately 80% coverage would be required to protect high risk groups. The Subcommittee noted that there is limited evidence supporting the ring fence approach.</p><p>4.18 The Subcommittee considered that the introduction of any of hdTIV, aTIV, LAIV or universal childhood vaccination could result in reduced healthcare costs in some years. The Subcommittee considered that if herd immunity was generated, then there would be healthcare savings. The Subcommittee recommended that PHARMAC conduct cost effectiveness analysis on universal vaccination compared to childhood school vaccination to achieve herd immunity and bring the results back to a future Subcommittee meeting.</p><p><br></p><p><i>Clinical advice questions from the Ministry of Health</i></p><p>4.19 The Subcommittee considered that the definition of coverage level required to achieve community immunity depends on vaccine effectiveness; and can only ever be partial for influenza. UK data suggests that for school children, 30% coverage achieves indirect protection.</p><p>4.20 The Subcommittee considered that it would be more effective to use LAIV in a school based delivery programme, as this would have better user acceptibility. The Subcommittee considered that it would be expensive to implement a school based programme.</p><p>4.21 The Subcommittee considered a study by Mannino et al. J Amer Epidemiol 2012 which showed adjuvanted trivalent influenza vaccine (aTIV) gave a 25% reduction in the risk of hospitalisation. The Subcommittee considered that aTIV would provide an additional health benefit to those aged 65 years and over, with minimal additional risks compared to a TIV or QIV.</p><p>4.22 The Subcommittee considered a study by Izurieta et al. NEJM 2000 which demonstrated a stronger immune response to a high dose trivalent influenza vaccine (hdTIV) in the elderly compared to a trivalent influenza vaccine (TIV). This study showed hdTIV was 22% more effective in reducing hospitalisations in the elderly, compared to TIV. The Subcommittee considered that hdTIV would provide an additional health benefit to those aged over 65 years and over, with minimal additional risks compared to TIV or quadrivalent influenza vaccine (QIV).</p><p>4.23 The Subcommittee considered that there was limited evidence supporting the use of multiple vaccine doses to protect those aged 65 years and over.</p><p>4.24 The Subcommittee considered that the observed higher mortality from influenza in M\u0101ori and Pacific populations is related to lower coverage in these groups.</p><p>4.25 The Subcommittee considered that current coverage of targeted groups is not high, so expanding eligibility to M\u0101ori and Pacific from a younger age does not address the low coverage. The Subcommittee considered that increasing coverage was likely to be the best way to protect more M\u0101ori and Pacific people.</p><p>4.26 The Subcommittee considered that target strategies for particular groups often lead to other inequities. The Subcommittee considered that working towards universal vaccination could be considered, eg. starting with the access for the most deprived groups and then expanding access from there.\u00a0</p>",
+          "Status_History__c": "a132P000000D6KeQAK"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": "PTAC noted and accepted the recommendations of the Immunisation Subcommittee.",
+          "fs": "PTAC noted and accepted the recommendations of the Immunisation Subcommittee.",
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": "No Formal Recommendation",
+          "fs": "No Formal Recommendation",
+          "change": null
+        },
+        "Links": {
+          "s": "<a href=\"https://www.pharmac.govt.nz/assets/ptac-minutes-2018-11.pdf\" target=\"_blank\">PTAC minutes</a>",
+          "fs": "<a href=\"https://www.pharmac.govt.nz/assets/ptac-minutes-2018-11.pdf\" target=\"_blank\">PTAC minutes</a>",
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Nov 2018",
+          "fs": "Nov 2018",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Clinical advice received from Pharmacology and Therapeutics Advisory Committee (PTAC) at meeting Thursday 1 November 2018.",
+          "fs": "Clinical advice received from Pharmacology and Therapeutics Advisory Committee (PTAC) at meeting Thursday 1 November 2018.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000B4plc2AB"
+          },
+          "Id": "a0POZ00000B4plc2AB",
+          "Event_Date__c": "2018-11-01",
+          "Event_Description__c": "Clinical advice received from Pharmacology and Therapeutics Advisory Committee (PTAC) at meeting Thursday 1 November 2018.",
+          "Stage__c": "Seeking Clinical Advice",
+          "Links__c": "<a href=\"https://www.pharmac.govt.nz/assets/ptac-minutes-2018-11.pdf\" target=\"_blank\">PTAC minutes</a>",
+          "Outcome__c": "No Formal Recommendation",
+          "Summary__c": "PTAC noted and accepted the recommendations of the Immunisation Subcommittee.",
+          "Formatted_Date__c": "Nov 2018",
+          "Status_History__c": "a132P000000ArYKQA0"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Mar 2018",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Following Clinical Advice, Pharmac staff considers the advice and the funding application under goes an assessment using our&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/factors-for-consideration/\" rel=\"nofollow\">Factors for Consideration</a>&nbsp;framework and seeks additional information as required.</p>\r\n<p>&nbsp;</p>\r\n<p>Research and Economic analysis are undertaken.&nbsp; This focuses on the costs and benefits of a proposed course of action. Economics is based on three fundamental concepts that summarise the issues Pharmac faces daily:&nbsp;</p>\r\n<ul>\r\n<li>Scarcity &ndash; resources will always be insufficient to support all possible activities.</li>\r\n<li>Choices &ndash; due to scarce resources, decisions must be made about how best to use them.</li>\r\n<li>Opportunity cost &ndash; by choosing to use resources one way, we forgo other opportunities to use the same resources.</li>\r\n</ul>\r\n<p>&nbsp;</p>\r\n<p>For further information on the purpose of, and techniques for, undertaking economic analysis in health care, please refer&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/economic-analysis/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/economic-analysis/</a></p>",
+    "position": 2,
+    "name": "Under Assessment",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Mar 2019",
+          "fs": "Mar 2019",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Working to compare options",
+          "fs": "Working to compare options",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000B4pld2AB"
+          },
+          "Id": "a0POZ00000B4pld2AB",
+          "Event_Date__c": "2019-03-15",
+          "Event_Description__c": "Working to compare options",
+          "Stage__c": "Under Assessment",
+          "Formatted_Date__c": "Mar 2019",
+          "Status_History__c": "a132P000000ArdPQAS"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Mar 2019",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Pharmac staff uses a prioritisation process to compare and rank funding options. Possible opportunities for new investment will always exceed the budget Pharmac has available; therefore, prioritisation is an intrinsic part of Pharmac\u2019s decision-making process.</p>\r\n<p>The relative ranking of options aims to support Pharmac&rsquo;s statutory objective &ldquo;to secure for eligible people in need of pharmaceuticals, the best health outcomes that are reasonably achievable from pharmaceutical treatment and from within the amount of funding provided&rdquo;.</p>\r\n<p>A funding application or proposal is considered ready for prioritisation when sufficient information is available to permit it to be reviewed against Pharmac's Factors for Consideration and to inform a comparison with other possible investment decisions.</p>\r\n<p>There is no guarantee when or if a ranked medicine will be funded.&nbsp;&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/prioritisation/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/prioritisation/</a></p>",
+    "position": 3,
+    "name": "Options Compared",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Sep 2019",
+          "fs": "Sep 2019",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "The relative ranking of the pharmaceutical application has been completed.",
+          "fs": "The relative ranking of the pharmaceutical application has been completed.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000B4ple2AB"
+          },
+          "Id": "a0POZ00000B4ple2AB",
+          "Event_Date__c": "2019-09-06",
+          "Event_Description__c": "The relative ranking of the pharmaceutical application has been completed.",
+          "Stage__c": "Options Compared",
+          "Formatted_Date__c": "Sep 2019",
+          "Status_History__c": "a132P000000B7sMQAS"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Sep 2019",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Pharmac is consulting on a proposal to either approve or decline the application.&nbsp;We seek the views of all people who have an interest in our proposals, or who may be affected by them, to obtain feedback on our proposed approaches.</p>\r\n<p><a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/having-your-say/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/having-your-say/</a></p>",
+    "position": 4,
+    "name": "Under Consultation",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": "<p><a href=\"https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/2023-12-proposal-to-decline-inactive-funding-applications-2\" target=\"_blank\">Consultation notification</a></p>",
+          "fs": "<p><a href=\"https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/2023-12-proposal-to-decline-inactive-funding-applications-2\" target=\"_blank\">Consultation notification</a></p>",
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Dec 2023",
+          "fs": "Dec 2023",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Public consultation for this application is active.",
+          "fs": "Public consultation for this application is active.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000B4plf2AB"
+          },
+          "Id": "a0POZ00000B4plf2AB",
+          "Event_Date__c": "2023-12-18",
+          "Event_Description__c": "Public consultation for this application is active.",
+          "Stage__c": "Under Consultation",
+          "Links__c": "<p><a href=\"https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/2023-12-proposal-to-decline-inactive-funding-applications-2\" target=\"_blank\">Consultation notification</a></p>",
+          "Formatted_Date__c": "Dec 2023",
+          "Status_History__c": "a13OZ000004kkn8YAA"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Dec 2023",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Following the consultation process, Pharmac staff considers the feedback and identifies any additional information required as part of a gap analysis.&nbsp; The proposal may require further clinical advice, research, and assessment.</p>",
+    "position": 5,
+    "name": "Reviewing Consultation Feedback",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Feb 2024",
+          "fs": "Feb 2024",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Public consultation for this application is now closed. Pharmac is reviewing consultation feedback.",
+          "fs": "Public consultation for this application is now closed. Pharmac is reviewing consultation feedback.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000B4plg2AB"
+          },
+          "Id": "a0POZ00000B4plg2AB",
+          "Event_Date__c": "2024-02-12",
+          "Event_Description__c": "Public consultation for this application is now closed. Pharmac is reviewing consultation feedback.",
+          "Stage__c": "Reviewing Consultation Feedback",
+          "Formatted_Date__c": "Feb 2024",
+          "Status_History__c": "a13OZ000006m97CYAQ"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Feb 2024",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>We refer to our decisions about whether and how particular pharmaceuticals are publicly-funded, as &ldquo;funding decisions&rdquo;.</p>\r\n<p>We consider and assess all funding decisions using the&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/about/operating-policies-and-procedures/#factorsfc\" rel=\"nofollow\">Factors for Consideration</a>. When we do so, we carefully evaluate clinical and other evidence for the benefits and suitability of a proposal, and to identify and understand the people who will be affected by it.</p>\r\n<p>While our main task is to allocate pharmaceutical funding, we consider the benefits and costs across the whole health system now and with a long-term focus, including the effects for hospitals and primary care, and consider direct costs to patients as well as to all health sector budgets.</p>\r\n<p>Final funding decisions are made by the Pharmac Board or delegated to senior Pharmac staff as required by the Board.</p>\r\n<p>&nbsp;</p>",
+    "position": 6,
+    "name": "Decision",
+    "last": true,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": "<p><a href=\"https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/decision-to-decline-inactive-funding-applications-july-24\" target=\"_blank\">Decision notification</a></p>",
+          "fs": "<p><a href=\"https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/decision-to-decline-inactive-funding-applications-july-24\" target=\"_blank\">Decision notification</a></p>",
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Jul 2024",
+          "fs": "Jul 2024",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "The funding application has been declined.",
+          "fs": "The funding application has been declined.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000B4plh2AB"
+          },
+          "Id": "a0POZ00000B4plh2AB",
+          "Event_Date__c": "2024-07-29",
+          "Event_Description__c": "The funding application has been declined.",
+          "Stage__c": "Decision",
+          "Links__c": "<p><a href=\"https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/decision-to-decline-inactive-funding-applications-july-24\" target=\"_blank\">Decision notification</a></p>",
+          "Formatted_Date__c": "Jul 2024",
+          "Status_History__c": "a13OZ00000CgKEjYAN"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Jul 2024",
+    "collapsed": false,
+    "checked": true
+  }
+]

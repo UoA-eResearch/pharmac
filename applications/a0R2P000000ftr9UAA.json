@@ -1,0 +1,379 @@
+[
+  {
+    "text": "<p>New funding applications are referred to one of Pharmac's Funding Application Advisors (FAAs), who'll review the application to ensure they have the relevant information to undertake a preliminary analysis.&nbsp; They may seek more information if required.</p>\r\n<p><a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/new-funding-applications/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/new-funding-applications/</a></p>",
+    "position": 0,
+    "name": "Application Received",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Oct 2021",
+          "fs": "Oct 2021",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Application received",
+          "fs": "Application received",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P000007F5AiUAK"
+          },
+          "Id": "a0P2P000007F5AiUAK",
+          "Event_Date__c": "2021-10-08",
+          "Event_Description__c": "Application received",
+          "Stage__c": "Application Received",
+          "Formatted_Date__c": "Oct 2021",
+          "Status_History__c": "a132P000000DFafQAG"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Oct 2021",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Pharmac is identifying and gathering information required to get clinical advice.  The <a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/pharmacology-and-therapeutics-advisory-committee-ptac/\" rel=\"nofollow\">Pharmacology and Therapeutics Advisory Committee (PTAC)</a>  meets quarterly. There are also around 20 expert <a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/specialist-advisory-committees/\" rel=\"nofollow\">Specialist Advisory Committees (SACs)</a>, previously expert Subcommittees, which provide clinical evaluations in specialist areas. Specialist Advisory Committees meet as required to discuss issues referred to them by PTAC or Pharmac.</p>\n<p style=\"height: 20px\">&nbsp;</p>\n<p>In November 2021, we introduced separate terms of reference for the SACs to make clear that these committees have different, but complementary, roles, expertise and perspectives to PTAC.</p>\n<p style=\"height: 15px\">&nbsp;</p>\n<p>PTAC and SACs may make recommendations to Pharmac that differ from each other when looking at the same evidence. Pharmac considers the recommendations provided by all our clinical advisory committees when assessing applications.</p>\n<p style=\"height: 20px\">&nbsp;</p>\n<p><a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/pharmacology-and-therapeutics-advisory-committee-ptac/ptac-terms-of-reference-july-2021/\" rel=\"nofollow\">PTAC</a>  and <a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/specialist-advisory-committees/specialist-advisory-committee-terms-of-reference//\" rel=\"nofollow\">Specialist Advisory Committees</a> records of the meeting will be published on this website in accordance with the Terms of Reference.</p>",
+    "position": 1,
+    "name": "Seeking Clinical Advice",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Oct 2022",
+          "fs": "Oct 2022",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Clinical advice required",
+          "fs": "Clinical advice required",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P000007F5AjUAK"
+          },
+          "Id": "a0P2P000007F5AjUAK",
+          "Event_Date__c": "2022-10-20",
+          "Event_Description__c": "Clinical advice required",
+          "Stage__c": "Seeking Clinical Advice",
+          "Formatted_Date__c": "Oct 2022",
+          "Status_History__c": "a132P000000E7wZQAS"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Oct 2022",
+          "fs": "Oct 2022",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Assigned to Pharmacology and Therapeutics Advisory Committee (PTAC) meeting to provide advice on Thursday 17 November 2022",
+          "fs": "Assigned to Pharmacology and Therapeutics Advisory Committee (PTAC) meeting to provide advice on Thursday 17 November 2022",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P000007F5AkUAK"
+          },
+          "Id": "a0P2P000007F5AkUAK",
+          "Event_Date__c": "2022-10-21",
+          "Event_Description__c": "Assigned to Pharmacology and Therapeutics Advisory Committee (PTAC) meeting to provide advice on Thursday 17 November 2022",
+          "Stage__c": "Seeking Clinical Advice",
+          "Formatted_Date__c": "Oct 2022",
+          "Status_History__c": "a132P000000E85aQAC"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": "<p><span style=\"color: black;\">1.1.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee <strong>recommended</strong> that del-Nido cardioplegia (Biomed) be listed with a <strong>high</strong> priority.</p><p><span style=\"color: black;\">1.2.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that the listing of del Nido cardioplegia would provide another useful cardioplegia option, which would have a high utility in certain cardiac procedures.</p>",
+          "fs": "<p><span style=\"color: black;\">1.1.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee <strong>recommended</strong> that del-Nido cardioplegia (Biomed) be listed with a <strong>high</strong> priority.</p><p><span style=\"color: black;\">1.2.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that the listing of del Nido cardioplegia would provide another useful cardioplegia option, which would have a high utility in certain cardiac procedures.</p>",
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": "<h2><strong>M\u0101ori impact</strong></h2><p><span style=\"color: black;\">1.1.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee discussed the impact of funding del-Nido solution for the induction of cardiac stasis on M\u0101ori health areas of focus and M\u0101ori health outcomes. The Committee considered that M\u0101ori have higher rates of heart disease and have higher exposure to cardiovascular risk factors such as diabetes, smoking and obesity. The Committee considered although del-Nido solution was not a direct component in reduction of cardiovascular and cardiac risk factors it could be used in the surgical treatment of heart disease that disproportionately affects M\u0101ori.\u00a0\u00a0\u00a0</p><h2><strong>Background</strong></h2><p><span style=\"color: black;\">1.2.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that cardioplegia is an electrolyte solution that is used to maintain cardiac arrest, prevent dysrhythmias, avoid myocardial necrosis, deliver substrates, and wash away metabolic waste. The Committee noted that del-Nido solution is a blood cardioplegia, which is superior to crystalloid solutions. </p><p><span style=\"color: black;\">1.3.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that del-Nido cardioplegia solution is used to induce stasis in the myocardium during cardiac surgery and is currently funded in hospitals as it is able to be extemporaneously compounded from funded components. The Committee noted that this application was for an additional listing for Biomed\u2019s formulation of del-Nido solution as it was not funded as an extemporaneously compounded product when purchased from a manufacturer. </p><h2><strong>Health need</strong></h2><p><span style=\"color: black;\">1.4.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that although there was no unmet health need for this application, M\u0101ori and Pacific peoples have higher rates of heart disease and have higher exposure to cardiovascular risk factors such as diabetes, smoking and obesity. The Committee considered although del-Nido solution was not a direct component in reduction of cardiovascular and cardiac risk factors it could be used in the surgical treatment of heart disease that disproportionately affects M\u0101ori and Pacific peoples.\u00a0\u00a0\u00a0</p><h2><strong>Health benefit</strong></h2><p><span style=\"color: black;\">1.5.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that del-Nido solution is a long acting cardioplegia with a duration of effect of 90 minutes compared to 20 minutes for the commonly used Buckberg solution. The Committee considered the benefit of del-Nido solution to be a reduction in the frequency of re-infusion of the cardioplegia and a decrease in cross-clamp time. The Committee considered that outcomes such as reductions in postoperative, atrial fibrillation, renal failure or low left ventricular ejection fraction did not have a strong association with decreased cross-clamp time, although noting evidence that cross-clamp time under 150 minutes may be associated with a lower risk of postoperative events (<a href=\"https://pubmed.ncbi.nlm.nih.gov/20007817/\" target=\"_blank\">Nissinen et al. Perfusion 24 (5): 297-305</a>). </p><p><span style=\"color: black;\">1.6.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that the wash out period required for del-Nido solution would be longer than shorter acting cardioplegia. The Committee considered that duration of effect is a factor in the selection of cardioplegia solution and depends on the pathology and nature of the surgery as the complexity affects the ability of the solution to reach the target areas in the heart. The Committee considered that such factors would be considered by the clinicians involved in the procedure to make an appropriate choice for the individual they are treating. </p><h2><strong>Suitability</strong></h2><p><span style=\"color: black;\">1.7.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that the current stability of the extemporaneous product was one month stored at 2-8 \u2070C. The Committee noted that the application was for del-Nido solution produced by Biomed with a 6-month expiry and able to be stored at room temperature. The Committee noted that this was not a Medsafe approved product and if funded would be supplied under Section 29. The Committee considered that previous recommendations for other therapeutics were subject to Medsafe approval however, considered that manufacturers of product are unlikely to seek Medsafe approval. The Committee considered the risk of using an unregistered product to be low for those likely to be using this product.\u00a0</p><p><span style=\"color: black;\">1.8.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that it has been difficult for hospitals to predict the amount of del-Nido solution stock that might be required over the past few years as the COVID-19 pandemic has impacted surgical operating times. The Committee considered a longer expiry could help mitigate this issue. The Committee considered there would be less waste, reduced time needed for compounding and easier storage with the 6-month expiry product. The Committee considered that this solved a Te Whatu Ora infrastructure problem addressing both storage and time needed to compound issues. </p><h2><strong>Cost and savings</strong></h2><p><span style=\"color: black;\">1.9.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that an additional 10 minutes per hour of direct surgery time was saved using del-Nido (long acting) cardioplegia but considered that total time in theatre is impacted by many additional factors (preparation time, anaesthesia time, surgical team availability, blood testing delays, equipment function etc) and the impact of use of del-Nido solution on total theatre time is likely to be minimal. </p><p><span style=\"color: black;\">1.10.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that use of del-Nido cardioplegia with longer duration storage time would largely be confined to a subset of patients undergoing cardiac surgery, mainly in the Auckland and Waikato Te Whatu Ora districts. The Committee considered solution availability and familiarity could result in more widespread use over time. The Committee considered that del-Nido cardioplegia is not currently used for paediatric or adult congenital cardiac surgery, and current use was mainly in the adult non-congenital cardiac surgical setting. The Committee considered that del-Nido cardioplegia would be an additional option to the currently available cardioplegia solutions and may not be the preferred cardioplegia in all Te Whatu Ora districts. </p><h2><strong>Summary for assessment</strong></h2><p><span style=\"color: black;\">1.11.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that the table below summarises its interpretation of the most appropriate PICO (population, intervention, comparator, outcomes) information for Biomed\u2019s del-Nido solution if it were to be funded in New Zealand for induction of cardiac stasis during cardiac surgery. This PICO captures key clinical aspects of the proposal and may be used to frame any future economic assessment by Pharmac staff. This PICO is based on the Committee\u2019s assessment at this time and may differ from that requested by the applicant. The PICO may change based on new information, additional clinical advice, or further analysis by Pharmac staff.\u00a0</p><p><img src=\"/apptracker/servlet/rtaImage?eid=a0P2P000007F5Al&amp;feoid=00N2P000000YsIc&amp;refid=0EM2P000002i8IO\" alt=\"image.png\"></img></p>",
+          "fs": "<h2><strong>M\u0101ori impact</strong></h2><p><span style=\"color: black;\">1.1.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee discussed the impact of funding del-Nido solution for the induction of cardiac stasis on M\u0101ori health areas of focus and M\u0101ori health outcomes. The Committee considered that M\u0101ori have higher rates of heart disease and have higher exposure to cardiovascular risk factors such as diabetes, smoking and obesity. The Committee considered although del-Nido solution was not a direct component in reduction of cardiovascular and cardiac risk factors it could be used in the surgical treatment of heart disease that disproportionately affects M\u0101ori.\u00a0\u00a0\u00a0</p><h2><strong>Background</strong></h2><p><span style=\"color: black;\">1.2.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that cardioplegia is an electrolyte solution that is used to maintain cardiac arrest, prevent dysrhythmias, avoid myocardial necrosis, deliver substrates, and wash away metabolic waste. The Committee noted that del-Nido solution is a blood cardioplegia, which is superior to crystalloid solutions. </p><p><span style=\"color: black;\">1.3.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that del-Nido cardioplegia solution is used to induce stasis in the myocardium during cardiac surgery and is currently funded in hospitals as it is able to be extemporaneously compounded from funded components. The Committee noted that this application was for an additional listing for Biomed\u2019s formulation of del-Nido solution as it was not funded as an extemporaneously compounded product when purchased from a manufacturer. </p><h2><strong>Health need</strong></h2><p><span style=\"color: black;\">1.4.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that although there was no unmet health need for this application, M\u0101ori and Pacific peoples have higher rates of heart disease and have higher exposure to cardiovascular risk factors such as diabetes, smoking and obesity. The Committee considered although del-Nido solution was not a direct component in reduction of cardiovascular and cardiac risk factors it could be used in the surgical treatment of heart disease that disproportionately affects M\u0101ori and Pacific peoples.\u00a0\u00a0\u00a0</p><h2><strong>Health benefit</strong></h2><p><span style=\"color: black;\">1.5.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that del-Nido solution is a long acting cardioplegia with a duration of effect of 90 minutes compared to 20 minutes for the commonly used Buckberg solution. The Committee considered the benefit of del-Nido solution to be a reduction in the frequency of re-infusion of the cardioplegia and a decrease in cross-clamp time. The Committee considered that outcomes such as reductions in postoperative, atrial fibrillation, renal failure or low left ventricular ejection fraction did not have a strong association with decreased cross-clamp time, although noting evidence that cross-clamp time under 150 minutes may be associated with a lower risk of postoperative events (<a href=\"https://pubmed.ncbi.nlm.nih.gov/20007817/\" target=\"_blank\">Nissinen et al. Perfusion 24 (5): 297-305</a>). </p><p><span style=\"color: black;\">1.6.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that the wash out period required for del-Nido solution would be longer than shorter acting cardioplegia. The Committee considered that duration of effect is a factor in the selection of cardioplegia solution and depends on the pathology and nature of the surgery as the complexity affects the ability of the solution to reach the target areas in the heart. The Committee considered that such factors would be considered by the clinicians involved in the procedure to make an appropriate choice for the individual they are treating. </p><h2><strong>Suitability</strong></h2><p><span style=\"color: black;\">1.7.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that the current stability of the extemporaneous product was one month stored at 2-8 \u2070C. The Committee noted that the application was for del-Nido solution produced by Biomed with a 6-month expiry and able to be stored at room temperature. The Committee noted that this was not a Medsafe approved product and if funded would be supplied under Section 29. The Committee considered that previous recommendations for other therapeutics were subject to Medsafe approval however, considered that manufacturers of product are unlikely to seek Medsafe approval. The Committee considered the risk of using an unregistered product to be low for those likely to be using this product.\u00a0</p><p><span style=\"color: black;\">1.8.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that it has been difficult for hospitals to predict the amount of del-Nido solution stock that might be required over the past few years as the COVID-19 pandemic has impacted surgical operating times. The Committee considered a longer expiry could help mitigate this issue. The Committee considered there would be less waste, reduced time needed for compounding and easier storage with the 6-month expiry product. The Committee considered that this solved a Te Whatu Ora infrastructure problem addressing both storage and time needed to compound issues. </p><h2><strong>Cost and savings</strong></h2><p><span style=\"color: black;\">1.9.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that an additional 10 minutes per hour of direct surgery time was saved using del-Nido (long acting) cardioplegia but considered that total time in theatre is impacted by many additional factors (preparation time, anaesthesia time, surgical team availability, blood testing delays, equipment function etc) and the impact of use of del-Nido solution on total theatre time is likely to be minimal. </p><p><span style=\"color: black;\">1.10.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that use of del-Nido cardioplegia with longer duration storage time would largely be confined to a subset of patients undergoing cardiac surgery, mainly in the Auckland and Waikato Te Whatu Ora districts. The Committee considered solution availability and familiarity could result in more widespread use over time. The Committee considered that del-Nido cardioplegia is not currently used for paediatric or adult congenital cardiac surgery, and current use was mainly in the adult non-congenital cardiac surgical setting. The Committee considered that del-Nido cardioplegia would be an additional option to the currently available cardioplegia solutions and may not be the preferred cardioplegia in all Te Whatu Ora districts. </p><h2><strong>Summary for assessment</strong></h2><p><span style=\"color: black;\">1.11.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that the table below summarises its interpretation of the most appropriate PICO (population, intervention, comparator, outcomes) information for Biomed\u2019s del-Nido solution if it were to be funded in New Zealand for induction of cardiac stasis during cardiac surgery. This PICO captures key clinical aspects of the proposal and may be used to frame any future economic assessment by Pharmac staff. This PICO is based on the Committee\u2019s assessment at this time and may differ from that requested by the applicant. The PICO may change based on new information, additional clinical advice, or further analysis by Pharmac staff.\u00a0</p><p><img src=\"/apptracker/servlet/rtaImage?eid=a0P2P000007F5Al&amp;feoid=00N2P000000YsIc&amp;refid=0EM2P000002i8IO\" alt=\"image.png\"></img></p>",
+          "change": null
+        },
+        "Published_Application": {
+          "s": "<p><span style=\"color: black;\">1.1.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee reviewed the application for del-Nido cardioplegia to induce cardiac stasis and protect the myocardium during open heart surgery. </p><p><span style=\"color: black;\">1.2.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee took into account, where applicable, Pharmac\u2019s relevant decision-making framework when considering this agenda item.\u00a0</p>",
+          "fs": "<p><span style=\"color: black;\">1.1.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee reviewed the application for del-Nido cardioplegia to induce cardiac stasis and protect the myocardium during open heart surgery. </p><p><span style=\"color: black;\">1.2.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee took into account, where applicable, Pharmac\u2019s relevant decision-making framework when considering this agenda item.\u00a0</p>",
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": "High",
+          "fs": "High",
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Mar 2023",
+          "fs": "Mar 2023",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Clinical advice received from Pharmacology and Therapeutics Advisory Committee (PTAC) at meeting Thursday 17 November 2022.",
+          "fs": "Clinical advice received from Pharmacology and Therapeutics Advisory Committee (PTAC) at meeting Thursday 17 November 2022.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P000007F5AlUAK"
+          },
+          "Id": "a0P2P000007F5AlUAK",
+          "Event_Date__c": "2023-03-20",
+          "Event_Description__c": "Clinical advice received from Pharmacology and Therapeutics Advisory Committee (PTAC) at meeting Thursday 17 November 2022.",
+          "Stage__c": "Seeking Clinical Advice",
+          "Outcome__c": "High",
+          "Formatted_Date__c": "Mar 2023",
+          "Published_Recommendation__c": "<p><span style=\"color: black;\">1.1.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee <strong>recommended</strong> that del-Nido cardioplegia (Biomed) be listed with a <strong>high</strong> priority.</p><p><span style=\"color: black;\">1.2.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that the listing of del Nido cardioplegia would provide another useful cardioplegia option, which would have a high utility in certain cardiac procedures.</p>",
+          "Published_Application__c": "<p><span style=\"color: black;\">1.1.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee reviewed the application for del-Nido cardioplegia to induce cardiac stasis and protect the myocardium during open heart surgery. </p><p><span style=\"color: black;\">1.2.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee took into account, where applicable, Pharmac\u2019s relevant decision-making framework when considering this agenda item.\u00a0</p>",
+          "Published_Discussion__c": "<h2><strong>M\u0101ori impact</strong></h2><p><span style=\"color: black;\">1.1.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee discussed the impact of funding del-Nido solution for the induction of cardiac stasis on M\u0101ori health areas of focus and M\u0101ori health outcomes. The Committee considered that M\u0101ori have higher rates of heart disease and have higher exposure to cardiovascular risk factors such as diabetes, smoking and obesity. The Committee considered although del-Nido solution was not a direct component in reduction of cardiovascular and cardiac risk factors it could be used in the surgical treatment of heart disease that disproportionately affects M\u0101ori.\u00a0\u00a0\u00a0</p><h2><strong>Background</strong></h2><p><span style=\"color: black;\">1.2.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that cardioplegia is an electrolyte solution that is used to maintain cardiac arrest, prevent dysrhythmias, avoid myocardial necrosis, deliver substrates, and wash away metabolic waste. The Committee noted that del-Nido solution is a blood cardioplegia, which is superior to crystalloid solutions. </p><p><span style=\"color: black;\">1.3.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that del-Nido cardioplegia solution is used to induce stasis in the myocardium during cardiac surgery and is currently funded in hospitals as it is able to be extemporaneously compounded from funded components. The Committee noted that this application was for an additional listing for Biomed\u2019s formulation of del-Nido solution as it was not funded as an extemporaneously compounded product when purchased from a manufacturer. </p><h2><strong>Health need</strong></h2><p><span style=\"color: black;\">1.4.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that although there was no unmet health need for this application, M\u0101ori and Pacific peoples have higher rates of heart disease and have higher exposure to cardiovascular risk factors such as diabetes, smoking and obesity. The Committee considered although del-Nido solution was not a direct component in reduction of cardiovascular and cardiac risk factors it could be used in the surgical treatment of heart disease that disproportionately affects M\u0101ori and Pacific peoples.\u00a0\u00a0\u00a0</p><h2><strong>Health benefit</strong></h2><p><span style=\"color: black;\">1.5.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that del-Nido solution is a long acting cardioplegia with a duration of effect of 90 minutes compared to 20 minutes for the commonly used Buckberg solution. The Committee considered the benefit of del-Nido solution to be a reduction in the frequency of re-infusion of the cardioplegia and a decrease in cross-clamp time. The Committee considered that outcomes such as reductions in postoperative, atrial fibrillation, renal failure or low left ventricular ejection fraction did not have a strong association with decreased cross-clamp time, although noting evidence that cross-clamp time under 150 minutes may be associated with a lower risk of postoperative events (<a href=\"https://pubmed.ncbi.nlm.nih.gov/20007817/\" target=\"_blank\">Nissinen et al. Perfusion 24 (5): 297-305</a>). </p><p><span style=\"color: black;\">1.6.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that the wash out period required for del-Nido solution would be longer than shorter acting cardioplegia. The Committee considered that duration of effect is a factor in the selection of cardioplegia solution and depends on the pathology and nature of the surgery as the complexity affects the ability of the solution to reach the target areas in the heart. The Committee considered that such factors would be considered by the clinicians involved in the procedure to make an appropriate choice for the individual they are treating. </p><h2><strong>Suitability</strong></h2><p><span style=\"color: black;\">1.7.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that the current stability of the extemporaneous product was one month stored at 2-8 \u2070C. The Committee noted that the application was for del-Nido solution produced by Biomed with a 6-month expiry and able to be stored at room temperature. The Committee noted that this was not a Medsafe approved product and if funded would be supplied under Section 29. The Committee considered that previous recommendations for other therapeutics were subject to Medsafe approval however, considered that manufacturers of product are unlikely to seek Medsafe approval. The Committee considered the risk of using an unregistered product to be low for those likely to be using this product.\u00a0</p><p><span style=\"color: black;\">1.8.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that it has been difficult for hospitals to predict the amount of del-Nido solution stock that might be required over the past few years as the COVID-19 pandemic has impacted surgical operating times. The Committee considered a longer expiry could help mitigate this issue. The Committee considered there would be less waste, reduced time needed for compounding and easier storage with the 6-month expiry product. The Committee considered that this solved a Te Whatu Ora infrastructure problem addressing both storage and time needed to compound issues. </p><h2><strong>Cost and savings</strong></h2><p><span style=\"color: black;\">1.9.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that an additional 10 minutes per hour of direct surgery time was saved using del-Nido (long acting) cardioplegia but considered that total time in theatre is impacted by many additional factors (preparation time, anaesthesia time, surgical team availability, blood testing delays, equipment function etc) and the impact of use of del-Nido solution on total theatre time is likely to be minimal. </p><p><span style=\"color: black;\">1.10.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that use of del-Nido cardioplegia with longer duration storage time would largely be confined to a subset of patients undergoing cardiac surgery, mainly in the Auckland and Waikato Te Whatu Ora districts. The Committee considered solution availability and familiarity could result in more widespread use over time. The Committee considered that del-Nido cardioplegia is not currently used for paediatric or adult congenital cardiac surgery, and current use was mainly in the adult non-congenital cardiac surgical setting. The Committee considered that del-Nido cardioplegia would be an additional option to the currently available cardioplegia solutions and may not be the preferred cardioplegia in all Te Whatu Ora districts. </p><h2><strong>Summary for assessment</strong></h2><p><span style=\"color: black;\">1.11.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that the table below summarises its interpretation of the most appropriate PICO (population, intervention, comparator, outcomes) information for Biomed\u2019s del-Nido solution if it were to be funded in New Zealand for induction of cardiac stasis during cardiac surgery. This PICO captures key clinical aspects of the proposal and may be used to frame any future economic assessment by Pharmac staff. This PICO is based on the Committee\u2019s assessment at this time and may differ from that requested by the applicant. The PICO may change based on new information, additional clinical advice, or further analysis by Pharmac staff.\u00a0</p><p><img src=\"/apptracker/servlet/rtaImage?eid=a0P2P000007F5Al&amp;feoid=00N2P000000YsIc&amp;refid=0EM2P000002i8IO\" alt=\"image.png\"></img></p>",
+          "Status_History__c": "a132P000000EDjRQAW"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Oct 2022",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Following Clinical Advice, Pharmac staff considers the advice and the funding application under goes an assessment using our&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/factors-for-consideration/\" rel=\"nofollow\">Factors for Consideration</a>&nbsp;framework and seeks additional information as required.</p>\r\n<p>&nbsp;</p>\r\n<p>Research and Economic analysis are undertaken.&nbsp; This focuses on the costs and benefits of a proposed course of action. Economics is based on three fundamental concepts that summarise the issues Pharmac faces daily:&nbsp;</p>\r\n<ul>\r\n<li>Scarcity &ndash; resources will always be insufficient to support all possible activities.</li>\r\n<li>Choices &ndash; due to scarce resources, decisions must be made about how best to use them.</li>\r\n<li>Opportunity cost &ndash; by choosing to use resources one way, we forgo other opportunities to use the same resources.</li>\r\n</ul>\r\n<p>&nbsp;</p>\r\n<p>For further information on the purpose of, and techniques for, undertaking economic analysis in health care, please refer&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/economic-analysis/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/economic-analysis/</a></p>",
+    "position": 2,
+    "name": "Under Assessment",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Apr 2023",
+          "fs": "Apr 2023",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Working to compare options",
+          "fs": "Working to compare options",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P000007F5AmUAK"
+          },
+          "Id": "a0P2P000007F5AmUAK",
+          "Event_Date__c": "2023-04-20",
+          "Event_Description__c": "Working to compare options",
+          "Stage__c": "Under Assessment",
+          "Formatted_Date__c": "Apr 2023",
+          "Status_History__c": "a132P000000EDl9QAG"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Apr 2023",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Pharmac staff uses a prioritisation process to compare and rank funding options. Possible opportunities for new investment will always exceed the budget Pharmac has available; therefore, prioritisation is an intrinsic part of Pharmac\u2019s decision-making process.</p>\r\n<p>The relative ranking of options aims to support Pharmac&rsquo;s statutory objective &ldquo;to secure for eligible people in need of pharmaceuticals, the best health outcomes that are reasonably achievable from pharmaceutical treatment and from within the amount of funding provided&rdquo;.</p>\r\n<p>A funding application or proposal is considered ready for prioritisation when sufficient information is available to permit it to be reviewed against Pharmac's Factors for Consideration and to inform a comparison with other possible investment decisions.</p>\r\n<p>There is no guarantee when or if a ranked medicine will be funded.&nbsp;&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/prioritisation/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/prioritisation/</a></p>",
+    "position": 3,
+    "name": "Options Compared",
+    "last": false,
+    "events": null,
+    "dateString": null,
+    "collapsed": false,
+    "checked": false
+  },
+  {
+    "text": "<p>Pharmac is consulting on a proposal to either approve or decline the application.&nbsp;We seek the views of all people who have an interest in our proposals, or who may be affected by them, to obtain feedback on our proposed approaches.</p>\r\n<p><a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/having-your-say/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/having-your-say/</a></p>",
+    "position": 4,
+    "name": "Under Consultation",
+    "last": false,
+    "events": null,
+    "dateString": null,
+    "collapsed": false,
+    "checked": false
+  },
+  {
+    "text": "<p>Following the consultation process, Pharmac staff considers the feedback and identifies any additional information required as part of a gap analysis.&nbsp; The proposal may require further clinical advice, research, and assessment.</p>",
+    "position": 5,
+    "name": "Reviewing Consultation Feedback",
+    "last": false,
+    "events": null,
+    "dateString": null,
+    "collapsed": false,
+    "checked": false
+  },
+  {
+    "text": "<p>We refer to our decisions about whether and how particular pharmaceuticals are publicly-funded, as &ldquo;funding decisions&rdquo;.</p>\r\n<p>We consider and assess all funding decisions using the&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/about/operating-policies-and-procedures/#factorsfc\" rel=\"nofollow\">Factors for Consideration</a>. When we do so, we carefully evaluate clinical and other evidence for the benefits and suitability of a proposal, and to identify and understand the people who will be affected by it.</p>\r\n<p>While our main task is to allocate pharmaceutical funding, we consider the benefits and costs across the whole health system now and with a long-term focus, including the effects for hospitals and primary care, and consider direct costs to patients as well as to all health sector budgets.</p>\r\n<p>Final funding decisions are made by the Pharmac Board or delegated to senior Pharmac staff as required by the Board.</p>\r\n<p>&nbsp;</p>",
+    "position": 6,
+    "name": "Decision",
+    "last": true,
+    "events": null,
+    "dateString": null,
+    "collapsed": false,
+    "checked": false
+  }
+]

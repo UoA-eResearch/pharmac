@@ -1,0 +1,930 @@
+[
+  {
+    "text": "<p>New funding applications are referred to one of Pharmac's Funding Application Advisors (FAAs), who'll review the application to ensure they have the relevant information to undertake a preliminary analysis.&nbsp; They may seek more information if required.</p>\r\n<p><a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/new-funding-applications/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/new-funding-applications/</a></p>",
+    "position": 0,
+    "name": "Application Received",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Feb 2020",
+          "fs": "Feb 2020",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Application received",
+          "fs": "Application received",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P000006NQO2UAO"
+          },
+          "Id": "a0P2P000006NQO2UAO",
+          "Event_Date__c": "2020-02-17",
+          "Event_Description__c": "Application received",
+          "Stage__c": "Application Received",
+          "Formatted_Date__c": "Feb 2020",
+          "Status_History__c": "a132P000000BaAgQAK"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Feb 2020",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Pharmac is identifying and gathering information required to get clinical advice.  The <a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/pharmacology-and-therapeutics-advisory-committee-ptac/\" rel=\"nofollow\">Pharmacology and Therapeutics Advisory Committee (PTAC)</a>  meets quarterly. There are also around 20 expert <a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/specialist-advisory-committees/\" rel=\"nofollow\">Specialist Advisory Committees (SACs)</a>, previously expert Subcommittees, which provide clinical evaluations in specialist areas. Specialist Advisory Committees meet as required to discuss issues referred to them by PTAC or Pharmac.</p>\n<p style=\"height: 20px\">&nbsp;</p>\n<p>In November 2021, we introduced separate terms of reference for the SACs to make clear that these committees have different, but complementary, roles, expertise and perspectives to PTAC.</p>\n<p style=\"height: 15px\">&nbsp;</p>\n<p>PTAC and SACs may make recommendations to Pharmac that differ from each other when looking at the same evidence. Pharmac considers the recommendations provided by all our clinical advisory committees when assessing applications.</p>\n<p style=\"height: 20px\">&nbsp;</p>\n<p><a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/pharmacology-and-therapeutics-advisory-committee-ptac/ptac-terms-of-reference-july-2021/\" rel=\"nofollow\">PTAC</a>  and <a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/specialist-advisory-committees/specialist-advisory-committee-terms-of-reference//\" rel=\"nofollow\">Specialist Advisory Committees</a> records of the meeting will be published on this website in accordance with the Terms of Reference.</p>",
+    "position": 1,
+    "name": "Seeking Clinical Advice",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Mar 2020",
+          "fs": "Mar 2020",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Clinical advice required",
+          "fs": "Clinical advice required",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P000006NQO3UAO"
+          },
+          "Id": "a0P2P000006NQO3UAO",
+          "Event_Date__c": "2020-03-19",
+          "Event_Description__c": "Clinical advice required",
+          "Stage__c": "Seeking Clinical Advice",
+          "Formatted_Date__c": "Mar 2020",
+          "Status_History__c": "a132P000000BatLQAS"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Jun 2020",
+          "fs": "Jun 2020",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Assigned to Pharmacology and Therapeutics Advisory Committee (PTAC) meeting to provide advice on Friday 21 August 2020",
+          "fs": "Assigned to Pharmacology and Therapeutics Advisory Committee (PTAC) meeting to provide advice on Friday 21 August 2020",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P000006NQO4UAO"
+          },
+          "Id": "a0P2P000006NQO4UAO",
+          "Event_Date__c": "2020-06-18",
+          "Event_Description__c": "Assigned to Pharmacology and Therapeutics Advisory Committee (PTAC) meeting to provide advice on Friday 21 August 2020",
+          "Stage__c": "Seeking Clinical Advice",
+          "Formatted_Date__c": "Jun 2020",
+          "Status_History__c": "a132P000000BsYlQAK"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Sep 2020",
+          "fs": "Sep 2020",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Clinical advice required",
+          "fs": "Clinical advice required",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P000006NQO5UAO"
+          },
+          "Id": "a0P2P000006NQO5UAO",
+          "Event_Date__c": "2020-09-21",
+          "Event_Description__c": "Clinical advice required",
+          "Stage__c": "Seeking Clinical Advice",
+          "Formatted_Date__c": "Sep 2020",
+          "Status_History__c": "a132P000000CBYzQAO"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Sep 2020",
+          "fs": "Sep 2020",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Assigned to Cancer Treatments Subcommittee (CaTSoP) meeting to provide advice on Friday 16 October 2020",
+          "fs": "Assigned to Cancer Treatments Subcommittee (CaTSoP) meeting to provide advice on Friday 16 October 2020",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P000006NQO6UAO"
+          },
+          "Id": "a0P2P000006NQO6UAO",
+          "Event_Date__c": "2020-09-21",
+          "Event_Description__c": "Assigned to Cancer Treatments Subcommittee (CaTSoP) meeting to provide advice on Friday 16 October 2020",
+          "Stage__c": "Seeking Clinical Advice",
+          "Formatted_Date__c": "Sep 2020",
+          "Status_History__c": "a132P000000CBZfQAO"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Sep 2020",
+          "fs": "Sep 2020",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Assigned to Pharmacology and Therapeutics Advisory Committee (PTAC) meeting to provide advice on Friday 21 August 2020",
+          "fs": "Assigned to Pharmacology and Therapeutics Advisory Committee (PTAC) meeting to provide advice on Friday 21 August 2020",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P000006NQO7UAO"
+          },
+          "Id": "a0P2P000006NQO7UAO",
+          "Event_Date__c": "2020-09-23",
+          "Event_Description__c": "Assigned to Pharmacology and Therapeutics Advisory Committee (PTAC) meeting to provide advice on Friday 21 August 2020",
+          "Stage__c": "Seeking Clinical Advice",
+          "Formatted_Date__c": "Sep 2020",
+          "Status_History__c": "a132P000000CBssQAG"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": "<p>The Committee <b>recommended</b> that trastuzumab emtansine be listed for the treatment of HER2 positive early breast cancer in patients who have residual disease after neoadjuvant systemic treatment that included HER2-targeted therapy with a low priority. </p><p><br></p><p>The Committee <b>recommended</b> that advice be sought from CaTSoP regarding:</p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>the current treatment paradigm for early breast cancer in New Zealand; </p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>the proportion of patients with residual disease following HER2 targeted therapy and whether this is used for treatment decision making currently; </p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>whether residual disease is a predictor of disease recurrence and death in breast cancer; </p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>the proportion of patients who receive neoadjuvant treatment, and whether this would differ were trastuzumab emtansine to be funded in this setting; </p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>the number of cycles of trastuzumab that patients currently receive in the neoadjuvant setting, and if would this change if trastuzumab-DM1 (T-DM1) were to be funded;</p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>the current use of adjuvant capecitabine in the treatment of early breast cancer;</p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>the 5-year relapse rate for patients with early breast cancer who have been treated with trastuzumab in the neoadjuvant and/or adjuvant setting; </p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>the relevance of the <a href=\"https://www.ncbi.nlm.nih.gov/pubmed/30516102\" target=\"_blank\">KATHERINE</a> trial to the New Zealand patient population;</p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>the evidence for and suitability of complete response (CR) as a surrogate marker for overall survival (OS) improvement;</p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>the evidence for and suitability of invasive disease-free survival (IDFS) as a surrogate marker for OS; </p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>consequences to the health system if trastuzumab emtansine were to be listed in this setting; </p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>whether the listing of trastuzumab emtansine would affect management of metastatic disease, and what the role of this treatment would be in a metastatic setting following its earlier use;</p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>appropriate Special Authority criteria, including any amendment to criteria for the currently funded metastatic setting.\u00a0</p>",
+          "fs": "<p>The Committee <b>recommended</b> that trastuzumab emtansine be listed for the treatment of HER2 positive early breast cancer in patients who have residual disease after neoadjuvant systemic treatment that included HER2-targeted therapy with a low priority. </p><p><br></p><p>The Committee <b>recommended</b> that advice be sought from CaTSoP regarding:</p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>the current treatment paradigm for early breast cancer in New Zealand; </p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>the proportion of patients with residual disease following HER2 targeted therapy and whether this is used for treatment decision making currently; </p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>whether residual disease is a predictor of disease recurrence and death in breast cancer; </p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>the proportion of patients who receive neoadjuvant treatment, and whether this would differ were trastuzumab emtansine to be funded in this setting; </p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>the number of cycles of trastuzumab that patients currently receive in the neoadjuvant setting, and if would this change if trastuzumab-DM1 (T-DM1) were to be funded;</p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>the current use of adjuvant capecitabine in the treatment of early breast cancer;</p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>the 5-year relapse rate for patients with early breast cancer who have been treated with trastuzumab in the neoadjuvant and/or adjuvant setting; </p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>the relevance of the <a href=\"https://www.ncbi.nlm.nih.gov/pubmed/30516102\" target=\"_blank\">KATHERINE</a> trial to the New Zealand patient population;</p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>the evidence for and suitability of complete response (CR) as a surrogate marker for overall survival (OS) improvement;</p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>the evidence for and suitability of invasive disease-free survival (IDFS) as a surrogate marker for OS; </p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>consequences to the health system if trastuzumab emtansine were to be listed in this setting; </p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>whether the listing of trastuzumab emtansine would affect management of metastatic disease, and what the role of this treatment would be in a metastatic setting following its earlier use;</p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>appropriate Special Authority criteria, including any amendment to criteria for the currently funded metastatic setting.\u00a0</p>",
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": "<p>The Committee noted that breast cancer is the most common cancer diagnosis in women worldwide, and that in 2017 there were 3316 new cases of breast cancer reported across both women and men in New Zealand (<a href=\"https://www.health.govt.nz/publication/new-cancer-registrations-2017\" target=\"_blank\" style=\"color: windowtext;\">New Zealand Cancer Registry, 2019</a>). The Committee also noted that approximately 80% of breast cancer patients present with early breast cancer (eBC) and that there are approximately 650 deaths from breast cancer per year in New Zealand. </p><p><br></p><p>The Committee noted that overexpression of human epidermal growth factor receptor 2 (HER2) occurs in around 15-20% of breast cancers in New Zealand (<a href=\"https://www.ncbi.nlm.nih.gov/pubmed/29771902\" target=\"_blank\" style=\"color: windowtext;\">Lawrenson et al. NZMJ. 2018;131:51-60</a>). </p><p><br></p><p>The Committee noted that M\u0101ori and Pacific people have a higher incidence of breast cancer than those of European/Other descent, are more likely to have HER2 positivity, and have a higher mortality rate. The Committee noted that M\u0101ori are usually diagnosed later than non-M\u0101ori, and that Pacific peoples are less likely to be diagnosed through screening, which is associated with their incidence of advanced breast cancer being higher (although not necessarily causing this). The Committee noted that people in the Asian population often present with larger cancers at diagnosis, are more likely to be HER2 positive than European/Other but have a lower rate of BC mortality.\u00a0</p><p>The Committee noted that currently eligible patients with HER2 positive disease may be administered chemotherapy in combination with the HER2-targeted agent, trastuzumab, as neoadjuvant therapy (before surgery) aiming to shrink the tumour prior to resection, and/or as adjuvant therapy (following surgery), for a combined total of 52 weeks neo/adjuvant treatment. The Committee noted that not all patients receive neo-adjuvant treatment prior to surgery. </p><p><br></p><p>The Committee noted that CaTSoP, at its <a href=\"https://www.pharmac.govt.nz/assets/ptac-cancer-treatment-subcommittee-minutes-2018-09.pdf\" target=\"_blank\" style=\"color: windowtext;\">September 2018 meeting</a>, considered an application for pertuzumab for the neoadjuvant treatment of HER2-positive locally advanced, inflammatory or high risk early stage breast cancer. The Committee noted that the Subcommittee had considered that at that time between 50 and 70 patients with HER2 positive breast cancer would be offered neoadjuvant therapy in New Zealand; however, this would likely increase with time, given trends for increasing neoadjuvant treatment. The Committee noted that CaTSoP members considered that the patients most likely to be offered neoadjuvant therapy include those who have locally advanced breast cancer where surgery may not achieve adequate margins, patients who have locally advanced breast cancer who would generally be considered for mastectomy but have a preference for breast conserving surgery, and patients with HER2-positive or triple negative breast cancer who have tumours greater than 2 cm in size. The Committee noted that there is a difference in the rates of neoadjuvant treatment between centres, in part due to the increased complexity around treatment planning and surgical staff availability. </p><p><br></p><p>The Committee also noted that in September 2018 CaTSoP had considered that the benefits associated with the use of neoadjuvant therapy include avoiding delays in treatment due to surgical complications, but had considered that the evidence available at that time for neoadjuvant treatment did not demonstrate that neoadjuvant therapy provides an overall survival advantage, although it does allow more patients to undergo breast conserving surgery rather than mastectomy, and would delay rather than prevent future treatment lines.</p><p><br></p><p>The Committee noted that, internationally, the incidence of residual disease after neo-adjuvant systemic treatment with trastuzumab is considered approximately 70.5% (<a href=\"https://pubmed.ncbi.nlm.nih.gov/27179402/\" target=\"_blank\" style=\"color: windowtext;\">Gianni et al. Lancet Oncol. 2016;17(6):791-800</a>), however the applicant had indicated from anecdotal data that the rate in New Zealand may be approximately 50-60%. </p><p><br></p><p>The Committee considered that there appeared to be limited data available for the use of residual disease occurrence following neoadjuvant HER2 targeted therapy as a predictor for disease recurrence or death in patients with HER2 positive early breast cancer.</p><p><br></p><p>The Committee noted a summary of a poster presentation by Swain et al. 2020 provided by the applicant on the risk of recurrence of HER2 positive breast cancer following HER2 targeted therapy in neoadjuvant and adjuvant settings. The Committee noted that recurrence rates reported ranged from 17-40% depending on the HER2 targeted agents used, if there was a combination of agents, and if patients achieved complete pathological response following treatment. The Committee noted that there appeared to be limited data available on 5-year recurrence rates of HER2 positive breast cancer following treatment with trastuzumab. </p><p><br></p><p>The Committee considered that in the absence of a complete pathological response following neoadjuvant treatment and surgery, patients can be treated with adjuvant capecitabine either as monotherapy or in combination with docetaxel. The Committee noted that the evidence for use of capecitabine in a general population was based on extrapolation of a small Japanese study in which a subset of patients with a non-pathologic response had improved outcomes from the addition of capecitabine (<a href=\"https://www.nejm.org/doi/full/10.1056/NEJMoa1612645\" target=\"_blank\" style=\"color: windowtext;\">Masuda et al. N Engl J Med. 2017;76(22):2147-59</a>). The Committee considered that although capecitabine is not an appropriate comparator for trastuzumab emtansine given the quality of evidence, it should be taken into account as part of the treatment paradigm if it is being used currently in New Zealand.</p><p><br></p><p>The Committee noted that trastuzumab emtansine (T-DM1) is a HER2-targeted antibody-drug conjugate that contains the humanised anti-HER2 IgG1, trastuzumab, covalently linked to the microtubule inhibitory drug DM1 (a maytansine derivative) with the stable thioether linker MCC. Emtansine refers to the MCC-DM1 complex. The Committee noted that the mechanism of action of T-DM1 allows the DM1 to be preferentially delivered to tumour cells, limiting the damage to surrounding tissues. The Committee noted that T-DM1 is Medsafe-approved for the requested indication. </p><p><br></p><p>The Committee noted that the supplier had proposed T-DM1 as the standard therapy for HER2 positive early breast cancer in patients who have residual disease after neoadjuvant treatment that included HER2-targeted therapy. The Committee noted that the supplier had considered that T-DM1 would not replace neoadjuvant trastuzumab treatment and would not be used in post-surgery treatments where patients had had a complete response. The Committee noted that the supplier had considered that patient response to neoadjuvant treatment with trastuzumab would be assessed either pre- or post-surgery in resected tissue. </p><p><br></p><p>The Committee noted a phase III, two-arm, randomised, open-label, multicentre trial (the KATHERINE trial, n=1486), which investigated the efficacy of T-DM1 compared with trastuzumab (both 3-weekly over 42 weeks) in patients with HER2 positive early breast cancer who were found to have residual disease at surgery after receiving neoadjuvant therapy plus HER2 targeted therapy (<a href=\"https://www.ncbi.nlm.nih.gov/pubmed/30516102\" target=\"_blank\" style=\"color: windowtext;\">Von Minckwitz et al. N Engl J Med 2019;380:617-28</a>). The Committee noted that there was no recruitment from New Zealand in the trial, however the Committee considered that the New Zealand patient population would meet similar criteria as those recruited for the trial. The Committee also noted that the adjuvant portion of the treatment course with trastuzumab is the appropriate comparator to T-DM1 in the New Zealand context.</p><p><br></p><p>The Committee noted that invasive disease was reported to be less common in the T-DM1 group compared with the trastuzumab treatment group (12.2% and 22.2%, respectively), the hazard ratio (HR) for invasive disease-free survival (iDFS) at 3 years was 0.50 (95% CI 0.39 to 0.64) favouring T-DM1, and that freedom from distant recurrence at 3 years also favoured T-DM1 (HR 0.60; 95% CI 0.45 to 0.79). The Committee also noted that although the OS data was immature, the point estimate of the hazard ratio favoured T-DM1 (HR 0.70; 95% CI 0.47 to 1.05; p=0.08). The Committee noted that there was no evidence of a different treatment effect in sub-groups of the trial participants. </p><p><br></p><p>The Committee noted that T-DM1 had an inferior safety profile compared with trastuzumab, with serious adverse events occurring in 12.7% of the T-DM1 group compared to 8.1% of the trastuzumab group, and that adverse events leading to discontinuation of treatment occurred in 18.0% of the T-DM1 group compared to 2.1% of the trastuzumab group. The Committee considered that this difference in safety was likely due to the components of the antibody-drug conjugate being more cytotoxic than trastuzumab. </p><p><br></p><p>The Committee noted that the primary endpoint of the KATHERINE trial was invasive disease-free survival (iDFS) as a surrogate for OS. The Committee noted that the applicant referenced a 2019 study (<a href=\"https://www.ncbi.nlm.nih.gov/pubmed/30709633\" target=\"_blank\" style=\"color: windowtext;\">Saad et al. Lancet Oncol. 2019;20:361-70</a>), in which the validity of disease-free survival (DFS) as a surrogate for OS in patients with HER2-positive early breast cancer in trials of adjuvant trastuzumab for up to 1 year was assessed via systematic review and meta-analysis, with the objective to estimate patient-level and trial-level correlations between OS and DFS. The Committee noted that patient-level associations between DFS and OS were reported to be strong (Spearman\u2019s correlation coefficient=0\u00b790; 95% CI 0\u00b789 to 0\u00b790) However, the Committee considered that, in a disease such as this with multiple lines of treatment and a relatively long survival, that it was difficult to interpret the relationship of a surrogate marker such as DFS with OS. </p><p>The Committee noted patient reported outcomes from the KATHERINE trial, for which 70% of patients in the trial submitted data (<a href=\"https://pubmed.ncbi.nlm.nih.gov/32286687/\" target=\"_blank\" style=\"color: windowtext;\">Conte et al. Cancer. 2020;26:3132-9</a>). The Committee noted that mean changes in global, cognitive, physical and fatigue scores were similar between the two treatment groups and that most changes in score were not clinically meaningful and returned to baseline. </p><p>Overall, the Committee considered there was limited evidence of moderate strength and high quality to support the use of T-DM1 as adjuvant treatment of HER2 positive early breast cancer in patients who have residual disease after neoadjuvant treatment that included HER2-targeted therapy. </p><p><br></p><p>The Committee considered that use of this agent would be associated with an increase in adverse-event related costs to the health system if T-DM1 were to be funded in this setting, and may be further compounded by an increase in demand for neoadjuvant therapy with more options available. The Committee considered that funding in this setting would likely result in an increase in clinical staff workload and demand for infusion capacity. </p><p><br></p><p>The Committee noted that at its <a href=\"https://www.pharmac.govt.nz/assets/ptac-minutes-2019-08.pdf\" target=\"_blank\" style=\"color: windowtext;\">August 2019</a> meeting it had previously considered an application for trastuzumab biosimilar and that it would be clinically acceptable for the treatment of HER2-positive early breast cancer and HER2-positive metastatic breast cancer. The Committee noted that there were several trastuzumab biosimilars available internationally. The Committee considered that, given this competition, it was likely a significant price change for trastuzumab may occur in the near future, which should be considered in any economic assessment as this would influence the cost-effectiveness of T-DM1 if it were to be funded in the proposed setting. </p><p><br></p><p>The Committee considered that, while a positive recommendation was supported at this time, which was based on the currently available evidence and current pricing for differential between trastuzumab and T-DM1, it was however unclear what the OS gain with use of T-DM1 in this setting would be and whether this would be of sufficient magnitude to offset the associated increase in adverse events. </p><p><br></p><p>The Committee considered that it was unclear what the role of T-DM1 would be in the treatment paradigm and management of patients with eBC who may go on to develop metastatic disease. The Committee noted that trastuzumab emtansine is currently funded for the second-line treatment of metastatic HER2 positive breast cancer and that it was uncertain what the response would be for patients with metastases who had received adjuvant treatment with T-DM1 for their early breast cancer and what, if any, evidence there was to support its use in this way. </p><p><br></p><p>The Committee noted that, contrary to instructions in the <a href=\"https://www.pharmac.govt.nz/assets/funding-guidelines-2019-08.pdf\" target=\"_blank\" style=\"color: windowtext;\">Guidelines for Funding Applications to PHARMAC</a>, the supplier\u2019s application contained a substantial amount of information that was of limited relevance, and at times irrelevant, for the evaluation of evidence for the use of T-DM1 in the adjuvant treatment of HER2 positive early breast cancer, and considered that this increased the difficulty for the Committee to evaluate the evidence provided in a timely manner. The Committee expressed its disappointment and requested that the applicant follow the guidelines, carefully consider the material included in its submissions and limit material to only relevant documents and information.\u00a0</p>",
+          "fs": "<p>The Committee noted that breast cancer is the most common cancer diagnosis in women worldwide, and that in 2017 there were 3316 new cases of breast cancer reported across both women and men in New Zealand (<a href=\"https://www.health.govt.nz/publication/new-cancer-registrations-2017\" target=\"_blank\" style=\"color: windowtext;\">New Zealand Cancer Registry, 2019</a>). The Committee also noted that approximately 80% of breast cancer patients present with early breast cancer (eBC) and that there are approximately 650 deaths from breast cancer per year in New Zealand. </p><p><br></p><p>The Committee noted that overexpression of human epidermal growth factor receptor 2 (HER2) occurs in around 15-20% of breast cancers in New Zealand (<a href=\"https://www.ncbi.nlm.nih.gov/pubmed/29771902\" target=\"_blank\" style=\"color: windowtext;\">Lawrenson et al. NZMJ. 2018;131:51-60</a>). </p><p><br></p><p>The Committee noted that M\u0101ori and Pacific people have a higher incidence of breast cancer than those of European/Other descent, are more likely to have HER2 positivity, and have a higher mortality rate. The Committee noted that M\u0101ori are usually diagnosed later than non-M\u0101ori, and that Pacific peoples are less likely to be diagnosed through screening, which is associated with their incidence of advanced breast cancer being higher (although not necessarily causing this). The Committee noted that people in the Asian population often present with larger cancers at diagnosis, are more likely to be HER2 positive than European/Other but have a lower rate of BC mortality.\u00a0</p><p>The Committee noted that currently eligible patients with HER2 positive disease may be administered chemotherapy in combination with the HER2-targeted agent, trastuzumab, as neoadjuvant therapy (before surgery) aiming to shrink the tumour prior to resection, and/or as adjuvant therapy (following surgery), for a combined total of 52 weeks neo/adjuvant treatment. The Committee noted that not all patients receive neo-adjuvant treatment prior to surgery. </p><p><br></p><p>The Committee noted that CaTSoP, at its <a href=\"https://www.pharmac.govt.nz/assets/ptac-cancer-treatment-subcommittee-minutes-2018-09.pdf\" target=\"_blank\" style=\"color: windowtext;\">September 2018 meeting</a>, considered an application for pertuzumab for the neoadjuvant treatment of HER2-positive locally advanced, inflammatory or high risk early stage breast cancer. The Committee noted that the Subcommittee had considered that at that time between 50 and 70 patients with HER2 positive breast cancer would be offered neoadjuvant therapy in New Zealand; however, this would likely increase with time, given trends for increasing neoadjuvant treatment. The Committee noted that CaTSoP members considered that the patients most likely to be offered neoadjuvant therapy include those who have locally advanced breast cancer where surgery may not achieve adequate margins, patients who have locally advanced breast cancer who would generally be considered for mastectomy but have a preference for breast conserving surgery, and patients with HER2-positive or triple negative breast cancer who have tumours greater than 2 cm in size. The Committee noted that there is a difference in the rates of neoadjuvant treatment between centres, in part due to the increased complexity around treatment planning and surgical staff availability. </p><p><br></p><p>The Committee also noted that in September 2018 CaTSoP had considered that the benefits associated with the use of neoadjuvant therapy include avoiding delays in treatment due to surgical complications, but had considered that the evidence available at that time for neoadjuvant treatment did not demonstrate that neoadjuvant therapy provides an overall survival advantage, although it does allow more patients to undergo breast conserving surgery rather than mastectomy, and would delay rather than prevent future treatment lines.</p><p><br></p><p>The Committee noted that, internationally, the incidence of residual disease after neo-adjuvant systemic treatment with trastuzumab is considered approximately 70.5% (<a href=\"https://pubmed.ncbi.nlm.nih.gov/27179402/\" target=\"_blank\" style=\"color: windowtext;\">Gianni et al. Lancet Oncol. 2016;17(6):791-800</a>), however the applicant had indicated from anecdotal data that the rate in New Zealand may be approximately 50-60%. </p><p><br></p><p>The Committee considered that there appeared to be limited data available for the use of residual disease occurrence following neoadjuvant HER2 targeted therapy as a predictor for disease recurrence or death in patients with HER2 positive early breast cancer.</p><p><br></p><p>The Committee noted a summary of a poster presentation by Swain et al. 2020 provided by the applicant on the risk of recurrence of HER2 positive breast cancer following HER2 targeted therapy in neoadjuvant and adjuvant settings. The Committee noted that recurrence rates reported ranged from 17-40% depending on the HER2 targeted agents used, if there was a combination of agents, and if patients achieved complete pathological response following treatment. The Committee noted that there appeared to be limited data available on 5-year recurrence rates of HER2 positive breast cancer following treatment with trastuzumab. </p><p><br></p><p>The Committee considered that in the absence of a complete pathological response following neoadjuvant treatment and surgery, patients can be treated with adjuvant capecitabine either as monotherapy or in combination with docetaxel. The Committee noted that the evidence for use of capecitabine in a general population was based on extrapolation of a small Japanese study in which a subset of patients with a non-pathologic response had improved outcomes from the addition of capecitabine (<a href=\"https://www.nejm.org/doi/full/10.1056/NEJMoa1612645\" target=\"_blank\" style=\"color: windowtext;\">Masuda et al. N Engl J Med. 2017;76(22):2147-59</a>). The Committee considered that although capecitabine is not an appropriate comparator for trastuzumab emtansine given the quality of evidence, it should be taken into account as part of the treatment paradigm if it is being used currently in New Zealand.</p><p><br></p><p>The Committee noted that trastuzumab emtansine (T-DM1) is a HER2-targeted antibody-drug conjugate that contains the humanised anti-HER2 IgG1, trastuzumab, covalently linked to the microtubule inhibitory drug DM1 (a maytansine derivative) with the stable thioether linker MCC. Emtansine refers to the MCC-DM1 complex. The Committee noted that the mechanism of action of T-DM1 allows the DM1 to be preferentially delivered to tumour cells, limiting the damage to surrounding tissues. The Committee noted that T-DM1 is Medsafe-approved for the requested indication. </p><p><br></p><p>The Committee noted that the supplier had proposed T-DM1 as the standard therapy for HER2 positive early breast cancer in patients who have residual disease after neoadjuvant treatment that included HER2-targeted therapy. The Committee noted that the supplier had considered that T-DM1 would not replace neoadjuvant trastuzumab treatment and would not be used in post-surgery treatments where patients had had a complete response. The Committee noted that the supplier had considered that patient response to neoadjuvant treatment with trastuzumab would be assessed either pre- or post-surgery in resected tissue. </p><p><br></p><p>The Committee noted a phase III, two-arm, randomised, open-label, multicentre trial (the KATHERINE trial, n=1486), which investigated the efficacy of T-DM1 compared with trastuzumab (both 3-weekly over 42 weeks) in patients with HER2 positive early breast cancer who were found to have residual disease at surgery after receiving neoadjuvant therapy plus HER2 targeted therapy (<a href=\"https://www.ncbi.nlm.nih.gov/pubmed/30516102\" target=\"_blank\" style=\"color: windowtext;\">Von Minckwitz et al. N Engl J Med 2019;380:617-28</a>). The Committee noted that there was no recruitment from New Zealand in the trial, however the Committee considered that the New Zealand patient population would meet similar criteria as those recruited for the trial. The Committee also noted that the adjuvant portion of the treatment course with trastuzumab is the appropriate comparator to T-DM1 in the New Zealand context.</p><p><br></p><p>The Committee noted that invasive disease was reported to be less common in the T-DM1 group compared with the trastuzumab treatment group (12.2% and 22.2%, respectively), the hazard ratio (HR) for invasive disease-free survival (iDFS) at 3 years was 0.50 (95% CI 0.39 to 0.64) favouring T-DM1, and that freedom from distant recurrence at 3 years also favoured T-DM1 (HR 0.60; 95% CI 0.45 to 0.79). The Committee also noted that although the OS data was immature, the point estimate of the hazard ratio favoured T-DM1 (HR 0.70; 95% CI 0.47 to 1.05; p=0.08). The Committee noted that there was no evidence of a different treatment effect in sub-groups of the trial participants. </p><p><br></p><p>The Committee noted that T-DM1 had an inferior safety profile compared with trastuzumab, with serious adverse events occurring in 12.7% of the T-DM1 group compared to 8.1% of the trastuzumab group, and that adverse events leading to discontinuation of treatment occurred in 18.0% of the T-DM1 group compared to 2.1% of the trastuzumab group. The Committee considered that this difference in safety was likely due to the components of the antibody-drug conjugate being more cytotoxic than trastuzumab. </p><p><br></p><p>The Committee noted that the primary endpoint of the KATHERINE trial was invasive disease-free survival (iDFS) as a surrogate for OS. The Committee noted that the applicant referenced a 2019 study (<a href=\"https://www.ncbi.nlm.nih.gov/pubmed/30709633\" target=\"_blank\" style=\"color: windowtext;\">Saad et al. Lancet Oncol. 2019;20:361-70</a>), in which the validity of disease-free survival (DFS) as a surrogate for OS in patients with HER2-positive early breast cancer in trials of adjuvant trastuzumab for up to 1 year was assessed via systematic review and meta-analysis, with the objective to estimate patient-level and trial-level correlations between OS and DFS. The Committee noted that patient-level associations between DFS and OS were reported to be strong (Spearman\u2019s correlation coefficient=0\u00b790; 95% CI 0\u00b789 to 0\u00b790) However, the Committee considered that, in a disease such as this with multiple lines of treatment and a relatively long survival, that it was difficult to interpret the relationship of a surrogate marker such as DFS with OS. </p><p>The Committee noted patient reported outcomes from the KATHERINE trial, for which 70% of patients in the trial submitted data (<a href=\"https://pubmed.ncbi.nlm.nih.gov/32286687/\" target=\"_blank\" style=\"color: windowtext;\">Conte et al. Cancer. 2020;26:3132-9</a>). The Committee noted that mean changes in global, cognitive, physical and fatigue scores were similar between the two treatment groups and that most changes in score were not clinically meaningful and returned to baseline. </p><p>Overall, the Committee considered there was limited evidence of moderate strength and high quality to support the use of T-DM1 as adjuvant treatment of HER2 positive early breast cancer in patients who have residual disease after neoadjuvant treatment that included HER2-targeted therapy. </p><p><br></p><p>The Committee considered that use of this agent would be associated with an increase in adverse-event related costs to the health system if T-DM1 were to be funded in this setting, and may be further compounded by an increase in demand for neoadjuvant therapy with more options available. The Committee considered that funding in this setting would likely result in an increase in clinical staff workload and demand for infusion capacity. </p><p><br></p><p>The Committee noted that at its <a href=\"https://www.pharmac.govt.nz/assets/ptac-minutes-2019-08.pdf\" target=\"_blank\" style=\"color: windowtext;\">August 2019</a> meeting it had previously considered an application for trastuzumab biosimilar and that it would be clinically acceptable for the treatment of HER2-positive early breast cancer and HER2-positive metastatic breast cancer. The Committee noted that there were several trastuzumab biosimilars available internationally. The Committee considered that, given this competition, it was likely a significant price change for trastuzumab may occur in the near future, which should be considered in any economic assessment as this would influence the cost-effectiveness of T-DM1 if it were to be funded in the proposed setting. </p><p><br></p><p>The Committee considered that, while a positive recommendation was supported at this time, which was based on the currently available evidence and current pricing for differential between trastuzumab and T-DM1, it was however unclear what the OS gain with use of T-DM1 in this setting would be and whether this would be of sufficient magnitude to offset the associated increase in adverse events. </p><p><br></p><p>The Committee considered that it was unclear what the role of T-DM1 would be in the treatment paradigm and management of patients with eBC who may go on to develop metastatic disease. The Committee noted that trastuzumab emtansine is currently funded for the second-line treatment of metastatic HER2 positive breast cancer and that it was uncertain what the response would be for patients with metastases who had received adjuvant treatment with T-DM1 for their early breast cancer and what, if any, evidence there was to support its use in this way. </p><p><br></p><p>The Committee noted that, contrary to instructions in the <a href=\"https://www.pharmac.govt.nz/assets/funding-guidelines-2019-08.pdf\" target=\"_blank\" style=\"color: windowtext;\">Guidelines for Funding Applications to PHARMAC</a>, the supplier\u2019s application contained a substantial amount of information that was of limited relevance, and at times irrelevant, for the evaluation of evidence for the use of T-DM1 in the adjuvant treatment of HER2 positive early breast cancer, and considered that this increased the difficulty for the Committee to evaluate the evidence provided in a timely manner. The Committee expressed its disappointment and requested that the applicant follow the guidelines, carefully consider the material included in its submissions and limit material to only relevant documents and information.\u00a0</p>",
+          "change": null
+        },
+        "Published_Application": {
+          "s": "<p>The Committee reviewed a supplier application for trastuzumab emtansine in the treatment of HER2 positive early breast cancer in patients who have residual disease after neoadjuvant (i.e. pre-operative) systemic treatment that included HER2-targeted therapy.</p><p><br></p><p>The Committee took into account, where applicable, PHARMAC\u2019s relevant decision-making framework when considering this agenda item.\u00a0</p>",
+          "fs": "<p>The Committee reviewed a supplier application for trastuzumab emtansine in the treatment of HER2 positive early breast cancer in patients who have residual disease after neoadjuvant (i.e. pre-operative) systemic treatment that included HER2-targeted therapy.</p><p><br></p><p>The Committee took into account, where applicable, PHARMAC\u2019s relevant decision-making framework when considering this agenda item.\u00a0</p>",
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": "Low",
+          "fs": "Low",
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Nov 2020",
+          "fs": "Nov 2020",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Clinical advice received from Pharmacology and Therapeutics Advisory Committee (PTAC) at meeting Friday 21 August 2020.",
+          "fs": "Clinical advice received from Pharmacology and Therapeutics Advisory Committee (PTAC) at meeting Friday 21 August 2020.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P000006NQO8UAO"
+          },
+          "Id": "a0P2P000006NQO8UAO",
+          "Event_Date__c": "2020-11-09",
+          "Event_Description__c": "Clinical advice received from Pharmacology and Therapeutics Advisory Committee (PTAC) at meeting Friday 21 August 2020.",
+          "Stage__c": "Seeking Clinical Advice",
+          "Outcome__c": "Low",
+          "Formatted_Date__c": "Nov 2020",
+          "Published_Recommendation__c": "<p>The Committee <b>recommended</b> that trastuzumab emtansine be listed for the treatment of HER2 positive early breast cancer in patients who have residual disease after neoadjuvant systemic treatment that included HER2-targeted therapy with a low priority. </p><p><br></p><p>The Committee <b>recommended</b> that advice be sought from CaTSoP regarding:</p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>the current treatment paradigm for early breast cancer in New Zealand; </p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>the proportion of patients with residual disease following HER2 targeted therapy and whether this is used for treatment decision making currently; </p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>whether residual disease is a predictor of disease recurrence and death in breast cancer; </p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>the proportion of patients who receive neoadjuvant treatment, and whether this would differ were trastuzumab emtansine to be funded in this setting; </p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>the number of cycles of trastuzumab that patients currently receive in the neoadjuvant setting, and if would this change if trastuzumab-DM1 (T-DM1) were to be funded;</p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>the current use of adjuvant capecitabine in the treatment of early breast cancer;</p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>the 5-year relapse rate for patients with early breast cancer who have been treated with trastuzumab in the neoadjuvant and/or adjuvant setting; </p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>the relevance of the <a href=\"https://www.ncbi.nlm.nih.gov/pubmed/30516102\" target=\"_blank\">KATHERINE</a> trial to the New Zealand patient population;</p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>the evidence for and suitability of complete response (CR) as a surrogate marker for overall survival (OS) improvement;</p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>the evidence for and suitability of invasive disease-free survival (IDFS) as a surrogate marker for OS; </p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>consequences to the health system if trastuzumab emtansine were to be listed in this setting; </p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>whether the listing of trastuzumab emtansine would affect management of metastatic disease, and what the role of this treatment would be in a metastatic setting following its earlier use;</p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>appropriate Special Authority criteria, including any amendment to criteria for the currently funded metastatic setting.\u00a0</p>",
+          "Published_Application__c": "<p>The Committee reviewed a supplier application for trastuzumab emtansine in the treatment of HER2 positive early breast cancer in patients who have residual disease after neoadjuvant (i.e. pre-operative) systemic treatment that included HER2-targeted therapy.</p><p><br></p><p>The Committee took into account, where applicable, PHARMAC\u2019s relevant decision-making framework when considering this agenda item.\u00a0</p>",
+          "Published_Discussion__c": "<p>The Committee noted that breast cancer is the most common cancer diagnosis in women worldwide, and that in 2017 there were 3316 new cases of breast cancer reported across both women and men in New Zealand (<a href=\"https://www.health.govt.nz/publication/new-cancer-registrations-2017\" target=\"_blank\" style=\"color: windowtext;\">New Zealand Cancer Registry, 2019</a>). The Committee also noted that approximately 80% of breast cancer patients present with early breast cancer (eBC) and that there are approximately 650 deaths from breast cancer per year in New Zealand. </p><p><br></p><p>The Committee noted that overexpression of human epidermal growth factor receptor 2 (HER2) occurs in around 15-20% of breast cancers in New Zealand (<a href=\"https://www.ncbi.nlm.nih.gov/pubmed/29771902\" target=\"_blank\" style=\"color: windowtext;\">Lawrenson et al. NZMJ. 2018;131:51-60</a>). </p><p><br></p><p>The Committee noted that M\u0101ori and Pacific people have a higher incidence of breast cancer than those of European/Other descent, are more likely to have HER2 positivity, and have a higher mortality rate. The Committee noted that M\u0101ori are usually diagnosed later than non-M\u0101ori, and that Pacific peoples are less likely to be diagnosed through screening, which is associated with their incidence of advanced breast cancer being higher (although not necessarily causing this). The Committee noted that people in the Asian population often present with larger cancers at diagnosis, are more likely to be HER2 positive than European/Other but have a lower rate of BC mortality.\u00a0</p><p>The Committee noted that currently eligible patients with HER2 positive disease may be administered chemotherapy in combination with the HER2-targeted agent, trastuzumab, as neoadjuvant therapy (before surgery) aiming to shrink the tumour prior to resection, and/or as adjuvant therapy (following surgery), for a combined total of 52 weeks neo/adjuvant treatment. The Committee noted that not all patients receive neo-adjuvant treatment prior to surgery. </p><p><br></p><p>The Committee noted that CaTSoP, at its <a href=\"https://www.pharmac.govt.nz/assets/ptac-cancer-treatment-subcommittee-minutes-2018-09.pdf\" target=\"_blank\" style=\"color: windowtext;\">September 2018 meeting</a>, considered an application for pertuzumab for the neoadjuvant treatment of HER2-positive locally advanced, inflammatory or high risk early stage breast cancer. The Committee noted that the Subcommittee had considered that at that time between 50 and 70 patients with HER2 positive breast cancer would be offered neoadjuvant therapy in New Zealand; however, this would likely increase with time, given trends for increasing neoadjuvant treatment. The Committee noted that CaTSoP members considered that the patients most likely to be offered neoadjuvant therapy include those who have locally advanced breast cancer where surgery may not achieve adequate margins, patients who have locally advanced breast cancer who would generally be considered for mastectomy but have a preference for breast conserving surgery, and patients with HER2-positive or triple negative breast cancer who have tumours greater than 2 cm in size. The Committee noted that there is a difference in the rates of neoadjuvant treatment between centres, in part due to the increased complexity around treatment planning and surgical staff availability. </p><p><br></p><p>The Committee also noted that in September 2018 CaTSoP had considered that the benefits associated with the use of neoadjuvant therapy include avoiding delays in treatment due to surgical complications, but had considered that the evidence available at that time for neoadjuvant treatment did not demonstrate that neoadjuvant therapy provides an overall survival advantage, although it does allow more patients to undergo breast conserving surgery rather than mastectomy, and would delay rather than prevent future treatment lines.</p><p><br></p><p>The Committee noted that, internationally, the incidence of residual disease after neo-adjuvant systemic treatment with trastuzumab is considered approximately 70.5% (<a href=\"https://pubmed.ncbi.nlm.nih.gov/27179402/\" target=\"_blank\" style=\"color: windowtext;\">Gianni et al. Lancet Oncol. 2016;17(6):791-800</a>), however the applicant had indicated from anecdotal data that the rate in New Zealand may be approximately 50-60%. </p><p><br></p><p>The Committee considered that there appeared to be limited data available for the use of residual disease occurrence following neoadjuvant HER2 targeted therapy as a predictor for disease recurrence or death in patients with HER2 positive early breast cancer.</p><p><br></p><p>The Committee noted a summary of a poster presentation by Swain et al. 2020 provided by the applicant on the risk of recurrence of HER2 positive breast cancer following HER2 targeted therapy in neoadjuvant and adjuvant settings. The Committee noted that recurrence rates reported ranged from 17-40% depending on the HER2 targeted agents used, if there was a combination of agents, and if patients achieved complete pathological response following treatment. The Committee noted that there appeared to be limited data available on 5-year recurrence rates of HER2 positive breast cancer following treatment with trastuzumab. </p><p><br></p><p>The Committee considered that in the absence of a complete pathological response following neoadjuvant treatment and surgery, patients can be treated with adjuvant capecitabine either as monotherapy or in combination with docetaxel. The Committee noted that the evidence for use of capecitabine in a general population was based on extrapolation of a small Japanese study in which a subset of patients with a non-pathologic response had improved outcomes from the addition of capecitabine (<a href=\"https://www.nejm.org/doi/full/10.1056/NEJMoa1612645\" target=\"_blank\" style=\"color: windowtext;\">Masuda et al. N Engl J Med. 2017;76(22):2147-59</a>). The Committee considered that although capecitabine is not an appropriate comparator for trastuzumab emtansine given the quality of evidence, it should be taken into account as part of the treatment paradigm if it is being used currently in New Zealand.</p><p><br></p><p>The Committee noted that trastuzumab emtansine (T-DM1) is a HER2-targeted antibody-drug conjugate that contains the humanised anti-HER2 IgG1, trastuzumab, covalently linked to the microtubule inhibitory drug DM1 (a maytansine derivative) with the stable thioether linker MCC. Emtansine refers to the MCC-DM1 complex. The Committee noted that the mechanism of action of T-DM1 allows the DM1 to be preferentially delivered to tumour cells, limiting the damage to surrounding tissues. The Committee noted that T-DM1 is Medsafe-approved for the requested indication. </p><p><br></p><p>The Committee noted that the supplier had proposed T-DM1 as the standard therapy for HER2 positive early breast cancer in patients who have residual disease after neoadjuvant treatment that included HER2-targeted therapy. The Committee noted that the supplier had considered that T-DM1 would not replace neoadjuvant trastuzumab treatment and would not be used in post-surgery treatments where patients had had a complete response. The Committee noted that the supplier had considered that patient response to neoadjuvant treatment with trastuzumab would be assessed either pre- or post-surgery in resected tissue. </p><p><br></p><p>The Committee noted a phase III, two-arm, randomised, open-label, multicentre trial (the KATHERINE trial, n=1486), which investigated the efficacy of T-DM1 compared with trastuzumab (both 3-weekly over 42 weeks) in patients with HER2 positive early breast cancer who were found to have residual disease at surgery after receiving neoadjuvant therapy plus HER2 targeted therapy (<a href=\"https://www.ncbi.nlm.nih.gov/pubmed/30516102\" target=\"_blank\" style=\"color: windowtext;\">Von Minckwitz et al. N Engl J Med 2019;380:617-28</a>). The Committee noted that there was no recruitment from New Zealand in the trial, however the Committee considered that the New Zealand patient population would meet similar criteria as those recruited for the trial. The Committee also noted that the adjuvant portion of the treatment course with trastuzumab is the appropriate comparator to T-DM1 in the New Zealand context.</p><p><br></p><p>The Committee noted that invasive disease was reported to be less common in the T-DM1 group compared with the trastuzumab treatment group (12.2% and 22.2%, respectively), the hazard ratio (HR) for invasive disease-free survival (iDFS) at 3 years was 0.50 (95% CI 0.39 to 0.64) favouring T-DM1, and that freedom from distant recurrence at 3 years also favoured T-DM1 (HR 0.60; 95% CI 0.45 to 0.79). The Committee also noted that although the OS data was immature, the point estimate of the hazard ratio favoured T-DM1 (HR 0.70; 95% CI 0.47 to 1.05; p=0.08). The Committee noted that there was no evidence of a different treatment effect in sub-groups of the trial participants. </p><p><br></p><p>The Committee noted that T-DM1 had an inferior safety profile compared with trastuzumab, with serious adverse events occurring in 12.7% of the T-DM1 group compared to 8.1% of the trastuzumab group, and that adverse events leading to discontinuation of treatment occurred in 18.0% of the T-DM1 group compared to 2.1% of the trastuzumab group. The Committee considered that this difference in safety was likely due to the components of the antibody-drug conjugate being more cytotoxic than trastuzumab. </p><p><br></p><p>The Committee noted that the primary endpoint of the KATHERINE trial was invasive disease-free survival (iDFS) as a surrogate for OS. The Committee noted that the applicant referenced a 2019 study (<a href=\"https://www.ncbi.nlm.nih.gov/pubmed/30709633\" target=\"_blank\" style=\"color: windowtext;\">Saad et al. Lancet Oncol. 2019;20:361-70</a>), in which the validity of disease-free survival (DFS) as a surrogate for OS in patients with HER2-positive early breast cancer in trials of adjuvant trastuzumab for up to 1 year was assessed via systematic review and meta-analysis, with the objective to estimate patient-level and trial-level correlations between OS and DFS. The Committee noted that patient-level associations between DFS and OS were reported to be strong (Spearman\u2019s correlation coefficient=0\u00b790; 95% CI 0\u00b789 to 0\u00b790) However, the Committee considered that, in a disease such as this with multiple lines of treatment and a relatively long survival, that it was difficult to interpret the relationship of a surrogate marker such as DFS with OS. </p><p>The Committee noted patient reported outcomes from the KATHERINE trial, for which 70% of patients in the trial submitted data (<a href=\"https://pubmed.ncbi.nlm.nih.gov/32286687/\" target=\"_blank\" style=\"color: windowtext;\">Conte et al. Cancer. 2020;26:3132-9</a>). The Committee noted that mean changes in global, cognitive, physical and fatigue scores were similar between the two treatment groups and that most changes in score were not clinically meaningful and returned to baseline. </p><p>Overall, the Committee considered there was limited evidence of moderate strength and high quality to support the use of T-DM1 as adjuvant treatment of HER2 positive early breast cancer in patients who have residual disease after neoadjuvant treatment that included HER2-targeted therapy. </p><p><br></p><p>The Committee considered that use of this agent would be associated with an increase in adverse-event related costs to the health system if T-DM1 were to be funded in this setting, and may be further compounded by an increase in demand for neoadjuvant therapy with more options available. The Committee considered that funding in this setting would likely result in an increase in clinical staff workload and demand for infusion capacity. </p><p><br></p><p>The Committee noted that at its <a href=\"https://www.pharmac.govt.nz/assets/ptac-minutes-2019-08.pdf\" target=\"_blank\" style=\"color: windowtext;\">August 2019</a> meeting it had previously considered an application for trastuzumab biosimilar and that it would be clinically acceptable for the treatment of HER2-positive early breast cancer and HER2-positive metastatic breast cancer. The Committee noted that there were several trastuzumab biosimilars available internationally. The Committee considered that, given this competition, it was likely a significant price change for trastuzumab may occur in the near future, which should be considered in any economic assessment as this would influence the cost-effectiveness of T-DM1 if it were to be funded in the proposed setting. </p><p><br></p><p>The Committee considered that, while a positive recommendation was supported at this time, which was based on the currently available evidence and current pricing for differential between trastuzumab and T-DM1, it was however unclear what the OS gain with use of T-DM1 in this setting would be and whether this would be of sufficient magnitude to offset the associated increase in adverse events. </p><p><br></p><p>The Committee considered that it was unclear what the role of T-DM1 would be in the treatment paradigm and management of patients with eBC who may go on to develop metastatic disease. The Committee noted that trastuzumab emtansine is currently funded for the second-line treatment of metastatic HER2 positive breast cancer and that it was uncertain what the response would be for patients with metastases who had received adjuvant treatment with T-DM1 for their early breast cancer and what, if any, evidence there was to support its use in this way. </p><p><br></p><p>The Committee noted that, contrary to instructions in the <a href=\"https://www.pharmac.govt.nz/assets/funding-guidelines-2019-08.pdf\" target=\"_blank\" style=\"color: windowtext;\">Guidelines for Funding Applications to PHARMAC</a>, the supplier\u2019s application contained a substantial amount of information that was of limited relevance, and at times irrelevant, for the evaluation of evidence for the use of T-DM1 in the adjuvant treatment of HER2 positive early breast cancer, and considered that this increased the difficulty for the Committee to evaluate the evidence provided in a timely manner. The Committee expressed its disappointment and requested that the applicant follow the guidelines, carefully consider the material included in its submissions and limit material to only relevant documents and information.\u00a0</p>",
+          "Status_History__c": "a132P000000CKkjQAG"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": "<p><span style=\"color: black;\">1.1.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee <b>recommended</b> that trastuzumab emtansine be funded for the treatment of HER2 positive early breast cancer in patients who have residual disease after neoadjuvant systemic treatment with a <b>high priority</b>, within the context of treatment of malignancy, subject to the following Special Authority criteria:</p><p><b style=\"font-size: 9pt;\">Initial application</b><span style=\"font-size: 9pt;\">- (early breast cancer) only from a relevant. Approvals valid for 12 months for applications meeting the following criteria:</span></p><p><strike style=\"font-size: 9pt;\">\u00a0</strike></p><p><span style=\"font-size: 9pt;\">All of the following:\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span></p><p style=\"text-align: justify;\"><span style=\"font-size: 9pt;\">1.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Patient has early breast cancer expressing HER2 IHC3+ or ISH+; and</span></p><p style=\"text-align: justify;\"><span style=\"font-size: 9pt;\">2.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Documentation of pathological invasive residual disease in the breast and/or auxiliary lymph nodes following completion of surgery; and</span></p><p style=\"text-align: justify;\"><span style=\"font-size: 9pt;\">3.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Patient has completed systemic neoadjuvant therapy with trastuzumab and chemotherapy prior to surgery; and</span></p><p style=\"text-align: justify;\"><span style=\"font-size: 9pt;\">4.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Disease has not progressed during neoadjuvant therapy; and</span></p><p style=\"text-align: justify;\"><span style=\"font-size: 9pt;\">5.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Patients has left ventricular ejection fraction of 45% or greater; and </span></p><p style=\"text-align: justify;\"><span style=\"font-size: 9pt;\">6.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Adjuvant treatment with trastuzumab emtansine to be commenced within 12 weeks of surgery; and </span></p><p style=\"text-align: justify;\"><span style=\"font-size: 9pt;\">7.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Trastuzumab emtansine to be discontinued at disease progression; and</span></p><p style=\"text-align: justify;\"><span style=\"font-size: 9pt;\">8.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Total adjuvant treatment duration must not exceed 42 weeks (14 cycles). </span></p><p><br></p><p><span style=\"color: black;\">1.2.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee made this recommendation based on the high quality of evidence of benefit, prevention of relapse, and the curative intent of treatment with T-DM1 in this setting but considered that the unmet health need for these patients is not high as they already have relatively good prognosis from currently available funded treatments.\u00a0</p>",
+          "fs": "<p><span style=\"color: black;\">1.1.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee <b>recommended</b> that trastuzumab emtansine be funded for the treatment of HER2 positive early breast cancer in patients who have residual disease after neoadjuvant systemic treatment with a <b>high priority</b>, within the context of treatment of malignancy, subject to the following Special Authority criteria:</p><p><b style=\"font-size: 9pt;\">Initial application</b><span style=\"font-size: 9pt;\">- (early breast cancer) only from a relevant. Approvals valid for 12 months for applications meeting the following criteria:</span></p><p><strike style=\"font-size: 9pt;\">\u00a0</strike></p><p><span style=\"font-size: 9pt;\">All of the following:\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span></p><p style=\"text-align: justify;\"><span style=\"font-size: 9pt;\">1.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Patient has early breast cancer expressing HER2 IHC3+ or ISH+; and</span></p><p style=\"text-align: justify;\"><span style=\"font-size: 9pt;\">2.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Documentation of pathological invasive residual disease in the breast and/or auxiliary lymph nodes following completion of surgery; and</span></p><p style=\"text-align: justify;\"><span style=\"font-size: 9pt;\">3.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Patient has completed systemic neoadjuvant therapy with trastuzumab and chemotherapy prior to surgery; and</span></p><p style=\"text-align: justify;\"><span style=\"font-size: 9pt;\">4.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Disease has not progressed during neoadjuvant therapy; and</span></p><p style=\"text-align: justify;\"><span style=\"font-size: 9pt;\">5.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Patients has left ventricular ejection fraction of 45% or greater; and </span></p><p style=\"text-align: justify;\"><span style=\"font-size: 9pt;\">6.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Adjuvant treatment with trastuzumab emtansine to be commenced within 12 weeks of surgery; and </span></p><p style=\"text-align: justify;\"><span style=\"font-size: 9pt;\">7.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Trastuzumab emtansine to be discontinued at disease progression; and</span></p><p style=\"text-align: justify;\"><span style=\"font-size: 9pt;\">8.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Total adjuvant treatment duration must not exceed 42 weeks (14 cycles). </span></p><p><br></p><p><span style=\"color: black;\">1.2.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee made this recommendation based on the high quality of evidence of benefit, prevention of relapse, and the curative intent of treatment with T-DM1 in this setting but considered that the unmet health need for these patients is not high as they already have relatively good prognosis from currently available funded treatments.\u00a0</p>",
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": "<p><span style=\"color: black;\">1.1.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted a supplier application for trastuzumab emtansine in the treatment of HER2 positive early breast cancer in patients who have residual disease after neoadjuvant (i.e. pre-operative) systemic treatment that included HER2-targeted therapy. </p><p><span style=\"color: black;\">1.2.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that trastuzumab emtansine (T-DM1) is a HER2-targeted antibody-drug conjugate that contains the humanised anti-HER2 IgG1, trastuzumab, covalently linked to the microtubule inhibitory drug DM1 (a maytansine derivative) with the stable thioether linker MCC. Emtansine refers to the MCC-DM1 complex. The Subcommittee noted that the mechanism of action of T-DM1 allows the DM1 to be preferentially delivered to tumour cells, limiting the damage to surrounding tissues. The Subcommittee noted that T-DM1 is approved by Medsafe for the requested indication.</p><p><span style=\"color: black;\">1.3.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that the supplier had proposed T-DM1 as the standard therapy for HER2 positive early breast cancer in patients who have residual disease after neoadjuvant treatment that included HER2-targeted therapy. The Subcommittee noted that the supplier had considered that T-DM1 would not replace neoadjuvant trastuzumab treatment and would not be used in post-surgery treatments where patients had had a complete response. The Subcommittee noted that the supplier had considered that patient response to neoadjuvant treatment with trastuzumab would be assessed either pre-surgery by clinical or radiological measures, or post-surgery in resected tissue.</p><p><span style=\"color: black;\">1.4.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that PTAC reviewed this application at its <a href=\"https://pharmac.govt.nz/assets/PTAC-record-2020-08-published-28-October-2020.pdf\" target=\"_blank\" style=\"font-size: 12pt;\"><b>August 2020 meeting</b></a><b>.</b> The Subcommittee noted that PTAC recommended that trastuzumab emtansine be listed for the treatment of HER2 positive early breast cancer in patients who have residual disease after neoadjuvant systemic treatment that included HER2-targeted therapy with a low priority but sought advice from CaTSoP regarding a number of specific topics.</p><p><span style=\"color: black;\">1.5.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee considered that the current treatment paradigm for HER2 positive early breast cancer is surgery without prior treatment for tumours less than 2 centimetres diameter, or neoadjuvant therapy with trastuzumab and chemotherapy for tumours with diameter greater than 2 cm. The Subcommittee considered that following surgery, patients will generally continue to receive trastuzumab without chemotherapy for an additional six months, or up to a year if there is residual disease in the breast or axillary node positivity. The Subcommittee noted that under current Special Authority criteria for trastuzumab, patients with early breast cancer can only take trastuzumab for a total of 52 weeks in the neoadjuvant and/or adjuvant setting. </p><p><span style=\"color: black;\">1.6.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that approximately 70% of HER2 positive, early breast cancer patients receive neoadjuvant therapy with trastuzumab. The Subcommittee considered that capecitabine is not routinely used in the treatment of HER2 positive breast cancer but is used in triple negative breast cancers with residual disease following neoadjuvant therapy. The Subcommittee noted that that the relapse rate following adjuvant therapy is approximately 20%. </p><p><span style=\"color: black;\">1.7.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that most studies with anthracyclines and taxanes demonstrate a 50-60% pathological complete response (pCR, ie. no tumour in breast or axilla) rate, indicating that 40-50% of patients have residual disease following neoadjuvant treatment. The Subcommittee noted a meta-analysis of nearly 12,000 patients from 12 studies, which reported pCR to be a predictor for an increase in event free survival and overall survival (<a href=\"https://pubmed.ncbi.nlm.nih.gov/24529560/\" target=\"_blank\" style=\"font-size: 12pt;\"><b>Cortazar et al. Lancet. 2014;384:164-72</b></a>).</p><p><span style=\"color: black;\">1.8.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that surrogate endpoints (objective response, disease-free survival, and event-free survival) for overall survival in the context of cancer treatments were discussed at its <a href=\"https://pharmac.govt.nz/assets/ptac-cancer-treatment-subcommittee-record-2019-07.pdf\" target=\"_blank\" style=\"font-size: 12pt;\"><b>July 2019</b></a> meeting, where the Subcommittee considered that the relationship between surrogate endpoints and their ability to predict desired clinical effects (such as overall survival or quality of life improvements), can be highly variable in different cancers and in different disease stages and with different pharmaceutical agents. While the Subcommittee considered at the time that surrogate endpoint data should be interpreted with caution, endpoints such as progression-free survival were less likely than overall survival to be confounded by treatment crossover and post-progression treatment. The Subcommittee noted that, in general, disease-free survival has some inherent variability as it depends upon the timing of follow-up (which can differ between trials) compared with overall survival (which is specifically event driven). </p><p><span style=\"color: black;\">1.9.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted a recently published meta-analysis of 8 studies (n=21480 patients) of disease-free survival as a surrogate for overall survival in patients with HER2 positive early breast cancer treated with anti-HER2 antibody treatments (trastuzumab, pertuzumab, or trastuzumab emtansine) for up to 12 months (<a href=\"https://pubmed.ncbi.nlm.nih.gov/30709633/\" target=\"_blank\" style=\"font-size: 12pt;\"><b>Saad et al. Lancet Oncol. 2019;20:361-70</b></a>). The Subcommittee noted that both individual patient data and overall trial associations were analysed, and that patient level correlations between disease-free survival and overall survival were strong (r<sup>2</sup> = 0.90, 95% CI 0.89 to 0.90), while trial-level associations were less strong but still significant (r<sup>2 </sup>0.75, 95% CI 0.50 to 1.00). The Subcommittee considered that the study supported the use of disease-free survival as a surrogate for overall survival in the HER2 positive early breast cancer patient population. </p><p><span style=\"color: black;\">1.10.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted a phase III, two-arm, randomised, open-label, multicentre trial (KATHERINE, Clinicaltrials.gov identifier: NCT01772472) in which patients (n=1486) with HER2 positive early breast cancer who had residual disease at surgery after receiving neoadjuvant therapy plus HER2 targeted therapy (at least 9 cycles of prior trastuzumab therapy) were treated with either adjuvant T-DM1 or trastuzumab every 3 weeks for 14 cycles (<a href=\"https://www.ncbi.nlm.nih.gov/pubmed/30516102\" target=\"_blank\" style=\"font-size: 12pt;\"><b>Von Minckwitz et al. 2019. N Engl J Med 380(7):617-28</b></a>). The Subcommittee noted that 73% of the study participants were primarily white and had HER2 positive disease, and that the primary endpoint of the study was invasive disease-free survival. </p><p><span style=\"color: black;\">1.11.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that the 3-year invasive disease-free survival in KATHERINE was 77.0% for the trastuzumab treatment arm, and 88.3% for the T-DM1 treatment arm (unstratified HR 0.50, 95% CI 0.39 to 0.64, p&lt;0.0001), and that benefit was also demonstrated across the majority of subgroups analysed, including clinical stage at presentation, hormone receptor status, pathological nodal status, and age. The Subcommittee noted that those treated with T-DM1 had 6-7% lower incidence of recurrence of disease when compared with trastuzumab (unstratified HR = 0.60, 95% CI 0.45 to .079), and there was no difference in unexpected deaths between the two treatment groups. The Subcommittee noted that preliminary overall survival was not significantly different at 60 months and considered that additional follow-up would be necessary to evaluate the true effect of T-DM1 on overall survival. </p><p><span style=\"color: black;\">1.12.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that more adverse events occurred in the T-DM1 treatment group, including adverse events leading to treatment discontinuation such a platelet count and blood bilirubin decreases, but noted that cardiovascular toxicity was similar between those treated with T-DM1 and trastuzumab. The Subcommittee noted that the safety data were consistent with known manageable toxicities of T-DM1, and that the increased with T-DM1 were to be expected. </p><p><span style=\"color: black;\">1.13.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>\u00a0The Subcommittee considered the KATHERINE trial to be highly relevant to the New Zealand population, as neoadjuvant therapy is becoming standard of care for this patient group. The Subcommittee considered that although the trial participants were primarily European, it is unlikely that M\u0101ori and Pacific patients in New Zealand would have differences in treatment effect, and that although M\u0101ori and Pacific people have a higher incidence of HER2 positive disease, poorer outcomes in these groups stem from later diagnoses and differences in access to healthcare as opposed to tumour biology. </p><p><span style=\"color: black;\">1.14.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee considered that if T-DM1 were to be funded in this setting, there would be no change in the proportion of patients receiving neoadjuvant trastuzumab as part of their therapy. The Subcommittee considered that of the 3500 new breast cancer registrations every year, approximately 220-280 would be candidates for neoadjuvant chemotherapy plus trastuzumab. The Subcommittee considered that of these 220-280, approximately 50% would achieve pathological complete response, meaning at least 110 women per year would be candidates for adjuvant T-DM1 treatment. </p><p><span style=\"color: black;\">1.15.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee considered that should T-DM1 be funded in this setting, there would be no material impact on clinical resource use, as patients would otherwise continue to receive trastuzumab alone. The Subcommittee considered that there would be approximately 10% fewer women needing treatment for metastatic disease were T-DM1 to be funded in this setting, and that the number of women relapsing following adjuvant therapy would decrease by approximately 50 should T-DM1 be used after neoadjuvant therapy. The Subcommittee considered that unless evidence of activity on re-treatment was shown, practitioners would not advocate for re-treatment with T-DM1 in the metastatic setting following prior use as adjuvant therapy, but that clinicians would still want the option to use trastuzumab in the metastatic setting.\u00a0</p>",
+          "fs": "<p><span style=\"color: black;\">1.1.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted a supplier application for trastuzumab emtansine in the treatment of HER2 positive early breast cancer in patients who have residual disease after neoadjuvant (i.e. pre-operative) systemic treatment that included HER2-targeted therapy. </p><p><span style=\"color: black;\">1.2.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that trastuzumab emtansine (T-DM1) is a HER2-targeted antibody-drug conjugate that contains the humanised anti-HER2 IgG1, trastuzumab, covalently linked to the microtubule inhibitory drug DM1 (a maytansine derivative) with the stable thioether linker MCC. Emtansine refers to the MCC-DM1 complex. The Subcommittee noted that the mechanism of action of T-DM1 allows the DM1 to be preferentially delivered to tumour cells, limiting the damage to surrounding tissues. The Subcommittee noted that T-DM1 is approved by Medsafe for the requested indication.</p><p><span style=\"color: black;\">1.3.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that the supplier had proposed T-DM1 as the standard therapy for HER2 positive early breast cancer in patients who have residual disease after neoadjuvant treatment that included HER2-targeted therapy. The Subcommittee noted that the supplier had considered that T-DM1 would not replace neoadjuvant trastuzumab treatment and would not be used in post-surgery treatments where patients had had a complete response. The Subcommittee noted that the supplier had considered that patient response to neoadjuvant treatment with trastuzumab would be assessed either pre-surgery by clinical or radiological measures, or post-surgery in resected tissue.</p><p><span style=\"color: black;\">1.4.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that PTAC reviewed this application at its <a href=\"https://pharmac.govt.nz/assets/PTAC-record-2020-08-published-28-October-2020.pdf\" target=\"_blank\" style=\"font-size: 12pt;\"><b>August 2020 meeting</b></a><b>.</b> The Subcommittee noted that PTAC recommended that trastuzumab emtansine be listed for the treatment of HER2 positive early breast cancer in patients who have residual disease after neoadjuvant systemic treatment that included HER2-targeted therapy with a low priority but sought advice from CaTSoP regarding a number of specific topics.</p><p><span style=\"color: black;\">1.5.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee considered that the current treatment paradigm for HER2 positive early breast cancer is surgery without prior treatment for tumours less than 2 centimetres diameter, or neoadjuvant therapy with trastuzumab and chemotherapy for tumours with diameter greater than 2 cm. The Subcommittee considered that following surgery, patients will generally continue to receive trastuzumab without chemotherapy for an additional six months, or up to a year if there is residual disease in the breast or axillary node positivity. The Subcommittee noted that under current Special Authority criteria for trastuzumab, patients with early breast cancer can only take trastuzumab for a total of 52 weeks in the neoadjuvant and/or adjuvant setting. </p><p><span style=\"color: black;\">1.6.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that approximately 70% of HER2 positive, early breast cancer patients receive neoadjuvant therapy with trastuzumab. The Subcommittee considered that capecitabine is not routinely used in the treatment of HER2 positive breast cancer but is used in triple negative breast cancers with residual disease following neoadjuvant therapy. The Subcommittee noted that that the relapse rate following adjuvant therapy is approximately 20%. </p><p><span style=\"color: black;\">1.7.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that most studies with anthracyclines and taxanes demonstrate a 50-60% pathological complete response (pCR, ie. no tumour in breast or axilla) rate, indicating that 40-50% of patients have residual disease following neoadjuvant treatment. The Subcommittee noted a meta-analysis of nearly 12,000 patients from 12 studies, which reported pCR to be a predictor for an increase in event free survival and overall survival (<a href=\"https://pubmed.ncbi.nlm.nih.gov/24529560/\" target=\"_blank\" style=\"font-size: 12pt;\"><b>Cortazar et al. Lancet. 2014;384:164-72</b></a>).</p><p><span style=\"color: black;\">1.8.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that surrogate endpoints (objective response, disease-free survival, and event-free survival) for overall survival in the context of cancer treatments were discussed at its <a href=\"https://pharmac.govt.nz/assets/ptac-cancer-treatment-subcommittee-record-2019-07.pdf\" target=\"_blank\" style=\"font-size: 12pt;\"><b>July 2019</b></a> meeting, where the Subcommittee considered that the relationship between surrogate endpoints and their ability to predict desired clinical effects (such as overall survival or quality of life improvements), can be highly variable in different cancers and in different disease stages and with different pharmaceutical agents. While the Subcommittee considered at the time that surrogate endpoint data should be interpreted with caution, endpoints such as progression-free survival were less likely than overall survival to be confounded by treatment crossover and post-progression treatment. The Subcommittee noted that, in general, disease-free survival has some inherent variability as it depends upon the timing of follow-up (which can differ between trials) compared with overall survival (which is specifically event driven). </p><p><span style=\"color: black;\">1.9.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted a recently published meta-analysis of 8 studies (n=21480 patients) of disease-free survival as a surrogate for overall survival in patients with HER2 positive early breast cancer treated with anti-HER2 antibody treatments (trastuzumab, pertuzumab, or trastuzumab emtansine) for up to 12 months (<a href=\"https://pubmed.ncbi.nlm.nih.gov/30709633/\" target=\"_blank\" style=\"font-size: 12pt;\"><b>Saad et al. Lancet Oncol. 2019;20:361-70</b></a>). The Subcommittee noted that both individual patient data and overall trial associations were analysed, and that patient level correlations between disease-free survival and overall survival were strong (r<sup>2</sup> = 0.90, 95% CI 0.89 to 0.90), while trial-level associations were less strong but still significant (r<sup>2 </sup>0.75, 95% CI 0.50 to 1.00). The Subcommittee considered that the study supported the use of disease-free survival as a surrogate for overall survival in the HER2 positive early breast cancer patient population. </p><p><span style=\"color: black;\">1.10.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted a phase III, two-arm, randomised, open-label, multicentre trial (KATHERINE, Clinicaltrials.gov identifier: NCT01772472) in which patients (n=1486) with HER2 positive early breast cancer who had residual disease at surgery after receiving neoadjuvant therapy plus HER2 targeted therapy (at least 9 cycles of prior trastuzumab therapy) were treated with either adjuvant T-DM1 or trastuzumab every 3 weeks for 14 cycles (<a href=\"https://www.ncbi.nlm.nih.gov/pubmed/30516102\" target=\"_blank\" style=\"font-size: 12pt;\"><b>Von Minckwitz et al. 2019. N Engl J Med 380(7):617-28</b></a>). The Subcommittee noted that 73% of the study participants were primarily white and had HER2 positive disease, and that the primary endpoint of the study was invasive disease-free survival. </p><p><span style=\"color: black;\">1.11.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that the 3-year invasive disease-free survival in KATHERINE was 77.0% for the trastuzumab treatment arm, and 88.3% for the T-DM1 treatment arm (unstratified HR 0.50, 95% CI 0.39 to 0.64, p&lt;0.0001), and that benefit was also demonstrated across the majority of subgroups analysed, including clinical stage at presentation, hormone receptor status, pathological nodal status, and age. The Subcommittee noted that those treated with T-DM1 had 6-7% lower incidence of recurrence of disease when compared with trastuzumab (unstratified HR = 0.60, 95% CI 0.45 to .079), and there was no difference in unexpected deaths between the two treatment groups. The Subcommittee noted that preliminary overall survival was not significantly different at 60 months and considered that additional follow-up would be necessary to evaluate the true effect of T-DM1 on overall survival. </p><p><span style=\"color: black;\">1.12.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that more adverse events occurred in the T-DM1 treatment group, including adverse events leading to treatment discontinuation such a platelet count and blood bilirubin decreases, but noted that cardiovascular toxicity was similar between those treated with T-DM1 and trastuzumab. The Subcommittee noted that the safety data were consistent with known manageable toxicities of T-DM1, and that the increased with T-DM1 were to be expected. </p><p><span style=\"color: black;\">1.13.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>\u00a0The Subcommittee considered the KATHERINE trial to be highly relevant to the New Zealand population, as neoadjuvant therapy is becoming standard of care for this patient group. The Subcommittee considered that although the trial participants were primarily European, it is unlikely that M\u0101ori and Pacific patients in New Zealand would have differences in treatment effect, and that although M\u0101ori and Pacific people have a higher incidence of HER2 positive disease, poorer outcomes in these groups stem from later diagnoses and differences in access to healthcare as opposed to tumour biology. </p><p><span style=\"color: black;\">1.14.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee considered that if T-DM1 were to be funded in this setting, there would be no change in the proportion of patients receiving neoadjuvant trastuzumab as part of their therapy. The Subcommittee considered that of the 3500 new breast cancer registrations every year, approximately 220-280 would be candidates for neoadjuvant chemotherapy plus trastuzumab. The Subcommittee considered that of these 220-280, approximately 50% would achieve pathological complete response, meaning at least 110 women per year would be candidates for adjuvant T-DM1 treatment. </p><p><span style=\"color: black;\">1.15.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee considered that should T-DM1 be funded in this setting, there would be no material impact on clinical resource use, as patients would otherwise continue to receive trastuzumab alone. The Subcommittee considered that there would be approximately 10% fewer women needing treatment for metastatic disease were T-DM1 to be funded in this setting, and that the number of women relapsing following adjuvant therapy would decrease by approximately 50 should T-DM1 be used after neoadjuvant therapy. The Subcommittee considered that unless evidence of activity on re-treatment was shown, practitioners would not advocate for re-treatment with T-DM1 in the metastatic setting following prior use as adjuvant therapy, but that clinicians would still want the option to use trastuzumab in the metastatic setting.\u00a0</p>",
+          "change": null
+        },
+        "Published_Application": {
+          "s": "<p><span style=\"color: black;\">1.1.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee reviewed the application for trastuzumab emtansine (T-DM1) in the treatment of HER2 positive early breast cancer in patients who have residual disease after neoadjuvant systemic treatment.</p><p><span style=\"color: black;\">1.2.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee took into account, where applicable, PHARMAC\u2019s relevant decision-making framework when considering this agenda item.</p>",
+          "fs": "<p><span style=\"color: black;\">1.1.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee reviewed the application for trastuzumab emtansine (T-DM1) in the treatment of HER2 positive early breast cancer in patients who have residual disease after neoadjuvant systemic treatment.</p><p><span style=\"color: black;\">1.2.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee took into account, where applicable, PHARMAC\u2019s relevant decision-making framework when considering this agenda item.</p>",
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": "<p>1.1.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>In relation to item 10 and CaTSoP\u2019s consideration of trastuzumab-emtansine for the treatment of HER2 positive early breast cancer in patients who have residual disease after neoadjuvant systemic treatment:</p><p>1.1.1.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted the Subcommittee\u2019s recommendation that this be funded with a high priority within the context of treatments of malignancy and resolved that based on CaTSoP\u2019s assessment of the application against PHARMAC\u2019s Factors for Consideration, the Committee would change its earlier priority recommendation for this application from low to now become <b>medium</b>.</p><p>1.1.2.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that there remained residual uncertainty regarding the use of trastuzumab in the metastatic setting following prior use of trastuzumab-emtansine in the adjuvant setting. The Committee considered that if trastuzumab-emtansine were to be funded in this adjuvant setting then the Special Authority criteria for trastuzumab should exclude re-treatment in the metastatic setting for patients who had received trastuzumab-emtansine in the adjuvant setting, unless those who would benefit from trastuzumab in the metastatic setting after adjuvant trastuzumab-emtansine could be clearly defined. The Committee considered that further advice should be sought from CaTSoP regarding this.\u00a0</p>",
+          "fs": "<p>1.1.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>In relation to item 10 and CaTSoP\u2019s consideration of trastuzumab-emtansine for the treatment of HER2 positive early breast cancer in patients who have residual disease after neoadjuvant systemic treatment:</p><p>1.1.1.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted the Subcommittee\u2019s recommendation that this be funded with a high priority within the context of treatments of malignancy and resolved that based on CaTSoP\u2019s assessment of the application against PHARMAC\u2019s Factors for Consideration, the Committee would change its earlier priority recommendation for this application from low to now become <b>medium</b>.</p><p>1.1.2.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that there remained residual uncertainty regarding the use of trastuzumab in the metastatic setting following prior use of trastuzumab-emtansine in the adjuvant setting. The Committee considered that if trastuzumab-emtansine were to be funded in this adjuvant setting then the Special Authority criteria for trastuzumab should exclude re-treatment in the metastatic setting for patients who had received trastuzumab-emtansine in the adjuvant setting, unless those who would benefit from trastuzumab in the metastatic setting after adjuvant trastuzumab-emtansine could be clearly defined. The Committee considered that further advice should be sought from CaTSoP regarding this.\u00a0</p>",
+          "change": null
+        },
+        "Outcome": {
+          "s": "High",
+          "fs": "High",
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Feb 2021",
+          "fs": "Feb 2021",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Clinical advice received from Cancer Treatments Subcommittee (CaTSoP) at meeting Friday 16 October 2020.",
+          "fs": "Clinical advice received from Cancer Treatments Subcommittee (CaTSoP) at meeting Friday 16 October 2020.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P000006NQO9UAO"
+          },
+          "Id": "a0P2P000006NQO9UAO",
+          "Event_Date__c": "2021-02-25",
+          "Event_Description__c": "Clinical advice received from Cancer Treatments Subcommittee (CaTSoP) at meeting Friday 16 October 2020.",
+          "Stage__c": "Seeking Clinical Advice",
+          "Outcome__c": "High",
+          "Formatted_Date__c": "Feb 2021",
+          "Published_Recommendation__c": "<p><span style=\"color: black;\">1.1.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee <b>recommended</b> that trastuzumab emtansine be funded for the treatment of HER2 positive early breast cancer in patients who have residual disease after neoadjuvant systemic treatment with a <b>high priority</b>, within the context of treatment of malignancy, subject to the following Special Authority criteria:</p><p><b style=\"font-size: 9pt;\">Initial application</b><span style=\"font-size: 9pt;\">- (early breast cancer) only from a relevant. Approvals valid for 12 months for applications meeting the following criteria:</span></p><p><strike style=\"font-size: 9pt;\">\u00a0</strike></p><p><span style=\"font-size: 9pt;\">All of the following:\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span></p><p style=\"text-align: justify;\"><span style=\"font-size: 9pt;\">1.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Patient has early breast cancer expressing HER2 IHC3+ or ISH+; and</span></p><p style=\"text-align: justify;\"><span style=\"font-size: 9pt;\">2.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Documentation of pathological invasive residual disease in the breast and/or auxiliary lymph nodes following completion of surgery; and</span></p><p style=\"text-align: justify;\"><span style=\"font-size: 9pt;\">3.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Patient has completed systemic neoadjuvant therapy with trastuzumab and chemotherapy prior to surgery; and</span></p><p style=\"text-align: justify;\"><span style=\"font-size: 9pt;\">4.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Disease has not progressed during neoadjuvant therapy; and</span></p><p style=\"text-align: justify;\"><span style=\"font-size: 9pt;\">5.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Patients has left ventricular ejection fraction of 45% or greater; and </span></p><p style=\"text-align: justify;\"><span style=\"font-size: 9pt;\">6.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Adjuvant treatment with trastuzumab emtansine to be commenced within 12 weeks of surgery; and </span></p><p style=\"text-align: justify;\"><span style=\"font-size: 9pt;\">7.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Trastuzumab emtansine to be discontinued at disease progression; and</span></p><p style=\"text-align: justify;\"><span style=\"font-size: 9pt;\">8.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Total adjuvant treatment duration must not exceed 42 weeks (14 cycles). </span></p><p><br></p><p><span style=\"color: black;\">1.2.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee made this recommendation based on the high quality of evidence of benefit, prevention of relapse, and the curative intent of treatment with T-DM1 in this setting but considered that the unmet health need for these patients is not high as they already have relatively good prognosis from currently available funded treatments.\u00a0</p>",
+          "Published_Application__c": "<p><span style=\"color: black;\">1.1.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee reviewed the application for trastuzumab emtansine (T-DM1) in the treatment of HER2 positive early breast cancer in patients who have residual disease after neoadjuvant systemic treatment.</p><p><span style=\"color: black;\">1.2.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee took into account, where applicable, PHARMAC\u2019s relevant decision-making framework when considering this agenda item.</p>",
+          "Published_Discussion__c": "<p><span style=\"color: black;\">1.1.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted a supplier application for trastuzumab emtansine in the treatment of HER2 positive early breast cancer in patients who have residual disease after neoadjuvant (i.e. pre-operative) systemic treatment that included HER2-targeted therapy. </p><p><span style=\"color: black;\">1.2.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that trastuzumab emtansine (T-DM1) is a HER2-targeted antibody-drug conjugate that contains the humanised anti-HER2 IgG1, trastuzumab, covalently linked to the microtubule inhibitory drug DM1 (a maytansine derivative) with the stable thioether linker MCC. Emtansine refers to the MCC-DM1 complex. The Subcommittee noted that the mechanism of action of T-DM1 allows the DM1 to be preferentially delivered to tumour cells, limiting the damage to surrounding tissues. The Subcommittee noted that T-DM1 is approved by Medsafe for the requested indication.</p><p><span style=\"color: black;\">1.3.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that the supplier had proposed T-DM1 as the standard therapy for HER2 positive early breast cancer in patients who have residual disease after neoadjuvant treatment that included HER2-targeted therapy. The Subcommittee noted that the supplier had considered that T-DM1 would not replace neoadjuvant trastuzumab treatment and would not be used in post-surgery treatments where patients had had a complete response. The Subcommittee noted that the supplier had considered that patient response to neoadjuvant treatment with trastuzumab would be assessed either pre-surgery by clinical or radiological measures, or post-surgery in resected tissue.</p><p><span style=\"color: black;\">1.4.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that PTAC reviewed this application at its <a href=\"https://pharmac.govt.nz/assets/PTAC-record-2020-08-published-28-October-2020.pdf\" target=\"_blank\" style=\"font-size: 12pt;\"><b>August 2020 meeting</b></a><b>.</b> The Subcommittee noted that PTAC recommended that trastuzumab emtansine be listed for the treatment of HER2 positive early breast cancer in patients who have residual disease after neoadjuvant systemic treatment that included HER2-targeted therapy with a low priority but sought advice from CaTSoP regarding a number of specific topics.</p><p><span style=\"color: black;\">1.5.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee considered that the current treatment paradigm for HER2 positive early breast cancer is surgery without prior treatment for tumours less than 2 centimetres diameter, or neoadjuvant therapy with trastuzumab and chemotherapy for tumours with diameter greater than 2 cm. The Subcommittee considered that following surgery, patients will generally continue to receive trastuzumab without chemotherapy for an additional six months, or up to a year if there is residual disease in the breast or axillary node positivity. The Subcommittee noted that under current Special Authority criteria for trastuzumab, patients with early breast cancer can only take trastuzumab for a total of 52 weeks in the neoadjuvant and/or adjuvant setting. </p><p><span style=\"color: black;\">1.6.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that approximately 70% of HER2 positive, early breast cancer patients receive neoadjuvant therapy with trastuzumab. The Subcommittee considered that capecitabine is not routinely used in the treatment of HER2 positive breast cancer but is used in triple negative breast cancers with residual disease following neoadjuvant therapy. The Subcommittee noted that that the relapse rate following adjuvant therapy is approximately 20%. </p><p><span style=\"color: black;\">1.7.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that most studies with anthracyclines and taxanes demonstrate a 50-60% pathological complete response (pCR, ie. no tumour in breast or axilla) rate, indicating that 40-50% of patients have residual disease following neoadjuvant treatment. The Subcommittee noted a meta-analysis of nearly 12,000 patients from 12 studies, which reported pCR to be a predictor for an increase in event free survival and overall survival (<a href=\"https://pubmed.ncbi.nlm.nih.gov/24529560/\" target=\"_blank\" style=\"font-size: 12pt;\"><b>Cortazar et al. Lancet. 2014;384:164-72</b></a>).</p><p><span style=\"color: black;\">1.8.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that surrogate endpoints (objective response, disease-free survival, and event-free survival) for overall survival in the context of cancer treatments were discussed at its <a href=\"https://pharmac.govt.nz/assets/ptac-cancer-treatment-subcommittee-record-2019-07.pdf\" target=\"_blank\" style=\"font-size: 12pt;\"><b>July 2019</b></a> meeting, where the Subcommittee considered that the relationship between surrogate endpoints and their ability to predict desired clinical effects (such as overall survival or quality of life improvements), can be highly variable in different cancers and in different disease stages and with different pharmaceutical agents. While the Subcommittee considered at the time that surrogate endpoint data should be interpreted with caution, endpoints such as progression-free survival were less likely than overall survival to be confounded by treatment crossover and post-progression treatment. The Subcommittee noted that, in general, disease-free survival has some inherent variability as it depends upon the timing of follow-up (which can differ between trials) compared with overall survival (which is specifically event driven). </p><p><span style=\"color: black;\">1.9.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted a recently published meta-analysis of 8 studies (n=21480 patients) of disease-free survival as a surrogate for overall survival in patients with HER2 positive early breast cancer treated with anti-HER2 antibody treatments (trastuzumab, pertuzumab, or trastuzumab emtansine) for up to 12 months (<a href=\"https://pubmed.ncbi.nlm.nih.gov/30709633/\" target=\"_blank\" style=\"font-size: 12pt;\"><b>Saad et al. Lancet Oncol. 2019;20:361-70</b></a>). The Subcommittee noted that both individual patient data and overall trial associations were analysed, and that patient level correlations between disease-free survival and overall survival were strong (r<sup>2</sup> = 0.90, 95% CI 0.89 to 0.90), while trial-level associations were less strong but still significant (r<sup>2 </sup>0.75, 95% CI 0.50 to 1.00). The Subcommittee considered that the study supported the use of disease-free survival as a surrogate for overall survival in the HER2 positive early breast cancer patient population. </p><p><span style=\"color: black;\">1.10.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted a phase III, two-arm, randomised, open-label, multicentre trial (KATHERINE, Clinicaltrials.gov identifier: NCT01772472) in which patients (n=1486) with HER2 positive early breast cancer who had residual disease at surgery after receiving neoadjuvant therapy plus HER2 targeted therapy (at least 9 cycles of prior trastuzumab therapy) were treated with either adjuvant T-DM1 or trastuzumab every 3 weeks for 14 cycles (<a href=\"https://www.ncbi.nlm.nih.gov/pubmed/30516102\" target=\"_blank\" style=\"font-size: 12pt;\"><b>Von Minckwitz et al. 2019. N Engl J Med 380(7):617-28</b></a>). The Subcommittee noted that 73% of the study participants were primarily white and had HER2 positive disease, and that the primary endpoint of the study was invasive disease-free survival. </p><p><span style=\"color: black;\">1.11.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that the 3-year invasive disease-free survival in KATHERINE was 77.0% for the trastuzumab treatment arm, and 88.3% for the T-DM1 treatment arm (unstratified HR 0.50, 95% CI 0.39 to 0.64, p&lt;0.0001), and that benefit was also demonstrated across the majority of subgroups analysed, including clinical stage at presentation, hormone receptor status, pathological nodal status, and age. The Subcommittee noted that those treated with T-DM1 had 6-7% lower incidence of recurrence of disease when compared with trastuzumab (unstratified HR = 0.60, 95% CI 0.45 to .079), and there was no difference in unexpected deaths between the two treatment groups. The Subcommittee noted that preliminary overall survival was not significantly different at 60 months and considered that additional follow-up would be necessary to evaluate the true effect of T-DM1 on overall survival. </p><p><span style=\"color: black;\">1.12.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that more adverse events occurred in the T-DM1 treatment group, including adverse events leading to treatment discontinuation such a platelet count and blood bilirubin decreases, but noted that cardiovascular toxicity was similar between those treated with T-DM1 and trastuzumab. The Subcommittee noted that the safety data were consistent with known manageable toxicities of T-DM1, and that the increased with T-DM1 were to be expected. </p><p><span style=\"color: black;\">1.13.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>\u00a0The Subcommittee considered the KATHERINE trial to be highly relevant to the New Zealand population, as neoadjuvant therapy is becoming standard of care for this patient group. The Subcommittee considered that although the trial participants were primarily European, it is unlikely that M\u0101ori and Pacific patients in New Zealand would have differences in treatment effect, and that although M\u0101ori and Pacific people have a higher incidence of HER2 positive disease, poorer outcomes in these groups stem from later diagnoses and differences in access to healthcare as opposed to tumour biology. </p><p><span style=\"color: black;\">1.14.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee considered that if T-DM1 were to be funded in this setting, there would be no change in the proportion of patients receiving neoadjuvant trastuzumab as part of their therapy. The Subcommittee considered that of the 3500 new breast cancer registrations every year, approximately 220-280 would be candidates for neoadjuvant chemotherapy plus trastuzumab. The Subcommittee considered that of these 220-280, approximately 50% would achieve pathological complete response, meaning at least 110 women per year would be candidates for adjuvant T-DM1 treatment. </p><p><span style=\"color: black;\">1.15.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee considered that should T-DM1 be funded in this setting, there would be no material impact on clinical resource use, as patients would otherwise continue to receive trastuzumab alone. The Subcommittee considered that there would be approximately 10% fewer women needing treatment for metastatic disease were T-DM1 to be funded in this setting, and that the number of women relapsing following adjuvant therapy would decrease by approximately 50 should T-DM1 be used after neoadjuvant therapy. The Subcommittee considered that unless evidence of activity on re-treatment was shown, practitioners would not advocate for re-treatment with T-DM1 in the metastatic setting following prior use as adjuvant therapy, but that clinicians would still want the option to use trastuzumab in the metastatic setting.\u00a0</p>",
+          "PTAC_Comments__c": "<p>1.1.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>In relation to item 10 and CaTSoP\u2019s consideration of trastuzumab-emtansine for the treatment of HER2 positive early breast cancer in patients who have residual disease after neoadjuvant systemic treatment:</p><p>1.1.1.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted the Subcommittee\u2019s recommendation that this be funded with a high priority within the context of treatments of malignancy and resolved that based on CaTSoP\u2019s assessment of the application against PHARMAC\u2019s Factors for Consideration, the Committee would change its earlier priority recommendation for this application from low to now become <b>medium</b>.</p><p>1.1.2.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that there remained residual uncertainty regarding the use of trastuzumab in the metastatic setting following prior use of trastuzumab-emtansine in the adjuvant setting. The Committee considered that if trastuzumab-emtansine were to be funded in this adjuvant setting then the Special Authority criteria for trastuzumab should exclude re-treatment in the metastatic setting for patients who had received trastuzumab-emtansine in the adjuvant setting, unless those who would benefit from trastuzumab in the metastatic setting after adjuvant trastuzumab-emtansine could be clearly defined. The Committee considered that further advice should be sought from CaTSoP regarding this.\u00a0</p>",
+          "Status_History__c": "a132P000000CdHPQA0"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Mar 2020",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Following Clinical Advice, Pharmac staff considers the advice and the funding application under goes an assessment using our&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/factors-for-consideration/\" rel=\"nofollow\">Factors for Consideration</a>&nbsp;framework and seeks additional information as required.</p>\r\n<p>&nbsp;</p>\r\n<p>Research and Economic analysis are undertaken.&nbsp; This focuses on the costs and benefits of a proposed course of action. Economics is based on three fundamental concepts that summarise the issues Pharmac faces daily:&nbsp;</p>\r\n<ul>\r\n<li>Scarcity &ndash; resources will always be insufficient to support all possible activities.</li>\r\n<li>Choices &ndash; due to scarce resources, decisions must be made about how best to use them.</li>\r\n<li>Opportunity cost &ndash; by choosing to use resources one way, we forgo other opportunities to use the same resources.</li>\r\n</ul>\r\n<p>&nbsp;</p>\r\n<p>For further information on the purpose of, and techniques for, undertaking economic analysis in health care, please refer&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/economic-analysis/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/economic-analysis/</a></p>",
+    "position": 2,
+    "name": "Under Assessment",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Mar 2021",
+          "fs": "Mar 2021",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Working to compare options",
+          "fs": "Working to compare options",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P000006NQOAUA4"
+          },
+          "Id": "a0P2P000006NQOAUA4",
+          "Event_Date__c": "2021-03-28",
+          "Event_Description__c": "Working to compare options",
+          "Stage__c": "Under Assessment",
+          "Formatted_Date__c": "Mar 2021",
+          "Status_History__c": "a132P000000Cig0QAC"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Mar 2021",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Pharmac staff uses a prioritisation process to compare and rank funding options. Possible opportunities for new investment will always exceed the budget Pharmac has available; therefore, prioritisation is an intrinsic part of Pharmac\u2019s decision-making process.</p>\r\n<p>The relative ranking of options aims to support Pharmac&rsquo;s statutory objective &ldquo;to secure for eligible people in need of pharmaceuticals, the best health outcomes that are reasonably achievable from pharmaceutical treatment and from within the amount of funding provided&rdquo;.</p>\r\n<p>A funding application or proposal is considered ready for prioritisation when sufficient information is available to permit it to be reviewed against Pharmac's Factors for Consideration and to inform a comparison with other possible investment decisions.</p>\r\n<p>There is no guarantee when or if a ranked medicine will be funded.&nbsp;&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/prioritisation/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/prioritisation/</a></p>",
+    "position": 3,
+    "name": "Options Compared",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Jun 2021",
+          "fs": "Jun 2021",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "The relative ranking of the pharmaceutical application has been completed.",
+          "fs": "The relative ranking of the pharmaceutical application has been completed.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P000006NQOBUA4"
+          },
+          "Id": "a0P2P000006NQOBUA4",
+          "Event_Date__c": "2021-06-09",
+          "Event_Description__c": "The relative ranking of the pharmaceutical application has been completed.",
+          "Stage__c": "Options Compared",
+          "Formatted_Date__c": "Jun 2021",
+          "Status_History__c": "a132P000000CuojQAC"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Dec 2021",
+          "fs": "Dec 2021",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "The relative ranking of the pharmaceutical application has been completed.",
+          "fs": "The relative ranking of the pharmaceutical application has been completed.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P000006NQOCUA4"
+          },
+          "Id": "a0P2P000006NQOCUA4",
+          "Event_Date__c": "2021-12-14",
+          "Event_Description__c": "The relative ranking of the pharmaceutical application has been completed.",
+          "Stage__c": "Options Compared",
+          "Formatted_Date__c": "Dec 2021",
+          "Status_History__c": "a132P000000DPxGQAW"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Jun 2021",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Pharmac is consulting on a proposal to either approve or decline the application.&nbsp;We seek the views of all people who have an interest in our proposals, or who may be affected by them, to obtain feedback on our proposed approaches.</p>\r\n<p><a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/having-your-say/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/having-your-say/</a></p>",
+    "position": 4,
+    "name": "Under Consultation",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": "<p><a href=\"https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/2022-05-19-proposals-to-fund-treatments-for-people-with-breast-and-blood-cancers/\" target=\"_blank\">Consultation for breast and blood cancers</a></p>",
+          "fs": "<p><a href=\"https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/2022-05-19-proposals-to-fund-treatments-for-people-with-breast-and-blood-cancers/\" target=\"_blank\">Consultation for breast and blood cancers</a></p>",
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "May 2022",
+          "fs": "May 2022",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Public consultation for this application is active.",
+          "fs": "Public consultation for this application is active.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P000006NQODUA4"
+          },
+          "Id": "a0P2P000006NQODUA4",
+          "Event_Date__c": "2022-05-19",
+          "Event_Description__c": "Public consultation for this application is active.",
+          "Stage__c": "Under Consultation",
+          "Summary__c": "<p><a href=\"https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/2022-05-19-proposals-to-fund-treatments-for-people-with-breast-and-blood-cancers/\" target=\"_blank\">Consultation for breast and blood cancers</a></p>",
+          "Formatted_Date__c": "May 2022",
+          "Status_History__c": "a132P000000DluOQAS"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "May 2022",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Following the consultation process, Pharmac staff considers the feedback and identifies any additional information required as part of a gap analysis.&nbsp; The proposal may require further clinical advice, research, and assessment.</p>",
+    "position": 5,
+    "name": "Reviewing Consultation Feedback",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Jun 2022",
+          "fs": "Jun 2022",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Public consultation for this application is now closed. Pharmac is reviewing consultation feedback.",
+          "fs": "Public consultation for this application is now closed. Pharmac is reviewing consultation feedback.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P000006NQOEUA4"
+          },
+          "Id": "a0P2P000006NQOEUA4",
+          "Event_Date__c": "2022-06-14",
+          "Event_Description__c": "Public consultation for this application is now closed. Pharmac is reviewing consultation feedback.",
+          "Stage__c": "Reviewing Consultation Feedback",
+          "Formatted_Date__c": "Jun 2022",
+          "Status_History__c": "a132P000000DpXhQAK"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Jun 2022",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>We refer to our decisions about whether and how particular pharmaceuticals are publicly-funded, as &ldquo;funding decisions&rdquo;.</p>\r\n<p>We consider and assess all funding decisions using the&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/about/operating-policies-and-procedures/#factorsfc\" rel=\"nofollow\">Factors for Consideration</a>. When we do so, we carefully evaluate clinical and other evidence for the benefits and suitability of a proposal, and to identify and understand the people who will be affected by it.</p>\r\n<p>While our main task is to allocate pharmaceutical funding, we consider the benefits and costs across the whole health system now and with a long-term focus, including the effects for hospitals and primary care, and consider direct costs to patients as well as to all health sector budgets.</p>\r\n<p>Final funding decisions are made by the Pharmac Board or delegated to senior Pharmac staff as required by the Board.</p>\r\n<p>&nbsp;</p>",
+    "position": 6,
+    "name": "Decision",
+    "last": true,
+    "events": [
+      {
+        "Summary": {
+          "s": "https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/2022-06-10-decision-to-fund-treatments-for-people-with-breast-and-blood-cancers/",
+          "fs": "https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/2022-06-10-decision-to-fund-treatments-for-people-with-breast-and-blood-cancers/",
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Jun 2022",
+          "fs": "Jun 2022",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "The funding application has been approved.",
+          "fs": "The funding application has been approved.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P000006NQOFUA4"
+          },
+          "Id": "a0P2P000006NQOFUA4",
+          "Event_Date__c": "2022-06-14",
+          "Event_Description__c": "The funding application has been approved.",
+          "Stage__c": "Decision",
+          "Summary__c": "https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/2022-06-10-decision-to-fund-treatments-for-people-with-breast-and-blood-cancers/",
+          "Formatted_Date__c": "Jun 2022",
+          "Status_History__c": "a132P000000DpXiQAK"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Jun 2022",
+    "collapsed": false,
+    "checked": true
+  }
+]

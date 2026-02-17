@@ -1,0 +1,621 @@
+[
+  {
+    "text": "<p>New funding applications are referred to one of Pharmac's Funding Application Advisors (FAAs), who'll review the application to ensure they have the relevant information to undertake a preliminary analysis.&nbsp; They may seek more information if required.</p>\r\n<p><a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/new-funding-applications/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/new-funding-applications/</a></p>",
+    "position": 0,
+    "name": "Application Received",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Feb 2021",
+          "fs": "Feb 2021",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Application received",
+          "fs": "Application received",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000SXDKw2AP"
+          },
+          "Id": "a0POZ00000SXDKw2AP",
+          "Event_Date__c": "2021-02-23",
+          "Event_Description__c": "Application received",
+          "Stage__c": "Application Received",
+          "Formatted_Date__c": "Feb 2021",
+          "Status_History__c": "a132P000000CcvyQAC"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Feb 2021",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Pharmac is identifying and gathering information required to get clinical advice.  The <a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/pharmacology-and-therapeutics-advisory-committee-ptac/\" rel=\"nofollow\">Pharmacology and Therapeutics Advisory Committee (PTAC)</a>  meets quarterly. There are also around 20 expert <a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/specialist-advisory-committees/\" rel=\"nofollow\">Specialist Advisory Committees (SACs)</a>, previously expert Subcommittees, which provide clinical evaluations in specialist areas. Specialist Advisory Committees meet as required to discuss issues referred to them by PTAC or Pharmac.</p>\n<p style=\"height: 20px\">&nbsp;</p>\n<p>In November 2021, we introduced separate terms of reference for the SACs to make clear that these committees have different, but complementary, roles, expertise and perspectives to PTAC.</p>\n<p style=\"height: 15px\">&nbsp;</p>\n<p>PTAC and SACs may make recommendations to Pharmac that differ from each other when looking at the same evidence. Pharmac considers the recommendations provided by all our clinical advisory committees when assessing applications.</p>\n<p style=\"height: 20px\">&nbsp;</p>\n<p><a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/pharmacology-and-therapeutics-advisory-committee-ptac/ptac-terms-of-reference-july-2021/\" rel=\"nofollow\">PTAC</a>  and <a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/specialist-advisory-committees/specialist-advisory-committee-terms-of-reference//\" rel=\"nofollow\">Specialist Advisory Committees</a> records of the meeting will be published on this website in accordance with the Terms of Reference.</p>",
+    "position": 1,
+    "name": "Seeking Clinical Advice",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Jun 2020",
+          "fs": "Jun 2020",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Clinical advice required",
+          "fs": "Clinical advice required",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000SXDKv2AP"
+          },
+          "Id": "a0POZ00000SXDKv2AP",
+          "Event_Date__c": "2020-06-15",
+          "Event_Description__c": "Clinical advice required",
+          "Stage__c": "Seeking Clinical Advice",
+          "Formatted_Date__c": "Jun 2020",
+          "Status_History__c": "a132P000000Ccw3QAC"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": "<p style=\"text-align: justify;\"><span style=\"color: black;\">1.1.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee <b>recommended</b> that access to azacitidine be widened to include patients with therapy related myelodysplastic syndrome/acute myeloid leukaemia (MDS/AML) with a high priority within the context of treatment of malignancy, when used as primary therapy </p><p style=\"text-align: justify;\"><span style=\"color: black;\">1.2.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee <b>recommended</b> that access to azacitidine be widened to include patients with AML whose blast counts exceed 30% with a medium priority within the context of treatment of malignancy, when used as primary therapy </p><p style=\"text-align: justify;\"><span style=\"color: black;\">1.3.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee recommended that the Special Authority criteria for azacitidine be amended as follows to affect the above recommendations (deletions in strikethrough, additions in bold):</p><p style=\"text-align: justify;\"><span style=\"font-size: 9pt;\">Initial application - only from a haematologist or medical practitioner on the recommendation of a haematologist. Approvals valid for 12 months for applications meeting the following criteria:</span></p><p style=\"text-align: justify;\"><span style=\"font-size: 9pt;\">All of the following:</span></p><p style=\"text-align: justify;\"><span style=\"font-size: 9pt;\">1.</span><span style=\"font-size: 7pt;\">\u00a0</span><span style=\"font-size: 9pt;\">Any of the following:</span></p><p style=\"text-align: justify;\"><span style=\"font-size: 9pt;\">1.1.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">The patient has International Prognostic Scoring System (IPSS) intermediate-2 or high risk myelodysplastic syndrome; or </span></p><p style=\"text-align: justify;\"><span style=\"font-size: 9pt;\">1.2.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">The patient has chronic myelomonocytic leukaemia (10%-29% marrow blasts without myeloproliferative disorder); or </span></p><p style=\"text-align: justify;\"><strike style=\"font-size: 9pt;\">1.3.</strike><strike style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</strike><span style=\"font-size: 9pt;\">The patient has acute myeloid leukaemia </span><strike style=\"font-size: 9pt;\">with 20-30% blasts and multi-lineage dysplasia, according to World Health Organisation Classification (WHO)</strike><span style=\"font-size: 9pt;\">; and</span><strike style=\"font-size: 9pt;\"> </strike></p><p style=\"text-align: justify;\"><span style=\"font-size: 9pt;\">2.</span><span style=\"font-size: 7pt;\">\u00a0</span><span style=\"font-size: 9pt;\">The patient has performance status (WHO/ECOG) grade 0-2; and </span></p><p style=\"text-align: justify;\"><strike style=\"font-size: 9pt;\">3.</strike><strike style=\"font-size: 7pt;\">\u00a0</strike><strike style=\"font-size: 9pt;\">The patient does not have secondary myelodysplastic syndrome resulting from chemical injury or prior treatment with chemotherapy and/or radiation for other diseases and </strike></p><p style=\"text-align: justify;\"><span style=\"font-size: 9pt;\">3.</span><span style=\"font-size: 7pt;\">\u00a0</span><span style=\"font-size: 9pt;\">The patient has an estimated life expectancy of at least 3 months</span><b style=\"font-size: 9pt;\">; and</b></p><p style=\"text-align: justify;\"><b style=\"font-size: 9pt;\">4.</b><b style=\"font-size: 7pt;\">\u00a0</b><b style=\"font-size: 9pt;\">Azacitidine is to be used as primary therapy for AML/MDS</b></p><p style=\"text-align: justify;\"><span style=\"font-size: 9pt;\">\u00a0</span></p><p style=\"text-align: justify;\"><span style=\"font-size: 9pt;\">Renewal application - only from a haematologist or medical practitioner on the recommendation of a haematologist. Approvals valid for 12 months for applications meeting the following criteria:</span></p><p style=\"text-align: justify;\"><span style=\"font-size: 9pt;\">Both:</span></p><p style=\"text-align: justify;\"><span style=\"font-size: 9pt;\">1.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">No evidence of disease progression; and</span></p><p style=\"text-align: justify;\"><span style=\"font-size: 9pt;\">2.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">The treatment remains appropriate and patient is benefitting from treatment.\u00a0</span></p><p><br></p>",
+          "fs": "<p style=\"text-align: justify;\"><span style=\"color: black;\">1.1.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee <b>recommended</b> that access to azacitidine be widened to include patients with therapy related myelodysplastic syndrome/acute myeloid leukaemia (MDS/AML) with a high priority within the context of treatment of malignancy, when used as primary therapy </p><p style=\"text-align: justify;\"><span style=\"color: black;\">1.2.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee <b>recommended</b> that access to azacitidine be widened to include patients with AML whose blast counts exceed 30% with a medium priority within the context of treatment of malignancy, when used as primary therapy </p><p style=\"text-align: justify;\"><span style=\"color: black;\">1.3.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee recommended that the Special Authority criteria for azacitidine be amended as follows to affect the above recommendations (deletions in strikethrough, additions in bold):</p><p style=\"text-align: justify;\"><span style=\"font-size: 9pt;\">Initial application - only from a haematologist or medical practitioner on the recommendation of a haematologist. Approvals valid for 12 months for applications meeting the following criteria:</span></p><p style=\"text-align: justify;\"><span style=\"font-size: 9pt;\">All of the following:</span></p><p style=\"text-align: justify;\"><span style=\"font-size: 9pt;\">1.</span><span style=\"font-size: 7pt;\">\u00a0</span><span style=\"font-size: 9pt;\">Any of the following:</span></p><p style=\"text-align: justify;\"><span style=\"font-size: 9pt;\">1.1.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">The patient has International Prognostic Scoring System (IPSS) intermediate-2 or high risk myelodysplastic syndrome; or </span></p><p style=\"text-align: justify;\"><span style=\"font-size: 9pt;\">1.2.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">The patient has chronic myelomonocytic leukaemia (10%-29% marrow blasts without myeloproliferative disorder); or </span></p><p style=\"text-align: justify;\"><strike style=\"font-size: 9pt;\">1.3.</strike><strike style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</strike><span style=\"font-size: 9pt;\">The patient has acute myeloid leukaemia </span><strike style=\"font-size: 9pt;\">with 20-30% blasts and multi-lineage dysplasia, according to World Health Organisation Classification (WHO)</strike><span style=\"font-size: 9pt;\">; and</span><strike style=\"font-size: 9pt;\"> </strike></p><p style=\"text-align: justify;\"><span style=\"font-size: 9pt;\">2.</span><span style=\"font-size: 7pt;\">\u00a0</span><span style=\"font-size: 9pt;\">The patient has performance status (WHO/ECOG) grade 0-2; and </span></p><p style=\"text-align: justify;\"><strike style=\"font-size: 9pt;\">3.</strike><strike style=\"font-size: 7pt;\">\u00a0</strike><strike style=\"font-size: 9pt;\">The patient does not have secondary myelodysplastic syndrome resulting from chemical injury or prior treatment with chemotherapy and/or radiation for other diseases and </strike></p><p style=\"text-align: justify;\"><span style=\"font-size: 9pt;\">3.</span><span style=\"font-size: 7pt;\">\u00a0</span><span style=\"font-size: 9pt;\">The patient has an estimated life expectancy of at least 3 months</span><b style=\"font-size: 9pt;\">; and</b></p><p style=\"text-align: justify;\"><b style=\"font-size: 9pt;\">4.</b><b style=\"font-size: 7pt;\">\u00a0</b><b style=\"font-size: 9pt;\">Azacitidine is to be used as primary therapy for AML/MDS</b></p><p style=\"text-align: justify;\"><span style=\"font-size: 9pt;\">\u00a0</span></p><p style=\"text-align: justify;\"><span style=\"font-size: 9pt;\">Renewal application - only from a haematologist or medical practitioner on the recommendation of a haematologist. Approvals valid for 12 months for applications meeting the following criteria:</span></p><p style=\"text-align: justify;\"><span style=\"font-size: 9pt;\">Both:</span></p><p style=\"text-align: justify;\"><span style=\"font-size: 9pt;\">1.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">No evidence of disease progression; and</span></p><p style=\"text-align: justify;\"><span style=\"font-size: 9pt;\">2.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">The treatment remains appropriate and patient is benefitting from treatment.\u00a0</span></p><p><br></p>",
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": "<p style=\"text-align: justify;\"><span style=\"color: black;\">1.1.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that advice was sought in relation to a request received from a clinician to widen access to azacitidine for patients with myelodysplastic syndrome (MDS) or acute myeloid leukaemia (AML), specifically: </p><p style=\"text-align: justify;\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>remove for AML patients the pre-requisite for low blast count and associated dysplasia; and</p><p style=\"text-align: justify;\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>remove the restriction precluding its use in therapy-related MDS (t-MDS)</p><p style=\"text-align: justify;\"><span style=\"color: black;\">1.2.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that patients with therapy-related MDS/AML are not able to access funded azacitidine under the current Special Authority criteria. The Subcommittee considered that there is evidence that these patients do respond to treatment, but that there is limited evidence from trials as these patients have not been included in the trial population. The Subcommittee considered that the exclusion of this patient group from such trials is likely due to their propensity to dilute the effect of treatment on the primary population investigated.</p><p style=\"text-align: justify;\"><span style=\"color: black;\">1.3.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted with respect to the request for widened access to include patients with a blast count above 30%, the primary evidence was from a randomised controlled trial that included 488 patients and considered it reported modest overall survival benefit. The Subcommittee noted that in this study the median overall survival (OS) was increased with azacitidine vs conventional care regimens: 10.4 months (95% confidence interval [CI], 8.0-12.7 months) vs 6.5 months (95% CI, 5.0-8.6 months) and there was a reduction in transfusion requirements (<a href=\"https://ashpublications.org/blood/article/126/3/291/34530/International-phase-3-study-of-azacitidine-vs\" target=\"_blank\">Dombret et al. Blood;2015;126:291\u2013299</a>). The Subcommittee considered that given the population, this benefit was substantial.</p><p style=\"text-align: justify;\"><span style=\"color: black;\">1.4.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee considered that azacitidine is usually administered until disease progression and can take up to 6 cycles before a response is seen and that some patients that respond can have a durable response. The Subcommittee considered that the number and efficacy of alternative funded treatment options for this population are insufficient.</p><p style=\"text-align: justify;\"><span style=\"color: black;\">1.5.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee considered that depending on cytogenetics, patients may be able to receive subcutaneous cytarabine. The Subcommittee considered that patients with adverse cytogenetics have the greatest unmet need as the current standard of care for these patients is best supportive care. The Subcommittee considered that the treatment paradigm for AML patients with normal cytogenetics has moved from low-dose AraC to azacitidine. The Subcommittee considered that internationally azacitidine is the standard of care for both patient groups and that generally other agents are added on to azacitidine. </p><p style=\"text-align: justify;\"><span style=\"color: black;\">1.6.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee considered that it would be appropriate to retain the current duration of 12 months with renewal criteria for both patient groups. The Subcommittee considered that azacitidine treatment would be likely to be discontinued within this timeframe if disease had progressed. The Subcommittee considered that the current renewal criteria remained appropriate if access were to be widened as requested. </p><p style=\"text-align: justify;\"><span style=\"color: black;\">1.7.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee considered that there would be approximately 80 additional patients who would be eligible for treatment if access were widened to both subgroups, however it was difficult to quantify the number of patients contributing to each change in criteria. </p><p style=\"text-align: justify;\"><span style=\"color: black;\">1.8.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee considered that it was not intended that this widened access would include patients receiving azacitidine as consolidation post induction chemotherapy, and considered that the current criteria should be amended to include the addition of the requirement that azacitidine be used as primary therapy.</p><p style=\"text-align: justify;\"><span style=\"color: black;\">1.9.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee considered that there would be significant savings associated with patients receiving azacitidine instead of other chemotherapeutic regimens and that patients who respond may have reduced transfusion requirements. The Subcommittee considered that analysis of the likely magnitude of savings could be informed by previous NPPA applications for treatment.\u00a0</p><p><br></p>",
+          "fs": "<p style=\"text-align: justify;\"><span style=\"color: black;\">1.1.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that advice was sought in relation to a request received from a clinician to widen access to azacitidine for patients with myelodysplastic syndrome (MDS) or acute myeloid leukaemia (AML), specifically: </p><p style=\"text-align: justify;\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>remove for AML patients the pre-requisite for low blast count and associated dysplasia; and</p><p style=\"text-align: justify;\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>remove the restriction precluding its use in therapy-related MDS (t-MDS)</p><p style=\"text-align: justify;\"><span style=\"color: black;\">1.2.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that patients with therapy-related MDS/AML are not able to access funded azacitidine under the current Special Authority criteria. The Subcommittee considered that there is evidence that these patients do respond to treatment, but that there is limited evidence from trials as these patients have not been included in the trial population. The Subcommittee considered that the exclusion of this patient group from such trials is likely due to their propensity to dilute the effect of treatment on the primary population investigated.</p><p style=\"text-align: justify;\"><span style=\"color: black;\">1.3.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted with respect to the request for widened access to include patients with a blast count above 30%, the primary evidence was from a randomised controlled trial that included 488 patients and considered it reported modest overall survival benefit. The Subcommittee noted that in this study the median overall survival (OS) was increased with azacitidine vs conventional care regimens: 10.4 months (95% confidence interval [CI], 8.0-12.7 months) vs 6.5 months (95% CI, 5.0-8.6 months) and there was a reduction in transfusion requirements (<a href=\"https://ashpublications.org/blood/article/126/3/291/34530/International-phase-3-study-of-azacitidine-vs\" target=\"_blank\">Dombret et al. Blood;2015;126:291\u2013299</a>). The Subcommittee considered that given the population, this benefit was substantial.</p><p style=\"text-align: justify;\"><span style=\"color: black;\">1.4.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee considered that azacitidine is usually administered until disease progression and can take up to 6 cycles before a response is seen and that some patients that respond can have a durable response. The Subcommittee considered that the number and efficacy of alternative funded treatment options for this population are insufficient.</p><p style=\"text-align: justify;\"><span style=\"color: black;\">1.5.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee considered that depending on cytogenetics, patients may be able to receive subcutaneous cytarabine. The Subcommittee considered that patients with adverse cytogenetics have the greatest unmet need as the current standard of care for these patients is best supportive care. The Subcommittee considered that the treatment paradigm for AML patients with normal cytogenetics has moved from low-dose AraC to azacitidine. The Subcommittee considered that internationally azacitidine is the standard of care for both patient groups and that generally other agents are added on to azacitidine. </p><p style=\"text-align: justify;\"><span style=\"color: black;\">1.6.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee considered that it would be appropriate to retain the current duration of 12 months with renewal criteria for both patient groups. The Subcommittee considered that azacitidine treatment would be likely to be discontinued within this timeframe if disease had progressed. The Subcommittee considered that the current renewal criteria remained appropriate if access were to be widened as requested. </p><p style=\"text-align: justify;\"><span style=\"color: black;\">1.7.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee considered that there would be approximately 80 additional patients who would be eligible for treatment if access were widened to both subgroups, however it was difficult to quantify the number of patients contributing to each change in criteria. </p><p style=\"text-align: justify;\"><span style=\"color: black;\">1.8.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee considered that it was not intended that this widened access would include patients receiving azacitidine as consolidation post induction chemotherapy, and considered that the current criteria should be amended to include the addition of the requirement that azacitidine be used as primary therapy.</p><p style=\"text-align: justify;\"><span style=\"color: black;\">1.9.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee considered that there would be significant savings associated with patients receiving azacitidine instead of other chemotherapeutic regimens and that patients who respond may have reduced transfusion requirements. The Subcommittee considered that analysis of the likely magnitude of savings could be informed by previous NPPA applications for treatment.\u00a0</p><p><br></p>",
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": "Medium",
+          "fs": "Medium",
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Feb 2021",
+          "fs": "Feb 2021",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Clinical advice received from Cancer Treatments Subcommittee (CaTSoP) at meeting Friday 3 July 2020.",
+          "fs": "Clinical advice received from Cancer Treatments Subcommittee (CaTSoP) at meeting Friday 3 July 2020.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000SXDKx2AP"
+          },
+          "Id": "a0POZ00000SXDKx2AP",
+          "Event_Date__c": "2021-02-25",
+          "Event_Description__c": "Clinical advice received from Cancer Treatments Subcommittee (CaTSoP) at meeting Friday 3 July 2020.",
+          "Stage__c": "Seeking Clinical Advice",
+          "Outcome__c": "Medium",
+          "Formatted_Date__c": "Feb 2021",
+          "Published_Recommendation__c": "<p style=\"text-align: justify;\"><span style=\"color: black;\">1.1.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee <b>recommended</b> that access to azacitidine be widened to include patients with therapy related myelodysplastic syndrome/acute myeloid leukaemia (MDS/AML) with a high priority within the context of treatment of malignancy, when used as primary therapy </p><p style=\"text-align: justify;\"><span style=\"color: black;\">1.2.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee <b>recommended</b> that access to azacitidine be widened to include patients with AML whose blast counts exceed 30% with a medium priority within the context of treatment of malignancy, when used as primary therapy </p><p style=\"text-align: justify;\"><span style=\"color: black;\">1.3.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee recommended that the Special Authority criteria for azacitidine be amended as follows to affect the above recommendations (deletions in strikethrough, additions in bold):</p><p style=\"text-align: justify;\"><span style=\"font-size: 9pt;\">Initial application - only from a haematologist or medical practitioner on the recommendation of a haematologist. Approvals valid for 12 months for applications meeting the following criteria:</span></p><p style=\"text-align: justify;\"><span style=\"font-size: 9pt;\">All of the following:</span></p><p style=\"text-align: justify;\"><span style=\"font-size: 9pt;\">1.</span><span style=\"font-size: 7pt;\">\u00a0</span><span style=\"font-size: 9pt;\">Any of the following:</span></p><p style=\"text-align: justify;\"><span style=\"font-size: 9pt;\">1.1.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">The patient has International Prognostic Scoring System (IPSS) intermediate-2 or high risk myelodysplastic syndrome; or </span></p><p style=\"text-align: justify;\"><span style=\"font-size: 9pt;\">1.2.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">The patient has chronic myelomonocytic leukaemia (10%-29% marrow blasts without myeloproliferative disorder); or </span></p><p style=\"text-align: justify;\"><strike style=\"font-size: 9pt;\">1.3.</strike><strike style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</strike><span style=\"font-size: 9pt;\">The patient has acute myeloid leukaemia </span><strike style=\"font-size: 9pt;\">with 20-30% blasts and multi-lineage dysplasia, according to World Health Organisation Classification (WHO)</strike><span style=\"font-size: 9pt;\">; and</span><strike style=\"font-size: 9pt;\"> </strike></p><p style=\"text-align: justify;\"><span style=\"font-size: 9pt;\">2.</span><span style=\"font-size: 7pt;\">\u00a0</span><span style=\"font-size: 9pt;\">The patient has performance status (WHO/ECOG) grade 0-2; and </span></p><p style=\"text-align: justify;\"><strike style=\"font-size: 9pt;\">3.</strike><strike style=\"font-size: 7pt;\">\u00a0</strike><strike style=\"font-size: 9pt;\">The patient does not have secondary myelodysplastic syndrome resulting from chemical injury or prior treatment with chemotherapy and/or radiation for other diseases and </strike></p><p style=\"text-align: justify;\"><span style=\"font-size: 9pt;\">3.</span><span style=\"font-size: 7pt;\">\u00a0</span><span style=\"font-size: 9pt;\">The patient has an estimated life expectancy of at least 3 months</span><b style=\"font-size: 9pt;\">; and</b></p><p style=\"text-align: justify;\"><b style=\"font-size: 9pt;\">4.</b><b style=\"font-size: 7pt;\">\u00a0</b><b style=\"font-size: 9pt;\">Azacitidine is to be used as primary therapy for AML/MDS</b></p><p style=\"text-align: justify;\"><span style=\"font-size: 9pt;\">\u00a0</span></p><p style=\"text-align: justify;\"><span style=\"font-size: 9pt;\">Renewal application - only from a haematologist or medical practitioner on the recommendation of a haematologist. Approvals valid for 12 months for applications meeting the following criteria:</span></p><p style=\"text-align: justify;\"><span style=\"font-size: 9pt;\">Both:</span></p><p style=\"text-align: justify;\"><span style=\"font-size: 9pt;\">1.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">No evidence of disease progression; and</span></p><p style=\"text-align: justify;\"><span style=\"font-size: 9pt;\">2.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">The treatment remains appropriate and patient is benefitting from treatment.\u00a0</span></p><p><br></p>",
+          "Published_Discussion__c": "<p style=\"text-align: justify;\"><span style=\"color: black;\">1.1.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that advice was sought in relation to a request received from a clinician to widen access to azacitidine for patients with myelodysplastic syndrome (MDS) or acute myeloid leukaemia (AML), specifically: </p><p style=\"text-align: justify;\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>remove for AML patients the pre-requisite for low blast count and associated dysplasia; and</p><p style=\"text-align: justify;\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>remove the restriction precluding its use in therapy-related MDS (t-MDS)</p><p style=\"text-align: justify;\"><span style=\"color: black;\">1.2.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that patients with therapy-related MDS/AML are not able to access funded azacitidine under the current Special Authority criteria. The Subcommittee considered that there is evidence that these patients do respond to treatment, but that there is limited evidence from trials as these patients have not been included in the trial population. The Subcommittee considered that the exclusion of this patient group from such trials is likely due to their propensity to dilute the effect of treatment on the primary population investigated.</p><p style=\"text-align: justify;\"><span style=\"color: black;\">1.3.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted with respect to the request for widened access to include patients with a blast count above 30%, the primary evidence was from a randomised controlled trial that included 488 patients and considered it reported modest overall survival benefit. The Subcommittee noted that in this study the median overall survival (OS) was increased with azacitidine vs conventional care regimens: 10.4 months (95% confidence interval [CI], 8.0-12.7 months) vs 6.5 months (95% CI, 5.0-8.6 months) and there was a reduction in transfusion requirements (<a href=\"https://ashpublications.org/blood/article/126/3/291/34530/International-phase-3-study-of-azacitidine-vs\" target=\"_blank\">Dombret et al. Blood;2015;126:291\u2013299</a>). The Subcommittee considered that given the population, this benefit was substantial.</p><p style=\"text-align: justify;\"><span style=\"color: black;\">1.4.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee considered that azacitidine is usually administered until disease progression and can take up to 6 cycles before a response is seen and that some patients that respond can have a durable response. The Subcommittee considered that the number and efficacy of alternative funded treatment options for this population are insufficient.</p><p style=\"text-align: justify;\"><span style=\"color: black;\">1.5.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee considered that depending on cytogenetics, patients may be able to receive subcutaneous cytarabine. The Subcommittee considered that patients with adverse cytogenetics have the greatest unmet need as the current standard of care for these patients is best supportive care. The Subcommittee considered that the treatment paradigm for AML patients with normal cytogenetics has moved from low-dose AraC to azacitidine. The Subcommittee considered that internationally azacitidine is the standard of care for both patient groups and that generally other agents are added on to azacitidine. </p><p style=\"text-align: justify;\"><span style=\"color: black;\">1.6.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee considered that it would be appropriate to retain the current duration of 12 months with renewal criteria for both patient groups. The Subcommittee considered that azacitidine treatment would be likely to be discontinued within this timeframe if disease had progressed. The Subcommittee considered that the current renewal criteria remained appropriate if access were to be widened as requested. </p><p style=\"text-align: justify;\"><span style=\"color: black;\">1.7.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee considered that there would be approximately 80 additional patients who would be eligible for treatment if access were widened to both subgroups, however it was difficult to quantify the number of patients contributing to each change in criteria. </p><p style=\"text-align: justify;\"><span style=\"color: black;\">1.8.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee considered that it was not intended that this widened access would include patients receiving azacitidine as consolidation post induction chemotherapy, and considered that the current criteria should be amended to include the addition of the requirement that azacitidine be used as primary therapy.</p><p style=\"text-align: justify;\"><span style=\"color: black;\">1.9.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee considered that there would be significant savings associated with patients receiving azacitidine instead of other chemotherapeutic regimens and that patients who respond may have reduced transfusion requirements. The Subcommittee considered that analysis of the likely magnitude of savings could be informed by previous NPPA applications for treatment.\u00a0</p><p><br></p>",
+          "Status_History__c": "a132P000000CdI3QAK"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Jun 2020",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Following Clinical Advice, Pharmac staff considers the advice and the funding application under goes an assessment using our&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/factors-for-consideration/\" rel=\"nofollow\">Factors for Consideration</a>&nbsp;framework and seeks additional information as required.</p>\r\n<p>&nbsp;</p>\r\n<p>Research and Economic analysis are undertaken.&nbsp; This focuses on the costs and benefits of a proposed course of action. Economics is based on three fundamental concepts that summarise the issues Pharmac faces daily:&nbsp;</p>\r\n<ul>\r\n<li>Scarcity &ndash; resources will always be insufficient to support all possible activities.</li>\r\n<li>Choices &ndash; due to scarce resources, decisions must be made about how best to use them.</li>\r\n<li>Opportunity cost &ndash; by choosing to use resources one way, we forgo other opportunities to use the same resources.</li>\r\n</ul>\r\n<p>&nbsp;</p>\r\n<p>For further information on the purpose of, and techniques for, undertaking economic analysis in health care, please refer&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/economic-analysis/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/economic-analysis/</a></p>",
+    "position": 2,
+    "name": "Under Assessment",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "May 2021",
+          "fs": "May 2021",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Working to compare options",
+          "fs": "Working to compare options",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000SXDKy2AP"
+          },
+          "Id": "a0POZ00000SXDKy2AP",
+          "Event_Date__c": "2021-05-27",
+          "Event_Description__c": "Working to compare options",
+          "Stage__c": "Under Assessment",
+          "Formatted_Date__c": "May 2021",
+          "Status_History__c": "a132P000000CsUmQAK"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "May 2021",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Pharmac staff uses a prioritisation process to compare and rank funding options. Possible opportunities for new investment will always exceed the budget Pharmac has available; therefore, prioritisation is an intrinsic part of Pharmac\u2019s decision-making process.</p>\r\n<p>The relative ranking of options aims to support Pharmac&rsquo;s statutory objective &ldquo;to secure for eligible people in need of pharmaceuticals, the best health outcomes that are reasonably achievable from pharmaceutical treatment and from within the amount of funding provided&rdquo;.</p>\r\n<p>A funding application or proposal is considered ready for prioritisation when sufficient information is available to permit it to be reviewed against Pharmac's Factors for Consideration and to inform a comparison with other possible investment decisions.</p>\r\n<p>There is no guarantee when or if a ranked medicine will be funded.&nbsp;&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/prioritisation/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/prioritisation/</a></p>",
+    "position": 3,
+    "name": "Options Compared",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Jun 2021",
+          "fs": "Jun 2021",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "The relative ranking of the pharmaceutical application has been completed.",
+          "fs": "The relative ranking of the pharmaceutical application has been completed.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000SXDKz2AP"
+          },
+          "Id": "a0POZ00000SXDKz2AP",
+          "Event_Date__c": "2021-06-09",
+          "Event_Description__c": "The relative ranking of the pharmaceutical application has been completed.",
+          "Stage__c": "Options Compared",
+          "Formatted_Date__c": "Jun 2021",
+          "Status_History__c": "a132P000000CuoqQAC"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Apr 2022",
+          "fs": "Apr 2022",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "The relative ranking of the pharmaceutical application has been completed.",
+          "fs": "The relative ranking of the pharmaceutical application has been completed.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000SXDL02AP"
+          },
+          "Id": "a0POZ00000SXDL02AP",
+          "Event_Date__c": "2022-04-29",
+          "Event_Description__c": "The relative ranking of the pharmaceutical application has been completed.",
+          "Stage__c": "Options Compared",
+          "Formatted_Date__c": "Apr 2022",
+          "Status_History__c": "a132P000000DifGQAS"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Mar 2024",
+          "fs": "Mar 2024",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "The relative ranking of the pharmaceutical application has been completed.",
+          "fs": "The relative ranking of the pharmaceutical application has been completed.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000SXDL12AP"
+          },
+          "Id": "a0POZ00000SXDL12AP",
+          "Event_Date__c": "2024-03-25",
+          "Event_Description__c": "The relative ranking of the pharmaceutical application has been completed.",
+          "Stage__c": "Options Compared",
+          "Formatted_Date__c": "Mar 2024",
+          "Status_History__c": "a13OZ000008JYseYAG"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Jun 2021",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Pharmac is consulting on a proposal to either approve or decline the application.&nbsp;We seek the views of all people who have an interest in our proposals, or who may be affected by them, to obtain feedback on our proposed approaches.</p>\r\n<p><a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/having-your-say/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/having-your-say/</a></p>",
+    "position": 4,
+    "name": "Under Consultation",
+    "last": false,
+    "events": null,
+    "dateString": null,
+    "collapsed": false,
+    "checked": false
+  },
+  {
+    "text": "<p>Following the consultation process, Pharmac staff considers the feedback and identifies any additional information required as part of a gap analysis.&nbsp; The proposal may require further clinical advice, research, and assessment.</p>",
+    "position": 5,
+    "name": "Reviewing Consultation Feedback",
+    "last": false,
+    "events": null,
+    "dateString": null,
+    "collapsed": false,
+    "checked": false
+  },
+  {
+    "text": "<p>We refer to our decisions about whether and how particular pharmaceuticals are publicly-funded, as &ldquo;funding decisions&rdquo;.</p>\r\n<p>We consider and assess all funding decisions using the&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/about/operating-policies-and-procedures/#factorsfc\" rel=\"nofollow\">Factors for Consideration</a>. When we do so, we carefully evaluate clinical and other evidence for the benefits and suitability of a proposal, and to identify and understand the people who will be affected by it.</p>\r\n<p>While our main task is to allocate pharmaceutical funding, we consider the benefits and costs across the whole health system now and with a long-term focus, including the effects for hospitals and primary care, and consider direct costs to patients as well as to all health sector budgets.</p>\r\n<p>Final funding decisions are made by the Pharmac Board or delegated to senior Pharmac staff as required by the Board.</p>\r\n<p>&nbsp;</p>",
+    "position": 6,
+    "name": "Decision",
+    "last": true,
+    "events": [
+      {
+        "Summary": {
+          "s": "<p><a href=\"https://www.pharmac.govt.nz/news-and-resources/consultations-and-decisions/2025-04-decision-to-widen-access-to-medicines-for-blood-cancer-inflammatory-bowel-diseases-eczema-and-rheumatoid-arthritis\" target=\"_blank\">Notification Letter</a></p>",
+          "fs": "<p><a href=\"https://www.pharmac.govt.nz/news-and-resources/consultations-and-decisions/2025-04-decision-to-widen-access-to-medicines-for-blood-cancer-inflammatory-bowel-diseases-eczema-and-rheumatoid-arthritis\" target=\"_blank\">Notification Letter</a></p>",
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Apr 2025",
+          "fs": "Apr 2025",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "The funding application has been approved.",
+          "fs": "The funding application has been approved.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000SXDL22AP"
+          },
+          "Id": "a0POZ00000SXDL22AP",
+          "Event_Date__c": "2025-04-14",
+          "Event_Description__c": "The funding application has been approved.",
+          "Stage__c": "Decision",
+          "Summary__c": "<p><a href=\"https://www.pharmac.govt.nz/news-and-resources/consultations-and-decisions/2025-04-decision-to-widen-access-to-medicines-for-blood-cancer-inflammatory-bowel-diseases-eczema-and-rheumatoid-arthritis\" target=\"_blank\">Notification Letter</a></p>",
+          "Formatted_Date__c": "Apr 2025",
+          "Status_History__c": "a13OZ00000MJMbHYAX"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Apr 2025",
+          "fs": "Apr 2025",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "The funding application has been approved.",
+          "fs": "The funding application has been approved.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000SXDL32AP"
+          },
+          "Id": "a0POZ00000SXDL32AP",
+          "Event_Date__c": "2025-04-14",
+          "Event_Description__c": "The funding application has been approved.",
+          "Stage__c": "Decision",
+          "Formatted_Date__c": "Apr 2025",
+          "Status_History__c": "a13OZ00000MJDJXYA5"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Apr 2025",
+    "collapsed": false,
+    "checked": true
+  }
+]

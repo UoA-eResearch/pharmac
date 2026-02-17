@@ -1,0 +1,500 @@
+[
+  {
+    "text": "<p>New funding applications are referred to one of Pharmac's Funding Application Advisors (FAAs), who'll review the application to ensure they have the relevant information to undertake a preliminary analysis.&nbsp; They may seek more information if required.</p>\r\n<p><a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/new-funding-applications/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/new-funding-applications/</a></p>",
+    "position": 0,
+    "name": "Application Received",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "May 2022",
+          "fs": "May 2022",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Application received",
+          "fs": "Application received",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ000002pSsP2AU"
+          },
+          "Id": "a0POZ000002pSsP2AU",
+          "Event_Date__c": "2022-05-20",
+          "Event_Description__c": "Application received",
+          "Stage__c": "Application Received",
+          "Formatted_Date__c": "May 2022",
+          "Status_History__c": "a132P000000DmPmQAK"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "May 2022",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Pharmac is identifying and gathering information required to get clinical advice.  The <a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/pharmacology-and-therapeutics-advisory-committee-ptac/\" rel=\"nofollow\">Pharmacology and Therapeutics Advisory Committee (PTAC)</a>  meets quarterly. There are also around 20 expert <a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/specialist-advisory-committees/\" rel=\"nofollow\">Specialist Advisory Committees (SACs)</a>, previously expert Subcommittees, which provide clinical evaluations in specialist areas. Specialist Advisory Committees meet as required to discuss issues referred to them by PTAC or Pharmac.</p>\n<p style=\"height: 20px\">&nbsp;</p>\n<p>In November 2021, we introduced separate terms of reference for the SACs to make clear that these committees have different, but complementary, roles, expertise and perspectives to PTAC.</p>\n<p style=\"height: 15px\">&nbsp;</p>\n<p>PTAC and SACs may make recommendations to Pharmac that differ from each other when looking at the same evidence. Pharmac considers the recommendations provided by all our clinical advisory committees when assessing applications.</p>\n<p style=\"height: 20px\">&nbsp;</p>\n<p><a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/pharmacology-and-therapeutics-advisory-committee-ptac/ptac-terms-of-reference-july-2021/\" rel=\"nofollow\">PTAC</a>  and <a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/specialist-advisory-committees/specialist-advisory-committee-terms-of-reference//\" rel=\"nofollow\">Specialist Advisory Committees</a> records of the meeting will be published on this website in accordance with the Terms of Reference.</p>",
+    "position": 1,
+    "name": "Seeking Clinical Advice",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "May 2022",
+          "fs": "May 2022",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Clinical advice required",
+          "fs": "Clinical advice required",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ000002pSsQ2AU"
+          },
+          "Id": "a0POZ000002pSsQ2AU",
+          "Event_Date__c": "2022-05-25",
+          "Event_Description__c": "Clinical advice required",
+          "Stage__c": "Seeking Clinical Advice",
+          "Formatted_Date__c": "May 2022",
+          "Status_History__c": "a132P000000DmQQQA0"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Dec 2022",
+          "fs": "Dec 2022",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Assigned to Pharmacology and Therapeutics Advisory Committee (PTAC) meeting to provide advice on Friday 17 February 2023",
+          "fs": "Assigned to Pharmacology and Therapeutics Advisory Committee (PTAC) meeting to provide advice on Friday 17 February 2023",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ000002pSsR2AU"
+          },
+          "Id": "a0POZ000002pSsR2AU",
+          "Event_Date__c": "2022-12-16",
+          "Event_Description__c": "Assigned to Pharmacology and Therapeutics Advisory Committee (PTAC) meeting to provide advice on Friday 17 February 2023",
+          "Stage__c": "Seeking Clinical Advice",
+          "Formatted_Date__c": "Dec 2022",
+          "Status_History__c": "a132P000000EDCxQAO"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": "<p>1.1.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0The Committee <strong>recommended </strong>that darolutamide be listed with a <strong>high priority</strong>. </p><p><br></p><p class=\"ql-indent-1\"><strong style=\"font-size: 11px;\">Initial application \u2013 (non-metastatic castration resistant prostate cancer) </strong><span style=\"font-size: 11px;\">any relevant practitioner. Approvals valid for 6 months for applications meeting the following criteria:</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 11px;\">All of the following:\u00a0</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 11px;\">1.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Patient has prostate cancer; and\u00a0</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 11px;\">2.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Patient does not have distant metastasis </span></p><p class=\"ql-indent-1\"><span style=\"font-size: 11px;\">3.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Patient\u2019s disease is castration resistant; and\u00a0</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 11px;\">4.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Patient has a PSA doubling time of 10 months or less during continuous ADT; and\u00a0</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 11px;\">6.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Patient has not had prior subsidised treatment with darolutamide.\u00a0</span></p><p class=\"ql-indent-1\"><strong style=\"font-size: 11px;\">\u00a0</strong></p><p class=\"ql-indent-1\"><strong style=\"font-size: 11px;\">Renewal \u2013 (high-risk non-metastatic castration resistant prostate cancer)</strong><span style=\"font-size: 11px;\"> only from any relevant practitioner. Approvals valid for 6 months for applications meeting the following criteria:\u00a0</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 11px;\">All of the following:\u00a0</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 11px;\">1.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Clinically stable disease; and/or</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 11px;\">2.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0No distant metastasis\u00a0</span></p><p class=\"ql-indent-1\"><br></p><p>1.2.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>In making this recommendation the Committee considered:</p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The high-quality randomised control trial evidence for a health benefit, with moderate strength evidence on overall survival, with data up to three years in comparison to placebo; </p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>That darolutamide provides comparable clinical efficacy to apalutamide, which received a high priority recommendation from <a href=\"https://connect.pharmac.govt.nz/apptracker/s/application-public/a102P000008pttm/p000201\" target=\"_blank\">CTAC</a> in April 2022; </p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>That M\u0101ori and Pacific peoples experience inequitable outcomes from prostate cancer generally, however access to darolutamide specifically is considered unlikely to reduce these more systemic inequities.\u00a0</p><p><br></p>",
+          "fs": "<p>1.1.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0The Committee <strong>recommended </strong>that darolutamide be listed with a <strong>high priority</strong>. </p><p><br></p><p class=\"ql-indent-1\"><strong style=\"font-size: 11px;\">Initial application \u2013 (non-metastatic castration resistant prostate cancer) </strong><span style=\"font-size: 11px;\">any relevant practitioner. Approvals valid for 6 months for applications meeting the following criteria:</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 11px;\">All of the following:\u00a0</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 11px;\">1.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Patient has prostate cancer; and\u00a0</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 11px;\">2.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Patient does not have distant metastasis </span></p><p class=\"ql-indent-1\"><span style=\"font-size: 11px;\">3.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Patient\u2019s disease is castration resistant; and\u00a0</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 11px;\">4.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Patient has a PSA doubling time of 10 months or less during continuous ADT; and\u00a0</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 11px;\">6.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Patient has not had prior subsidised treatment with darolutamide.\u00a0</span></p><p class=\"ql-indent-1\"><strong style=\"font-size: 11px;\">\u00a0</strong></p><p class=\"ql-indent-1\"><strong style=\"font-size: 11px;\">Renewal \u2013 (high-risk non-metastatic castration resistant prostate cancer)</strong><span style=\"font-size: 11px;\"> only from any relevant practitioner. Approvals valid for 6 months for applications meeting the following criteria:\u00a0</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 11px;\">All of the following:\u00a0</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 11px;\">1.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Clinically stable disease; and/or</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 11px;\">2.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0No distant metastasis\u00a0</span></p><p class=\"ql-indent-1\"><br></p><p>1.2.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>In making this recommendation the Committee considered:</p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The high-quality randomised control trial evidence for a health benefit, with moderate strength evidence on overall survival, with data up to three years in comparison to placebo; </p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>That darolutamide provides comparable clinical efficacy to apalutamide, which received a high priority recommendation from <a href=\"https://connect.pharmac.govt.nz/apptracker/s/application-public/a102P000008pttm/p000201\" target=\"_blank\">CTAC</a> in April 2022; </p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>That M\u0101ori and Pacific peoples experience inequitable outcomes from prostate cancer generally, however access to darolutamide specifically is considered unlikely to reduce these more systemic inequities.\u00a0</p><p><br></p>",
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": "<h2><strong style=\"font-size: 14px;\"><em>M\u0101ori impact</em></strong></h2><p>1.1.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that M\u0101ori and Pacific peoples experience inequitable outcomes from prostate cancer, as they are more likely to present with advanced disease, and consequently have a higher mortality rate than non-M\u0101ori and non-Pacific peoples. The Committee considered that the higher likelihood of diagnosis in later disease stages may be due to lower rates of opportunistic prostate specific antigen (PSA) screening in these populations. The Committee noted that for this reason, M\u0101ori are less likely to be treated while their disease is still non-metastatic, and therefore less likely to have nmCRPC.</p><p>1.2.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered a study undertaken in the Northern region of New Zealand that reported M\u0101ori men were less likely to have had opportunistic PSA screening tests undertaken compared to non-M\u0101ori men (25.4% vs 46.1% of the total aged-matched region population; P &lt; 0.001). The authors concluded that the difference in the rates of opportunistic screening tests by ethnicity had influenced the incidence and clinical significance of the cancers diagnosed (<a href=\"https://pubmed.ncbi.nlm.nih.gov/33032306/\" target=\"_blank\">Matti et al. BJU Int. 2020;128(S3):11-17</a>). Cancers detected in M\u0101ori men were 73% more likely to be of high grade (Gleason 8 or above), compared to those in non-M\u0101ori men (<a href=\"https://bjui-journals.onlinelibrary.wiley.com/doi/10.1111/bju.15155\" target=\"_blank\">Matti et al, 2020</a>). Therefore, the Committee considered, while M\u0101ori may be less likely to be part of the nmCRPC subgroup overall, they may be more likely to have high risk disease if they are in the nmCRPC group.</p><p>1.3.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>As the current treatments for nmCRPC are less efficacious than for those with non-metastatic prostate cancer that is not castrate resistant, the funding of darolutamide may provide this population with improved quality of life and an increase in the time to disease progression.</p><h2><strong style=\"font-size: 14px;\"><em>Background</em></strong></h2><p>1.4.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that it had previously reviewed an application for apalutamide, in <a href=\"https://connect.pharmac.govt.nz/apptracker/s/application-public/a102P000008pttm/p000201\" target=\"_blank\">February 2020</a> and <a href=\"https://connect.pharmac.govt.nz/apptracker/s/application-public/a102P000008pttm/p000201\" target=\"_blank\">September 2020</a>, where PTAC deferred making a recommendation pending additional information and advice from the Cancer Treatments Subcommittee of PTAC (CaTSoP; now the Cancer Treatments Advisory Committee - CTAC), as well as in <a href=\"https://connect.pharmac.govt.nz/apptracker/s/application-public/a102P000008pttm/p000201\" target=\"_blank\">February 2021</a> where PTAC gave no formal recommendation. In <a href=\"https://connect.pharmac.govt.nz/apptracker/s/application-public/a102P000008pttm/p000201\" target=\"_blank\">April 2022 CTAC</a> recommended apalutamide with a high priority as it considered there was high quality randomised controlled trial evidence for a health benefit from apalutamide in terms of overall survival and metastasis free survival (MFS). CTAC also considered quality of life was improved with apalutamide maintenance treatment likely due to increased MFS. The PTAC noted apalutamide has a similar mechanism of action to darolutamide, for the same indication.\u00a0</p><p>1.5.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that the population eligible for treatment with darolutamide would be the same as that considered for apalutamide, which represents a subset of those with prostate cancer.</p><h2><strong style=\"font-size: 14px;\"><em>Health need</em></strong></h2><p>1.6.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that the intent of treatment is to defer progression to more symptomatic disease and metastatic disease, in order to maintain quality of life for people with nmCRPC. The Committee considered people with nmCRPC are asymptomatic, with a good quality of life for their age, despite expected side effects from androgen-deprivation therapy (ADT) or complications from surgical or radiation treatment (eg urinary incontinence, bowel symptoms or erectile dysfunction). However, they would be likely to develop metastases, particularly if considered high risk by PSA doubling time.\u00a0</p><p>1.7.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that most individuals with nmCRPC were prescribed continued ADT with a gonadotrophin-releasing hormone (GnRH) agonist and monitored through \u201cwatch and wait\u201d for disease progression, despite the fact that by definition, those with CR PC were no longer sensitive to ADT. The current funded agents for ADT are goserelin, bicalutamide and flutamide.</p><p>1.8.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that they had previously noted that acquired F876L androgen receptor mutation in advanced prostate cancer cells confers resistance to enzalutamide, and may also confer resistance to apalutamide, but that it appears darolutamide may not be similarly affected by the F876L mutation or other known androgen receptor (AR) mutations (PTAC, <a href=\"https://connect.pharmac.govt.nz/apptracker/s/application-public/a102P000008pttm/p000201\" target=\"_blank\">February 2020</a>). The Committee considered whether there was any effect of the F876L androgen receptor mutation on the efficacy of treatment in those with nmCRPC. The Committee noted that less than 2% of the population with nmCRPC prior to radiation therapy had the mutation. The Committee considered that there was no clinical trial data on the effect of the mutation before or after treatment, and that this did not impact the benefit for most.</p><h2><strong style=\"font-size: 14px;\"><em>Health benefit</em></strong></h2><p>1.9.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that darolutamide is an androgen receptor (AR) inhibitor with a flexible polar-substituted pyrazole structure that binds with high affinity directly to the receptor ligand binding domain. Darolutamide competitively inhibits androgen binding, AR nuclear translocation, and AR mediated transcription. Darolutamide treatment decreases prostate tumour cell proliferation leading to potent antitumour activity.</p><p>1.10.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that darolutamide does not cross the blood brain barrier, and has minimal binding to GABA receptors, resulting in less central nervous system side effects, in comparison to apalutamide. The Committee noted that darolutamide and other therapeutics of the same class are usually administered in combination with ADT, which itself can reduce quality of life due to side effects (eg urinary incontinence, bowel symptoms or erectile dysfunction).</p><p>1.11.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee considered the <a href=\"https://www.nejm.org/doi/full/10.1056/nejmoa1815671\" target=\"_blank\">Fizazi et al. NEJM. 2019;380:1235-46</a> study, a pivotal phase 3 randomised (2:1) clinical trial (ARAMIS). The trial investigated metastasis-free survival (MFS) as the primary endpoint, in 1509 adults with nmCRPC treated with either darolutamide (+ADT) or placebo (+ADT). The Committee noted that this trial reported a MFS of 40.4 months vs 18.4 months in the darolutamide-treated arm compared to placebo-treated (hazard ratio [HR] for metastasis or death in the darolutamide group, 0.41; 95% confidence interval (CI), 0.34 to 0.50; P&lt;0.001<span style=\"font-size: 10pt;\">)</span>.</p><p>1.12.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee also considered <a href=\"https://www.nejm.org/doi/full/10.1056/nejmoa2001342\" target=\"_blank\">Fizazi et al. NEJM. 2020;383:1040-9</a>, the open-label extension follow up of ARAMIS after unblinding following primary MFS analysis, which reported an overall survival (OS) at 3 years of 83% for darolutamide (+ADT) (95% CI, 80% to 86%) vs 77% for the placebo (+ADT) arm (95% CI, 72% to 81%).</p><p>1.13.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted an indirect comparison of side effects in trials with people with nmCRPC when administered apalutamide (SPARTAN trial, as <a href=\"https://www.nejm.org/doi/full/10.1056/NEJMoa1715546\" target=\"_blank\">Smith et al, N Engl J Med 2018; 378:1408-18</a>), enzalutamide (PROSPER, as <a href=\"https://www.nejm.org/doi/full/10.1056/NEJMoa2003892\" target=\"_blank\">Sternberg et al, N Engl J Med 2020; 382:2197-206</a>), or darolutamide (ARAMIS), published in 2021. The Committee considered the baseline characteristics of the participants in the ARAMIS trial to be similar to the SPARTAN trial. The Committee noted this study reported that, compared with apalutamide and enzalutamide, darolutamide was associated with statistically signi\ufb01cantly lower absolute risks for falls, fractures, and rash. In comparison to enzalutamide, darolutamide was also associated with a statistically signi\ufb01cantly lower absolute risk of mental impairment disorder, fatigue not including asthenia and severe fatigue not including asthenia (<a href=\"https://pubmed.ncbi.nlm.nih.gov/33818140/\" target=\"_blank\">Halabi et al. J Urol. 2021; 206:298-307</a>).</p><p>1.14.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>There was no significant difference in discontinuation rates due to adverse events between darolutamide and placebo in the ARAMIS trial (8.9% darolutamide vs 8.7% placebo) <span style=\"color: blue;\">(</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/32905676/\" target=\"_blank\">Fizazi et al, 2020</a>). The Committee also noted that proportionately more participants in the treatment arm of the SPARTAN trial discontinued in comparison to the treatment arm of the ARAMIS trial (14.9 vs 7.3% apalutamide treatment vs placebo in SPARTAN, and the above 8.9% vs 8.7% darolutamide treatment vs placebo in ARAMIS). The Committee considered that the evidence available indicates that darolutamide may be better tolerated in comparison to apalutamide. The Committee considered that treatment should aim to improve health-related quality of life, as well as delay progression to metastatic disease, and that avoiding adverse events that may lead to less discontinuation.</p><p>1.15.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that the placebo group had an increased survival time in the SPARTAN trial in comparison to the placebo group in the ARAMIS trial (18.4 vs 16.1 months, respectively). The Committee noted that comparison of the trials\u2019 outcomes after metastasis, like OS, may be limited due to the difference in subsequent treatments available in the SPARTAN and ARAMIS trials. The Committee noted that crossover in the trials had been noted previously as a possible driver of differences between trial outcomes, although the Committee considered subsequent treatment to be the more significant source of bias in comparisons of longer-term outcomes between SPARTAN and ARAMIS.</p><p>1.16.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>Members noted the first subsequent anti-cancer treatments in the ARAMIS trial were abiraterone 13%, docetaxel 49%, enzalutamide 18% and other 13% in the treatment group, whilst in the placebo group they were abiraterone 23%, docetaxel 66%, enzalutamide 19% and other 16% <span style=\"color: blue;\">(</span><a href=\"https://www.nejm.org/doi/full/10.1056/nejmoa1815671\" target=\"_blank\">Fizazi et al. 2019</a>). In the SPARTAN trial the first subsequent anti-cancer treatment was abiraterone 76%, docetaxel 9%, enzalutamide 12%, and other 3% in the treatment group, whilst in the placebo group it was abiraterone 74%, docetaxel 8%, enzalutamide 13% and other 5%(<a href=\"https://www.nejm.org/doi/full/10.1056/NEJMoa1715546\" target=\"_blank\">Smith et al. 2018</a>).</p><p>1.17.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee also considered the crossover data in ARAMIS from those who crossed over from placebo to darolutamide following unblinding. Approximately 31% of those who received placebo received darolutamide. The Committee considered three models of analysis that adjusted for crossover for OS, that reported similar results of a HR of 0.66-0.69. The Committee noted that the results suggest crossover did not substantially overstate OS in the comparator arm of ARAMIS (<a href=\"https://ascopubs.org/doi/abs/10.1200/JCO.2021.39.6_suppl.240\" target=\"_blank\">Shore et al. JCO, 2021;39(6) Suppl.:240-240</a>).</p><p>1.18.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee noted an anchored matching-adjusted indirect comparison (MAIC) using patient-level data.</p><p>1.19.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee further noted other published indirect comparisons of darolutamide, enzalutamide and apalutamide including:</p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/34797506/\" target=\"_blank\">Chowdhury et al. Adv Ther. 2022; 39:518-53</a></p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/32605736/\" target=\"_blank\">Kumar et al. Urol Oncol, 2020;38:826-34</a></p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/32924096/\" target=\"_blank\">Mori et al, Int J Clin Oncol. 2020;25:1892-1900</a></p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/34722276/\" target=\"_blank\">Mulati et al. Front Oncol, 2021;11:733202</a></p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/33543650/\" target=\"_blank\">Roumiguie et al. Future Oncol. 2021;17:1811-23</a>.</p><p>1.20.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that <a href=\"https://pubmed.ncbi.nlm.nih.gov/34797506/\" target=\"_blank\">Chowdhury et al. 2022</a> reported significant differences in MFS times (apalutamide + ADT vs darolutamide + ADT [98.3%; HR 0.70 (95% CrI 0.51, 0.98)], however no difference in OS between darolutamide and apalutamide was observed. The Committee considered interpretation of these results was limited by it being a supplier-sponsored MAIC study that only indirectly compared treatments, using patient-level data that matched a non-randomised post-hoc defined subset of patients in the SPARTAN trial against patients in the ARAMIS study.</p><p>1.21.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee also noted evidence regarding sequencing of abiraterone followed by enzalutamide. The Committee noted advice from CTAC (<a href=\"https://pharmac.govt.nz/assets/2022-04-08-Cancer-Treatments-AC-Record.pdf\" target=\"_blank\">April 2022</a>) that abiraterone should not be used in those people with nmCRPC previously treated with apalutamide. PTAC also noted the use of abiraterone following a second-generation anti-androgen is funded in other countries. The Committee further noted sequencing of abiraterone followed by enzalutamide was reported to have a longer time to PSA progression compared to the reverse sequence, however no difference in OS was noted (<a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8467385/\" target=\"_blank\">Cattrini et al, Cancers (Basel). 2021;13:4522</a>, <a href=\"https://www.ncbi.nlm.nih.gov/books/NBK571920/\" target=\"_blank\">Tran et al, CADTH Health Technology Review; 2021</a>). The Committee considered that in metastatic disease clinical practice in New Zealand is starting to favour docetaxel over abiraterone. The Committee noted that the treatment regime in the ARAMIS trial, and associated apparent increases in OS, is applicable to New Zealand with regards to the subsequent use of docetaxel occurring in 49% of those treated with darolutamide after progression (<a href=\"https://www.nejm.org/doi/full/10.1056/nejmoa1815671\" target=\"_blank\">Fizazi et al. 2019</a>). The Committee noted that approximately 13% of those in the darolutamide treated group in ARAMIS received abiraterone as the first subsequent anticancer therapy (<a href=\"https://www.nejm.org/doi/full/10.1056/nejmoa1815671\" target=\"_blank\">Fizazi et al. 2019</a>).</p><p>1.22.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that, given the similar health benefit of darolutamide compared with other agents in this class, a competitive process that could result in the funding of a single agent from this class would be reasonable.</p><h2><strong style=\"font-size: 14px;\"><em>Suitability</em></strong></h2><p>1.23.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that the oral formulation of darolutamide offered a similar benefit to those with nmCRPC as apalutamide. This would be administered in combination with ADT, which is a subcutaneous injection every 12 weeks.</p><h2><strong style=\"font-size: 14px;\"><em>Cost and savings</em></strong></h2><p>1.24.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that the number of people in this group was previously estimated by CTAC to be approximately 10 patients per year in Auckland, but that patient numbers are uncertain, and Pharmac estimates since have been higher to account for a prevalent surge of patients. The Committee noted the current Pharmac estimate of 90-120 for New Zealand over the first five years and considered that this may be reasonable in current practice, to reflect a prevalent group of people who have been diagnosed with nmCRPC experiencing reasonably good survival, and some people with metastatic disease being diagnosed as non-metastatic using current methods.</p><p>1.25.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that people with nmCRPC are identified as not having distant metastasis by means of conventional radiological imaging, however, clinical practice is moving rapidly to prostate-specific membrane antigen positron emission tomography (PSMA PET) scanning as the preferred imaging technique to exclude the presence of distant metastases in prostate cancer diagnosis and work-up. The Committee noted that whilst this is not applicable necessarily to all hospitals or locations within New Zealand currently, a study of 200 people with suspected nmCRPC reported approximately 55% had evidence of distant metastatic disease when scanned using PSMA PET <a href=\"https://pubmed.ncbi.nlm.nih.gov/31511295/\" target=\"_blank\">(Fendler et al, Clin Cancer Res. 2019;25:7448-54</a>). The Committee considered it likely that the population with nmCRPC may be reduced in the future, since more people who would currently be considered to have non-metastatic disease would be found to have metastatic prostate cancer at diagnosis.</p><p>1.26.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted the lower rate of discontinuation in clinical studies of those treated with darolutamide vs placebo in comparison to apalutamide vs placebo ((<a href=\"https://pubmed.ncbi.nlm.nih.gov/32905676/\" target=\"_blank\">Fizazi et al, 2020</a>; <a href=\"https://www.nejm.org/doi/full/10.1056/NEJMoa1715546\" target=\"_blank\">Smith et al. 2018</a>). The Committee considered that this was probably due to fewer side-effects with darolutamide.</p><h2><strong style=\"font-size: 14px;\"><em>Summary for assessment</em></strong></h2><p>1.27.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that the below table summarises its interpretation of the most appropriate PICO (population, intervention, comparator, outcomes) information for darolutamide if it were to be funded in New Zealand for nmCRPC. This PICO captures key clinical aspects of the proposal and may be used to frame any future economic assessment by Pharmac staff. This PICO is based on the Committee\u2019s assessment at this time and may differ from that requested by the applicant. The PICO may change based on new information, additional clinical advice, or further analysis by Pharmac staff. <span style=\"color: black;\">\u00a0</span></p><p><span style=\"color: black;\">\ufeff</span><img src=\"/apptracker/servlet/rtaImage?eid=a0POZ000002pSsS&amp;feoid=00N2P000000YsIc&amp;refid=0EM2P000002mklw\" alt=\"image.png\"></img></p>",
+          "fs": "<h2><strong style=\"font-size: 14px;\"><em>M\u0101ori impact</em></strong></h2><p>1.1.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that M\u0101ori and Pacific peoples experience inequitable outcomes from prostate cancer, as they are more likely to present with advanced disease, and consequently have a higher mortality rate than non-M\u0101ori and non-Pacific peoples. The Committee considered that the higher likelihood of diagnosis in later disease stages may be due to lower rates of opportunistic prostate specific antigen (PSA) screening in these populations. The Committee noted that for this reason, M\u0101ori are less likely to be treated while their disease is still non-metastatic, and therefore less likely to have nmCRPC.</p><p>1.2.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered a study undertaken in the Northern region of New Zealand that reported M\u0101ori men were less likely to have had opportunistic PSA screening tests undertaken compared to non-M\u0101ori men (25.4% vs 46.1% of the total aged-matched region population; P &lt; 0.001). The authors concluded that the difference in the rates of opportunistic screening tests by ethnicity had influenced the incidence and clinical significance of the cancers diagnosed (<a href=\"https://pubmed.ncbi.nlm.nih.gov/33032306/\" target=\"_blank\">Matti et al. BJU Int. 2020;128(S3):11-17</a>). Cancers detected in M\u0101ori men were 73% more likely to be of high grade (Gleason 8 or above), compared to those in non-M\u0101ori men (<a href=\"https://bjui-journals.onlinelibrary.wiley.com/doi/10.1111/bju.15155\" target=\"_blank\">Matti et al, 2020</a>). Therefore, the Committee considered, while M\u0101ori may be less likely to be part of the nmCRPC subgroup overall, they may be more likely to have high risk disease if they are in the nmCRPC group.</p><p>1.3.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>As the current treatments for nmCRPC are less efficacious than for those with non-metastatic prostate cancer that is not castrate resistant, the funding of darolutamide may provide this population with improved quality of life and an increase in the time to disease progression.</p><h2><strong style=\"font-size: 14px;\"><em>Background</em></strong></h2><p>1.4.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that it had previously reviewed an application for apalutamide, in <a href=\"https://connect.pharmac.govt.nz/apptracker/s/application-public/a102P000008pttm/p000201\" target=\"_blank\">February 2020</a> and <a href=\"https://connect.pharmac.govt.nz/apptracker/s/application-public/a102P000008pttm/p000201\" target=\"_blank\">September 2020</a>, where PTAC deferred making a recommendation pending additional information and advice from the Cancer Treatments Subcommittee of PTAC (CaTSoP; now the Cancer Treatments Advisory Committee - CTAC), as well as in <a href=\"https://connect.pharmac.govt.nz/apptracker/s/application-public/a102P000008pttm/p000201\" target=\"_blank\">February 2021</a> where PTAC gave no formal recommendation. In <a href=\"https://connect.pharmac.govt.nz/apptracker/s/application-public/a102P000008pttm/p000201\" target=\"_blank\">April 2022 CTAC</a> recommended apalutamide with a high priority as it considered there was high quality randomised controlled trial evidence for a health benefit from apalutamide in terms of overall survival and metastasis free survival (MFS). CTAC also considered quality of life was improved with apalutamide maintenance treatment likely due to increased MFS. The PTAC noted apalutamide has a similar mechanism of action to darolutamide, for the same indication.\u00a0</p><p>1.5.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that the population eligible for treatment with darolutamide would be the same as that considered for apalutamide, which represents a subset of those with prostate cancer.</p><h2><strong style=\"font-size: 14px;\"><em>Health need</em></strong></h2><p>1.6.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that the intent of treatment is to defer progression to more symptomatic disease and metastatic disease, in order to maintain quality of life for people with nmCRPC. The Committee considered people with nmCRPC are asymptomatic, with a good quality of life for their age, despite expected side effects from androgen-deprivation therapy (ADT) or complications from surgical or radiation treatment (eg urinary incontinence, bowel symptoms or erectile dysfunction). However, they would be likely to develop metastases, particularly if considered high risk by PSA doubling time.\u00a0</p><p>1.7.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that most individuals with nmCRPC were prescribed continued ADT with a gonadotrophin-releasing hormone (GnRH) agonist and monitored through \u201cwatch and wait\u201d for disease progression, despite the fact that by definition, those with CR PC were no longer sensitive to ADT. The current funded agents for ADT are goserelin, bicalutamide and flutamide.</p><p>1.8.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that they had previously noted that acquired F876L androgen receptor mutation in advanced prostate cancer cells confers resistance to enzalutamide, and may also confer resistance to apalutamide, but that it appears darolutamide may not be similarly affected by the F876L mutation or other known androgen receptor (AR) mutations (PTAC, <a href=\"https://connect.pharmac.govt.nz/apptracker/s/application-public/a102P000008pttm/p000201\" target=\"_blank\">February 2020</a>). The Committee considered whether there was any effect of the F876L androgen receptor mutation on the efficacy of treatment in those with nmCRPC. The Committee noted that less than 2% of the population with nmCRPC prior to radiation therapy had the mutation. The Committee considered that there was no clinical trial data on the effect of the mutation before or after treatment, and that this did not impact the benefit for most.</p><h2><strong style=\"font-size: 14px;\"><em>Health benefit</em></strong></h2><p>1.9.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that darolutamide is an androgen receptor (AR) inhibitor with a flexible polar-substituted pyrazole structure that binds with high affinity directly to the receptor ligand binding domain. Darolutamide competitively inhibits androgen binding, AR nuclear translocation, and AR mediated transcription. Darolutamide treatment decreases prostate tumour cell proliferation leading to potent antitumour activity.</p><p>1.10.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that darolutamide does not cross the blood brain barrier, and has minimal binding to GABA receptors, resulting in less central nervous system side effects, in comparison to apalutamide. The Committee noted that darolutamide and other therapeutics of the same class are usually administered in combination with ADT, which itself can reduce quality of life due to side effects (eg urinary incontinence, bowel symptoms or erectile dysfunction).</p><p>1.11.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee considered the <a href=\"https://www.nejm.org/doi/full/10.1056/nejmoa1815671\" target=\"_blank\">Fizazi et al. NEJM. 2019;380:1235-46</a> study, a pivotal phase 3 randomised (2:1) clinical trial (ARAMIS). The trial investigated metastasis-free survival (MFS) as the primary endpoint, in 1509 adults with nmCRPC treated with either darolutamide (+ADT) or placebo (+ADT). The Committee noted that this trial reported a MFS of 40.4 months vs 18.4 months in the darolutamide-treated arm compared to placebo-treated (hazard ratio [HR] for metastasis or death in the darolutamide group, 0.41; 95% confidence interval (CI), 0.34 to 0.50; P&lt;0.001<span style=\"font-size: 10pt;\">)</span>.</p><p>1.12.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee also considered <a href=\"https://www.nejm.org/doi/full/10.1056/nejmoa2001342\" target=\"_blank\">Fizazi et al. NEJM. 2020;383:1040-9</a>, the open-label extension follow up of ARAMIS after unblinding following primary MFS analysis, which reported an overall survival (OS) at 3 years of 83% for darolutamide (+ADT) (95% CI, 80% to 86%) vs 77% for the placebo (+ADT) arm (95% CI, 72% to 81%).</p><p>1.13.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted an indirect comparison of side effects in trials with people with nmCRPC when administered apalutamide (SPARTAN trial, as <a href=\"https://www.nejm.org/doi/full/10.1056/NEJMoa1715546\" target=\"_blank\">Smith et al, N Engl J Med 2018; 378:1408-18</a>), enzalutamide (PROSPER, as <a href=\"https://www.nejm.org/doi/full/10.1056/NEJMoa2003892\" target=\"_blank\">Sternberg et al, N Engl J Med 2020; 382:2197-206</a>), or darolutamide (ARAMIS), published in 2021. The Committee considered the baseline characteristics of the participants in the ARAMIS trial to be similar to the SPARTAN trial. The Committee noted this study reported that, compared with apalutamide and enzalutamide, darolutamide was associated with statistically signi\ufb01cantly lower absolute risks for falls, fractures, and rash. In comparison to enzalutamide, darolutamide was also associated with a statistically signi\ufb01cantly lower absolute risk of mental impairment disorder, fatigue not including asthenia and severe fatigue not including asthenia (<a href=\"https://pubmed.ncbi.nlm.nih.gov/33818140/\" target=\"_blank\">Halabi et al. J Urol. 2021; 206:298-307</a>).</p><p>1.14.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>There was no significant difference in discontinuation rates due to adverse events between darolutamide and placebo in the ARAMIS trial (8.9% darolutamide vs 8.7% placebo) <span style=\"color: blue;\">(</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/32905676/\" target=\"_blank\">Fizazi et al, 2020</a>). The Committee also noted that proportionately more participants in the treatment arm of the SPARTAN trial discontinued in comparison to the treatment arm of the ARAMIS trial (14.9 vs 7.3% apalutamide treatment vs placebo in SPARTAN, and the above 8.9% vs 8.7% darolutamide treatment vs placebo in ARAMIS). The Committee considered that the evidence available indicates that darolutamide may be better tolerated in comparison to apalutamide. The Committee considered that treatment should aim to improve health-related quality of life, as well as delay progression to metastatic disease, and that avoiding adverse events that may lead to less discontinuation.</p><p>1.15.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that the placebo group had an increased survival time in the SPARTAN trial in comparison to the placebo group in the ARAMIS trial (18.4 vs 16.1 months, respectively). The Committee noted that comparison of the trials\u2019 outcomes after metastasis, like OS, may be limited due to the difference in subsequent treatments available in the SPARTAN and ARAMIS trials. The Committee noted that crossover in the trials had been noted previously as a possible driver of differences between trial outcomes, although the Committee considered subsequent treatment to be the more significant source of bias in comparisons of longer-term outcomes between SPARTAN and ARAMIS.</p><p>1.16.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>Members noted the first subsequent anti-cancer treatments in the ARAMIS trial were abiraterone 13%, docetaxel 49%, enzalutamide 18% and other 13% in the treatment group, whilst in the placebo group they were abiraterone 23%, docetaxel 66%, enzalutamide 19% and other 16% <span style=\"color: blue;\">(</span><a href=\"https://www.nejm.org/doi/full/10.1056/nejmoa1815671\" target=\"_blank\">Fizazi et al. 2019</a>). In the SPARTAN trial the first subsequent anti-cancer treatment was abiraterone 76%, docetaxel 9%, enzalutamide 12%, and other 3% in the treatment group, whilst in the placebo group it was abiraterone 74%, docetaxel 8%, enzalutamide 13% and other 5%(<a href=\"https://www.nejm.org/doi/full/10.1056/NEJMoa1715546\" target=\"_blank\">Smith et al. 2018</a>).</p><p>1.17.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee also considered the crossover data in ARAMIS from those who crossed over from placebo to darolutamide following unblinding. Approximately 31% of those who received placebo received darolutamide. The Committee considered three models of analysis that adjusted for crossover for OS, that reported similar results of a HR of 0.66-0.69. The Committee noted that the results suggest crossover did not substantially overstate OS in the comparator arm of ARAMIS (<a href=\"https://ascopubs.org/doi/abs/10.1200/JCO.2021.39.6_suppl.240\" target=\"_blank\">Shore et al. JCO, 2021;39(6) Suppl.:240-240</a>).</p><p>1.18.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee noted an anchored matching-adjusted indirect comparison (MAIC) using patient-level data.</p><p>1.19.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee further noted other published indirect comparisons of darolutamide, enzalutamide and apalutamide including:</p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/34797506/\" target=\"_blank\">Chowdhury et al. Adv Ther. 2022; 39:518-53</a></p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/32605736/\" target=\"_blank\">Kumar et al. Urol Oncol, 2020;38:826-34</a></p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/32924096/\" target=\"_blank\">Mori et al, Int J Clin Oncol. 2020;25:1892-1900</a></p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/34722276/\" target=\"_blank\">Mulati et al. Front Oncol, 2021;11:733202</a></p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/33543650/\" target=\"_blank\">Roumiguie et al. Future Oncol. 2021;17:1811-23</a>.</p><p>1.20.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that <a href=\"https://pubmed.ncbi.nlm.nih.gov/34797506/\" target=\"_blank\">Chowdhury et al. 2022</a> reported significant differences in MFS times (apalutamide + ADT vs darolutamide + ADT [98.3%; HR 0.70 (95% CrI 0.51, 0.98)], however no difference in OS between darolutamide and apalutamide was observed. The Committee considered interpretation of these results was limited by it being a supplier-sponsored MAIC study that only indirectly compared treatments, using patient-level data that matched a non-randomised post-hoc defined subset of patients in the SPARTAN trial against patients in the ARAMIS study.</p><p>1.21.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee also noted evidence regarding sequencing of abiraterone followed by enzalutamide. The Committee noted advice from CTAC (<a href=\"https://pharmac.govt.nz/assets/2022-04-08-Cancer-Treatments-AC-Record.pdf\" target=\"_blank\">April 2022</a>) that abiraterone should not be used in those people with nmCRPC previously treated with apalutamide. PTAC also noted the use of abiraterone following a second-generation anti-androgen is funded in other countries. The Committee further noted sequencing of abiraterone followed by enzalutamide was reported to have a longer time to PSA progression compared to the reverse sequence, however no difference in OS was noted (<a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8467385/\" target=\"_blank\">Cattrini et al, Cancers (Basel). 2021;13:4522</a>, <a href=\"https://www.ncbi.nlm.nih.gov/books/NBK571920/\" target=\"_blank\">Tran et al, CADTH Health Technology Review; 2021</a>). The Committee considered that in metastatic disease clinical practice in New Zealand is starting to favour docetaxel over abiraterone. The Committee noted that the treatment regime in the ARAMIS trial, and associated apparent increases in OS, is applicable to New Zealand with regards to the subsequent use of docetaxel occurring in 49% of those treated with darolutamide after progression (<a href=\"https://www.nejm.org/doi/full/10.1056/nejmoa1815671\" target=\"_blank\">Fizazi et al. 2019</a>). The Committee noted that approximately 13% of those in the darolutamide treated group in ARAMIS received abiraterone as the first subsequent anticancer therapy (<a href=\"https://www.nejm.org/doi/full/10.1056/nejmoa1815671\" target=\"_blank\">Fizazi et al. 2019</a>).</p><p>1.22.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that, given the similar health benefit of darolutamide compared with other agents in this class, a competitive process that could result in the funding of a single agent from this class would be reasonable.</p><h2><strong style=\"font-size: 14px;\"><em>Suitability</em></strong></h2><p>1.23.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that the oral formulation of darolutamide offered a similar benefit to those with nmCRPC as apalutamide. This would be administered in combination with ADT, which is a subcutaneous injection every 12 weeks.</p><h2><strong style=\"font-size: 14px;\"><em>Cost and savings</em></strong></h2><p>1.24.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that the number of people in this group was previously estimated by CTAC to be approximately 10 patients per year in Auckland, but that patient numbers are uncertain, and Pharmac estimates since have been higher to account for a prevalent surge of patients. The Committee noted the current Pharmac estimate of 90-120 for New Zealand over the first five years and considered that this may be reasonable in current practice, to reflect a prevalent group of people who have been diagnosed with nmCRPC experiencing reasonably good survival, and some people with metastatic disease being diagnosed as non-metastatic using current methods.</p><p>1.25.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that people with nmCRPC are identified as not having distant metastasis by means of conventional radiological imaging, however, clinical practice is moving rapidly to prostate-specific membrane antigen positron emission tomography (PSMA PET) scanning as the preferred imaging technique to exclude the presence of distant metastases in prostate cancer diagnosis and work-up. The Committee noted that whilst this is not applicable necessarily to all hospitals or locations within New Zealand currently, a study of 200 people with suspected nmCRPC reported approximately 55% had evidence of distant metastatic disease when scanned using PSMA PET <a href=\"https://pubmed.ncbi.nlm.nih.gov/31511295/\" target=\"_blank\">(Fendler et al, Clin Cancer Res. 2019;25:7448-54</a>). The Committee considered it likely that the population with nmCRPC may be reduced in the future, since more people who would currently be considered to have non-metastatic disease would be found to have metastatic prostate cancer at diagnosis.</p><p>1.26.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted the lower rate of discontinuation in clinical studies of those treated with darolutamide vs placebo in comparison to apalutamide vs placebo ((<a href=\"https://pubmed.ncbi.nlm.nih.gov/32905676/\" target=\"_blank\">Fizazi et al, 2020</a>; <a href=\"https://www.nejm.org/doi/full/10.1056/NEJMoa1715546\" target=\"_blank\">Smith et al. 2018</a>). The Committee considered that this was probably due to fewer side-effects with darolutamide.</p><h2><strong style=\"font-size: 14px;\"><em>Summary for assessment</em></strong></h2><p>1.27.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that the below table summarises its interpretation of the most appropriate PICO (population, intervention, comparator, outcomes) information for darolutamide if it were to be funded in New Zealand for nmCRPC. This PICO captures key clinical aspects of the proposal and may be used to frame any future economic assessment by Pharmac staff. This PICO is based on the Committee\u2019s assessment at this time and may differ from that requested by the applicant. The PICO may change based on new information, additional clinical advice, or further analysis by Pharmac staff. <span style=\"color: black;\">\u00a0</span></p><p><span style=\"color: black;\">\ufeff</span><img src=\"/apptracker/servlet/rtaImage?eid=a0POZ000002pSsS&amp;feoid=00N2P000000YsIc&amp;refid=0EM2P000002mklw\" alt=\"image.png\"></img></p>",
+          "change": null
+        },
+        "Published_Application": {
+          "s": "<p>1.1.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee reviewed the application for darolutamide in the treatment of high risk non-metastatic castration resistant prostate cancer (nmCRPC). </p><p>1.2.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee took into account, where applicable, Pharmac\u2019s relevant decision-making framework when considering this agenda item.\u00a0</p>",
+          "fs": "<p>1.1.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee reviewed the application for darolutamide in the treatment of high risk non-metastatic castration resistant prostate cancer (nmCRPC). </p><p>1.2.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee took into account, where applicable, Pharmac\u2019s relevant decision-making framework when considering this agenda item.\u00a0</p>",
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": "High",
+          "fs": "High",
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Jun 2023",
+          "fs": "Jun 2023",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Clinical advice received from Pharmacology and Therapeutics Advisory Committee (PTAC) at meeting Friday 17 February 2023.",
+          "fs": "Clinical advice received from Pharmacology and Therapeutics Advisory Committee (PTAC) at meeting Friday 17 February 2023.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ000002pSsS2AU"
+          },
+          "Id": "a0POZ000002pSsS2AU",
+          "Event_Date__c": "2023-06-26",
+          "Event_Description__c": "Clinical advice received from Pharmacology and Therapeutics Advisory Committee (PTAC) at meeting Friday 17 February 2023.",
+          "Stage__c": "Seeking Clinical Advice",
+          "Outcome__c": "High",
+          "Formatted_Date__c": "Jun 2023",
+          "Published_Recommendation__c": "<p>1.1.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0The Committee <strong>recommended </strong>that darolutamide be listed with a <strong>high priority</strong>. </p><p><br></p><p class=\"ql-indent-1\"><strong style=\"font-size: 11px;\">Initial application \u2013 (non-metastatic castration resistant prostate cancer) </strong><span style=\"font-size: 11px;\">any relevant practitioner. Approvals valid for 6 months for applications meeting the following criteria:</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 11px;\">All of the following:\u00a0</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 11px;\">1.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Patient has prostate cancer; and\u00a0</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 11px;\">2.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Patient does not have distant metastasis </span></p><p class=\"ql-indent-1\"><span style=\"font-size: 11px;\">3.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Patient\u2019s disease is castration resistant; and\u00a0</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 11px;\">4.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Patient has a PSA doubling time of 10 months or less during continuous ADT; and\u00a0</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 11px;\">6.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Patient has not had prior subsidised treatment with darolutamide.\u00a0</span></p><p class=\"ql-indent-1\"><strong style=\"font-size: 11px;\">\u00a0</strong></p><p class=\"ql-indent-1\"><strong style=\"font-size: 11px;\">Renewal \u2013 (high-risk non-metastatic castration resistant prostate cancer)</strong><span style=\"font-size: 11px;\"> only from any relevant practitioner. Approvals valid for 6 months for applications meeting the following criteria:\u00a0</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 11px;\">All of the following:\u00a0</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 11px;\">1.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Clinically stable disease; and/or</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 11px;\">2.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0No distant metastasis\u00a0</span></p><p class=\"ql-indent-1\"><br></p><p>1.2.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>In making this recommendation the Committee considered:</p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The high-quality randomised control trial evidence for a health benefit, with moderate strength evidence on overall survival, with data up to three years in comparison to placebo; </p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>That darolutamide provides comparable clinical efficacy to apalutamide, which received a high priority recommendation from <a href=\"https://connect.pharmac.govt.nz/apptracker/s/application-public/a102P000008pttm/p000201\" target=\"_blank\">CTAC</a> in April 2022; </p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>That M\u0101ori and Pacific peoples experience inequitable outcomes from prostate cancer generally, however access to darolutamide specifically is considered unlikely to reduce these more systemic inequities.\u00a0</p><p><br></p>",
+          "Published_Application__c": "<p>1.1.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee reviewed the application for darolutamide in the treatment of high risk non-metastatic castration resistant prostate cancer (nmCRPC). </p><p>1.2.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee took into account, where applicable, Pharmac\u2019s relevant decision-making framework when considering this agenda item.\u00a0</p>",
+          "Published_Discussion__c": "<h2><strong style=\"font-size: 14px;\"><em>M\u0101ori impact</em></strong></h2><p>1.1.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that M\u0101ori and Pacific peoples experience inequitable outcomes from prostate cancer, as they are more likely to present with advanced disease, and consequently have a higher mortality rate than non-M\u0101ori and non-Pacific peoples. The Committee considered that the higher likelihood of diagnosis in later disease stages may be due to lower rates of opportunistic prostate specific antigen (PSA) screening in these populations. The Committee noted that for this reason, M\u0101ori are less likely to be treated while their disease is still non-metastatic, and therefore less likely to have nmCRPC.</p><p>1.2.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered a study undertaken in the Northern region of New Zealand that reported M\u0101ori men were less likely to have had opportunistic PSA screening tests undertaken compared to non-M\u0101ori men (25.4% vs 46.1% of the total aged-matched region population; P &lt; 0.001). The authors concluded that the difference in the rates of opportunistic screening tests by ethnicity had influenced the incidence and clinical significance of the cancers diagnosed (<a href=\"https://pubmed.ncbi.nlm.nih.gov/33032306/\" target=\"_blank\">Matti et al. BJU Int. 2020;128(S3):11-17</a>). Cancers detected in M\u0101ori men were 73% more likely to be of high grade (Gleason 8 or above), compared to those in non-M\u0101ori men (<a href=\"https://bjui-journals.onlinelibrary.wiley.com/doi/10.1111/bju.15155\" target=\"_blank\">Matti et al, 2020</a>). Therefore, the Committee considered, while M\u0101ori may be less likely to be part of the nmCRPC subgroup overall, they may be more likely to have high risk disease if they are in the nmCRPC group.</p><p>1.3.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>As the current treatments for nmCRPC are less efficacious than for those with non-metastatic prostate cancer that is not castrate resistant, the funding of darolutamide may provide this population with improved quality of life and an increase in the time to disease progression.</p><h2><strong style=\"font-size: 14px;\"><em>Background</em></strong></h2><p>1.4.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that it had previously reviewed an application for apalutamide, in <a href=\"https://connect.pharmac.govt.nz/apptracker/s/application-public/a102P000008pttm/p000201\" target=\"_blank\">February 2020</a> and <a href=\"https://connect.pharmac.govt.nz/apptracker/s/application-public/a102P000008pttm/p000201\" target=\"_blank\">September 2020</a>, where PTAC deferred making a recommendation pending additional information and advice from the Cancer Treatments Subcommittee of PTAC (CaTSoP; now the Cancer Treatments Advisory Committee - CTAC), as well as in <a href=\"https://connect.pharmac.govt.nz/apptracker/s/application-public/a102P000008pttm/p000201\" target=\"_blank\">February 2021</a> where PTAC gave no formal recommendation. In <a href=\"https://connect.pharmac.govt.nz/apptracker/s/application-public/a102P000008pttm/p000201\" target=\"_blank\">April 2022 CTAC</a> recommended apalutamide with a high priority as it considered there was high quality randomised controlled trial evidence for a health benefit from apalutamide in terms of overall survival and metastasis free survival (MFS). CTAC also considered quality of life was improved with apalutamide maintenance treatment likely due to increased MFS. The PTAC noted apalutamide has a similar mechanism of action to darolutamide, for the same indication.\u00a0</p><p>1.5.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that the population eligible for treatment with darolutamide would be the same as that considered for apalutamide, which represents a subset of those with prostate cancer.</p><h2><strong style=\"font-size: 14px;\"><em>Health need</em></strong></h2><p>1.6.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that the intent of treatment is to defer progression to more symptomatic disease and metastatic disease, in order to maintain quality of life for people with nmCRPC. The Committee considered people with nmCRPC are asymptomatic, with a good quality of life for their age, despite expected side effects from androgen-deprivation therapy (ADT) or complications from surgical or radiation treatment (eg urinary incontinence, bowel symptoms or erectile dysfunction). However, they would be likely to develop metastases, particularly if considered high risk by PSA doubling time.\u00a0</p><p>1.7.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that most individuals with nmCRPC were prescribed continued ADT with a gonadotrophin-releasing hormone (GnRH) agonist and monitored through \u201cwatch and wait\u201d for disease progression, despite the fact that by definition, those with CR PC were no longer sensitive to ADT. The current funded agents for ADT are goserelin, bicalutamide and flutamide.</p><p>1.8.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that they had previously noted that acquired F876L androgen receptor mutation in advanced prostate cancer cells confers resistance to enzalutamide, and may also confer resistance to apalutamide, but that it appears darolutamide may not be similarly affected by the F876L mutation or other known androgen receptor (AR) mutations (PTAC, <a href=\"https://connect.pharmac.govt.nz/apptracker/s/application-public/a102P000008pttm/p000201\" target=\"_blank\">February 2020</a>). The Committee considered whether there was any effect of the F876L androgen receptor mutation on the efficacy of treatment in those with nmCRPC. The Committee noted that less than 2% of the population with nmCRPC prior to radiation therapy had the mutation. The Committee considered that there was no clinical trial data on the effect of the mutation before or after treatment, and that this did not impact the benefit for most.</p><h2><strong style=\"font-size: 14px;\"><em>Health benefit</em></strong></h2><p>1.9.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that darolutamide is an androgen receptor (AR) inhibitor with a flexible polar-substituted pyrazole structure that binds with high affinity directly to the receptor ligand binding domain. Darolutamide competitively inhibits androgen binding, AR nuclear translocation, and AR mediated transcription. Darolutamide treatment decreases prostate tumour cell proliferation leading to potent antitumour activity.</p><p>1.10.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that darolutamide does not cross the blood brain barrier, and has minimal binding to GABA receptors, resulting in less central nervous system side effects, in comparison to apalutamide. The Committee noted that darolutamide and other therapeutics of the same class are usually administered in combination with ADT, which itself can reduce quality of life due to side effects (eg urinary incontinence, bowel symptoms or erectile dysfunction).</p><p>1.11.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee considered the <a href=\"https://www.nejm.org/doi/full/10.1056/nejmoa1815671\" target=\"_blank\">Fizazi et al. NEJM. 2019;380:1235-46</a> study, a pivotal phase 3 randomised (2:1) clinical trial (ARAMIS). The trial investigated metastasis-free survival (MFS) as the primary endpoint, in 1509 adults with nmCRPC treated with either darolutamide (+ADT) or placebo (+ADT). The Committee noted that this trial reported a MFS of 40.4 months vs 18.4 months in the darolutamide-treated arm compared to placebo-treated (hazard ratio [HR] for metastasis or death in the darolutamide group, 0.41; 95% confidence interval (CI), 0.34 to 0.50; P&lt;0.001<span style=\"font-size: 10pt;\">)</span>.</p><p>1.12.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee also considered <a href=\"https://www.nejm.org/doi/full/10.1056/nejmoa2001342\" target=\"_blank\">Fizazi et al. NEJM. 2020;383:1040-9</a>, the open-label extension follow up of ARAMIS after unblinding following primary MFS analysis, which reported an overall survival (OS) at 3 years of 83% for darolutamide (+ADT) (95% CI, 80% to 86%) vs 77% for the placebo (+ADT) arm (95% CI, 72% to 81%).</p><p>1.13.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted an indirect comparison of side effects in trials with people with nmCRPC when administered apalutamide (SPARTAN trial, as <a href=\"https://www.nejm.org/doi/full/10.1056/NEJMoa1715546\" target=\"_blank\">Smith et al, N Engl J Med 2018; 378:1408-18</a>), enzalutamide (PROSPER, as <a href=\"https://www.nejm.org/doi/full/10.1056/NEJMoa2003892\" target=\"_blank\">Sternberg et al, N Engl J Med 2020; 382:2197-206</a>), or darolutamide (ARAMIS), published in 2021. The Committee considered the baseline characteristics of the participants in the ARAMIS trial to be similar to the SPARTAN trial. The Committee noted this study reported that, compared with apalutamide and enzalutamide, darolutamide was associated with statistically signi\ufb01cantly lower absolute risks for falls, fractures, and rash. In comparison to enzalutamide, darolutamide was also associated with a statistically signi\ufb01cantly lower absolute risk of mental impairment disorder, fatigue not including asthenia and severe fatigue not including asthenia (<a href=\"https://pubmed.ncbi.nlm.nih.gov/33818140/\" target=\"_blank\">Halabi et al. J Urol. 2021; 206:298-307</a>).</p><p>1.14.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>There was no significant difference in discontinuation rates due to adverse events between darolutamide and placebo in the ARAMIS trial (8.9% darolutamide vs 8.7% placebo) <span style=\"color: blue;\">(</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/32905676/\" target=\"_blank\">Fizazi et al, 2020</a>). The Committee also noted that proportionately more participants in the treatment arm of the SPARTAN trial discontinued in comparison to the treatment arm of the ARAMIS trial (14.9 vs 7.3% apalutamide treatment vs placebo in SPARTAN, and the above 8.9% vs 8.7% darolutamide treatment vs placebo in ARAMIS). The Committee considered that the evidence available indicates that darolutamide may be better tolerated in comparison to apalutamide. The Committee considered that treatment should aim to improve health-related quality of life, as well as delay progression to metastatic disease, and that avoiding adverse events that may lead to less discontinuation.</p><p>1.15.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that the placebo group had an increased survival time in the SPARTAN trial in comparison to the placebo group in the ARAMIS trial (18.4 vs 16.1 months, respectively). The Committee noted that comparison of the trials\u2019 outcomes after metastasis, like OS, may be limited due to the difference in subsequent treatments available in the SPARTAN and ARAMIS trials. The Committee noted that crossover in the trials had been noted previously as a possible driver of differences between trial outcomes, although the Committee considered subsequent treatment to be the more significant source of bias in comparisons of longer-term outcomes between SPARTAN and ARAMIS.</p><p>1.16.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>Members noted the first subsequent anti-cancer treatments in the ARAMIS trial were abiraterone 13%, docetaxel 49%, enzalutamide 18% and other 13% in the treatment group, whilst in the placebo group they were abiraterone 23%, docetaxel 66%, enzalutamide 19% and other 16% <span style=\"color: blue;\">(</span><a href=\"https://www.nejm.org/doi/full/10.1056/nejmoa1815671\" target=\"_blank\">Fizazi et al. 2019</a>). In the SPARTAN trial the first subsequent anti-cancer treatment was abiraterone 76%, docetaxel 9%, enzalutamide 12%, and other 3% in the treatment group, whilst in the placebo group it was abiraterone 74%, docetaxel 8%, enzalutamide 13% and other 5%(<a href=\"https://www.nejm.org/doi/full/10.1056/NEJMoa1715546\" target=\"_blank\">Smith et al. 2018</a>).</p><p>1.17.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee also considered the crossover data in ARAMIS from those who crossed over from placebo to darolutamide following unblinding. Approximately 31% of those who received placebo received darolutamide. The Committee considered three models of analysis that adjusted for crossover for OS, that reported similar results of a HR of 0.66-0.69. The Committee noted that the results suggest crossover did not substantially overstate OS in the comparator arm of ARAMIS (<a href=\"https://ascopubs.org/doi/abs/10.1200/JCO.2021.39.6_suppl.240\" target=\"_blank\">Shore et al. JCO, 2021;39(6) Suppl.:240-240</a>).</p><p>1.18.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee noted an anchored matching-adjusted indirect comparison (MAIC) using patient-level data.</p><p>1.19.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee further noted other published indirect comparisons of darolutamide, enzalutamide and apalutamide including:</p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/34797506/\" target=\"_blank\">Chowdhury et al. Adv Ther. 2022; 39:518-53</a></p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/32605736/\" target=\"_blank\">Kumar et al. Urol Oncol, 2020;38:826-34</a></p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/32924096/\" target=\"_blank\">Mori et al, Int J Clin Oncol. 2020;25:1892-1900</a></p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/34722276/\" target=\"_blank\">Mulati et al. Front Oncol, 2021;11:733202</a></p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/33543650/\" target=\"_blank\">Roumiguie et al. Future Oncol. 2021;17:1811-23</a>.</p><p>1.20.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that <a href=\"https://pubmed.ncbi.nlm.nih.gov/34797506/\" target=\"_blank\">Chowdhury et al. 2022</a> reported significant differences in MFS times (apalutamide + ADT vs darolutamide + ADT [98.3%; HR 0.70 (95% CrI 0.51, 0.98)], however no difference in OS between darolutamide and apalutamide was observed. The Committee considered interpretation of these results was limited by it being a supplier-sponsored MAIC study that only indirectly compared treatments, using patient-level data that matched a non-randomised post-hoc defined subset of patients in the SPARTAN trial against patients in the ARAMIS study.</p><p>1.21.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee also noted evidence regarding sequencing of abiraterone followed by enzalutamide. The Committee noted advice from CTAC (<a href=\"https://pharmac.govt.nz/assets/2022-04-08-Cancer-Treatments-AC-Record.pdf\" target=\"_blank\">April 2022</a>) that abiraterone should not be used in those people with nmCRPC previously treated with apalutamide. PTAC also noted the use of abiraterone following a second-generation anti-androgen is funded in other countries. The Committee further noted sequencing of abiraterone followed by enzalutamide was reported to have a longer time to PSA progression compared to the reverse sequence, however no difference in OS was noted (<a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8467385/\" target=\"_blank\">Cattrini et al, Cancers (Basel). 2021;13:4522</a>, <a href=\"https://www.ncbi.nlm.nih.gov/books/NBK571920/\" target=\"_blank\">Tran et al, CADTH Health Technology Review; 2021</a>). The Committee considered that in metastatic disease clinical practice in New Zealand is starting to favour docetaxel over abiraterone. The Committee noted that the treatment regime in the ARAMIS trial, and associated apparent increases in OS, is applicable to New Zealand with regards to the subsequent use of docetaxel occurring in 49% of those treated with darolutamide after progression (<a href=\"https://www.nejm.org/doi/full/10.1056/nejmoa1815671\" target=\"_blank\">Fizazi et al. 2019</a>). The Committee noted that approximately 13% of those in the darolutamide treated group in ARAMIS received abiraterone as the first subsequent anticancer therapy (<a href=\"https://www.nejm.org/doi/full/10.1056/nejmoa1815671\" target=\"_blank\">Fizazi et al. 2019</a>).</p><p>1.22.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that, given the similar health benefit of darolutamide compared with other agents in this class, a competitive process that could result in the funding of a single agent from this class would be reasonable.</p><h2><strong style=\"font-size: 14px;\"><em>Suitability</em></strong></h2><p>1.23.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that the oral formulation of darolutamide offered a similar benefit to those with nmCRPC as apalutamide. This would be administered in combination with ADT, which is a subcutaneous injection every 12 weeks.</p><h2><strong style=\"font-size: 14px;\"><em>Cost and savings</em></strong></h2><p>1.24.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that the number of people in this group was previously estimated by CTAC to be approximately 10 patients per year in Auckland, but that patient numbers are uncertain, and Pharmac estimates since have been higher to account for a prevalent surge of patients. The Committee noted the current Pharmac estimate of 90-120 for New Zealand over the first five years and considered that this may be reasonable in current practice, to reflect a prevalent group of people who have been diagnosed with nmCRPC experiencing reasonably good survival, and some people with metastatic disease being diagnosed as non-metastatic using current methods.</p><p>1.25.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that people with nmCRPC are identified as not having distant metastasis by means of conventional radiological imaging, however, clinical practice is moving rapidly to prostate-specific membrane antigen positron emission tomography (PSMA PET) scanning as the preferred imaging technique to exclude the presence of distant metastases in prostate cancer diagnosis and work-up. The Committee noted that whilst this is not applicable necessarily to all hospitals or locations within New Zealand currently, a study of 200 people with suspected nmCRPC reported approximately 55% had evidence of distant metastatic disease when scanned using PSMA PET <a href=\"https://pubmed.ncbi.nlm.nih.gov/31511295/\" target=\"_blank\">(Fendler et al, Clin Cancer Res. 2019;25:7448-54</a>). The Committee considered it likely that the population with nmCRPC may be reduced in the future, since more people who would currently be considered to have non-metastatic disease would be found to have metastatic prostate cancer at diagnosis.</p><p>1.26.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted the lower rate of discontinuation in clinical studies of those treated with darolutamide vs placebo in comparison to apalutamide vs placebo ((<a href=\"https://pubmed.ncbi.nlm.nih.gov/32905676/\" target=\"_blank\">Fizazi et al, 2020</a>; <a href=\"https://www.nejm.org/doi/full/10.1056/NEJMoa1715546\" target=\"_blank\">Smith et al. 2018</a>). The Committee considered that this was probably due to fewer side-effects with darolutamide.</p><h2><strong style=\"font-size: 14px;\"><em>Summary for assessment</em></strong></h2><p>1.27.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that the below table summarises its interpretation of the most appropriate PICO (population, intervention, comparator, outcomes) information for darolutamide if it were to be funded in New Zealand for nmCRPC. This PICO captures key clinical aspects of the proposal and may be used to frame any future economic assessment by Pharmac staff. This PICO is based on the Committee\u2019s assessment at this time and may differ from that requested by the applicant. The PICO may change based on new information, additional clinical advice, or further analysis by Pharmac staff. <span style=\"color: black;\">\u00a0</span></p><p><span style=\"color: black;\">\ufeff</span><img src=\"/apptracker/servlet/rtaImage?eid=a0POZ000002pSsS&amp;feoid=00N2P000000YsIc&amp;refid=0EM2P000002mklw\" alt=\"image.png\"></img></p>",
+          "Status_History__c": "a132P000000Egl2QAC"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "May 2022",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Following Clinical Advice, Pharmac staff considers the advice and the funding application under goes an assessment using our&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/factors-for-consideration/\" rel=\"nofollow\">Factors for Consideration</a>&nbsp;framework and seeks additional information as required.</p>\r\n<p>&nbsp;</p>\r\n<p>Research and Economic analysis are undertaken.&nbsp; This focuses on the costs and benefits of a proposed course of action. Economics is based on three fundamental concepts that summarise the issues Pharmac faces daily:&nbsp;</p>\r\n<ul>\r\n<li>Scarcity &ndash; resources will always be insufficient to support all possible activities.</li>\r\n<li>Choices &ndash; due to scarce resources, decisions must be made about how best to use them.</li>\r\n<li>Opportunity cost &ndash; by choosing to use resources one way, we forgo other opportunities to use the same resources.</li>\r\n</ul>\r\n<p>&nbsp;</p>\r\n<p>For further information on the purpose of, and techniques for, undertaking economic analysis in health care, please refer&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/economic-analysis/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/economic-analysis/</a></p>",
+    "position": 2,
+    "name": "Under Assessment",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Jun 2023",
+          "fs": "Jun 2023",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Working to compare options",
+          "fs": "Working to compare options",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ000002pSsT2AU"
+          },
+          "Id": "a0POZ000002pSsT2AU",
+          "Event_Date__c": "2023-06-27",
+          "Event_Description__c": "Working to compare options",
+          "Stage__c": "Under Assessment",
+          "Formatted_Date__c": "Jun 2023",
+          "Status_History__c": "a132P000000EjNJQA0"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Dec 2023",
+          "fs": "Dec 2023",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Working to compare options",
+          "fs": "Working to compare options",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ000002pSsU2AU"
+          },
+          "Id": "a0POZ000002pSsU2AU",
+          "Event_Date__c": "2023-12-05",
+          "Event_Description__c": "Working to compare options",
+          "Stage__c": "Under Assessment",
+          "Formatted_Date__c": "Dec 2023",
+          "Status_History__c": "a13OZ000004E9abYAC"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Jun 2023",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Pharmac staff uses a prioritisation process to compare and rank funding options. Possible opportunities for new investment will always exceed the budget Pharmac has available; therefore, prioritisation is an intrinsic part of Pharmac\u2019s decision-making process.</p>\r\n<p>The relative ranking of options aims to support Pharmac&rsquo;s statutory objective &ldquo;to secure for eligible people in need of pharmaceuticals, the best health outcomes that are reasonably achievable from pharmaceutical treatment and from within the amount of funding provided&rdquo;.</p>\r\n<p>A funding application or proposal is considered ready for prioritisation when sufficient information is available to permit it to be reviewed against Pharmac's Factors for Consideration and to inform a comparison with other possible investment decisions.</p>\r\n<p>There is no guarantee when or if a ranked medicine will be funded.&nbsp;&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/prioritisation/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/prioritisation/</a></p>",
+    "position": 3,
+    "name": "Options Compared",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Dec 2023",
+          "fs": "Dec 2023",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "The relative ranking of the pharmaceutical application has been completed.",
+          "fs": "The relative ranking of the pharmaceutical application has been completed.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ000002pSsV2AU"
+          },
+          "Id": "a0POZ000002pSsV2AU",
+          "Event_Date__c": "2023-12-07",
+          "Event_Description__c": "The relative ranking of the pharmaceutical application has been completed.",
+          "Stage__c": "Options Compared",
+          "Formatted_Date__c": "Dec 2023",
+          "Status_History__c": "a13OZ000004JtLQYA0"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Dec 2023",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Pharmac is consulting on a proposal to either approve or decline the application.&nbsp;We seek the views of all people who have an interest in our proposals, or who may be affected by them, to obtain feedback on our proposed approaches.</p>\r\n<p><a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/having-your-say/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/having-your-say/</a></p>",
+    "position": 4,
+    "name": "Under Consultation",
+    "last": false,
+    "events": null,
+    "dateString": null,
+    "collapsed": false,
+    "checked": false
+  },
+  {
+    "text": "<p>Following the consultation process, Pharmac staff considers the feedback and identifies any additional information required as part of a gap analysis.&nbsp; The proposal may require further clinical advice, research, and assessment.</p>",
+    "position": 5,
+    "name": "Reviewing Consultation Feedback",
+    "last": false,
+    "events": null,
+    "dateString": null,
+    "collapsed": false,
+    "checked": false
+  },
+  {
+    "text": "<p>We refer to our decisions about whether and how particular pharmaceuticals are publicly-funded, as &ldquo;funding decisions&rdquo;.</p>\r\n<p>We consider and assess all funding decisions using the&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/about/operating-policies-and-procedures/#factorsfc\" rel=\"nofollow\">Factors for Consideration</a>. When we do so, we carefully evaluate clinical and other evidence for the benefits and suitability of a proposal, and to identify and understand the people who will be affected by it.</p>\r\n<p>While our main task is to allocate pharmaceutical funding, we consider the benefits and costs across the whole health system now and with a long-term focus, including the effects for hospitals and primary care, and consider direct costs to patients as well as to all health sector budgets.</p>\r\n<p>Final funding decisions are made by the Pharmac Board or delegated to senior Pharmac staff as required by the Board.</p>\r\n<p>&nbsp;</p>",
+    "position": 6,
+    "name": "Decision",
+    "last": true,
+    "events": null,
+    "dateString": null,
+    "collapsed": false,
+    "checked": false
+  }
+]

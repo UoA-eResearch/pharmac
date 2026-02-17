@@ -1,0 +1,1295 @@
+[
+  {
+    "text": "<p>New funding applications are referred to one of Pharmac's Funding Application Advisors (FAAs), who'll review the application to ensure they have the relevant information to undertake a preliminary analysis.&nbsp; They may seek more information if required.</p>\r\n<p><a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/new-funding-applications/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/new-funding-applications/</a></p>",
+    "position": 0,
+    "name": "Application Received",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Sep 2015",
+          "fs": "Sep 2015",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Application received",
+          "fs": "Application received",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000WfmJB2AZ"
+          },
+          "Id": "a0POZ00000WfmJB2AZ",
+          "Event_Date__c": "2015-09-21",
+          "Event_Description__c": "Application received",
+          "Stage__c": "Application Received",
+          "Formatted_Date__c": "Sep 2015",
+          "Status_History__c": "a132P000000Ar0IQAS"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Sep 2015",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Pharmac is identifying and gathering information required to get clinical advice.  The <a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/pharmacology-and-therapeutics-advisory-committee-ptac/\" rel=\"nofollow\">Pharmacology and Therapeutics Advisory Committee (PTAC)</a>  meets quarterly. There are also around 20 expert <a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/specialist-advisory-committees/\" rel=\"nofollow\">Specialist Advisory Committees (SACs)</a>, previously expert Subcommittees, which provide clinical evaluations in specialist areas. Specialist Advisory Committees meet as required to discuss issues referred to them by PTAC or Pharmac.</p>\n<p style=\"height: 20px\">&nbsp;</p>\n<p>In November 2021, we introduced separate terms of reference for the SACs to make clear that these committees have different, but complementary, roles, expertise and perspectives to PTAC.</p>\n<p style=\"height: 15px\">&nbsp;</p>\n<p>PTAC and SACs may make recommendations to Pharmac that differ from each other when looking at the same evidence. Pharmac considers the recommendations provided by all our clinical advisory committees when assessing applications.</p>\n<p style=\"height: 20px\">&nbsp;</p>\n<p><a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/pharmacology-and-therapeutics-advisory-committee-ptac/ptac-terms-of-reference-july-2021/\" rel=\"nofollow\">PTAC</a>  and <a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/specialist-advisory-committees/specialist-advisory-committee-terms-of-reference//\" rel=\"nofollow\">Specialist Advisory Committees</a> records of the meeting will be published on this website in accordance with the Terms of Reference.</p>",
+    "position": 1,
+    "name": "Seeking Clinical Advice",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Feb 2016",
+          "fs": "Feb 2016",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Clinical advice required",
+          "fs": "Clinical advice required",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000WfmJC2AZ"
+          },
+          "Id": "a0POZ00000WfmJC2AZ",
+          "Event_Date__c": "2016-02-01",
+          "Event_Description__c": "Clinical advice required",
+          "Stage__c": "Seeking Clinical Advice",
+          "Formatted_Date__c": "Feb 2016",
+          "Status_History__c": "a132P000000Ar3vQAC"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": "PTAC recommended that the application for bevacizumab as monotherapy for the treatment of patients with relapsed or recurrent glioblastoma multiforme be declined.    PTAC also deferred making a recommendation on bevacizumab in combination with lomustine, pending publication of data from the EORTC phase III trial. See a separate proposal in the Tracker for details on that proposal.",
+          "fs": "PTAC recommended that the application for bevacizumab as monotherapy for the treatment of patients with relapsed or recurrent glioblastoma multiforme be declined.    PTAC also deferred making a recommendation on bevacizumab in combination with lomustine, pending publication of data from the EORTC phase III trial. See a separate proposal in the Tracker for details on that proposal.",
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": "Decline",
+          "fs": "Decline",
+          "change": null
+        },
+        "Links": {
+          "s": "<a href=\"https://www.pharmac.govt.nz/assets/ptac-minutes-2016-02-update-2.pdf\" target=\"_blank\">PTAC minutes</a>",
+          "fs": "<a href=\"https://www.pharmac.govt.nz/assets/ptac-minutes-2016-02-update-2.pdf\" target=\"_blank\">PTAC minutes</a>",
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Feb 2016",
+          "fs": "Feb 2016",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Clinical advice received from Pharmacology and Therapeutics Advisory Committee (PTAC) at meeting Thursday 11 February 2016.",
+          "fs": "Clinical advice received from Pharmacology and Therapeutics Advisory Committee (PTAC) at meeting Thursday 11 February 2016.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000WfmJD2AZ"
+          },
+          "Id": "a0POZ00000WfmJD2AZ",
+          "Event_Date__c": "2016-02-11",
+          "Event_Description__c": "Clinical advice received from Pharmacology and Therapeutics Advisory Committee (PTAC) at meeting Thursday 11 February 2016.",
+          "Stage__c": "Seeking Clinical Advice",
+          "Links__c": "<a href=\"https://www.pharmac.govt.nz/assets/ptac-minutes-2016-02-update-2.pdf\" target=\"_blank\">PTAC minutes</a>",
+          "Outcome__c": "Decline",
+          "Summary__c": "PTAC recommended that the application for bevacizumab as monotherapy for the treatment of patients with relapsed or recurrent glioblastoma multiforme be declined.    PTAC also deferred making a recommendation on bevacizumab in combination with lomustine, pending publication of data from the EORTC phase III trial. See a separate proposal in the Tracker for details on that proposal.",
+          "Formatted_Date__c": "Feb 2016",
+          "Status_History__c": "a132P000000Ar4kQAC"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Mar 2022",
+          "fs": "Mar 2022",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Clinical advice required",
+          "fs": "Clinical advice required",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000WfmJI2AZ"
+          },
+          "Id": "a0POZ00000WfmJI2AZ",
+          "Event_Date__c": "2022-03-08",
+          "Event_Description__c": "Clinical advice required",
+          "Stage__c": "Seeking Clinical Advice",
+          "Formatted_Date__c": "Mar 2022",
+          "Status_History__c": "a132P000000DatrQAC"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Apr 2023",
+          "fs": "Apr 2023",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Assigned to Cancer Treatments Advisory Committee meeting to provide advice on Friday 28 April 2023",
+          "fs": "Assigned to Cancer Treatments Advisory Committee meeting to provide advice on Friday 28 April 2023",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000WfmJJ2AZ"
+          },
+          "Id": "a0POZ00000WfmJJ2AZ",
+          "Event_Date__c": "2023-04-21",
+          "Event_Description__c": "Assigned to Cancer Treatments Advisory Committee meeting to provide advice on Friday 28 April 2023",
+          "Stage__c": "Seeking Clinical Advice",
+          "Formatted_Date__c": "Apr 2023",
+          "Status_History__c": "a132P000000EDmCQAW"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": "<p>1.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Advisory Committee <strong>recommended</strong> that bevacizumab be listed with a <strong>low priority</strong> within the context of treatment of malignancy subject to the following Special Authority criteria:</p><p class=\"ql-indent-1\"><strong style=\"font-size: 9pt;\">Initial application \u2013 (relapsed recurrent high-grade gliomas)</strong><span style=\"font-size: 9pt;\"> Applications only from a relevant specialist or medical practitioner on the recommendation of a relevant specialist. Approvals valid for 6 months for applications meeting the following criteria:</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 9pt;\">All of the following:</span></p><p class=\"ql-indent-2\"><span style=\"font-size: 9pt;\">1.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Either:</span></p><p class=\"ql-indent-3\"><span style=\"font-size: 9pt;\">1.1.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Patient has relapsed diagnosed glioblastoma multiforme, or</span></p><p class=\"ql-indent-3\"><span style=\"font-size: 9pt;\">1.2.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Patient has relapsed diagnosed anaplastic astrocytoma: and</span></p><p class=\"ql-indent-2\"><span style=\"font-size: 9pt;\">2.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">The patient has been assessed for maximal safe resection or radiotherapy; and</span></p><p class=\"ql-indent-2\"><span style=\"font-size: 9pt;\">3.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">The patient has received temozolomide previously; and</span></p><p class=\"ql-indent-2\"><span style=\"font-size: 9pt;\">4.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Patient has not previously received funded treatment with bevacizumab for this disease. </span></p><p class=\"ql-indent-1\"><span style=\"font-size: 9pt;\">\u00a0</span></p><p class=\"ql-indent-1\"><strong style=\"font-size: 9pt;\">Renewal application \u2013 (relapsed recurrent high-grade gliomas)</strong><span style=\"font-size: 9pt;\"> Applications only from a relevant specialist or medical practitioner on the recommendation of a relevant specialist Approvals valid for 6 months for applications meeting the following criteria:</span></p><p class=\"ql-indent-2\"><span style=\"font-size: 9pt;\">Either:</span></p><p class=\"ql-indent-2\"><span style=\"font-size: 9pt;\">1.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Clinically stable disease; or </span></p><p class=\"ql-indent-2\">2.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">The treatment remains appropriate, and the patient is benefiting from treatment.</span></p><p class=\"ql-indent-2\"><br></p><p>2.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Advisory Committee has made this recommendation based on a high unmet health and lack of treatment options.</p><p class=\"ql-indent-1\">2.1.<span style=\"font-size: 7pt;\"> </span>The Committee considered the clinical trial data to be of poor quality. The Committee considered that bevacizumab is not a life-extending treatment but rather a steroid-sparing agent that can be used to manage cerebral oedema, whose use can consequently result in clinical improvement of signs and symptoms.</p>",
+          "fs": "<p>1.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Advisory Committee <strong>recommended</strong> that bevacizumab be listed with a <strong>low priority</strong> within the context of treatment of malignancy subject to the following Special Authority criteria:</p><p class=\"ql-indent-1\"><strong style=\"font-size: 9pt;\">Initial application \u2013 (relapsed recurrent high-grade gliomas)</strong><span style=\"font-size: 9pt;\"> Applications only from a relevant specialist or medical practitioner on the recommendation of a relevant specialist. Approvals valid for 6 months for applications meeting the following criteria:</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 9pt;\">All of the following:</span></p><p class=\"ql-indent-2\"><span style=\"font-size: 9pt;\">1.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Either:</span></p><p class=\"ql-indent-3\"><span style=\"font-size: 9pt;\">1.1.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Patient has relapsed diagnosed glioblastoma multiforme, or</span></p><p class=\"ql-indent-3\"><span style=\"font-size: 9pt;\">1.2.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Patient has relapsed diagnosed anaplastic astrocytoma: and</span></p><p class=\"ql-indent-2\"><span style=\"font-size: 9pt;\">2.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">The patient has been assessed for maximal safe resection or radiotherapy; and</span></p><p class=\"ql-indent-2\"><span style=\"font-size: 9pt;\">3.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">The patient has received temozolomide previously; and</span></p><p class=\"ql-indent-2\"><span style=\"font-size: 9pt;\">4.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Patient has not previously received funded treatment with bevacizumab for this disease. </span></p><p class=\"ql-indent-1\"><span style=\"font-size: 9pt;\">\u00a0</span></p><p class=\"ql-indent-1\"><strong style=\"font-size: 9pt;\">Renewal application \u2013 (relapsed recurrent high-grade gliomas)</strong><span style=\"font-size: 9pt;\"> Applications only from a relevant specialist or medical practitioner on the recommendation of a relevant specialist Approvals valid for 6 months for applications meeting the following criteria:</span></p><p class=\"ql-indent-2\"><span style=\"font-size: 9pt;\">Either:</span></p><p class=\"ql-indent-2\"><span style=\"font-size: 9pt;\">1.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Clinically stable disease; or </span></p><p class=\"ql-indent-2\">2.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">The treatment remains appropriate, and the patient is benefiting from treatment.</span></p><p class=\"ql-indent-2\"><br></p><p>2.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Advisory Committee has made this recommendation based on a high unmet health and lack of treatment options.</p><p class=\"ql-indent-1\">2.1.<span style=\"font-size: 7pt;\"> </span>The Committee considered the clinical trial data to be of poor quality. The Committee considered that bevacizumab is not a life-extending treatment but rather a steroid-sparing agent that can be used to manage cerebral oedema, whose use can consequently result in clinical improvement of signs and symptoms.</p>",
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": "<h3><em>M\u0101ori impact</em></h3><p>1.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Committee discussed the impact of funding bevacizumab for the treatment of high grade recurrent relapsed gliomas on Hauora Arotahi - M\u0101ori health areas of focus and M\u0101ori health outcomes. The Committee was informed of data from Te Whatu Ora that reported up to 10% of cases of malignant neoplasms of the brain in 2020 were M\u0101ori. The Committee noted despite similar incidence rates, there have been reports of M\u0101ori waiting 1.32 (95% CI 0.98\u20131.79) times longer to receive radiotherapy, and having poorer median survival times compared to non-M\u0101ori (hazard ratio 1.55 [95% CI 0.95\u20132.55]) (<a href=\"https://www.sciencedirect.com/science/article/abs/pii/S0967586810001888?via%3Dihub\" target=\"_blank\">Alexander et al. J. Clin. Neurosci. 2010;17;1144-7</a>).</p><h3><em>Background</em></h3><p>2.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Committee noted that PTAC had previously recommended that bevacizumab as a monotherapy for individuals with relapsed or recurrent glioblastoma multiforme (GBM) be declined, following their consideration of the clinical benefit and risk, the cost effectiveness, and the budgetary impact (<a href=\"https://pharmac.govt.nz/assets/ptac-minutes-2016-02-update-2.pdf\" target=\"_blank\">PTAC February 2016</a>). PTAC had considered that the evidence was of poor strength and quality, as the studies did not compare bevacizumab&#39;s use with a control arm, and due to the relatively small number of individuals involved. The Committee noted that PTAC had also deferred making any recommendation for bevacizumab as a combination therapy with lomustine for individuals with relapsed or recurrent gliomas, pending publication of data from the EORTC phase III trial.</p><p>3.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Committee noted that lomustine, a treatment used to treat the same population, is being discontinued by the supplier, and that as Pharmac has not been able to secure an alternative brand.</p><h3><em>Health need</em></h3><p>4.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Committee noted that gliomas refer to all forms of intra-axial tumours that originate from glial cells of the central nervous system (CNS).</p><p class=\"ql-indent-1\">4.1.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The World Health Organization (WHO) Classification of Tumours of the CNS classifies gliomas into grades (I-IV) based on pathological evaluation using molecular information on the malignancy level.</p><p class=\"ql-indent-1\">4.2.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee noted the most common form of high-grade glioma is a grade IV subtype GBM, with grade III glioma, anaplastic astrocytoma (AA), a rarer form. The Committee noted that GBM refers to an astrocytoma with WHO grade 4 classification, and an AA is the same tumour type, but with a grade 3 classification. The Committee noted that the determination of grade is related to adverse histologic prognostic factors identified following biopsy.</p><p>5.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Committee noted that clinical presentation of glioma depends on the tumour location and size at diagnosis. The most common presenting symptoms and signs at diagnosis are headaches and/or nausea and seizures in the context of a large tumour or significant cerebral oedema. The Committee noted that differentiation of tumour type between grade III or IV usually occurs at surgery, as the clinical symptoms and radiological signs associated with the two tumour types are relatively similar and nonspecific in nature, and noted that both have a poor response to medical management and a poor prognosis (<a href=\"https://pubmed.ncbi.nlm.nih.gov/31552189/\" target=\"_blank\">Tian et al, Front Oncol. 2019;9:876</a>).</p><p>6.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Committee noted that the 5-year overall relative survival rate for those with GBM is 6.8%, which varies by age at diagnosis and sex, with median overall survival (OS) approximately 10-12 months in a New Zealand population-based studies (<a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8789307/\" target=\"_blank\">McManus, Neurooncol Pract. 2022;9:43-9</a>). The Committee noted that a study that used evidence from the Surveillance, Epidemiology and End Results (SEER) database reported the overall 5-year survival of AA is reported to be 22%, with the highest 5-year survival rate of 49.9% seen in those in the 15- to 24-year-old age group, and the lowest of 2.5% seen in the 75- to 84-year-old age group (<a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4165416/\" target=\"_blank\">Smoll et al, Neuro Oncol. 2014;16:1400-7</a>).</p><p>7.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Committee noted that the annual incidence of gliomas is approximately six cases per 100,000 individuals worldwide. Men are 1.6-fold more likely to be diagnosed with gliomas than women, with approximately 5% of gliomas having a familial origin (<a href=\"https://pubmed.ncbi.nlm.nih.gov/33293629/\" target=\"_blank\">Weller et al. Nat Rev Clin Oncol. 2021;18:170-86</a>). The Committee noted the incidence of malignant gliomas is bimodal with the highest incidence observed in the young and the elderly, the age distribution varying by histological type. GBM is known to have the highest incidence in people aged in their late 60s and early 70s, with frequency then reducing in older age groups. (<a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6827837/\" target=\"_blank\">Ostrom et al, Neuro Oncol. 2019; 21:1357-75</a>). The incidence of AA has been reported to also increase with age (<a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4165416/\" target=\"_blank\">Smoll et al. </a><a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4165416/\" target=\"_blank\" style=\"font-family: Helvetica, sans-serif;\">2014</a><span style=\"font-family: Helvetica, sans-serif; color: rgb(33, 33, 33);\">)</span>.The rates were 2.6 in young adults, 4.7 in adults, and 8.4 in elderly per million person-years (<a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4165416/\" target=\"_blank\">Smoll et al,</a><a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4165416/\" target=\"_blank\" style=\"font-family: Helvetica, sans-serif;\"> Neuro Oncol.\u00a02014; 16:1400-7</a><span style=\"font-family: Helvetica, sans-serif; color: rgb(33, 33, 33);\">).</span></p><p>8.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Committee previously noted (<a href=\"https://pharmac.govt.nz/assets/ptac-catsop-subcommittee-minutes-2014-03.pdf\" target=\"_blank\">CaTSoP March 2014</a>) that approximately 260 people were diagnosed with primary brain cancer each year in New Zealand, with peak incidence occurring between 45-75 years old. Members had noted that approximately 70% were diagnosed with GBM, and the rest AA.</p><p>9.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Committee noted individuals with relapsed, recurrent gliomas including AA and GBM present with a variety of largely non-specific symptoms that vary based on the position of the tumour but which can also be accompanied by problems in motor function and speech and commonly epileptic seizures, which reduce quality of life (<a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6535385/\" target=\"_blank\">Jov\u010devska Bosn et al. J Basic Med Sci. 2019;19:116-24</a>). In addition, treatment with radiotherapy can reduce the quality of life in some individuals from the associated adverse effects (AEs) such as hair loss, fatigue, somnolence, or cognitive problems, and some may also experience the progression of dementia.</p><p>10.<span style=\"font-size: 7pt;\">\u00a0</span>The Committee noted that at present there is no cure for relapsed, recurrent gliomas or GBM, with a life expectancy of 12 to 18 months after diagnosis (<a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6535385/\" target=\"_blank\">Jov\u010devska Bosn et al. 2019</a>).</p><p>11.<span style=\"font-size: 7pt;\">\u00a0</span>The Committee noted that treatment is aimed at reducing symptoms and prolonging progression free survival (PFS) and survival times. The Committee noted first-line management includes maximum safe surgical resection, followed by radiotherapy plus six cycles of maintenance temozolomide chemotherapy (Stupp regimen). The Committee noted standards of care at recurrence are less well defined. A minority of individuals with recurrence may be offered a second surgery or irradiation treatment if possible. The majority of those affected then progress to systemic treatment, mostly with nitrosourea-based regimens or temozolomide (<a href=\"https://pubmed.ncbi.nlm.nih.gov/36809318/\" target=\"_blank\">Schaff et al JAMA. 2023;329:574-87</a>). The Committee noted that temozolomide is funded for people with newly diagnosed high grade gliomas and that funding allows for beyond six cycles of maintenance temozolomide treatment.</p><p>12.<span style=\"font-size: 7pt;\">\u00a0</span>The Committee noted a recent study of caregivers of people with a GBM diagnosis that found that performance status is a critical clinical factor that significantly affects caregiver burden, caregiving tasks, and caregiver time. Additionally, caring for individuals with GBM who are confused, affects multiple facets of caregiver burden and their quality of life. <em>(</em><a href=\"https://pubmed.ncbi.nlm.nih.gov/34510238/\" target=\"_blank\">Au et al, Supportive Care in Cancer, 2022;30:1365-75</a>).</p><p>13.<span style=\"font-size: 7pt;\">\u00a0</span>The Committee noted a study that highlighted that, despite similar incidence rates, M\u0101ori waited 1.32 (95% CI 0.98\u20131.79) times longer to receive radiotherapy, and had poorer median survival times compared to non-M\u0101ori (hazard ratio 1.55 [95% CI 0.95\u20132.55]) (<a href=\"https://www.sciencedirect.com/science/article/abs/pii/S0967586810001888?via%3Dihub\" target=\"_blank\">Alexander et al. osci. 2010;17;1144-7</a>).</p><p>14.<span style=\"font-size: 7pt;\">\u00a0</span>The noted that approximately 50% of individuals with newly diagnosed GBM are over the age of 65. Overall survival (OS) in this population remains low, with this group reported as surviving approximately 9 months compared to approximately 15 months for the those aged below 65 years (<a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8774312/\" target=\"_blank\">Chahal et al. Curr Oncol. 2022;29:360-6</a>). The Committee noted that older individuals may be treated with less aggressive surgical care due to concerns regarding the greater relative frailty of this population.</p><h3><em>Health benefit</em></h3><p>15.<span style=\"font-size: 7pt;\">\u00a0</span>The Committee noted that bevacizumab is a humanised monoclonal antibody that binds to and inhibits the biologic activity of vascular endothelial growth factor A (VEGF-A). Neutralising the biologic activity of VEGF reduces tumour angiogenesis, thereby inhibiting tumour growth.</p><p>16.<span style=\"font-size: 7pt;\">\u00a0</span>The Committee considered the <a href=\"https://www.nejm.org/doi/pdf/10.1056/NEJMoa1707358?articleTools=true\" target=\"_blank\">Wick et al, N Engl J Med 2017;377:1954-63</a> study that reported the results of the phase 3 EORTC trial. 437 people at first progression of glioblastoma, after standard chemotherapy, were randomised 2:1 to lomustine plus bevacizumab (combination group, 288 people) or lomustine alone (monotherapy group, 149 people). Health-related quality of life and neurocognitive function were evaluated at baseline and every 12 weeks. The primary end point of the trial was OS.</p><p class=\"ql-indent-1\">16.1.<span style=\"font-size: 7pt;\">\u00a0</span>The Committee noted there was a total of 329 OS events (75.3%), the combination therapy did not provide a statistically significant survival advantage; the median OS was 9.1 months (95% confidence interval [CI], 8.1 to 10.1) in the combination group and 8.6 months (95% CI, 7.6 to 10.4) in the monotherapy group (hazard ratio for death, 0.95; 95% CI, 0.74 to 1.21; P=0.65).</p><p class=\"ql-indent-1\">16.2.<span style=\"font-size: 7pt;\">\u00a0</span>The Committee noted that the locally assessed progression free survival (PFS) was 2.7 months longer in the combination group than in the monotherapy group: 4.2 months versus 1.5 months (hazard ratio for disease progression or death, 0.49; 95% CI, 0.39 to 0.61; P&lt;0.001). Deterioration-free survival was also longer in the combination group than in the monotherapy group (12.4 weeks vs. 6.7 weeks; P&lt;0.001). Grade 3 to 5 AEs occurred in 63.6% of the people in the combination group and 38.1% of the people in the monotherapy group. The addition of bevacizumab to lomustine affected neither health related quality of life nor neurocognitive function.</p><p>17.<span style=\"font-size: 7pt;\">\u00a0</span>The Committee noted the <a href=\"https://www.nejm.org/doi/full/10.1056/nejmoa1308345\" target=\"_blank\">Chinot et al N Engl J Med 2014; 370:709-22</a> phase 3 randomised, double-blind, placebo controlled trial in 921 people with newly diagnosed, histologically confirmed, supratentorial glioblastoma. People were treated with bevacizumab or placebo, plus radiotherapy (2 Gy 5 days a week; maximum, 60 Gy) temozolomide. Median PFS was 10.6 months bevacizumab vs 6.2 months placebo (stratified hazard ratio for progression or death with bevacizumab, 0.64; 95% confidence interval [CI], 0.55 to 0.74; P&lt;0.001 with the use of the log-rank test) Median OS was 16.8 months bevacizumab vs 16.7 months placebo (stratified hazard ratio for death with bevacizumab, 0.88; 95% CI, 0.76 to 1.02; P=0.10). The study reported that for quality of life, deterioration-free survival significantly longer in bevacizumab than placebo group for all five prespecified scales ((global health status, social functioning, and communication deficit, (hazard ratio for deterioration in global health status with bevacizumab, 0.64; 95% CI, 0.56 to 0.74; P&lt;0.001 for all comparisons). Glucocorticoid (ie corticosteroid) use was discontinued (for \u22655 consecutive days) in 66.3% of the bevacizumab treated individual\u2019s vs 47.1% in placebo treated receiving corticosteroids at baseline. Among those who were not receiving glucocorticoids at baseline, the time to initiation of glucocorticoids was longer with bevacizumab than with placebo (12.3 months vs. 3.7 months; hazard ratio, 0.71; 95% CI, 0.57 to 0.88; P=0.002). Adverse events of any grade were reported at 98.5% bevacizumab vs 96.0% placebo.</p><p>18.<span style=\"font-size: 7pt;\">\u00a0</span>The Committee noted the <a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4201043/\" target=\"_blank\">Gilbert et al. N Engl J Med. 2014;370:699-708</a> study, a phase 3 randomised, double-blind, placebo-controlled trial in 637 people with newly diagnosed glioblastoma and a Karnofsky performance status of at least 70. Median follow-up time of 20.5 months. Median OS: 15.7 months (95% confidence interval [CI], 14.2 to 16.8) in the bevacizumab group vs 16.1 months (95% CI, 14.8 to 18.7) in the placebo group (hazard ratio for death in the bevacizumab group, 1.13; 95% CI, 0.93 to 1.37; P = 0.21 by the log-rank test). Tumour progression or death occurred in 512 people (82.4%). Median duration of PFS: 10.7 months (95% CI, 10.0 to 12.2) in the bevacizumab group vs 7.3 months (95% CI, 5.9 to 7.9) in the placebo group (hazard ratio for progression or death, 0.79; 95% CI, 0.66 to 0.94; P = 0.007 by the log-rank test). Greater deterioration in bevacizumab group than in the placebo group in neurocognitive-function test battery (P = 0.05),</p><p>19.<span style=\"font-size: 7pt;\">\u00a0</span>The Committee noted the <a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2645088/\" target=\"_blank\">Kreisl et al. J Clin Oncol. 2009;27:740-5</a> phase 2, non-randomised, open label, non-comparative longitudinal observational study of 46 people with glioblastoma, recurrent after standard external-beam fractionated radiotherapy and temozolomide chemotherapy, a Karnofsky performance status (KPS) of \u2265 60%, and an estimated survival of at least 2 months. The median PFS was 16 weeks (95% CI, 12 to 26 weeks). Progression free survival after 6 months (PFS6) was reported at 29% (95% CI, 18% to 48%), with a 6-month survival rate of 57% (95% CI, 44% to 75%). The median OS was reported to be 31 weeks (95% CI, 21 to 54 weeks), with an overall radiographic response rate being 71% based on the Levin criteria (34 partial responses [PRs]) and 35% based on Macdonald criteria (one complete response [CR,] 16 PRs).</p><p>20.<span style=\"font-size: 7pt;\">\u00a0</span>The Committee noted the <a href=\"https://pubmed.ncbi.nlm.nih.gov/27770279/\" target=\"_blank\">Gilbert et al. J. Neurooncol.2017;131:193-9</a> prospective phase 2 randomised trial of bevacizumab in combination with either temozolomide or irinotecan in 123 people with recurrent glioblastoma. The Committee noted those included in the irinotecan arm were younger, however the other baseline characteristics was well balanced overall. The Committee noted the 6-month PFS was 39% in the temozolomide group, whilst 38.6% in the irinotecan group. Median PFS was 4.7 months compared with 4.1 months in the temozolomide group compared to the irinotecan group respectively. The median OS was 9.4 months compared to 7.7 months in the temozolomide group compared to the irinotecan group respectively.</p><p>21.<span style=\"font-size: 7pt;\">\u00a0</span>Committee noted the <a href=\"https://pubmed.ncbi.nlm.nih.gov/19720927/\" target=\"_blank\">Friedman et al. J Clin Oncol. 2009;27:4733-40</a> phase 2, multicentre, open label, randomised trial in 167 people with recurrent glioblastoma. Participants were treated with bevacizumab alone (n=85) or in combination with irinotecan (CPT-11) (with or without concomitant enzyme-inducing antiepileptic drugs, respectively) (n=82) once every 2 weeks. Estimated 6-month PFS was 42.6% (97.5% CI, 29.6% to 55.5%) bevacizumab group vs 50.3% (97.5% CI, 36.8% to 63.9%) bevacizumab + CPT-11. The study reported 6-month PFS rates for those in first and second relapse of 46.4% and 27.8%, respectively, in bevacizumab group and 49% and 57.1%, respectively with bevacizumab + CPT-11. Overall response was reported occurring in 24 people (28.2%; 97.5% CI, 18.5% to 40.3%) in the bevacizumab group and 31 people (37.8%; 97.5% CI, 26.5% to 50.8%) in the bevacizumab + CPT-11. The OR rates for people in first and second relapse were 31.9% and 12.5%, respectively bevacizumab and 39.4% and 31.3%, respectively bevacizumab + CPT-11 group. Most people experienced tumour shrinkage during the treatment period. Median PFS was 4.2 months (95.0% CI, 2.9 to 5.8 months) bevacizumab vs 5.6 months (95.0% CI, 4.4 to 6.2 months) for the bevacizumab + CPT-11. Median PFS times for people in first and second relapse: 4.4 and 3.1 months, respectively, bevacizumab vs 5.5 and 5.6 months, respectively, in bevacizumab + CPT-11. The median response durations were 5.6 months (95.0% CI, 3.0 to 5.8 months) vs 4.3 months (95.0% CI 4.2 months to not reached) in the bevacizumab + CPT-11 group. Median OS times from the time of random assignment was 9.2 months (95.0% CI, 8.2 to 10.7 months) bevacizumab vs 8.7 months (95.0% CI, 7.8 to 10.9 months) for the bevacizumab + CPT-11 group. Median OS times in first or second relapse were 9.1 and 9.2 months, respectively, bevacizumab group and 8.7 and 7.0 months, respectively, bevacizumab + CPT-11 group. The study reported a trend for people who were taking corticosteroids at baseline to take stable or decreasing doses over time.</p><p>22.<span style=\"font-size: 7pt;\">\u00a0</span>The Committee noted the <a href=\"https://pubmed.ncbi.nlm.nih.gov/25035291/\" target=\"_blank\">Taal et al Lancet Oncol. 2014;15:943-53</a> open-label, three-group, multicentre phase 2 randomised trial in 153 people with recurrent glioblastoma, treated with lomustine every 6 weeks, bevacizumab every 2 weeks or combination treatment with either 90 or 110 mg/m<sup>2</sup> lomustine and bevacizumab. The study reported in the bevacizumab group, percentage 9-month OS [95% CI] of 38% (25\u201351), median PFS of 3 months and percentage 6-month PFS [95%] 18 (9,30). In the lomustine group percentage 9-month OS [95% CI] of 43% (95% CI 29\u201357), median PFS of 2 months and percentage 6-month PFS [95%] of 11 (4,11). In the bevacizumab and lomustine 90 mg/m<sup>2</sup> group percentage 9-month OS [95% CI] of 59% (43-72), median PFS of 4 months and percentage 6-month PFS [95%] of 41 (26,55). In the bevacizumab and lomustine 110 mg/m<sup>2</sup> group percentage 9-month OS [95% CI] 87% (39-98), median PFS of 11 months and percentage 6-month PFS [95%] of 50 (15,77).</p><p>23.<span style=\"font-size: 7pt;\">\u00a0</span>The Committee also noted the following studies:</p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol; color: windowtext;\">\u00b7</span><span style=\"color: windowtext; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/29141164/\" target=\"_blank\">Wick et al. N Engl J Med. 2017;377:1954-63</a></p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol; color: windowtext;\">\u00b7</span><span style=\"color: windowtext; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/21986722/\" target=\"_blank\">Reardon et al. J Neurooncol. 2012; 107:155-64</a></p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/18671639/\" target=\"_blank\">Ali et al. J Neurosurg. 2008;109:268-72</a>.</p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/25572162/\" target=\"_blank\">Duerinck et al. J Neurol. 2015;262:742-51</a></p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/29617713/\" target=\"_blank\">Gramatzki et al. Ann Oncol. 2018; 29:1431-6</a></p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6136096/\" target=\"_blank\">Kaley et al. CNS Oncol. 2013;2:413-8</a></p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/23585688/\" target=\"_blank\">Narita et al. Jpn J Clin Oncol. 2013;43:587-95</a></p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol; color: windowtext;\">\u00b7</span><span style=\"color: windowtext; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5791550/pdf/10.1177_1756285617753597.pdf\" target=\"_blank\">Jeck et al. Ther Adv Neurol Disord. 2018; 11:1-10</a></p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol; color: windowtext;\">\u00b7</span><span style=\"color: windowtext; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/21495907/\" target=\"_blank\">Hofer et al. Acta Oncol. 2011;50:630-5</a></p><p>24.<span style=\"font-size: 7pt;\">\u00a0</span>The Committee noted the <a href=\"https://pubmed.ncbi.nlm.nih.gov/34559423/\" target=\"_blank\">McBain et al. Cochrane Database Syst Rev. 2021;5:CD013579</a> indirect comparison network meta-analysis reviewing treatment options for progression or recurrence of glioblastoma. The study reported that evidence of treatment efficacy on second recurrence is sparse.</p><p>25.<span style=\"font-size: 7pt;\">\u00a0</span>The Committee noted the testimonials provided of people with the disease, those caring for someone with the disease and clinicians. Brain Tumour Support NZ stated that affected individuals cared about the quality of life, not just the extended survival time. In addition, they stated bevacizumab provided an increase in PFS that extended time living without the symptoms of their brain tumour. They also stated that the resultant improvement in quality of life brings immediate benefits to people in their daily life and relationships.</p><p>26.<span style=\"font-size: 7pt;\">\u00a0</span>The Committee noted the testimonial of one carer of an individual with GBM who had taken bevacizumab for 7 months, the carer stating that there had been a reduction in the swelling around the tumours that enabled a reduction in corticosteroid use. Several carers provided statements on the use of bevacizumab in combination with irinotecan, with one stating it had improved balance and cognitive function in a person with GBM, whilst another carer testified that for another person it allowed progression from being wheelchair bound to walking 30 minutes around their neighbourhood.</p><p>27.<span style=\"font-size: 7pt;\">\u00a0</span>The Committee noted the testimonials of clinicians which also stated that they were convinced of its very meaningful benefit in PFS, and enabling lower corticosteroid use, to improve quality of life in a number of those affected.</p><p>28.<span style=\"font-size: 7pt;\">\u00a0</span>The Committee considered that whilst there were positive testimonials from clinicians, the clinical trial data was of poor quality. The Committee considered co-endpoints of PFS and OS indicated an improvement in PFS, however there was no evidence to suggest an increase in survival. The Committee considered that PFS is difficult to measure in gliomas, as there are imaging difficulties measuring cerebral oedema in recurrence. The Committee considered however that while bevacizumab is not a life-extending treatment, it is a corticosteroid sparing agent that can be used to manage and reduce oedema, which can result in clinical improvement in signs and symptoms.</p><p>29.<span style=\"font-size: 7pt;\">\u00a0</span>The Committee considered that given its use and primary efficacy as a corticosteroid sparing agent, bevacizumab would not be a useful replacement for lomustine, which is being discontinued globally. The Committee considered that replacement therapies for lomustine would likely be other cytotoxic agents.</p><h3><em>Suitability</em></h3><p>30.<span style=\"font-size: 7pt;\">\u00a0</span>The Committee noted bevacizumab is administered as an intravenous infusion, and this treatment must be administered in an infusion centre, thereby placing a potential burden on anyone who must travel from rural or remote areas to receive treatment, as well as on the capacity of infusion services.</p><h3><em>Cost and savings</em></h3><p>31.<span style=\"font-size: 7pt;\">\u00a0</span>The Committee considered that there would be a reduction in the use of corticosteroids in those receiving bevacizumab. The Committee noted that anti-hypertensives are also prescribed with high dose corticosteroids, and these are likely to be reduced with bevacizumab administration.</p><p>32.<span style=\"font-size: 7pt;\">\u00a0</span>\u00a0The Committee considered that modelling cerebral oedema, the clinically relevant outcome bevacizumab affects in this context, would be difficult as it had been an exploratory/secondary endpoint (hence underpowered). The Committee considered that the evidence for effects on cerebral oedema was of poor quality and from trials that were negative in their primary endpoints (OS and PFS). The Committee however considered that treatment with bevacizumab would reduce the likelihood of cerebral oedema, and this may result in the increases observed in PFS. However, members considered this unlikely to translate to a benefit in overall survival.\u00a0</p><p>33.<span style=\"font-size: 7pt;\">\u00a0</span>The Committee noted that bevacizumab could be used in combination with carmustine, temozolomide, irinotecan and carboplatin. The Committee considered that the PICO (referred to below) should reflect that the comparator for bevacizumab as monotherapy (in comparison to the addition of bevacizumab to an active agent) would be corticosteroids such as dexamethasone and prednisone. The Committee considered that the rationale for this was based on the reduction in side effects bevacizumab may offer over high dose corticosteroids. The Committee however considered that relevant evidence would be difficult to find, but that the research literature on myeloma could inform these extrapolations.</p><p>34.<span style=\"font-size: 7pt;\">\u00a0</span>The Committee considered that bevacizumab may not result in any significant changes in health-sector expenditure (diagnostic testing, nursing costs or treatment of side effects) except for the additional need for the infusions associated with bevacizumab administration. The Committee estimated that if funded, approximately 50% of people would receive best supportive care, instead of bevacizumab monotherapy or combination therapy.</p><p>35.<span style=\"font-size: 7pt;\">\u00a0</span>The Committee considered that modelling of AE was unlikely to be relevant, as serious AEs are rare and responders have a short survival time to experience any complications with bevacizumab.</p><h3><em>Summary for assessment</em></h3><p><span style=\"color: rgb(68, 68, 68);\">36.</span><span style=\"color: rgb(68, 68, 68); font-size: 7pt;\">\u00a0</span>The Advisory Committee considered that the table below summarises its interpretation of the most appropriate PICO (population, intervention, comparator, outcomes) information for bevacizumab if it were to be funded in New Zealand for individuals with relapsed, recurrent high-grade gliomas who have had a prior first line systemic therapy. This PICO captures key clinical aspects of the proposal and may be used to frame any future economic assessment by Pharmac staff. This PICO is based on the Advisory Committee\u2019s assessment at this time and may differ from that requested by the applicant. The PICO may change based on new information, additional clinical advice, or further analysis by Pharmac staff.\u00a0</p><p><img src=\"/apptracker/servlet/rtaImage?eid=a0POZ00000WfmJK&amp;feoid=00N2P000000YsIc&amp;refid=0EMOZ000000CsKn\" alt=\"image.png\"></img></p>",
+          "fs": "<h3><em>M\u0101ori impact</em></h3><p>1.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Committee discussed the impact of funding bevacizumab for the treatment of high grade recurrent relapsed gliomas on Hauora Arotahi - M\u0101ori health areas of focus and M\u0101ori health outcomes. The Committee was informed of data from Te Whatu Ora that reported up to 10% of cases of malignant neoplasms of the brain in 2020 were M\u0101ori. The Committee noted despite similar incidence rates, there have been reports of M\u0101ori waiting 1.32 (95% CI 0.98\u20131.79) times longer to receive radiotherapy, and having poorer median survival times compared to non-M\u0101ori (hazard ratio 1.55 [95% CI 0.95\u20132.55]) (<a href=\"https://www.sciencedirect.com/science/article/abs/pii/S0967586810001888?via%3Dihub\" target=\"_blank\">Alexander et al. J. Clin. Neurosci. 2010;17;1144-7</a>).</p><h3><em>Background</em></h3><p>2.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Committee noted that PTAC had previously recommended that bevacizumab as a monotherapy for individuals with relapsed or recurrent glioblastoma multiforme (GBM) be declined, following their consideration of the clinical benefit and risk, the cost effectiveness, and the budgetary impact (<a href=\"https://pharmac.govt.nz/assets/ptac-minutes-2016-02-update-2.pdf\" target=\"_blank\">PTAC February 2016</a>). PTAC had considered that the evidence was of poor strength and quality, as the studies did not compare bevacizumab&#39;s use with a control arm, and due to the relatively small number of individuals involved. The Committee noted that PTAC had also deferred making any recommendation for bevacizumab as a combination therapy with lomustine for individuals with relapsed or recurrent gliomas, pending publication of data from the EORTC phase III trial.</p><p>3.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Committee noted that lomustine, a treatment used to treat the same population, is being discontinued by the supplier, and that as Pharmac has not been able to secure an alternative brand.</p><h3><em>Health need</em></h3><p>4.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Committee noted that gliomas refer to all forms of intra-axial tumours that originate from glial cells of the central nervous system (CNS).</p><p class=\"ql-indent-1\">4.1.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The World Health Organization (WHO) Classification of Tumours of the CNS classifies gliomas into grades (I-IV) based on pathological evaluation using molecular information on the malignancy level.</p><p class=\"ql-indent-1\">4.2.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee noted the most common form of high-grade glioma is a grade IV subtype GBM, with grade III glioma, anaplastic astrocytoma (AA), a rarer form. The Committee noted that GBM refers to an astrocytoma with WHO grade 4 classification, and an AA is the same tumour type, but with a grade 3 classification. The Committee noted that the determination of grade is related to adverse histologic prognostic factors identified following biopsy.</p><p>5.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Committee noted that clinical presentation of glioma depends on the tumour location and size at diagnosis. The most common presenting symptoms and signs at diagnosis are headaches and/or nausea and seizures in the context of a large tumour or significant cerebral oedema. The Committee noted that differentiation of tumour type between grade III or IV usually occurs at surgery, as the clinical symptoms and radiological signs associated with the two tumour types are relatively similar and nonspecific in nature, and noted that both have a poor response to medical management and a poor prognosis (<a href=\"https://pubmed.ncbi.nlm.nih.gov/31552189/\" target=\"_blank\">Tian et al, Front Oncol. 2019;9:876</a>).</p><p>6.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Committee noted that the 5-year overall relative survival rate for those with GBM is 6.8%, which varies by age at diagnosis and sex, with median overall survival (OS) approximately 10-12 months in a New Zealand population-based studies (<a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8789307/\" target=\"_blank\">McManus, Neurooncol Pract. 2022;9:43-9</a>). The Committee noted that a study that used evidence from the Surveillance, Epidemiology and End Results (SEER) database reported the overall 5-year survival of AA is reported to be 22%, with the highest 5-year survival rate of 49.9% seen in those in the 15- to 24-year-old age group, and the lowest of 2.5% seen in the 75- to 84-year-old age group (<a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4165416/\" target=\"_blank\">Smoll et al, Neuro Oncol. 2014;16:1400-7</a>).</p><p>7.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Committee noted that the annual incidence of gliomas is approximately six cases per 100,000 individuals worldwide. Men are 1.6-fold more likely to be diagnosed with gliomas than women, with approximately 5% of gliomas having a familial origin (<a href=\"https://pubmed.ncbi.nlm.nih.gov/33293629/\" target=\"_blank\">Weller et al. Nat Rev Clin Oncol. 2021;18:170-86</a>). The Committee noted the incidence of malignant gliomas is bimodal with the highest incidence observed in the young and the elderly, the age distribution varying by histological type. GBM is known to have the highest incidence in people aged in their late 60s and early 70s, with frequency then reducing in older age groups. (<a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6827837/\" target=\"_blank\">Ostrom et al, Neuro Oncol. 2019; 21:1357-75</a>). The incidence of AA has been reported to also increase with age (<a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4165416/\" target=\"_blank\">Smoll et al. </a><a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4165416/\" target=\"_blank\" style=\"font-family: Helvetica, sans-serif;\">2014</a><span style=\"font-family: Helvetica, sans-serif; color: rgb(33, 33, 33);\">)</span>.The rates were 2.6 in young adults, 4.7 in adults, and 8.4 in elderly per million person-years (<a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4165416/\" target=\"_blank\">Smoll et al,</a><a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4165416/\" target=\"_blank\" style=\"font-family: Helvetica, sans-serif;\"> Neuro Oncol.\u00a02014; 16:1400-7</a><span style=\"font-family: Helvetica, sans-serif; color: rgb(33, 33, 33);\">).</span></p><p>8.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Committee previously noted (<a href=\"https://pharmac.govt.nz/assets/ptac-catsop-subcommittee-minutes-2014-03.pdf\" target=\"_blank\">CaTSoP March 2014</a>) that approximately 260 people were diagnosed with primary brain cancer each year in New Zealand, with peak incidence occurring between 45-75 years old. Members had noted that approximately 70% were diagnosed with GBM, and the rest AA.</p><p>9.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Committee noted individuals with relapsed, recurrent gliomas including AA and GBM present with a variety of largely non-specific symptoms that vary based on the position of the tumour but which can also be accompanied by problems in motor function and speech and commonly epileptic seizures, which reduce quality of life (<a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6535385/\" target=\"_blank\">Jov\u010devska Bosn et al. J Basic Med Sci. 2019;19:116-24</a>). In addition, treatment with radiotherapy can reduce the quality of life in some individuals from the associated adverse effects (AEs) such as hair loss, fatigue, somnolence, or cognitive problems, and some may also experience the progression of dementia.</p><p>10.<span style=\"font-size: 7pt;\">\u00a0</span>The Committee noted that at present there is no cure for relapsed, recurrent gliomas or GBM, with a life expectancy of 12 to 18 months after diagnosis (<a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6535385/\" target=\"_blank\">Jov\u010devska Bosn et al. 2019</a>).</p><p>11.<span style=\"font-size: 7pt;\">\u00a0</span>The Committee noted that treatment is aimed at reducing symptoms and prolonging progression free survival (PFS) and survival times. The Committee noted first-line management includes maximum safe surgical resection, followed by radiotherapy plus six cycles of maintenance temozolomide chemotherapy (Stupp regimen). The Committee noted standards of care at recurrence are less well defined. A minority of individuals with recurrence may be offered a second surgery or irradiation treatment if possible. The majority of those affected then progress to systemic treatment, mostly with nitrosourea-based regimens or temozolomide (<a href=\"https://pubmed.ncbi.nlm.nih.gov/36809318/\" target=\"_blank\">Schaff et al JAMA. 2023;329:574-87</a>). The Committee noted that temozolomide is funded for people with newly diagnosed high grade gliomas and that funding allows for beyond six cycles of maintenance temozolomide treatment.</p><p>12.<span style=\"font-size: 7pt;\">\u00a0</span>The Committee noted a recent study of caregivers of people with a GBM diagnosis that found that performance status is a critical clinical factor that significantly affects caregiver burden, caregiving tasks, and caregiver time. Additionally, caring for individuals with GBM who are confused, affects multiple facets of caregiver burden and their quality of life. <em>(</em><a href=\"https://pubmed.ncbi.nlm.nih.gov/34510238/\" target=\"_blank\">Au et al, Supportive Care in Cancer, 2022;30:1365-75</a>).</p><p>13.<span style=\"font-size: 7pt;\">\u00a0</span>The Committee noted a study that highlighted that, despite similar incidence rates, M\u0101ori waited 1.32 (95% CI 0.98\u20131.79) times longer to receive radiotherapy, and had poorer median survival times compared to non-M\u0101ori (hazard ratio 1.55 [95% CI 0.95\u20132.55]) (<a href=\"https://www.sciencedirect.com/science/article/abs/pii/S0967586810001888?via%3Dihub\" target=\"_blank\">Alexander et al. osci. 2010;17;1144-7</a>).</p><p>14.<span style=\"font-size: 7pt;\">\u00a0</span>The noted that approximately 50% of individuals with newly diagnosed GBM are over the age of 65. Overall survival (OS) in this population remains low, with this group reported as surviving approximately 9 months compared to approximately 15 months for the those aged below 65 years (<a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8774312/\" target=\"_blank\">Chahal et al. Curr Oncol. 2022;29:360-6</a>). The Committee noted that older individuals may be treated with less aggressive surgical care due to concerns regarding the greater relative frailty of this population.</p><h3><em>Health benefit</em></h3><p>15.<span style=\"font-size: 7pt;\">\u00a0</span>The Committee noted that bevacizumab is a humanised monoclonal antibody that binds to and inhibits the biologic activity of vascular endothelial growth factor A (VEGF-A). Neutralising the biologic activity of VEGF reduces tumour angiogenesis, thereby inhibiting tumour growth.</p><p>16.<span style=\"font-size: 7pt;\">\u00a0</span>The Committee considered the <a href=\"https://www.nejm.org/doi/pdf/10.1056/NEJMoa1707358?articleTools=true\" target=\"_blank\">Wick et al, N Engl J Med 2017;377:1954-63</a> study that reported the results of the phase 3 EORTC trial. 437 people at first progression of glioblastoma, after standard chemotherapy, were randomised 2:1 to lomustine plus bevacizumab (combination group, 288 people) or lomustine alone (monotherapy group, 149 people). Health-related quality of life and neurocognitive function were evaluated at baseline and every 12 weeks. The primary end point of the trial was OS.</p><p class=\"ql-indent-1\">16.1.<span style=\"font-size: 7pt;\">\u00a0</span>The Committee noted there was a total of 329 OS events (75.3%), the combination therapy did not provide a statistically significant survival advantage; the median OS was 9.1 months (95% confidence interval [CI], 8.1 to 10.1) in the combination group and 8.6 months (95% CI, 7.6 to 10.4) in the monotherapy group (hazard ratio for death, 0.95; 95% CI, 0.74 to 1.21; P=0.65).</p><p class=\"ql-indent-1\">16.2.<span style=\"font-size: 7pt;\">\u00a0</span>The Committee noted that the locally assessed progression free survival (PFS) was 2.7 months longer in the combination group than in the monotherapy group: 4.2 months versus 1.5 months (hazard ratio for disease progression or death, 0.49; 95% CI, 0.39 to 0.61; P&lt;0.001). Deterioration-free survival was also longer in the combination group than in the monotherapy group (12.4 weeks vs. 6.7 weeks; P&lt;0.001). Grade 3 to 5 AEs occurred in 63.6% of the people in the combination group and 38.1% of the people in the monotherapy group. The addition of bevacizumab to lomustine affected neither health related quality of life nor neurocognitive function.</p><p>17.<span style=\"font-size: 7pt;\">\u00a0</span>The Committee noted the <a href=\"https://www.nejm.org/doi/full/10.1056/nejmoa1308345\" target=\"_blank\">Chinot et al N Engl J Med 2014; 370:709-22</a> phase 3 randomised, double-blind, placebo controlled trial in 921 people with newly diagnosed, histologically confirmed, supratentorial glioblastoma. People were treated with bevacizumab or placebo, plus radiotherapy (2 Gy 5 days a week; maximum, 60 Gy) temozolomide. Median PFS was 10.6 months bevacizumab vs 6.2 months placebo (stratified hazard ratio for progression or death with bevacizumab, 0.64; 95% confidence interval [CI], 0.55 to 0.74; P&lt;0.001 with the use of the log-rank test) Median OS was 16.8 months bevacizumab vs 16.7 months placebo (stratified hazard ratio for death with bevacizumab, 0.88; 95% CI, 0.76 to 1.02; P=0.10). The study reported that for quality of life, deterioration-free survival significantly longer in bevacizumab than placebo group for all five prespecified scales ((global health status, social functioning, and communication deficit, (hazard ratio for deterioration in global health status with bevacizumab, 0.64; 95% CI, 0.56 to 0.74; P&lt;0.001 for all comparisons). Glucocorticoid (ie corticosteroid) use was discontinued (for \u22655 consecutive days) in 66.3% of the bevacizumab treated individual\u2019s vs 47.1% in placebo treated receiving corticosteroids at baseline. Among those who were not receiving glucocorticoids at baseline, the time to initiation of glucocorticoids was longer with bevacizumab than with placebo (12.3 months vs. 3.7 months; hazard ratio, 0.71; 95% CI, 0.57 to 0.88; P=0.002). Adverse events of any grade were reported at 98.5% bevacizumab vs 96.0% placebo.</p><p>18.<span style=\"font-size: 7pt;\">\u00a0</span>The Committee noted the <a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4201043/\" target=\"_blank\">Gilbert et al. N Engl J Med. 2014;370:699-708</a> study, a phase 3 randomised, double-blind, placebo-controlled trial in 637 people with newly diagnosed glioblastoma and a Karnofsky performance status of at least 70. Median follow-up time of 20.5 months. Median OS: 15.7 months (95% confidence interval [CI], 14.2 to 16.8) in the bevacizumab group vs 16.1 months (95% CI, 14.8 to 18.7) in the placebo group (hazard ratio for death in the bevacizumab group, 1.13; 95% CI, 0.93 to 1.37; P = 0.21 by the log-rank test). Tumour progression or death occurred in 512 people (82.4%). Median duration of PFS: 10.7 months (95% CI, 10.0 to 12.2) in the bevacizumab group vs 7.3 months (95% CI, 5.9 to 7.9) in the placebo group (hazard ratio for progression or death, 0.79; 95% CI, 0.66 to 0.94; P = 0.007 by the log-rank test). Greater deterioration in bevacizumab group than in the placebo group in neurocognitive-function test battery (P = 0.05),</p><p>19.<span style=\"font-size: 7pt;\">\u00a0</span>The Committee noted the <a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2645088/\" target=\"_blank\">Kreisl et al. J Clin Oncol. 2009;27:740-5</a> phase 2, non-randomised, open label, non-comparative longitudinal observational study of 46 people with glioblastoma, recurrent after standard external-beam fractionated radiotherapy and temozolomide chemotherapy, a Karnofsky performance status (KPS) of \u2265 60%, and an estimated survival of at least 2 months. The median PFS was 16 weeks (95% CI, 12 to 26 weeks). Progression free survival after 6 months (PFS6) was reported at 29% (95% CI, 18% to 48%), with a 6-month survival rate of 57% (95% CI, 44% to 75%). The median OS was reported to be 31 weeks (95% CI, 21 to 54 weeks), with an overall radiographic response rate being 71% based on the Levin criteria (34 partial responses [PRs]) and 35% based on Macdonald criteria (one complete response [CR,] 16 PRs).</p><p>20.<span style=\"font-size: 7pt;\">\u00a0</span>The Committee noted the <a href=\"https://pubmed.ncbi.nlm.nih.gov/27770279/\" target=\"_blank\">Gilbert et al. J. Neurooncol.2017;131:193-9</a> prospective phase 2 randomised trial of bevacizumab in combination with either temozolomide or irinotecan in 123 people with recurrent glioblastoma. The Committee noted those included in the irinotecan arm were younger, however the other baseline characteristics was well balanced overall. The Committee noted the 6-month PFS was 39% in the temozolomide group, whilst 38.6% in the irinotecan group. Median PFS was 4.7 months compared with 4.1 months in the temozolomide group compared to the irinotecan group respectively. The median OS was 9.4 months compared to 7.7 months in the temozolomide group compared to the irinotecan group respectively.</p><p>21.<span style=\"font-size: 7pt;\">\u00a0</span>Committee noted the <a href=\"https://pubmed.ncbi.nlm.nih.gov/19720927/\" target=\"_blank\">Friedman et al. J Clin Oncol. 2009;27:4733-40</a> phase 2, multicentre, open label, randomised trial in 167 people with recurrent glioblastoma. Participants were treated with bevacizumab alone (n=85) or in combination with irinotecan (CPT-11) (with or without concomitant enzyme-inducing antiepileptic drugs, respectively) (n=82) once every 2 weeks. Estimated 6-month PFS was 42.6% (97.5% CI, 29.6% to 55.5%) bevacizumab group vs 50.3% (97.5% CI, 36.8% to 63.9%) bevacizumab + CPT-11. The study reported 6-month PFS rates for those in first and second relapse of 46.4% and 27.8%, respectively, in bevacizumab group and 49% and 57.1%, respectively with bevacizumab + CPT-11. Overall response was reported occurring in 24 people (28.2%; 97.5% CI, 18.5% to 40.3%) in the bevacizumab group and 31 people (37.8%; 97.5% CI, 26.5% to 50.8%) in the bevacizumab + CPT-11. The OR rates for people in first and second relapse were 31.9% and 12.5%, respectively bevacizumab and 39.4% and 31.3%, respectively bevacizumab + CPT-11 group. Most people experienced tumour shrinkage during the treatment period. Median PFS was 4.2 months (95.0% CI, 2.9 to 5.8 months) bevacizumab vs 5.6 months (95.0% CI, 4.4 to 6.2 months) for the bevacizumab + CPT-11. Median PFS times for people in first and second relapse: 4.4 and 3.1 months, respectively, bevacizumab vs 5.5 and 5.6 months, respectively, in bevacizumab + CPT-11. The median response durations were 5.6 months (95.0% CI, 3.0 to 5.8 months) vs 4.3 months (95.0% CI 4.2 months to not reached) in the bevacizumab + CPT-11 group. Median OS times from the time of random assignment was 9.2 months (95.0% CI, 8.2 to 10.7 months) bevacizumab vs 8.7 months (95.0% CI, 7.8 to 10.9 months) for the bevacizumab + CPT-11 group. Median OS times in first or second relapse were 9.1 and 9.2 months, respectively, bevacizumab group and 8.7 and 7.0 months, respectively, bevacizumab + CPT-11 group. The study reported a trend for people who were taking corticosteroids at baseline to take stable or decreasing doses over time.</p><p>22.<span style=\"font-size: 7pt;\">\u00a0</span>The Committee noted the <a href=\"https://pubmed.ncbi.nlm.nih.gov/25035291/\" target=\"_blank\">Taal et al Lancet Oncol. 2014;15:943-53</a> open-label, three-group, multicentre phase 2 randomised trial in 153 people with recurrent glioblastoma, treated with lomustine every 6 weeks, bevacizumab every 2 weeks or combination treatment with either 90 or 110 mg/m<sup>2</sup> lomustine and bevacizumab. The study reported in the bevacizumab group, percentage 9-month OS [95% CI] of 38% (25\u201351), median PFS of 3 months and percentage 6-month PFS [95%] 18 (9,30). In the lomustine group percentage 9-month OS [95% CI] of 43% (95% CI 29\u201357), median PFS of 2 months and percentage 6-month PFS [95%] of 11 (4,11). In the bevacizumab and lomustine 90 mg/m<sup>2</sup> group percentage 9-month OS [95% CI] of 59% (43-72), median PFS of 4 months and percentage 6-month PFS [95%] of 41 (26,55). In the bevacizumab and lomustine 110 mg/m<sup>2</sup> group percentage 9-month OS [95% CI] 87% (39-98), median PFS of 11 months and percentage 6-month PFS [95%] of 50 (15,77).</p><p>23.<span style=\"font-size: 7pt;\">\u00a0</span>The Committee also noted the following studies:</p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol; color: windowtext;\">\u00b7</span><span style=\"color: windowtext; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/29141164/\" target=\"_blank\">Wick et al. N Engl J Med. 2017;377:1954-63</a></p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol; color: windowtext;\">\u00b7</span><span style=\"color: windowtext; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/21986722/\" target=\"_blank\">Reardon et al. J Neurooncol. 2012; 107:155-64</a></p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/18671639/\" target=\"_blank\">Ali et al. J Neurosurg. 2008;109:268-72</a>.</p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/25572162/\" target=\"_blank\">Duerinck et al. J Neurol. 2015;262:742-51</a></p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/29617713/\" target=\"_blank\">Gramatzki et al. Ann Oncol. 2018; 29:1431-6</a></p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6136096/\" target=\"_blank\">Kaley et al. CNS Oncol. 2013;2:413-8</a></p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/23585688/\" target=\"_blank\">Narita et al. Jpn J Clin Oncol. 2013;43:587-95</a></p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol; color: windowtext;\">\u00b7</span><span style=\"color: windowtext; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5791550/pdf/10.1177_1756285617753597.pdf\" target=\"_blank\">Jeck et al. Ther Adv Neurol Disord. 2018; 11:1-10</a></p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol; color: windowtext;\">\u00b7</span><span style=\"color: windowtext; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/21495907/\" target=\"_blank\">Hofer et al. Acta Oncol. 2011;50:630-5</a></p><p>24.<span style=\"font-size: 7pt;\">\u00a0</span>The Committee noted the <a href=\"https://pubmed.ncbi.nlm.nih.gov/34559423/\" target=\"_blank\">McBain et al. Cochrane Database Syst Rev. 2021;5:CD013579</a> indirect comparison network meta-analysis reviewing treatment options for progression or recurrence of glioblastoma. The study reported that evidence of treatment efficacy on second recurrence is sparse.</p><p>25.<span style=\"font-size: 7pt;\">\u00a0</span>The Committee noted the testimonials provided of people with the disease, those caring for someone with the disease and clinicians. Brain Tumour Support NZ stated that affected individuals cared about the quality of life, not just the extended survival time. In addition, they stated bevacizumab provided an increase in PFS that extended time living without the symptoms of their brain tumour. They also stated that the resultant improvement in quality of life brings immediate benefits to people in their daily life and relationships.</p><p>26.<span style=\"font-size: 7pt;\">\u00a0</span>The Committee noted the testimonial of one carer of an individual with GBM who had taken bevacizumab for 7 months, the carer stating that there had been a reduction in the swelling around the tumours that enabled a reduction in corticosteroid use. Several carers provided statements on the use of bevacizumab in combination with irinotecan, with one stating it had improved balance and cognitive function in a person with GBM, whilst another carer testified that for another person it allowed progression from being wheelchair bound to walking 30 minutes around their neighbourhood.</p><p>27.<span style=\"font-size: 7pt;\">\u00a0</span>The Committee noted the testimonials of clinicians which also stated that they were convinced of its very meaningful benefit in PFS, and enabling lower corticosteroid use, to improve quality of life in a number of those affected.</p><p>28.<span style=\"font-size: 7pt;\">\u00a0</span>The Committee considered that whilst there were positive testimonials from clinicians, the clinical trial data was of poor quality. The Committee considered co-endpoints of PFS and OS indicated an improvement in PFS, however there was no evidence to suggest an increase in survival. The Committee considered that PFS is difficult to measure in gliomas, as there are imaging difficulties measuring cerebral oedema in recurrence. The Committee considered however that while bevacizumab is not a life-extending treatment, it is a corticosteroid sparing agent that can be used to manage and reduce oedema, which can result in clinical improvement in signs and symptoms.</p><p>29.<span style=\"font-size: 7pt;\">\u00a0</span>The Committee considered that given its use and primary efficacy as a corticosteroid sparing agent, bevacizumab would not be a useful replacement for lomustine, which is being discontinued globally. The Committee considered that replacement therapies for lomustine would likely be other cytotoxic agents.</p><h3><em>Suitability</em></h3><p>30.<span style=\"font-size: 7pt;\">\u00a0</span>The Committee noted bevacizumab is administered as an intravenous infusion, and this treatment must be administered in an infusion centre, thereby placing a potential burden on anyone who must travel from rural or remote areas to receive treatment, as well as on the capacity of infusion services.</p><h3><em>Cost and savings</em></h3><p>31.<span style=\"font-size: 7pt;\">\u00a0</span>The Committee considered that there would be a reduction in the use of corticosteroids in those receiving bevacizumab. The Committee noted that anti-hypertensives are also prescribed with high dose corticosteroids, and these are likely to be reduced with bevacizumab administration.</p><p>32.<span style=\"font-size: 7pt;\">\u00a0</span>\u00a0The Committee considered that modelling cerebral oedema, the clinically relevant outcome bevacizumab affects in this context, would be difficult as it had been an exploratory/secondary endpoint (hence underpowered). The Committee considered that the evidence for effects on cerebral oedema was of poor quality and from trials that were negative in their primary endpoints (OS and PFS). The Committee however considered that treatment with bevacizumab would reduce the likelihood of cerebral oedema, and this may result in the increases observed in PFS. However, members considered this unlikely to translate to a benefit in overall survival.\u00a0</p><p>33.<span style=\"font-size: 7pt;\">\u00a0</span>The Committee noted that bevacizumab could be used in combination with carmustine, temozolomide, irinotecan and carboplatin. The Committee considered that the PICO (referred to below) should reflect that the comparator for bevacizumab as monotherapy (in comparison to the addition of bevacizumab to an active agent) would be corticosteroids such as dexamethasone and prednisone. The Committee considered that the rationale for this was based on the reduction in side effects bevacizumab may offer over high dose corticosteroids. The Committee however considered that relevant evidence would be difficult to find, but that the research literature on myeloma could inform these extrapolations.</p><p>34.<span style=\"font-size: 7pt;\">\u00a0</span>The Committee considered that bevacizumab may not result in any significant changes in health-sector expenditure (diagnostic testing, nursing costs or treatment of side effects) except for the additional need for the infusions associated with bevacizumab administration. The Committee estimated that if funded, approximately 50% of people would receive best supportive care, instead of bevacizumab monotherapy or combination therapy.</p><p>35.<span style=\"font-size: 7pt;\">\u00a0</span>The Committee considered that modelling of AE was unlikely to be relevant, as serious AEs are rare and responders have a short survival time to experience any complications with bevacizumab.</p><h3><em>Summary for assessment</em></h3><p><span style=\"color: rgb(68, 68, 68);\">36.</span><span style=\"color: rgb(68, 68, 68); font-size: 7pt;\">\u00a0</span>The Advisory Committee considered that the table below summarises its interpretation of the most appropriate PICO (population, intervention, comparator, outcomes) information for bevacizumab if it were to be funded in New Zealand for individuals with relapsed, recurrent high-grade gliomas who have had a prior first line systemic therapy. This PICO captures key clinical aspects of the proposal and may be used to frame any future economic assessment by Pharmac staff. This PICO is based on the Advisory Committee\u2019s assessment at this time and may differ from that requested by the applicant. The PICO may change based on new information, additional clinical advice, or further analysis by Pharmac staff.\u00a0</p><p><img src=\"/apptracker/servlet/rtaImage?eid=a0POZ00000WfmJK&amp;feoid=00N2P000000YsIc&amp;refid=0EMOZ000000CsKn\" alt=\"image.png\"></img></p>",
+          "change": null
+        },
+        "Published_Application": {
+          "s": "<p>1.  The Advisory Committee reviewed the application for bevacizumab for the treatment of relapsed or recurrent high-grade gliomas. </p><p>2.  The Advisory Committee took into account, where applicable, Pharmac\u2019s relevant decision-making framework when considering this agenda item.</p>",
+          "fs": "<p>1.  The Advisory Committee reviewed the application for bevacizumab for the treatment of relapsed or recurrent high-grade gliomas. </p><p>2.  The Advisory Committee took into account, where applicable, Pharmac\u2019s relevant decision-making framework when considering this agenda item.</p>",
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": "<h3><br></h3>",
+          "fs": "<h3><br></h3>",
+          "change": null
+        },
+        "Outcome": {
+          "s": "Low",
+          "fs": "Low",
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Aug 2023",
+          "fs": "Aug 2023",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Clinical advice received from Cancer Treatments Advisory Committee at meeting Friday 28 April 2023.",
+          "fs": "Clinical advice received from Cancer Treatments Advisory Committee at meeting Friday 28 April 2023.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000WfmJK2AZ"
+          },
+          "Id": "a0POZ00000WfmJK2AZ",
+          "Event_Date__c": "2023-08-30",
+          "Event_Description__c": "Clinical advice received from Cancer Treatments Advisory Committee at meeting Friday 28 April 2023.",
+          "Stage__c": "Seeking Clinical Advice",
+          "Outcome__c": "Low",
+          "Formatted_Date__c": "Aug 2023",
+          "Published_Recommendation__c": "<p>1.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Advisory Committee <strong>recommended</strong> that bevacizumab be listed with a <strong>low priority</strong> within the context of treatment of malignancy subject to the following Special Authority criteria:</p><p class=\"ql-indent-1\"><strong style=\"font-size: 9pt;\">Initial application \u2013 (relapsed recurrent high-grade gliomas)</strong><span style=\"font-size: 9pt;\"> Applications only from a relevant specialist or medical practitioner on the recommendation of a relevant specialist. Approvals valid for 6 months for applications meeting the following criteria:</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 9pt;\">All of the following:</span></p><p class=\"ql-indent-2\"><span style=\"font-size: 9pt;\">1.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Either:</span></p><p class=\"ql-indent-3\"><span style=\"font-size: 9pt;\">1.1.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Patient has relapsed diagnosed glioblastoma multiforme, or</span></p><p class=\"ql-indent-3\"><span style=\"font-size: 9pt;\">1.2.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Patient has relapsed diagnosed anaplastic astrocytoma: and</span></p><p class=\"ql-indent-2\"><span style=\"font-size: 9pt;\">2.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">The patient has been assessed for maximal safe resection or radiotherapy; and</span></p><p class=\"ql-indent-2\"><span style=\"font-size: 9pt;\">3.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">The patient has received temozolomide previously; and</span></p><p class=\"ql-indent-2\"><span style=\"font-size: 9pt;\">4.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Patient has not previously received funded treatment with bevacizumab for this disease. </span></p><p class=\"ql-indent-1\"><span style=\"font-size: 9pt;\">\u00a0</span></p><p class=\"ql-indent-1\"><strong style=\"font-size: 9pt;\">Renewal application \u2013 (relapsed recurrent high-grade gliomas)</strong><span style=\"font-size: 9pt;\"> Applications only from a relevant specialist or medical practitioner on the recommendation of a relevant specialist Approvals valid for 6 months for applications meeting the following criteria:</span></p><p class=\"ql-indent-2\"><span style=\"font-size: 9pt;\">Either:</span></p><p class=\"ql-indent-2\"><span style=\"font-size: 9pt;\">1.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Clinically stable disease; or </span></p><p class=\"ql-indent-2\">2.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">The treatment remains appropriate, and the patient is benefiting from treatment.</span></p><p class=\"ql-indent-2\"><br></p><p>2.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Advisory Committee has made this recommendation based on a high unmet health and lack of treatment options.</p><p class=\"ql-indent-1\">2.1.<span style=\"font-size: 7pt;\"> </span>The Committee considered the clinical trial data to be of poor quality. The Committee considered that bevacizumab is not a life-extending treatment but rather a steroid-sparing agent that can be used to manage cerebral oedema, whose use can consequently result in clinical improvement of signs and symptoms.</p>",
+          "Published_Application__c": "<p>1.  The Advisory Committee reviewed the application for bevacizumab for the treatment of relapsed or recurrent high-grade gliomas. </p><p>2.  The Advisory Committee took into account, where applicable, Pharmac\u2019s relevant decision-making framework when considering this agenda item.</p>",
+          "Published_Discussion__c": "<h3><em>M\u0101ori impact</em></h3><p>1.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Committee discussed the impact of funding bevacizumab for the treatment of high grade recurrent relapsed gliomas on Hauora Arotahi - M\u0101ori health areas of focus and M\u0101ori health outcomes. The Committee was informed of data from Te Whatu Ora that reported up to 10% of cases of malignant neoplasms of the brain in 2020 were M\u0101ori. The Committee noted despite similar incidence rates, there have been reports of M\u0101ori waiting 1.32 (95% CI 0.98\u20131.79) times longer to receive radiotherapy, and having poorer median survival times compared to non-M\u0101ori (hazard ratio 1.55 [95% CI 0.95\u20132.55]) (<a href=\"https://www.sciencedirect.com/science/article/abs/pii/S0967586810001888?via%3Dihub\" target=\"_blank\">Alexander et al. J. Clin. Neurosci. 2010;17;1144-7</a>).</p><h3><em>Background</em></h3><p>2.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Committee noted that PTAC had previously recommended that bevacizumab as a monotherapy for individuals with relapsed or recurrent glioblastoma multiforme (GBM) be declined, following their consideration of the clinical benefit and risk, the cost effectiveness, and the budgetary impact (<a href=\"https://pharmac.govt.nz/assets/ptac-minutes-2016-02-update-2.pdf\" target=\"_blank\">PTAC February 2016</a>). PTAC had considered that the evidence was of poor strength and quality, as the studies did not compare bevacizumab&#39;s use with a control arm, and due to the relatively small number of individuals involved. The Committee noted that PTAC had also deferred making any recommendation for bevacizumab as a combination therapy with lomustine for individuals with relapsed or recurrent gliomas, pending publication of data from the EORTC phase III trial.</p><p>3.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Committee noted that lomustine, a treatment used to treat the same population, is being discontinued by the supplier, and that as Pharmac has not been able to secure an alternative brand.</p><h3><em>Health need</em></h3><p>4.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Committee noted that gliomas refer to all forms of intra-axial tumours that originate from glial cells of the central nervous system (CNS).</p><p class=\"ql-indent-1\">4.1.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The World Health Organization (WHO) Classification of Tumours of the CNS classifies gliomas into grades (I-IV) based on pathological evaluation using molecular information on the malignancy level.</p><p class=\"ql-indent-1\">4.2.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee noted the most common form of high-grade glioma is a grade IV subtype GBM, with grade III glioma, anaplastic astrocytoma (AA), a rarer form. The Committee noted that GBM refers to an astrocytoma with WHO grade 4 classification, and an AA is the same tumour type, but with a grade 3 classification. The Committee noted that the determination of grade is related to adverse histologic prognostic factors identified following biopsy.</p><p>5.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Committee noted that clinical presentation of glioma depends on the tumour location and size at diagnosis. The most common presenting symptoms and signs at diagnosis are headaches and/or nausea and seizures in the context of a large tumour or significant cerebral oedema. The Committee noted that differentiation of tumour type between grade III or IV usually occurs at surgery, as the clinical symptoms and radiological signs associated with the two tumour types are relatively similar and nonspecific in nature, and noted that both have a poor response to medical management and a poor prognosis (<a href=\"https://pubmed.ncbi.nlm.nih.gov/31552189/\" target=\"_blank\">Tian et al, Front Oncol. 2019;9:876</a>).</p><p>6.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Committee noted that the 5-year overall relative survival rate for those with GBM is 6.8%, which varies by age at diagnosis and sex, with median overall survival (OS) approximately 10-12 months in a New Zealand population-based studies (<a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8789307/\" target=\"_blank\">McManus, Neurooncol Pract. 2022;9:43-9</a>). The Committee noted that a study that used evidence from the Surveillance, Epidemiology and End Results (SEER) database reported the overall 5-year survival of AA is reported to be 22%, with the highest 5-year survival rate of 49.9% seen in those in the 15- to 24-year-old age group, and the lowest of 2.5% seen in the 75- to 84-year-old age group (<a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4165416/\" target=\"_blank\">Smoll et al, Neuro Oncol. 2014;16:1400-7</a>).</p><p>7.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Committee noted that the annual incidence of gliomas is approximately six cases per 100,000 individuals worldwide. Men are 1.6-fold more likely to be diagnosed with gliomas than women, with approximately 5% of gliomas having a familial origin (<a href=\"https://pubmed.ncbi.nlm.nih.gov/33293629/\" target=\"_blank\">Weller et al. Nat Rev Clin Oncol. 2021;18:170-86</a>). The Committee noted the incidence of malignant gliomas is bimodal with the highest incidence observed in the young and the elderly, the age distribution varying by histological type. GBM is known to have the highest incidence in people aged in their late 60s and early 70s, with frequency then reducing in older age groups. (<a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6827837/\" target=\"_blank\">Ostrom et al, Neuro Oncol. 2019; 21:1357-75</a>). The incidence of AA has been reported to also increase with age (<a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4165416/\" target=\"_blank\">Smoll et al. </a><a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4165416/\" target=\"_blank\" style=\"font-family: Helvetica, sans-serif;\">2014</a><span style=\"font-family: Helvetica, sans-serif; color: rgb(33, 33, 33);\">)</span>.The rates were 2.6 in young adults, 4.7 in adults, and 8.4 in elderly per million person-years (<a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4165416/\" target=\"_blank\">Smoll et al,</a><a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4165416/\" target=\"_blank\" style=\"font-family: Helvetica, sans-serif;\"> Neuro Oncol.\u00a02014; 16:1400-7</a><span style=\"font-family: Helvetica, sans-serif; color: rgb(33, 33, 33);\">).</span></p><p>8.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Committee previously noted (<a href=\"https://pharmac.govt.nz/assets/ptac-catsop-subcommittee-minutes-2014-03.pdf\" target=\"_blank\">CaTSoP March 2014</a>) that approximately 260 people were diagnosed with primary brain cancer each year in New Zealand, with peak incidence occurring between 45-75 years old. Members had noted that approximately 70% were diagnosed with GBM, and the rest AA.</p><p>9.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Committee noted individuals with relapsed, recurrent gliomas including AA and GBM present with a variety of largely non-specific symptoms that vary based on the position of the tumour but which can also be accompanied by problems in motor function and speech and commonly epileptic seizures, which reduce quality of life (<a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6535385/\" target=\"_blank\">Jov\u010devska Bosn et al. J Basic Med Sci. 2019;19:116-24</a>). In addition, treatment with radiotherapy can reduce the quality of life in some individuals from the associated adverse effects (AEs) such as hair loss, fatigue, somnolence, or cognitive problems, and some may also experience the progression of dementia.</p><p>10.<span style=\"font-size: 7pt;\">\u00a0</span>The Committee noted that at present there is no cure for relapsed, recurrent gliomas or GBM, with a life expectancy of 12 to 18 months after diagnosis (<a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6535385/\" target=\"_blank\">Jov\u010devska Bosn et al. 2019</a>).</p><p>11.<span style=\"font-size: 7pt;\">\u00a0</span>The Committee noted that treatment is aimed at reducing symptoms and prolonging progression free survival (PFS) and survival times. The Committee noted first-line management includes maximum safe surgical resection, followed by radiotherapy plus six cycles of maintenance temozolomide chemotherapy (Stupp regimen). The Committee noted standards of care at recurrence are less well defined. A minority of individuals with recurrence may be offered a second surgery or irradiation treatment if possible. The majority of those affected then progress to systemic treatment, mostly with nitrosourea-based regimens or temozolomide (<a href=\"https://pubmed.ncbi.nlm.nih.gov/36809318/\" target=\"_blank\">Schaff et al JAMA. 2023;329:574-87</a>). The Committee noted that temozolomide is funded for people with newly diagnosed high grade gliomas and that funding allows for beyond six cycles of maintenance temozolomide treatment.</p><p>12.<span style=\"font-size: 7pt;\">\u00a0</span>The Committee noted a recent study of caregivers of people with a GBM diagnosis that found that performance status is a critical clinical factor that significantly affects caregiver burden, caregiving tasks, and caregiver time. Additionally, caring for individuals with GBM who are confused, affects multiple facets of caregiver burden and their quality of life. <em>(</em><a href=\"https://pubmed.ncbi.nlm.nih.gov/34510238/\" target=\"_blank\">Au et al, Supportive Care in Cancer, 2022;30:1365-75</a>).</p><p>13.<span style=\"font-size: 7pt;\">\u00a0</span>The Committee noted a study that highlighted that, despite similar incidence rates, M\u0101ori waited 1.32 (95% CI 0.98\u20131.79) times longer to receive radiotherapy, and had poorer median survival times compared to non-M\u0101ori (hazard ratio 1.55 [95% CI 0.95\u20132.55]) (<a href=\"https://www.sciencedirect.com/science/article/abs/pii/S0967586810001888?via%3Dihub\" target=\"_blank\">Alexander et al. osci. 2010;17;1144-7</a>).</p><p>14.<span style=\"font-size: 7pt;\">\u00a0</span>The noted that approximately 50% of individuals with newly diagnosed GBM are over the age of 65. Overall survival (OS) in this population remains low, with this group reported as surviving approximately 9 months compared to approximately 15 months for the those aged below 65 years (<a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8774312/\" target=\"_blank\">Chahal et al. Curr Oncol. 2022;29:360-6</a>). The Committee noted that older individuals may be treated with less aggressive surgical care due to concerns regarding the greater relative frailty of this population.</p><h3><em>Health benefit</em></h3><p>15.<span style=\"font-size: 7pt;\">\u00a0</span>The Committee noted that bevacizumab is a humanised monoclonal antibody that binds to and inhibits the biologic activity of vascular endothelial growth factor A (VEGF-A). Neutralising the biologic activity of VEGF reduces tumour angiogenesis, thereby inhibiting tumour growth.</p><p>16.<span style=\"font-size: 7pt;\">\u00a0</span>The Committee considered the <a href=\"https://www.nejm.org/doi/pdf/10.1056/NEJMoa1707358?articleTools=true\" target=\"_blank\">Wick et al, N Engl J Med 2017;377:1954-63</a> study that reported the results of the phase 3 EORTC trial. 437 people at first progression of glioblastoma, after standard chemotherapy, were randomised 2:1 to lomustine plus bevacizumab (combination group, 288 people) or lomustine alone (monotherapy group, 149 people). Health-related quality of life and neurocognitive function were evaluated at baseline and every 12 weeks. The primary end point of the trial was OS.</p><p class=\"ql-indent-1\">16.1.<span style=\"font-size: 7pt;\">\u00a0</span>The Committee noted there was a total of 329 OS events (75.3%), the combination therapy did not provide a statistically significant survival advantage; the median OS was 9.1 months (95% confidence interval [CI], 8.1 to 10.1) in the combination group and 8.6 months (95% CI, 7.6 to 10.4) in the monotherapy group (hazard ratio for death, 0.95; 95% CI, 0.74 to 1.21; P=0.65).</p><p class=\"ql-indent-1\">16.2.<span style=\"font-size: 7pt;\">\u00a0</span>The Committee noted that the locally assessed progression free survival (PFS) was 2.7 months longer in the combination group than in the monotherapy group: 4.2 months versus 1.5 months (hazard ratio for disease progression or death, 0.49; 95% CI, 0.39 to 0.61; P&lt;0.001). Deterioration-free survival was also longer in the combination group than in the monotherapy group (12.4 weeks vs. 6.7 weeks; P&lt;0.001). Grade 3 to 5 AEs occurred in 63.6% of the people in the combination group and 38.1% of the people in the monotherapy group. The addition of bevacizumab to lomustine affected neither health related quality of life nor neurocognitive function.</p><p>17.<span style=\"font-size: 7pt;\">\u00a0</span>The Committee noted the <a href=\"https://www.nejm.org/doi/full/10.1056/nejmoa1308345\" target=\"_blank\">Chinot et al N Engl J Med 2014; 370:709-22</a> phase 3 randomised, double-blind, placebo controlled trial in 921 people with newly diagnosed, histologically confirmed, supratentorial glioblastoma. People were treated with bevacizumab or placebo, plus radiotherapy (2 Gy 5 days a week; maximum, 60 Gy) temozolomide. Median PFS was 10.6 months bevacizumab vs 6.2 months placebo (stratified hazard ratio for progression or death with bevacizumab, 0.64; 95% confidence interval [CI], 0.55 to 0.74; P&lt;0.001 with the use of the log-rank test) Median OS was 16.8 months bevacizumab vs 16.7 months placebo (stratified hazard ratio for death with bevacizumab, 0.88; 95% CI, 0.76 to 1.02; P=0.10). The study reported that for quality of life, deterioration-free survival significantly longer in bevacizumab than placebo group for all five prespecified scales ((global health status, social functioning, and communication deficit, (hazard ratio for deterioration in global health status with bevacizumab, 0.64; 95% CI, 0.56 to 0.74; P&lt;0.001 for all comparisons). Glucocorticoid (ie corticosteroid) use was discontinued (for \u22655 consecutive days) in 66.3% of the bevacizumab treated individual\u2019s vs 47.1% in placebo treated receiving corticosteroids at baseline. Among those who were not receiving glucocorticoids at baseline, the time to initiation of glucocorticoids was longer with bevacizumab than with placebo (12.3 months vs. 3.7 months; hazard ratio, 0.71; 95% CI, 0.57 to 0.88; P=0.002). Adverse events of any grade were reported at 98.5% bevacizumab vs 96.0% placebo.</p><p>18.<span style=\"font-size: 7pt;\">\u00a0</span>The Committee noted the <a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4201043/\" target=\"_blank\">Gilbert et al. N Engl J Med. 2014;370:699-708</a> study, a phase 3 randomised, double-blind, placebo-controlled trial in 637 people with newly diagnosed glioblastoma and a Karnofsky performance status of at least 70. Median follow-up time of 20.5 months. Median OS: 15.7 months (95% confidence interval [CI], 14.2 to 16.8) in the bevacizumab group vs 16.1 months (95% CI, 14.8 to 18.7) in the placebo group (hazard ratio for death in the bevacizumab group, 1.13; 95% CI, 0.93 to 1.37; P = 0.21 by the log-rank test). Tumour progression or death occurred in 512 people (82.4%). Median duration of PFS: 10.7 months (95% CI, 10.0 to 12.2) in the bevacizumab group vs 7.3 months (95% CI, 5.9 to 7.9) in the placebo group (hazard ratio for progression or death, 0.79; 95% CI, 0.66 to 0.94; P = 0.007 by the log-rank test). Greater deterioration in bevacizumab group than in the placebo group in neurocognitive-function test battery (P = 0.05),</p><p>19.<span style=\"font-size: 7pt;\">\u00a0</span>The Committee noted the <a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2645088/\" target=\"_blank\">Kreisl et al. J Clin Oncol. 2009;27:740-5</a> phase 2, non-randomised, open label, non-comparative longitudinal observational study of 46 people with glioblastoma, recurrent after standard external-beam fractionated radiotherapy and temozolomide chemotherapy, a Karnofsky performance status (KPS) of \u2265 60%, and an estimated survival of at least 2 months. The median PFS was 16 weeks (95% CI, 12 to 26 weeks). Progression free survival after 6 months (PFS6) was reported at 29% (95% CI, 18% to 48%), with a 6-month survival rate of 57% (95% CI, 44% to 75%). The median OS was reported to be 31 weeks (95% CI, 21 to 54 weeks), with an overall radiographic response rate being 71% based on the Levin criteria (34 partial responses [PRs]) and 35% based on Macdonald criteria (one complete response [CR,] 16 PRs).</p><p>20.<span style=\"font-size: 7pt;\">\u00a0</span>The Committee noted the <a href=\"https://pubmed.ncbi.nlm.nih.gov/27770279/\" target=\"_blank\">Gilbert et al. J. Neurooncol.2017;131:193-9</a> prospective phase 2 randomised trial of bevacizumab in combination with either temozolomide or irinotecan in 123 people with recurrent glioblastoma. The Committee noted those included in the irinotecan arm were younger, however the other baseline characteristics was well balanced overall. The Committee noted the 6-month PFS was 39% in the temozolomide group, whilst 38.6% in the irinotecan group. Median PFS was 4.7 months compared with 4.1 months in the temozolomide group compared to the irinotecan group respectively. The median OS was 9.4 months compared to 7.7 months in the temozolomide group compared to the irinotecan group respectively.</p><p>21.<span style=\"font-size: 7pt;\">\u00a0</span>Committee noted the <a href=\"https://pubmed.ncbi.nlm.nih.gov/19720927/\" target=\"_blank\">Friedman et al. J Clin Oncol. 2009;27:4733-40</a> phase 2, multicentre, open label, randomised trial in 167 people with recurrent glioblastoma. Participants were treated with bevacizumab alone (n=85) or in combination with irinotecan (CPT-11) (with or without concomitant enzyme-inducing antiepileptic drugs, respectively) (n=82) once every 2 weeks. Estimated 6-month PFS was 42.6% (97.5% CI, 29.6% to 55.5%) bevacizumab group vs 50.3% (97.5% CI, 36.8% to 63.9%) bevacizumab + CPT-11. The study reported 6-month PFS rates for those in first and second relapse of 46.4% and 27.8%, respectively, in bevacizumab group and 49% and 57.1%, respectively with bevacizumab + CPT-11. Overall response was reported occurring in 24 people (28.2%; 97.5% CI, 18.5% to 40.3%) in the bevacizumab group and 31 people (37.8%; 97.5% CI, 26.5% to 50.8%) in the bevacizumab + CPT-11. The OR rates for people in first and second relapse were 31.9% and 12.5%, respectively bevacizumab and 39.4% and 31.3%, respectively bevacizumab + CPT-11 group. Most people experienced tumour shrinkage during the treatment period. Median PFS was 4.2 months (95.0% CI, 2.9 to 5.8 months) bevacizumab vs 5.6 months (95.0% CI, 4.4 to 6.2 months) for the bevacizumab + CPT-11. Median PFS times for people in first and second relapse: 4.4 and 3.1 months, respectively, bevacizumab vs 5.5 and 5.6 months, respectively, in bevacizumab + CPT-11. The median response durations were 5.6 months (95.0% CI, 3.0 to 5.8 months) vs 4.3 months (95.0% CI 4.2 months to not reached) in the bevacizumab + CPT-11 group. Median OS times from the time of random assignment was 9.2 months (95.0% CI, 8.2 to 10.7 months) bevacizumab vs 8.7 months (95.0% CI, 7.8 to 10.9 months) for the bevacizumab + CPT-11 group. Median OS times in first or second relapse were 9.1 and 9.2 months, respectively, bevacizumab group and 8.7 and 7.0 months, respectively, bevacizumab + CPT-11 group. The study reported a trend for people who were taking corticosteroids at baseline to take stable or decreasing doses over time.</p><p>22.<span style=\"font-size: 7pt;\">\u00a0</span>The Committee noted the <a href=\"https://pubmed.ncbi.nlm.nih.gov/25035291/\" target=\"_blank\">Taal et al Lancet Oncol. 2014;15:943-53</a> open-label, three-group, multicentre phase 2 randomised trial in 153 people with recurrent glioblastoma, treated with lomustine every 6 weeks, bevacizumab every 2 weeks or combination treatment with either 90 or 110 mg/m<sup>2</sup> lomustine and bevacizumab. The study reported in the bevacizumab group, percentage 9-month OS [95% CI] of 38% (25\u201351), median PFS of 3 months and percentage 6-month PFS [95%] 18 (9,30). In the lomustine group percentage 9-month OS [95% CI] of 43% (95% CI 29\u201357), median PFS of 2 months and percentage 6-month PFS [95%] of 11 (4,11). In the bevacizumab and lomustine 90 mg/m<sup>2</sup> group percentage 9-month OS [95% CI] of 59% (43-72), median PFS of 4 months and percentage 6-month PFS [95%] of 41 (26,55). In the bevacizumab and lomustine 110 mg/m<sup>2</sup> group percentage 9-month OS [95% CI] 87% (39-98), median PFS of 11 months and percentage 6-month PFS [95%] of 50 (15,77).</p><p>23.<span style=\"font-size: 7pt;\">\u00a0</span>The Committee also noted the following studies:</p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol; color: windowtext;\">\u00b7</span><span style=\"color: windowtext; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/29141164/\" target=\"_blank\">Wick et al. N Engl J Med. 2017;377:1954-63</a></p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol; color: windowtext;\">\u00b7</span><span style=\"color: windowtext; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/21986722/\" target=\"_blank\">Reardon et al. J Neurooncol. 2012; 107:155-64</a></p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/18671639/\" target=\"_blank\">Ali et al. J Neurosurg. 2008;109:268-72</a>.</p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/25572162/\" target=\"_blank\">Duerinck et al. J Neurol. 2015;262:742-51</a></p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/29617713/\" target=\"_blank\">Gramatzki et al. Ann Oncol. 2018; 29:1431-6</a></p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6136096/\" target=\"_blank\">Kaley et al. CNS Oncol. 2013;2:413-8</a></p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/23585688/\" target=\"_blank\">Narita et al. Jpn J Clin Oncol. 2013;43:587-95</a></p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol; color: windowtext;\">\u00b7</span><span style=\"color: windowtext; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5791550/pdf/10.1177_1756285617753597.pdf\" target=\"_blank\">Jeck et al. Ther Adv Neurol Disord. 2018; 11:1-10</a></p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol; color: windowtext;\">\u00b7</span><span style=\"color: windowtext; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/21495907/\" target=\"_blank\">Hofer et al. Acta Oncol. 2011;50:630-5</a></p><p>24.<span style=\"font-size: 7pt;\">\u00a0</span>The Committee noted the <a href=\"https://pubmed.ncbi.nlm.nih.gov/34559423/\" target=\"_blank\">McBain et al. Cochrane Database Syst Rev. 2021;5:CD013579</a> indirect comparison network meta-analysis reviewing treatment options for progression or recurrence of glioblastoma. The study reported that evidence of treatment efficacy on second recurrence is sparse.</p><p>25.<span style=\"font-size: 7pt;\">\u00a0</span>The Committee noted the testimonials provided of people with the disease, those caring for someone with the disease and clinicians. Brain Tumour Support NZ stated that affected individuals cared about the quality of life, not just the extended survival time. In addition, they stated bevacizumab provided an increase in PFS that extended time living without the symptoms of their brain tumour. They also stated that the resultant improvement in quality of life brings immediate benefits to people in their daily life and relationships.</p><p>26.<span style=\"font-size: 7pt;\">\u00a0</span>The Committee noted the testimonial of one carer of an individual with GBM who had taken bevacizumab for 7 months, the carer stating that there had been a reduction in the swelling around the tumours that enabled a reduction in corticosteroid use. Several carers provided statements on the use of bevacizumab in combination with irinotecan, with one stating it had improved balance and cognitive function in a person with GBM, whilst another carer testified that for another person it allowed progression from being wheelchair bound to walking 30 minutes around their neighbourhood.</p><p>27.<span style=\"font-size: 7pt;\">\u00a0</span>The Committee noted the testimonials of clinicians which also stated that they were convinced of its very meaningful benefit in PFS, and enabling lower corticosteroid use, to improve quality of life in a number of those affected.</p><p>28.<span style=\"font-size: 7pt;\">\u00a0</span>The Committee considered that whilst there were positive testimonials from clinicians, the clinical trial data was of poor quality. The Committee considered co-endpoints of PFS and OS indicated an improvement in PFS, however there was no evidence to suggest an increase in survival. The Committee considered that PFS is difficult to measure in gliomas, as there are imaging difficulties measuring cerebral oedema in recurrence. The Committee considered however that while bevacizumab is not a life-extending treatment, it is a corticosteroid sparing agent that can be used to manage and reduce oedema, which can result in clinical improvement in signs and symptoms.</p><p>29.<span style=\"font-size: 7pt;\">\u00a0</span>The Committee considered that given its use and primary efficacy as a corticosteroid sparing agent, bevacizumab would not be a useful replacement for lomustine, which is being discontinued globally. The Committee considered that replacement therapies for lomustine would likely be other cytotoxic agents.</p><h3><em>Suitability</em></h3><p>30.<span style=\"font-size: 7pt;\">\u00a0</span>The Committee noted bevacizumab is administered as an intravenous infusion, and this treatment must be administered in an infusion centre, thereby placing a potential burden on anyone who must travel from rural or remote areas to receive treatment, as well as on the capacity of infusion services.</p><h3><em>Cost and savings</em></h3><p>31.<span style=\"font-size: 7pt;\">\u00a0</span>The Committee considered that there would be a reduction in the use of corticosteroids in those receiving bevacizumab. The Committee noted that anti-hypertensives are also prescribed with high dose corticosteroids, and these are likely to be reduced with bevacizumab administration.</p><p>32.<span style=\"font-size: 7pt;\">\u00a0</span>\u00a0The Committee considered that modelling cerebral oedema, the clinically relevant outcome bevacizumab affects in this context, would be difficult as it had been an exploratory/secondary endpoint (hence underpowered). The Committee considered that the evidence for effects on cerebral oedema was of poor quality and from trials that were negative in their primary endpoints (OS and PFS). The Committee however considered that treatment with bevacizumab would reduce the likelihood of cerebral oedema, and this may result in the increases observed in PFS. However, members considered this unlikely to translate to a benefit in overall survival.\u00a0</p><p>33.<span style=\"font-size: 7pt;\">\u00a0</span>The Committee noted that bevacizumab could be used in combination with carmustine, temozolomide, irinotecan and carboplatin. The Committee considered that the PICO (referred to below) should reflect that the comparator for bevacizumab as monotherapy (in comparison to the addition of bevacizumab to an active agent) would be corticosteroids such as dexamethasone and prednisone. The Committee considered that the rationale for this was based on the reduction in side effects bevacizumab may offer over high dose corticosteroids. The Committee however considered that relevant evidence would be difficult to find, but that the research literature on myeloma could inform these extrapolations.</p><p>34.<span style=\"font-size: 7pt;\">\u00a0</span>The Committee considered that bevacizumab may not result in any significant changes in health-sector expenditure (diagnostic testing, nursing costs or treatment of side effects) except for the additional need for the infusions associated with bevacizumab administration. The Committee estimated that if funded, approximately 50% of people would receive best supportive care, instead of bevacizumab monotherapy or combination therapy.</p><p>35.<span style=\"font-size: 7pt;\">\u00a0</span>The Committee considered that modelling of AE was unlikely to be relevant, as serious AEs are rare and responders have a short survival time to experience any complications with bevacizumab.</p><h3><em>Summary for assessment</em></h3><p><span style=\"color: rgb(68, 68, 68);\">36.</span><span style=\"color: rgb(68, 68, 68); font-size: 7pt;\">\u00a0</span>The Advisory Committee considered that the table below summarises its interpretation of the most appropriate PICO (population, intervention, comparator, outcomes) information for bevacizumab if it were to be funded in New Zealand for individuals with relapsed, recurrent high-grade gliomas who have had a prior first line systemic therapy. This PICO captures key clinical aspects of the proposal and may be used to frame any future economic assessment by Pharmac staff. This PICO is based on the Advisory Committee\u2019s assessment at this time and may differ from that requested by the applicant. The PICO may change based on new information, additional clinical advice, or further analysis by Pharmac staff.\u00a0</p><p><img src=\"/apptracker/servlet/rtaImage?eid=a0POZ00000WfmJK&amp;feoid=00N2P000000YsIc&amp;refid=0EMOZ000000CsKn\" alt=\"image.png\"></img></p>",
+          "PTAC_Comments__c": "<h3><br></h3>",
+          "Status_History__c": "a13OZ000001wOO0YAM"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Sep 2024",
+          "fs": "Sep 2024",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Clinical advice required",
+          "fs": "Clinical advice required",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000WfmJM2AZ"
+          },
+          "Id": "a0POZ00000WfmJM2AZ",
+          "Event_Date__c": "2024-09-18",
+          "Event_Description__c": "Clinical advice required",
+          "Stage__c": "Seeking Clinical Advice",
+          "Formatted_Date__c": "Sep 2024",
+          "Status_History__c": "a13OZ00000HQainYAD"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Oct 2024",
+          "fs": "Oct 2024",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Assigned to Cancer Treatments Advisory Committee meeting to provide advice on Thursday 10 October 2024",
+          "fs": "Assigned to Cancer Treatments Advisory Committee meeting to provide advice on Thursday 10 October 2024",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000WfmJN2AZ"
+          },
+          "Id": "a0POZ00000WfmJN2AZ",
+          "Event_Date__c": "2024-10-02",
+          "Event_Description__c": "Assigned to Cancer Treatments Advisory Committee meeting to provide advice on Thursday 10 October 2024",
+          "Stage__c": "Seeking Clinical Advice",
+          "Formatted_Date__c": "Oct 2024",
+          "Status_History__c": "a13OZ00000HQb0XYAT"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": "Additional feedback received from Brain Tumour Support NZ (BTSNZ) and the NZ Aotearoa Neuro-Oncology Society (NANOS).",
+          "fs": "Additional feedback received from Brain Tumour Support NZ (BTSNZ) and the NZ Aotearoa Neuro-Oncology Society (NANOS).",
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Jan 2025",
+          "fs": "Jan 2025",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Received Additional Information",
+          "fs": "Received Additional Information",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000WfmJO2AZ"
+          },
+          "Id": "a0POZ00000WfmJO2AZ",
+          "Event_Date__c": "2025-01-13",
+          "Event_Description__c": "Received Additional Information",
+          "Stage__c": "Seeking Clinical Advice",
+          "Summary__c": "Additional feedback received from Brain Tumour Support NZ (BTSNZ) and the NZ Aotearoa Neuro-Oncology Society (NANOS).",
+          "Formatted_Date__c": "Jan 2025",
+          "Status_History__c": "a13OZ00000JiKPvYAN"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Feb 2025",
+          "fs": "Feb 2025",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Clinical advice required",
+          "fs": "Clinical advice required",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000WfmJP2AZ"
+          },
+          "Id": "a0POZ00000WfmJP2AZ",
+          "Event_Date__c": "2025-02-05",
+          "Event_Description__c": "Clinical advice required",
+          "Stage__c": "Seeking Clinical Advice",
+          "Formatted_Date__c": "Feb 2025",
+          "Status_History__c": "a13OZ00000JiP4cYAF"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Apr 2025",
+          "fs": "Apr 2025",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Assigned to Cancer Treatments Advisory Committee meeting to provide advice on Friday 2 May 2025",
+          "fs": "Assigned to Cancer Treatments Advisory Committee meeting to provide advice on Friday 2 May 2025",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000WfmJQ2AZ"
+          },
+          "Id": "a0POZ00000WfmJQ2AZ",
+          "Event_Date__c": "2025-04-24",
+          "Event_Description__c": "Assigned to Cancer Treatments Advisory Committee meeting to provide advice on Friday 2 May 2025",
+          "Stage__c": "Seeking Clinical Advice",
+          "Formatted_Date__c": "Apr 2025",
+          "Status_History__c": "a13OZ00000Mdk4sYAB"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": "<p>The Cancer Treatments Advisory Committee <strong>recommended </strong>that bevacizumab monotherapy for the treatment of relapsed or recurrent high-grade glioma be <strong>declined</strong>. This recommendation is in the context of ongoing lomustine supply.</p><p><br></p><p>This record was published ahead of the full 10 October 2024 record.</p>",
+          "fs": "<p>The Cancer Treatments Advisory Committee <strong>recommended </strong>that bevacizumab monotherapy for the treatment of relapsed or recurrent high-grade glioma be <strong>declined</strong>. This recommendation is in the context of ongoing lomustine supply.</p><p><br></p><p>This record was published ahead of the full 10 October 2024 record.</p>",
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": "Decline",
+          "fs": "Decline",
+          "change": null
+        },
+        "Links": {
+          "s": "<p><a href=\"https://pharmac.govt.nz/assets/2024-10-10_11-CTAC-Record-Bevacizumab-for-glioblastoma-interim.pdf\" target=\"_blank\" style=\"color: rgb(11, 92, 171); background-color: rgb(255, 255, 255);\">Link to the meeting record.</a></p>",
+          "fs": "<p><a href=\"https://pharmac.govt.nz/assets/2024-10-10_11-CTAC-Record-Bevacizumab-for-glioblastoma-interim.pdf\" target=\"_blank\" style=\"color: rgb(11, 92, 171); background-color: rgb(255, 255, 255);\">Link to the meeting record.</a></p>",
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Apr 2025",
+          "fs": "Apr 2025",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Clinical advice received from Cancer Treatments Advisory Committee at meeting Thursday 10 October 2024.",
+          "fs": "Clinical advice received from Cancer Treatments Advisory Committee at meeting Thursday 10 October 2024.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000WfmJR2AZ"
+          },
+          "Id": "a0POZ00000WfmJR2AZ",
+          "Event_Date__c": "2025-04-24",
+          "Event_Description__c": "Clinical advice received from Cancer Treatments Advisory Committee at meeting Thursday 10 October 2024.",
+          "Stage__c": "Seeking Clinical Advice",
+          "Links__c": "<p><a href=\"https://pharmac.govt.nz/assets/2024-10-10_11-CTAC-Record-Bevacizumab-for-glioblastoma-interim.pdf\" target=\"_blank\" style=\"color: rgb(11, 92, 171); background-color: rgb(255, 255, 255);\">Link to the meeting record.</a></p>",
+          "Outcome__c": "Decline",
+          "Summary__c": "<p>The Cancer Treatments Advisory Committee <strong>recommended </strong>that bevacizumab monotherapy for the treatment of relapsed or recurrent high-grade glioma be <strong>declined</strong>. This recommendation is in the context of ongoing lomustine supply.</p><p><br></p><p>This record was published ahead of the full 10 October 2024 record.</p>",
+          "Formatted_Date__c": "Apr 2025",
+          "Status_History__c": "a13OZ00000MecIBYAZ"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": "<p>The Cancer Treatments Advisory Committee reiterated its previous <strong>recommendations </strong>that bevacizumab with/without lomustine for the treatment of high-grade, relapsed or recurrent glioma, within the context of treatment of malignancy, be <strong>declined</strong>.</p>",
+          "fs": "<p>The Cancer Treatments Advisory Committee reiterated its previous <strong>recommendations </strong>that bevacizumab with/without lomustine for the treatment of high-grade, relapsed or recurrent glioma, within the context of treatment of malignancy, be <strong>declined</strong>.</p>",
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": "Decline",
+          "fs": "Decline",
+          "change": null
+        },
+        "Links": {
+          "s": "<p><a href=\"https://www.pharmac.govt.nz/assets/2025-05-02-Cancer-Treatments-Advisory-Committtee-Record.pdf#page=10\" target=\"_blank\">Link to the relevant discussion within the meeting record.</a></p>",
+          "fs": "<p><a href=\"https://www.pharmac.govt.nz/assets/2025-05-02-Cancer-Treatments-Advisory-Committtee-Record.pdf#page=10\" target=\"_blank\">Link to the relevant discussion within the meeting record.</a></p>",
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Sep 2025",
+          "fs": "Sep 2025",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Clinical advice received from Cancer Treatments Advisory Committee at meeting Friday 2 May 2025.",
+          "fs": "Clinical advice received from Cancer Treatments Advisory Committee at meeting Friday 2 May 2025.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000WfmJS2AZ"
+          },
+          "Id": "a0POZ00000WfmJS2AZ",
+          "Event_Date__c": "2025-09-10",
+          "Event_Description__c": "Clinical advice received from Cancer Treatments Advisory Committee at meeting Friday 2 May 2025.",
+          "Stage__c": "Seeking Clinical Advice",
+          "Links__c": "<p><a href=\"https://www.pharmac.govt.nz/assets/2025-05-02-Cancer-Treatments-Advisory-Committtee-Record.pdf#page=10\" target=\"_blank\">Link to the relevant discussion within the meeting record.</a></p>",
+          "Outcome__c": "Decline",
+          "Summary__c": "<p>The Cancer Treatments Advisory Committee reiterated its previous <strong>recommendations </strong>that bevacizumab with/without lomustine for the treatment of high-grade, relapsed or recurrent glioma, within the context of treatment of malignancy, be <strong>declined</strong>.</p>",
+          "Formatted_Date__c": "Sep 2025",
+          "Status_History__c": "a13OZ00000SMskvYAD"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Feb 2016",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Following Clinical Advice, Pharmac staff considers the advice and the funding application under goes an assessment using our&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/factors-for-consideration/\" rel=\"nofollow\">Factors for Consideration</a>&nbsp;framework and seeks additional information as required.</p>\r\n<p>&nbsp;</p>\r\n<p>Research and Economic analysis are undertaken.&nbsp; This focuses on the costs and benefits of a proposed course of action. Economics is based on three fundamental concepts that summarise the issues Pharmac faces daily:&nbsp;</p>\r\n<ul>\r\n<li>Scarcity &ndash; resources will always be insufficient to support all possible activities.</li>\r\n<li>Choices &ndash; due to scarce resources, decisions must be made about how best to use them.</li>\r\n<li>Opportunity cost &ndash; by choosing to use resources one way, we forgo other opportunities to use the same resources.</li>\r\n</ul>\r\n<p>&nbsp;</p>\r\n<p>For further information on the purpose of, and techniques for, undertaking economic analysis in health care, please refer&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/economic-analysis/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/economic-analysis/</a></p>",
+    "position": 2,
+    "name": "Under Assessment",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Feb 2016",
+          "fs": "Feb 2016",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Working to compare options",
+          "fs": "Working to compare options",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000WfmJE2AZ"
+          },
+          "Id": "a0POZ00000WfmJE2AZ",
+          "Event_Date__c": "2016-02-12",
+          "Event_Description__c": "Working to compare options",
+          "Stage__c": "Under Assessment",
+          "Formatted_Date__c": "Feb 2016",
+          "Status_History__c": "a132P000000Ar5CQAS"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Sep 2023",
+          "fs": "Sep 2023",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Working to compare options",
+          "fs": "Working to compare options",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000WfmJL2AZ"
+          },
+          "Id": "a0POZ00000WfmJL2AZ",
+          "Event_Date__c": "2023-09-20",
+          "Event_Description__c": "Working to compare options",
+          "Stage__c": "Under Assessment",
+          "Formatted_Date__c": "Sep 2023",
+          "Status_History__c": "a13OZ000002B8KeYAK"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Sep 2025",
+          "fs": "Sep 2025",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Working to compare options",
+          "fs": "Working to compare options",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000WfmJT2AZ"
+          },
+          "Id": "a0POZ00000WfmJT2AZ",
+          "Event_Date__c": "2025-09-19",
+          "Event_Description__c": "Working to compare options",
+          "Stage__c": "Under Assessment",
+          "Formatted_Date__c": "Sep 2025",
+          "Status_History__c": "a13OZ00000SoeexYAB"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Feb 2016",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Pharmac staff uses a prioritisation process to compare and rank funding options. Possible opportunities for new investment will always exceed the budget Pharmac has available; therefore, prioritisation is an intrinsic part of Pharmac\u2019s decision-making process.</p>\r\n<p>The relative ranking of options aims to support Pharmac&rsquo;s statutory objective &ldquo;to secure for eligible people in need of pharmaceuticals, the best health outcomes that are reasonably achievable from pharmaceutical treatment and from within the amount of funding provided&rdquo;.</p>\r\n<p>A funding application or proposal is considered ready for prioritisation when sufficient information is available to permit it to be reviewed against Pharmac's Factors for Consideration and to inform a comparison with other possible investment decisions.</p>\r\n<p>There is no guarantee when or if a ranked medicine will be funded.&nbsp;&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/prioritisation/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/prioritisation/</a></p>",
+    "position": 3,
+    "name": "Options Compared",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Sep 2017",
+          "fs": "Sep 2017",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "The relative ranking of the pharmaceutical application has been completed.",
+          "fs": "The relative ranking of the pharmaceutical application has been completed.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000WfmJF2AZ"
+          },
+          "Id": "a0POZ00000WfmJF2AZ",
+          "Event_Date__c": "2017-09-06",
+          "Event_Description__c": "The relative ranking of the pharmaceutical application has been completed.",
+          "Stage__c": "Options Compared",
+          "Formatted_Date__c": "Sep 2017",
+          "Status_History__c": "a132P000000ArKoQAK"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Sep 2025",
+          "fs": "Sep 2025",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "The relative ranking of the pharmaceutical application has been completed.",
+          "fs": "The relative ranking of the pharmaceutical application has been completed.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000WfmJU2AZ"
+          },
+          "Id": "a0POZ00000WfmJU2AZ",
+          "Event_Date__c": "2025-09-25",
+          "Event_Description__c": "The relative ranking of the pharmaceutical application has been completed.",
+          "Stage__c": "Options Compared",
+          "Formatted_Date__c": "Sep 2025",
+          "Status_History__c": "a13OZ00000T5kBMYAZ"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Sep 2017",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Pharmac is consulting on a proposal to either approve or decline the application.&nbsp;We seek the views of all people who have an interest in our proposals, or who may be affected by them, to obtain feedback on our proposed approaches.</p>\r\n<p><a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/having-your-say/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/having-your-say/</a></p>",
+    "position": 4,
+    "name": "Under Consultation",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": "<p><a href=\"https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/2021-06-29-proposal-to-decline-inactive-funding-applications\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255);\">https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/2021-06-29-proposal-to-decline-inactive-funding-applications</a></p>",
+          "fs": "<p><a href=\"https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/2021-06-29-proposal-to-decline-inactive-funding-applications\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255);\">https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/2021-06-29-proposal-to-decline-inactive-funding-applications</a></p>",
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Jun 2021",
+          "fs": "Jun 2021",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Public consultation for this application is active.",
+          "fs": "Public consultation for this application is active.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000WfmJG2AZ"
+          },
+          "Id": "a0POZ00000WfmJG2AZ",
+          "Event_Date__c": "2021-06-29",
+          "Event_Description__c": "Public consultation for this application is active.",
+          "Stage__c": "Under Consultation",
+          "Links__c": "<p><a href=\"https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/2021-06-29-proposal-to-decline-inactive-funding-applications\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255);\">https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/2021-06-29-proposal-to-decline-inactive-funding-applications</a></p>",
+          "Formatted_Date__c": "Jun 2021",
+          "Status_History__c": "a132P000000CxsmQAC"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Jun 2021",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Following the consultation process, Pharmac staff considers the feedback and identifies any additional information required as part of a gap analysis.&nbsp; The proposal may require further clinical advice, research, and assessment.</p>",
+    "position": 5,
+    "name": "Reviewing Consultation Feedback",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": "<p><a href=\"https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/decision-2022-03-08-inactive-declines/\" target=\"_blank\">Consultation outcome notification</a></p>",
+          "fs": "<p><a href=\"https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/decision-2022-03-08-inactive-declines/\" target=\"_blank\">Consultation outcome notification</a></p>",
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Aug 2021",
+          "fs": "Aug 2021",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Public consultation for this application is now closed. Pharmac is reviewing consultation feedback.",
+          "fs": "Public consultation for this application is now closed. Pharmac is reviewing consultation feedback.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000WfmJH2AZ"
+          },
+          "Id": "a0POZ00000WfmJH2AZ",
+          "Event_Date__c": "2021-08-02",
+          "Event_Description__c": "Public consultation for this application is now closed. Pharmac is reviewing consultation feedback.",
+          "Stage__c": "Reviewing Consultation Feedback",
+          "Links__c": "<p><a href=\"https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/decision-2022-03-08-inactive-declines/\" target=\"_blank\">Consultation outcome notification</a></p>",
+          "Formatted_Date__c": "Aug 2021",
+          "Status_History__c": "a132P000000D3vvQAC"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Aug 2021",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>We refer to our decisions about whether and how particular pharmaceuticals are publicly-funded, as &ldquo;funding decisions&rdquo;.</p>\r\n<p>We consider and assess all funding decisions using the&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/about/operating-policies-and-procedures/#factorsfc\" rel=\"nofollow\">Factors for Consideration</a>. When we do so, we carefully evaluate clinical and other evidence for the benefits and suitability of a proposal, and to identify and understand the people who will be affected by it.</p>\r\n<p>While our main task is to allocate pharmaceutical funding, we consider the benefits and costs across the whole health system now and with a long-term focus, including the effects for hospitals and primary care, and consider direct costs to patients as well as to all health sector budgets.</p>\r\n<p>Final funding decisions are made by the Pharmac Board or delegated to senior Pharmac staff as required by the Board.</p>\r\n<p>&nbsp;</p>",
+    "position": 6,
+    "name": "Decision",
+    "last": true,
+    "events": null,
+    "dateString": null,
+    "collapsed": false,
+    "checked": false
+  }
+]

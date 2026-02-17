@@ -1,0 +1,624 @@
+[
+  {
+    "text": "<p>New funding applications are referred to one of Pharmac's Funding Application Advisors (FAAs), who'll review the application to ensure they have the relevant information to undertake a preliminary analysis.&nbsp; They may seek more information if required.</p>\r\n<p><a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/new-funding-applications/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/new-funding-applications/</a></p>",
+    "position": 0,
+    "name": "Application Received",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Jan 2020",
+          "fs": "Jan 2020",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Application received",
+          "fs": "Application received",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P000004vvuBUAQ"
+          },
+          "Id": "a0P2P000004vvuBUAQ",
+          "Event_Date__c": "2020-01-01",
+          "Event_Description__c": "Application received",
+          "Stage__c": "Application Received",
+          "Formatted_Date__c": "Jan 2020",
+          "Status_History__c": "a132P000000BaUvQAK"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Jan 2020",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Pharmac is identifying and gathering information required to get clinical advice.  The <a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/pharmacology-and-therapeutics-advisory-committee-ptac/\" rel=\"nofollow\">Pharmacology and Therapeutics Advisory Committee (PTAC)</a>  meets quarterly. There are also around 20 expert <a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/specialist-advisory-committees/\" rel=\"nofollow\">Specialist Advisory Committees (SACs)</a>, previously expert Subcommittees, which provide clinical evaluations in specialist areas. Specialist Advisory Committees meet as required to discuss issues referred to them by PTAC or Pharmac.</p>\n<p style=\"height: 20px\">&nbsp;</p>\n<p>In November 2021, we introduced separate terms of reference for the SACs to make clear that these committees have different, but complementary, roles, expertise and perspectives to PTAC.</p>\n<p style=\"height: 15px\">&nbsp;</p>\n<p>PTAC and SACs may make recommendations to Pharmac that differ from each other when looking at the same evidence. Pharmac considers the recommendations provided by all our clinical advisory committees when assessing applications.</p>\n<p style=\"height: 20px\">&nbsp;</p>\n<p><a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/pharmacology-and-therapeutics-advisory-committee-ptac/ptac-terms-of-reference-july-2021/\" rel=\"nofollow\">PTAC</a>  and <a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/specialist-advisory-committees/specialist-advisory-committee-terms-of-reference//\" rel=\"nofollow\">Specialist Advisory Committees</a> records of the meeting will be published on this website in accordance with the Terms of Reference.</p>",
+    "position": 1,
+    "name": "Seeking Clinical Advice",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Mar 2020",
+          "fs": "Mar 2020",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Clinical advice required",
+          "fs": "Clinical advice required",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P000004vvuCUAQ"
+          },
+          "Id": "a0P2P000004vvuCUAQ",
+          "Event_Date__c": "2020-03-18",
+          "Event_Description__c": "Clinical advice required",
+          "Stage__c": "Seeking Clinical Advice",
+          "Formatted_Date__c": "Mar 2020",
+          "Status_History__c": "a132P000000BaV0QAK"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Jun 2020",
+          "fs": "Jun 2020",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Clinical advice required",
+          "fs": "Clinical advice required",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P000004vvuDUAQ"
+          },
+          "Id": "a0P2P000004vvuDUAQ",
+          "Event_Date__c": "2020-06-17",
+          "Event_Description__c": "Clinical advice required",
+          "Stage__c": "Seeking Clinical Advice",
+          "Formatted_Date__c": "Jun 2020",
+          "Status_History__c": "a132P000000BsIvQAK"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Aug 2020",
+          "fs": "Aug 2020",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Assigned to Pharmacology and Therapeutics Advisory Committee (PTAC) meeting to provide advice on Thursday 18 June 2020",
+          "fs": "Assigned to Pharmacology and Therapeutics Advisory Committee (PTAC) meeting to provide advice on Thursday 18 June 2020",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P000004vvuEUAQ"
+          },
+          "Id": "a0P2P000004vvuEUAQ",
+          "Event_Date__c": "2020-08-14",
+          "Event_Description__c": "Assigned to Pharmacology and Therapeutics Advisory Committee (PTAC) meeting to provide advice on Thursday 18 June 2020",
+          "Stage__c": "Seeking Clinical Advice",
+          "Formatted_Date__c": "Aug 2020",
+          "Status_History__c": "a132P000000C2ZTQA0"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": "<p><span style=\"color: black;\">1.1.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee <b>recommended</b> that access to febuxostat for the prevention of tumour lysis syndrome in allopurinol-intolerant patients scheduled to receive cancer therapy that carries an intermediate or high tumour lysis syndrome risk be widened with a high priority due to:</p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The high health need of patients who develop tumour lysis syndrome </p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The similar efficacy between allopurinol and febuxostat </p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>Oral febuxostat being a more suitable alternative for those intolerant of allopurinol than intravenous rasburicase, the current allopurinol alternative </p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The favourable cost differential between febuxostat and rasburicase</p><p><span style=\"color: black;\">1.2.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that PHARMAC could seek subsequent advice from cancer haematologists on the Cancer Treatments Subcommittee (CaTSoP) regarding the size of the patient population and how to define the Special Authority criteria appropriately, to inform the economic analysis.</p>",
+          "fs": "<p><span style=\"color: black;\">1.1.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee <b>recommended</b> that access to febuxostat for the prevention of tumour lysis syndrome in allopurinol-intolerant patients scheduled to receive cancer therapy that carries an intermediate or high tumour lysis syndrome risk be widened with a high priority due to:</p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The high health need of patients who develop tumour lysis syndrome </p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The similar efficacy between allopurinol and febuxostat </p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>Oral febuxostat being a more suitable alternative for those intolerant of allopurinol than intravenous rasburicase, the current allopurinol alternative </p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The favourable cost differential between febuxostat and rasburicase</p><p><span style=\"color: black;\">1.2.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that PHARMAC could seek subsequent advice from cancer haematologists on the Cancer Treatments Subcommittee (CaTSoP) regarding the size of the patient population and how to define the Special Authority criteria appropriately, to inform the economic analysis.</p>",
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": "<p><span style=\"color: black;\">1.1.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that tumour lysis syndrome (TLS) is an infrequent but potentially severe complication of cancer therapy, usually chemotherapy, which occurs from the rapid and extensive lysis of cancer cells leading to the release of metabolites such as uric acid, phosphate and potassium into the extracellular space. The Committee noted that cell lysis can occur quickly following cancer treatment, particularly in high cell-dividing cancers, such as Burkitt\u2019s lymphoma, resulting in rapid and extremely high serum urate, hence there is a need for prophylaxis. The Committee noted that TLS can be a fatal side effect of cancer treatment or can result in complications including sepsis, acute kidney injury requiring dialysis and acute respiratory failure (<a href=\"https://pubmed.ncbi.nlm.nih.gov/28904174/\" target=\"_blank\">Durani et al. Oncologist. 2017;22:1506-9</a>). The Committee noted that TLS can be categorised into two groups \u2013 clinical TLS and laboratory TLS, as defined by the expert opinion-based Cairo-Bishop definitions (<a href=\"https://pubmed.ncbi.nlm.nih.gov/15384972/\" target=\"_blank\">Cairo and Bishop. Br J Haematol. 2004;127:3-11</a>).</p><p><span style=\"color: black;\">1.2.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that TLS risk is stratified by tumour type and burden, baseline renal function, baseline uric acid level, and chemotherapy agent received. The Committee noted that a number of haematologic cancers including acute lymphoblastic leukaemia, acute myeloid leukaemia and aggressive lymphoma carry intermediate to high risk of TLS. The Committee noted that while haematological malignancies are most commonly associated with TLS risk, solid tumours including neuroblastoma, germ cell tumours and small cell lung cancer are associated with an intermediate risk of TLS (<a href=\"https://pubmed.ncbi.nlm.nih.gov/31774551/\" target=\"_blank\">Durani et al. Br J Haematol. 2020;188:494-500</a>). </p><p><span style=\"color: black;\">1.3.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that currently patients undergoing cancer treatment with a low TLS risk are managed with hyperhydration, those with an intermediate/high risk are managed with allopurinol (treatment initiated two days prior to cancer treatment, for a total of approximately nine days), and those with particularly high TLS risk are managed with intravenous (IV) rasburicase (3 mg per day for approximately 3-5 days). The Committee noted that patients with an intermediate/high risk of TLS who are allopurinol-intolerant are often managed with IV rasburicase. </p><p><span style=\"color: black;\">1.4.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that while the incidence of TLS with currently available treatments is low, the health need of patients who develop TLS is high. The Committee noted a study, in which TLS-attributable mortality occurred in approximately 2% of patients with acute myeloid leukaemia, treated with intensive chemotherapy and receiving standard prophylactic measures such as hyperhydration and allopurinol (<a href=\"https://pubmed.ncbi.nlm.nih.gov/18166787/\" target=\"_blank\">Montesinos et al. Haematologica 2008;93:67-74</a>). </p><p><span style=\"color: black;\">1.5.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that in the context of gout, the available epidemiological evidence indicates that allopurinol-intolerance occurs in 3-10% of patients, with local estimates indicating a slightly lower rate of intolerance. The Committee considered an appropriate definition of allopurinol-intolerance in the context of TLS prevention should be \u201cdocumented intolerance to allopurinol\u201d, and that this would likely include patients who had previously been treated for gout. Members considered that this group would likely include patients who experienced a gout flare while on treatment and as such were classed as intolerant, despite true intolerance not being present. The Committee considered that oncologists may not confirm whether true allopurinol-intolerance exists when determining a TLS prophylactic treatment regimen. As such, the Committee considered that there may be the potential for some \u2018slippage\u2019 with diagnostic drift with this definition. However, due to the small patient numbers, this would likely be immaterial.</p><p><span style=\"color: black;\">1.6.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that M\u0101ori and Pacific people have a higher incidence of gout than non-M\u0101ori/non-Pacific and are therefore more likely to have had previous exposure to allopurinol and thus more likely to have experienced allopurinol-intolerance. The Committee noted that for the cancers that often categorise patients as high TLS risk, there are minimal differences in incidence according to ethnicity.</p><p><span style=\"color: black;\">1.7.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that there may be some cross reactivity between serious cutaneous adverse reactions associated with allopurinol and adverse reactions to febuxostat, but this would be in very small numbers. The Committee noted that allopurinol-hypersensitivity generally develops after 3-6 weeks of treatment, and therefore considered it would be unlikely patients would develop intolerance during the short treatment window for TLS prophylaxis. The Committee considered that a small number of patients may develop allopurinol intolerance once started on prophylactic treatment for TLS and that patients may be required to change to alternative treatment (which could include febuxostat). However, the Committee considered that if this were to occur it would be uncommon, and that most patients in this situation may receive rasburicase. </p><p><span style=\"color: black;\">1.8.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that people who carry the <span style=\"color: black;\">HLA-B*5801 allele are at particularly high risk of severe allopurinol adverse reactions. The Committee considered that while the genetic test for HLA-B*5801 is available in New Zealand, </span>it is not commonly used and would be unlikely to be utilised to confirm a high risk of allopurinol hypersensitivity in the event that funding for febuxostat for allopurinol-intolerant patients for TLS prophylaxis was progressed. </p><p><span style=\"color: black;\">1.9.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that the population of allopurinol-intolerant patients at an intermediate/high risk of TLS was difficult to quantify. The Committee further considered that it was difficult to determine what proportion of patients would then receive febuxostat, due to the uncertainty as to whether clinicians would opt to use febuxostat over rasburicase for TLS prophylaxis were febuxostat available for this. As such, the Committee considered that further advice from the cancer haematologists on CaTSoP would be useful to further define the size of this patient population.</p><p><span style=\"color: black;\">1.10.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that febuxostat is an oral 2-arylthiazole derivative that is a potent, non-purine selective inhibitor of both oxidised and reduced forms of xanthine oxidase, reducing uric acid levels, which is usually used for the long-term treatment of gout.<i> </i>The Committee noted that one of the approved Medsafe indications for febuxostat was the prevention and treatment of hyperuricaemia in adult patients undergoing chemotherapy for haematologic malignancies at intermediate to high risk of TLS. The Committee noted that the recommended oral dose of febuxostat for the prevention of TLS is 120 mg once daily, initiated two days before the beginning of cytotoxic therapy and continued for a minimum of 7 days; however, treatment may be prolonged up to 9 days according to chemotherapy duration as per clinical judgment (<a href=\"https://medsafe.govt.nz/profs/datasheet/a/adenurictab.pdf\" target=\"_blank\">Medsafe. 2019</a>).</p><p><span style=\"color: black;\">1.11.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted there have been reports of an association between the prolonged use of febuxostat and cardiovascular events. The Committee noted that these outcomes have been observed following a number of years on febuxostat and once treatment was discontinued. The Committee considered that this risk was immaterial for the indication under consideration (TLS prevention) due to the short duration of treatment. </p><p><span style=\"color: black;\">1.12.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that rasburicase is a recombinant urate-oxidase enzyme administered intravenously, which requires a hospital visit for administration. The Committee noted rasburicase is used prophylactically in patients with high TLS risk, in allopurinol-intolerant patients at an intermediate/high risk of TLS, as well as a rescue therapy in patients who develop TLS. The Committee noted that adverse events from rasburicase occur in approximately 10% of patients. The Committee noted that rasburicase is relatively expensive compared with both allopurinol and febuxostat. </p><p><span style=\"color: black;\">1.13.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that serum urate is used as a biomarker for the reduction of TLS in the literature. The Committee noted that, unlike with gout, there is no evidence-based target serum urate to reduce the risk of TLS. </p><p><span style=\"color: black;\">1.14.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted the results of the FLORENCE trial, a randomised double-blind phase III trial, which investigated the use of febuxostat or allopurinol in adult patients with haematologic malignancies at intermediate to high TLS risk grade (<a href=\"https://pubmed.ncbi.nlm.nih.gov/26216382/?from_single_result=Spina+et+al.+Annals+of+Oncol.+2015%253B26%253A2155-2161.&amp;expanded_search_query=Spina+et+al.+Annals+of+Oncol.+2015%253B26%253A2155-2161.\" target=\"_blank\">Spina et al. Ann Oncol. 2015;26:2155-61</a>). The Committee noted that patients were treated with allopurinol 200 mg, 300 mg or 600 mg based on investigator\u2019s choice, or 120 mg febuxostat, initiated two days prior to chemotherapy and continued for 7-9 days. The Committee noted that the study stated all patients received hydration therapy; however, this was not controlled or documented between groups. The Committee noted that the study population was predominantly European, had low baseline uric acid and had a relatively low incidence of laboratory and clinical TLS compared with other studies. The Committee noted that the mean serum urate area under the curve (AUC) was significantly less for febuxostat than for allopurinol (514.0 vs 708.0; p&lt;0.0001), and that there was no statistically significant difference observed for serum creatinine, treatment responder rate or the incidence of laboratory TLS and clinical TLS. The Committee noted that the reported adverse events were similar between allopurinol and febuxostat groups.</p><p><span style=\"color: black;\">1.15.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted the results of the Bellos et al. meta-analysis that analysed four studies investigating the use of febuxostat for the prevention of TLS in children and adults with a range of malignancies (<a href=\"https://pubmed.ncbi.nlm.nih.gov/30972811/\" target=\"_blank\">Bellos et al. J Clin Pharm Therap. 2019</a>). The Committee noted that the results of the meta-analysis reported that, compared to allopurinol, febuxostat achieved a similar tumour lysis syndrome incidence (odd ratio (OR): 1.01, 95% confidence interval (CI):0.56-1.81), responder rate (OR: 1.39, 95% CI: 0.55-3.51) and serum urate levels (mean difference: -0.21 mg/dL, 95% CI: -1.30-0.88). </p><p><span style=\"color: black;\">1.16.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that when considering the dosages of allopurinol and febuxostat, it was likely that even 80 mg febuxostat would reduce serum urate levels more than allopurinol. However, the Committee considered that a 120 mg dose would be appropriate in the setting of intermediate-high TLS risk.</p><p><span style=\"color: black;\">1.17.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted the results of a phase III study investigating rasburicase 0.2 mg/kg verses allopurinol 300 mg in adults with haematologic malignancies at risk for hyperuricemia and TLS (<a href=\"https://pubmed.ncbi.nlm.nih.gov/20713865/\" target=\"_blank\">Cortes et al. J Clin Oncol. 2010;28:4207-13</a>). The Committee noted the trial reported no difference in clinical TLS incidence between rasburicase and allopurinol treatment groups (3% vs 4% respectively), however a difference in laboratory TLS incidence was observed between rasburicase and allopurinol groups (21% vs 41% respectively, p=0.003) and a difference in plasma urate response rate was observed (87% vs 66% respectively).</p><p><span style=\"color: black;\">1.18.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that there was no published evidence to suggest that allopurinol-intolerant patients with an intermediate/high risk of TLS would preferably receive febuxostat over rasburicase. The Committee also considered that it was uncertain if patients treated with febuxostat would no longer receive rasburicase in their treatment course. </p><p><span style=\"color: black;\">1.19.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that as an oral formulation, febuxostat may be considered more suitable than an IV infusion of rasburicase, which requires a hospital visit for each treatment and is more expensive. However, members considered that patients at high TLS risk would likely have been admitted to hospital for induction chemotherapy at the time TLS prophylactic treatment was started, and therefore the suitability of a take-home oral tablet may be less of a factor for these patients. The Committee considered rasburicase to be the current alternative for those patients prospectively considered intolerant of allopurinol, that febuxostat has similar efficacy to allopurinol, and that febuxostat would be an appropriate alternative to the second line medicant rasburicase.</p><p><span style=\"color: black;\">1.20.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that in paediatrics, approximately two thirds of patients are prophylactically treated with allopurinol and the other third with rasburicase. The Committee considered that this practice would be unlikely to change if febuxostat were available.</p><p><span style=\"color: black;\">1.21.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that if patients received febuxostat instead of rasburicase, that a reduction in infusion resource may occur. However, the Committee reiterated that there was no evidence to suggest that patients would no longer receive rasburicase. The Committee considered that rasburicase would still be used as a rescue treatment in patients who develop TLS. </p><p><span style=\"color: black;\">1.22.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee recommended further advice be sought from cancer haematologists on CaTSoP on how to define the Special Authority criteria appropriately to ensure that the comparator would be intravenous rasburicase, in the setting of prophylaxis against TLS.\u00a0</p>",
+          "fs": "<p><span style=\"color: black;\">1.1.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that tumour lysis syndrome (TLS) is an infrequent but potentially severe complication of cancer therapy, usually chemotherapy, which occurs from the rapid and extensive lysis of cancer cells leading to the release of metabolites such as uric acid, phosphate and potassium into the extracellular space. The Committee noted that cell lysis can occur quickly following cancer treatment, particularly in high cell-dividing cancers, such as Burkitt\u2019s lymphoma, resulting in rapid and extremely high serum urate, hence there is a need for prophylaxis. The Committee noted that TLS can be a fatal side effect of cancer treatment or can result in complications including sepsis, acute kidney injury requiring dialysis and acute respiratory failure (<a href=\"https://pubmed.ncbi.nlm.nih.gov/28904174/\" target=\"_blank\">Durani et al. Oncologist. 2017;22:1506-9</a>). The Committee noted that TLS can be categorised into two groups \u2013 clinical TLS and laboratory TLS, as defined by the expert opinion-based Cairo-Bishop definitions (<a href=\"https://pubmed.ncbi.nlm.nih.gov/15384972/\" target=\"_blank\">Cairo and Bishop. Br J Haematol. 2004;127:3-11</a>).</p><p><span style=\"color: black;\">1.2.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that TLS risk is stratified by tumour type and burden, baseline renal function, baseline uric acid level, and chemotherapy agent received. The Committee noted that a number of haematologic cancers including acute lymphoblastic leukaemia, acute myeloid leukaemia and aggressive lymphoma carry intermediate to high risk of TLS. The Committee noted that while haematological malignancies are most commonly associated with TLS risk, solid tumours including neuroblastoma, germ cell tumours and small cell lung cancer are associated with an intermediate risk of TLS (<a href=\"https://pubmed.ncbi.nlm.nih.gov/31774551/\" target=\"_blank\">Durani et al. Br J Haematol. 2020;188:494-500</a>). </p><p><span style=\"color: black;\">1.3.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that currently patients undergoing cancer treatment with a low TLS risk are managed with hyperhydration, those with an intermediate/high risk are managed with allopurinol (treatment initiated two days prior to cancer treatment, for a total of approximately nine days), and those with particularly high TLS risk are managed with intravenous (IV) rasburicase (3 mg per day for approximately 3-5 days). The Committee noted that patients with an intermediate/high risk of TLS who are allopurinol-intolerant are often managed with IV rasburicase. </p><p><span style=\"color: black;\">1.4.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that while the incidence of TLS with currently available treatments is low, the health need of patients who develop TLS is high. The Committee noted a study, in which TLS-attributable mortality occurred in approximately 2% of patients with acute myeloid leukaemia, treated with intensive chemotherapy and receiving standard prophylactic measures such as hyperhydration and allopurinol (<a href=\"https://pubmed.ncbi.nlm.nih.gov/18166787/\" target=\"_blank\">Montesinos et al. Haematologica 2008;93:67-74</a>). </p><p><span style=\"color: black;\">1.5.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that in the context of gout, the available epidemiological evidence indicates that allopurinol-intolerance occurs in 3-10% of patients, with local estimates indicating a slightly lower rate of intolerance. The Committee considered an appropriate definition of allopurinol-intolerance in the context of TLS prevention should be \u201cdocumented intolerance to allopurinol\u201d, and that this would likely include patients who had previously been treated for gout. Members considered that this group would likely include patients who experienced a gout flare while on treatment and as such were classed as intolerant, despite true intolerance not being present. The Committee considered that oncologists may not confirm whether true allopurinol-intolerance exists when determining a TLS prophylactic treatment regimen. As such, the Committee considered that there may be the potential for some \u2018slippage\u2019 with diagnostic drift with this definition. However, due to the small patient numbers, this would likely be immaterial.</p><p><span style=\"color: black;\">1.6.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that M\u0101ori and Pacific people have a higher incidence of gout than non-M\u0101ori/non-Pacific and are therefore more likely to have had previous exposure to allopurinol and thus more likely to have experienced allopurinol-intolerance. The Committee noted that for the cancers that often categorise patients as high TLS risk, there are minimal differences in incidence according to ethnicity.</p><p><span style=\"color: black;\">1.7.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that there may be some cross reactivity between serious cutaneous adverse reactions associated with allopurinol and adverse reactions to febuxostat, but this would be in very small numbers. The Committee noted that allopurinol-hypersensitivity generally develops after 3-6 weeks of treatment, and therefore considered it would be unlikely patients would develop intolerance during the short treatment window for TLS prophylaxis. The Committee considered that a small number of patients may develop allopurinol intolerance once started on prophylactic treatment for TLS and that patients may be required to change to alternative treatment (which could include febuxostat). However, the Committee considered that if this were to occur it would be uncommon, and that most patients in this situation may receive rasburicase. </p><p><span style=\"color: black;\">1.8.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that people who carry the <span style=\"color: black;\">HLA-B*5801 allele are at particularly high risk of severe allopurinol adverse reactions. The Committee considered that while the genetic test for HLA-B*5801 is available in New Zealand, </span>it is not commonly used and would be unlikely to be utilised to confirm a high risk of allopurinol hypersensitivity in the event that funding for febuxostat for allopurinol-intolerant patients for TLS prophylaxis was progressed. </p><p><span style=\"color: black;\">1.9.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that the population of allopurinol-intolerant patients at an intermediate/high risk of TLS was difficult to quantify. The Committee further considered that it was difficult to determine what proportion of patients would then receive febuxostat, due to the uncertainty as to whether clinicians would opt to use febuxostat over rasburicase for TLS prophylaxis were febuxostat available for this. As such, the Committee considered that further advice from the cancer haematologists on CaTSoP would be useful to further define the size of this patient population.</p><p><span style=\"color: black;\">1.10.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that febuxostat is an oral 2-arylthiazole derivative that is a potent, non-purine selective inhibitor of both oxidised and reduced forms of xanthine oxidase, reducing uric acid levels, which is usually used for the long-term treatment of gout.<i> </i>The Committee noted that one of the approved Medsafe indications for febuxostat was the prevention and treatment of hyperuricaemia in adult patients undergoing chemotherapy for haematologic malignancies at intermediate to high risk of TLS. The Committee noted that the recommended oral dose of febuxostat for the prevention of TLS is 120 mg once daily, initiated two days before the beginning of cytotoxic therapy and continued for a minimum of 7 days; however, treatment may be prolonged up to 9 days according to chemotherapy duration as per clinical judgment (<a href=\"https://medsafe.govt.nz/profs/datasheet/a/adenurictab.pdf\" target=\"_blank\">Medsafe. 2019</a>).</p><p><span style=\"color: black;\">1.11.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted there have been reports of an association between the prolonged use of febuxostat and cardiovascular events. The Committee noted that these outcomes have been observed following a number of years on febuxostat and once treatment was discontinued. The Committee considered that this risk was immaterial for the indication under consideration (TLS prevention) due to the short duration of treatment. </p><p><span style=\"color: black;\">1.12.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that rasburicase is a recombinant urate-oxidase enzyme administered intravenously, which requires a hospital visit for administration. The Committee noted rasburicase is used prophylactically in patients with high TLS risk, in allopurinol-intolerant patients at an intermediate/high risk of TLS, as well as a rescue therapy in patients who develop TLS. The Committee noted that adverse events from rasburicase occur in approximately 10% of patients. The Committee noted that rasburicase is relatively expensive compared with both allopurinol and febuxostat. </p><p><span style=\"color: black;\">1.13.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that serum urate is used as a biomarker for the reduction of TLS in the literature. The Committee noted that, unlike with gout, there is no evidence-based target serum urate to reduce the risk of TLS. </p><p><span style=\"color: black;\">1.14.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted the results of the FLORENCE trial, a randomised double-blind phase III trial, which investigated the use of febuxostat or allopurinol in adult patients with haematologic malignancies at intermediate to high TLS risk grade (<a href=\"https://pubmed.ncbi.nlm.nih.gov/26216382/?from_single_result=Spina+et+al.+Annals+of+Oncol.+2015%253B26%253A2155-2161.&amp;expanded_search_query=Spina+et+al.+Annals+of+Oncol.+2015%253B26%253A2155-2161.\" target=\"_blank\">Spina et al. Ann Oncol. 2015;26:2155-61</a>). The Committee noted that patients were treated with allopurinol 200 mg, 300 mg or 600 mg based on investigator\u2019s choice, or 120 mg febuxostat, initiated two days prior to chemotherapy and continued for 7-9 days. The Committee noted that the study stated all patients received hydration therapy; however, this was not controlled or documented between groups. The Committee noted that the study population was predominantly European, had low baseline uric acid and had a relatively low incidence of laboratory and clinical TLS compared with other studies. The Committee noted that the mean serum urate area under the curve (AUC) was significantly less for febuxostat than for allopurinol (514.0 vs 708.0; p&lt;0.0001), and that there was no statistically significant difference observed for serum creatinine, treatment responder rate or the incidence of laboratory TLS and clinical TLS. The Committee noted that the reported adverse events were similar between allopurinol and febuxostat groups.</p><p><span style=\"color: black;\">1.15.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted the results of the Bellos et al. meta-analysis that analysed four studies investigating the use of febuxostat for the prevention of TLS in children and adults with a range of malignancies (<a href=\"https://pubmed.ncbi.nlm.nih.gov/30972811/\" target=\"_blank\">Bellos et al. J Clin Pharm Therap. 2019</a>). The Committee noted that the results of the meta-analysis reported that, compared to allopurinol, febuxostat achieved a similar tumour lysis syndrome incidence (odd ratio (OR): 1.01, 95% confidence interval (CI):0.56-1.81), responder rate (OR: 1.39, 95% CI: 0.55-3.51) and serum urate levels (mean difference: -0.21 mg/dL, 95% CI: -1.30-0.88). </p><p><span style=\"color: black;\">1.16.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that when considering the dosages of allopurinol and febuxostat, it was likely that even 80 mg febuxostat would reduce serum urate levels more than allopurinol. However, the Committee considered that a 120 mg dose would be appropriate in the setting of intermediate-high TLS risk.</p><p><span style=\"color: black;\">1.17.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted the results of a phase III study investigating rasburicase 0.2 mg/kg verses allopurinol 300 mg in adults with haematologic malignancies at risk for hyperuricemia and TLS (<a href=\"https://pubmed.ncbi.nlm.nih.gov/20713865/\" target=\"_blank\">Cortes et al. J Clin Oncol. 2010;28:4207-13</a>). The Committee noted the trial reported no difference in clinical TLS incidence between rasburicase and allopurinol treatment groups (3% vs 4% respectively), however a difference in laboratory TLS incidence was observed between rasburicase and allopurinol groups (21% vs 41% respectively, p=0.003) and a difference in plasma urate response rate was observed (87% vs 66% respectively).</p><p><span style=\"color: black;\">1.18.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that there was no published evidence to suggest that allopurinol-intolerant patients with an intermediate/high risk of TLS would preferably receive febuxostat over rasburicase. The Committee also considered that it was uncertain if patients treated with febuxostat would no longer receive rasburicase in their treatment course. </p><p><span style=\"color: black;\">1.19.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that as an oral formulation, febuxostat may be considered more suitable than an IV infusion of rasburicase, which requires a hospital visit for each treatment and is more expensive. However, members considered that patients at high TLS risk would likely have been admitted to hospital for induction chemotherapy at the time TLS prophylactic treatment was started, and therefore the suitability of a take-home oral tablet may be less of a factor for these patients. The Committee considered rasburicase to be the current alternative for those patients prospectively considered intolerant of allopurinol, that febuxostat has similar efficacy to allopurinol, and that febuxostat would be an appropriate alternative to the second line medicant rasburicase.</p><p><span style=\"color: black;\">1.20.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that in paediatrics, approximately two thirds of patients are prophylactically treated with allopurinol and the other third with rasburicase. The Committee considered that this practice would be unlikely to change if febuxostat were available.</p><p><span style=\"color: black;\">1.21.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that if patients received febuxostat instead of rasburicase, that a reduction in infusion resource may occur. However, the Committee reiterated that there was no evidence to suggest that patients would no longer receive rasburicase. The Committee considered that rasburicase would still be used as a rescue treatment in patients who develop TLS. </p><p><span style=\"color: black;\">1.22.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee recommended further advice be sought from cancer haematologists on CaTSoP on how to define the Special Authority criteria appropriately to ensure that the comparator would be intravenous rasburicase, in the setting of prophylaxis against TLS.\u00a0</p>",
+          "change": null
+        },
+        "Published_Application": {
+          "s": "<p><span style=\"color: black;\">1.1.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee reviewed the application to widen access to febuxostat for the prevention of tumour lysis syndrome in allopurinol-intolerant patients scheduled to receive cancer therapy that carries an intermediate or high tumour lysis syndrome risk. </p><p><span style=\"color: black;\">1.2.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee took into account, where applicable, PHARMAC\u2019s relevant decision-making framework when considering this agenda item.\u00a0</p>",
+          "fs": "<p><span style=\"color: black;\">1.1.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee reviewed the application to widen access to febuxostat for the prevention of tumour lysis syndrome in allopurinol-intolerant patients scheduled to receive cancer therapy that carries an intermediate or high tumour lysis syndrome risk. </p><p><span style=\"color: black;\">1.2.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee took into account, where applicable, PHARMAC\u2019s relevant decision-making framework when considering this agenda item.\u00a0</p>",
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": "High",
+          "fs": "High",
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Aug 2020",
+          "fs": "Aug 2020",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Clinical advice received from Pharmacology and Therapeutics Advisory Committee (PTAC) at meeting Thursday 18 June 2020.",
+          "fs": "Clinical advice received from Pharmacology and Therapeutics Advisory Committee (PTAC) at meeting Thursday 18 June 2020.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P000004vvuFUAQ"
+          },
+          "Id": "a0P2P000004vvuFUAQ",
+          "Event_Date__c": "2020-08-14",
+          "Event_Description__c": "Clinical advice received from Pharmacology and Therapeutics Advisory Committee (PTAC) at meeting Thursday 18 June 2020.",
+          "Stage__c": "Seeking Clinical Advice",
+          "Outcome__c": "High",
+          "Formatted_Date__c": "Aug 2020",
+          "Published_Recommendation__c": "<p><span style=\"color: black;\">1.1.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee <b>recommended</b> that access to febuxostat for the prevention of tumour lysis syndrome in allopurinol-intolerant patients scheduled to receive cancer therapy that carries an intermediate or high tumour lysis syndrome risk be widened with a high priority due to:</p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The high health need of patients who develop tumour lysis syndrome </p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The similar efficacy between allopurinol and febuxostat </p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>Oral febuxostat being a more suitable alternative for those intolerant of allopurinol than intravenous rasburicase, the current allopurinol alternative </p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The favourable cost differential between febuxostat and rasburicase</p><p><span style=\"color: black;\">1.2.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that PHARMAC could seek subsequent advice from cancer haematologists on the Cancer Treatments Subcommittee (CaTSoP) regarding the size of the patient population and how to define the Special Authority criteria appropriately, to inform the economic analysis.</p>",
+          "Published_Application__c": "<p><span style=\"color: black;\">1.1.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee reviewed the application to widen access to febuxostat for the prevention of tumour lysis syndrome in allopurinol-intolerant patients scheduled to receive cancer therapy that carries an intermediate or high tumour lysis syndrome risk. </p><p><span style=\"color: black;\">1.2.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee took into account, where applicable, PHARMAC\u2019s relevant decision-making framework when considering this agenda item.\u00a0</p>",
+          "Published_Discussion__c": "<p><span style=\"color: black;\">1.1.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that tumour lysis syndrome (TLS) is an infrequent but potentially severe complication of cancer therapy, usually chemotherapy, which occurs from the rapid and extensive lysis of cancer cells leading to the release of metabolites such as uric acid, phosphate and potassium into the extracellular space. The Committee noted that cell lysis can occur quickly following cancer treatment, particularly in high cell-dividing cancers, such as Burkitt\u2019s lymphoma, resulting in rapid and extremely high serum urate, hence there is a need for prophylaxis. The Committee noted that TLS can be a fatal side effect of cancer treatment or can result in complications including sepsis, acute kidney injury requiring dialysis and acute respiratory failure (<a href=\"https://pubmed.ncbi.nlm.nih.gov/28904174/\" target=\"_blank\">Durani et al. Oncologist. 2017;22:1506-9</a>). The Committee noted that TLS can be categorised into two groups \u2013 clinical TLS and laboratory TLS, as defined by the expert opinion-based Cairo-Bishop definitions (<a href=\"https://pubmed.ncbi.nlm.nih.gov/15384972/\" target=\"_blank\">Cairo and Bishop. Br J Haematol. 2004;127:3-11</a>).</p><p><span style=\"color: black;\">1.2.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that TLS risk is stratified by tumour type and burden, baseline renal function, baseline uric acid level, and chemotherapy agent received. The Committee noted that a number of haematologic cancers including acute lymphoblastic leukaemia, acute myeloid leukaemia and aggressive lymphoma carry intermediate to high risk of TLS. The Committee noted that while haematological malignancies are most commonly associated with TLS risk, solid tumours including neuroblastoma, germ cell tumours and small cell lung cancer are associated with an intermediate risk of TLS (<a href=\"https://pubmed.ncbi.nlm.nih.gov/31774551/\" target=\"_blank\">Durani et al. Br J Haematol. 2020;188:494-500</a>). </p><p><span style=\"color: black;\">1.3.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that currently patients undergoing cancer treatment with a low TLS risk are managed with hyperhydration, those with an intermediate/high risk are managed with allopurinol (treatment initiated two days prior to cancer treatment, for a total of approximately nine days), and those with particularly high TLS risk are managed with intravenous (IV) rasburicase (3 mg per day for approximately 3-5 days). The Committee noted that patients with an intermediate/high risk of TLS who are allopurinol-intolerant are often managed with IV rasburicase. </p><p><span style=\"color: black;\">1.4.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that while the incidence of TLS with currently available treatments is low, the health need of patients who develop TLS is high. The Committee noted a study, in which TLS-attributable mortality occurred in approximately 2% of patients with acute myeloid leukaemia, treated with intensive chemotherapy and receiving standard prophylactic measures such as hyperhydration and allopurinol (<a href=\"https://pubmed.ncbi.nlm.nih.gov/18166787/\" target=\"_blank\">Montesinos et al. Haematologica 2008;93:67-74</a>). </p><p><span style=\"color: black;\">1.5.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that in the context of gout, the available epidemiological evidence indicates that allopurinol-intolerance occurs in 3-10% of patients, with local estimates indicating a slightly lower rate of intolerance. The Committee considered an appropriate definition of allopurinol-intolerance in the context of TLS prevention should be \u201cdocumented intolerance to allopurinol\u201d, and that this would likely include patients who had previously been treated for gout. Members considered that this group would likely include patients who experienced a gout flare while on treatment and as such were classed as intolerant, despite true intolerance not being present. The Committee considered that oncologists may not confirm whether true allopurinol-intolerance exists when determining a TLS prophylactic treatment regimen. As such, the Committee considered that there may be the potential for some \u2018slippage\u2019 with diagnostic drift with this definition. However, due to the small patient numbers, this would likely be immaterial.</p><p><span style=\"color: black;\">1.6.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that M\u0101ori and Pacific people have a higher incidence of gout than non-M\u0101ori/non-Pacific and are therefore more likely to have had previous exposure to allopurinol and thus more likely to have experienced allopurinol-intolerance. The Committee noted that for the cancers that often categorise patients as high TLS risk, there are minimal differences in incidence according to ethnicity.</p><p><span style=\"color: black;\">1.7.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that there may be some cross reactivity between serious cutaneous adverse reactions associated with allopurinol and adverse reactions to febuxostat, but this would be in very small numbers. The Committee noted that allopurinol-hypersensitivity generally develops after 3-6 weeks of treatment, and therefore considered it would be unlikely patients would develop intolerance during the short treatment window for TLS prophylaxis. The Committee considered that a small number of patients may develop allopurinol intolerance once started on prophylactic treatment for TLS and that patients may be required to change to alternative treatment (which could include febuxostat). However, the Committee considered that if this were to occur it would be uncommon, and that most patients in this situation may receive rasburicase. </p><p><span style=\"color: black;\">1.8.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that people who carry the <span style=\"color: black;\">HLA-B*5801 allele are at particularly high risk of severe allopurinol adverse reactions. The Committee considered that while the genetic test for HLA-B*5801 is available in New Zealand, </span>it is not commonly used and would be unlikely to be utilised to confirm a high risk of allopurinol hypersensitivity in the event that funding for febuxostat for allopurinol-intolerant patients for TLS prophylaxis was progressed. </p><p><span style=\"color: black;\">1.9.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that the population of allopurinol-intolerant patients at an intermediate/high risk of TLS was difficult to quantify. The Committee further considered that it was difficult to determine what proportion of patients would then receive febuxostat, due to the uncertainty as to whether clinicians would opt to use febuxostat over rasburicase for TLS prophylaxis were febuxostat available for this. As such, the Committee considered that further advice from the cancer haematologists on CaTSoP would be useful to further define the size of this patient population.</p><p><span style=\"color: black;\">1.10.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that febuxostat is an oral 2-arylthiazole derivative that is a potent, non-purine selective inhibitor of both oxidised and reduced forms of xanthine oxidase, reducing uric acid levels, which is usually used for the long-term treatment of gout.<i> </i>The Committee noted that one of the approved Medsafe indications for febuxostat was the prevention and treatment of hyperuricaemia in adult patients undergoing chemotherapy for haematologic malignancies at intermediate to high risk of TLS. The Committee noted that the recommended oral dose of febuxostat for the prevention of TLS is 120 mg once daily, initiated two days before the beginning of cytotoxic therapy and continued for a minimum of 7 days; however, treatment may be prolonged up to 9 days according to chemotherapy duration as per clinical judgment (<a href=\"https://medsafe.govt.nz/profs/datasheet/a/adenurictab.pdf\" target=\"_blank\">Medsafe. 2019</a>).</p><p><span style=\"color: black;\">1.11.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted there have been reports of an association between the prolonged use of febuxostat and cardiovascular events. The Committee noted that these outcomes have been observed following a number of years on febuxostat and once treatment was discontinued. The Committee considered that this risk was immaterial for the indication under consideration (TLS prevention) due to the short duration of treatment. </p><p><span style=\"color: black;\">1.12.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that rasburicase is a recombinant urate-oxidase enzyme administered intravenously, which requires a hospital visit for administration. The Committee noted rasburicase is used prophylactically in patients with high TLS risk, in allopurinol-intolerant patients at an intermediate/high risk of TLS, as well as a rescue therapy in patients who develop TLS. The Committee noted that adverse events from rasburicase occur in approximately 10% of patients. The Committee noted that rasburicase is relatively expensive compared with both allopurinol and febuxostat. </p><p><span style=\"color: black;\">1.13.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that serum urate is used as a biomarker for the reduction of TLS in the literature. The Committee noted that, unlike with gout, there is no evidence-based target serum urate to reduce the risk of TLS. </p><p><span style=\"color: black;\">1.14.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted the results of the FLORENCE trial, a randomised double-blind phase III trial, which investigated the use of febuxostat or allopurinol in adult patients with haematologic malignancies at intermediate to high TLS risk grade (<a href=\"https://pubmed.ncbi.nlm.nih.gov/26216382/?from_single_result=Spina+et+al.+Annals+of+Oncol.+2015%253B26%253A2155-2161.&amp;expanded_search_query=Spina+et+al.+Annals+of+Oncol.+2015%253B26%253A2155-2161.\" target=\"_blank\">Spina et al. Ann Oncol. 2015;26:2155-61</a>). The Committee noted that patients were treated with allopurinol 200 mg, 300 mg or 600 mg based on investigator\u2019s choice, or 120 mg febuxostat, initiated two days prior to chemotherapy and continued for 7-9 days. The Committee noted that the study stated all patients received hydration therapy; however, this was not controlled or documented between groups. The Committee noted that the study population was predominantly European, had low baseline uric acid and had a relatively low incidence of laboratory and clinical TLS compared with other studies. The Committee noted that the mean serum urate area under the curve (AUC) was significantly less for febuxostat than for allopurinol (514.0 vs 708.0; p&lt;0.0001), and that there was no statistically significant difference observed for serum creatinine, treatment responder rate or the incidence of laboratory TLS and clinical TLS. The Committee noted that the reported adverse events were similar between allopurinol and febuxostat groups.</p><p><span style=\"color: black;\">1.15.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted the results of the Bellos et al. meta-analysis that analysed four studies investigating the use of febuxostat for the prevention of TLS in children and adults with a range of malignancies (<a href=\"https://pubmed.ncbi.nlm.nih.gov/30972811/\" target=\"_blank\">Bellos et al. J Clin Pharm Therap. 2019</a>). The Committee noted that the results of the meta-analysis reported that, compared to allopurinol, febuxostat achieved a similar tumour lysis syndrome incidence (odd ratio (OR): 1.01, 95% confidence interval (CI):0.56-1.81), responder rate (OR: 1.39, 95% CI: 0.55-3.51) and serum urate levels (mean difference: -0.21 mg/dL, 95% CI: -1.30-0.88). </p><p><span style=\"color: black;\">1.16.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that when considering the dosages of allopurinol and febuxostat, it was likely that even 80 mg febuxostat would reduce serum urate levels more than allopurinol. However, the Committee considered that a 120 mg dose would be appropriate in the setting of intermediate-high TLS risk.</p><p><span style=\"color: black;\">1.17.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted the results of a phase III study investigating rasburicase 0.2 mg/kg verses allopurinol 300 mg in adults with haematologic malignancies at risk for hyperuricemia and TLS (<a href=\"https://pubmed.ncbi.nlm.nih.gov/20713865/\" target=\"_blank\">Cortes et al. J Clin Oncol. 2010;28:4207-13</a>). The Committee noted the trial reported no difference in clinical TLS incidence between rasburicase and allopurinol treatment groups (3% vs 4% respectively), however a difference in laboratory TLS incidence was observed between rasburicase and allopurinol groups (21% vs 41% respectively, p=0.003) and a difference in plasma urate response rate was observed (87% vs 66% respectively).</p><p><span style=\"color: black;\">1.18.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that there was no published evidence to suggest that allopurinol-intolerant patients with an intermediate/high risk of TLS would preferably receive febuxostat over rasburicase. The Committee also considered that it was uncertain if patients treated with febuxostat would no longer receive rasburicase in their treatment course. </p><p><span style=\"color: black;\">1.19.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that as an oral formulation, febuxostat may be considered more suitable than an IV infusion of rasburicase, which requires a hospital visit for each treatment and is more expensive. However, members considered that patients at high TLS risk would likely have been admitted to hospital for induction chemotherapy at the time TLS prophylactic treatment was started, and therefore the suitability of a take-home oral tablet may be less of a factor for these patients. The Committee considered rasburicase to be the current alternative for those patients prospectively considered intolerant of allopurinol, that febuxostat has similar efficacy to allopurinol, and that febuxostat would be an appropriate alternative to the second line medicant rasburicase.</p><p><span style=\"color: black;\">1.20.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that in paediatrics, approximately two thirds of patients are prophylactically treated with allopurinol and the other third with rasburicase. The Committee considered that this practice would be unlikely to change if febuxostat were available.</p><p><span style=\"color: black;\">1.21.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that if patients received febuxostat instead of rasburicase, that a reduction in infusion resource may occur. However, the Committee reiterated that there was no evidence to suggest that patients would no longer receive rasburicase. The Committee considered that rasburicase would still be used as a rescue treatment in patients who develop TLS. </p><p><span style=\"color: black;\">1.22.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee recommended further advice be sought from cancer haematologists on CaTSoP on how to define the Special Authority criteria appropriately to ensure that the comparator would be intravenous rasburicase, in the setting of prophylaxis against TLS.\u00a0</p>",
+          "Status_History__c": "a132P000000C2ZYQA0"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Mar 2020",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Following Clinical Advice, Pharmac staff considers the advice and the funding application under goes an assessment using our&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/factors-for-consideration/\" rel=\"nofollow\">Factors for Consideration</a>&nbsp;framework and seeks additional information as required.</p>\r\n<p>&nbsp;</p>\r\n<p>Research and Economic analysis are undertaken.&nbsp; This focuses on the costs and benefits of a proposed course of action. Economics is based on three fundamental concepts that summarise the issues Pharmac faces daily:&nbsp;</p>\r\n<ul>\r\n<li>Scarcity &ndash; resources will always be insufficient to support all possible activities.</li>\r\n<li>Choices &ndash; due to scarce resources, decisions must be made about how best to use them.</li>\r\n<li>Opportunity cost &ndash; by choosing to use resources one way, we forgo other opportunities to use the same resources.</li>\r\n</ul>\r\n<p>&nbsp;</p>\r\n<p>For further information on the purpose of, and techniques for, undertaking economic analysis in health care, please refer&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/economic-analysis/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/economic-analysis/</a></p>",
+    "position": 2,
+    "name": "Under Assessment",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Aug 2020",
+          "fs": "Aug 2020",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Working to compare options",
+          "fs": "Working to compare options",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P000004vvuGUAQ"
+          },
+          "Id": "a0P2P000004vvuGUAQ",
+          "Event_Date__c": "2020-08-14",
+          "Event_Description__c": "Working to compare options",
+          "Stage__c": "Under Assessment",
+          "Formatted_Date__c": "Aug 2020",
+          "Status_History__c": "a132P000000C2ZZQA0"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Aug 2020",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Pharmac staff uses a prioritisation process to compare and rank funding options. Possible opportunities for new investment will always exceed the budget Pharmac has available; therefore, prioritisation is an intrinsic part of Pharmac\u2019s decision-making process.</p>\r\n<p>The relative ranking of options aims to support Pharmac&rsquo;s statutory objective &ldquo;to secure for eligible people in need of pharmaceuticals, the best health outcomes that are reasonably achievable from pharmaceutical treatment and from within the amount of funding provided&rdquo;.</p>\r\n<p>A funding application or proposal is considered ready for prioritisation when sufficient information is available to permit it to be reviewed against Pharmac's Factors for Consideration and to inform a comparison with other possible investment decisions.</p>\r\n<p>There is no guarantee when or if a ranked medicine will be funded.&nbsp;&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/prioritisation/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/prioritisation/</a></p>",
+    "position": 3,
+    "name": "Options Compared",
+    "last": false,
+    "events": null,
+    "dateString": null,
+    "collapsed": false,
+    "checked": false
+  },
+  {
+    "text": "<p>Pharmac is consulting on a proposal to either approve or decline the application.&nbsp;We seek the views of all people who have an interest in our proposals, or who may be affected by them, to obtain feedback on our proposed approaches.</p>\r\n<p><a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/having-your-say/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/having-your-say/</a></p>",
+    "position": 4,
+    "name": "Under Consultation",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": "https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/consultation-2020-12-07-febuxostat/",
+          "fs": "https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/consultation-2020-12-07-febuxostat/",
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Dec 2020",
+          "fs": "Dec 2020",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Public consultation for this application is active.",
+          "fs": "Public consultation for this application is active.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P000004vvuHUAQ"
+          },
+          "Id": "a0P2P000004vvuHUAQ",
+          "Event_Date__c": "2020-12-08",
+          "Event_Description__c": "Public consultation for this application is active.",
+          "Stage__c": "Under Consultation",
+          "Summary__c": "https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/consultation-2020-12-07-febuxostat/",
+          "Formatted_Date__c": "Dec 2020",
+          "Status_History__c": "a132P000000CQPXQA4"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Dec 2020",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Following the consultation process, Pharmac staff considers the feedback and identifies any additional information required as part of a gap analysis.&nbsp; The proposal may require further clinical advice, research, and assessment.</p>",
+    "position": 5,
+    "name": "Reviewing Consultation Feedback",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Apr 2021",
+          "fs": "Apr 2021",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Public consultation for this application is now closed. Pharmac is reviewing consultation feedback.",
+          "fs": "Public consultation for this application is now closed. Pharmac is reviewing consultation feedback.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P000004vvuJUAQ"
+          },
+          "Id": "a0P2P000004vvuJUAQ",
+          "Event_Date__c": "2021-04-13",
+          "Event_Description__c": "Public consultation for this application is now closed. Pharmac is reviewing consultation feedback.",
+          "Stage__c": "Reviewing Consultation Feedback",
+          "Formatted_Date__c": "Apr 2021",
+          "Status_History__c": "a132P000000ClCiQAK"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Apr 2021",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>We refer to our decisions about whether and how particular pharmaceuticals are publicly-funded, as &ldquo;funding decisions&rdquo;.</p>\r\n<p>We consider and assess all funding decisions using the&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/about/operating-policies-and-procedures/#factorsfc\" rel=\"nofollow\">Factors for Consideration</a>. When we do so, we carefully evaluate clinical and other evidence for the benefits and suitability of a proposal, and to identify and understand the people who will be affected by it.</p>\r\n<p>While our main task is to allocate pharmaceutical funding, we consider the benefits and costs across the whole health system now and with a long-term focus, including the effects for hospitals and primary care, and consider direct costs to patients as well as to all health sector budgets.</p>\r\n<p>Final funding decisions are made by the Pharmac Board or delegated to senior Pharmac staff as required by the Board.</p>\r\n<p>&nbsp;</p>",
+    "position": 6,
+    "name": "Decision",
+    "last": true,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": "<p><a href=\"https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/decision-2021-01-14-febuxostat/\" target=\"_blank\">Notification Letter</a></p>",
+          "fs": "<p><a href=\"https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/decision-2021-01-14-febuxostat/\" target=\"_blank\">Notification Letter</a></p>",
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Apr 2021",
+          "fs": "Apr 2021",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "The funding application has been approved.",
+          "fs": "The funding application has been approved.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P000004vvuIUAQ"
+          },
+          "Id": "a0P2P000004vvuIUAQ",
+          "Event_Date__c": "2021-04-13",
+          "Event_Description__c": "The funding application has been approved.",
+          "Stage__c": "Decision",
+          "Links__c": "<p><a href=\"https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/decision-2021-01-14-febuxostat/\" target=\"_blank\">Notification Letter</a></p>",
+          "Formatted_Date__c": "Apr 2021",
+          "Status_History__c": "a132P000000ClCdQAK"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Apr 2021",
+    "collapsed": false,
+    "checked": true
+  }
+]

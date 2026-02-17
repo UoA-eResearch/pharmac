@@ -1,0 +1,687 @@
+[
+  {
+    "text": "<p>New funding applications are referred to one of Pharmac's Funding Application Advisors (FAAs), who'll review the application to ensure they have the relevant information to undertake a preliminary analysis.&nbsp; They may seek more information if required.</p>\r\n<p><a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/new-funding-applications/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/new-funding-applications/</a></p>",
+    "position": 0,
+    "name": "Application Received",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Apr 2019",
+          "fs": "Apr 2019",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Application received",
+          "fs": "Application received",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P000006PuTuUAK"
+          },
+          "Id": "a0P2P000006PuTuUAK",
+          "Event_Date__c": "2019-04-24",
+          "Event_Description__c": "Application received",
+          "Stage__c": "Application Received",
+          "Formatted_Date__c": "Apr 2019",
+          "Status_History__c": "a132P000000ArelQAC"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Apr 2019",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Pharmac is identifying and gathering information required to get clinical advice.  The <a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/pharmacology-and-therapeutics-advisory-committee-ptac/\" rel=\"nofollow\">Pharmacology and Therapeutics Advisory Committee (PTAC)</a>  meets quarterly. There are also around 20 expert <a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/specialist-advisory-committees/\" rel=\"nofollow\">Specialist Advisory Committees (SACs)</a>, previously expert Subcommittees, which provide clinical evaluations in specialist areas. Specialist Advisory Committees meet as required to discuss issues referred to them by PTAC or Pharmac.</p>\n<p style=\"height: 20px\">&nbsp;</p>\n<p>In November 2021, we introduced separate terms of reference for the SACs to make clear that these committees have different, but complementary, roles, expertise and perspectives to PTAC.</p>\n<p style=\"height: 15px\">&nbsp;</p>\n<p>PTAC and SACs may make recommendations to Pharmac that differ from each other when looking at the same evidence. Pharmac considers the recommendations provided by all our clinical advisory committees when assessing applications.</p>\n<p style=\"height: 20px\">&nbsp;</p>\n<p><a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/pharmacology-and-therapeutics-advisory-committee-ptac/ptac-terms-of-reference-july-2021/\" rel=\"nofollow\">PTAC</a>  and <a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/specialist-advisory-committees/specialist-advisory-committee-terms-of-reference//\" rel=\"nofollow\">Specialist Advisory Committees</a> records of the meeting will be published on this website in accordance with the Terms of Reference.</p>",
+    "position": 1,
+    "name": "Seeking Clinical Advice",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "May 2019",
+          "fs": "May 2019",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Clinical advice required",
+          "fs": "Clinical advice required",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P000006PuTvUAK"
+          },
+          "Id": "a0P2P000006PuTvUAK",
+          "Event_Date__c": "2019-05-01",
+          "Event_Description__c": "Clinical advice required",
+          "Stage__c": "Seeking Clinical Advice",
+          "Formatted_Date__c": "May 2019",
+          "Status_History__c": "a132P000000Arf3QAC"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": "<p style=\"text-align: justify;\"><span style=\"color: black;\">1.1.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee <b>recommended</b> that application for pharmacist influenza vaccination of people with serious mental health conditions or addiction be declined. The Subcommittee considered that there was insufficient evidence demonstrating that this group is at increased risk of influenza and that there was insufficient evidence that this group would be more likely to be vaccinated in a pharmacy than general practice.\u00a0</p><p><br></p>",
+          "fs": "<p style=\"text-align: justify;\"><span style=\"color: black;\">1.1.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee <b>recommended</b> that application for pharmacist influenza vaccination of people with serious mental health conditions or addiction be declined. The Subcommittee considered that there was insufficient evidence demonstrating that this group is at increased risk of influenza and that there was insufficient evidence that this group would be more likely to be vaccinated in a pharmacy than general practice.\u00a0</p><p><br></p>",
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": "<p style=\"text-align: justify;\"><span style=\"color: black;\">1.1.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that it has considered a number of applications for different types of influenza vaccines at several meetings over the last two years. The Subcommittee noted that this application did not extensively define \u201cserious mental health conditions\u201d but used a proxy of people who are prescribed clozapine. The Subcommittee noted that people with serious mental health conditions or addiction are not currently eligible for funded influenza vaccination in the community, although patients in long-stay inpatient mental health care units or who are compulsorily detained long-term in a forensic unit within a DHB hospital are eligible due to increased risk of infection.</p><p style=\"text-align: justify;\"><span style=\"color: black;\">1.2.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that only about 28% percent of the total population receives influenza vaccine annually. Current coverage for eligible people under 65 years of age with comorbidities is less than 50% and funded coverage for people over 65 years of age is 57%. The Subcommittee noted that pregnant women and people over 65 years of age can currently receive funded influenza vaccine in a community pharmacy. The Subcommittee considered that coverage of both target groups and the general population is low and that vaccinations given by occupational health nurses, which may not be recorded in the National Immunisation Register, is unlikely to account for much more coverage of the under 65 age group with comorbidities.</p><p style=\"text-align: justify;\"><span style=\"color: black;\">1.3.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that community opioid treatment services (OTS) are provided through community alcohol and drug services (CADS). Typically patients would have daily to weekly pharmacist contact. CADS generally encourage GP shared care with 3 monthly visits. Engagement with GPs varies across the country, with estimates of 40% shared care in Auckland and 20% in Wellington.</p><p style=\"text-align: justify;\"><span style=\"color: black;\">1.4.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that clozapine is prescribed for treatment-resistant schizophrenia. Patients taking clozapine should be monitored for symptoms and signs of cardiac toxicity, neutropenia and constipation. Regular blood tests are mandatory to detect blood dyscrasias and for continued supply of the medicine. Pharmacists have a role in this monitoring, ensuring that the blood test has been had within three days of the medicine being dispensed. In this way, patients are very engaged with community pharmacy, but less likely to be engaged with their GP as they would typically be managed by secondary services. The Subcommittee noted that there were approximately 4,300 patients prescribed clozapine in 2016. Approximately 600 pharmacies are approved to administer influenza vaccine, but only approximately 400 of these are actively administering influenza vaccine each season.</p><p style=\"text-align: justify;\"><span style=\"color: black;\">1.5.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted a number of studies and papers provided with the application, including:</p><p style=\"text-align: justify;\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://doi.org/10.1016/j.vaccine.2015.06.080\" target=\"_blank\">Khieu et al. Vaccine 2015;33:4087-92</a></p><p style=\"text-align: justify;\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://doi.org/10.1016/j.jinf.2017.05.017\" target=\"_blank\">Khieu et al. J Infect 2017;75:225-33</a></p><p style=\"text-align: justify;\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://mentalhealth.inquiry.govt.nz/assets/Summary-reports/He-Ara-Oranga.pdf\" target=\"_blank\">He-Ara-Oranga: Report of the Government Inquiry into Mental Health and Addiction (Nov 2018)</a> (Appendix 2)</p><p style=\"text-align: justify;\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://doi.org/10.2190%2FPM.46.1.a\" target=\"_blank\">Lorenz et al. Int J Psychiatry Med 2013;46:1-3</a></p><p style=\"text-align: justify;\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://doi.org/10.1016/j.apnu.2011.09.002\" target=\"_blank\">Happell et al.\u00a0Arch Psychiatr Nurs 2012;26:192-201</a></p><p style=\"text-align: justify;\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://www.nzma.org.nz/__data/assets/pdf_file/0008/34658/content.pdf\" target=\"_blank\">Cunningham et al. NZMJ 2014;127:31-41</a></p><p style=\"text-align: justify;\"><span style=\"color: black;\">1.6.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee considered that the evidence provided by the applicant did not show that there is an increased rate of influenza cases in people with schizophrenia or addiction, or that people with serious mental health disorders or addiction have reduced interactions with primary care. However, they are more likely to have increase co-morbidities such as COPD, respiratory disease and ischaemic heart disease. The Subcommittee considered that people with low socioeconomic status have increased rates of influenza and a higher burden of disease.</p><p style=\"text-align: justify;\"><span style=\"color: black;\">1.7.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that pharmacists can currently vaccinate people over 65 years of age and pregnant women. There may be a gain in equity of access if pharmacists were able to administer influenza vaccine to people under 65 years of age with comorbidities. The Subcommittee considered that there would be a number of potential implementation issues to address if pharmacists were to vaccinate people under 65 years of age with comorbidities, as pharmacists do not have access to patient healthcare records and will not easily be able to confirm the patient\u2019s eligibility.</p><p><span style=\"color: black;\">1.8.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that the influenza vaccine applications it had previously considered included earlier access before 65 years of age for M\u0101ori and Pacific People, and universal childhood vaccination.</p><p><span style=\"color: black;\">1.9.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee considered that the funded groups for influenza vaccine differ across countries. The Subcommittee considered that it should review the currently funded groups for influenza vaccine and consider options for widened access at a future meeting. </p><p style=\"text-align: justify;\"><span style=\"color: black;\">1.10.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0</span>The Subcommittee considered that the evidence provided by the applicant did not demonstrate a health benefit from administering influenza vaccine in pharmacy for people with serious mental health disorders or opioid addiction. The Subcommittee considered that it should discuss pharmacy vaccination for people under 65 years of age with chronic health conditions at a future meeting.\u00a0</p>",
+          "fs": "<p style=\"text-align: justify;\"><span style=\"color: black;\">1.1.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that it has considered a number of applications for different types of influenza vaccines at several meetings over the last two years. The Subcommittee noted that this application did not extensively define \u201cserious mental health conditions\u201d but used a proxy of people who are prescribed clozapine. The Subcommittee noted that people with serious mental health conditions or addiction are not currently eligible for funded influenza vaccination in the community, although patients in long-stay inpatient mental health care units or who are compulsorily detained long-term in a forensic unit within a DHB hospital are eligible due to increased risk of infection.</p><p style=\"text-align: justify;\"><span style=\"color: black;\">1.2.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that only about 28% percent of the total population receives influenza vaccine annually. Current coverage for eligible people under 65 years of age with comorbidities is less than 50% and funded coverage for people over 65 years of age is 57%. The Subcommittee noted that pregnant women and people over 65 years of age can currently receive funded influenza vaccine in a community pharmacy. The Subcommittee considered that coverage of both target groups and the general population is low and that vaccinations given by occupational health nurses, which may not be recorded in the National Immunisation Register, is unlikely to account for much more coverage of the under 65 age group with comorbidities.</p><p style=\"text-align: justify;\"><span style=\"color: black;\">1.3.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that community opioid treatment services (OTS) are provided through community alcohol and drug services (CADS). Typically patients would have daily to weekly pharmacist contact. CADS generally encourage GP shared care with 3 monthly visits. Engagement with GPs varies across the country, with estimates of 40% shared care in Auckland and 20% in Wellington.</p><p style=\"text-align: justify;\"><span style=\"color: black;\">1.4.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that clozapine is prescribed for treatment-resistant schizophrenia. Patients taking clozapine should be monitored for symptoms and signs of cardiac toxicity, neutropenia and constipation. Regular blood tests are mandatory to detect blood dyscrasias and for continued supply of the medicine. Pharmacists have a role in this monitoring, ensuring that the blood test has been had within three days of the medicine being dispensed. In this way, patients are very engaged with community pharmacy, but less likely to be engaged with their GP as they would typically be managed by secondary services. The Subcommittee noted that there were approximately 4,300 patients prescribed clozapine in 2016. Approximately 600 pharmacies are approved to administer influenza vaccine, but only approximately 400 of these are actively administering influenza vaccine each season.</p><p style=\"text-align: justify;\"><span style=\"color: black;\">1.5.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted a number of studies and papers provided with the application, including:</p><p style=\"text-align: justify;\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://doi.org/10.1016/j.vaccine.2015.06.080\" target=\"_blank\">Khieu et al. Vaccine 2015;33:4087-92</a></p><p style=\"text-align: justify;\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://doi.org/10.1016/j.jinf.2017.05.017\" target=\"_blank\">Khieu et al. J Infect 2017;75:225-33</a></p><p style=\"text-align: justify;\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://mentalhealth.inquiry.govt.nz/assets/Summary-reports/He-Ara-Oranga.pdf\" target=\"_blank\">He-Ara-Oranga: Report of the Government Inquiry into Mental Health and Addiction (Nov 2018)</a> (Appendix 2)</p><p style=\"text-align: justify;\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://doi.org/10.2190%2FPM.46.1.a\" target=\"_blank\">Lorenz et al. Int J Psychiatry Med 2013;46:1-3</a></p><p style=\"text-align: justify;\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://doi.org/10.1016/j.apnu.2011.09.002\" target=\"_blank\">Happell et al.\u00a0Arch Psychiatr Nurs 2012;26:192-201</a></p><p style=\"text-align: justify;\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://www.nzma.org.nz/__data/assets/pdf_file/0008/34658/content.pdf\" target=\"_blank\">Cunningham et al. NZMJ 2014;127:31-41</a></p><p style=\"text-align: justify;\"><span style=\"color: black;\">1.6.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee considered that the evidence provided by the applicant did not show that there is an increased rate of influenza cases in people with schizophrenia or addiction, or that people with serious mental health disorders or addiction have reduced interactions with primary care. However, they are more likely to have increase co-morbidities such as COPD, respiratory disease and ischaemic heart disease. The Subcommittee considered that people with low socioeconomic status have increased rates of influenza and a higher burden of disease.</p><p style=\"text-align: justify;\"><span style=\"color: black;\">1.7.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that pharmacists can currently vaccinate people over 65 years of age and pregnant women. There may be a gain in equity of access if pharmacists were able to administer influenza vaccine to people under 65 years of age with comorbidities. The Subcommittee considered that there would be a number of potential implementation issues to address if pharmacists were to vaccinate people under 65 years of age with comorbidities, as pharmacists do not have access to patient healthcare records and will not easily be able to confirm the patient\u2019s eligibility.</p><p><span style=\"color: black;\">1.8.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that the influenza vaccine applications it had previously considered included earlier access before 65 years of age for M\u0101ori and Pacific People, and universal childhood vaccination.</p><p><span style=\"color: black;\">1.9.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee considered that the funded groups for influenza vaccine differ across countries. The Subcommittee considered that it should review the currently funded groups for influenza vaccine and consider options for widened access at a future meeting. </p><p style=\"text-align: justify;\"><span style=\"color: black;\">1.10.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0</span>The Subcommittee considered that the evidence provided by the applicant did not demonstrate a health benefit from administering influenza vaccine in pharmacy for people with serious mental health disorders or opioid addiction. The Subcommittee considered that it should discuss pharmacy vaccination for people under 65 years of age with chronic health conditions at a future meeting.\u00a0</p>",
+          "change": null
+        },
+        "Published_Application": {
+          "s": "<p style=\"text-align: justify;\"><span style=\"color: black;\">1.1.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee reviewed a funding application from the Pharmaceutical Society for pharmacist vaccinators to be able to administer influenza vaccine to patients with serious mental health conditions or addiction.\u00a0</p><p><br></p>",
+          "fs": "<p style=\"text-align: justify;\"><span style=\"color: black;\">1.1.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee reviewed a funding application from the Pharmaceutical Society for pharmacist vaccinators to be able to administer influenza vaccine to patients with serious mental health conditions or addiction.\u00a0</p><p><br></p>",
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": "<p><span style=\"font-family: Arial, sans-serif; font-size: 10pt;\">PTAC noted and agreed with the Subcommittee\u2019s recorded considerations and recommendations regarding\u00a0this application. </span></p>",
+          "fs": "<p><span style=\"font-family: Arial, sans-serif; font-size: 10pt;\">PTAC noted and agreed with the Subcommittee\u2019s recorded considerations and recommendations regarding\u00a0this application. </span></p>",
+          "change": null
+        },
+        "Outcome": {
+          "s": "Decline",
+          "fs": "Decline",
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Mar 2020",
+          "fs": "Mar 2020",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Clinical advice received from Immunisation Subcommittee at meeting Tuesday 15 October 2019.",
+          "fs": "Clinical advice received from Immunisation Subcommittee at meeting Tuesday 15 October 2019.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P000006PuTwUAK"
+          },
+          "Id": "a0P2P000006PuTwUAK",
+          "Event_Date__c": "2020-03-16",
+          "Event_Description__c": "Clinical advice received from Immunisation Subcommittee at meeting Tuesday 15 October 2019.",
+          "Stage__c": "Seeking Clinical Advice",
+          "Outcome__c": "Decline",
+          "Formatted_Date__c": "Mar 2020",
+          "Published_Recommendation__c": "<p style=\"text-align: justify;\"><span style=\"color: black;\">1.1.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee <b>recommended</b> that application for pharmacist influenza vaccination of people with serious mental health conditions or addiction be declined. The Subcommittee considered that there was insufficient evidence demonstrating that this group is at increased risk of influenza and that there was insufficient evidence that this group would be more likely to be vaccinated in a pharmacy than general practice.\u00a0</p><p><br></p>",
+          "Published_Application__c": "<p style=\"text-align: justify;\"><span style=\"color: black;\">1.1.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee reviewed a funding application from the Pharmaceutical Society for pharmacist vaccinators to be able to administer influenza vaccine to patients with serious mental health conditions or addiction.\u00a0</p><p><br></p>",
+          "Published_Discussion__c": "<p style=\"text-align: justify;\"><span style=\"color: black;\">1.1.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that it has considered a number of applications for different types of influenza vaccines at several meetings over the last two years. The Subcommittee noted that this application did not extensively define \u201cserious mental health conditions\u201d but used a proxy of people who are prescribed clozapine. The Subcommittee noted that people with serious mental health conditions or addiction are not currently eligible for funded influenza vaccination in the community, although patients in long-stay inpatient mental health care units or who are compulsorily detained long-term in a forensic unit within a DHB hospital are eligible due to increased risk of infection.</p><p style=\"text-align: justify;\"><span style=\"color: black;\">1.2.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that only about 28% percent of the total population receives influenza vaccine annually. Current coverage for eligible people under 65 years of age with comorbidities is less than 50% and funded coverage for people over 65 years of age is 57%. The Subcommittee noted that pregnant women and people over 65 years of age can currently receive funded influenza vaccine in a community pharmacy. The Subcommittee considered that coverage of both target groups and the general population is low and that vaccinations given by occupational health nurses, which may not be recorded in the National Immunisation Register, is unlikely to account for much more coverage of the under 65 age group with comorbidities.</p><p style=\"text-align: justify;\"><span style=\"color: black;\">1.3.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that community opioid treatment services (OTS) are provided through community alcohol and drug services (CADS). Typically patients would have daily to weekly pharmacist contact. CADS generally encourage GP shared care with 3 monthly visits. Engagement with GPs varies across the country, with estimates of 40% shared care in Auckland and 20% in Wellington.</p><p style=\"text-align: justify;\"><span style=\"color: black;\">1.4.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that clozapine is prescribed for treatment-resistant schizophrenia. Patients taking clozapine should be monitored for symptoms and signs of cardiac toxicity, neutropenia and constipation. Regular blood tests are mandatory to detect blood dyscrasias and for continued supply of the medicine. Pharmacists have a role in this monitoring, ensuring that the blood test has been had within three days of the medicine being dispensed. In this way, patients are very engaged with community pharmacy, but less likely to be engaged with their GP as they would typically be managed by secondary services. The Subcommittee noted that there were approximately 4,300 patients prescribed clozapine in 2016. Approximately 600 pharmacies are approved to administer influenza vaccine, but only approximately 400 of these are actively administering influenza vaccine each season.</p><p style=\"text-align: justify;\"><span style=\"color: black;\">1.5.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted a number of studies and papers provided with the application, including:</p><p style=\"text-align: justify;\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://doi.org/10.1016/j.vaccine.2015.06.080\" target=\"_blank\">Khieu et al. Vaccine 2015;33:4087-92</a></p><p style=\"text-align: justify;\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://doi.org/10.1016/j.jinf.2017.05.017\" target=\"_blank\">Khieu et al. J Infect 2017;75:225-33</a></p><p style=\"text-align: justify;\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://mentalhealth.inquiry.govt.nz/assets/Summary-reports/He-Ara-Oranga.pdf\" target=\"_blank\">He-Ara-Oranga: Report of the Government Inquiry into Mental Health and Addiction (Nov 2018)</a> (Appendix 2)</p><p style=\"text-align: justify;\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://doi.org/10.2190%2FPM.46.1.a\" target=\"_blank\">Lorenz et al. Int J Psychiatry Med 2013;46:1-3</a></p><p style=\"text-align: justify;\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://doi.org/10.1016/j.apnu.2011.09.002\" target=\"_blank\">Happell et al.\u00a0Arch Psychiatr Nurs 2012;26:192-201</a></p><p style=\"text-align: justify;\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://www.nzma.org.nz/__data/assets/pdf_file/0008/34658/content.pdf\" target=\"_blank\">Cunningham et al. NZMJ 2014;127:31-41</a></p><p style=\"text-align: justify;\"><span style=\"color: black;\">1.6.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee considered that the evidence provided by the applicant did not show that there is an increased rate of influenza cases in people with schizophrenia or addiction, or that people with serious mental health disorders or addiction have reduced interactions with primary care. However, they are more likely to have increase co-morbidities such as COPD, respiratory disease and ischaemic heart disease. The Subcommittee considered that people with low socioeconomic status have increased rates of influenza and a higher burden of disease.</p><p style=\"text-align: justify;\"><span style=\"color: black;\">1.7.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that pharmacists can currently vaccinate people over 65 years of age and pregnant women. There may be a gain in equity of access if pharmacists were able to administer influenza vaccine to people under 65 years of age with comorbidities. The Subcommittee considered that there would be a number of potential implementation issues to address if pharmacists were to vaccinate people under 65 years of age with comorbidities, as pharmacists do not have access to patient healthcare records and will not easily be able to confirm the patient\u2019s eligibility.</p><p><span style=\"color: black;\">1.8.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that the influenza vaccine applications it had previously considered included earlier access before 65 years of age for M\u0101ori and Pacific People, and universal childhood vaccination.</p><p><span style=\"color: black;\">1.9.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee considered that the funded groups for influenza vaccine differ across countries. The Subcommittee considered that it should review the currently funded groups for influenza vaccine and consider options for widened access at a future meeting. </p><p style=\"text-align: justify;\"><span style=\"color: black;\">1.10.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0</span>The Subcommittee considered that the evidence provided by the applicant did not demonstrate a health benefit from administering influenza vaccine in pharmacy for people with serious mental health disorders or opioid addiction. The Subcommittee considered that it should discuss pharmacy vaccination for people under 65 years of age with chronic health conditions at a future meeting.\u00a0</p>",
+          "PTAC_Comments__c": "<p><span style=\"font-family: Arial, sans-serif; font-size: 10pt;\">PTAC noted and agreed with the Subcommittee\u2019s recorded considerations and recommendations regarding\u00a0this application. </span></p>",
+          "Status_History__c": "a132P000000BaC8QAK"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Jul 2021",
+          "fs": "Jul 2021",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Assigned to Immunisation Subcommittee meeting to provide advice on Tuesday 10 August 2021",
+          "fs": "Assigned to Immunisation Subcommittee meeting to provide advice on Tuesday 10 August 2021",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P000006PuTzUAK"
+          },
+          "Id": "a0P2P000006PuTzUAK",
+          "Event_Date__c": "2021-07-22",
+          "Event_Description__c": "Assigned to Immunisation Subcommittee meeting to provide advice on Tuesday 10 August 2021",
+          "Stage__c": "Seeking Clinical Advice",
+          "Formatted_Date__c": "Jul 2021",
+          "Status_History__c": "a132P000000D22eQAC"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": "<p><span style=\"color: black;\">1.1.</span><span style=\"color: black; font-size: 7pt;\">\u00a0</span>The Subcommittee <b>recommended </b>that influenza vaccine for people with serious mental health conditions or addiction be listed with a <b>medium </b>priority within the context of vaccines and immunisation, subject to the following Special Authority criteria:</p><p class=\"ql-indent-1\"><span style=\"color: black;\">1.1.</span><span style=\"color: black; font-size: 7pt;\">\u00a0</span><span style=\"font-size: 9pt;\">INFLUENZA VACCINE - people under 65 years of age who:</span></p><p class=\"ql-indent-2\"><span style=\"font-size: 9pt;\">\u00a0\u00a0\u00a0i) have any of the following serious mental health conditions:</span></p><p class=\"ql-indent-2\"><span style=\"font-size: 9pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0a) schizophrenia, or </span></p><p class=\"ql-indent-2\"><span style=\"font-size: 9pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0b) major depressive disorder, or </span></p><p class=\"ql-indent-2\"><span style=\"font-size: 9pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0c) bipolar disorder, or </span></p><p class=\"ql-indent-2\"><span style=\"font-size: 9pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0d) schizoaffective disorder, or </span></p><p class=\"ql-indent-2\"><span style=\"font-size: 9pt;\">\u00a0\u00a0\u00a0ii) are currently accessing secondary or tertiary mental health and addiction services.</span></p><p><span style=\"color: black;\">1.2.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>In making this recommendation, the Subcommittee noted the significant health need of people with serious mental health conditions or addiction. The Subcommittee considered that although there was not strong empirical evidence for health benefit in this group, there was good biological and psychosocial plausibility for benefit. The Subcommittee considered that the group with mental health conditions that would benefit most from influenza vaccination was the same as that eligible for COVID-19 vaccination under the Group 3 criteria.</p>",
+          "fs": "<p><span style=\"color: black;\">1.1.</span><span style=\"color: black; font-size: 7pt;\">\u00a0</span>The Subcommittee <b>recommended </b>that influenza vaccine for people with serious mental health conditions or addiction be listed with a <b>medium </b>priority within the context of vaccines and immunisation, subject to the following Special Authority criteria:</p><p class=\"ql-indent-1\"><span style=\"color: black;\">1.1.</span><span style=\"color: black; font-size: 7pt;\">\u00a0</span><span style=\"font-size: 9pt;\">INFLUENZA VACCINE - people under 65 years of age who:</span></p><p class=\"ql-indent-2\"><span style=\"font-size: 9pt;\">\u00a0\u00a0\u00a0i) have any of the following serious mental health conditions:</span></p><p class=\"ql-indent-2\"><span style=\"font-size: 9pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0a) schizophrenia, or </span></p><p class=\"ql-indent-2\"><span style=\"font-size: 9pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0b) major depressive disorder, or </span></p><p class=\"ql-indent-2\"><span style=\"font-size: 9pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0c) bipolar disorder, or </span></p><p class=\"ql-indent-2\"><span style=\"font-size: 9pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0d) schizoaffective disorder, or </span></p><p class=\"ql-indent-2\"><span style=\"font-size: 9pt;\">\u00a0\u00a0\u00a0ii) are currently accessing secondary or tertiary mental health and addiction services.</span></p><p><span style=\"color: black;\">1.2.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>In making this recommendation, the Subcommittee noted the significant health need of people with serious mental health conditions or addiction. The Subcommittee considered that although there was not strong empirical evidence for health benefit in this group, there was good biological and psychosocial plausibility for benefit. The Subcommittee considered that the group with mental health conditions that would benefit most from influenza vaccination was the same as that eligible for COVID-19 vaccination under the Group 3 criteria.</p>",
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": "<p><span style=\"color: black;\">1.1.</span><span style=\"color: black; font-size: 7pt;\">\u00a0</span>The Subcommittee noted that at its <a href=\"https://pharmac.govt.nz/assets/ptac-immunisation-subcommittee-record-2019-10.pdf\" target=\"_blank\">October 2019 meeting</a> it reviewed an application for the funding of influenza vaccine administered by pharmacists to people with serious mental health conditions or addiction. The Subcommittee recommended the application be declined as it considered there was insufficient evidence provided to demonstrate that people with serious mental health conditions or addiction were at increased risk of influenza, or that this group would be more likely to present for vaccination in pharmacy rather than general practice.</p><p><span style=\"color: black;\">1.2.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that the Pharmaceutical Society of New Zealand (PSNZ) had submitted some New Zealand health data and recently published evidence to support a further review of the application. The Subcommittee noted that PSNZ had consulted widely with a number of professional bodies and revised its application to remove the request for vaccination only by pharmacists. Letters of support from a number of professional bodies were included with the application update.</p><p><span style=\"color: black;\">1.3.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee considered the SHIVERS (Southern Hemisphere Influenza and Vaccine Effectiveness Research and Surveillance) study (<a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4474494/\" target=\"_blank\">Influenza Other Respir Viruses. 2015; 9(4):179-90</a>). The Subcommittee noted that influenza infection rates were highest in children: 26.1% of influenza infections reported were in children under 5 years of age; 30.6% of infections were in school aged children from 5-19 years of age.</p><p><span style=\"color: black;\">1.4.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that while infection rates are highest in children, the highest proportion of influenza infections resulting in hospitalisation and death is seen in adults aged over 65 years. (<a href=\"https://www.immune.org.nz/sites/default/files/publications/AgRev2017_influenza_final.pdf\" target=\"_blank\">Immunisation Advisory Centre (IMAC) 2017 Influenza Antigen Review</a>). The Subcommittee considered that this was consistent with New Zealand hospitalisation modelling data from <a href=\"https://doi.org/10.1016/j.vaccine.2015.06.080\" target=\"_blank\">Khieu et al. Vaccine 2015;33:4087-92</a> and mortality modelling data from <a href=\"https://doi.org/10.1016/j.jinf.2017.05.017\" target=\"_blank\">Khieu et al. J Infect 2017;75:225-33</a>.</p><p><span style=\"color: black;\">1.5.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that Khieu et al. (2015) modelled all cause hospitalisation rates per 100,000 for the period 1994-2008. The modelling gave rates of 149.9 for people aged 65-79 years; 80.0 for M\u0101ori of all ages; and 83.3 for Pacific People of all ages. The Subcommittee noted that Khieu et al. (2017) modelled influenza mortality, estimating the average mortality rate and identifying differences in risk by age, sex, ethnicity and socioeconomic position. The modelling estimated a crude influenza mortality rate of 13.5 per 100,000 for all causes, and a rate of 90.3 per 100,000 for influenza-attributable deaths in people aged 65 years and older. The Subcommittee considered that this modelling data was consistent with national general practice and virological surveillance, indicating that the annual burden from influenza is high in New Zealand and highest in older adults.</p><p><span style=\"color: black;\">1.6.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that Khieu et al. (2017) found a large disparity of influenza attributable mortality among ethnic groups. M\u0101ori and Pacific People had higher mortality rates compared to European/Others, but also accounted for only 3% of the total population of people aged 80 years and over. Age-standardised mortality rates showed that the risk of influenza deaths was higher for M\u0101ori (2.7 times) and Pacific People (1.5 times) than that for European and Others.</p><p><span style=\"color: black;\">1.7.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee considered that there are inequities in access to influenza vaccine for M\u0101ori and Pacific Peoples. Influenza vaccination coverage measured through general practice claims submitted to the Ministry of Health suggest that up to 25 June 2021, 46% of M\u0101ori and 56% of Pacific People aged 65 years and over had been vaccinated, compared to 62.5% of the overall population aged 65 years and over.</p><p><span style=\"color: black;\">1.8.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee considered Ministry of Health cohort data for the five-year period 2015-2019. The data was for people who had at least one dispensing of clozapine and who had attended at least one in-scope mental health and addiction activity in the same year. It included demographics, immunisation events, PHO enrolments and publicly funded hospital discharges where the primary diagnosis is in Chapter 10 Diseases of the respiratory system (ICD 10 version 8 codes J00-J99). The Subcommittee noted that, as supplied by the applicant, the data required further analysis to remove patient duplication and remove patients from ICD codes other than the relevant respiratory ICD codes J00-J99. The Subcommittee noted that, on average, 42% of patients receiving clozapine were either of M\u0101ori or Pacific ethnicity, and 42.7% of hospitalisations were for M\u0101ori or Pacific patients. The Subcommittee noted that, on average, 14% of the cohort was vaccinated.</p><p><span style=\"color: black;\">1.9.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee considered an observational study of potentially preventable hospitalisations (PPH) in New South Wales mental health service users (<a href=\"https://www.cambridge.org/core/journals/epidemiology-and-psychiatric-sciences/article/potentially-preventable-hospitalisations-for-physical-health-conditions-in-community-mental-health-service-users-a-populationwide-linkage-study/A0AD5F79F8686B35F6095E8DF227F904\" target=\"_blank\">Sara et al. Epidemiology and Psychiatric Services. 2021;30:1-10</a>). The Subcommittee noted that:</p><p class=\"ql-indent-1\">1.9.1.mental health service users had higher rates of PPH admission (AIRR<span style=\"font-family: Arial, sans-serif; font-size: 11pt;\">[1]</span> 3.6 (CI 3.5-3.6)) and a larger number of hospital days (AIRR 5.2 (CI 5.2-5.3)) than other NSW residents.</p><p class=\"ql-indent-1\">1.9.2.potentially preventable hospitalisations were substantially increased in people with mental health conditions.</p><p class=\"ql-indent-1\">1.9.3.vaccine preventable hospitalisations increased sharply in mental health service users from 35 years of age onwards.</p><p class=\"ql-indent-1\">1.9.4.increased rates of PPH in mental health service users were not accounted for by socioeconomic disadvantage.</p><p><span style=\"color: black;\">1.10.</span><span style=\"color: black; font-size: 7pt;\">\u00a0</span>The Subcommittee considered that the evidence supporting influenza vaccination for people with serious mental health conditions or addiction is of low quality, but considered from first principles that there is good biological and psychosocial plausibility. The Subcommittee considered that there is stronger evidence supporting COVID-19 vaccination for people with serious mental health conditions or addiction, but noted a lot of resource has been applied to studying COVID-19 vaccination in the context of the global pandemic, in contrast to the lack of ongoing research into influenza vaccination.</p><p><span style=\"color: black;\">1.11.</span><span style=\"color: black; font-size: 7pt;\">\u00a0</span>The Subcommittee considered that estimates of the eligible group size based on the number of people using clozapine and opioid substitution treatment likely underestimated the size of the group that would benefit from influenza vaccination. The Subcommittee considered that the group most likely to benefit from influenza vaccination was the same as the mental health group defined for COVID-19 vaccine eligibility in Group 3 (patients with a serious mental health condition (schizophrenia, major depressive disorder, bipolar disorder or schizoaffective disorder) and people currently accessing secondary and tertiary mental health and addiction services).</p><p><span style=\"color: black;\">1.12.</span><span style=\"color: black; font-size: 7pt;\">\u00a0</span>The Subcommittee considered that the table below summarises its interpretation of the most appropriate PICO (population, intervention, comparator, outcomes) information for influenza vaccine if it were to be funded in New Zealand for serious mental health or addiction patients meeting the proposed eligibility criteria. This PICO captures key clinical aspects of the proposal and may be used to frame any future economic assessment by Pharmac staff. This PICO is based on the Subcommittee\u2019s assessment at this time and may differ from that requested by the applicant. The PICO may change based on new information, additional clinical advice, or further analysis by Pharmac staff.</p><p><img src=\"/apptracker/servlet/rtaImage?eid=a0P2P000006PuU0&amp;feoid=00N2P000000YsIc&amp;refid=0EM2P000001lfbu\" alt=\"image.png\"></img></p><p><b style=\"font-family: Arial, sans-serif; font-size: 10pt;\"><i>[1]</i></b><i> AIRR: adjusted incident rate ratio</i></p>",
+          "fs": "<p><span style=\"color: black;\">1.1.</span><span style=\"color: black; font-size: 7pt;\">\u00a0</span>The Subcommittee noted that at its <a href=\"https://pharmac.govt.nz/assets/ptac-immunisation-subcommittee-record-2019-10.pdf\" target=\"_blank\">October 2019 meeting</a> it reviewed an application for the funding of influenza vaccine administered by pharmacists to people with serious mental health conditions or addiction. The Subcommittee recommended the application be declined as it considered there was insufficient evidence provided to demonstrate that people with serious mental health conditions or addiction were at increased risk of influenza, or that this group would be more likely to present for vaccination in pharmacy rather than general practice.</p><p><span style=\"color: black;\">1.2.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that the Pharmaceutical Society of New Zealand (PSNZ) had submitted some New Zealand health data and recently published evidence to support a further review of the application. The Subcommittee noted that PSNZ had consulted widely with a number of professional bodies and revised its application to remove the request for vaccination only by pharmacists. Letters of support from a number of professional bodies were included with the application update.</p><p><span style=\"color: black;\">1.3.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee considered the SHIVERS (Southern Hemisphere Influenza and Vaccine Effectiveness Research and Surveillance) study (<a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4474494/\" target=\"_blank\">Influenza Other Respir Viruses. 2015; 9(4):179-90</a>). The Subcommittee noted that influenza infection rates were highest in children: 26.1% of influenza infections reported were in children under 5 years of age; 30.6% of infections were in school aged children from 5-19 years of age.</p><p><span style=\"color: black;\">1.4.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that while infection rates are highest in children, the highest proportion of influenza infections resulting in hospitalisation and death is seen in adults aged over 65 years. (<a href=\"https://www.immune.org.nz/sites/default/files/publications/AgRev2017_influenza_final.pdf\" target=\"_blank\">Immunisation Advisory Centre (IMAC) 2017 Influenza Antigen Review</a>). The Subcommittee considered that this was consistent with New Zealand hospitalisation modelling data from <a href=\"https://doi.org/10.1016/j.vaccine.2015.06.080\" target=\"_blank\">Khieu et al. Vaccine 2015;33:4087-92</a> and mortality modelling data from <a href=\"https://doi.org/10.1016/j.jinf.2017.05.017\" target=\"_blank\">Khieu et al. J Infect 2017;75:225-33</a>.</p><p><span style=\"color: black;\">1.5.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that Khieu et al. (2015) modelled all cause hospitalisation rates per 100,000 for the period 1994-2008. The modelling gave rates of 149.9 for people aged 65-79 years; 80.0 for M\u0101ori of all ages; and 83.3 for Pacific People of all ages. The Subcommittee noted that Khieu et al. (2017) modelled influenza mortality, estimating the average mortality rate and identifying differences in risk by age, sex, ethnicity and socioeconomic position. The modelling estimated a crude influenza mortality rate of 13.5 per 100,000 for all causes, and a rate of 90.3 per 100,000 for influenza-attributable deaths in people aged 65 years and older. The Subcommittee considered that this modelling data was consistent with national general practice and virological surveillance, indicating that the annual burden from influenza is high in New Zealand and highest in older adults.</p><p><span style=\"color: black;\">1.6.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that Khieu et al. (2017) found a large disparity of influenza attributable mortality among ethnic groups. M\u0101ori and Pacific People had higher mortality rates compared to European/Others, but also accounted for only 3% of the total population of people aged 80 years and over. Age-standardised mortality rates showed that the risk of influenza deaths was higher for M\u0101ori (2.7 times) and Pacific People (1.5 times) than that for European and Others.</p><p><span style=\"color: black;\">1.7.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee considered that there are inequities in access to influenza vaccine for M\u0101ori and Pacific Peoples. Influenza vaccination coverage measured through general practice claims submitted to the Ministry of Health suggest that up to 25 June 2021, 46% of M\u0101ori and 56% of Pacific People aged 65 years and over had been vaccinated, compared to 62.5% of the overall population aged 65 years and over.</p><p><span style=\"color: black;\">1.8.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee considered Ministry of Health cohort data for the five-year period 2015-2019. The data was for people who had at least one dispensing of clozapine and who had attended at least one in-scope mental health and addiction activity in the same year. It included demographics, immunisation events, PHO enrolments and publicly funded hospital discharges where the primary diagnosis is in Chapter 10 Diseases of the respiratory system (ICD 10 version 8 codes J00-J99). The Subcommittee noted that, as supplied by the applicant, the data required further analysis to remove patient duplication and remove patients from ICD codes other than the relevant respiratory ICD codes J00-J99. The Subcommittee noted that, on average, 42% of patients receiving clozapine were either of M\u0101ori or Pacific ethnicity, and 42.7% of hospitalisations were for M\u0101ori or Pacific patients. The Subcommittee noted that, on average, 14% of the cohort was vaccinated.</p><p><span style=\"color: black;\">1.9.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee considered an observational study of potentially preventable hospitalisations (PPH) in New South Wales mental health service users (<a href=\"https://www.cambridge.org/core/journals/epidemiology-and-psychiatric-sciences/article/potentially-preventable-hospitalisations-for-physical-health-conditions-in-community-mental-health-service-users-a-populationwide-linkage-study/A0AD5F79F8686B35F6095E8DF227F904\" target=\"_blank\">Sara et al. Epidemiology and Psychiatric Services. 2021;30:1-10</a>). The Subcommittee noted that:</p><p class=\"ql-indent-1\">1.9.1.mental health service users had higher rates of PPH admission (AIRR<span style=\"font-family: Arial, sans-serif; font-size: 11pt;\">[1]</span> 3.6 (CI 3.5-3.6)) and a larger number of hospital days (AIRR 5.2 (CI 5.2-5.3)) than other NSW residents.</p><p class=\"ql-indent-1\">1.9.2.potentially preventable hospitalisations were substantially increased in people with mental health conditions.</p><p class=\"ql-indent-1\">1.9.3.vaccine preventable hospitalisations increased sharply in mental health service users from 35 years of age onwards.</p><p class=\"ql-indent-1\">1.9.4.increased rates of PPH in mental health service users were not accounted for by socioeconomic disadvantage.</p><p><span style=\"color: black;\">1.10.</span><span style=\"color: black; font-size: 7pt;\">\u00a0</span>The Subcommittee considered that the evidence supporting influenza vaccination for people with serious mental health conditions or addiction is of low quality, but considered from first principles that there is good biological and psychosocial plausibility. The Subcommittee considered that there is stronger evidence supporting COVID-19 vaccination for people with serious mental health conditions or addiction, but noted a lot of resource has been applied to studying COVID-19 vaccination in the context of the global pandemic, in contrast to the lack of ongoing research into influenza vaccination.</p><p><span style=\"color: black;\">1.11.</span><span style=\"color: black; font-size: 7pt;\">\u00a0</span>The Subcommittee considered that estimates of the eligible group size based on the number of people using clozapine and opioid substitution treatment likely underestimated the size of the group that would benefit from influenza vaccination. The Subcommittee considered that the group most likely to benefit from influenza vaccination was the same as the mental health group defined for COVID-19 vaccine eligibility in Group 3 (patients with a serious mental health condition (schizophrenia, major depressive disorder, bipolar disorder or schizoaffective disorder) and people currently accessing secondary and tertiary mental health and addiction services).</p><p><span style=\"color: black;\">1.12.</span><span style=\"color: black; font-size: 7pt;\">\u00a0</span>The Subcommittee considered that the table below summarises its interpretation of the most appropriate PICO (population, intervention, comparator, outcomes) information for influenza vaccine if it were to be funded in New Zealand for serious mental health or addiction patients meeting the proposed eligibility criteria. This PICO captures key clinical aspects of the proposal and may be used to frame any future economic assessment by Pharmac staff. This PICO is based on the Subcommittee\u2019s assessment at this time and may differ from that requested by the applicant. The PICO may change based on new information, additional clinical advice, or further analysis by Pharmac staff.</p><p><img src=\"/apptracker/servlet/rtaImage?eid=a0P2P000006PuU0&amp;feoid=00N2P000000YsIc&amp;refid=0EM2P000001lfbu\" alt=\"image.png\"></img></p><p><b style=\"font-family: Arial, sans-serif; font-size: 10pt;\"><i>[1]</i></b><i> AIRR: adjusted incident rate ratio</i></p>",
+          "change": null
+        },
+        "Published_Application": {
+          "s": "<p><span style=\"color: black;\">1.1.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"color: rgb(62, 62, 60);\">The Subcommittee reviewed a funding application from the Pharmaceutical Society for influenza vaccine for people with serious mental health conditions or addiction.\u00a0</span></p>",
+          "fs": "<p><span style=\"color: black;\">1.1.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"color: rgb(62, 62, 60);\">The Subcommittee reviewed a funding application from the Pharmaceutical Society for influenza vaccine for people with serious mental health conditions or addiction.\u00a0</span></p>",
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": "<p>At the February 2022 PTAC meeting the Committee noted:</p><p><br></p><p>The Committee noted and agreed with the Subcommittee\u2019s recommendation that influenza vaccine for people with serious mental health conditions or addiction be listed with a medium priority. The Committee noted the significant health need of people with serious mental health conditions or addiction. The Committee noted that there was not strong empirical evidence for health benefit in this group, however there was good biological and psychosocial plausibility for benefit.</p>",
+          "fs": "<p>At the February 2022 PTAC meeting the Committee noted:</p><p><br></p><p>The Committee noted and agreed with the Subcommittee\u2019s recommendation that influenza vaccine for people with serious mental health conditions or addiction be listed with a medium priority. The Committee noted the significant health need of people with serious mental health conditions or addiction. The Committee noted that there was not strong empirical evidence for health benefit in this group, however there was good biological and psychosocial plausibility for benefit.</p>",
+          "change": null
+        },
+        "Outcome": {
+          "s": "Medium",
+          "fs": "Medium",
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Dec 2021",
+          "fs": "Dec 2021",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Clinical advice received from Immunisation Subcommittee at meeting Tuesday 10 August 2021.",
+          "fs": "Clinical advice received from Immunisation Subcommittee at meeting Tuesday 10 August 2021.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P000006PuU0UAK"
+          },
+          "Id": "a0P2P000006PuU0UAK",
+          "Event_Date__c": "2021-12-22",
+          "Event_Description__c": "Clinical advice received from Immunisation Subcommittee at meeting Tuesday 10 August 2021.",
+          "Stage__c": "Seeking Clinical Advice",
+          "Outcome__c": "Medium",
+          "Formatted_Date__c": "Dec 2021",
+          "Published_Recommendation__c": "<p><span style=\"color: black;\">1.1.</span><span style=\"color: black; font-size: 7pt;\">\u00a0</span>The Subcommittee <b>recommended </b>that influenza vaccine for people with serious mental health conditions or addiction be listed with a <b>medium </b>priority within the context of vaccines and immunisation, subject to the following Special Authority criteria:</p><p class=\"ql-indent-1\"><span style=\"color: black;\">1.1.</span><span style=\"color: black; font-size: 7pt;\">\u00a0</span><span style=\"font-size: 9pt;\">INFLUENZA VACCINE - people under 65 years of age who:</span></p><p class=\"ql-indent-2\"><span style=\"font-size: 9pt;\">\u00a0\u00a0\u00a0i) have any of the following serious mental health conditions:</span></p><p class=\"ql-indent-2\"><span style=\"font-size: 9pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0a) schizophrenia, or </span></p><p class=\"ql-indent-2\"><span style=\"font-size: 9pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0b) major depressive disorder, or </span></p><p class=\"ql-indent-2\"><span style=\"font-size: 9pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0c) bipolar disorder, or </span></p><p class=\"ql-indent-2\"><span style=\"font-size: 9pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0d) schizoaffective disorder, or </span></p><p class=\"ql-indent-2\"><span style=\"font-size: 9pt;\">\u00a0\u00a0\u00a0ii) are currently accessing secondary or tertiary mental health and addiction services.</span></p><p><span style=\"color: black;\">1.2.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>In making this recommendation, the Subcommittee noted the significant health need of people with serious mental health conditions or addiction. The Subcommittee considered that although there was not strong empirical evidence for health benefit in this group, there was good biological and psychosocial plausibility for benefit. The Subcommittee considered that the group with mental health conditions that would benefit most from influenza vaccination was the same as that eligible for COVID-19 vaccination under the Group 3 criteria.</p>",
+          "Published_Application__c": "<p><span style=\"color: black;\">1.1.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"color: rgb(62, 62, 60);\">The Subcommittee reviewed a funding application from the Pharmaceutical Society for influenza vaccine for people with serious mental health conditions or addiction.\u00a0</span></p>",
+          "Published_Discussion__c": "<p><span style=\"color: black;\">1.1.</span><span style=\"color: black; font-size: 7pt;\">\u00a0</span>The Subcommittee noted that at its <a href=\"https://pharmac.govt.nz/assets/ptac-immunisation-subcommittee-record-2019-10.pdf\" target=\"_blank\">October 2019 meeting</a> it reviewed an application for the funding of influenza vaccine administered by pharmacists to people with serious mental health conditions or addiction. The Subcommittee recommended the application be declined as it considered there was insufficient evidence provided to demonstrate that people with serious mental health conditions or addiction were at increased risk of influenza, or that this group would be more likely to present for vaccination in pharmacy rather than general practice.</p><p><span style=\"color: black;\">1.2.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that the Pharmaceutical Society of New Zealand (PSNZ) had submitted some New Zealand health data and recently published evidence to support a further review of the application. The Subcommittee noted that PSNZ had consulted widely with a number of professional bodies and revised its application to remove the request for vaccination only by pharmacists. Letters of support from a number of professional bodies were included with the application update.</p><p><span style=\"color: black;\">1.3.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee considered the SHIVERS (Southern Hemisphere Influenza and Vaccine Effectiveness Research and Surveillance) study (<a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4474494/\" target=\"_blank\">Influenza Other Respir Viruses. 2015; 9(4):179-90</a>). The Subcommittee noted that influenza infection rates were highest in children: 26.1% of influenza infections reported were in children under 5 years of age; 30.6% of infections were in school aged children from 5-19 years of age.</p><p><span style=\"color: black;\">1.4.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that while infection rates are highest in children, the highest proportion of influenza infections resulting in hospitalisation and death is seen in adults aged over 65 years. (<a href=\"https://www.immune.org.nz/sites/default/files/publications/AgRev2017_influenza_final.pdf\" target=\"_blank\">Immunisation Advisory Centre (IMAC) 2017 Influenza Antigen Review</a>). The Subcommittee considered that this was consistent with New Zealand hospitalisation modelling data from <a href=\"https://doi.org/10.1016/j.vaccine.2015.06.080\" target=\"_blank\">Khieu et al. Vaccine 2015;33:4087-92</a> and mortality modelling data from <a href=\"https://doi.org/10.1016/j.jinf.2017.05.017\" target=\"_blank\">Khieu et al. J Infect 2017;75:225-33</a>.</p><p><span style=\"color: black;\">1.5.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that Khieu et al. (2015) modelled all cause hospitalisation rates per 100,000 for the period 1994-2008. The modelling gave rates of 149.9 for people aged 65-79 years; 80.0 for M\u0101ori of all ages; and 83.3 for Pacific People of all ages. The Subcommittee noted that Khieu et al. (2017) modelled influenza mortality, estimating the average mortality rate and identifying differences in risk by age, sex, ethnicity and socioeconomic position. The modelling estimated a crude influenza mortality rate of 13.5 per 100,000 for all causes, and a rate of 90.3 per 100,000 for influenza-attributable deaths in people aged 65 years and older. The Subcommittee considered that this modelling data was consistent with national general practice and virological surveillance, indicating that the annual burden from influenza is high in New Zealand and highest in older adults.</p><p><span style=\"color: black;\">1.6.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that Khieu et al. (2017) found a large disparity of influenza attributable mortality among ethnic groups. M\u0101ori and Pacific People had higher mortality rates compared to European/Others, but also accounted for only 3% of the total population of people aged 80 years and over. Age-standardised mortality rates showed that the risk of influenza deaths was higher for M\u0101ori (2.7 times) and Pacific People (1.5 times) than that for European and Others.</p><p><span style=\"color: black;\">1.7.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee considered that there are inequities in access to influenza vaccine for M\u0101ori and Pacific Peoples. Influenza vaccination coverage measured through general practice claims submitted to the Ministry of Health suggest that up to 25 June 2021, 46% of M\u0101ori and 56% of Pacific People aged 65 years and over had been vaccinated, compared to 62.5% of the overall population aged 65 years and over.</p><p><span style=\"color: black;\">1.8.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee considered Ministry of Health cohort data for the five-year period 2015-2019. The data was for people who had at least one dispensing of clozapine and who had attended at least one in-scope mental health and addiction activity in the same year. It included demographics, immunisation events, PHO enrolments and publicly funded hospital discharges where the primary diagnosis is in Chapter 10 Diseases of the respiratory system (ICD 10 version 8 codes J00-J99). The Subcommittee noted that, as supplied by the applicant, the data required further analysis to remove patient duplication and remove patients from ICD codes other than the relevant respiratory ICD codes J00-J99. The Subcommittee noted that, on average, 42% of patients receiving clozapine were either of M\u0101ori or Pacific ethnicity, and 42.7% of hospitalisations were for M\u0101ori or Pacific patients. The Subcommittee noted that, on average, 14% of the cohort was vaccinated.</p><p><span style=\"color: black;\">1.9.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee considered an observational study of potentially preventable hospitalisations (PPH) in New South Wales mental health service users (<a href=\"https://www.cambridge.org/core/journals/epidemiology-and-psychiatric-sciences/article/potentially-preventable-hospitalisations-for-physical-health-conditions-in-community-mental-health-service-users-a-populationwide-linkage-study/A0AD5F79F8686B35F6095E8DF227F904\" target=\"_blank\">Sara et al. Epidemiology and Psychiatric Services. 2021;30:1-10</a>). The Subcommittee noted that:</p><p class=\"ql-indent-1\">1.9.1.mental health service users had higher rates of PPH admission (AIRR<span style=\"font-family: Arial, sans-serif; font-size: 11pt;\">[1]</span> 3.6 (CI 3.5-3.6)) and a larger number of hospital days (AIRR 5.2 (CI 5.2-5.3)) than other NSW residents.</p><p class=\"ql-indent-1\">1.9.2.potentially preventable hospitalisations were substantially increased in people with mental health conditions.</p><p class=\"ql-indent-1\">1.9.3.vaccine preventable hospitalisations increased sharply in mental health service users from 35 years of age onwards.</p><p class=\"ql-indent-1\">1.9.4.increased rates of PPH in mental health service users were not accounted for by socioeconomic disadvantage.</p><p><span style=\"color: black;\">1.10.</span><span style=\"color: black; font-size: 7pt;\">\u00a0</span>The Subcommittee considered that the evidence supporting influenza vaccination for people with serious mental health conditions or addiction is of low quality, but considered from first principles that there is good biological and psychosocial plausibility. The Subcommittee considered that there is stronger evidence supporting COVID-19 vaccination for people with serious mental health conditions or addiction, but noted a lot of resource has been applied to studying COVID-19 vaccination in the context of the global pandemic, in contrast to the lack of ongoing research into influenza vaccination.</p><p><span style=\"color: black;\">1.11.</span><span style=\"color: black; font-size: 7pt;\">\u00a0</span>The Subcommittee considered that estimates of the eligible group size based on the number of people using clozapine and opioid substitution treatment likely underestimated the size of the group that would benefit from influenza vaccination. The Subcommittee considered that the group most likely to benefit from influenza vaccination was the same as the mental health group defined for COVID-19 vaccine eligibility in Group 3 (patients with a serious mental health condition (schizophrenia, major depressive disorder, bipolar disorder or schizoaffective disorder) and people currently accessing secondary and tertiary mental health and addiction services).</p><p><span style=\"color: black;\">1.12.</span><span style=\"color: black; font-size: 7pt;\">\u00a0</span>The Subcommittee considered that the table below summarises its interpretation of the most appropriate PICO (population, intervention, comparator, outcomes) information for influenza vaccine if it were to be funded in New Zealand for serious mental health or addiction patients meeting the proposed eligibility criteria. This PICO captures key clinical aspects of the proposal and may be used to frame any future economic assessment by Pharmac staff. This PICO is based on the Subcommittee\u2019s assessment at this time and may differ from that requested by the applicant. The PICO may change based on new information, additional clinical advice, or further analysis by Pharmac staff.</p><p><img src=\"/apptracker/servlet/rtaImage?eid=a0P2P000006PuU0&amp;feoid=00N2P000000YsIc&amp;refid=0EM2P000001lfbu\" alt=\"image.png\"></img></p><p><b style=\"font-family: Arial, sans-serif; font-size: 10pt;\"><i>[1]</i></b><i> AIRR: adjusted incident rate ratio</i></p>",
+          "PTAC_Comments__c": "<p>At the February 2022 PTAC meeting the Committee noted:</p><p><br></p><p>The Committee noted and agreed with the Subcommittee\u2019s recommendation that influenza vaccine for people with serious mental health conditions or addiction be listed with a medium priority. The Committee noted the significant health need of people with serious mental health conditions or addiction. The Committee noted that there was not strong empirical evidence for health benefit in this group, however there was good biological and psychosocial plausibility for benefit.</p>",
+          "Status_History__c": "a132P000000DRGuQAO"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "May 2019",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Following Clinical Advice, Pharmac staff considers the advice and the funding application under goes an assessment using our&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/factors-for-consideration/\" rel=\"nofollow\">Factors for Consideration</a>&nbsp;framework and seeks additional information as required.</p>\r\n<p>&nbsp;</p>\r\n<p>Research and Economic analysis are undertaken.&nbsp; This focuses on the costs and benefits of a proposed course of action. Economics is based on three fundamental concepts that summarise the issues Pharmac faces daily:&nbsp;</p>\r\n<ul>\r\n<li>Scarcity &ndash; resources will always be insufficient to support all possible activities.</li>\r\n<li>Choices &ndash; due to scarce resources, decisions must be made about how best to use them.</li>\r\n<li>Opportunity cost &ndash; by choosing to use resources one way, we forgo other opportunities to use the same resources.</li>\r\n</ul>\r\n<p>&nbsp;</p>\r\n<p>For further information on the purpose of, and techniques for, undertaking economic analysis in health care, please refer&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/economic-analysis/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/economic-analysis/</a></p>",
+    "position": 2,
+    "name": "Under Assessment",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "May 2020",
+          "fs": "May 2020",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Working to compare options",
+          "fs": "Working to compare options",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P000006PuTxUAK"
+          },
+          "Id": "a0P2P000006PuTxUAK",
+          "Event_Date__c": "2020-05-15",
+          "Event_Description__c": "Working to compare options",
+          "Stage__c": "Under Assessment",
+          "Formatted_Date__c": "May 2020",
+          "Status_History__c": "a132P000000BlFgQAK"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Jan 2022",
+          "fs": "Jan 2022",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Working to compare options",
+          "fs": "Working to compare options",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P000006PuU1UAK"
+          },
+          "Id": "a0P2P000006PuU1UAK",
+          "Event_Date__c": "2022-01-21",
+          "Event_Description__c": "Working to compare options",
+          "Stage__c": "Under Assessment",
+          "Formatted_Date__c": "Jan 2022",
+          "Status_History__c": "a132P000000DUNkQAO"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "May 2020",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Pharmac staff uses a prioritisation process to compare and rank funding options. Possible opportunities for new investment will always exceed the budget Pharmac has available; therefore, prioritisation is an intrinsic part of Pharmac\u2019s decision-making process.</p>\r\n<p>The relative ranking of options aims to support Pharmac&rsquo;s statutory objective &ldquo;to secure for eligible people in need of pharmaceuticals, the best health outcomes that are reasonably achievable from pharmaceutical treatment and from within the amount of funding provided&rdquo;.</p>\r\n<p>A funding application or proposal is considered ready for prioritisation when sufficient information is available to permit it to be reviewed against Pharmac's Factors for Consideration and to inform a comparison with other possible investment decisions.</p>\r\n<p>There is no guarantee when or if a ranked medicine will be funded.&nbsp;&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/prioritisation/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/prioritisation/</a></p>",
+    "position": 3,
+    "name": "Options Compared",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Jun 2020",
+          "fs": "Jun 2020",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "The relative ranking of the pharmaceutical application has been completed.",
+          "fs": "The relative ranking of the pharmaceutical application has been completed.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P000006PuTyUAK"
+          },
+          "Id": "a0P2P000006PuTyUAK",
+          "Event_Date__c": "2020-06-23",
+          "Event_Description__c": "The relative ranking of the pharmaceutical application has been completed.",
+          "Stage__c": "Options Compared",
+          "Formatted_Date__c": "Jun 2020",
+          "Status_History__c": "a132P000000BtR2QAK"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Jun 2022",
+          "fs": "Jun 2022",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "The relative ranking of the pharmaceutical application has been completed.",
+          "fs": "The relative ranking of the pharmaceutical application has been completed.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P000006PuU2UAK"
+          },
+          "Id": "a0P2P000006PuU2UAK",
+          "Event_Date__c": "2022-06-02",
+          "Event_Description__c": "The relative ranking of the pharmaceutical application has been completed.",
+          "Stage__c": "Options Compared",
+          "Formatted_Date__c": "Jun 2022",
+          "Status_History__c": "a132P000000DnYBQA0"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Jun 2020",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Pharmac is consulting on a proposal to either approve or decline the application.&nbsp;We seek the views of all people who have an interest in our proposals, or who may be affected by them, to obtain feedback on our proposed approaches.</p>\r\n<p><a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/having-your-say/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/having-your-say/</a></p>",
+    "position": 4,
+    "name": "Under Consultation",
+    "last": false,
+    "events": null,
+    "dateString": null,
+    "collapsed": false,
+    "checked": false
+  },
+  {
+    "text": "<p>Following the consultation process, Pharmac staff considers the feedback and identifies any additional information required as part of a gap analysis.&nbsp; The proposal may require further clinical advice, research, and assessment.</p>",
+    "position": 5,
+    "name": "Reviewing Consultation Feedback",
+    "last": false,
+    "events": null,
+    "dateString": null,
+    "collapsed": false,
+    "checked": false
+  },
+  {
+    "text": "<p>We refer to our decisions about whether and how particular pharmaceuticals are publicly-funded, as &ldquo;funding decisions&rdquo;.</p>\r\n<p>We consider and assess all funding decisions using the&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/about/operating-policies-and-procedures/#factorsfc\" rel=\"nofollow\">Factors for Consideration</a>. When we do so, we carefully evaluate clinical and other evidence for the benefits and suitability of a proposal, and to identify and understand the people who will be affected by it.</p>\r\n<p>While our main task is to allocate pharmaceutical funding, we consider the benefits and costs across the whole health system now and with a long-term focus, including the effects for hospitals and primary care, and consider direct costs to patients as well as to all health sector budgets.</p>\r\n<p>Final funding decisions are made by the Pharmac Board or delegated to senior Pharmac staff as required by the Board.</p>\r\n<p>&nbsp;</p>",
+    "position": 6,
+    "name": "Decision",
+    "last": true,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Jun 2022",
+          "fs": "Jun 2022",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "The funding application has been approved.",
+          "fs": "The funding application has been approved.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P000006PuU3UAK"
+          },
+          "Id": "a0P2P000006PuU3UAK",
+          "Event_Date__c": "2022-06-22",
+          "Event_Description__c": "The funding application has been approved.",
+          "Stage__c": "Decision",
+          "Formatted_Date__c": "Jun 2022",
+          "Status_History__c": "a132P000000DqqqQAC"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Jun 2022",
+    "collapsed": false,
+    "checked": true
+  }
+]

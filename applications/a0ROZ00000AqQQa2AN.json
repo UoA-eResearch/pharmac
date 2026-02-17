@@ -1,0 +1,869 @@
+[
+  {
+    "text": "<p>New funding applications are referred to one of Pharmac's Funding Application Advisors (FAAs), who'll review the application to ensure they have the relevant information to undertake a preliminary analysis.&nbsp; They may seek more information if required.</p>\r\n<p><a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/new-funding-applications/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/new-funding-applications/</a></p>",
+    "position": 0,
+    "name": "Application Received",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Aug 2019",
+          "fs": "Aug 2019",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Application received",
+          "fs": "Application received",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000PpBVs2AN"
+          },
+          "Id": "a0POZ00000PpBVs2AN",
+          "Event_Date__c": "2019-08-16",
+          "Event_Description__c": "Application received",
+          "Stage__c": "Application Received",
+          "Formatted_Date__c": "Aug 2019",
+          "Status_History__c": "a132P000000Ari8QAC"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "May 2020",
+          "fs": "May 2020",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Awaiting registration with Medsafe.",
+          "fs": "Awaiting registration with Medsafe.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000PpBVt2AN"
+          },
+          "Id": "a0POZ00000PpBVt2AN",
+          "Event_Date__c": "2020-05-27",
+          "Event_Description__c": "Awaiting registration with Medsafe.",
+          "Stage__c": "Application Received",
+          "Formatted_Date__c": "May 2020",
+          "Status_History__c": "a132P000000Bnc3QAC"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Aug 2019",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Pharmac is identifying and gathering information required to get clinical advice.  The <a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/pharmacology-and-therapeutics-advisory-committee-ptac/\" rel=\"nofollow\">Pharmacology and Therapeutics Advisory Committee (PTAC)</a>  meets quarterly. There are also around 20 expert <a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/specialist-advisory-committees/\" rel=\"nofollow\">Specialist Advisory Committees (SACs)</a>, previously expert Subcommittees, which provide clinical evaluations in specialist areas. Specialist Advisory Committees meet as required to discuss issues referred to them by PTAC or Pharmac.</p>\n<p style=\"height: 20px\">&nbsp;</p>\n<p>In November 2021, we introduced separate terms of reference for the SACs to make clear that these committees have different, but complementary, roles, expertise and perspectives to PTAC.</p>\n<p style=\"height: 15px\">&nbsp;</p>\n<p>PTAC and SACs may make recommendations to Pharmac that differ from each other when looking at the same evidence. Pharmac considers the recommendations provided by all our clinical advisory committees when assessing applications.</p>\n<p style=\"height: 20px\">&nbsp;</p>\n<p><a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/pharmacology-and-therapeutics-advisory-committee-ptac/ptac-terms-of-reference-july-2021/\" rel=\"nofollow\">PTAC</a>  and <a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/specialist-advisory-committees/specialist-advisory-committee-terms-of-reference//\" rel=\"nofollow\">Specialist Advisory Committees</a> records of the meeting will be published on this website in accordance with the Terms of Reference.</p>",
+    "position": 1,
+    "name": "Seeking Clinical Advice",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Jul 2020",
+          "fs": "Jul 2020",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Clinical advice required",
+          "fs": "Clinical advice required",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000PpBVu2AN"
+          },
+          "Id": "a0POZ00000PpBVu2AN",
+          "Event_Date__c": "2020-07-31",
+          "Event_Description__c": "Clinical advice required",
+          "Stage__c": "Seeking Clinical Advice",
+          "Formatted_Date__c": "Jul 2020",
+          "Status_History__c": "a132P000000Bzy3QAC"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Aug 2020",
+          "fs": "Aug 2020",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Assigned to Anti-Infective Subcommittee meeting to provide advice on Tuesday 22 September 2020",
+          "fs": "Assigned to Anti-Infective Subcommittee meeting to provide advice on Tuesday 22 September 2020",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000PpBVv2AN"
+          },
+          "Id": "a0POZ00000PpBVv2AN",
+          "Event_Date__c": "2020-08-12",
+          "Event_Description__c": "Assigned to Anti-Infective Subcommittee meeting to provide advice on Tuesday 22 September 2020",
+          "Stage__c": "Seeking Clinical Advice",
+          "Formatted_Date__c": "Aug 2020",
+          "Status_History__c": "a132P000000Cg8hQAC"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Oct 2020",
+          "fs": "Oct 2020",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Clinical advice required",
+          "fs": "Clinical advice required",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000PpBVw2AN"
+          },
+          "Id": "a0POZ00000PpBVw2AN",
+          "Event_Date__c": "2020-10-13",
+          "Event_Description__c": "Clinical advice required",
+          "Stage__c": "Seeking Clinical Advice",
+          "Formatted_Date__c": "Oct 2020",
+          "Status_History__c": "a132P000000DE4VQAW"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": "<p style=\"text-align: justify;\">5.1.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee recommended Subcommittee <b>recommended</b> that the application for the rifampicin/isoniazid/pyrazinamide/ethambutol fixed dose combination (FDC) tablet be funded with a <b>high priority</b>, within the context of anti-infective treatments. </p><p style=\"text-align: justify;\">5.2.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>In making this recommendation, the Subcommittee considered:</p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The likely reduction in pill burden and improved suitability of a fixed-dose combination tablet; </p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>Potentially improved adherence and avoidance of selective non-adherence associated with currently available formulations; </p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The health need of people and wider society in New Zealand due to tuberculosis (an ongoing public health issue); </p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The possibility of unquantified but potentially large cost savings with a fixed dose combination tablet; and</p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>That the risks and challenges associated with dosing using a fixed-dose combination tablet were manageable provided individual tablets remain funded.</p>",
+          "fs": "<p style=\"text-align: justify;\">5.1.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee recommended Subcommittee <b>recommended</b> that the application for the rifampicin/isoniazid/pyrazinamide/ethambutol fixed dose combination (FDC) tablet be funded with a <b>high priority</b>, within the context of anti-infective treatments. </p><p style=\"text-align: justify;\">5.2.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>In making this recommendation, the Subcommittee considered:</p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The likely reduction in pill burden and improved suitability of a fixed-dose combination tablet; </p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>Potentially improved adherence and avoidance of selective non-adherence associated with currently available formulations; </p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The health need of people and wider society in New Zealand due to tuberculosis (an ongoing public health issue); </p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The possibility of unquantified but potentially large cost savings with a fixed dose combination tablet; and</p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>That the risks and challenges associated with dosing using a fixed-dose combination tablet were manageable provided individual tablets remain funded.</p>",
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": "<p>5.1.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that tuberculosis is a bacterial infection caused by <i>Mycobacterium tuberculosis </i>and is a major cause of morbidity and mortality worldwide. The Subcommittee noted that the <a href=\"https://www.who.int/news-room/fact-sheets/detail/tuberculosis\" target=\"_blank\" style=\"color: windowtext;\">World Health Organization (WHO)</a> estimates about ten million people are diagnosed with tuberculosis annually and over half of the TB cases occur in South East Asia and the Western Pacific.</p><p><br></p><p>5.2.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that tuberculosis is a notifiable disease and that notification rates in New Zealand between 2011 and 2015 were between 6.2-7.0 per 100,000 in the population (<a href=\"https://www.health.govt.nz/system/files/documents/publications/guidelines-tuberculosis-control-new-zealand-2019-august2019-final.pdf\" target=\"_blank\">Ministry of Health, 2019</a>), equivalent to about 314 people per year in New Zealand with tuberculosis. The Subcommittee noted that the vast majority of patients with tuberculosis in New Zealand were born outside of New Zealand (<a href=\"https://www.health.govt.nz/system/files/documents/publications/guidelines-tuberculosis-control-new-zealand-2019-august2019-final.pdf\" target=\"_blank\">Ministry of Health, 2019</a>) and that between 2012 and 2016, the percentages of cases were higher for areas with higher deprivation. </p><p><br></p><p>5.3.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that the <a href=\"https://www.health.govt.nz/system/files/documents/publications/guidelines-tuberculosis-control-new-zealand-2019-august2019-final.pdf\" target=\"_blank\">Guidelines for Tuberculosis Control in New Zealand (2019. Wellington: Ministry of Health)</a> state that the initial treatment of drug-sensitive tuberculosis in adults and children over 8 years of age usually includes two months of intensive treatment (bactericidal phase), followed by four months of treatment in a continuation or sterilisation phase. The Subcommittee noted that tuberculosis treatment would most often be commenced in a hospital setting rather than in the community.</p><p><br></p><p>5.4.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that first-line funded treatment of tuberculosis consists of four medicines, either administered as individual tablets or as a two-drug combination tablet plus other individual tablets. The Subcommittee noted the applicant considers that daily dosing with currently funded treatments for tuberculosis would consist of isoniazid/rifampicin (two 150/300 mg tablets combining both medicines), pyrazinamide (four 500 mg tablets) and ethambutol (two 400 mg tablets) which is equivalent to a total daily intake of 600 mg rifampicin, 300 mg isoniazid, 2,000 mg pyrazinamide and 1,000 mg ethambutol (based on a 70 kg patient), achieved with 11 tablets per day. </p><p><br></p><p>5.5.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that tuberculosis requires a long duration of treatment, that patients with tuberculosis have a high health need, and noted that there is a public health risk for patients with active tuberculosis and that this therefore conveys a health need onto others.</p><p><br></p><p>5.6.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that current funded therapy requires a high number of tablets daily and considered that this can contribute to poor adherence and confusion, or patients may choose to be selectively non-adherent e.g. by not taking a particular medication. The Subcommittee considered that these challenges can lead to development of resistant tuberculosis, resulting in prolonged treatment of approximately six to nine months with high-cost second-line regimens.</p><p><br></p><p>5.7.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that the fixed-dose combination (FDC) tablet contains the four first-line medicines used for the treatment of tuberculosis; rifampicin 150mg + isoniazid 75mg + pyrazinamide 400mg + ethambutol 275mg for use in the bactericidal (intensive) phase of treatment, with dosing according to bodyweight category (i.e. 30-39kg: two tablets daily; 40-54kg: three tablets; 55-70kg: four tablets; &gt;70kg: five tablets). The Subcommittee noted the applicant\u2019s proposed dosing of five tablets daily of rifampicin/isoniazid/pyrazinamide/ethambutol 150 mg/75 mg/400 mg/275 mg is equivalent to a total daily intake of 750 mg rifampicin, 375 mg isoniazid, 2,000 mg pyrazinamide and 1,375 mg ethambutol based on a 70 kg patient. </p><p><br></p><p>5.8.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that no fixed-dose combination rifampicin/isoniazid/pyrazinamide/ethambutol tablet has been approved by Medsafe nor has an application for one been submitted to Medsafe. The Subcommittee noted that all individual agents are currently approved by Medsafe in New Zealand except ethambutol which is currently supplied under Section 29 of the Medicines Act 1981. </p><p><br></p><p>5.9.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that the <a href=\"https://apps.who.int/iris/bitstream/handle/10665/325771/WHO-MVP-EMP-IAU-2019.06-eng.pdf?ua=1\" target=\"_blank\">World Health Organization Model List of Essential Medicines, 21st List (Geneva: World Health Organization; 2019</a><u>)</u> recommends the use of fixed-dose combinations including the 275/75/400/150 mg fixed-dose combination tablet for tuberculosis.</p><p><br></p><p>5.10.<span style=\"font-size: 7pt;\">\u00a0</span>The Subcommittee noted that the <a href=\"https://www.health.govt.nz/system/files/documents/publications/guidelines-tuberculosis-control-new-zealand-2019-august2019-final.pdf\" target=\"_blank\">Guidelines for Tuberculosis Control</a> in New Zealand consider the advantages of fixed-dose combinations are the reduced risk of resistance developing, reduction in medication errors and fewer prescription items. The Subcommittee noted that the recommended dosages of each of the four first-line agents is presented as both a maximum dose per kilogram, and as a maximum dose per day. Members considered that reduced bioavailability of some medicines (e.g. rifampicin) was not a concern with the fixed-dose combination tablet. </p><p><br></p><p>5.11.<span style=\"font-size: 7pt;\">\u00a0</span>The Subcommittee considered that weight-based dosing (i.e. mg per kg, presented as a value range) was challenging in tuberculosis treatment and noted that the New Zealand tuberculosis guidelines specify weight-based doses that may be difficult to achieve precisely in some patients with use of fixed-dose combination tablets alone. </p><p><br></p><p>5.12.<span style=\"font-size: 7pt;\">\u00a0</span>The Subcommittee considered that the dosing of the fixed-dose combination according to bodyweight category appeared consistent with the expected bodyweight of patients with tuberculosis in New Zealand. However, the Subcommittee considered that it could under-dose some patients with low weight or whose weight is near the range limits at higher doses compared to currently funded individual drug regimens. Members considered that dosing with four tablets per day may be more suitable for a 70 kg patient than five tablets, although this would result in a lower daily dose of pyrazinamide than the funded individual drug regimen. </p><p><br></p><p>5.13.<span style=\"font-size: 7pt;\">\u00a0</span>Members noted a systematic review and meta-analysis of fixed dose combination tuberculosis therapy that states that fixed-dose combination formulations simplify tuberculosis treatment and are associated with a trend towards reduction in treatment failure or relapse (<a href=\"https://erj.ersjournals.com/content/42/3/721\" target=\"_blank\">Albanna et al. Eur Resp J. 2013;42:721-32</a>). The authors report a statistically insignificant difference in drug resistance and adverse drug reactions and a clinically unimportant difference in culture conversion after two months of treatment. Members noted the authors also state that fixed-dose combinations are not superior to individual tablets and acknowledge that none of the included studies identified improved adherence with the fixed-dose combination compared to separate formulations.</p><p><br></p><p>5.14.<span style=\"font-size: 7pt;\">\u00a0</span>The Subcommittee noted a Cochrane review of fixed-dose combinations of drugs versus single-drug formulations for treating pulmonary tuberculosis, from 13 randomised controlled trials that reported results between 1987 and 2015 that included 5,824 patients treated for newly diagnosed pulmonary tuberculosis in countries with high tuberculosis prevalence (<a href=\"https://pubmed.ncbi.nlm.nih.gov/27186634/\" target=\"_blank\">Gallardo et al. Cochrane Database Syst Rev. 2016;2016(5):CD009913</a>). The Subcommittee noted that the authors reported that there was similar efficacy with fixed-dose combination compared to single-drug formulations for the treatment of newly diagnosed tuberculosis based on moderate quality evidence.</p><p><br></p><p>5.15.<span style=\"font-size: 7pt;\">\u00a0</span>The Subcommittee also noted the following evidence which primarily consisted of applicant-identified evidence regarding fixed-dose combinations and/or the treatment of tuberculosis, in addition to other relevant evidence identified by PHARMAC:</p><p><span style=\"color: black; font-family: Symbol;\">\u00b7</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/21486974/\" target=\"_blank\">Lienhardt et al. JAMA. 2011;305:1415-23</a> (The Study C Trial: a parallel-group, open-label, non-inferiority, randomised controlled trial; N = 1,585)</p><p><span style=\"color: black; font-family: Symbol;\">\u00b7</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/19460254/\" target=\"_blank\">Bartacek et al. Int J Tuberc Lung Dis. 2009;13:760-6</a> (randomised, multi-centre, open-label study; N = 1,159)</p><p><span style=\"color: black; font-family: Symbol;\">\u00b7</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/27322164/\" target=\"_blank\">Aseffa et al. PLoS One. 2016;11:e0157434</a> (single-blind, randomised clinical trial; N = 1,000)</p><p><span style=\"color: black; font-family: Symbol;\">\u00b7</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/26106962/\" target=\"_blank\">Wu et al. Clinics. 2015;70:429-34</a> (prospective, open-label, randomised controlled study; N = 161)</p><p><span style=\"color: black; font-family: Symbol;\">\u00b7</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/17679131/\" target=\"_blank\">Bangalore et al. Am J Med. 2007;120:713-9</a> (systematic review and meta-analysis including patients with tuberculosis; N = 20,242)</p><p><span style=\"color: black; font-family: Symbol;\">\u00b7</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/28063922/\" target=\"_blank\">Lima et al. Braz J Microbiol. 2017;48:198-207</a> (systematic review and meta-analysis; N = 3,502)</p><p><span style=\"color: black; font-family: Symbol;\">\u00b7</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span><u>Krasniqi et al. Tuberc Res Treat. 2017;2017:4850324</u> (descriptive study; N = 324) </p><p><span style=\"color: black; font-family: Symbol;\">\u00b7</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/30285907/\" target=\"_blank\">Mekonnen et al. BMC Res Notes.\u00a02018;11:691</a> (cross-sectional study; N = 314) </p><p><span style=\"color: black; font-family: Symbol;\">\u00b7</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/24093037/\" target=\"_blank\">Farrell et al. Can Pharm J (Ott).\u00a02013;146:262-9</a> (case study; N = 1)<u> </u></p><p><span style=\"color: black; font-family: Symbol;\">\u00b7</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/22473754/\" target=\"_blank\">Cohen et al. J Hosp Med. 2012;7:470-5</a> (randomised controlled trial of patients hospitalized on cardiology/general medical/geriatric services)</p><p><span style=\"color: black; font-family: Symbol;\">\u00b7</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/23798083/\" target=\"_blank\">Kadhiravan T. Indian J Chest Dis Allied Sci. 2013;55:9-10</a> (editorial)</p><p><span style=\"color: black; font-family: Symbol;\">\u00b7</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://www.msh.org/resources/the-economic-cost-of-non-adherence-to-tb-medicines-resulting-from-stock-outs-and-loss-to\" target=\"_blank\">The Economic Cost of Non-adherence to TB Medicines Resulting from Stock-outs and Loss to Follow-up in Kenya</a> (2016) (report)</p><p><br></p><p>5.16.<span style=\"font-size: 7pt;\">\u00a0</span>Overall, the Subcommittee noted that the evidence for fixed-dose combinations for tuberculosis indicated that there was no difference in treatment outcomes compared with individual tablets. There was insufficient robust data to show an improved adherence with the fixed-dose combination, compared with individual tablets, but a decline in adherence would be improbable. </p><p><br></p><p>5.17.<span style=\"font-size: 7pt;\">\u00a0</span>The Subcommittee considered that the main benefit of the fixed-dose combination for tuberculosis appeared to be the reduced pill burden which could increase patient adherence to treatment. The Subcommittee considered that this would likely lead to reduced patient confusion around dosing and reduced selective non-adherence. The Subcommittee considered that the fixed-dose combination could also offered greater convenience and simplicity than the funded individual tablets.</p><p><br></p><p>5.18.<span style=\"font-size: 7pt;\">\u00a0</span>The Subcommittee noted that informal discussion with treating clinicians in New Zealand had identified strong support for the funded use of this particular fixed-dose combination and that the clinicians considered that it would improve patient care and adherence, and would reduce prescribing risks.</p><p><br></p><p>5.19.<span style=\"font-size: 7pt;\">\u00a0</span>The Subcommittee considered that, if the fixed-dose combination were to be funded for the treatment of tuberculosis, it would be important for all individual tablets to remain funded to manage toxicity and rechallenge, to facilitate optimal dosing (noting variation in patient weight including low weights and weights near the range limits at higher doses) and to allow for flexibility in patient management (e.g. for patients receiving treatment with complicated regimens).</p><p><br></p><p>5.20.<span style=\"font-size: 7pt;\">\u00a0</span>The Subcommittee considered that the fixed-dose combination could be cost-effective or potentially cost-saving, depending on price. The Subcommittee considered that no funding criteria would be required to restrict access because the fixed-dose combination would only be used for the treatment of tuberculosis, and because patient and clinician preferences including assessment of dosage calculations and options would determine whether to use fixed-dose combinations or individual medicines.</p><p><br></p><p>5.21.<span style=\"font-size: 7pt;\">\u00a0</span>Overall, the Subcommittee considered that, whilst noting the lack of robust evidence demonstrating improvements in adherence and outcomes with the fixed-dose combination, from their expert perspective (or from a treating clinician perspective) the potential benefits of the fixed-dose combination (i.e. reduced pill burden, potential for improved adherence, improved suitability, and the possibility of cost savings) outweighed the manageable risks associated with potentially underdosing patients if the fixed-dose combination were used alone for all bodyweights, and needing to access individual tablets in cases of toxicity.\u00a0</p>",
+          "fs": "<p>5.1.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that tuberculosis is a bacterial infection caused by <i>Mycobacterium tuberculosis </i>and is a major cause of morbidity and mortality worldwide. The Subcommittee noted that the <a href=\"https://www.who.int/news-room/fact-sheets/detail/tuberculosis\" target=\"_blank\" style=\"color: windowtext;\">World Health Organization (WHO)</a> estimates about ten million people are diagnosed with tuberculosis annually and over half of the TB cases occur in South East Asia and the Western Pacific.</p><p><br></p><p>5.2.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that tuberculosis is a notifiable disease and that notification rates in New Zealand between 2011 and 2015 were between 6.2-7.0 per 100,000 in the population (<a href=\"https://www.health.govt.nz/system/files/documents/publications/guidelines-tuberculosis-control-new-zealand-2019-august2019-final.pdf\" target=\"_blank\">Ministry of Health, 2019</a>), equivalent to about 314 people per year in New Zealand with tuberculosis. The Subcommittee noted that the vast majority of patients with tuberculosis in New Zealand were born outside of New Zealand (<a href=\"https://www.health.govt.nz/system/files/documents/publications/guidelines-tuberculosis-control-new-zealand-2019-august2019-final.pdf\" target=\"_blank\">Ministry of Health, 2019</a>) and that between 2012 and 2016, the percentages of cases were higher for areas with higher deprivation. </p><p><br></p><p>5.3.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that the <a href=\"https://www.health.govt.nz/system/files/documents/publications/guidelines-tuberculosis-control-new-zealand-2019-august2019-final.pdf\" target=\"_blank\">Guidelines for Tuberculosis Control in New Zealand (2019. Wellington: Ministry of Health)</a> state that the initial treatment of drug-sensitive tuberculosis in adults and children over 8 years of age usually includes two months of intensive treatment (bactericidal phase), followed by four months of treatment in a continuation or sterilisation phase. The Subcommittee noted that tuberculosis treatment would most often be commenced in a hospital setting rather than in the community.</p><p><br></p><p>5.4.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that first-line funded treatment of tuberculosis consists of four medicines, either administered as individual tablets or as a two-drug combination tablet plus other individual tablets. The Subcommittee noted the applicant considers that daily dosing with currently funded treatments for tuberculosis would consist of isoniazid/rifampicin (two 150/300 mg tablets combining both medicines), pyrazinamide (four 500 mg tablets) and ethambutol (two 400 mg tablets) which is equivalent to a total daily intake of 600 mg rifampicin, 300 mg isoniazid, 2,000 mg pyrazinamide and 1,000 mg ethambutol (based on a 70 kg patient), achieved with 11 tablets per day. </p><p><br></p><p>5.5.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that tuberculosis requires a long duration of treatment, that patients with tuberculosis have a high health need, and noted that there is a public health risk for patients with active tuberculosis and that this therefore conveys a health need onto others.</p><p><br></p><p>5.6.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that current funded therapy requires a high number of tablets daily and considered that this can contribute to poor adherence and confusion, or patients may choose to be selectively non-adherent e.g. by not taking a particular medication. The Subcommittee considered that these challenges can lead to development of resistant tuberculosis, resulting in prolonged treatment of approximately six to nine months with high-cost second-line regimens.</p><p><br></p><p>5.7.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that the fixed-dose combination (FDC) tablet contains the four first-line medicines used for the treatment of tuberculosis; rifampicin 150mg + isoniazid 75mg + pyrazinamide 400mg + ethambutol 275mg for use in the bactericidal (intensive) phase of treatment, with dosing according to bodyweight category (i.e. 30-39kg: two tablets daily; 40-54kg: three tablets; 55-70kg: four tablets; &gt;70kg: five tablets). The Subcommittee noted the applicant\u2019s proposed dosing of five tablets daily of rifampicin/isoniazid/pyrazinamide/ethambutol 150 mg/75 mg/400 mg/275 mg is equivalent to a total daily intake of 750 mg rifampicin, 375 mg isoniazid, 2,000 mg pyrazinamide and 1,375 mg ethambutol based on a 70 kg patient. </p><p><br></p><p>5.8.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that no fixed-dose combination rifampicin/isoniazid/pyrazinamide/ethambutol tablet has been approved by Medsafe nor has an application for one been submitted to Medsafe. The Subcommittee noted that all individual agents are currently approved by Medsafe in New Zealand except ethambutol which is currently supplied under Section 29 of the Medicines Act 1981. </p><p><br></p><p>5.9.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that the <a href=\"https://apps.who.int/iris/bitstream/handle/10665/325771/WHO-MVP-EMP-IAU-2019.06-eng.pdf?ua=1\" target=\"_blank\">World Health Organization Model List of Essential Medicines, 21st List (Geneva: World Health Organization; 2019</a><u>)</u> recommends the use of fixed-dose combinations including the 275/75/400/150 mg fixed-dose combination tablet for tuberculosis.</p><p><br></p><p>5.10.<span style=\"font-size: 7pt;\">\u00a0</span>The Subcommittee noted that the <a href=\"https://www.health.govt.nz/system/files/documents/publications/guidelines-tuberculosis-control-new-zealand-2019-august2019-final.pdf\" target=\"_blank\">Guidelines for Tuberculosis Control</a> in New Zealand consider the advantages of fixed-dose combinations are the reduced risk of resistance developing, reduction in medication errors and fewer prescription items. The Subcommittee noted that the recommended dosages of each of the four first-line agents is presented as both a maximum dose per kilogram, and as a maximum dose per day. Members considered that reduced bioavailability of some medicines (e.g. rifampicin) was not a concern with the fixed-dose combination tablet. </p><p><br></p><p>5.11.<span style=\"font-size: 7pt;\">\u00a0</span>The Subcommittee considered that weight-based dosing (i.e. mg per kg, presented as a value range) was challenging in tuberculosis treatment and noted that the New Zealand tuberculosis guidelines specify weight-based doses that may be difficult to achieve precisely in some patients with use of fixed-dose combination tablets alone. </p><p><br></p><p>5.12.<span style=\"font-size: 7pt;\">\u00a0</span>The Subcommittee considered that the dosing of the fixed-dose combination according to bodyweight category appeared consistent with the expected bodyweight of patients with tuberculosis in New Zealand. However, the Subcommittee considered that it could under-dose some patients with low weight or whose weight is near the range limits at higher doses compared to currently funded individual drug regimens. Members considered that dosing with four tablets per day may be more suitable for a 70 kg patient than five tablets, although this would result in a lower daily dose of pyrazinamide than the funded individual drug regimen. </p><p><br></p><p>5.13.<span style=\"font-size: 7pt;\">\u00a0</span>Members noted a systematic review and meta-analysis of fixed dose combination tuberculosis therapy that states that fixed-dose combination formulations simplify tuberculosis treatment and are associated with a trend towards reduction in treatment failure or relapse (<a href=\"https://erj.ersjournals.com/content/42/3/721\" target=\"_blank\">Albanna et al. Eur Resp J. 2013;42:721-32</a>). The authors report a statistically insignificant difference in drug resistance and adverse drug reactions and a clinically unimportant difference in culture conversion after two months of treatment. Members noted the authors also state that fixed-dose combinations are not superior to individual tablets and acknowledge that none of the included studies identified improved adherence with the fixed-dose combination compared to separate formulations.</p><p><br></p><p>5.14.<span style=\"font-size: 7pt;\">\u00a0</span>The Subcommittee noted a Cochrane review of fixed-dose combinations of drugs versus single-drug formulations for treating pulmonary tuberculosis, from 13 randomised controlled trials that reported results between 1987 and 2015 that included 5,824 patients treated for newly diagnosed pulmonary tuberculosis in countries with high tuberculosis prevalence (<a href=\"https://pubmed.ncbi.nlm.nih.gov/27186634/\" target=\"_blank\">Gallardo et al. Cochrane Database Syst Rev. 2016;2016(5):CD009913</a>). The Subcommittee noted that the authors reported that there was similar efficacy with fixed-dose combination compared to single-drug formulations for the treatment of newly diagnosed tuberculosis based on moderate quality evidence.</p><p><br></p><p>5.15.<span style=\"font-size: 7pt;\">\u00a0</span>The Subcommittee also noted the following evidence which primarily consisted of applicant-identified evidence regarding fixed-dose combinations and/or the treatment of tuberculosis, in addition to other relevant evidence identified by PHARMAC:</p><p><span style=\"color: black; font-family: Symbol;\">\u00b7</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/21486974/\" target=\"_blank\">Lienhardt et al. JAMA. 2011;305:1415-23</a> (The Study C Trial: a parallel-group, open-label, non-inferiority, randomised controlled trial; N = 1,585)</p><p><span style=\"color: black; font-family: Symbol;\">\u00b7</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/19460254/\" target=\"_blank\">Bartacek et al. Int J Tuberc Lung Dis. 2009;13:760-6</a> (randomised, multi-centre, open-label study; N = 1,159)</p><p><span style=\"color: black; font-family: Symbol;\">\u00b7</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/27322164/\" target=\"_blank\">Aseffa et al. PLoS One. 2016;11:e0157434</a> (single-blind, randomised clinical trial; N = 1,000)</p><p><span style=\"color: black; font-family: Symbol;\">\u00b7</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/26106962/\" target=\"_blank\">Wu et al. Clinics. 2015;70:429-34</a> (prospective, open-label, randomised controlled study; N = 161)</p><p><span style=\"color: black; font-family: Symbol;\">\u00b7</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/17679131/\" target=\"_blank\">Bangalore et al. Am J Med. 2007;120:713-9</a> (systematic review and meta-analysis including patients with tuberculosis; N = 20,242)</p><p><span style=\"color: black; font-family: Symbol;\">\u00b7</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/28063922/\" target=\"_blank\">Lima et al. Braz J Microbiol. 2017;48:198-207</a> (systematic review and meta-analysis; N = 3,502)</p><p><span style=\"color: black; font-family: Symbol;\">\u00b7</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span><u>Krasniqi et al. Tuberc Res Treat. 2017;2017:4850324</u> (descriptive study; N = 324) </p><p><span style=\"color: black; font-family: Symbol;\">\u00b7</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/30285907/\" target=\"_blank\">Mekonnen et al. BMC Res Notes.\u00a02018;11:691</a> (cross-sectional study; N = 314) </p><p><span style=\"color: black; font-family: Symbol;\">\u00b7</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/24093037/\" target=\"_blank\">Farrell et al. Can Pharm J (Ott).\u00a02013;146:262-9</a> (case study; N = 1)<u> </u></p><p><span style=\"color: black; font-family: Symbol;\">\u00b7</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/22473754/\" target=\"_blank\">Cohen et al. J Hosp Med. 2012;7:470-5</a> (randomised controlled trial of patients hospitalized on cardiology/general medical/geriatric services)</p><p><span style=\"color: black; font-family: Symbol;\">\u00b7</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/23798083/\" target=\"_blank\">Kadhiravan T. Indian J Chest Dis Allied Sci. 2013;55:9-10</a> (editorial)</p><p><span style=\"color: black; font-family: Symbol;\">\u00b7</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://www.msh.org/resources/the-economic-cost-of-non-adherence-to-tb-medicines-resulting-from-stock-outs-and-loss-to\" target=\"_blank\">The Economic Cost of Non-adherence to TB Medicines Resulting from Stock-outs and Loss to Follow-up in Kenya</a> (2016) (report)</p><p><br></p><p>5.16.<span style=\"font-size: 7pt;\">\u00a0</span>Overall, the Subcommittee noted that the evidence for fixed-dose combinations for tuberculosis indicated that there was no difference in treatment outcomes compared with individual tablets. There was insufficient robust data to show an improved adherence with the fixed-dose combination, compared with individual tablets, but a decline in adherence would be improbable. </p><p><br></p><p>5.17.<span style=\"font-size: 7pt;\">\u00a0</span>The Subcommittee considered that the main benefit of the fixed-dose combination for tuberculosis appeared to be the reduced pill burden which could increase patient adherence to treatment. The Subcommittee considered that this would likely lead to reduced patient confusion around dosing and reduced selective non-adherence. The Subcommittee considered that the fixed-dose combination could also offered greater convenience and simplicity than the funded individual tablets.</p><p><br></p><p>5.18.<span style=\"font-size: 7pt;\">\u00a0</span>The Subcommittee noted that informal discussion with treating clinicians in New Zealand had identified strong support for the funded use of this particular fixed-dose combination and that the clinicians considered that it would improve patient care and adherence, and would reduce prescribing risks.</p><p><br></p><p>5.19.<span style=\"font-size: 7pt;\">\u00a0</span>The Subcommittee considered that, if the fixed-dose combination were to be funded for the treatment of tuberculosis, it would be important for all individual tablets to remain funded to manage toxicity and rechallenge, to facilitate optimal dosing (noting variation in patient weight including low weights and weights near the range limits at higher doses) and to allow for flexibility in patient management (e.g. for patients receiving treatment with complicated regimens).</p><p><br></p><p>5.20.<span style=\"font-size: 7pt;\">\u00a0</span>The Subcommittee considered that the fixed-dose combination could be cost-effective or potentially cost-saving, depending on price. The Subcommittee considered that no funding criteria would be required to restrict access because the fixed-dose combination would only be used for the treatment of tuberculosis, and because patient and clinician preferences including assessment of dosage calculations and options would determine whether to use fixed-dose combinations or individual medicines.</p><p><br></p><p>5.21.<span style=\"font-size: 7pt;\">\u00a0</span>Overall, the Subcommittee considered that, whilst noting the lack of robust evidence demonstrating improvements in adherence and outcomes with the fixed-dose combination, from their expert perspective (or from a treating clinician perspective) the potential benefits of the fixed-dose combination (i.e. reduced pill burden, potential for improved adherence, improved suitability, and the possibility of cost savings) outweighed the manageable risks associated with potentially underdosing patients if the fixed-dose combination were used alone for all bodyweights, and needing to access individual tablets in cases of toxicity.\u00a0</p>",
+          "change": null
+        },
+        "Published_Application": {
+          "s": "<p>5.1.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee reviewed the clinician application for a four-drug fixed dose combination (FDC) tablet containing rifampicin 150 mg, isoniazid 75 mg, pyrazinamide 400 mg and ethambutol hydrochloride 275 mg (Rimstar, Voractiv; from Sandoz UK) for the treatment of tuberculosis according to World Health Organization (WHO) and New Zealand treatment guidelines.</p><p>5.2.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee took into account, where applicable, PHARMAC\u2019s relevant decision-making framework when considering this agenda item.</p>",
+          "fs": "<p>5.1.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee reviewed the clinician application for a four-drug fixed dose combination (FDC) tablet containing rifampicin 150 mg, isoniazid 75 mg, pyrazinamide 400 mg and ethambutol hydrochloride 275 mg (Rimstar, Voractiv; from Sandoz UK) for the treatment of tuberculosis according to World Health Organization (WHO) and New Zealand treatment guidelines.</p><p>5.2.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee took into account, where applicable, PHARMAC\u2019s relevant decision-making framework when considering this agenda item.</p>",
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": "<p>1.1.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>In regard to item 7, rifampicin/isoniazid/pyrazinamide/ethambutol - fixed dose combination for tuberculosis:</p><p>1.1.1.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted the Subcommittee\u2019s high priority recommendation for this application.</p><p>1.1.2.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that there would likely be a high degree of patient and clinician preference for a fixed-dose combination product. </p><p>1.1.3.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that there was no evidence to suggest that the fixed-dose combination provided improved adherence or provided any other benefits over the multiple drug agents. </p><p>1.1.4.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that in the New Zealand context, adherence to the multiple drug agents was unlikely to be the cause of tuberculosis-related death. </p><p>1.1.5.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that based on international pricing, the fixed-dose combination product appeared to be cost-saving to the combined pharmaceutical budget. The Committee noted that there is currently no approved product in New Zealand, but <b>recommended</b> that rifampicin/isoniazid/pyrazinamide/ethambutol - fixed dose combination be funded if cost neutral to the individual agents.</p><p>1.1.6.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that if pricing was not cost neutral, that PTAC or the Subcommittee should reconsider the application.\u00a0</p>",
+          "fs": "<p>1.1.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>In regard to item 7, rifampicin/isoniazid/pyrazinamide/ethambutol - fixed dose combination for tuberculosis:</p><p>1.1.1.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted the Subcommittee\u2019s high priority recommendation for this application.</p><p>1.1.2.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that there would likely be a high degree of patient and clinician preference for a fixed-dose combination product. </p><p>1.1.3.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that there was no evidence to suggest that the fixed-dose combination provided improved adherence or provided any other benefits over the multiple drug agents. </p><p>1.1.4.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that in the New Zealand context, adherence to the multiple drug agents was unlikely to be the cause of tuberculosis-related death. </p><p>1.1.5.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that based on international pricing, the fixed-dose combination product appeared to be cost-saving to the combined pharmaceutical budget. The Committee noted that there is currently no approved product in New Zealand, but <b>recommended</b> that rifampicin/isoniazid/pyrazinamide/ethambutol - fixed dose combination be funded if cost neutral to the individual agents.</p><p>1.1.6.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that if pricing was not cost neutral, that PTAC or the Subcommittee should reconsider the application.\u00a0</p>",
+          "change": null
+        },
+        "Outcome": {
+          "s": "High",
+          "fs": "High",
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Mar 2021",
+          "fs": "Mar 2021",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Clinical advice received from Anti-Infective Subcommittee at meeting Tuesday 22 September 2020.",
+          "fs": "Clinical advice received from Anti-Infective Subcommittee at meeting Tuesday 22 September 2020.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000PpBVx2AN"
+          },
+          "Id": "a0POZ00000PpBVx2AN",
+          "Event_Date__c": "2021-03-18",
+          "Event_Description__c": "Clinical advice received from Anti-Infective Subcommittee at meeting Tuesday 22 September 2020.",
+          "Stage__c": "Seeking Clinical Advice",
+          "Outcome__c": "High",
+          "Formatted_Date__c": "Mar 2021",
+          "Published_Recommendation__c": "<p style=\"text-align: justify;\">5.1.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee recommended Subcommittee <b>recommended</b> that the application for the rifampicin/isoniazid/pyrazinamide/ethambutol fixed dose combination (FDC) tablet be funded with a <b>high priority</b>, within the context of anti-infective treatments. </p><p style=\"text-align: justify;\">5.2.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>In making this recommendation, the Subcommittee considered:</p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The likely reduction in pill burden and improved suitability of a fixed-dose combination tablet; </p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>Potentially improved adherence and avoidance of selective non-adherence associated with currently available formulations; </p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The health need of people and wider society in New Zealand due to tuberculosis (an ongoing public health issue); </p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The possibility of unquantified but potentially large cost savings with a fixed dose combination tablet; and</p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>That the risks and challenges associated with dosing using a fixed-dose combination tablet were manageable provided individual tablets remain funded.</p>",
+          "Published_Application__c": "<p>5.1.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee reviewed the clinician application for a four-drug fixed dose combination (FDC) tablet containing rifampicin 150 mg, isoniazid 75 mg, pyrazinamide 400 mg and ethambutol hydrochloride 275 mg (Rimstar, Voractiv; from Sandoz UK) for the treatment of tuberculosis according to World Health Organization (WHO) and New Zealand treatment guidelines.</p><p>5.2.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee took into account, where applicable, PHARMAC\u2019s relevant decision-making framework when considering this agenda item.</p>",
+          "Published_Discussion__c": "<p>5.1.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that tuberculosis is a bacterial infection caused by <i>Mycobacterium tuberculosis </i>and is a major cause of morbidity and mortality worldwide. The Subcommittee noted that the <a href=\"https://www.who.int/news-room/fact-sheets/detail/tuberculosis\" target=\"_blank\" style=\"color: windowtext;\">World Health Organization (WHO)</a> estimates about ten million people are diagnosed with tuberculosis annually and over half of the TB cases occur in South East Asia and the Western Pacific.</p><p><br></p><p>5.2.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that tuberculosis is a notifiable disease and that notification rates in New Zealand between 2011 and 2015 were between 6.2-7.0 per 100,000 in the population (<a href=\"https://www.health.govt.nz/system/files/documents/publications/guidelines-tuberculosis-control-new-zealand-2019-august2019-final.pdf\" target=\"_blank\">Ministry of Health, 2019</a>), equivalent to about 314 people per year in New Zealand with tuberculosis. The Subcommittee noted that the vast majority of patients with tuberculosis in New Zealand were born outside of New Zealand (<a href=\"https://www.health.govt.nz/system/files/documents/publications/guidelines-tuberculosis-control-new-zealand-2019-august2019-final.pdf\" target=\"_blank\">Ministry of Health, 2019</a>) and that between 2012 and 2016, the percentages of cases were higher for areas with higher deprivation. </p><p><br></p><p>5.3.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that the <a href=\"https://www.health.govt.nz/system/files/documents/publications/guidelines-tuberculosis-control-new-zealand-2019-august2019-final.pdf\" target=\"_blank\">Guidelines for Tuberculosis Control in New Zealand (2019. Wellington: Ministry of Health)</a> state that the initial treatment of drug-sensitive tuberculosis in adults and children over 8 years of age usually includes two months of intensive treatment (bactericidal phase), followed by four months of treatment in a continuation or sterilisation phase. The Subcommittee noted that tuberculosis treatment would most often be commenced in a hospital setting rather than in the community.</p><p><br></p><p>5.4.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that first-line funded treatment of tuberculosis consists of four medicines, either administered as individual tablets or as a two-drug combination tablet plus other individual tablets. The Subcommittee noted the applicant considers that daily dosing with currently funded treatments for tuberculosis would consist of isoniazid/rifampicin (two 150/300 mg tablets combining both medicines), pyrazinamide (four 500 mg tablets) and ethambutol (two 400 mg tablets) which is equivalent to a total daily intake of 600 mg rifampicin, 300 mg isoniazid, 2,000 mg pyrazinamide and 1,000 mg ethambutol (based on a 70 kg patient), achieved with 11 tablets per day. </p><p><br></p><p>5.5.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that tuberculosis requires a long duration of treatment, that patients with tuberculosis have a high health need, and noted that there is a public health risk for patients with active tuberculosis and that this therefore conveys a health need onto others.</p><p><br></p><p>5.6.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that current funded therapy requires a high number of tablets daily and considered that this can contribute to poor adherence and confusion, or patients may choose to be selectively non-adherent e.g. by not taking a particular medication. The Subcommittee considered that these challenges can lead to development of resistant tuberculosis, resulting in prolonged treatment of approximately six to nine months with high-cost second-line regimens.</p><p><br></p><p>5.7.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that the fixed-dose combination (FDC) tablet contains the four first-line medicines used for the treatment of tuberculosis; rifampicin 150mg + isoniazid 75mg + pyrazinamide 400mg + ethambutol 275mg for use in the bactericidal (intensive) phase of treatment, with dosing according to bodyweight category (i.e. 30-39kg: two tablets daily; 40-54kg: three tablets; 55-70kg: four tablets; &gt;70kg: five tablets). The Subcommittee noted the applicant\u2019s proposed dosing of five tablets daily of rifampicin/isoniazid/pyrazinamide/ethambutol 150 mg/75 mg/400 mg/275 mg is equivalent to a total daily intake of 750 mg rifampicin, 375 mg isoniazid, 2,000 mg pyrazinamide and 1,375 mg ethambutol based on a 70 kg patient. </p><p><br></p><p>5.8.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that no fixed-dose combination rifampicin/isoniazid/pyrazinamide/ethambutol tablet has been approved by Medsafe nor has an application for one been submitted to Medsafe. The Subcommittee noted that all individual agents are currently approved by Medsafe in New Zealand except ethambutol which is currently supplied under Section 29 of the Medicines Act 1981. </p><p><br></p><p>5.9.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that the <a href=\"https://apps.who.int/iris/bitstream/handle/10665/325771/WHO-MVP-EMP-IAU-2019.06-eng.pdf?ua=1\" target=\"_blank\">World Health Organization Model List of Essential Medicines, 21st List (Geneva: World Health Organization; 2019</a><u>)</u> recommends the use of fixed-dose combinations including the 275/75/400/150 mg fixed-dose combination tablet for tuberculosis.</p><p><br></p><p>5.10.<span style=\"font-size: 7pt;\">\u00a0</span>The Subcommittee noted that the <a href=\"https://www.health.govt.nz/system/files/documents/publications/guidelines-tuberculosis-control-new-zealand-2019-august2019-final.pdf\" target=\"_blank\">Guidelines for Tuberculosis Control</a> in New Zealand consider the advantages of fixed-dose combinations are the reduced risk of resistance developing, reduction in medication errors and fewer prescription items. The Subcommittee noted that the recommended dosages of each of the four first-line agents is presented as both a maximum dose per kilogram, and as a maximum dose per day. Members considered that reduced bioavailability of some medicines (e.g. rifampicin) was not a concern with the fixed-dose combination tablet. </p><p><br></p><p>5.11.<span style=\"font-size: 7pt;\">\u00a0</span>The Subcommittee considered that weight-based dosing (i.e. mg per kg, presented as a value range) was challenging in tuberculosis treatment and noted that the New Zealand tuberculosis guidelines specify weight-based doses that may be difficult to achieve precisely in some patients with use of fixed-dose combination tablets alone. </p><p><br></p><p>5.12.<span style=\"font-size: 7pt;\">\u00a0</span>The Subcommittee considered that the dosing of the fixed-dose combination according to bodyweight category appeared consistent with the expected bodyweight of patients with tuberculosis in New Zealand. However, the Subcommittee considered that it could under-dose some patients with low weight or whose weight is near the range limits at higher doses compared to currently funded individual drug regimens. Members considered that dosing with four tablets per day may be more suitable for a 70 kg patient than five tablets, although this would result in a lower daily dose of pyrazinamide than the funded individual drug regimen. </p><p><br></p><p>5.13.<span style=\"font-size: 7pt;\">\u00a0</span>Members noted a systematic review and meta-analysis of fixed dose combination tuberculosis therapy that states that fixed-dose combination formulations simplify tuberculosis treatment and are associated with a trend towards reduction in treatment failure or relapse (<a href=\"https://erj.ersjournals.com/content/42/3/721\" target=\"_blank\">Albanna et al. Eur Resp J. 2013;42:721-32</a>). The authors report a statistically insignificant difference in drug resistance and adverse drug reactions and a clinically unimportant difference in culture conversion after two months of treatment. Members noted the authors also state that fixed-dose combinations are not superior to individual tablets and acknowledge that none of the included studies identified improved adherence with the fixed-dose combination compared to separate formulations.</p><p><br></p><p>5.14.<span style=\"font-size: 7pt;\">\u00a0</span>The Subcommittee noted a Cochrane review of fixed-dose combinations of drugs versus single-drug formulations for treating pulmonary tuberculosis, from 13 randomised controlled trials that reported results between 1987 and 2015 that included 5,824 patients treated for newly diagnosed pulmonary tuberculosis in countries with high tuberculosis prevalence (<a href=\"https://pubmed.ncbi.nlm.nih.gov/27186634/\" target=\"_blank\">Gallardo et al. Cochrane Database Syst Rev. 2016;2016(5):CD009913</a>). The Subcommittee noted that the authors reported that there was similar efficacy with fixed-dose combination compared to single-drug formulations for the treatment of newly diagnosed tuberculosis based on moderate quality evidence.</p><p><br></p><p>5.15.<span style=\"font-size: 7pt;\">\u00a0</span>The Subcommittee also noted the following evidence which primarily consisted of applicant-identified evidence regarding fixed-dose combinations and/or the treatment of tuberculosis, in addition to other relevant evidence identified by PHARMAC:</p><p><span style=\"color: black; font-family: Symbol;\">\u00b7</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/21486974/\" target=\"_blank\">Lienhardt et al. JAMA. 2011;305:1415-23</a> (The Study C Trial: a parallel-group, open-label, non-inferiority, randomised controlled trial; N = 1,585)</p><p><span style=\"color: black; font-family: Symbol;\">\u00b7</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/19460254/\" target=\"_blank\">Bartacek et al. Int J Tuberc Lung Dis. 2009;13:760-6</a> (randomised, multi-centre, open-label study; N = 1,159)</p><p><span style=\"color: black; font-family: Symbol;\">\u00b7</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/27322164/\" target=\"_blank\">Aseffa et al. PLoS One. 2016;11:e0157434</a> (single-blind, randomised clinical trial; N = 1,000)</p><p><span style=\"color: black; font-family: Symbol;\">\u00b7</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/26106962/\" target=\"_blank\">Wu et al. Clinics. 2015;70:429-34</a> (prospective, open-label, randomised controlled study; N = 161)</p><p><span style=\"color: black; font-family: Symbol;\">\u00b7</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/17679131/\" target=\"_blank\">Bangalore et al. Am J Med. 2007;120:713-9</a> (systematic review and meta-analysis including patients with tuberculosis; N = 20,242)</p><p><span style=\"color: black; font-family: Symbol;\">\u00b7</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/28063922/\" target=\"_blank\">Lima et al. Braz J Microbiol. 2017;48:198-207</a> (systematic review and meta-analysis; N = 3,502)</p><p><span style=\"color: black; font-family: Symbol;\">\u00b7</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span><u>Krasniqi et al. Tuberc Res Treat. 2017;2017:4850324</u> (descriptive study; N = 324) </p><p><span style=\"color: black; font-family: Symbol;\">\u00b7</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/30285907/\" target=\"_blank\">Mekonnen et al. BMC Res Notes.\u00a02018;11:691</a> (cross-sectional study; N = 314) </p><p><span style=\"color: black; font-family: Symbol;\">\u00b7</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/24093037/\" target=\"_blank\">Farrell et al. Can Pharm J (Ott).\u00a02013;146:262-9</a> (case study; N = 1)<u> </u></p><p><span style=\"color: black; font-family: Symbol;\">\u00b7</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/22473754/\" target=\"_blank\">Cohen et al. J Hosp Med. 2012;7:470-5</a> (randomised controlled trial of patients hospitalized on cardiology/general medical/geriatric services)</p><p><span style=\"color: black; font-family: Symbol;\">\u00b7</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/23798083/\" target=\"_blank\">Kadhiravan T. Indian J Chest Dis Allied Sci. 2013;55:9-10</a> (editorial)</p><p><span style=\"color: black; font-family: Symbol;\">\u00b7</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://www.msh.org/resources/the-economic-cost-of-non-adherence-to-tb-medicines-resulting-from-stock-outs-and-loss-to\" target=\"_blank\">The Economic Cost of Non-adherence to TB Medicines Resulting from Stock-outs and Loss to Follow-up in Kenya</a> (2016) (report)</p><p><br></p><p>5.16.<span style=\"font-size: 7pt;\">\u00a0</span>Overall, the Subcommittee noted that the evidence for fixed-dose combinations for tuberculosis indicated that there was no difference in treatment outcomes compared with individual tablets. There was insufficient robust data to show an improved adherence with the fixed-dose combination, compared with individual tablets, but a decline in adherence would be improbable. </p><p><br></p><p>5.17.<span style=\"font-size: 7pt;\">\u00a0</span>The Subcommittee considered that the main benefit of the fixed-dose combination for tuberculosis appeared to be the reduced pill burden which could increase patient adherence to treatment. The Subcommittee considered that this would likely lead to reduced patient confusion around dosing and reduced selective non-adherence. The Subcommittee considered that the fixed-dose combination could also offered greater convenience and simplicity than the funded individual tablets.</p><p><br></p><p>5.18.<span style=\"font-size: 7pt;\">\u00a0</span>The Subcommittee noted that informal discussion with treating clinicians in New Zealand had identified strong support for the funded use of this particular fixed-dose combination and that the clinicians considered that it would improve patient care and adherence, and would reduce prescribing risks.</p><p><br></p><p>5.19.<span style=\"font-size: 7pt;\">\u00a0</span>The Subcommittee considered that, if the fixed-dose combination were to be funded for the treatment of tuberculosis, it would be important for all individual tablets to remain funded to manage toxicity and rechallenge, to facilitate optimal dosing (noting variation in patient weight including low weights and weights near the range limits at higher doses) and to allow for flexibility in patient management (e.g. for patients receiving treatment with complicated regimens).</p><p><br></p><p>5.20.<span style=\"font-size: 7pt;\">\u00a0</span>The Subcommittee considered that the fixed-dose combination could be cost-effective or potentially cost-saving, depending on price. The Subcommittee considered that no funding criteria would be required to restrict access because the fixed-dose combination would only be used for the treatment of tuberculosis, and because patient and clinician preferences including assessment of dosage calculations and options would determine whether to use fixed-dose combinations or individual medicines.</p><p><br></p><p>5.21.<span style=\"font-size: 7pt;\">\u00a0</span>Overall, the Subcommittee considered that, whilst noting the lack of robust evidence demonstrating improvements in adherence and outcomes with the fixed-dose combination, from their expert perspective (or from a treating clinician perspective) the potential benefits of the fixed-dose combination (i.e. reduced pill burden, potential for improved adherence, improved suitability, and the possibility of cost savings) outweighed the manageable risks associated with potentially underdosing patients if the fixed-dose combination were used alone for all bodyweights, and needing to access individual tablets in cases of toxicity.\u00a0</p>",
+          "PTAC_Comments__c": "<p>1.1.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>In regard to item 7, rifampicin/isoniazid/pyrazinamide/ethambutol - fixed dose combination for tuberculosis:</p><p>1.1.1.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted the Subcommittee\u2019s high priority recommendation for this application.</p><p>1.1.2.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that there would likely be a high degree of patient and clinician preference for a fixed-dose combination product. </p><p>1.1.3.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that there was no evidence to suggest that the fixed-dose combination provided improved adherence or provided any other benefits over the multiple drug agents. </p><p>1.1.4.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that in the New Zealand context, adherence to the multiple drug agents was unlikely to be the cause of tuberculosis-related death. </p><p>1.1.5.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that based on international pricing, the fixed-dose combination product appeared to be cost-saving to the combined pharmaceutical budget. The Committee noted that there is currently no approved product in New Zealand, but <b>recommended</b> that rifampicin/isoniazid/pyrazinamide/ethambutol - fixed dose combination be funded if cost neutral to the individual agents.</p><p>1.1.6.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that if pricing was not cost neutral, that PTAC or the Subcommittee should reconsider the application.\u00a0</p>",
+          "Status_History__c": "a132P000000ChRbQAK"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": "<p>The Committee noted that based on international pricing, the fixed-dose combination product appeared to be cost-saving to the combined pharmaceutical budget. The Committee noted that there is currently no approved product in New Zealand, but recommended that rifampicin/isoniazid/pyrazinamide/ethambutol - fixed dose combination be funded if cost neutral to the individual agents.</p><p><br></p><p>The Committee noted that if pricing was not cost neutral, that PTAC or the Subcommittee should reconsider the application.</p>",
+          "fs": "<p>The Committee noted that based on international pricing, the fixed-dose combination product appeared to be cost-saving to the combined pharmaceutical budget. The Committee noted that there is currently no approved product in New Zealand, but recommended that rifampicin/isoniazid/pyrazinamide/ethambutol - fixed dose combination be funded if cost neutral to the individual agents.</p><p><br></p><p>The Committee noted that if pricing was not cost neutral, that PTAC or the Subcommittee should reconsider the application.</p>",
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": "<p>In regard to item 7, rifampicin/isoniazid/pyrazinamide/ethambutol - fixed dose combination for tuberculosis:</p><p><br></p><p>The Committee noted the Subcommittee\u2019s high priority recommendation for this application. </p><p><br></p><p>The Committee noted that there would likely be a high degree of patient and clinician preference for a fixed-dose combination product.</p><p><br></p><p>The Committee noted that there was no evidence to suggest that the fixed-dose combination provided improved adherence or provided any other benefits over the multiple drug agents. </p><p><br></p><p>The Committee considered that in the New Zealand context, adherence to the multiple drug agents was unlikely to be the cause of tuberculosis-related death.</p>",
+          "fs": "<p>In regard to item 7, rifampicin/isoniazid/pyrazinamide/ethambutol - fixed dose combination for tuberculosis:</p><p><br></p><p>The Committee noted the Subcommittee\u2019s high priority recommendation for this application. </p><p><br></p><p>The Committee noted that there would likely be a high degree of patient and clinician preference for a fixed-dose combination product.</p><p><br></p><p>The Committee noted that there was no evidence to suggest that the fixed-dose combination provided improved adherence or provided any other benefits over the multiple drug agents. </p><p><br></p><p>The Committee considered that in the New Zealand context, adherence to the multiple drug agents was unlikely to be the cause of tuberculosis-related death.</p>",
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": "Cost Neutral",
+          "fs": "Cost Neutral",
+          "change": null
+        },
+        "Links": {
+          "s": "<p><a href=\"https://pharmac.govt.nz/assets/2021-02-18-PTAC-Record.pdf\" target=\"_blank\">PTAC meeting record</a></p>",
+          "fs": "<p><a href=\"https://pharmac.govt.nz/assets/2021-02-18-PTAC-Record.pdf\" target=\"_blank\">PTAC meeting record</a></p>",
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "May 2021",
+          "fs": "May 2021",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Clinical advice received from Pharmacology and Therapeutics Advisory Committee (PTAC) at meeting Friday 19 February 2021.",
+          "fs": "Clinical advice received from Pharmacology and Therapeutics Advisory Committee (PTAC) at meeting Friday 19 February 2021.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000PpBVz2AN"
+          },
+          "Id": "a0POZ00000PpBVz2AN",
+          "Event_Date__c": "2021-05-12",
+          "Event_Description__c": "Clinical advice received from Pharmacology and Therapeutics Advisory Committee (PTAC) at meeting Friday 19 February 2021.",
+          "Stage__c": "Seeking Clinical Advice",
+          "Links__c": "<p><a href=\"https://pharmac.govt.nz/assets/2021-02-18-PTAC-Record.pdf\" target=\"_blank\">PTAC meeting record</a></p>",
+          "Outcome__c": "Cost Neutral",
+          "Formatted_Date__c": "May 2021",
+          "Published_Recommendation__c": "<p>The Committee noted that based on international pricing, the fixed-dose combination product appeared to be cost-saving to the combined pharmaceutical budget. The Committee noted that there is currently no approved product in New Zealand, but recommended that rifampicin/isoniazid/pyrazinamide/ethambutol - fixed dose combination be funded if cost neutral to the individual agents.</p><p><br></p><p>The Committee noted that if pricing was not cost neutral, that PTAC or the Subcommittee should reconsider the application.</p>",
+          "Published_Discussion__c": "<p>In regard to item 7, rifampicin/isoniazid/pyrazinamide/ethambutol - fixed dose combination for tuberculosis:</p><p><br></p><p>The Committee noted the Subcommittee\u2019s high priority recommendation for this application. </p><p><br></p><p>The Committee noted that there would likely be a high degree of patient and clinician preference for a fixed-dose combination product.</p><p><br></p><p>The Committee noted that there was no evidence to suggest that the fixed-dose combination provided improved adherence or provided any other benefits over the multiple drug agents. </p><p><br></p><p>The Committee considered that in the New Zealand context, adherence to the multiple drug agents was unlikely to be the cause of tuberculosis-related death.</p>",
+          "Status_History__c": "a132P000000DE4tQAG"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Jul 2020",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Following Clinical Advice, Pharmac staff considers the advice and the funding application under goes an assessment using our&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/factors-for-consideration/\" rel=\"nofollow\">Factors for Consideration</a>&nbsp;framework and seeks additional information as required.</p>\r\n<p>&nbsp;</p>\r\n<p>Research and Economic analysis are undertaken.&nbsp; This focuses on the costs and benefits of a proposed course of action. Economics is based on three fundamental concepts that summarise the issues Pharmac faces daily:&nbsp;</p>\r\n<ul>\r\n<li>Scarcity &ndash; resources will always be insufficient to support all possible activities.</li>\r\n<li>Choices &ndash; due to scarce resources, decisions must be made about how best to use them.</li>\r\n<li>Opportunity cost &ndash; by choosing to use resources one way, we forgo other opportunities to use the same resources.</li>\r\n</ul>\r\n<p>&nbsp;</p>\r\n<p>For further information on the purpose of, and techniques for, undertaking economic analysis in health care, please refer&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/economic-analysis/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/economic-analysis/</a></p>",
+    "position": 2,
+    "name": "Under Assessment",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Mar 2021",
+          "fs": "Mar 2021",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Working to compare options",
+          "fs": "Working to compare options",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000PpBVy2AN"
+          },
+          "Id": "a0POZ00000PpBVy2AN",
+          "Event_Date__c": "2021-03-28",
+          "Event_Description__c": "Working to compare options",
+          "Stage__c": "Under Assessment",
+          "Formatted_Date__c": "Mar 2021",
+          "Status_History__c": "a132P000000CigKQAS"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Jul 2024",
+          "fs": "Jul 2024",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Working to compare options",
+          "fs": "Working to compare options",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000PpBW32AN"
+          },
+          "Id": "a0POZ00000PpBW32AN",
+          "Event_Date__c": "2024-07-30",
+          "Event_Description__c": "Working to compare options",
+          "Stage__c": "Under Assessment",
+          "Formatted_Date__c": "Jul 2024",
+          "Status_History__c": "a13OZ00000CiU3WYAV"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Mar 2021",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Pharmac staff uses a prioritisation process to compare and rank funding options. Possible opportunities for new investment will always exceed the budget Pharmac has available; therefore, prioritisation is an intrinsic part of Pharmac\u2019s decision-making process.</p>\r\n<p>The relative ranking of options aims to support Pharmac&rsquo;s statutory objective &ldquo;to secure for eligible people in need of pharmaceuticals, the best health outcomes that are reasonably achievable from pharmaceutical treatment and from within the amount of funding provided&rdquo;.</p>\r\n<p>A funding application or proposal is considered ready for prioritisation when sufficient information is available to permit it to be reviewed against Pharmac's Factors for Consideration and to inform a comparison with other possible investment decisions.</p>\r\n<p>There is no guarantee when or if a ranked medicine will be funded.&nbsp;&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/prioritisation/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/prioritisation/</a></p>",
+    "position": 3,
+    "name": "Options Compared",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "May 2021",
+          "fs": "May 2021",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "The relative ranking of the pharmaceutical application has been completed.",
+          "fs": "The relative ranking of the pharmaceutical application has been completed.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000PpBW02AN"
+          },
+          "Id": "a0POZ00000PpBW02AN",
+          "Event_Date__c": "2021-05-27",
+          "Event_Description__c": "The relative ranking of the pharmaceutical application has been completed.",
+          "Stage__c": "Options Compared",
+          "Formatted_Date__c": "May 2021",
+          "Status_History__c": "a132P000000CsgeQAC"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Sep 2025",
+          "fs": "Sep 2025",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "The relative ranking of the pharmaceutical application has been completed.",
+          "fs": "The relative ranking of the pharmaceutical application has been completed.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000PpBW42AN"
+          },
+          "Id": "a0POZ00000PpBW42AN",
+          "Event_Date__c": "2025-09-04",
+          "Event_Description__c": "The relative ranking of the pharmaceutical application has been completed.",
+          "Stage__c": "Options Compared",
+          "Formatted_Date__c": "Sep 2025",
+          "Status_History__c": "a13OZ00000S7dHlYAJ"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "May 2021",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Pharmac is consulting on a proposal to either approve or decline the application.&nbsp;We seek the views of all people who have an interest in our proposals, or who may be affected by them, to obtain feedback on our proposed approaches.</p>\r\n<p><a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/having-your-say/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/having-your-say/</a></p>",
+    "position": 4,
+    "name": "Under Consultation",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": "<p><a href=\"https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/2023-12-proposal-to-decline-inactive-funding-applications-2\" target=\"_blank\">Consultation notification</a></p>",
+          "fs": "<p><a href=\"https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/2023-12-proposal-to-decline-inactive-funding-applications-2\" target=\"_blank\">Consultation notification</a></p>",
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Dec 2023",
+          "fs": "Dec 2023",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Public consultation for this application is active.",
+          "fs": "Public consultation for this application is active.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000PpBW12AN"
+          },
+          "Id": "a0POZ00000PpBW12AN",
+          "Event_Date__c": "2023-12-18",
+          "Event_Description__c": "Public consultation for this application is active.",
+          "Stage__c": "Under Consultation",
+          "Links__c": "<p><a href=\"https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/2023-12-proposal-to-decline-inactive-funding-applications-2\" target=\"_blank\">Consultation notification</a></p>",
+          "Formatted_Date__c": "Dec 2023",
+          "Status_History__c": "a13OZ000004kTr7YAE"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Dec 2023",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Following the consultation process, Pharmac staff considers the feedback and identifies any additional information required as part of a gap analysis.&nbsp; The proposal may require further clinical advice, research, and assessment.</p>",
+    "position": 5,
+    "name": "Reviewing Consultation Feedback",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": "<p><a href=\"https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/decision-to-decline-inactive-funding-applications-july-24\" target=\"_blank\">Decision notification</a></p>",
+          "fs": "<p><a href=\"https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/decision-to-decline-inactive-funding-applications-july-24\" target=\"_blank\">Decision notification</a></p>",
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Feb 2024",
+          "fs": "Feb 2024",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Public consultation for this application is now closed. Pharmac is reviewing consultation feedback.",
+          "fs": "Public consultation for this application is now closed. Pharmac is reviewing consultation feedback.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000PpBW22AN"
+          },
+          "Id": "a0POZ00000PpBW22AN",
+          "Event_Date__c": "2024-02-12",
+          "Event_Description__c": "Public consultation for this application is now closed. Pharmac is reviewing consultation feedback.",
+          "Stage__c": "Reviewing Consultation Feedback",
+          "Links__c": "<p><a href=\"https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/decision-to-decline-inactive-funding-applications-july-24\" target=\"_blank\">Decision notification</a></p>",
+          "Formatted_Date__c": "Feb 2024",
+          "Status_History__c": "a13OZ000006luo7YAA"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Feb 2024",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>We refer to our decisions about whether and how particular pharmaceuticals are publicly-funded, as &ldquo;funding decisions&rdquo;.</p>\r\n<p>We consider and assess all funding decisions using the&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/about/operating-policies-and-procedures/#factorsfc\" rel=\"nofollow\">Factors for Consideration</a>. When we do so, we carefully evaluate clinical and other evidence for the benefits and suitability of a proposal, and to identify and understand the people who will be affected by it.</p>\r\n<p>While our main task is to allocate pharmaceutical funding, we consider the benefits and costs across the whole health system now and with a long-term focus, including the effects for hospitals and primary care, and consider direct costs to patients as well as to all health sector budgets.</p>\r\n<p>Final funding decisions are made by the Pharmac Board or delegated to senior Pharmac staff as required by the Board.</p>\r\n<p>&nbsp;</p>",
+    "position": 6,
+    "name": "Decision",
+    "last": true,
+    "events": null,
+    "dateString": null,
+    "collapsed": false,
+    "checked": false
+  }
+]

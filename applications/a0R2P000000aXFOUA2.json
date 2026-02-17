@@ -1,0 +1,1238 @@
+[
+  {
+    "text": "<p>New funding applications are referred to one of Pharmac's Funding Application Advisors (FAAs), who'll review the application to ensure they have the relevant information to undertake a preliminary analysis.&nbsp; They may seek more information if required.</p>\r\n<p><a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/new-funding-applications/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/new-funding-applications/</a></p>",
+    "position": 0,
+    "name": "Application Received",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Dec 2008",
+          "fs": "Dec 2008",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Application received",
+          "fs": "Application received",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P000007JbH4UAK"
+          },
+          "Id": "a0P2P000007JbH4UAK",
+          "Event_Date__c": "2008-12-09",
+          "Event_Description__c": "Application received",
+          "Stage__c": "Application Received",
+          "Formatted_Date__c": "Dec 2008",
+          "Status_History__c": "a132P000000ApN7QAK"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Dec 2008",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Pharmac is identifying and gathering information required to get clinical advice.  The <a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/pharmacology-and-therapeutics-advisory-committee-ptac/\" rel=\"nofollow\">Pharmacology and Therapeutics Advisory Committee (PTAC)</a>  meets quarterly. There are also around 20 expert <a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/specialist-advisory-committees/\" rel=\"nofollow\">Specialist Advisory Committees (SACs)</a>, previously expert Subcommittees, which provide clinical evaluations in specialist areas. Specialist Advisory Committees meet as required to discuss issues referred to them by PTAC or Pharmac.</p>\n<p style=\"height: 20px\">&nbsp;</p>\n<p>In November 2021, we introduced separate terms of reference for the SACs to make clear that these committees have different, but complementary, roles, expertise and perspectives to PTAC.</p>\n<p style=\"height: 15px\">&nbsp;</p>\n<p>PTAC and SACs may make recommendations to Pharmac that differ from each other when looking at the same evidence. Pharmac considers the recommendations provided by all our clinical advisory committees when assessing applications.</p>\n<p style=\"height: 20px\">&nbsp;</p>\n<p><a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/pharmacology-and-therapeutics-advisory-committee-ptac/ptac-terms-of-reference-july-2021/\" rel=\"nofollow\">PTAC</a>  and <a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/specialist-advisory-committees/specialist-advisory-committee-terms-of-reference//\" rel=\"nofollow\">Specialist Advisory Committees</a> records of the meeting will be published on this website in accordance with the Terms of Reference.</p>",
+    "position": 1,
+    "name": "Seeking Clinical Advice",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Dec 2008",
+          "fs": "Dec 2008",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Clinical advice required",
+          "fs": "Clinical advice required",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P000007JbH5UAK"
+          },
+          "Id": "a0P2P000007JbH5UAK",
+          "Event_Date__c": "2008-12-15",
+          "Event_Description__c": "Clinical advice required",
+          "Stage__c": "Seeking Clinical Advice",
+          "Formatted_Date__c": "Dec 2008",
+          "Status_History__c": "a132P000000ApNLQA0"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": "Medium",
+          "fs": "Medium",
+          "change": null
+        },
+        "Links": {
+          "s": "<a href=\"https://www.pharmac.govt.nz/assets/ptac-minutes-2009-02.pdf \" target=\"_blank\">PTAC minutes</a>",
+          "fs": "<a href=\"https://www.pharmac.govt.nz/assets/ptac-minutes-2009-02.pdf \" target=\"_blank\">PTAC minutes</a>",
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Feb 2009",
+          "fs": "Feb 2009",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Clinical advice received from Pharmacology and Therapeutics Advisory Committee (PTAC) at meeting Thursday 19 February 2009.",
+          "fs": "Clinical advice received from Pharmacology and Therapeutics Advisory Committee (PTAC) at meeting Thursday 19 February 2009.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P000007JbH6UAK"
+          },
+          "Id": "a0P2P000007JbH6UAK",
+          "Event_Date__c": "2009-02-19",
+          "Event_Description__c": "Clinical advice received from Pharmacology and Therapeutics Advisory Committee (PTAC) at meeting Thursday 19 February 2009.",
+          "Stage__c": "Seeking Clinical Advice",
+          "Links__c": "<a href=\"https://www.pharmac.govt.nz/assets/ptac-minutes-2009-02.pdf \" target=\"_blank\">PTAC minutes</a>",
+          "Outcome__c": "Medium",
+          "Formatted_Date__c": "Feb 2009",
+          "Status_History__c": "a132P000000ApOEQA0"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": "These minutes have been ratified by the Pharmacology and Therapeutic Advisory Committee.",
+          "fs": "These minutes have been ratified by the Pharmacology and Therapeutic Advisory Committee.",
+          "change": null
+        },
+        "Outcome": {
+          "s": "Medium",
+          "fs": "Medium",
+          "change": null
+        },
+        "Links": {
+          "s": "<a href=\"https://www.pharmac.govt.nz/assets/ptac-cardiovascular-subcommittee-minutes-2010-10.pdf\" target=\"_blank\">Cardiovascular Subcommittee minutes</a>",
+          "fs": "<a href=\"https://www.pharmac.govt.nz/assets/ptac-cardiovascular-subcommittee-minutes-2010-10.pdf\" target=\"_blank\">Cardiovascular Subcommittee minutes</a>",
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Oct 2010",
+          "fs": "Oct 2010",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Clinical advice received from Cardiovascular Subcommittee at meeting Thursday 7 October 2010.",
+          "fs": "Clinical advice received from Cardiovascular Subcommittee at meeting Thursday 7 October 2010.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P000007JbJsUAK"
+          },
+          "Id": "a0P2P000007JbJsUAK",
+          "Event_Date__c": "2010-10-07",
+          "Event_Description__c": "Clinical advice received from Cardiovascular Subcommittee at meeting Thursday 7 October 2010.",
+          "Stage__c": "Seeking Clinical Advice",
+          "Links__c": "<a href=\"https://www.pharmac.govt.nz/assets/ptac-cardiovascular-subcommittee-minutes-2010-10.pdf\" target=\"_blank\">Cardiovascular Subcommittee minutes</a>",
+          "Outcome__c": "Medium",
+          "Formatted_Date__c": "Oct 2010",
+          "PTAC_Comments__c": "These minutes have been ratified by the Pharmacology and Therapeutic Advisory Committee.",
+          "Status_History__c": "a132P000000ApflQAC"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": "Medium",
+          "fs": "Medium",
+          "change": null
+        },
+        "Links": {
+          "s": "<a href=\"https://www.pharmac.govt.nz/assets/ptac-minutes-2011-02.pdf\" target=\"_blank\">PTAC minutes</a>",
+          "fs": "<a href=\"https://www.pharmac.govt.nz/assets/ptac-minutes-2011-02.pdf\" target=\"_blank\">PTAC minutes</a>",
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Feb 2011",
+          "fs": "Feb 2011",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Clinical advice received from Pharmacology and Therapeutics Advisory Committee (PTAC) at meeting Thursday 17 February 2011.",
+          "fs": "Clinical advice received from Pharmacology and Therapeutics Advisory Committee (PTAC) at meeting Thursday 17 February 2011.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P000007JbJtUAK"
+          },
+          "Id": "a0P2P000007JbJtUAK",
+          "Event_Date__c": "2011-02-17",
+          "Event_Description__c": "Clinical advice received from Pharmacology and Therapeutics Advisory Committee (PTAC) at meeting Thursday 17 February 2011.",
+          "Stage__c": "Seeking Clinical Advice",
+          "Links__c": "<a href=\"https://www.pharmac.govt.nz/assets/ptac-minutes-2011-02.pdf\" target=\"_blank\">PTAC minutes</a>",
+          "Outcome__c": "Medium",
+          "Formatted_Date__c": "Feb 2011",
+          "Status_History__c": "a132P000000Apn2QAC"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": "High",
+          "fs": "High",
+          "change": null
+        },
+        "Links": {
+          "s": "<a href=\"https://www.pharmac.govt.nz/assets/ptac-cardiovascular-subcommittee-minutes-2017-09.pdf\" target=\"_blank\">Cardiovascular Subcommittee minutes</a>",
+          "fs": "<a href=\"https://www.pharmac.govt.nz/assets/ptac-cardiovascular-subcommittee-minutes-2017-09.pdf\" target=\"_blank\">Cardiovascular Subcommittee minutes</a>",
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Sep 2017",
+          "fs": "Sep 2017",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Clinical advice received from Cardiovascular Subcommittee at meeting Wednesday 27 September 2017.",
+          "fs": "Clinical advice received from Cardiovascular Subcommittee at meeting Wednesday 27 September 2017.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P000007JbJxUAK"
+          },
+          "Id": "a0P2P000007JbJxUAK",
+          "Event_Date__c": "2017-09-27",
+          "Event_Description__c": "Clinical advice received from Cardiovascular Subcommittee at meeting Wednesday 27 September 2017.",
+          "Stage__c": "Seeking Clinical Advice",
+          "Links__c": "<a href=\"https://www.pharmac.govt.nz/assets/ptac-cardiovascular-subcommittee-minutes-2017-09.pdf\" target=\"_blank\">Cardiovascular Subcommittee minutes</a>",
+          "Outcome__c": "High",
+          "Formatted_Date__c": "Sep 2017",
+          "Status_History__c": "a132P000000ArLQQA0"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": "Did not accept SC&#39;s changed recommendation due to a lack of new evidence. Reiterated its previous one.",
+          "fs": "Did not accept SC&#39;s changed recommendation due to a lack of new evidence. Reiterated its previous one.",
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": "Medium",
+          "fs": "Medium",
+          "change": null
+        },
+        "Links": {
+          "s": "<a href=\"https://www.pharmac.govt.nz/assets/ptac-minutes-2018-02.pdf\" target=\"_blank\">PTAC minutes</a>",
+          "fs": "<a href=\"https://www.pharmac.govt.nz/assets/ptac-minutes-2018-02.pdf\" target=\"_blank\">PTAC minutes</a>",
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Feb 2018",
+          "fs": "Feb 2018",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Clinical advice received from Pharmacology and Therapeutics Advisory Committee (PTAC) at meeting Thursday 8 February 2018.",
+          "fs": "Clinical advice received from Pharmacology and Therapeutics Advisory Committee (PTAC) at meeting Thursday 8 February 2018.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P000007JbJzUAK"
+          },
+          "Id": "a0P2P000007JbJzUAK",
+          "Event_Date__c": "2018-02-08",
+          "Event_Description__c": "Clinical advice received from Pharmacology and Therapeutics Advisory Committee (PTAC) at meeting Thursday 8 February 2018.",
+          "Stage__c": "Seeking Clinical Advice",
+          "Links__c": "<a href=\"https://www.pharmac.govt.nz/assets/ptac-minutes-2018-02.pdf\" target=\"_blank\">PTAC minutes</a>",
+          "Outcome__c": "Medium",
+          "Summary__c": "Did not accept SC&#39;s changed recommendation due to a lack of new evidence. Reiterated its previous one.",
+          "Formatted_Date__c": "Feb 2018",
+          "Status_History__c": "a132P000000ArPrQAK"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": "<p>The Subcommittee noted that both it and PTAC had recommended funding rosuvastatin previously.</p><p><br></p><p>The Subcommittee noted that the chemical was off-patent. Members considered that there is some evidence that rosuvastatin is more effective than other statins</p><p>and ezetimibe, due to its potency, and considered that pravastatin was of lower benefit given the high levels of cardiovascular disease in New Zealanders. Members</p><p>considered that clinicians are prescribing higher doses of atorvastatin, and that there is a need for an alternative for patients unable to tolerate atorvastatin, or with</p><p>persisting LDL elevation despite full-dose atorvastatin. Members considered that currently funded treatments are not effective for all patients to achieve target lipid</p><p>levels. Members considered that in practice they are only able to achieve lipid target levels for around 30% of patients.</p><p><br></p><p>The Subcommittee noted that PHARMAC is now considering PCSK9 inhibitors, which are significantly more expensive than statins. The Subcommittee considered</p><p>that rosuvastatin would provide additional benefits over currently funded treatments, at a much lower cost than PCSK9 inhibitors. Some Members considered that</p><p>funding rosuvastatin may allow more rational assessment of who should receive PCSK9 inhibitors, should they be funded.</p><p><br></p><p>Members raised issues with the toxicity of rosuvastatin, especially in women and in the elderly, and that this has been seen through use in Australia. Members also</p><p>considered that patients in Australia are ending up on much higher doses than studies would support, and therefore rosuvastatin, in a real-world setting, may not</p><p>be as effective as marketing by pharmaceutical suppliers would suggest.</p><p><br></p><p>The Subcommittee considered that rosuvastatin remains an important medicine, and that it is the most commonly supplied statin in the world. The Subcommittee</p><p>considered that moving the statin market to such a widely used statin would reduce supply risk, whereas there could be supply risks if much of the New Zealand market</p><p>continues using simvastatin and atorvastatin.</p><p><br></p><p>The Subcommittee noted that PTAC had given a medium priority, as opposed to the high priority that the Subcommittee gave in 2017. No consensus was formed on</p><p>accepting PTAC\u2019s recommendation.</p>",
+          "fs": "<p>The Subcommittee noted that both it and PTAC had recommended funding rosuvastatin previously.</p><p><br></p><p>The Subcommittee noted that the chemical was off-patent. Members considered that there is some evidence that rosuvastatin is more effective than other statins</p><p>and ezetimibe, due to its potency, and considered that pravastatin was of lower benefit given the high levels of cardiovascular disease in New Zealanders. Members</p><p>considered that clinicians are prescribing higher doses of atorvastatin, and that there is a need for an alternative for patients unable to tolerate atorvastatin, or with</p><p>persisting LDL elevation despite full-dose atorvastatin. Members considered that currently funded treatments are not effective for all patients to achieve target lipid</p><p>levels. Members considered that in practice they are only able to achieve lipid target levels for around 30% of patients.</p><p><br></p><p>The Subcommittee noted that PHARMAC is now considering PCSK9 inhibitors, which are significantly more expensive than statins. The Subcommittee considered</p><p>that rosuvastatin would provide additional benefits over currently funded treatments, at a much lower cost than PCSK9 inhibitors. Some Members considered that</p><p>funding rosuvastatin may allow more rational assessment of who should receive PCSK9 inhibitors, should they be funded.</p><p><br></p><p>Members raised issues with the toxicity of rosuvastatin, especially in women and in the elderly, and that this has been seen through use in Australia. Members also</p><p>considered that patients in Australia are ending up on much higher doses than studies would support, and therefore rosuvastatin, in a real-world setting, may not</p><p>be as effective as marketing by pharmaceutical suppliers would suggest.</p><p><br></p><p>The Subcommittee considered that rosuvastatin remains an important medicine, and that it is the most commonly supplied statin in the world. The Subcommittee</p><p>considered that moving the statin market to such a widely used statin would reduce supply risk, whereas there could be supply risks if much of the New Zealand market</p><p>continues using simvastatin and atorvastatin.</p><p><br></p><p>The Subcommittee noted that PTAC had given a medium priority, as opposed to the high priority that the Subcommittee gave in 2017. No consensus was formed on</p><p>accepting PTAC\u2019s recommendation.</p>",
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": "No Formal Recommendation",
+          "fs": "No Formal Recommendation",
+          "change": null
+        },
+        "Links": {
+          "s": "<a href=\"https://www.pharmac.govt.nz/assets/ptac-Cardiovascular-Subcommittee-Minutes-2019-05.pdf\" target=\"_blank\">Cardiovascular Subcommittee minutes</a>",
+          "fs": "<a href=\"https://www.pharmac.govt.nz/assets/ptac-Cardiovascular-Subcommittee-Minutes-2019-05.pdf\" target=\"_blank\">Cardiovascular Subcommittee minutes</a>",
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "May 2019",
+          "fs": "May 2019",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Clinical advice received from Cardiovascular Subcommittee at meeting Wednesday 8 May 2019.",
+          "fs": "Clinical advice received from Cardiovascular Subcommittee at meeting Wednesday 8 May 2019.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P000007JbK0UAK"
+          },
+          "Id": "a0P2P000007JbK0UAK",
+          "Event_Date__c": "2019-05-08",
+          "Event_Description__c": "Clinical advice received from Cardiovascular Subcommittee at meeting Wednesday 8 May 2019.",
+          "Stage__c": "Seeking Clinical Advice",
+          "Links__c": "<a href=\"https://www.pharmac.govt.nz/assets/ptac-Cardiovascular-Subcommittee-Minutes-2019-05.pdf\" target=\"_blank\">Cardiovascular Subcommittee minutes</a>",
+          "Outcome__c": "No Formal Recommendation",
+          "Formatted_Date__c": "May 2019",
+          "Published_Discussion__c": "<p>The Subcommittee noted that both it and PTAC had recommended funding rosuvastatin previously.</p><p><br></p><p>The Subcommittee noted that the chemical was off-patent. Members considered that there is some evidence that rosuvastatin is more effective than other statins</p><p>and ezetimibe, due to its potency, and considered that pravastatin was of lower benefit given the high levels of cardiovascular disease in New Zealanders. Members</p><p>considered that clinicians are prescribing higher doses of atorvastatin, and that there is a need for an alternative for patients unable to tolerate atorvastatin, or with</p><p>persisting LDL elevation despite full-dose atorvastatin. Members considered that currently funded treatments are not effective for all patients to achieve target lipid</p><p>levels. Members considered that in practice they are only able to achieve lipid target levels for around 30% of patients.</p><p><br></p><p>The Subcommittee noted that PHARMAC is now considering PCSK9 inhibitors, which are significantly more expensive than statins. The Subcommittee considered</p><p>that rosuvastatin would provide additional benefits over currently funded treatments, at a much lower cost than PCSK9 inhibitors. Some Members considered that</p><p>funding rosuvastatin may allow more rational assessment of who should receive PCSK9 inhibitors, should they be funded.</p><p><br></p><p>Members raised issues with the toxicity of rosuvastatin, especially in women and in the elderly, and that this has been seen through use in Australia. Members also</p><p>considered that patients in Australia are ending up on much higher doses than studies would support, and therefore rosuvastatin, in a real-world setting, may not</p><p>be as effective as marketing by pharmaceutical suppliers would suggest.</p><p><br></p><p>The Subcommittee considered that rosuvastatin remains an important medicine, and that it is the most commonly supplied statin in the world. The Subcommittee</p><p>considered that moving the statin market to such a widely used statin would reduce supply risk, whereas there could be supply risks if much of the New Zealand market</p><p>continues using simvastatin and atorvastatin.</p><p><br></p><p>The Subcommittee noted that PTAC had given a medium priority, as opposed to the high priority that the Subcommittee gave in 2017. No consensus was formed on</p><p>accepting PTAC\u2019s recommendation.</p>",
+          "Status_History__c": "a132P000000ArfKQAS"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Dec 2008",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Following Clinical Advice, Pharmac staff considers the advice and the funding application under goes an assessment using our&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/factors-for-consideration/\" rel=\"nofollow\">Factors for Consideration</a>&nbsp;framework and seeks additional information as required.</p>\r\n<p>&nbsp;</p>\r\n<p>Research and Economic analysis are undertaken.&nbsp; This focuses on the costs and benefits of a proposed course of action. Economics is based on three fundamental concepts that summarise the issues Pharmac faces daily:&nbsp;</p>\r\n<ul>\r\n<li>Scarcity &ndash; resources will always be insufficient to support all possible activities.</li>\r\n<li>Choices &ndash; due to scarce resources, decisions must be made about how best to use them.</li>\r\n<li>Opportunity cost &ndash; by choosing to use resources one way, we forgo other opportunities to use the same resources.</li>\r\n</ul>\r\n<p>&nbsp;</p>\r\n<p>For further information on the purpose of, and techniques for, undertaking economic analysis in health care, please refer&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/economic-analysis/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/economic-analysis/</a></p>",
+    "position": 2,
+    "name": "Under Assessment",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Mar 2009",
+          "fs": "Mar 2009",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Working to compare options",
+          "fs": "Working to compare options",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P000007JbH7UAK"
+          },
+          "Id": "a0P2P000007JbH7UAK",
+          "Event_Date__c": "2009-03-01",
+          "Event_Description__c": "Working to compare options",
+          "Stage__c": "Under Assessment",
+          "Formatted_Date__c": "Mar 2009",
+          "Status_History__c": "a132P000000ApOrQAK"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Feb 2018",
+          "fs": "Feb 2018",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Working to compare options",
+          "fs": "Working to compare options",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P000007JbJyUAK"
+          },
+          "Id": "a0P2P000007JbJyUAK",
+          "Event_Date__c": "2018-02-01",
+          "Event_Description__c": "Working to compare options",
+          "Stage__c": "Under Assessment",
+          "Formatted_Date__c": "Feb 2018",
+          "Status_History__c": "a132P000000ArOqQAK"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Mar 2021",
+          "fs": "Mar 2021",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Working to compare options",
+          "fs": "Working to compare options",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P000007JbK3UAK"
+          },
+          "Id": "a0P2P000007JbK3UAK",
+          "Event_Date__c": "2021-03-22",
+          "Event_Description__c": "Working to compare options",
+          "Stage__c": "Under Assessment",
+          "Formatted_Date__c": "Mar 2021",
+          "Status_History__c": "a132P000000ChrWQAS"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Mar 2009",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Pharmac staff uses a prioritisation process to compare and rank funding options. Possible opportunities for new investment will always exceed the budget Pharmac has available; therefore, prioritisation is an intrinsic part of Pharmac\u2019s decision-making process.</p>\r\n<p>The relative ranking of options aims to support Pharmac&rsquo;s statutory objective &ldquo;to secure for eligible people in need of pharmaceuticals, the best health outcomes that are reasonably achievable from pharmaceutical treatment and from within the amount of funding provided&rdquo;.</p>\r\n<p>A funding application or proposal is considered ready for prioritisation when sufficient information is available to permit it to be reviewed against Pharmac's Factors for Consideration and to inform a comparison with other possible investment decisions.</p>\r\n<p>There is no guarantee when or if a ranked medicine will be funded.&nbsp;&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/prioritisation/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/prioritisation/</a></p>",
+    "position": 3,
+    "name": "Options Compared",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Mar 2009",
+          "fs": "Mar 2009",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "The relative ranking of the pharmaceutical application has been completed.",
+          "fs": "The relative ranking of the pharmaceutical application has been completed.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P000007JbJrUAK"
+          },
+          "Id": "a0P2P000007JbJrUAK",
+          "Event_Date__c": "2009-03-23",
+          "Event_Description__c": "The relative ranking of the pharmaceutical application has been completed.",
+          "Stage__c": "Options Compared",
+          "Formatted_Date__c": "Mar 2009",
+          "Status_History__c": "a132P000000ApP9QAK"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": "Updated for new information.",
+          "fs": "Updated for new information.",
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Mar 2011",
+          "fs": "Mar 2011",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "The relative ranking of the pharmaceutical application has been completed.",
+          "fs": "The relative ranking of the pharmaceutical application has been completed.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P000007JbJuUAK"
+          },
+          "Id": "a0P2P000007JbJuUAK",
+          "Event_Date__c": "2011-03-21",
+          "Event_Description__c": "The relative ranking of the pharmaceutical application has been completed.",
+          "Stage__c": "Options Compared",
+          "Summary__c": "Updated for new information.",
+          "Formatted_Date__c": "Mar 2011",
+          "Status_History__c": "a132P000000ApnhQAC"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": "Updated for new information.",
+          "fs": "Updated for new information.",
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Nov 2011",
+          "fs": "Nov 2011",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "The relative ranking of the pharmaceutical application has been completed.",
+          "fs": "The relative ranking of the pharmaceutical application has been completed.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P000007JbJvUAK"
+          },
+          "Id": "a0P2P000007JbJvUAK",
+          "Event_Date__c": "2011-11-01",
+          "Event_Description__c": "The relative ranking of the pharmaceutical application has been completed.",
+          "Stage__c": "Options Compared",
+          "Summary__c": "Updated for new information.",
+          "Formatted_Date__c": "Nov 2011",
+          "Status_History__c": "a132P000000ApvmQAC"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Jun 2013",
+          "fs": "Jun 2013",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "The relative ranking of the pharmaceutical application has been completed.",
+          "fs": "The relative ranking of the pharmaceutical application has been completed.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P000007JbJwUAK"
+          },
+          "Id": "a0P2P000007JbJwUAK",
+          "Event_Date__c": "2013-06-01",
+          "Event_Description__c": "The relative ranking of the pharmaceutical application has been completed.",
+          "Stage__c": "Options Compared",
+          "Formatted_Date__c": "Jun 2013",
+          "Status_History__c": "a132P000000AqQ2QAK"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Sep 2020",
+          "fs": "Sep 2020",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "The relative ranking of the pharmaceutical application has been completed.",
+          "fs": "The relative ranking of the pharmaceutical application has been completed.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P000007JbK1UAK"
+          },
+          "Id": "a0P2P000007JbK1UAK",
+          "Event_Date__c": "2020-09-28",
+          "Event_Description__c": "The relative ranking of the pharmaceutical application has been completed.",
+          "Stage__c": "Options Compared",
+          "Formatted_Date__c": "Sep 2020",
+          "Status_History__c": "a132P000000CKAyQAO"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Mar 2009",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Pharmac is consulting on a proposal to either approve or decline the application.&nbsp;We seek the views of all people who have an interest in our proposals, or who may be affected by them, to obtain feedback on our proposed approaches.</p>\r\n<p><a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/having-your-say/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/having-your-say/</a></p>",
+    "position": 4,
+    "name": "Under Consultation",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": "<p>https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/consultation-2021-02-05-rosuvastatin/</p>",
+          "fs": "<p>https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/consultation-2021-02-05-rosuvastatin/</p>",
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Feb 2021",
+          "fs": "Feb 2021",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Public consultation for this application is active.",
+          "fs": "Public consultation for this application is active.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P000007JbK2UAK"
+          },
+          "Id": "a0P2P000007JbK2UAK",
+          "Event_Date__c": "2021-02-12",
+          "Event_Description__c": "Public consultation for this application is active.",
+          "Stage__c": "Under Consultation",
+          "Links__c": "<p>https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/consultation-2021-02-05-rosuvastatin/</p>",
+          "Formatted_Date__c": "Feb 2021",
+          "Status_History__c": "a132P000000CadIQAS"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Feb 2021",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Following the consultation process, Pharmac staff considers the feedback and identifies any additional information required as part of a gap analysis.&nbsp; The proposal may require further clinical advice, research, and assessment.</p>",
+    "position": 5,
+    "name": "Reviewing Consultation Feedback",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Mar 2021",
+          "fs": "Mar 2021",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Public consultation for this application is now closed. Pharmac is reviewing consultation feedback.",
+          "fs": "Public consultation for this application is now closed. Pharmac is reviewing consultation feedback.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P000007JbK4UAK"
+          },
+          "Id": "a0P2P000007JbK4UAK",
+          "Event_Date__c": "2021-03-22",
+          "Event_Description__c": "Public consultation for this application is now closed. Pharmac is reviewing consultation feedback.",
+          "Stage__c": "Reviewing Consultation Feedback",
+          "Formatted_Date__c": "Mar 2021",
+          "Status_History__c": "a132P000000ChrbQAC"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Mar 2021",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>We refer to our decisions about whether and how particular pharmaceuticals are publicly-funded, as &ldquo;funding decisions&rdquo;.</p>\r\n<p>We consider and assess all funding decisions using the&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/about/operating-policies-and-procedures/#factorsfc\" rel=\"nofollow\">Factors for Consideration</a>. When we do so, we carefully evaluate clinical and other evidence for the benefits and suitability of a proposal, and to identify and understand the people who will be affected by it.</p>\r\n<p>While our main task is to allocate pharmaceutical funding, we consider the benefits and costs across the whole health system now and with a long-term focus, including the effects for hospitals and primary care, and consider direct costs to patients as well as to all health sector budgets.</p>\r\n<p>Final funding decisions are made by the Pharmac Board or delegated to senior Pharmac staff as required by the Board.</p>\r\n<p>&nbsp;</p>",
+    "position": 6,
+    "name": "Decision",
+    "last": true,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": "<p><a href=\"https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/2021-08-17-decision-rosuvastatin/\" target=\"_blank\">Notification Letter</a></p>",
+          "fs": "<p><a href=\"https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/2021-08-17-decision-rosuvastatin/\" target=\"_blank\">Notification Letter</a></p>",
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Aug 2021",
+          "fs": "Aug 2021",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "The funding application has been approved.",
+          "fs": "The funding application has been approved.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P000007JbK5UAK"
+          },
+          "Id": "a0P2P000007JbK5UAK",
+          "Event_Date__c": "2021-08-17",
+          "Event_Description__c": "The funding application has been approved.",
+          "Stage__c": "Decision",
+          "Links__c": "<p><a href=\"https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/2021-08-17-decision-rosuvastatin/\" target=\"_blank\">Notification Letter</a></p>",
+          "Formatted_Date__c": "Aug 2021",
+          "Status_History__c": "a132P000000D82YQAS"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Aug 2021",
+    "collapsed": false,
+    "checked": true
+  }
+]

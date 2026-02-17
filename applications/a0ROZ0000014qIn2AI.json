@@ -1,0 +1,627 @@
+[
+  {
+    "text": "<p>New funding applications are referred to one of Pharmac's Funding Application Advisors (FAAs), who'll review the application to ensure they have the relevant information to undertake a preliminary analysis.&nbsp; They may seek more information if required.</p>\r\n<p><a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/new-funding-applications/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/new-funding-applications/</a></p>",
+    "position": 0,
+    "name": "Application Received",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Feb 2018",
+          "fs": "Feb 2018",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Application received",
+          "fs": "Application received",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ000004Fn7s2AC"
+          },
+          "Id": "a0POZ000004Fn7s2AC",
+          "Event_Date__c": "2018-02-01",
+          "Event_Description__c": "Application received",
+          "Stage__c": "Application Received",
+          "Formatted_Date__c": "Feb 2018",
+          "Status_History__c": "a132P000000ArOkQAK"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Feb 2018",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Pharmac is identifying and gathering information required to get clinical advice.  The <a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/pharmacology-and-therapeutics-advisory-committee-ptac/\" rel=\"nofollow\">Pharmacology and Therapeutics Advisory Committee (PTAC)</a>  meets quarterly. There are also around 20 expert <a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/specialist-advisory-committees/\" rel=\"nofollow\">Specialist Advisory Committees (SACs)</a>, previously expert Subcommittees, which provide clinical evaluations in specialist areas. Specialist Advisory Committees meet as required to discuss issues referred to them by PTAC or Pharmac.</p>\n<p style=\"height: 20px\">&nbsp;</p>\n<p>In November 2021, we introduced separate terms of reference for the SACs to make clear that these committees have different, but complementary, roles, expertise and perspectives to PTAC.</p>\n<p style=\"height: 15px\">&nbsp;</p>\n<p>PTAC and SACs may make recommendations to Pharmac that differ from each other when looking at the same evidence. Pharmac considers the recommendations provided by all our clinical advisory committees when assessing applications.</p>\n<p style=\"height: 20px\">&nbsp;</p>\n<p><a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/pharmacology-and-therapeutics-advisory-committee-ptac/ptac-terms-of-reference-july-2021/\" rel=\"nofollow\">PTAC</a>  and <a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/specialist-advisory-committees/specialist-advisory-committee-terms-of-reference//\" rel=\"nofollow\">Specialist Advisory Committees</a> records of the meeting will be published on this website in accordance with the Terms of Reference.</p>",
+    "position": 1,
+    "name": "Seeking Clinical Advice",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Mar 2018",
+          "fs": "Mar 2018",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Clinical advice required",
+          "fs": "Clinical advice required",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ000004Fn7t2AC"
+          },
+          "Id": "a0POZ000004Fn7t2AC",
+          "Event_Date__c": "2018-03-01",
+          "Event_Description__c": "Clinical advice required",
+          "Stage__c": "Seeking Clinical Advice",
+          "Formatted_Date__c": "Mar 2018",
+          "Status_History__c": "a132P000000ArQBQA0"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Mar 2019",
+          "fs": "Mar 2019",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Clinical advice required",
+          "fs": "Clinical advice required",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ000004Fn7u2AC"
+          },
+          "Id": "a0POZ000004Fn7u2AC",
+          "Event_Date__c": "2019-03-06",
+          "Event_Description__c": "Clinical advice required",
+          "Stage__c": "Seeking Clinical Advice",
+          "Formatted_Date__c": "Mar 2019",
+          "Status_History__c": "a132P000000Ard4QAC"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": "<p>The Committee <b>recommended</b> that glycomacropeptide-containing supplements for the dietary management of phenylketonuria be funded if <b>cost neutral</b> to the supplements for phenylketonuria already listed in Section D of the Pharmaceutical Schedule.</p><p><br></p><p>The Committee <b>recommended</b> that the low-protein foods supplied by Cortex Health be funded for the dietary management of phenylketonuria with a <b>medium</b> <b>priority</b>.</p>",
+          "fs": "<p>The Committee <b>recommended</b> that glycomacropeptide-containing supplements for the dietary management of phenylketonuria be funded if <b>cost neutral</b> to the supplements for phenylketonuria already listed in Section D of the Pharmaceutical Schedule.</p><p><br></p><p>The Committee <b>recommended</b> that the low-protein foods supplied by Cortex Health be funded for the dietary management of phenylketonuria with a <b>medium</b> <b>priority</b>.</p>",
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": "<p>The Committee considered advice regarding the application provided by Metabolic Specialists at the National Metabolic Service. This advice was sought by PHARMAC staff to assist in the Committee\u2019s review of the application due to the specialised requirements of patients with phenylketonuria (PKU).</p><p><br></p><p>The Committee noted that PTAC considered a funding application for sapropterin for the treatment of patients with PKU at risk of cognitive impairment in <a href=\"https://www.pharmac.govt.nz/assets/ptac-minutes-2018-08.pdf\" target=\"_blank\">August 2018</a>. The Committee noted that at this time, PTAC recommended that PHARMAC consider broadening the range of dietary options and PKU supplements available on the Pharmaceutical Schedule. </p><p><br></p><p>The Committee noted that PKU is an autosomal inborn error of metabolism in which a deficiency or mutation in phenylalanine hydroxylase results in the inability to metabolize phenylalanine. The Committee noted that the degree of phenylalanine hydroxylase deficiency can vary among individuals with PKU and that the amount of residual phenylalanine hydroxylase activity dictates the severity of the resulting disorder.</p><p><br></p><p>The Committee noted that there are approximately 160 patients known to have PKU in New Zealand, and that dispensing data suggests that 105 patients are receiving supplements for PKU (79 of these on a regular basis).</p><p><br></p><p><span style=\"font-size: 7pt;\">\u00a0</span>The Committee noted that a restrictive diet low in phenylalanine is the cornerstone of management for PKU. The Committee noted that this requires patients to severely restrict the intake of all foods containing protein and to use supplements to ensure there is adequate intake of the other essential amino acids, vitamins, and minerals. </p><p><br></p><p>The Committee considered that dietary management of PKU is complex and difficult to maintain. The Committee considered that this can also be burdensome on the family and caregivers of children and adolescents with PKU (<a href=\"https://www.ncbi.nlm.nih.gov/pubmed/27622144\" target=\"_blank\">MacDonald et al. Mol Genet Metab Rep. 2016;9:1-5</a>). </p><p><br></p><p>The Committee noted that inadequate management of PKU can result in the development of neurological disorders and intellectual disability.</p><p><br></p><p>The Committee noted a randomised, double-blind, placebo-controlled trial which reported that phenylalanine supplementation among adult patients with PKU had a negative effect on sustained attention and mood (<a href=\"https://www.ncbi.nlm.nih.gov/pubmed/21153445\" target=\"_blank\">ten Hoedt et al. J Inherit Metab Dis. 2011;34:165-71</a>).</p><p><br></p><p>GMP-containing supplements</p><p><br></p><p>The Committee noted there are 19 formulations of amino-acid supplements currently funded for the dietary management of PKU (tablet, powder, infant formula, liquid, and oral semi-solid formulations). </p><p><br></p><p>The Committee noted that the supplements supplied by Cortex Health contain a protein formula made from glycomacropeptide (GMP) and five critical amino acids (tryptophan, arginine, leucine, histidine, and tyrosine). The Committee noted that GMP is a whole protein derived from whey that does not contain phenylalanine.</p><p><br></p><p>The Committee noted that the process of extracting and refining GMP results in the inclusion of trace quantities of phenylalanine in the supplements; however, the Committee considered that these amounts would have minimal impact for the majority of patients with PKU.</p><p><br></p><p>The Committee noted evidence for GMP-containing supplements provided by the following studies:</p><ul><li>A two-stage, randomised crossover trial which investigated the efficacy and safety of a low-phenylalanine diet combined with GMP-medical foods or amino acid-medical foods in 30 subjects with early-treated PKU (<a href=\"https://www.ncbi.nlm.nih.gov/pubmed/27413125\" target=\"_blank\">Ney et al. Am J Clin Nutr. 2016;104:334-45</a>).</li><li>A retrospective longitudinal study which reported on the nutritional status of eleven patients with PKU receiving GMP-based protein substitutes and amino acid supplements (<a href=\"https://www.ncbi.nlm.nih.gov/pubmed/28402322\" target=\"_blank\">Pinto et al. Eur J Clin Nutr. 2017;71:1230-4</a>).</li><li>A prospective 6-month pilot study which investigated the effect of GMP compared with phenylalanine-free protein substitutes on blood phenylalanine control in 22 children with PKU (<a href=\"https://www.ncbi.nlm.nih.gov/pubmed/28111827\" target=\"_blank\">Daly et al. J Hum Nutr Diet. 2017;30:515-23</a>).</li><li>An inpatient metabolic study which assessed the ability of a GMP breakfast to promote satiety and affect plasma concentrations of AAs, insulin, and ghrelin in eleven subjects with PKU (<a href=\"https://www.ncbi.nlm.nih.gov/pubmed/20466571\" target=\"_blank\">MacLeod et al. Mol Genet Metab. 2010;100:303-8</a>).</li><li>A longitudinal, parallel, controlled study which evaluated the effect of a GMP formulation compared with a phenylalanine-free amino acid supplement on blood phenylalanine and tyrosine, and the biochemical nutritional status and growth of 48 children with PKU (<a href=\"https://www.ncbi.nlm.nih.gov/pubmed/30770754\" target=\"_blank\">Daly et al. Orphanet J Rare Dis. 2019;14:44</a>).</li><li>A 6-week randomised controlled cross-over study which investigated the impact of GMP compared with amino acids on blood phenylalanine variability in 18 children with PKU (<a href=\"https://www.ncbi.nlm.nih.gov/pubmed/30823411\" target=\"_blank\">Daly et al. Nutrients. 2019;11:pii E520</a>).</li><li>A systematic review and meta-analysis which evaluated intervention studies on the use of GMP supplementation in subjects with PKU (<a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6266274/\" target=\"_blank\">Pena et al. Nutrients. 2018;11:1794</a>).</li></ul><p>The Committee considered that these studies generally demonstrated that GMP-containing supplements are an acceptable protein substitute for patients with PKU and may have some advantages over amino acid supplements such as slower absorption, fewer side effects, and improved satiety. </p><p><br></p><p>The Committee noted that several of these studies reported that the GMP-containing supplements increase blood phenylalanine concentrations, and that dietary phenylalanine intake may need to be reduced to compensate for this. The Committee considered that this may be of importance for individuals with severe PKU.</p><p><br></p><p>The Committee noted the results of an unpublished taste and acceptability questionnaire conducted in New Zealand regarding two of the GMP-containing supplement products included in this application. The Committee noted that between 38% and 54% of patients preferred the GMP-containing products to their current supplement products.</p><p>Low-protein foods</p><p><br></p><p><span style=\"font-size: 7pt;\">\u00a0</span>The Committee noted there are 8 low-protein food products currently funded for the dietary management of PKU (baking mix and seven pasta varieties). </p><p><br></p><p>The Committee noted a study which reported that returning to a low-protein diet improved quality of life among patients with PKU (<a href=\"https://www.ncbi.nlm.nih.gov/pubmed/18956249\" target=\"_blank\">Bik-Multanowski et al. J Inherit Metab Dis. 2008;31:S415-8</a>).</p><p><br></p><p>The Committee noted that the low-protein foods provided by Cortex Health include pasta, baking mix, substitute egg products, burger and chicken patty mix, cookies, and instant soups. The Committee considered that while there is no evidence that these specific food products provide a health benefit, it is reasonable to consider that more choice and convenience in food options has the potential to improve adherence with a low-protein diet.</p><p><br></p><p>General discussion</p><p><br></p><p><span style=\"font-size: 7pt;\">\u00a0</span>The Committee considered that poor palatability and the limited range of supplements and foods available may be adversely impacting adherence to a low-protein diet.</p><p><br></p><p>The Committee considered that access to GMP-containing supplements and additional low-protein food options would provide the most benefit for patients who are off diet or those having difficulty maintaining a low-protein diet due to taste fatigue or dislike of amino acid supplements.</p><p><br></p><p>The Committee noted that the advice from the Metabolic Specialists stated that funding GMP-containing supplements and additional low-protein foods may result in five to ten additional patients returning to diet and being dispensed supplements and low-protein foods.</p><p><br></p><p>The Committee noted that the distribution of bulky products with a short shelf-life and variable usage is challenging for community pharmacies. The Committee considered that a centralised distribution system for the supplements and low-protein foods may be preferable.</p><p><br></p><p>The Committee considered that there is adequate evidence that GMP-containing supplements are not inferior to amino acid formulations for supplying protein to individuals with PKU. The Committee also considered that broadening the range of low-protein foods available would provide a significant benefit for individuals with PKU.</p>",
+          "fs": "<p>The Committee considered advice regarding the application provided by Metabolic Specialists at the National Metabolic Service. This advice was sought by PHARMAC staff to assist in the Committee\u2019s review of the application due to the specialised requirements of patients with phenylketonuria (PKU).</p><p><br></p><p>The Committee noted that PTAC considered a funding application for sapropterin for the treatment of patients with PKU at risk of cognitive impairment in <a href=\"https://www.pharmac.govt.nz/assets/ptac-minutes-2018-08.pdf\" target=\"_blank\">August 2018</a>. The Committee noted that at this time, PTAC recommended that PHARMAC consider broadening the range of dietary options and PKU supplements available on the Pharmaceutical Schedule. </p><p><br></p><p>The Committee noted that PKU is an autosomal inborn error of metabolism in which a deficiency or mutation in phenylalanine hydroxylase results in the inability to metabolize phenylalanine. The Committee noted that the degree of phenylalanine hydroxylase deficiency can vary among individuals with PKU and that the amount of residual phenylalanine hydroxylase activity dictates the severity of the resulting disorder.</p><p><br></p><p>The Committee noted that there are approximately 160 patients known to have PKU in New Zealand, and that dispensing data suggests that 105 patients are receiving supplements for PKU (79 of these on a regular basis).</p><p><br></p><p><span style=\"font-size: 7pt;\">\u00a0</span>The Committee noted that a restrictive diet low in phenylalanine is the cornerstone of management for PKU. The Committee noted that this requires patients to severely restrict the intake of all foods containing protein and to use supplements to ensure there is adequate intake of the other essential amino acids, vitamins, and minerals. </p><p><br></p><p>The Committee considered that dietary management of PKU is complex and difficult to maintain. The Committee considered that this can also be burdensome on the family and caregivers of children and adolescents with PKU (<a href=\"https://www.ncbi.nlm.nih.gov/pubmed/27622144\" target=\"_blank\">MacDonald et al. Mol Genet Metab Rep. 2016;9:1-5</a>). </p><p><br></p><p>The Committee noted that inadequate management of PKU can result in the development of neurological disorders and intellectual disability.</p><p><br></p><p>The Committee noted a randomised, double-blind, placebo-controlled trial which reported that phenylalanine supplementation among adult patients with PKU had a negative effect on sustained attention and mood (<a href=\"https://www.ncbi.nlm.nih.gov/pubmed/21153445\" target=\"_blank\">ten Hoedt et al. J Inherit Metab Dis. 2011;34:165-71</a>).</p><p><br></p><p>GMP-containing supplements</p><p><br></p><p>The Committee noted there are 19 formulations of amino-acid supplements currently funded for the dietary management of PKU (tablet, powder, infant formula, liquid, and oral semi-solid formulations). </p><p><br></p><p>The Committee noted that the supplements supplied by Cortex Health contain a protein formula made from glycomacropeptide (GMP) and five critical amino acids (tryptophan, arginine, leucine, histidine, and tyrosine). The Committee noted that GMP is a whole protein derived from whey that does not contain phenylalanine.</p><p><br></p><p>The Committee noted that the process of extracting and refining GMP results in the inclusion of trace quantities of phenylalanine in the supplements; however, the Committee considered that these amounts would have minimal impact for the majority of patients with PKU.</p><p><br></p><p>The Committee noted evidence for GMP-containing supplements provided by the following studies:</p><ul><li>A two-stage, randomised crossover trial which investigated the efficacy and safety of a low-phenylalanine diet combined with GMP-medical foods or amino acid-medical foods in 30 subjects with early-treated PKU (<a href=\"https://www.ncbi.nlm.nih.gov/pubmed/27413125\" target=\"_blank\">Ney et al. Am J Clin Nutr. 2016;104:334-45</a>).</li><li>A retrospective longitudinal study which reported on the nutritional status of eleven patients with PKU receiving GMP-based protein substitutes and amino acid supplements (<a href=\"https://www.ncbi.nlm.nih.gov/pubmed/28402322\" target=\"_blank\">Pinto et al. Eur J Clin Nutr. 2017;71:1230-4</a>).</li><li>A prospective 6-month pilot study which investigated the effect of GMP compared with phenylalanine-free protein substitutes on blood phenylalanine control in 22 children with PKU (<a href=\"https://www.ncbi.nlm.nih.gov/pubmed/28111827\" target=\"_blank\">Daly et al. J Hum Nutr Diet. 2017;30:515-23</a>).</li><li>An inpatient metabolic study which assessed the ability of a GMP breakfast to promote satiety and affect plasma concentrations of AAs, insulin, and ghrelin in eleven subjects with PKU (<a href=\"https://www.ncbi.nlm.nih.gov/pubmed/20466571\" target=\"_blank\">MacLeod et al. Mol Genet Metab. 2010;100:303-8</a>).</li><li>A longitudinal, parallel, controlled study which evaluated the effect of a GMP formulation compared with a phenylalanine-free amino acid supplement on blood phenylalanine and tyrosine, and the biochemical nutritional status and growth of 48 children with PKU (<a href=\"https://www.ncbi.nlm.nih.gov/pubmed/30770754\" target=\"_blank\">Daly et al. Orphanet J Rare Dis. 2019;14:44</a>).</li><li>A 6-week randomised controlled cross-over study which investigated the impact of GMP compared with amino acids on blood phenylalanine variability in 18 children with PKU (<a href=\"https://www.ncbi.nlm.nih.gov/pubmed/30823411\" target=\"_blank\">Daly et al. Nutrients. 2019;11:pii E520</a>).</li><li>A systematic review and meta-analysis which evaluated intervention studies on the use of GMP supplementation in subjects with PKU (<a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6266274/\" target=\"_blank\">Pena et al. Nutrients. 2018;11:1794</a>).</li></ul><p>The Committee considered that these studies generally demonstrated that GMP-containing supplements are an acceptable protein substitute for patients with PKU and may have some advantages over amino acid supplements such as slower absorption, fewer side effects, and improved satiety. </p><p><br></p><p>The Committee noted that several of these studies reported that the GMP-containing supplements increase blood phenylalanine concentrations, and that dietary phenylalanine intake may need to be reduced to compensate for this. The Committee considered that this may be of importance for individuals with severe PKU.</p><p><br></p><p>The Committee noted the results of an unpublished taste and acceptability questionnaire conducted in New Zealand regarding two of the GMP-containing supplement products included in this application. The Committee noted that between 38% and 54% of patients preferred the GMP-containing products to their current supplement products.</p><p>Low-protein foods</p><p><br></p><p><span style=\"font-size: 7pt;\">\u00a0</span>The Committee noted there are 8 low-protein food products currently funded for the dietary management of PKU (baking mix and seven pasta varieties). </p><p><br></p><p>The Committee noted a study which reported that returning to a low-protein diet improved quality of life among patients with PKU (<a href=\"https://www.ncbi.nlm.nih.gov/pubmed/18956249\" target=\"_blank\">Bik-Multanowski et al. J Inherit Metab Dis. 2008;31:S415-8</a>).</p><p><br></p><p>The Committee noted that the low-protein foods provided by Cortex Health include pasta, baking mix, substitute egg products, burger and chicken patty mix, cookies, and instant soups. The Committee considered that while there is no evidence that these specific food products provide a health benefit, it is reasonable to consider that more choice and convenience in food options has the potential to improve adherence with a low-protein diet.</p><p><br></p><p>General discussion</p><p><br></p><p><span style=\"font-size: 7pt;\">\u00a0</span>The Committee considered that poor palatability and the limited range of supplements and foods available may be adversely impacting adherence to a low-protein diet.</p><p><br></p><p>The Committee considered that access to GMP-containing supplements and additional low-protein food options would provide the most benefit for patients who are off diet or those having difficulty maintaining a low-protein diet due to taste fatigue or dislike of amino acid supplements.</p><p><br></p><p>The Committee noted that the advice from the Metabolic Specialists stated that funding GMP-containing supplements and additional low-protein foods may result in five to ten additional patients returning to diet and being dispensed supplements and low-protein foods.</p><p><br></p><p>The Committee noted that the distribution of bulky products with a short shelf-life and variable usage is challenging for community pharmacies. The Committee considered that a centralised distribution system for the supplements and low-protein foods may be preferable.</p><p><br></p><p>The Committee considered that there is adequate evidence that GMP-containing supplements are not inferior to amino acid formulations for supplying protein to individuals with PKU. The Committee also considered that broadening the range of low-protein foods available would provide a significant benefit for individuals with PKU.</p>",
+          "change": null
+        },
+        "Published_Application": {
+          "s": "<p>The Committee reviewed a funding application from Cortex Health for glycomacropeptide-containing supplements and low protein foods for the dietary management of phenylketonuria. </p><p><br></p><p>The Committee took into account, where applicable, PHARMAC\u2019s relevant decision-making framework when considering this agenda item.\u00a0</p>",
+          "fs": "<p>The Committee reviewed a funding application from Cortex Health for glycomacropeptide-containing supplements and low protein foods for the dietary management of phenylketonuria. </p><p><br></p><p>The Committee took into account, where applicable, PHARMAC\u2019s relevant decision-making framework when considering this agenda item.\u00a0</p>",
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": "Cost Neutral",
+          "fs": "Cost Neutral",
+          "change": null
+        },
+        "Links": {
+          "s": "<a href=\"https://www.pharmac.govt.nz/assets/ptac-minutes-2019-05.pdf\" target=\"_blank\">PTAC minutes</a>",
+          "fs": "<a href=\"https://www.pharmac.govt.nz/assets/ptac-minutes-2019-05.pdf\" target=\"_blank\">PTAC minutes</a>",
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "May 2019",
+          "fs": "May 2019",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Clinical advice received from Pharmacology and Therapeutics Advisory Committee (PTAC) at meeting Thursday 23 May 2019.",
+          "fs": "Clinical advice received from Pharmacology and Therapeutics Advisory Committee (PTAC) at meeting Thursday 23 May 2019.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ000004Fn7v2AC"
+          },
+          "Id": "a0POZ000004Fn7v2AC",
+          "Event_Date__c": "2019-05-23",
+          "Event_Description__c": "Clinical advice received from Pharmacology and Therapeutics Advisory Committee (PTAC) at meeting Thursday 23 May 2019.",
+          "Stage__c": "Seeking Clinical Advice",
+          "Links__c": "<a href=\"https://www.pharmac.govt.nz/assets/ptac-minutes-2019-05.pdf\" target=\"_blank\">PTAC minutes</a>",
+          "Outcome__c": "Cost Neutral",
+          "Formatted_Date__c": "May 2019",
+          "Published_Recommendation__c": "<p>The Committee <b>recommended</b> that glycomacropeptide-containing supplements for the dietary management of phenylketonuria be funded if <b>cost neutral</b> to the supplements for phenylketonuria already listed in Section D of the Pharmaceutical Schedule.</p><p><br></p><p>The Committee <b>recommended</b> that the low-protein foods supplied by Cortex Health be funded for the dietary management of phenylketonuria with a <b>medium</b> <b>priority</b>.</p>",
+          "Published_Application__c": "<p>The Committee reviewed a funding application from Cortex Health for glycomacropeptide-containing supplements and low protein foods for the dietary management of phenylketonuria. </p><p><br></p><p>The Committee took into account, where applicable, PHARMAC\u2019s relevant decision-making framework when considering this agenda item.\u00a0</p>",
+          "Published_Discussion__c": "<p>The Committee considered advice regarding the application provided by Metabolic Specialists at the National Metabolic Service. This advice was sought by PHARMAC staff to assist in the Committee\u2019s review of the application due to the specialised requirements of patients with phenylketonuria (PKU).</p><p><br></p><p>The Committee noted that PTAC considered a funding application for sapropterin for the treatment of patients with PKU at risk of cognitive impairment in <a href=\"https://www.pharmac.govt.nz/assets/ptac-minutes-2018-08.pdf\" target=\"_blank\">August 2018</a>. The Committee noted that at this time, PTAC recommended that PHARMAC consider broadening the range of dietary options and PKU supplements available on the Pharmaceutical Schedule. </p><p><br></p><p>The Committee noted that PKU is an autosomal inborn error of metabolism in which a deficiency or mutation in phenylalanine hydroxylase results in the inability to metabolize phenylalanine. The Committee noted that the degree of phenylalanine hydroxylase deficiency can vary among individuals with PKU and that the amount of residual phenylalanine hydroxylase activity dictates the severity of the resulting disorder.</p><p><br></p><p>The Committee noted that there are approximately 160 patients known to have PKU in New Zealand, and that dispensing data suggests that 105 patients are receiving supplements for PKU (79 of these on a regular basis).</p><p><br></p><p><span style=\"font-size: 7pt;\">\u00a0</span>The Committee noted that a restrictive diet low in phenylalanine is the cornerstone of management for PKU. The Committee noted that this requires patients to severely restrict the intake of all foods containing protein and to use supplements to ensure there is adequate intake of the other essential amino acids, vitamins, and minerals. </p><p><br></p><p>The Committee considered that dietary management of PKU is complex and difficult to maintain. The Committee considered that this can also be burdensome on the family and caregivers of children and adolescents with PKU (<a href=\"https://www.ncbi.nlm.nih.gov/pubmed/27622144\" target=\"_blank\">MacDonald et al. Mol Genet Metab Rep. 2016;9:1-5</a>). </p><p><br></p><p>The Committee noted that inadequate management of PKU can result in the development of neurological disorders and intellectual disability.</p><p><br></p><p>The Committee noted a randomised, double-blind, placebo-controlled trial which reported that phenylalanine supplementation among adult patients with PKU had a negative effect on sustained attention and mood (<a href=\"https://www.ncbi.nlm.nih.gov/pubmed/21153445\" target=\"_blank\">ten Hoedt et al. J Inherit Metab Dis. 2011;34:165-71</a>).</p><p><br></p><p>GMP-containing supplements</p><p><br></p><p>The Committee noted there are 19 formulations of amino-acid supplements currently funded for the dietary management of PKU (tablet, powder, infant formula, liquid, and oral semi-solid formulations). </p><p><br></p><p>The Committee noted that the supplements supplied by Cortex Health contain a protein formula made from glycomacropeptide (GMP) and five critical amino acids (tryptophan, arginine, leucine, histidine, and tyrosine). The Committee noted that GMP is a whole protein derived from whey that does not contain phenylalanine.</p><p><br></p><p>The Committee noted that the process of extracting and refining GMP results in the inclusion of trace quantities of phenylalanine in the supplements; however, the Committee considered that these amounts would have minimal impact for the majority of patients with PKU.</p><p><br></p><p>The Committee noted evidence for GMP-containing supplements provided by the following studies:</p><ul><li>A two-stage, randomised crossover trial which investigated the efficacy and safety of a low-phenylalanine diet combined with GMP-medical foods or amino acid-medical foods in 30 subjects with early-treated PKU (<a href=\"https://www.ncbi.nlm.nih.gov/pubmed/27413125\" target=\"_blank\">Ney et al. Am J Clin Nutr. 2016;104:334-45</a>).</li><li>A retrospective longitudinal study which reported on the nutritional status of eleven patients with PKU receiving GMP-based protein substitutes and amino acid supplements (<a href=\"https://www.ncbi.nlm.nih.gov/pubmed/28402322\" target=\"_blank\">Pinto et al. Eur J Clin Nutr. 2017;71:1230-4</a>).</li><li>A prospective 6-month pilot study which investigated the effect of GMP compared with phenylalanine-free protein substitutes on blood phenylalanine control in 22 children with PKU (<a href=\"https://www.ncbi.nlm.nih.gov/pubmed/28111827\" target=\"_blank\">Daly et al. J Hum Nutr Diet. 2017;30:515-23</a>).</li><li>An inpatient metabolic study which assessed the ability of a GMP breakfast to promote satiety and affect plasma concentrations of AAs, insulin, and ghrelin in eleven subjects with PKU (<a href=\"https://www.ncbi.nlm.nih.gov/pubmed/20466571\" target=\"_blank\">MacLeod et al. Mol Genet Metab. 2010;100:303-8</a>).</li><li>A longitudinal, parallel, controlled study which evaluated the effect of a GMP formulation compared with a phenylalanine-free amino acid supplement on blood phenylalanine and tyrosine, and the biochemical nutritional status and growth of 48 children with PKU (<a href=\"https://www.ncbi.nlm.nih.gov/pubmed/30770754\" target=\"_blank\">Daly et al. Orphanet J Rare Dis. 2019;14:44</a>).</li><li>A 6-week randomised controlled cross-over study which investigated the impact of GMP compared with amino acids on blood phenylalanine variability in 18 children with PKU (<a href=\"https://www.ncbi.nlm.nih.gov/pubmed/30823411\" target=\"_blank\">Daly et al. Nutrients. 2019;11:pii E520</a>).</li><li>A systematic review and meta-analysis which evaluated intervention studies on the use of GMP supplementation in subjects with PKU (<a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6266274/\" target=\"_blank\">Pena et al. Nutrients. 2018;11:1794</a>).</li></ul><p>The Committee considered that these studies generally demonstrated that GMP-containing supplements are an acceptable protein substitute for patients with PKU and may have some advantages over amino acid supplements such as slower absorption, fewer side effects, and improved satiety. </p><p><br></p><p>The Committee noted that several of these studies reported that the GMP-containing supplements increase blood phenylalanine concentrations, and that dietary phenylalanine intake may need to be reduced to compensate for this. The Committee considered that this may be of importance for individuals with severe PKU.</p><p><br></p><p>The Committee noted the results of an unpublished taste and acceptability questionnaire conducted in New Zealand regarding two of the GMP-containing supplement products included in this application. The Committee noted that between 38% and 54% of patients preferred the GMP-containing products to their current supplement products.</p><p>Low-protein foods</p><p><br></p><p><span style=\"font-size: 7pt;\">\u00a0</span>The Committee noted there are 8 low-protein food products currently funded for the dietary management of PKU (baking mix and seven pasta varieties). </p><p><br></p><p>The Committee noted a study which reported that returning to a low-protein diet improved quality of life among patients with PKU (<a href=\"https://www.ncbi.nlm.nih.gov/pubmed/18956249\" target=\"_blank\">Bik-Multanowski et al. J Inherit Metab Dis. 2008;31:S415-8</a>).</p><p><br></p><p>The Committee noted that the low-protein foods provided by Cortex Health include pasta, baking mix, substitute egg products, burger and chicken patty mix, cookies, and instant soups. The Committee considered that while there is no evidence that these specific food products provide a health benefit, it is reasonable to consider that more choice and convenience in food options has the potential to improve adherence with a low-protein diet.</p><p><br></p><p>General discussion</p><p><br></p><p><span style=\"font-size: 7pt;\">\u00a0</span>The Committee considered that poor palatability and the limited range of supplements and foods available may be adversely impacting adherence to a low-protein diet.</p><p><br></p><p>The Committee considered that access to GMP-containing supplements and additional low-protein food options would provide the most benefit for patients who are off diet or those having difficulty maintaining a low-protein diet due to taste fatigue or dislike of amino acid supplements.</p><p><br></p><p>The Committee noted that the advice from the Metabolic Specialists stated that funding GMP-containing supplements and additional low-protein foods may result in five to ten additional patients returning to diet and being dispensed supplements and low-protein foods.</p><p><br></p><p>The Committee noted that the distribution of bulky products with a short shelf-life and variable usage is challenging for community pharmacies. The Committee considered that a centralised distribution system for the supplements and low-protein foods may be preferable.</p><p><br></p><p>The Committee considered that there is adequate evidence that GMP-containing supplements are not inferior to amino acid formulations for supplying protein to individuals with PKU. The Committee also considered that broadening the range of low-protein foods available would provide a significant benefit for individuals with PKU.</p>",
+          "Status_History__c": "a132P000000ArfoQAC"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Mar 2018",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Following Clinical Advice, Pharmac staff considers the advice and the funding application under goes an assessment using our&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/factors-for-consideration/\" rel=\"nofollow\">Factors for Consideration</a>&nbsp;framework and seeks additional information as required.</p>\r\n<p>&nbsp;</p>\r\n<p>Research and Economic analysis are undertaken.&nbsp; This focuses on the costs and benefits of a proposed course of action. Economics is based on three fundamental concepts that summarise the issues Pharmac faces daily:&nbsp;</p>\r\n<ul>\r\n<li>Scarcity &ndash; resources will always be insufficient to support all possible activities.</li>\r\n<li>Choices &ndash; due to scarce resources, decisions must be made about how best to use them.</li>\r\n<li>Opportunity cost &ndash; by choosing to use resources one way, we forgo other opportunities to use the same resources.</li>\r\n</ul>\r\n<p>&nbsp;</p>\r\n<p>For further information on the purpose of, and techniques for, undertaking economic analysis in health care, please refer&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/economic-analysis/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/economic-analysis/</a></p>",
+    "position": 2,
+    "name": "Under Assessment",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "May 2019",
+          "fs": "May 2019",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Working to compare options",
+          "fs": "Working to compare options",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ000004Fn7w2AC"
+          },
+          "Id": "a0POZ000004Fn7w2AC",
+          "Event_Date__c": "2019-05-23",
+          "Event_Description__c": "Working to compare options",
+          "Stage__c": "Under Assessment",
+          "Formatted_Date__c": "May 2019",
+          "Status_History__c": "a132P000000ArfvQAC"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "May 2019",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Pharmac staff uses a prioritisation process to compare and rank funding options. Possible opportunities for new investment will always exceed the budget Pharmac has available; therefore, prioritisation is an intrinsic part of Pharmac\u2019s decision-making process.</p>\r\n<p>The relative ranking of options aims to support Pharmac&rsquo;s statutory objective &ldquo;to secure for eligible people in need of pharmaceuticals, the best health outcomes that are reasonably achievable from pharmaceutical treatment and from within the amount of funding provided&rdquo;.</p>\r\n<p>A funding application or proposal is considered ready for prioritisation when sufficient information is available to permit it to be reviewed against Pharmac's Factors for Consideration and to inform a comparison with other possible investment decisions.</p>\r\n<p>There is no guarantee when or if a ranked medicine will be funded.&nbsp;&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/prioritisation/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/prioritisation/</a></p>",
+    "position": 3,
+    "name": "Options Compared",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Jan 2020",
+          "fs": "Jan 2020",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "The relative ranking of the pharmaceutical application has been completed.",
+          "fs": "The relative ranking of the pharmaceutical application has been completed.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ000004Fn7x2AC"
+          },
+          "Id": "a0POZ000004Fn7x2AC",
+          "Event_Date__c": "2020-01-24",
+          "Event_Description__c": "The relative ranking of the pharmaceutical application has been completed.",
+          "Stage__c": "Options Compared",
+          "Formatted_Date__c": "Jan 2020",
+          "Status_History__c": "a132P000000BPt2QAG"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Jan 2020",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Pharmac is consulting on a proposal to either approve or decline the application.&nbsp;We seek the views of all people who have an interest in our proposals, or who may be affected by them, to obtain feedback on our proposed approaches.</p>\r\n<p><a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/having-your-say/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/having-your-say/</a></p>",
+    "position": 4,
+    "name": "Under Consultation",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": "<p>Consultation on this proposal opened 14 November 20023 and closes 28 November 2023.</p><p><br></p><p><a href=\"https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/2023-11-14-proposal-to-fund-supplements-for-phenylketonuria-and-other-inborn-errors-of-metabolism\" target=\"_blank\">The consultation is available here </a></p>",
+          "fs": "<p>Consultation on this proposal opened 14 November 20023 and closes 28 November 2023.</p><p><br></p><p><a href=\"https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/2023-11-14-proposal-to-fund-supplements-for-phenylketonuria-and-other-inborn-errors-of-metabolism\" target=\"_blank\">The consultation is available here </a></p>",
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Nov 2023",
+          "fs": "Nov 2023",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Public consultation for this application is active.",
+          "fs": "Public consultation for this application is active.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ000004Fn7y2AC"
+          },
+          "Id": "a0POZ000004Fn7y2AC",
+          "Event_Date__c": "2023-11-14",
+          "Event_Description__c": "Public consultation for this application is active.",
+          "Stage__c": "Under Consultation",
+          "Summary__c": "<p>Consultation on this proposal opened 14 November 20023 and closes 28 November 2023.</p><p><br></p><p><a href=\"https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/2023-11-14-proposal-to-fund-supplements-for-phenylketonuria-and-other-inborn-errors-of-metabolism\" target=\"_blank\">The consultation is available here </a></p>",
+          "Formatted_Date__c": "Nov 2023",
+          "Status_History__c": "a13OZ000005pXdNYAU"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Nov 2023",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Following the consultation process, Pharmac staff considers the feedback and identifies any additional information required as part of a gap analysis.&nbsp; The proposal may require further clinical advice, research, and assessment.</p>",
+    "position": 5,
+    "name": "Reviewing Consultation Feedback",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": "<p>Consultation on this proposal has closed. The consultation is <a href=\"https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/2023-11-14-proposal-to-fund-supplements-for-phenylketonuria-and-other-inborn-errors-of-metabolism\" target=\"_blank\">available here</a> </p>",
+          "fs": "<p>Consultation on this proposal has closed. The consultation is <a href=\"https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/2023-11-14-proposal-to-fund-supplements-for-phenylketonuria-and-other-inborn-errors-of-metabolism\" target=\"_blank\">available here</a> </p>",
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Nov 2023",
+          "fs": "Nov 2023",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Public consultation for this application is now closed. Pharmac is reviewing consultation feedback.",
+          "fs": "Public consultation for this application is now closed. Pharmac is reviewing consultation feedback.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ000004Fn7z2AC"
+          },
+          "Id": "a0POZ000004Fn7z2AC",
+          "Event_Date__c": "2023-11-28",
+          "Event_Description__c": "Public consultation for this application is now closed. Pharmac is reviewing consultation feedback.",
+          "Stage__c": "Reviewing Consultation Feedback",
+          "Summary__c": "<p>Consultation on this proposal has closed. The consultation is <a href=\"https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/2023-11-14-proposal-to-fund-supplements-for-phenylketonuria-and-other-inborn-errors-of-metabolism\" target=\"_blank\">available here</a> </p>",
+          "Formatted_Date__c": "Nov 2023",
+          "Status_History__c": "a13OZ000005pWNyYAM"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Nov 2023",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>We refer to our decisions about whether and how particular pharmaceuticals are publicly-funded, as &ldquo;funding decisions&rdquo;.</p>\r\n<p>We consider and assess all funding decisions using the&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/about/operating-policies-and-procedures/#factorsfc\" rel=\"nofollow\">Factors for Consideration</a>. When we do so, we carefully evaluate clinical and other evidence for the benefits and suitability of a proposal, and to identify and understand the people who will be affected by it.</p>\r\n<p>While our main task is to allocate pharmaceutical funding, we consider the benefits and costs across the whole health system now and with a long-term focus, including the effects for hospitals and primary care, and consider direct costs to patients as well as to all health sector budgets.</p>\r\n<p>Final funding decisions are made by the Pharmac Board or delegated to senior Pharmac staff as required by the Board.</p>\r\n<p>&nbsp;</p>",
+    "position": 6,
+    "name": "Decision",
+    "last": true,
+    "events": [
+      {
+        "Summary": {
+          "s": "<p>A decision on this proposal has been notified. A copy of the notification is <a href=\"https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/decision-to-fund-supplements-for-phenylketonuria-and-other-inherited-metabolic-diseases\" target=\"_blank\">available here</a> </p>",
+          "fs": "<p>A decision on this proposal has been notified. A copy of the notification is <a href=\"https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/decision-to-fund-supplements-for-phenylketonuria-and-other-inherited-metabolic-diseases\" target=\"_blank\">available here</a> </p>",
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Jan 2024",
+          "fs": "Jan 2024",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "The funding application has been approved.",
+          "fs": "The funding application has been approved.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ000004Fn802AC"
+          },
+          "Id": "a0POZ000004Fn802AC",
+          "Event_Date__c": "2024-01-10",
+          "Event_Description__c": "The funding application has been approved.",
+          "Stage__c": "Decision",
+          "Summary__c": "<p>A decision on this proposal has been notified. A copy of the notification is <a href=\"https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/decision-to-fund-supplements-for-phenylketonuria-and-other-inherited-metabolic-diseases\" target=\"_blank\">available here</a> </p>",
+          "Formatted_Date__c": "Jan 2024",
+          "Status_History__c": "a13OZ000005pU4WYAU"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Jan 2024",
+    "collapsed": false,
+    "checked": true
+  }
+]

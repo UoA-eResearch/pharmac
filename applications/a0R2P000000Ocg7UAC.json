@@ -1,0 +1,503 @@
+[
+  {
+    "text": "<p>New funding applications are referred to one of Pharmac's Funding Application Advisors (FAAs), who'll review the application to ensure they have the relevant information to undertake a preliminary analysis.&nbsp; They may seek more information if required.</p>\r\n<p><a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/new-funding-applications/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/new-funding-applications/</a></p>",
+    "position": 0,
+    "name": "Application Received",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "May 2017",
+          "fs": "May 2017",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Application received",
+          "fs": "Application received",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P000004pw2EUAQ"
+          },
+          "Id": "a0P2P000004pw2EUAQ",
+          "Event_Date__c": "2017-05-01",
+          "Event_Description__c": "Application received",
+          "Stage__c": "Application Received",
+          "Formatted_Date__c": "May 2017",
+          "Status_History__c": "a132P000000CCRVQA4"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "May 2017",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Pharmac is identifying and gathering information required to get clinical advice.  The <a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/pharmacology-and-therapeutics-advisory-committee-ptac/\" rel=\"nofollow\">Pharmacology and Therapeutics Advisory Committee (PTAC)</a>  meets quarterly. There are also around 20 expert <a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/specialist-advisory-committees/\" rel=\"nofollow\">Specialist Advisory Committees (SACs)</a>, previously expert Subcommittees, which provide clinical evaluations in specialist areas. Specialist Advisory Committees meet as required to discuss issues referred to them by PTAC or Pharmac.</p>\n<p style=\"height: 20px\">&nbsp;</p>\n<p>In November 2021, we introduced separate terms of reference for the SACs to make clear that these committees have different, but complementary, roles, expertise and perspectives to PTAC.</p>\n<p style=\"height: 15px\">&nbsp;</p>\n<p>PTAC and SACs may make recommendations to Pharmac that differ from each other when looking at the same evidence. Pharmac considers the recommendations provided by all our clinical advisory committees when assessing applications.</p>\n<p style=\"height: 20px\">&nbsp;</p>\n<p><a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/pharmacology-and-therapeutics-advisory-committee-ptac/ptac-terms-of-reference-july-2021/\" rel=\"nofollow\">PTAC</a>  and <a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/specialist-advisory-committees/specialist-advisory-committee-terms-of-reference//\" rel=\"nofollow\">Specialist Advisory Committees</a> records of the meeting will be published on this website in accordance with the Terms of Reference.</p>",
+    "position": 1,
+    "name": "Seeking Clinical Advice",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "May 2017",
+          "fs": "May 2017",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Clinical advice required",
+          "fs": "Clinical advice required",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P000004pw2FUAQ"
+          },
+          "Id": "a0P2P000004pw2FUAQ",
+          "Event_Date__c": "2017-05-07",
+          "Event_Description__c": "Clinical advice required",
+          "Stage__c": "Seeking Clinical Advice",
+          "Formatted_Date__c": "May 2017",
+          "Status_History__c": "a132P000000CCfcQAG"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Jun 2017",
+          "fs": "Jun 2017",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Assigned to Pharmacology and Therapeutics Advisory Committee (PTAC) meeting to provide advice on Thursday 10 August 2017",
+          "fs": "Assigned to Pharmacology and Therapeutics Advisory Committee (PTAC) meeting to provide advice on Thursday 10 August 2017",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P000004pw2GUAQ"
+          },
+          "Id": "a0P2P000004pw2GUAQ",
+          "Event_Date__c": "2017-06-15",
+          "Event_Description__c": "Assigned to Pharmacology and Therapeutics Advisory Committee (PTAC) meeting to provide advice on Thursday 10 August 2017",
+          "Stage__c": "Seeking Clinical Advice",
+          "Formatted_Date__c": "Jun 2017",
+          "Status_History__c": "a132P000000CCfmQAG"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": "<p style=\"text-align: justify;\"><span style=\"color: black; font-size: 11pt;\">1.1.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee <b>recommended</b> that the application from Gilead for the funding of sofosbuvir with velpatasvir for the treatment of chronic hepatitis C in adults be funded with a medium priority.</p><p style=\"text-align: justify;\"><span style=\"color: black; font-size: 11pt;\">1.2.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee took into account, where applicable, PHARMAC&#39;s relevant decision-making framework for these recommendations.</p><p><br></p>",
+          "fs": "<p style=\"text-align: justify;\"><span style=\"color: black; font-size: 11pt;\">1.1.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee <b>recommended</b> that the application from Gilead for the funding of sofosbuvir with velpatasvir for the treatment of chronic hepatitis C in adults be funded with a medium priority.</p><p style=\"text-align: justify;\"><span style=\"color: black; font-size: 11pt;\">1.2.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee took into account, where applicable, PHARMAC&#39;s relevant decision-making framework for these recommendations.</p><p><br></p>",
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": "<p style=\"text-align: justify;\"><span style=\"color: black; font-size: 11pt;\">1.1.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that Viekira Pak \u00b1 ribavirin has been funded without restriction for the treatment of hepatitis C virus (HCV) genotype 1 and noted that ledipasvir with sofosbuvir (Harvoni), has been funded for the treatment of patients with hepatitis C with advanced disease since July 2016. Access to Harvoni has been widened since 12 June 2017 to include patients with a lower end-stage liver disease (MELD) score of 12 or greater.</p><p style=\"text-align: justify;\"><span style=\"color: black; font-size: 11pt;\">1.2.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>Members noted that the application for funding of sofosbuvir with velpatasvir is for the treatment of chronic hepatitis C infection in patients over the age of 18, including genotypes 1 to 6. The Committee noted that the requested restriction would mean that sofosbuvir with velpatasvir would be funded for patients who are currently eligible for Viekira Pak or Harvoni. </p><p style=\"text-align: justify;\"><span style=\"color: black; font-size: 11pt;\">1.3.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that sofosbuvir with velpatasvir is a combination NS5B and NS5A inhibitor, and is supplied as a combination tablet to be taken once daily. Members noted that the treatment duration is 12 weeks, regardless of HCV genotype, prior treatment status or cirrhotic status. Members noted that sofosbuvir with velpatasvir + ribavirin is indicated for patients with decompensated cirrhosis. </p><p style=\"text-align: justify;\"><span style=\"color: black; font-size: 11pt;\">1.4.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>Members considered that treatment-na\u00efve, non-cirrhotic patients would make up 90-95% of patients in New Zealand.</p><p style=\"text-align: justify;\"><span style=\"color: black; font-size: 11pt;\">1.5.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that sofosbuvir with velpatasvir was evaluated in five clinical trials (the ASTRAL studies). Members reviewed the safety and efficacy results of the ASTRAL trials, and noted that the primary endpoint in all studies was a sustained virologic response 12 weeks after treatment (SVR12). </p><p style=\"text-align: justify;\"><span style=\"color: black; font-size: 11pt;\">1.6.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee reviewed the results of ASTRAL-1 trial (Feld et al. NEJM, 2015;373:2599-607), which compared sofosbuvir with velpatasvir treatment against placebo for 12 weeks in a randomised trial of patients infected with HCV genotype 1,2,4,5 or 6 that were either treatment na\u00efve or treatment experienced. Members noted that that the SVR12 was 99% in genotype 1 and 100% in genotype 2. Serious adverse events were reported in 2% of patients in the treatment arm, and rates of adverse events were similar in the treatment and placebo arms.</p><p style=\"text-align: justify;\"><span style=\"color: black; font-size: 11pt;\">1.7.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>Members reviewed the results of the ASTRAL-2 and ASTRAL-3 trials (Foster et al. NEJM, 2015;373:2608-17), which compared 12 weeks of sofosbuvir with velpatasvir treatment to 12 weeks of treatment with sofosbuvir and ribavirin for genotype 2 or genotype 3 HCV infected patients, respectively. The Committee noted that 99% of sofosbuvir with velpatasvir treated genotype 2 patients achieved SVR12 compared to 94% of patients treated with sofosbuvir and ribavirin. Members noted that for 95% of genotype 3 patients achieved SVR12 compared to 80% of patients treated with sofosbuvir with ribavirin. Members noted that rates of serious adverse events were low in both arms. </p><p style=\"text-align: justify;\"><span style=\"color: black; font-size: 11pt;\">1.8.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>Members reviewed the results of the ASTRAL-4 trial (Curry et al. NEJM. 2015;373:2618-28), which evaluated the efficacy of sofosbuvir with velpatasvir treatment for 12 or 24 weeks compared to 12 weeks of sofosbuvir with velpatasvir with ribavirin in patients with decompensated cirrhosis. The Committee noted that the median MELD score of patients was 10, and post-liver transplant patients were excluded. Members noted that SVR at 12 weeks of treatment with sofosbuvir with velpatasvir was 83%, 24 weeks was 86% and sofosbuvir with velpatasvir combined with ribavirin for 12 weeks had an SVR rate of 94%. Members noted that 18% of patients reported adverse events, and 9 participants discontinued treatment due to adverse events.</p><p style=\"text-align: justify;\"><span style=\"color: black; font-size: 11pt;\">1.9.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee reviewed the results of the ASTRAL-5 study (Wyles et al. Clin Infect Dis. 2017; doi: 10.1093/cid/cix260), which was a small prospective cohort study (n=104) of HCV and HIV1 co-infected patients. Members noted that participants were not restricted by genotype, but over 70% had genotype 1 HCV infection, 18% of patients had cirrhosis and 29% of patients were treatment-experiences. Members noted that following 12 weeks of treatment with sofosbuvir and velpatasvir, the overall SVR12 was 95%, with 1.9% of patients reported to have severe adverse events, and 1.9 percent of patient discontinuing treatment due to adverse events. The Committee noted that the SVR rates achieved in the presence of HIV co-infection were consistent with the SVR12 efficacy rates in the subgroups studied in the other ASTRAL trials.</p><p style=\"text-align: justify;\"><span style=\"color: black; font-size: 11pt;\">1.10.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>Members noted that the strength of the evidence for SVR12 was excellent, but noted a limitation in the quality of evidence because no quality of life data was reported in any of the ASTRAL studies. The Committee also noted that there was no direct comparison with Harvoni, which is currently funded by PHARMAC.</p><p style=\"text-align: justify;\"><span style=\"color: black; font-size: 11pt;\">1.11.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>Members compared another pangenotypic treatment, glecaprevir/pibrentasvir (Maviret) to sofosbuvir and velpatasvir for the treatment of chronic hepatitis C and noted that glecaprevir/pibrentasvir requires a shorter treatment duration of 8 weeks, compared to treatment with sofosbuvir with velpatasvir, which is 12 weeks. Members also noted that both treatments are taken once daily, but that glecaprevir/pibrentasvir is formulated in three separate tablets, compared to sofosbuvir with velpatasvir, which is a single tablet. Members considered that there were suitability advantages to each. Members considered that the efficacy and safety of both pangenotypic treatments was excellent and there were no important differences in these parameters between the two drugs, noting that both were also not affected by NS5A (resistance-associated variants) RAVS. The Committee noted that glecaprevir/pibrentasvir is contra-indicated in decompensated cirrhosis (Childs-Pugh B and C), while sofosbuvir with velpatasvir can be used in combination with ribavirin to treat this patient group. It was noted that the numbers of these patients in New Zealand is relatively small and decreasing, but a treatment for these patients, such as Harvoni, would still be required.</p><p style=\"text-align: justify;\"><span style=\"color: black; font-size: 11pt;\">1.12.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>In comparison with Viekira Pak for the treatment of genotype 1 HCV, Members noted that sofosbuvir with velpatasvir has better efficacy, no requirement for ribavirin for most patients, which reduces the number of side-effects and complexity of treatment, no drug-drug interactions and has a reduced number of tablets to be taken daily. The Committee considered that these benefits, along with no requirement for pre-treatment genotype testing, should make prescribing by general practitioners straight-forward. Members noted that there would still be a requirement for pre-testing with a Fibroscan to detect cirrhosis, which needs to be easily available for use by general practitioners. </p><p style=\"text-align: justify;\"><span style=\"color: black; font-size: 11pt;\">1.13.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>Members noted identifying and targeting treatment to the difficult to reach HCV infected populations posed a challenge to reducing the transmission of hepatitis C. The Committee considered that the straight forward treatment regime of sofosbuvir with velpatasvir compared to Viekira Pak would be beneficial to successful treatment in primary care and considered that one treatment for all patients (including decompensated patients) would further simplify hepatitis C treatment. Members noted that there are additional barriers to the eradication of hepatitis C in New Zealand other than providing effective treatments.</p><p style=\"text-align: justify;\"><span style=\"color: black; font-size: 11pt;\">1.14.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that while the efficacy of SVR12 indicated excellent efficacy in the ability of pangenotypic DAAs to clear HCV, long-term follow up data demonstrating clinical outcomes, in particular the effect of pangenotypic DAAs on rates of hepatocellular carcinoma, requirement for liver transplant and morbidity and mortality, is not yet known. Members note they look forward to reviewing this data when it becomes available.</p><p><br></p>",
+          "fs": "<p style=\"text-align: justify;\"><span style=\"color: black; font-size: 11pt;\">1.1.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that Viekira Pak \u00b1 ribavirin has been funded without restriction for the treatment of hepatitis C virus (HCV) genotype 1 and noted that ledipasvir with sofosbuvir (Harvoni), has been funded for the treatment of patients with hepatitis C with advanced disease since July 2016. Access to Harvoni has been widened since 12 June 2017 to include patients with a lower end-stage liver disease (MELD) score of 12 or greater.</p><p style=\"text-align: justify;\"><span style=\"color: black; font-size: 11pt;\">1.2.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>Members noted that the application for funding of sofosbuvir with velpatasvir is for the treatment of chronic hepatitis C infection in patients over the age of 18, including genotypes 1 to 6. The Committee noted that the requested restriction would mean that sofosbuvir with velpatasvir would be funded for patients who are currently eligible for Viekira Pak or Harvoni. </p><p style=\"text-align: justify;\"><span style=\"color: black; font-size: 11pt;\">1.3.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that sofosbuvir with velpatasvir is a combination NS5B and NS5A inhibitor, and is supplied as a combination tablet to be taken once daily. Members noted that the treatment duration is 12 weeks, regardless of HCV genotype, prior treatment status or cirrhotic status. Members noted that sofosbuvir with velpatasvir + ribavirin is indicated for patients with decompensated cirrhosis. </p><p style=\"text-align: justify;\"><span style=\"color: black; font-size: 11pt;\">1.4.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>Members considered that treatment-na\u00efve, non-cirrhotic patients would make up 90-95% of patients in New Zealand.</p><p style=\"text-align: justify;\"><span style=\"color: black; font-size: 11pt;\">1.5.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that sofosbuvir with velpatasvir was evaluated in five clinical trials (the ASTRAL studies). Members reviewed the safety and efficacy results of the ASTRAL trials, and noted that the primary endpoint in all studies was a sustained virologic response 12 weeks after treatment (SVR12). </p><p style=\"text-align: justify;\"><span style=\"color: black; font-size: 11pt;\">1.6.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee reviewed the results of ASTRAL-1 trial (Feld et al. NEJM, 2015;373:2599-607), which compared sofosbuvir with velpatasvir treatment against placebo for 12 weeks in a randomised trial of patients infected with HCV genotype 1,2,4,5 or 6 that were either treatment na\u00efve or treatment experienced. Members noted that that the SVR12 was 99% in genotype 1 and 100% in genotype 2. Serious adverse events were reported in 2% of patients in the treatment arm, and rates of adverse events were similar in the treatment and placebo arms.</p><p style=\"text-align: justify;\"><span style=\"color: black; font-size: 11pt;\">1.7.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>Members reviewed the results of the ASTRAL-2 and ASTRAL-3 trials (Foster et al. NEJM, 2015;373:2608-17), which compared 12 weeks of sofosbuvir with velpatasvir treatment to 12 weeks of treatment with sofosbuvir and ribavirin for genotype 2 or genotype 3 HCV infected patients, respectively. The Committee noted that 99% of sofosbuvir with velpatasvir treated genotype 2 patients achieved SVR12 compared to 94% of patients treated with sofosbuvir and ribavirin. Members noted that for 95% of genotype 3 patients achieved SVR12 compared to 80% of patients treated with sofosbuvir with ribavirin. Members noted that rates of serious adverse events were low in both arms. </p><p style=\"text-align: justify;\"><span style=\"color: black; font-size: 11pt;\">1.8.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>Members reviewed the results of the ASTRAL-4 trial (Curry et al. NEJM. 2015;373:2618-28), which evaluated the efficacy of sofosbuvir with velpatasvir treatment for 12 or 24 weeks compared to 12 weeks of sofosbuvir with velpatasvir with ribavirin in patients with decompensated cirrhosis. The Committee noted that the median MELD score of patients was 10, and post-liver transplant patients were excluded. Members noted that SVR at 12 weeks of treatment with sofosbuvir with velpatasvir was 83%, 24 weeks was 86% and sofosbuvir with velpatasvir combined with ribavirin for 12 weeks had an SVR rate of 94%. Members noted that 18% of patients reported adverse events, and 9 participants discontinued treatment due to adverse events.</p><p style=\"text-align: justify;\"><span style=\"color: black; font-size: 11pt;\">1.9.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee reviewed the results of the ASTRAL-5 study (Wyles et al. Clin Infect Dis. 2017; doi: 10.1093/cid/cix260), which was a small prospective cohort study (n=104) of HCV and HIV1 co-infected patients. Members noted that participants were not restricted by genotype, but over 70% had genotype 1 HCV infection, 18% of patients had cirrhosis and 29% of patients were treatment-experiences. Members noted that following 12 weeks of treatment with sofosbuvir and velpatasvir, the overall SVR12 was 95%, with 1.9% of patients reported to have severe adverse events, and 1.9 percent of patient discontinuing treatment due to adverse events. The Committee noted that the SVR rates achieved in the presence of HIV co-infection were consistent with the SVR12 efficacy rates in the subgroups studied in the other ASTRAL trials.</p><p style=\"text-align: justify;\"><span style=\"color: black; font-size: 11pt;\">1.10.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>Members noted that the strength of the evidence for SVR12 was excellent, but noted a limitation in the quality of evidence because no quality of life data was reported in any of the ASTRAL studies. The Committee also noted that there was no direct comparison with Harvoni, which is currently funded by PHARMAC.</p><p style=\"text-align: justify;\"><span style=\"color: black; font-size: 11pt;\">1.11.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>Members compared another pangenotypic treatment, glecaprevir/pibrentasvir (Maviret) to sofosbuvir and velpatasvir for the treatment of chronic hepatitis C and noted that glecaprevir/pibrentasvir requires a shorter treatment duration of 8 weeks, compared to treatment with sofosbuvir with velpatasvir, which is 12 weeks. Members also noted that both treatments are taken once daily, but that glecaprevir/pibrentasvir is formulated in three separate tablets, compared to sofosbuvir with velpatasvir, which is a single tablet. Members considered that there were suitability advantages to each. Members considered that the efficacy and safety of both pangenotypic treatments was excellent and there were no important differences in these parameters between the two drugs, noting that both were also not affected by NS5A (resistance-associated variants) RAVS. The Committee noted that glecaprevir/pibrentasvir is contra-indicated in decompensated cirrhosis (Childs-Pugh B and C), while sofosbuvir with velpatasvir can be used in combination with ribavirin to treat this patient group. It was noted that the numbers of these patients in New Zealand is relatively small and decreasing, but a treatment for these patients, such as Harvoni, would still be required.</p><p style=\"text-align: justify;\"><span style=\"color: black; font-size: 11pt;\">1.12.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>In comparison with Viekira Pak for the treatment of genotype 1 HCV, Members noted that sofosbuvir with velpatasvir has better efficacy, no requirement for ribavirin for most patients, which reduces the number of side-effects and complexity of treatment, no drug-drug interactions and has a reduced number of tablets to be taken daily. The Committee considered that these benefits, along with no requirement for pre-treatment genotype testing, should make prescribing by general practitioners straight-forward. Members noted that there would still be a requirement for pre-testing with a Fibroscan to detect cirrhosis, which needs to be easily available for use by general practitioners. </p><p style=\"text-align: justify;\"><span style=\"color: black; font-size: 11pt;\">1.13.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>Members noted identifying and targeting treatment to the difficult to reach HCV infected populations posed a challenge to reducing the transmission of hepatitis C. The Committee considered that the straight forward treatment regime of sofosbuvir with velpatasvir compared to Viekira Pak would be beneficial to successful treatment in primary care and considered that one treatment for all patients (including decompensated patients) would further simplify hepatitis C treatment. Members noted that there are additional barriers to the eradication of hepatitis C in New Zealand other than providing effective treatments.</p><p style=\"text-align: justify;\"><span style=\"color: black; font-size: 11pt;\">1.14.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that while the efficacy of SVR12 indicated excellent efficacy in the ability of pangenotypic DAAs to clear HCV, long-term follow up data demonstrating clinical outcomes, in particular the effect of pangenotypic DAAs on rates of hepatocellular carcinoma, requirement for liver transplant and morbidity and mortality, is not yet known. Members note they look forward to reviewing this data when it becomes available.</p><p><br></p>",
+          "change": null
+        },
+        "Published_Application": {
+          "s": "<p style=\"text-align: justify;\"><span style=\"color: black; font-size: 11pt;\">1.1.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered the application from Gilead for Sofosbuvir with velpatasvir (Epclusa) for the treatment of chronic hepatitis C in adults.</p><p><br></p>",
+          "fs": "<p style=\"text-align: justify;\"><span style=\"color: black; font-size: 11pt;\">1.1.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered the application from Gilead for Sofosbuvir with velpatasvir (Epclusa) for the treatment of chronic hepatitis C in adults.</p><p><br></p>",
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": "Medium",
+          "fs": "Medium",
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Nov 2017",
+          "fs": "Nov 2017",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Clinical advice received from Pharmacology and Therapeutics Advisory Committee (PTAC) at meeting Thursday 10 August 2017.",
+          "fs": "Clinical advice received from Pharmacology and Therapeutics Advisory Committee (PTAC) at meeting Thursday 10 August 2017.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P000004pw2HUAQ"
+          },
+          "Id": "a0P2P000004pw2HUAQ",
+          "Event_Date__c": "2017-11-17",
+          "Event_Description__c": "Clinical advice received from Pharmacology and Therapeutics Advisory Committee (PTAC) at meeting Thursday 10 August 2017.",
+          "Stage__c": "Seeking Clinical Advice",
+          "Outcome__c": "Medium",
+          "Formatted_Date__c": "Nov 2017",
+          "Published_Recommendation__c": "<p style=\"text-align: justify;\"><span style=\"color: black; font-size: 11pt;\">1.1.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee <b>recommended</b> that the application from Gilead for the funding of sofosbuvir with velpatasvir for the treatment of chronic hepatitis C in adults be funded with a medium priority.</p><p style=\"text-align: justify;\"><span style=\"color: black; font-size: 11pt;\">1.2.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee took into account, where applicable, PHARMAC&#39;s relevant decision-making framework for these recommendations.</p><p><br></p>",
+          "Published_Application__c": "<p style=\"text-align: justify;\"><span style=\"color: black; font-size: 11pt;\">1.1.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered the application from Gilead for Sofosbuvir with velpatasvir (Epclusa) for the treatment of chronic hepatitis C in adults.</p><p><br></p>",
+          "Published_Discussion__c": "<p style=\"text-align: justify;\"><span style=\"color: black; font-size: 11pt;\">1.1.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that Viekira Pak \u00b1 ribavirin has been funded without restriction for the treatment of hepatitis C virus (HCV) genotype 1 and noted that ledipasvir with sofosbuvir (Harvoni), has been funded for the treatment of patients with hepatitis C with advanced disease since July 2016. Access to Harvoni has been widened since 12 June 2017 to include patients with a lower end-stage liver disease (MELD) score of 12 or greater.</p><p style=\"text-align: justify;\"><span style=\"color: black; font-size: 11pt;\">1.2.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>Members noted that the application for funding of sofosbuvir with velpatasvir is for the treatment of chronic hepatitis C infection in patients over the age of 18, including genotypes 1 to 6. The Committee noted that the requested restriction would mean that sofosbuvir with velpatasvir would be funded for patients who are currently eligible for Viekira Pak or Harvoni. </p><p style=\"text-align: justify;\"><span style=\"color: black; font-size: 11pt;\">1.3.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that sofosbuvir with velpatasvir is a combination NS5B and NS5A inhibitor, and is supplied as a combination tablet to be taken once daily. Members noted that the treatment duration is 12 weeks, regardless of HCV genotype, prior treatment status or cirrhotic status. Members noted that sofosbuvir with velpatasvir + ribavirin is indicated for patients with decompensated cirrhosis. </p><p style=\"text-align: justify;\"><span style=\"color: black; font-size: 11pt;\">1.4.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>Members considered that treatment-na\u00efve, non-cirrhotic patients would make up 90-95% of patients in New Zealand.</p><p style=\"text-align: justify;\"><span style=\"color: black; font-size: 11pt;\">1.5.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that sofosbuvir with velpatasvir was evaluated in five clinical trials (the ASTRAL studies). Members reviewed the safety and efficacy results of the ASTRAL trials, and noted that the primary endpoint in all studies was a sustained virologic response 12 weeks after treatment (SVR12). </p><p style=\"text-align: justify;\"><span style=\"color: black; font-size: 11pt;\">1.6.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee reviewed the results of ASTRAL-1 trial (Feld et al. NEJM, 2015;373:2599-607), which compared sofosbuvir with velpatasvir treatment against placebo for 12 weeks in a randomised trial of patients infected with HCV genotype 1,2,4,5 or 6 that were either treatment na\u00efve or treatment experienced. Members noted that that the SVR12 was 99% in genotype 1 and 100% in genotype 2. Serious adverse events were reported in 2% of patients in the treatment arm, and rates of adverse events were similar in the treatment and placebo arms.</p><p style=\"text-align: justify;\"><span style=\"color: black; font-size: 11pt;\">1.7.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>Members reviewed the results of the ASTRAL-2 and ASTRAL-3 trials (Foster et al. NEJM, 2015;373:2608-17), which compared 12 weeks of sofosbuvir with velpatasvir treatment to 12 weeks of treatment with sofosbuvir and ribavirin for genotype 2 or genotype 3 HCV infected patients, respectively. The Committee noted that 99% of sofosbuvir with velpatasvir treated genotype 2 patients achieved SVR12 compared to 94% of patients treated with sofosbuvir and ribavirin. Members noted that for 95% of genotype 3 patients achieved SVR12 compared to 80% of patients treated with sofosbuvir with ribavirin. Members noted that rates of serious adverse events were low in both arms. </p><p style=\"text-align: justify;\"><span style=\"color: black; font-size: 11pt;\">1.8.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>Members reviewed the results of the ASTRAL-4 trial (Curry et al. NEJM. 2015;373:2618-28), which evaluated the efficacy of sofosbuvir with velpatasvir treatment for 12 or 24 weeks compared to 12 weeks of sofosbuvir with velpatasvir with ribavirin in patients with decompensated cirrhosis. The Committee noted that the median MELD score of patients was 10, and post-liver transplant patients were excluded. Members noted that SVR at 12 weeks of treatment with sofosbuvir with velpatasvir was 83%, 24 weeks was 86% and sofosbuvir with velpatasvir combined with ribavirin for 12 weeks had an SVR rate of 94%. Members noted that 18% of patients reported adverse events, and 9 participants discontinued treatment due to adverse events.</p><p style=\"text-align: justify;\"><span style=\"color: black; font-size: 11pt;\">1.9.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee reviewed the results of the ASTRAL-5 study (Wyles et al. Clin Infect Dis. 2017; doi: 10.1093/cid/cix260), which was a small prospective cohort study (n=104) of HCV and HIV1 co-infected patients. Members noted that participants were not restricted by genotype, but over 70% had genotype 1 HCV infection, 18% of patients had cirrhosis and 29% of patients were treatment-experiences. Members noted that following 12 weeks of treatment with sofosbuvir and velpatasvir, the overall SVR12 was 95%, with 1.9% of patients reported to have severe adverse events, and 1.9 percent of patient discontinuing treatment due to adverse events. The Committee noted that the SVR rates achieved in the presence of HIV co-infection were consistent with the SVR12 efficacy rates in the subgroups studied in the other ASTRAL trials.</p><p style=\"text-align: justify;\"><span style=\"color: black; font-size: 11pt;\">1.10.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>Members noted that the strength of the evidence for SVR12 was excellent, but noted a limitation in the quality of evidence because no quality of life data was reported in any of the ASTRAL studies. The Committee also noted that there was no direct comparison with Harvoni, which is currently funded by PHARMAC.</p><p style=\"text-align: justify;\"><span style=\"color: black; font-size: 11pt;\">1.11.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>Members compared another pangenotypic treatment, glecaprevir/pibrentasvir (Maviret) to sofosbuvir and velpatasvir for the treatment of chronic hepatitis C and noted that glecaprevir/pibrentasvir requires a shorter treatment duration of 8 weeks, compared to treatment with sofosbuvir with velpatasvir, which is 12 weeks. Members also noted that both treatments are taken once daily, but that glecaprevir/pibrentasvir is formulated in three separate tablets, compared to sofosbuvir with velpatasvir, which is a single tablet. Members considered that there were suitability advantages to each. Members considered that the efficacy and safety of both pangenotypic treatments was excellent and there were no important differences in these parameters between the two drugs, noting that both were also not affected by NS5A (resistance-associated variants) RAVS. The Committee noted that glecaprevir/pibrentasvir is contra-indicated in decompensated cirrhosis (Childs-Pugh B and C), while sofosbuvir with velpatasvir can be used in combination with ribavirin to treat this patient group. It was noted that the numbers of these patients in New Zealand is relatively small and decreasing, but a treatment for these patients, such as Harvoni, would still be required.</p><p style=\"text-align: justify;\"><span style=\"color: black; font-size: 11pt;\">1.12.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>In comparison with Viekira Pak for the treatment of genotype 1 HCV, Members noted that sofosbuvir with velpatasvir has better efficacy, no requirement for ribavirin for most patients, which reduces the number of side-effects and complexity of treatment, no drug-drug interactions and has a reduced number of tablets to be taken daily. The Committee considered that these benefits, along with no requirement for pre-treatment genotype testing, should make prescribing by general practitioners straight-forward. Members noted that there would still be a requirement for pre-testing with a Fibroscan to detect cirrhosis, which needs to be easily available for use by general practitioners. </p><p style=\"text-align: justify;\"><span style=\"color: black; font-size: 11pt;\">1.13.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>Members noted identifying and targeting treatment to the difficult to reach HCV infected populations posed a challenge to reducing the transmission of hepatitis C. The Committee considered that the straight forward treatment regime of sofosbuvir with velpatasvir compared to Viekira Pak would be beneficial to successful treatment in primary care and considered that one treatment for all patients (including decompensated patients) would further simplify hepatitis C treatment. Members noted that there are additional barriers to the eradication of hepatitis C in New Zealand other than providing effective treatments.</p><p style=\"text-align: justify;\"><span style=\"color: black; font-size: 11pt;\">1.14.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that while the efficacy of SVR12 indicated excellent efficacy in the ability of pangenotypic DAAs to clear HCV, long-term follow up data demonstrating clinical outcomes, in particular the effect of pangenotypic DAAs on rates of hepatocellular carcinoma, requirement for liver transplant and morbidity and mortality, is not yet known. Members note they look forward to reviewing this data when it becomes available.</p><p><br></p>",
+          "Status_History__c": "a132P000000CCfwQAG"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "May 2017",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Following Clinical Advice, Pharmac staff considers the advice and the funding application under goes an assessment using our&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/factors-for-consideration/\" rel=\"nofollow\">Factors for Consideration</a>&nbsp;framework and seeks additional information as required.</p>\r\n<p>&nbsp;</p>\r\n<p>Research and Economic analysis are undertaken.&nbsp; This focuses on the costs and benefits of a proposed course of action. Economics is based on three fundamental concepts that summarise the issues Pharmac faces daily:&nbsp;</p>\r\n<ul>\r\n<li>Scarcity &ndash; resources will always be insufficient to support all possible activities.</li>\r\n<li>Choices &ndash; due to scarce resources, decisions must be made about how best to use them.</li>\r\n<li>Opportunity cost &ndash; by choosing to use resources one way, we forgo other opportunities to use the same resources.</li>\r\n</ul>\r\n<p>&nbsp;</p>\r\n<p>For further information on the purpose of, and techniques for, undertaking economic analysis in health care, please refer&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/economic-analysis/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/economic-analysis/</a></p>",
+    "position": 2,
+    "name": "Under Assessment",
+    "last": false,
+    "events": null,
+    "dateString": null,
+    "collapsed": false,
+    "checked": false
+  },
+  {
+    "text": "<p>Pharmac staff uses a prioritisation process to compare and rank funding options. Possible opportunities for new investment will always exceed the budget Pharmac has available; therefore, prioritisation is an intrinsic part of Pharmac\u2019s decision-making process.</p>\r\n<p>The relative ranking of options aims to support Pharmac&rsquo;s statutory objective &ldquo;to secure for eligible people in need of pharmaceuticals, the best health outcomes that are reasonably achievable from pharmaceutical treatment and from within the amount of funding provided&rdquo;.</p>\r\n<p>A funding application or proposal is considered ready for prioritisation when sufficient information is available to permit it to be reviewed against Pharmac's Factors for Consideration and to inform a comparison with other possible investment decisions.</p>\r\n<p>There is no guarantee when or if a ranked medicine will be funded.&nbsp;&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/prioritisation/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/prioritisation/</a></p>",
+    "position": 3,
+    "name": "Options Compared",
+    "last": false,
+    "events": null,
+    "dateString": null,
+    "collapsed": false,
+    "checked": false
+  },
+  {
+    "text": "<p>Pharmac is consulting on a proposal to either approve or decline the application.&nbsp;We seek the views of all people who have an interest in our proposals, or who may be affected by them, to obtain feedback on our proposed approaches.</p>\r\n<p><a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/having-your-say/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/having-your-say/</a></p>",
+    "position": 4,
+    "name": "Under Consultation",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": "<p>The consultation document can be found here: https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/consultation-2020-10-01-inactive-declines/</p>",
+          "fs": "<p>The consultation document can be found here: https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/consultation-2020-10-01-inactive-declines/</p>",
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Oct 2020",
+          "fs": "Oct 2020",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Public consultation for this application is active.",
+          "fs": "Public consultation for this application is active.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P000004pw2IUAQ"
+          },
+          "Id": "a0P2P000004pw2IUAQ",
+          "Event_Date__c": "2020-10-01",
+          "Event_Description__c": "Public consultation for this application is active.",
+          "Stage__c": "Under Consultation",
+          "Links__c": "<p>The consultation document can be found here: https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/consultation-2020-10-01-inactive-declines/</p>",
+          "Formatted_Date__c": "Oct 2020",
+          "Status_History__c": "a132P000000ChIOQA0"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Oct 2020",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Following the consultation process, Pharmac staff considers the feedback and identifies any additional information required as part of a gap analysis.&nbsp; The proposal may require further clinical advice, research, and assessment.</p>",
+    "position": 5,
+    "name": "Reviewing Consultation Feedback",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Oct 2020",
+          "fs": "Oct 2020",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Public consultation for this application is now closed. Pharmac is reviewing consultation feedback.",
+          "fs": "Public consultation for this application is now closed. Pharmac is reviewing consultation feedback.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P000004pw2JUAQ"
+          },
+          "Id": "a0P2P000004pw2JUAQ",
+          "Event_Date__c": "2020-10-30",
+          "Event_Description__c": "Public consultation for this application is now closed. Pharmac is reviewing consultation feedback.",
+          "Stage__c": "Reviewing Consultation Feedback",
+          "Formatted_Date__c": "Oct 2020",
+          "Status_History__c": "a132P000000ChITQA0"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Oct 2020",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>We refer to our decisions about whether and how particular pharmaceuticals are publicly-funded, as &ldquo;funding decisions&rdquo;.</p>\r\n<p>We consider and assess all funding decisions using the&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/about/operating-policies-and-procedures/#factorsfc\" rel=\"nofollow\">Factors for Consideration</a>. When we do so, we carefully evaluate clinical and other evidence for the benefits and suitability of a proposal, and to identify and understand the people who will be affected by it.</p>\r\n<p>While our main task is to allocate pharmaceutical funding, we consider the benefits and costs across the whole health system now and with a long-term focus, including the effects for hospitals and primary care, and consider direct costs to patients as well as to all health sector budgets.</p>\r\n<p>Final funding decisions are made by the Pharmac Board or delegated to senior Pharmac staff as required by the Board.</p>\r\n<p>&nbsp;</p>",
+    "position": 6,
+    "name": "Decision",
+    "last": true,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": "<p>The notification document can be found here: https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/decision-2021-03-15-inactive-declines/</p>",
+          "fs": "<p>The notification document can be found here: https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/decision-2021-03-15-inactive-declines/</p>",
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Mar 2021",
+          "fs": "Mar 2021",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "The funding application has been declined.",
+          "fs": "The funding application has been declined.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P000004pw2KUAQ"
+          },
+          "Id": "a0P2P000004pw2KUAQ",
+          "Event_Date__c": "2021-03-15",
+          "Event_Description__c": "The funding application has been declined.",
+          "Stage__c": "Decision",
+          "Links__c": "<p>The notification document can be found here: https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/decision-2021-03-15-inactive-declines/</p>",
+          "Formatted_Date__c": "Mar 2021",
+          "Status_History__c": "a132P000000ChI5QAK"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Mar 2021",
+    "collapsed": false,
+    "checked": true
+  }
+]

@@ -1,0 +1,506 @@
+[
+  {
+    "text": "<p>New funding applications are referred to one of Pharmac's Funding Application Advisors (FAAs), who'll review the application to ensure they have the relevant information to undertake a preliminary analysis.&nbsp; They may seek more information if required.</p>\r\n<p><a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/new-funding-applications/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/new-funding-applications/</a></p>",
+    "position": 0,
+    "name": "Application Received",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": "<p><span style=\"color: rgb(8, 7, 7);\">Pharmac created this application because of new information received at the clinical advice meeting held 30 March 2021</span></p>",
+          "fs": "<p><span style=\"color: rgb(8, 7, 7);\">Pharmac created this application because of new information received at the clinical advice meeting held 30 March 2021</span></p>",
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Mar 2021",
+          "fs": "Mar 2021",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Application received",
+          "fs": "Application received",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P000006pnUMUAY"
+          },
+          "Id": "a0P2P000006pnUMUAY",
+          "Event_Date__c": "2021-03-30",
+          "Event_Description__c": "Application received",
+          "Stage__c": "Application Received",
+          "Summary__c": "<p><span style=\"color: rgb(8, 7, 7);\">Pharmac created this application because of new information received at the clinical advice meeting held 30 March 2021</span></p>",
+          "Formatted_Date__c": "Mar 2021",
+          "Status_History__c": "a132P000000D82OQAS"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Mar 2021",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Pharmac is identifying and gathering information required to get clinical advice.  The <a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/pharmacology-and-therapeutics-advisory-committee-ptac/\" rel=\"nofollow\">Pharmacology and Therapeutics Advisory Committee (PTAC)</a>  meets quarterly. There are also around 20 expert <a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/specialist-advisory-committees/\" rel=\"nofollow\">Specialist Advisory Committees (SACs)</a>, previously expert Subcommittees, which provide clinical evaluations in specialist areas. Specialist Advisory Committees meet as required to discuss issues referred to them by PTAC or Pharmac.</p>\n<p style=\"height: 20px\">&nbsp;</p>\n<p>In November 2021, we introduced separate terms of reference for the SACs to make clear that these committees have different, but complementary, roles, expertise and perspectives to PTAC.</p>\n<p style=\"height: 15px\">&nbsp;</p>\n<p>PTAC and SACs may make recommendations to Pharmac that differ from each other when looking at the same evidence. Pharmac considers the recommendations provided by all our clinical advisory committees when assessing applications.</p>\n<p style=\"height: 20px\">&nbsp;</p>\n<p><a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/pharmacology-and-therapeutics-advisory-committee-ptac/ptac-terms-of-reference-july-2021/\" rel=\"nofollow\">PTAC</a>  and <a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/specialist-advisory-committees/specialist-advisory-committee-terms-of-reference//\" rel=\"nofollow\">Specialist Advisory Committees</a> records of the meeting will be published on this website in accordance with the Terms of Reference.</p>",
+    "position": 1,
+    "name": "Seeking Clinical Advice",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": "<p><span style=\"color: black;\">1.1.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee <b>recommended</b> that funding restrictions for zoledronic acid be removed with a <b>high priority</b> within the context of treatment of endocrine disease.</p><p><br></p><p><span style=\"color: black;\">1.2.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>In making this recommendation, the Subcommittee considered the high health need of patients with osteoporosis, improved suitability of the treatment (reduced infusion interval), cost of treatment compared to available alternatives (ie funded oral antiresorptive agents) and cost-effectiveness to the health sector.</p><p><br></p><p><span style=\"color: black;\">1.3.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee <b>recommended</b> the following Special Authority for teriparatide (to replace the current criteria) with a <b>medium priority</b>, in the context of treatment of endocrine disease:</p><p><b style=\"font-size: 9pt;\">TERIPARATIDE</b></p><p><b style=\"font-size: 9pt;\">Initial application</b><span style=\"font-size: 9pt;\"> \u2013 from any relevant practitioner. Approvals valid for 18 months for applications meeting the following criteria:</span></p><p><span style=\"font-size: 9pt;\">All of the following:</span></p><p><span style=\"font-size: 9pt;\">1.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">The patient has a documented T-score less than or equal to -3.0, measured using dual energy x-ray absorptiometry (DEXA); and</span></p><p><span style=\"font-size: 9pt;\">2.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Either:</span></p><p><span style=\"font-size: 9pt;\">2.1 The patient has had two or more fractures due to minimal trauma; or</span></p><p><span style=\"font-size: 9pt;\">2.2 The patient has had a clinical vertebral fracture.</span></p><p><span style=\"color: black;\">1.4.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>In making this recommendation, the Subcommittee considered the health benefit, availability of existing treatments and cost-effectiveness.</p><p><br></p><p><span style=\"color: black;\">1.5.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee <b>recommended</b> raloxifene be delisted.</p><p><span style=\"color: black;\">1.6.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>In making this recommendation, the Subcommittee considered the minimal health benefit from raloxifene, low cost-effectiveness and greater efficacy of available alternative treatments.</p>",
+          "fs": "<p><span style=\"color: black;\">1.1.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee <b>recommended</b> that funding restrictions for zoledronic acid be removed with a <b>high priority</b> within the context of treatment of endocrine disease.</p><p><br></p><p><span style=\"color: black;\">1.2.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>In making this recommendation, the Subcommittee considered the high health need of patients with osteoporosis, improved suitability of the treatment (reduced infusion interval), cost of treatment compared to available alternatives (ie funded oral antiresorptive agents) and cost-effectiveness to the health sector.</p><p><br></p><p><span style=\"color: black;\">1.3.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee <b>recommended</b> the following Special Authority for teriparatide (to replace the current criteria) with a <b>medium priority</b>, in the context of treatment of endocrine disease:</p><p><b style=\"font-size: 9pt;\">TERIPARATIDE</b></p><p><b style=\"font-size: 9pt;\">Initial application</b><span style=\"font-size: 9pt;\"> \u2013 from any relevant practitioner. Approvals valid for 18 months for applications meeting the following criteria:</span></p><p><span style=\"font-size: 9pt;\">All of the following:</span></p><p><span style=\"font-size: 9pt;\">1.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">The patient has a documented T-score less than or equal to -3.0, measured using dual energy x-ray absorptiometry (DEXA); and</span></p><p><span style=\"font-size: 9pt;\">2.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Either:</span></p><p><span style=\"font-size: 9pt;\">2.1 The patient has had two or more fractures due to minimal trauma; or</span></p><p><span style=\"font-size: 9pt;\">2.2 The patient has had a clinical vertebral fracture.</span></p><p><span style=\"color: black;\">1.4.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>In making this recommendation, the Subcommittee considered the health benefit, availability of existing treatments and cost-effectiveness.</p><p><br></p><p><span style=\"color: black;\">1.5.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee <b>recommended</b> raloxifene be delisted.</p><p><span style=\"color: black;\">1.6.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>In making this recommendation, the Subcommittee considered the minimal health benefit from raloxifene, low cost-effectiveness and greater efficacy of available alternative treatments.</p>",
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": "<p><i>Zoledronic acid</i></p><p><span style=\"color: black;\">1.1.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that fractures are common in patients with osteoporosis and that, currently, bisphosphonates are the first-choice treatment to reduce fracture risk. The Subcommittee noted alendronate and risedronate are both oral agents, taken as a weekly tablet and that neither is subject to funding restrictions.</p><p><br></p><p><span style=\"color: black;\">1.2.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that zoledronic acid 5 mg per 100 ml is an intravenous (IV) agent, at a current cost to the pharmaceutical budget of approximately $60 per 5 mg dose. The Subcommittee noted that zoledronic acid is subject to funding restrictions. The Subcommittee did not consider the funding restrictions resulted in access inequities.</p><p><br></p><p><span style=\"color: black;\">1.3.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee considered the fracture risk reduction was comparable between zoledronic acid and oral bisphosphonates, but that persistence was likely to be greater for zoledronic acid. The Subcommittee considered that zoledronic acid is a convenient treatment option for many individuals with osteoporosis, however also considered that there was inconsistent availability in secondary care and that there is an infusion cost to the patient for administration in many primary care practices of up to $200 per patient per infusion. </p><p><br></p><p><span style=\"color: black;\">1.4.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted oral bisphosphonates are associated with gastrointestinal side effects and that IV agents are associated with acute phase reactions. The Subcommittee noted that neither are recommended for patients with renal failure with creatinine clearance less than 35 ml/min. The Subcommittee considered there would be no appreciable extra health sector costs from the current Special Authority criteria (eg resulting from management of side effects). The Subcommittee considered that the incidence of significant side effects from zoledronic acid (eg acute phase reactions) were decreasing with the move from re-treatment every 12 months to every 18 months.</p><p><br></p><p><span style=\"color: black;\">1.5.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that, for the majority of patients with Paget\u2019s disease of the bone, one zoledronic acid infusion would supress disease activity for more than five years and therefore the financial risk in this patient group is very low if the Special Authority were to be removed.</p><p><br></p><p><span style=\"color: black;\">1.6.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee considered that patients with established osteoporosis (and a resulting high fracture risk) require effective and readily available therapies. The Subcommittee considered that the health benefit of zoledronic acid in the treatment of osteoporosis was significant. The Subcommittee considered treatment with oral and IV bisphosphonates to be relatively inexpensive in the context of endocrine treatments.</p><p><br></p><p><span style=\"color: black;\">1.7.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee considered it likely that patient numbers would increase if funding restrictions were removed as some patients would shift from the currently funded oral bisphosphonate agents to zoledronic acid. The Subcommittee considered the number of additional patients who would receive zoledronic acid was uncertain; however, patients being managed in secondary care would be more likely to move to zoledronic acid if restrictions were removed, compared to those patients managed in primary care.</p><p><br></p><p><span style=\"color: black;\">1.8.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee considered that zoledronic acid would continue to be used for indications currently funded (both for the 4 mg and 5 mg dose). The Subcommittee considered that if funding restrictions were removed, zoledronic acid would also be used for the treatment of severe hypercalcaemia of any cause.</p><p><br></p><p><span style=\"color: black;\">1.9.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee suggested PHARMAC considers funding the 4 mg zoledronic acid presentation for osteoporosis, instead of the currently funded 5 mg dose, given the 4 mg presentation is less expensive. The Subcommittee considered that, while the 4 mg dose is not Medsafe-approved for treatment of osteoporosis and there was no available fracture outcomes data specific to this presentation, there were good surrogate marker data indicating efficacy of doses lower than 5 mg (<a href=\"https://pubmed.ncbi.nlm.nih.gov/11870242/\" target=\"_blank\">Reid et al., N Engl J Med. 2002 Feb 28;346(9):653-61</a>).</p><p><br></p><p><i>Teriparatide</i></p><p><span style=\"color: black;\">1.10.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Subcommittee considered that the evidence suggests that teriparatide is less efficacious if used as a second-line treatment after bisphosphonates. The Subcommittee considered that teriparatide would provide significant health benefit for a small group of patients with a clinical vertebral fracture, if used as a first line agent in severe osteoporosis. The Subcommittee considered that bisphosphonates would then be used second line for these patients. </p><p><span style=\"color: black;\">1.11.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Subcommittee noted that there was variation in terminology in radiology reporting regarding vertebral fractures, however, considered that clinicians would interpret \u2018clinical vertebral fracture\u2019 as a painful vertebral fracture or painless compression fracture.</p><p><span style=\"color: black;\">1.12.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Subcommittee considered that there would be a small increase in the number of patients seeking access to funded teriparatide if the funding restrictions were amended to include patients with a clinical vertebral fracture and total hip or spine BMD T-score of less than -3.0. The Subcommittee did not consider that this would create any access inequities compared to the current Special Authority criteria.</p><p><span style=\"color: black;\">1.13.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Subcommittee considered the following amendments would need to be made to the current Special Authority criteria for teriparatide to rationalise and harmonise funded treatment for patients with osteoporosis:</p><p><b style=\"font-size: 9pt;\">TERIPARATIDE</b></p><p><b style=\"font-size: 9pt;\">Initial application</b><span style=\"font-size: 9pt;\"> \u2013 from any relevant practitioner. Approvals valid for 18 months for applications meeting the following criteria:</span></p><p><span style=\"font-size: 9pt;\">All of the following:</span></p><p><strike style=\"font-size: 9pt;\">1.</strike><strike style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</strike><strike style=\"font-size: 9pt;\">The patient has severe, established osteoporosis; and</strike></p><p><span style=\"font-size: 9pt;\">2.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">The patient has a documented T-score less than or equal to -3.0</span><b style=\"font-size: 9pt;\">, measured using dual energy x-ray absorptiometry</b><span style=\"font-size: 9pt;\">; and</span></p><p><b style=\"font-size: 9pt;\">3.</b><b style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</b><b style=\"font-size: 9pt;\">Either:</b></p><p><span style=\"font-size: 9pt;\">3.1 The patient has had two or more fractures due to minimal trauma</span><b style=\"font-size: 9pt;\">; or</b></p><p><span style=\"font-size: 9pt;\">3.2 </span><b style=\"font-size: 9pt;\">The patient has had a clinical vertebral fracture.</b></p><p><strike style=\"font-size: 9pt;\">3.2 The patient has experienced at least one symptomatic new fracture after at least 12 months\u2019 continuous therapy with a funded antiresorptive agent at adequate doses (see Notes).</strike></p><p><strike style=\"font-size: 9pt;\">\u00a0</strike></p><p><strike style=\"font-size: 9pt;\">Note</strike></p><p style=\"text-align: justify;\"><strike style=\"font-size: 9pt;\">a)</strike><strike style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</strike><strike style=\"font-size: 9pt;\">The bone mineral density (BMD) measurement used to derive the T-score must be made using dual-energy x-ray absorptiometry (DXA). Quantitative ultrasound and quantitative computed tomography (QCT) are not acceptable</strike></p><p style=\"text-align: justify;\"><strike style=\"font-size: 9pt;\">b)</strike><strike style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</strike><strike style=\"font-size: 9pt;\">Antiresorptive agents and their adequate doses for the purposes of this Special Authority are defined as: alendronate sodium tab 70 mg or tab 70 mg with colecalciferol 5,600 iu once weekly; raloxifene hydrochloride tab 60 mg once daily; zoledronic acid 5 mg per year. If an intolerance of a severity necessitating permanent treatment withdrawal develops during the use of one antiresorptive agent, an alternate antiresorptive agent must be trialled so that the patient achieves the minimum requirement of 12 months\u2019 continuous therapy.</strike></p><p style=\"text-align: justify;\"><strike style=\"font-size: 9pt;\">c)</strike><strike style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</strike><strike style=\"font-size: 9pt;\">c) A vertebral fracture is defined as a 20% or greater reduction in height of the anterior or mid portion of a vertebral body relative to the posterior height of that body, or a 20% or greater reduction in any of these heights compared to the vertebral body above or below the affected vertebral body.</strike></p><p style=\"text-align: justify;\"><strike style=\"font-size: 9pt;\">d)</strike><strike style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</strike><strike style=\"font-size: 9pt;\">d) A maximum of 18 months of treatment (18 cartridges) will be subsidised.</strike></p><p><br></p><p><i>Raloxifene</i></p><p><span style=\"color: black;\">1.14.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Subcommittee noted that raloxifene is not effective in preventing non-vertebral fractures as it is a weak anti-resorptive agent. The Subcommittee considered that raloxifene did not provide a cost-effective treatment option, given that it increases the risk of venous thromboembolic disease and vasomotor flushes. The Subcommittee considered that de-emphasising raloxifene, any amendments to the Special Authority or delisting raloxifene would have little (if any) impact on the health system given its current limited usage.</p>",
+          "fs": "<p><i>Zoledronic acid</i></p><p><span style=\"color: black;\">1.1.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that fractures are common in patients with osteoporosis and that, currently, bisphosphonates are the first-choice treatment to reduce fracture risk. The Subcommittee noted alendronate and risedronate are both oral agents, taken as a weekly tablet and that neither is subject to funding restrictions.</p><p><br></p><p><span style=\"color: black;\">1.2.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that zoledronic acid 5 mg per 100 ml is an intravenous (IV) agent, at a current cost to the pharmaceutical budget of approximately $60 per 5 mg dose. The Subcommittee noted that zoledronic acid is subject to funding restrictions. The Subcommittee did not consider the funding restrictions resulted in access inequities.</p><p><br></p><p><span style=\"color: black;\">1.3.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee considered the fracture risk reduction was comparable between zoledronic acid and oral bisphosphonates, but that persistence was likely to be greater for zoledronic acid. The Subcommittee considered that zoledronic acid is a convenient treatment option for many individuals with osteoporosis, however also considered that there was inconsistent availability in secondary care and that there is an infusion cost to the patient for administration in many primary care practices of up to $200 per patient per infusion. </p><p><br></p><p><span style=\"color: black;\">1.4.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted oral bisphosphonates are associated with gastrointestinal side effects and that IV agents are associated with acute phase reactions. The Subcommittee noted that neither are recommended for patients with renal failure with creatinine clearance less than 35 ml/min. The Subcommittee considered there would be no appreciable extra health sector costs from the current Special Authority criteria (eg resulting from management of side effects). The Subcommittee considered that the incidence of significant side effects from zoledronic acid (eg acute phase reactions) were decreasing with the move from re-treatment every 12 months to every 18 months.</p><p><br></p><p><span style=\"color: black;\">1.5.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that, for the majority of patients with Paget\u2019s disease of the bone, one zoledronic acid infusion would supress disease activity for more than five years and therefore the financial risk in this patient group is very low if the Special Authority were to be removed.</p><p><br></p><p><span style=\"color: black;\">1.6.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee considered that patients with established osteoporosis (and a resulting high fracture risk) require effective and readily available therapies. The Subcommittee considered that the health benefit of zoledronic acid in the treatment of osteoporosis was significant. The Subcommittee considered treatment with oral and IV bisphosphonates to be relatively inexpensive in the context of endocrine treatments.</p><p><br></p><p><span style=\"color: black;\">1.7.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee considered it likely that patient numbers would increase if funding restrictions were removed as some patients would shift from the currently funded oral bisphosphonate agents to zoledronic acid. The Subcommittee considered the number of additional patients who would receive zoledronic acid was uncertain; however, patients being managed in secondary care would be more likely to move to zoledronic acid if restrictions were removed, compared to those patients managed in primary care.</p><p><br></p><p><span style=\"color: black;\">1.8.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee considered that zoledronic acid would continue to be used for indications currently funded (both for the 4 mg and 5 mg dose). The Subcommittee considered that if funding restrictions were removed, zoledronic acid would also be used for the treatment of severe hypercalcaemia of any cause.</p><p><br></p><p><span style=\"color: black;\">1.9.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee suggested PHARMAC considers funding the 4 mg zoledronic acid presentation for osteoporosis, instead of the currently funded 5 mg dose, given the 4 mg presentation is less expensive. The Subcommittee considered that, while the 4 mg dose is not Medsafe-approved for treatment of osteoporosis and there was no available fracture outcomes data specific to this presentation, there were good surrogate marker data indicating efficacy of doses lower than 5 mg (<a href=\"https://pubmed.ncbi.nlm.nih.gov/11870242/\" target=\"_blank\">Reid et al., N Engl J Med. 2002 Feb 28;346(9):653-61</a>).</p><p><br></p><p><i>Teriparatide</i></p><p><span style=\"color: black;\">1.10.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Subcommittee considered that the evidence suggests that teriparatide is less efficacious if used as a second-line treatment after bisphosphonates. The Subcommittee considered that teriparatide would provide significant health benefit for a small group of patients with a clinical vertebral fracture, if used as a first line agent in severe osteoporosis. The Subcommittee considered that bisphosphonates would then be used second line for these patients. </p><p><span style=\"color: black;\">1.11.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Subcommittee noted that there was variation in terminology in radiology reporting regarding vertebral fractures, however, considered that clinicians would interpret \u2018clinical vertebral fracture\u2019 as a painful vertebral fracture or painless compression fracture.</p><p><span style=\"color: black;\">1.12.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Subcommittee considered that there would be a small increase in the number of patients seeking access to funded teriparatide if the funding restrictions were amended to include patients with a clinical vertebral fracture and total hip or spine BMD T-score of less than -3.0. The Subcommittee did not consider that this would create any access inequities compared to the current Special Authority criteria.</p><p><span style=\"color: black;\">1.13.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Subcommittee considered the following amendments would need to be made to the current Special Authority criteria for teriparatide to rationalise and harmonise funded treatment for patients with osteoporosis:</p><p><b style=\"font-size: 9pt;\">TERIPARATIDE</b></p><p><b style=\"font-size: 9pt;\">Initial application</b><span style=\"font-size: 9pt;\"> \u2013 from any relevant practitioner. Approvals valid for 18 months for applications meeting the following criteria:</span></p><p><span style=\"font-size: 9pt;\">All of the following:</span></p><p><strike style=\"font-size: 9pt;\">1.</strike><strike style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</strike><strike style=\"font-size: 9pt;\">The patient has severe, established osteoporosis; and</strike></p><p><span style=\"font-size: 9pt;\">2.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">The patient has a documented T-score less than or equal to -3.0</span><b style=\"font-size: 9pt;\">, measured using dual energy x-ray absorptiometry</b><span style=\"font-size: 9pt;\">; and</span></p><p><b style=\"font-size: 9pt;\">3.</b><b style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</b><b style=\"font-size: 9pt;\">Either:</b></p><p><span style=\"font-size: 9pt;\">3.1 The patient has had two or more fractures due to minimal trauma</span><b style=\"font-size: 9pt;\">; or</b></p><p><span style=\"font-size: 9pt;\">3.2 </span><b style=\"font-size: 9pt;\">The patient has had a clinical vertebral fracture.</b></p><p><strike style=\"font-size: 9pt;\">3.2 The patient has experienced at least one symptomatic new fracture after at least 12 months\u2019 continuous therapy with a funded antiresorptive agent at adequate doses (see Notes).</strike></p><p><strike style=\"font-size: 9pt;\">\u00a0</strike></p><p><strike style=\"font-size: 9pt;\">Note</strike></p><p style=\"text-align: justify;\"><strike style=\"font-size: 9pt;\">a)</strike><strike style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</strike><strike style=\"font-size: 9pt;\">The bone mineral density (BMD) measurement used to derive the T-score must be made using dual-energy x-ray absorptiometry (DXA). Quantitative ultrasound and quantitative computed tomography (QCT) are not acceptable</strike></p><p style=\"text-align: justify;\"><strike style=\"font-size: 9pt;\">b)</strike><strike style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</strike><strike style=\"font-size: 9pt;\">Antiresorptive agents and their adequate doses for the purposes of this Special Authority are defined as: alendronate sodium tab 70 mg or tab 70 mg with colecalciferol 5,600 iu once weekly; raloxifene hydrochloride tab 60 mg once daily; zoledronic acid 5 mg per year. If an intolerance of a severity necessitating permanent treatment withdrawal develops during the use of one antiresorptive agent, an alternate antiresorptive agent must be trialled so that the patient achieves the minimum requirement of 12 months\u2019 continuous therapy.</strike></p><p style=\"text-align: justify;\"><strike style=\"font-size: 9pt;\">c)</strike><strike style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</strike><strike style=\"font-size: 9pt;\">c) A vertebral fracture is defined as a 20% or greater reduction in height of the anterior or mid portion of a vertebral body relative to the posterior height of that body, or a 20% or greater reduction in any of these heights compared to the vertebral body above or below the affected vertebral body.</strike></p><p style=\"text-align: justify;\"><strike style=\"font-size: 9pt;\">d)</strike><strike style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</strike><strike style=\"font-size: 9pt;\">d) A maximum of 18 months of treatment (18 cartridges) will be subsidised.</strike></p><p><br></p><p><i>Raloxifene</i></p><p><span style=\"color: black;\">1.14.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Subcommittee noted that raloxifene is not effective in preventing non-vertebral fractures as it is a weak anti-resorptive agent. The Subcommittee considered that raloxifene did not provide a cost-effective treatment option, given that it increases the risk of venous thromboembolic disease and vasomotor flushes. The Subcommittee considered that de-emphasising raloxifene, any amendments to the Special Authority or delisting raloxifene would have little (if any) impact on the health system given its current limited usage.</p>",
+          "change": null
+        },
+        "Published_Application": {
+          "s": "<p><span style=\"color: black;\">1.1.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted a paper from PHARMAC staff regarding the currently funded osteoporosis treatments. The Subcommittee noted this paper was being considered in order to rationalise and harmonise the available osteoporosis treatments.</p>",
+          "fs": "<p><span style=\"color: black;\">1.1.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted a paper from PHARMAC staff regarding the currently funded osteoporosis treatments. The Subcommittee noted this paper was being considered in order to rationalise and harmonise the available osteoporosis treatments.</p>",
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": "High",
+          "fs": "High",
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Jun 2021",
+          "fs": "Jun 2021",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Clinical advice received from Endocrinology Subcommittee at meeting Tuesday 30 March 2021.",
+          "fs": "Clinical advice received from Endocrinology Subcommittee at meeting Tuesday 30 March 2021.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P000006pnUNUAY"
+          },
+          "Id": "a0P2P000006pnUNUAY",
+          "Event_Date__c": "2021-06-28",
+          "Event_Description__c": "Clinical advice received from Endocrinology Subcommittee at meeting Tuesday 30 March 2021.",
+          "Stage__c": "Seeking Clinical Advice",
+          "Outcome__c": "High",
+          "Formatted_Date__c": "Jun 2021",
+          "Published_Recommendation__c": "<p><span style=\"color: black;\">1.1.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee <b>recommended</b> that funding restrictions for zoledronic acid be removed with a <b>high priority</b> within the context of treatment of endocrine disease.</p><p><br></p><p><span style=\"color: black;\">1.2.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>In making this recommendation, the Subcommittee considered the high health need of patients with osteoporosis, improved suitability of the treatment (reduced infusion interval), cost of treatment compared to available alternatives (ie funded oral antiresorptive agents) and cost-effectiveness to the health sector.</p><p><br></p><p><span style=\"color: black;\">1.3.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee <b>recommended</b> the following Special Authority for teriparatide (to replace the current criteria) with a <b>medium priority</b>, in the context of treatment of endocrine disease:</p><p><b style=\"font-size: 9pt;\">TERIPARATIDE</b></p><p><b style=\"font-size: 9pt;\">Initial application</b><span style=\"font-size: 9pt;\"> \u2013 from any relevant practitioner. Approvals valid for 18 months for applications meeting the following criteria:</span></p><p><span style=\"font-size: 9pt;\">All of the following:</span></p><p><span style=\"font-size: 9pt;\">1.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">The patient has a documented T-score less than or equal to -3.0, measured using dual energy x-ray absorptiometry (DEXA); and</span></p><p><span style=\"font-size: 9pt;\">2.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Either:</span></p><p><span style=\"font-size: 9pt;\">2.1 The patient has had two or more fractures due to minimal trauma; or</span></p><p><span style=\"font-size: 9pt;\">2.2 The patient has had a clinical vertebral fracture.</span></p><p><span style=\"color: black;\">1.4.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>In making this recommendation, the Subcommittee considered the health benefit, availability of existing treatments and cost-effectiveness.</p><p><br></p><p><span style=\"color: black;\">1.5.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee <b>recommended</b> raloxifene be delisted.</p><p><span style=\"color: black;\">1.6.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>In making this recommendation, the Subcommittee considered the minimal health benefit from raloxifene, low cost-effectiveness and greater efficacy of available alternative treatments.</p>",
+          "Published_Application__c": "<p><span style=\"color: black;\">1.1.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted a paper from PHARMAC staff regarding the currently funded osteoporosis treatments. The Subcommittee noted this paper was being considered in order to rationalise and harmonise the available osteoporosis treatments.</p>",
+          "Published_Discussion__c": "<p><i>Zoledronic acid</i></p><p><span style=\"color: black;\">1.1.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that fractures are common in patients with osteoporosis and that, currently, bisphosphonates are the first-choice treatment to reduce fracture risk. The Subcommittee noted alendronate and risedronate are both oral agents, taken as a weekly tablet and that neither is subject to funding restrictions.</p><p><br></p><p><span style=\"color: black;\">1.2.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that zoledronic acid 5 mg per 100 ml is an intravenous (IV) agent, at a current cost to the pharmaceutical budget of approximately $60 per 5 mg dose. The Subcommittee noted that zoledronic acid is subject to funding restrictions. The Subcommittee did not consider the funding restrictions resulted in access inequities.</p><p><br></p><p><span style=\"color: black;\">1.3.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee considered the fracture risk reduction was comparable between zoledronic acid and oral bisphosphonates, but that persistence was likely to be greater for zoledronic acid. The Subcommittee considered that zoledronic acid is a convenient treatment option for many individuals with osteoporosis, however also considered that there was inconsistent availability in secondary care and that there is an infusion cost to the patient for administration in many primary care practices of up to $200 per patient per infusion. </p><p><br></p><p><span style=\"color: black;\">1.4.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted oral bisphosphonates are associated with gastrointestinal side effects and that IV agents are associated with acute phase reactions. The Subcommittee noted that neither are recommended for patients with renal failure with creatinine clearance less than 35 ml/min. The Subcommittee considered there would be no appreciable extra health sector costs from the current Special Authority criteria (eg resulting from management of side effects). The Subcommittee considered that the incidence of significant side effects from zoledronic acid (eg acute phase reactions) were decreasing with the move from re-treatment every 12 months to every 18 months.</p><p><br></p><p><span style=\"color: black;\">1.5.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that, for the majority of patients with Paget\u2019s disease of the bone, one zoledronic acid infusion would supress disease activity for more than five years and therefore the financial risk in this patient group is very low if the Special Authority were to be removed.</p><p><br></p><p><span style=\"color: black;\">1.6.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee considered that patients with established osteoporosis (and a resulting high fracture risk) require effective and readily available therapies. The Subcommittee considered that the health benefit of zoledronic acid in the treatment of osteoporosis was significant. The Subcommittee considered treatment with oral and IV bisphosphonates to be relatively inexpensive in the context of endocrine treatments.</p><p><br></p><p><span style=\"color: black;\">1.7.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee considered it likely that patient numbers would increase if funding restrictions were removed as some patients would shift from the currently funded oral bisphosphonate agents to zoledronic acid. The Subcommittee considered the number of additional patients who would receive zoledronic acid was uncertain; however, patients being managed in secondary care would be more likely to move to zoledronic acid if restrictions were removed, compared to those patients managed in primary care.</p><p><br></p><p><span style=\"color: black;\">1.8.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee considered that zoledronic acid would continue to be used for indications currently funded (both for the 4 mg and 5 mg dose). The Subcommittee considered that if funding restrictions were removed, zoledronic acid would also be used for the treatment of severe hypercalcaemia of any cause.</p><p><br></p><p><span style=\"color: black;\">1.9.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee suggested PHARMAC considers funding the 4 mg zoledronic acid presentation for osteoporosis, instead of the currently funded 5 mg dose, given the 4 mg presentation is less expensive. The Subcommittee considered that, while the 4 mg dose is not Medsafe-approved for treatment of osteoporosis and there was no available fracture outcomes data specific to this presentation, there were good surrogate marker data indicating efficacy of doses lower than 5 mg (<a href=\"https://pubmed.ncbi.nlm.nih.gov/11870242/\" target=\"_blank\">Reid et al., N Engl J Med. 2002 Feb 28;346(9):653-61</a>).</p><p><br></p><p><i>Teriparatide</i></p><p><span style=\"color: black;\">1.10.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Subcommittee considered that the evidence suggests that teriparatide is less efficacious if used as a second-line treatment after bisphosphonates. The Subcommittee considered that teriparatide would provide significant health benefit for a small group of patients with a clinical vertebral fracture, if used as a first line agent in severe osteoporosis. The Subcommittee considered that bisphosphonates would then be used second line for these patients. </p><p><span style=\"color: black;\">1.11.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Subcommittee noted that there was variation in terminology in radiology reporting regarding vertebral fractures, however, considered that clinicians would interpret \u2018clinical vertebral fracture\u2019 as a painful vertebral fracture or painless compression fracture.</p><p><span style=\"color: black;\">1.12.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Subcommittee considered that there would be a small increase in the number of patients seeking access to funded teriparatide if the funding restrictions were amended to include patients with a clinical vertebral fracture and total hip or spine BMD T-score of less than -3.0. The Subcommittee did not consider that this would create any access inequities compared to the current Special Authority criteria.</p><p><span style=\"color: black;\">1.13.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Subcommittee considered the following amendments would need to be made to the current Special Authority criteria for teriparatide to rationalise and harmonise funded treatment for patients with osteoporosis:</p><p><b style=\"font-size: 9pt;\">TERIPARATIDE</b></p><p><b style=\"font-size: 9pt;\">Initial application</b><span style=\"font-size: 9pt;\"> \u2013 from any relevant practitioner. Approvals valid for 18 months for applications meeting the following criteria:</span></p><p><span style=\"font-size: 9pt;\">All of the following:</span></p><p><strike style=\"font-size: 9pt;\">1.</strike><strike style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</strike><strike style=\"font-size: 9pt;\">The patient has severe, established osteoporosis; and</strike></p><p><span style=\"font-size: 9pt;\">2.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">The patient has a documented T-score less than or equal to -3.0</span><b style=\"font-size: 9pt;\">, measured using dual energy x-ray absorptiometry</b><span style=\"font-size: 9pt;\">; and</span></p><p><b style=\"font-size: 9pt;\">3.</b><b style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</b><b style=\"font-size: 9pt;\">Either:</b></p><p><span style=\"font-size: 9pt;\">3.1 The patient has had two or more fractures due to minimal trauma</span><b style=\"font-size: 9pt;\">; or</b></p><p><span style=\"font-size: 9pt;\">3.2 </span><b style=\"font-size: 9pt;\">The patient has had a clinical vertebral fracture.</b></p><p><strike style=\"font-size: 9pt;\">3.2 The patient has experienced at least one symptomatic new fracture after at least 12 months\u2019 continuous therapy with a funded antiresorptive agent at adequate doses (see Notes).</strike></p><p><strike style=\"font-size: 9pt;\">\u00a0</strike></p><p><strike style=\"font-size: 9pt;\">Note</strike></p><p style=\"text-align: justify;\"><strike style=\"font-size: 9pt;\">a)</strike><strike style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</strike><strike style=\"font-size: 9pt;\">The bone mineral density (BMD) measurement used to derive the T-score must be made using dual-energy x-ray absorptiometry (DXA). Quantitative ultrasound and quantitative computed tomography (QCT) are not acceptable</strike></p><p style=\"text-align: justify;\"><strike style=\"font-size: 9pt;\">b)</strike><strike style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</strike><strike style=\"font-size: 9pt;\">Antiresorptive agents and their adequate doses for the purposes of this Special Authority are defined as: alendronate sodium tab 70 mg or tab 70 mg with colecalciferol 5,600 iu once weekly; raloxifene hydrochloride tab 60 mg once daily; zoledronic acid 5 mg per year. If an intolerance of a severity necessitating permanent treatment withdrawal develops during the use of one antiresorptive agent, an alternate antiresorptive agent must be trialled so that the patient achieves the minimum requirement of 12 months\u2019 continuous therapy.</strike></p><p style=\"text-align: justify;\"><strike style=\"font-size: 9pt;\">c)</strike><strike style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</strike><strike style=\"font-size: 9pt;\">c) A vertebral fracture is defined as a 20% or greater reduction in height of the anterior or mid portion of a vertebral body relative to the posterior height of that body, or a 20% or greater reduction in any of these heights compared to the vertebral body above or below the affected vertebral body.</strike></p><p style=\"text-align: justify;\"><strike style=\"font-size: 9pt;\">d)</strike><strike style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</strike><strike style=\"font-size: 9pt;\">d) A maximum of 18 months of treatment (18 cartridges) will be subsidised.</strike></p><p><br></p><p><i>Raloxifene</i></p><p><span style=\"color: black;\">1.14.</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Subcommittee noted that raloxifene is not effective in preventing non-vertebral fractures as it is a weak anti-resorptive agent. The Subcommittee considered that raloxifene did not provide a cost-effective treatment option, given that it increases the risk of venous thromboembolic disease and vasomotor flushes. The Subcommittee considered that de-emphasising raloxifene, any amendments to the Special Authority or delisting raloxifene would have little (if any) impact on the health system given its current limited usage.</p>",
+          "Status_History__c": "a132P000000D96eQAC"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Jun 2021",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Following Clinical Advice, Pharmac staff considers the advice and the funding application under goes an assessment using our&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/factors-for-consideration/\" rel=\"nofollow\">Factors for Consideration</a>&nbsp;framework and seeks additional information as required.</p>\r\n<p>&nbsp;</p>\r\n<p>Research and Economic analysis are undertaken.&nbsp; This focuses on the costs and benefits of a proposed course of action. Economics is based on three fundamental concepts that summarise the issues Pharmac faces daily:&nbsp;</p>\r\n<ul>\r\n<li>Scarcity &ndash; resources will always be insufficient to support all possible activities.</li>\r\n<li>Choices &ndash; due to scarce resources, decisions must be made about how best to use them.</li>\r\n<li>Opportunity cost &ndash; by choosing to use resources one way, we forgo other opportunities to use the same resources.</li>\r\n</ul>\r\n<p>&nbsp;</p>\r\n<p>For further information on the purpose of, and techniques for, undertaking economic analysis in health care, please refer&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/economic-analysis/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/economic-analysis/</a></p>",
+    "position": 2,
+    "name": "Under Assessment",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Sep 2021",
+          "fs": "Sep 2021",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Working to compare options",
+          "fs": "Working to compare options",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P000006pnUOUAY"
+          },
+          "Id": "a0P2P000006pnUOUAY",
+          "Event_Date__c": "2021-09-07",
+          "Event_Description__c": "Working to compare options",
+          "Stage__c": "Under Assessment",
+          "Formatted_Date__c": "Sep 2021",
+          "Status_History__c": "a132P000000D9gGQAS"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Sep 2021",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Pharmac staff uses a prioritisation process to compare and rank funding options. Possible opportunities for new investment will always exceed the budget Pharmac has available; therefore, prioritisation is an intrinsic part of Pharmac\u2019s decision-making process.</p>\r\n<p>The relative ranking of options aims to support Pharmac&rsquo;s statutory objective &ldquo;to secure for eligible people in need of pharmaceuticals, the best health outcomes that are reasonably achievable from pharmaceutical treatment and from within the amount of funding provided&rdquo;.</p>\r\n<p>A funding application or proposal is considered ready for prioritisation when sufficient information is available to permit it to be reviewed against Pharmac's Factors for Consideration and to inform a comparison with other possible investment decisions.</p>\r\n<p>There is no guarantee when or if a ranked medicine will be funded.&nbsp;&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/prioritisation/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/prioritisation/</a></p>",
+    "position": 3,
+    "name": "Options Compared",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Oct 2021",
+          "fs": "Oct 2021",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "The relative ranking of the pharmaceutical application has been completed.",
+          "fs": "The relative ranking of the pharmaceutical application has been completed.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P000006pnUPUAY"
+          },
+          "Id": "a0P2P000006pnUPUAY",
+          "Event_Date__c": "2021-10-26",
+          "Event_Description__c": "The relative ranking of the pharmaceutical application has been completed.",
+          "Stage__c": "Options Compared",
+          "Formatted_Date__c": "Oct 2021",
+          "Status_History__c": "a132P000000DGwKQAW"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Oct 2021",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Pharmac is consulting on a proposal to either approve or decline the application.&nbsp;We seek the views of all people who have an interest in our proposals, or who may be affected by them, to obtain feedback on our proposed approaches.</p>\r\n<p><a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/having-your-say/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/having-your-say/</a></p>",
+    "position": 4,
+    "name": "Under Consultation",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": "<p><a href=\"https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/2022-08-31-proposals-to-fund-treatments-for-people-with-kidney-disease-osteoporosis-cancers-hyperparathyroidism-and-injuries-from-burns/?page=3\" target=\"_blank\">Consultation notification</a></p>",
+          "fs": "<p><a href=\"https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/2022-08-31-proposals-to-fund-treatments-for-people-with-kidney-disease-osteoporosis-cancers-hyperparathyroidism-and-injuries-from-burns/?page=3\" target=\"_blank\">Consultation notification</a></p>",
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Aug 2022",
+          "fs": "Aug 2022",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Public consultation for this application is active.",
+          "fs": "Public consultation for this application is active.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P000006pnUQUAY"
+          },
+          "Id": "a0P2P000006pnUQUAY",
+          "Event_Date__c": "2022-08-31",
+          "Event_Description__c": "Public consultation for this application is active.",
+          "Stage__c": "Under Consultation",
+          "Links__c": "<p><a href=\"https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/2022-08-31-proposals-to-fund-treatments-for-people-with-kidney-disease-osteoporosis-cancers-hyperparathyroidism-and-injuries-from-burns/?page=3\" target=\"_blank\">Consultation notification</a></p>",
+          "Formatted_Date__c": "Aug 2022",
+          "Status_History__c": "a132P000000E8eKQAS"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Aug 2022",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Following the consultation process, Pharmac staff considers the feedback and identifies any additional information required as part of a gap analysis.&nbsp; The proposal may require further clinical advice, research, and assessment.</p>",
+    "position": 5,
+    "name": "Reviewing Consultation Feedback",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Sep 2022",
+          "fs": "Sep 2022",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Public consultation for this application is now closed. Pharmac is reviewing consultation feedback.",
+          "fs": "Public consultation for this application is now closed. Pharmac is reviewing consultation feedback.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P000006pnURUAY"
+          },
+          "Id": "a0P2P000006pnURUAY",
+          "Event_Date__c": "2022-09-16",
+          "Event_Description__c": "Public consultation for this application is now closed. Pharmac is reviewing consultation feedback.",
+          "Stage__c": "Reviewing Consultation Feedback",
+          "Formatted_Date__c": "Sep 2022",
+          "Status_History__c": "a132P000000E8eeQAC"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Sep 2022",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>We refer to our decisions about whether and how particular pharmaceuticals are publicly-funded, as &ldquo;funding decisions&rdquo;.</p>\r\n<p>We consider and assess all funding decisions using the&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/about/operating-policies-and-procedures/#factorsfc\" rel=\"nofollow\">Factors for Consideration</a>. When we do so, we carefully evaluate clinical and other evidence for the benefits and suitability of a proposal, and to identify and understand the people who will be affected by it.</p>\r\n<p>While our main task is to allocate pharmaceutical funding, we consider the benefits and costs across the whole health system now and with a long-term focus, including the effects for hospitals and primary care, and consider direct costs to patients as well as to all health sector budgets.</p>\r\n<p>Final funding decisions are made by the Pharmac Board or delegated to senior Pharmac staff as required by the Board.</p>\r\n<p>&nbsp;</p>",
+    "position": 6,
+    "name": "Decision",
+    "last": true,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": "<p><a href=\"https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/2022-11-10-decisions-to-fund-treatments-for-people-with-kidney-disease-osteoporosis-cancers-hyperparathyroidism-and-injuries-from-burns/\" target=\"_blank\">Decision notification</a></p>",
+          "fs": "<p><a href=\"https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/2022-11-10-decisions-to-fund-treatments-for-people-with-kidney-disease-osteoporosis-cancers-hyperparathyroidism-and-injuries-from-burns/\" target=\"_blank\">Decision notification</a></p>",
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Nov 2022",
+          "fs": "Nov 2022",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "The funding application has been approved.",
+          "fs": "The funding application has been approved.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P000006pnUSUAY"
+          },
+          "Id": "a0P2P000006pnUSUAY",
+          "Event_Date__c": "2022-11-10",
+          "Event_Description__c": "The funding application has been approved.",
+          "Stage__c": "Decision",
+          "Links__c": "<p><a href=\"https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/2022-11-10-decisions-to-fund-treatments-for-people-with-kidney-disease-osteoporosis-cancers-hyperparathyroidism-and-injuries-from-burns/\" target=\"_blank\">Decision notification</a></p>",
+          "Formatted_Date__c": "Nov 2022",
+          "Status_History__c": "a132P000000EB3aQAG"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Nov 2022",
+    "collapsed": false,
+    "checked": true
+  }
+]

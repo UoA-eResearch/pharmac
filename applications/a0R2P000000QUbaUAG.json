@@ -1,0 +1,506 @@
+[
+  {
+    "text": "<p>New funding applications are referred to one of Pharmac's Funding Application Advisors (FAAs), who'll review the application to ensure they have the relevant information to undertake a preliminary analysis.&nbsp; They may seek more information if required.</p>\r\n<p><a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/new-funding-applications/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/new-funding-applications/</a></p>",
+    "position": 0,
+    "name": "Application Received",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Jan 2020",
+          "fs": "Jan 2020",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Application received",
+          "fs": "Application received",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P000005AzUwUAK"
+          },
+          "Id": "a0P2P000005AzUwUAK",
+          "Event_Date__c": "2020-01-24",
+          "Event_Description__c": "Application received",
+          "Stage__c": "Application Received",
+          "Formatted_Date__c": "Jan 2020",
+          "Status_History__c": "a132P000000BPtsQAG"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Jan 2020",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Pharmac is identifying and gathering information required to get clinical advice.  The <a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/pharmacology-and-therapeutics-advisory-committee-ptac/\" rel=\"nofollow\">Pharmacology and Therapeutics Advisory Committee (PTAC)</a>  meets quarterly. There are also around 20 expert <a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/specialist-advisory-committees/\" rel=\"nofollow\">Specialist Advisory Committees (SACs)</a>, previously expert Subcommittees, which provide clinical evaluations in specialist areas. Specialist Advisory Committees meet as required to discuss issues referred to them by PTAC or Pharmac.</p>\n<p style=\"height: 20px\">&nbsp;</p>\n<p>In November 2021, we introduced separate terms of reference for the SACs to make clear that these committees have different, but complementary, roles, expertise and perspectives to PTAC.</p>\n<p style=\"height: 15px\">&nbsp;</p>\n<p>PTAC and SACs may make recommendations to Pharmac that differ from each other when looking at the same evidence. Pharmac considers the recommendations provided by all our clinical advisory committees when assessing applications.</p>\n<p style=\"height: 20px\">&nbsp;</p>\n<p><a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/pharmacology-and-therapeutics-advisory-committee-ptac/ptac-terms-of-reference-july-2021/\" rel=\"nofollow\">PTAC</a>  and <a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/specialist-advisory-committees/specialist-advisory-committee-terms-of-reference//\" rel=\"nofollow\">Specialist Advisory Committees</a> records of the meeting will be published on this website in accordance with the Terms of Reference.</p>",
+    "position": 1,
+    "name": "Seeking Clinical Advice",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Jan 2020",
+          "fs": "Jan 2020",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Clinical advice required",
+          "fs": "Clinical advice required",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P000005AzUxUAK"
+          },
+          "Id": "a0P2P000005AzUxUAK",
+          "Event_Date__c": "2020-01-24",
+          "Event_Description__c": "Clinical advice required",
+          "Stage__c": "Seeking Clinical Advice",
+          "Formatted_Date__c": "Jan 2020",
+          "Status_History__c": "a132P000000BPtxQAG"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": "<p>1.1<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee recommended that levocarnitine for inborn errors of metabolism be funded with a high priority within the context of the rare disorders therapeutic area, subject to the following Special Authority criteria:</p><p><b style=\"font-size: 10pt;\">Initial application</b><span style=\"font-size: 10pt;\"> \u2013 inborn errors of metabolism.</span><b style=\"font-size: 10pt;\"> </b><span style=\"font-size: 10pt;\">Only</span><b style=\"font-size: 10pt;\"> </b><span style=\"font-size: 10pt;\">from a metabolic physician or medical physician on the recommendation of a metabolic physician. </span></p><p><span style=\"font-size: 10pt;\">Approvals valid for 6 months for applications meeting the following criteria: </span></p><p style=\"text-align: justify;\"><span style=\"font-size: 10pt;\">1.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 10pt;\">Patient has a confirmed primary carnitine deficiency; and</span></p><p style=\"text-align: justify;\"><span style=\"font-size: 10pt;\">2.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 10pt;\">Plasma carnitine levels are less than the lower limit of normal.</span></p><p><br></p><p><b style=\"font-size: 10pt;\">Renewal application</b><span style=\"font-size: 10pt;\"> \u2013 inborn errors of metabolism. Only from a metabolic physician or on the recommendation of a metabolic physician. Approvals valid without further renewal unless notified where the treatment remains appropriate and the patient is benefiting from treatment.</span></p><p>1.1.1<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee made this recommendation because of the high health need of patients, especially those with carnitine transport or uptake deficiencies (eg systemic primary carnitine deficiency (CDSP)) for whom levocarnitine is the only beneficial treatment and there is evidence of harm if patients are untreated. The Subcommittee noted that a pharmaceutical-grade (GMP-certified) product or products would need to be identified in order for levocarnitine to be considered for listing in Section B of the Pharmaceutical Schedule.\u00a0</p>",
+          "fs": "<p>1.1<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee recommended that levocarnitine for inborn errors of metabolism be funded with a high priority within the context of the rare disorders therapeutic area, subject to the following Special Authority criteria:</p><p><b style=\"font-size: 10pt;\">Initial application</b><span style=\"font-size: 10pt;\"> \u2013 inborn errors of metabolism.</span><b style=\"font-size: 10pt;\"> </b><span style=\"font-size: 10pt;\">Only</span><b style=\"font-size: 10pt;\"> </b><span style=\"font-size: 10pt;\">from a metabolic physician or medical physician on the recommendation of a metabolic physician. </span></p><p><span style=\"font-size: 10pt;\">Approvals valid for 6 months for applications meeting the following criteria: </span></p><p style=\"text-align: justify;\"><span style=\"font-size: 10pt;\">1.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 10pt;\">Patient has a confirmed primary carnitine deficiency; and</span></p><p style=\"text-align: justify;\"><span style=\"font-size: 10pt;\">2.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 10pt;\">Plasma carnitine levels are less than the lower limit of normal.</span></p><p><br></p><p><b style=\"font-size: 10pt;\">Renewal application</b><span style=\"font-size: 10pt;\"> \u2013 inborn errors of metabolism. Only from a metabolic physician or on the recommendation of a metabolic physician. Approvals valid without further renewal unless notified where the treatment remains appropriate and the patient is benefiting from treatment.</span></p><p>1.1.1<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee made this recommendation because of the high health need of patients, especially those with carnitine transport or uptake deficiencies (eg systemic primary carnitine deficiency (CDSP)) for whom levocarnitine is the only beneficial treatment and there is evidence of harm if patients are untreated. The Subcommittee noted that a pharmaceutical-grade (GMP-certified) product or products would need to be identified in order for levocarnitine to be considered for listing in Section B of the Pharmaceutical Schedule.\u00a0</p>",
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": "<p>1.1<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that levocarnitine, the only biologically active isomer of carnitine, is not approved by Medsafe. It is considered a dietary supplement in New Zealand and can be purchased over the counter at pharmacies or online. </p><p>1.2<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that carnitine is a compound that is synthesised in the body from amino acids and is also obtained from the diet, particularly from meat and animal products. The Subcommittee noted that carnitine transports long-chain fatty acids into the mitochondria of tissue cells, especially to skeletal and cardiac muscle cells, enabling oxidation of the fatty acids and energy metabolism. </p><p>1.3<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that levocarnitine is not listed in Section B of the Pharmaceutical Schedule for community use in any indication and noted that there is no evidence of consideration by international pharmaceutical funding agencies regarding levocarnitine. The Subcommittee noted that levocarnitine is funded for hospital use in multiple dose forms (capsules, oral solution and solution for injection) and that these dose forms ensure there is a suitable formulation for use in children.</p><p>1.4<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that testing of total plasma carnitine is performed in New Zealand with an approximate cost of up to $150 per test. Members noted that the normal reference range for plasma total carnitine is between 35 and 60 micromoles per litre (umol/L). Members considered that plasma carnitine may not accurately reflect total body carnitine due to stores in muscle tissue.\u00a0</p><p><br></p><p><i>Metabolic indications: inborn errors of metabolism</i></p><p>1.1<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that inborn errors of metabolism are a heterogenous group of diseases that include the fatty acid oxidation disorders, which are caused by one or more genetic mutations that disrupt mitochondrial oxidation or fatty acid transport. </p><p>1.2<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that carnitine transport or uptake deficiencies such as systemic primary carnitine deficiency (CDSP) are sub-types of fatty acid oxidation disorders and that CDSP predominantly affect infants and children, causing death or irreversible organ damage if not treated early. The Subcommittee noted that patients with carnitine transport or uptake deficiencies cannot synthesise enough carnitine for essential requirements, and considered that these patients require levocarnitine to prevent damage from this disorder.</p><p>1.3<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that carnitine supplementation in fatty acid oxidation disorders (other than carnitine transport or uptake deficiencies) is debated, potentially offering benefit in secondary carnitine deficiency but in other cases may actually cause secondary carnitine deficiency due to conjugation of fatty acids with carnitine, which is then excreted. </p><p>1.4<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that PHARMAC has received NPPA applications for levocarnitine use in metabolic indications including fatty acid oxidation disorders and CDSP, with requested dosages ranging from 50 mg to 400 mg per kg per day, often in divided doses and adjusted to plasma carnitine level. The Subcommittee noted that for primary carnitine deficiency, patient age at the time of NPPA application ranged from &lt;1 to 40 years, with average age of about 11 years.</p><p>1.5<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that PHARMAC staff have inferred from the NPPA data that the prevalence of primary carnitine deficiency (severe enough to warrant supplementation) is no greater than 1:250,000 in New Zealand, and that staff had estimated that an additional 5 patients with inborn errors of metabolism would require levocarnitine supplementation in any one year. Some members considered that the patient numbers may be an overestimate. Members noted that there a higher incidence of very long chain acyl Co-A dehydrogenase deficiency, a type of inborn error of metabolism, in M\u0101ori than in non-M\u0101ori in New Zealand.</p><p>1.6<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that this PHARMAC-initiated application meets the definition of a rare disorder as per the second of <a href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/medicines-for-rare-disorders/\" target=\"_blank\">PHARMAC\u2019s Three Principles for Rare Disorders</a>. </p><p>1.7<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted there is limited evidence regarding levocarnitine for patients with inborn errors of metabolism, and that a 2012 Cochrane systematic review (<a href=\"https://www.ncbi.nlm.nih.gov/pubmed/22336821\" target=\"_blank\">Nasser et al. Cochrane Database Syst Rev. 2012; 2: CD006659</a>) identified no clinical trials that met criteria for inclusion, thus reported no conclusions regarding carnitine supplementation for patients with inborn errors of metabolism. </p><p>1.7.1<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted the following expert opinion review publications regarding treatment of carnitine deficiency due to inborn errors of metabolism:</p><p><span style=\"color: black; font-family: Symbol;\">\u00b7</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://www.ncbi.nlm.nih.gov/pubmed/30740404\" target=\"_blank\">Merritt et al. Ann Transl Med. 2018:24;473</a></p><p><span style=\"color: black; font-family: Symbol;\">\u00b7</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://www.ncbi.nlm.nih.gov/pubmed/22989098\" target=\"_blank\">Magoulas et al. Orphanet J Rare Dis. 2012:7;68</a></p><p><span style=\"color: black; font-family: Symbol;\">\u00b7</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://www.ncbi.nlm.nih.gov/pubmed/22420015\" target=\"_blank\">El-Hattab et al. GeneReviews [Internet]. 2012 [updated 2016]</a><u> </u></p><p>1.7.2<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee considered that there are reports of improvement in metabolic decompensation and skeletal and cardiac muscle function after carnitine supplementation of patients with metabolic diseases. Members also considered that there are reports of patients with metabolic diseases who have discontinued carnitine supplementation and subsequently experienced hypoglycaemic attacks or sudden death from cardiac arrhythmia.</p><p>1.8<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee considered that, while there is a lack of clinical trial evidence for carnitine supplementation and that the evidence of benefit remains uncertain, carnitine supplementation may benefit some individuals, and that in cases of CDSP carnitine supplementation should be commenced quickly to prevent harm. The Subcommittee considered that maintaining high carnitine levels in patients with CDSP was important to ensure availability for critical cell functions.</p><p>1.9<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>Members considered that for patients with inborn errors of metabolism other than CDSP, intermittent carnitine therapy commenced upon developing symptoms of carnitine deficiency or very low carnitine levels could control symptoms.</p><p>1.10<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee considered that levocarnitine supplementation is generally well tolerated, noting that although there were a number of possible side effects (including diarrhoea, gastrointestinal motility, intestinal discomfort, and a fishy odour that is released in breath, sweat and urine due to production of trimethylamine) these were generally tolerated. </p><p>1.11<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>Members noted that only a small proportion (about 10%) of a 100 mg per kg oral daily dose is absorbed. \u00a0Higher doses may need to be utilised in very unwell patients who are metabolically unstable. </p><p>1.12<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee considered that treatment with levocarnitine for patients with inborn errors of metabolism may lead to stability of disease, which may result in cost savings to the health system.</p>",
+          "fs": "<p>1.1<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that levocarnitine, the only biologically active isomer of carnitine, is not approved by Medsafe. It is considered a dietary supplement in New Zealand and can be purchased over the counter at pharmacies or online. </p><p>1.2<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that carnitine is a compound that is synthesised in the body from amino acids and is also obtained from the diet, particularly from meat and animal products. The Subcommittee noted that carnitine transports long-chain fatty acids into the mitochondria of tissue cells, especially to skeletal and cardiac muscle cells, enabling oxidation of the fatty acids and energy metabolism. </p><p>1.3<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that levocarnitine is not listed in Section B of the Pharmaceutical Schedule for community use in any indication and noted that there is no evidence of consideration by international pharmaceutical funding agencies regarding levocarnitine. The Subcommittee noted that levocarnitine is funded for hospital use in multiple dose forms (capsules, oral solution and solution for injection) and that these dose forms ensure there is a suitable formulation for use in children.</p><p>1.4<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that testing of total plasma carnitine is performed in New Zealand with an approximate cost of up to $150 per test. Members noted that the normal reference range for plasma total carnitine is between 35 and 60 micromoles per litre (umol/L). Members considered that plasma carnitine may not accurately reflect total body carnitine due to stores in muscle tissue.\u00a0</p><p><br></p><p><i>Metabolic indications: inborn errors of metabolism</i></p><p>1.1<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that inborn errors of metabolism are a heterogenous group of diseases that include the fatty acid oxidation disorders, which are caused by one or more genetic mutations that disrupt mitochondrial oxidation or fatty acid transport. </p><p>1.2<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that carnitine transport or uptake deficiencies such as systemic primary carnitine deficiency (CDSP) are sub-types of fatty acid oxidation disorders and that CDSP predominantly affect infants and children, causing death or irreversible organ damage if not treated early. The Subcommittee noted that patients with carnitine transport or uptake deficiencies cannot synthesise enough carnitine for essential requirements, and considered that these patients require levocarnitine to prevent damage from this disorder.</p><p>1.3<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that carnitine supplementation in fatty acid oxidation disorders (other than carnitine transport or uptake deficiencies) is debated, potentially offering benefit in secondary carnitine deficiency but in other cases may actually cause secondary carnitine deficiency due to conjugation of fatty acids with carnitine, which is then excreted. </p><p>1.4<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that PHARMAC has received NPPA applications for levocarnitine use in metabolic indications including fatty acid oxidation disorders and CDSP, with requested dosages ranging from 50 mg to 400 mg per kg per day, often in divided doses and adjusted to plasma carnitine level. The Subcommittee noted that for primary carnitine deficiency, patient age at the time of NPPA application ranged from &lt;1 to 40 years, with average age of about 11 years.</p><p>1.5<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that PHARMAC staff have inferred from the NPPA data that the prevalence of primary carnitine deficiency (severe enough to warrant supplementation) is no greater than 1:250,000 in New Zealand, and that staff had estimated that an additional 5 patients with inborn errors of metabolism would require levocarnitine supplementation in any one year. Some members considered that the patient numbers may be an overestimate. Members noted that there a higher incidence of very long chain acyl Co-A dehydrogenase deficiency, a type of inborn error of metabolism, in M\u0101ori than in non-M\u0101ori in New Zealand.</p><p>1.6<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that this PHARMAC-initiated application meets the definition of a rare disorder as per the second of <a href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/medicines-for-rare-disorders/\" target=\"_blank\">PHARMAC\u2019s Three Principles for Rare Disorders</a>. </p><p>1.7<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted there is limited evidence regarding levocarnitine for patients with inborn errors of metabolism, and that a 2012 Cochrane systematic review (<a href=\"https://www.ncbi.nlm.nih.gov/pubmed/22336821\" target=\"_blank\">Nasser et al. Cochrane Database Syst Rev. 2012; 2: CD006659</a>) identified no clinical trials that met criteria for inclusion, thus reported no conclusions regarding carnitine supplementation for patients with inborn errors of metabolism. </p><p>1.7.1<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted the following expert opinion review publications regarding treatment of carnitine deficiency due to inborn errors of metabolism:</p><p><span style=\"color: black; font-family: Symbol;\">\u00b7</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://www.ncbi.nlm.nih.gov/pubmed/30740404\" target=\"_blank\">Merritt et al. Ann Transl Med. 2018:24;473</a></p><p><span style=\"color: black; font-family: Symbol;\">\u00b7</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://www.ncbi.nlm.nih.gov/pubmed/22989098\" target=\"_blank\">Magoulas et al. Orphanet J Rare Dis. 2012:7;68</a></p><p><span style=\"color: black; font-family: Symbol;\">\u00b7</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://www.ncbi.nlm.nih.gov/pubmed/22420015\" target=\"_blank\">El-Hattab et al. GeneReviews [Internet]. 2012 [updated 2016]</a><u> </u></p><p>1.7.2<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee considered that there are reports of improvement in metabolic decompensation and skeletal and cardiac muscle function after carnitine supplementation of patients with metabolic diseases. Members also considered that there are reports of patients with metabolic diseases who have discontinued carnitine supplementation and subsequently experienced hypoglycaemic attacks or sudden death from cardiac arrhythmia.</p><p>1.8<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee considered that, while there is a lack of clinical trial evidence for carnitine supplementation and that the evidence of benefit remains uncertain, carnitine supplementation may benefit some individuals, and that in cases of CDSP carnitine supplementation should be commenced quickly to prevent harm. The Subcommittee considered that maintaining high carnitine levels in patients with CDSP was important to ensure availability for critical cell functions.</p><p>1.9<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>Members considered that for patients with inborn errors of metabolism other than CDSP, intermittent carnitine therapy commenced upon developing symptoms of carnitine deficiency or very low carnitine levels could control symptoms.</p><p>1.10<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee considered that levocarnitine supplementation is generally well tolerated, noting that although there were a number of possible side effects (including diarrhoea, gastrointestinal motility, intestinal discomfort, and a fishy odour that is released in breath, sweat and urine due to production of trimethylamine) these were generally tolerated. </p><p>1.11<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>Members noted that only a small proportion (about 10%) of a 100 mg per kg oral daily dose is absorbed. \u00a0Higher doses may need to be utilised in very unwell patients who are metabolically unstable. </p><p>1.12<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee considered that treatment with levocarnitine for patients with inborn errors of metabolism may lead to stability of disease, which may result in cost savings to the health system.</p>",
+          "change": null
+        },
+        "Published_Application": {
+          "s": "<p>1.1<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee reviewed a clinician application for levocarnitine for carnitine deficiency secondary to therapeutic ketogenic diet for intractable epilepsy.</p><p>1.2<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee also considered levocarnitine for use in metabolic indications, specifically, for patients with inborn errors of metabolism (a PHARMAC-initiated application). </p><p>1.3<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee took into account, where applicable, PHARMAC\u2019s relevant decision-making framework when considering this agenda item.\u00a0</p>",
+          "fs": "<p>1.1<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee reviewed a clinician application for levocarnitine for carnitine deficiency secondary to therapeutic ketogenic diet for intractable epilepsy.</p><p>1.2<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee also considered levocarnitine for use in metabolic indications, specifically, for patients with inborn errors of metabolism (a PHARMAC-initiated application). </p><p>1.3<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee took into account, where applicable, PHARMAC\u2019s relevant decision-making framework when considering this agenda item.\u00a0</p>",
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": "<p>1.1.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee also noted and agreed with the Subcommittee recommendation that levocarnitine for inborn errors of metabolism be funded with a high priority within the context of the rare disorders therapeutic area, subject to Special Authority criteria. This was a new funding application initiated by PHARMAC and considered by the Rare Disorders Subcommittee. PTAC noted that the Subcommittee had made this positive recommendation because of the high health need of patients, especially those with carnitine transport or uptake deficiencies e.g. systemic primary carnitine deficiency; for whom levocarnitine is the only beneficial treatment, and there is evidence of harm if patients are untreated.\u00a0</p>",
+          "fs": "<p>1.1.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee also noted and agreed with the Subcommittee recommendation that levocarnitine for inborn errors of metabolism be funded with a high priority within the context of the rare disorders therapeutic area, subject to Special Authority criteria. This was a new funding application initiated by PHARMAC and considered by the Rare Disorders Subcommittee. PTAC noted that the Subcommittee had made this positive recommendation because of the high health need of patients, especially those with carnitine transport or uptake deficiencies e.g. systemic primary carnitine deficiency; for whom levocarnitine is the only beneficial treatment, and there is evidence of harm if patients are untreated.\u00a0</p>",
+          "change": null
+        },
+        "Outcome": {
+          "s": "High",
+          "fs": "High",
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "May 2020",
+          "fs": "May 2020",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Clinical advice received from Rare Disorders Subcommittee at meeting Tuesday 24 September 2019.",
+          "fs": "Clinical advice received from Rare Disorders Subcommittee at meeting Tuesday 24 September 2019.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P000005AzUzUAK"
+          },
+          "Id": "a0P2P000005AzUzUAK",
+          "Event_Date__c": "2020-05-15",
+          "Event_Description__c": "Clinical advice received from Rare Disorders Subcommittee at meeting Tuesday 24 September 2019.",
+          "Stage__c": "Seeking Clinical Advice",
+          "Outcome__c": "High",
+          "Formatted_Date__c": "May 2020",
+          "Published_Recommendation__c": "<p>1.1<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee recommended that levocarnitine for inborn errors of metabolism be funded with a high priority within the context of the rare disorders therapeutic area, subject to the following Special Authority criteria:</p><p><b style=\"font-size: 10pt;\">Initial application</b><span style=\"font-size: 10pt;\"> \u2013 inborn errors of metabolism.</span><b style=\"font-size: 10pt;\"> </b><span style=\"font-size: 10pt;\">Only</span><b style=\"font-size: 10pt;\"> </b><span style=\"font-size: 10pt;\">from a metabolic physician or medical physician on the recommendation of a metabolic physician. </span></p><p><span style=\"font-size: 10pt;\">Approvals valid for 6 months for applications meeting the following criteria: </span></p><p style=\"text-align: justify;\"><span style=\"font-size: 10pt;\">1.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 10pt;\">Patient has a confirmed primary carnitine deficiency; and</span></p><p style=\"text-align: justify;\"><span style=\"font-size: 10pt;\">2.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 10pt;\">Plasma carnitine levels are less than the lower limit of normal.</span></p><p><br></p><p><b style=\"font-size: 10pt;\">Renewal application</b><span style=\"font-size: 10pt;\"> \u2013 inborn errors of metabolism. Only from a metabolic physician or on the recommendation of a metabolic physician. Approvals valid without further renewal unless notified where the treatment remains appropriate and the patient is benefiting from treatment.</span></p><p>1.1.1<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee made this recommendation because of the high health need of patients, especially those with carnitine transport or uptake deficiencies (eg systemic primary carnitine deficiency (CDSP)) for whom levocarnitine is the only beneficial treatment and there is evidence of harm if patients are untreated. The Subcommittee noted that a pharmaceutical-grade (GMP-certified) product or products would need to be identified in order for levocarnitine to be considered for listing in Section B of the Pharmaceutical Schedule.\u00a0</p>",
+          "Published_Application__c": "<p>1.1<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee reviewed a clinician application for levocarnitine for carnitine deficiency secondary to therapeutic ketogenic diet for intractable epilepsy.</p><p>1.2<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee also considered levocarnitine for use in metabolic indications, specifically, for patients with inborn errors of metabolism (a PHARMAC-initiated application). </p><p>1.3<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee took into account, where applicable, PHARMAC\u2019s relevant decision-making framework when considering this agenda item.\u00a0</p>",
+          "Published_Discussion__c": "<p>1.1<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that levocarnitine, the only biologically active isomer of carnitine, is not approved by Medsafe. It is considered a dietary supplement in New Zealand and can be purchased over the counter at pharmacies or online. </p><p>1.2<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that carnitine is a compound that is synthesised in the body from amino acids and is also obtained from the diet, particularly from meat and animal products. The Subcommittee noted that carnitine transports long-chain fatty acids into the mitochondria of tissue cells, especially to skeletal and cardiac muscle cells, enabling oxidation of the fatty acids and energy metabolism. </p><p>1.3<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that levocarnitine is not listed in Section B of the Pharmaceutical Schedule for community use in any indication and noted that there is no evidence of consideration by international pharmaceutical funding agencies regarding levocarnitine. The Subcommittee noted that levocarnitine is funded for hospital use in multiple dose forms (capsules, oral solution and solution for injection) and that these dose forms ensure there is a suitable formulation for use in children.</p><p>1.4<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that testing of total plasma carnitine is performed in New Zealand with an approximate cost of up to $150 per test. Members noted that the normal reference range for plasma total carnitine is between 35 and 60 micromoles per litre (umol/L). Members considered that plasma carnitine may not accurately reflect total body carnitine due to stores in muscle tissue.\u00a0</p><p><br></p><p><i>Metabolic indications: inborn errors of metabolism</i></p><p>1.1<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that inborn errors of metabolism are a heterogenous group of diseases that include the fatty acid oxidation disorders, which are caused by one or more genetic mutations that disrupt mitochondrial oxidation or fatty acid transport. </p><p>1.2<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that carnitine transport or uptake deficiencies such as systemic primary carnitine deficiency (CDSP) are sub-types of fatty acid oxidation disorders and that CDSP predominantly affect infants and children, causing death or irreversible organ damage if not treated early. The Subcommittee noted that patients with carnitine transport or uptake deficiencies cannot synthesise enough carnitine for essential requirements, and considered that these patients require levocarnitine to prevent damage from this disorder.</p><p>1.3<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that carnitine supplementation in fatty acid oxidation disorders (other than carnitine transport or uptake deficiencies) is debated, potentially offering benefit in secondary carnitine deficiency but in other cases may actually cause secondary carnitine deficiency due to conjugation of fatty acids with carnitine, which is then excreted. </p><p>1.4<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that PHARMAC has received NPPA applications for levocarnitine use in metabolic indications including fatty acid oxidation disorders and CDSP, with requested dosages ranging from 50 mg to 400 mg per kg per day, often in divided doses and adjusted to plasma carnitine level. The Subcommittee noted that for primary carnitine deficiency, patient age at the time of NPPA application ranged from &lt;1 to 40 years, with average age of about 11 years.</p><p>1.5<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that PHARMAC staff have inferred from the NPPA data that the prevalence of primary carnitine deficiency (severe enough to warrant supplementation) is no greater than 1:250,000 in New Zealand, and that staff had estimated that an additional 5 patients with inborn errors of metabolism would require levocarnitine supplementation in any one year. Some members considered that the patient numbers may be an overestimate. Members noted that there a higher incidence of very long chain acyl Co-A dehydrogenase deficiency, a type of inborn error of metabolism, in M\u0101ori than in non-M\u0101ori in New Zealand.</p><p>1.6<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted that this PHARMAC-initiated application meets the definition of a rare disorder as per the second of <a href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/medicines-for-rare-disorders/\" target=\"_blank\">PHARMAC\u2019s Three Principles for Rare Disorders</a>. </p><p>1.7<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted there is limited evidence regarding levocarnitine for patients with inborn errors of metabolism, and that a 2012 Cochrane systematic review (<a href=\"https://www.ncbi.nlm.nih.gov/pubmed/22336821\" target=\"_blank\">Nasser et al. Cochrane Database Syst Rev. 2012; 2: CD006659</a>) identified no clinical trials that met criteria for inclusion, thus reported no conclusions regarding carnitine supplementation for patients with inborn errors of metabolism. </p><p>1.7.1<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee noted the following expert opinion review publications regarding treatment of carnitine deficiency due to inborn errors of metabolism:</p><p><span style=\"color: black; font-family: Symbol;\">\u00b7</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://www.ncbi.nlm.nih.gov/pubmed/30740404\" target=\"_blank\">Merritt et al. Ann Transl Med. 2018:24;473</a></p><p><span style=\"color: black; font-family: Symbol;\">\u00b7</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://www.ncbi.nlm.nih.gov/pubmed/22989098\" target=\"_blank\">Magoulas et al. Orphanet J Rare Dis. 2012:7;68</a></p><p><span style=\"color: black; font-family: Symbol;\">\u00b7</span><span style=\"color: black; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://www.ncbi.nlm.nih.gov/pubmed/22420015\" target=\"_blank\">El-Hattab et al. GeneReviews [Internet]. 2012 [updated 2016]</a><u> </u></p><p>1.7.2<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee considered that there are reports of improvement in metabolic decompensation and skeletal and cardiac muscle function after carnitine supplementation of patients with metabolic diseases. Members also considered that there are reports of patients with metabolic diseases who have discontinued carnitine supplementation and subsequently experienced hypoglycaemic attacks or sudden death from cardiac arrhythmia.</p><p>1.8<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee considered that, while there is a lack of clinical trial evidence for carnitine supplementation and that the evidence of benefit remains uncertain, carnitine supplementation may benefit some individuals, and that in cases of CDSP carnitine supplementation should be commenced quickly to prevent harm. The Subcommittee considered that maintaining high carnitine levels in patients with CDSP was important to ensure availability for critical cell functions.</p><p>1.9<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>Members considered that for patients with inborn errors of metabolism other than CDSP, intermittent carnitine therapy commenced upon developing symptoms of carnitine deficiency or very low carnitine levels could control symptoms.</p><p>1.10<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee considered that levocarnitine supplementation is generally well tolerated, noting that although there were a number of possible side effects (including diarrhoea, gastrointestinal motility, intestinal discomfort, and a fishy odour that is released in breath, sweat and urine due to production of trimethylamine) these were generally tolerated. </p><p>1.11<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>Members noted that only a small proportion (about 10%) of a 100 mg per kg oral daily dose is absorbed. \u00a0Higher doses may need to be utilised in very unwell patients who are metabolically unstable. </p><p>1.12<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Subcommittee considered that treatment with levocarnitine for patients with inborn errors of metabolism may lead to stability of disease, which may result in cost savings to the health system.</p>",
+          "PTAC_Comments__c": "<p>1.1.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee also noted and agreed with the Subcommittee recommendation that levocarnitine for inborn errors of metabolism be funded with a high priority within the context of the rare disorders therapeutic area, subject to Special Authority criteria. This was a new funding application initiated by PHARMAC and considered by the Rare Disorders Subcommittee. PTAC noted that the Subcommittee had made this positive recommendation because of the high health need of patients, especially those with carnitine transport or uptake deficiencies e.g. systemic primary carnitine deficiency; for whom levocarnitine is the only beneficial treatment, and there is evidence of harm if patients are untreated.\u00a0</p>",
+          "Status_History__c": "a132P000000BlHLQA0"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Jan 2020",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Following Clinical Advice, Pharmac staff considers the advice and the funding application under goes an assessment using our&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/factors-for-consideration/\" rel=\"nofollow\">Factors for Consideration</a>&nbsp;framework and seeks additional information as required.</p>\r\n<p>&nbsp;</p>\r\n<p>Research and Economic analysis are undertaken.&nbsp; This focuses on the costs and benefits of a proposed course of action. Economics is based on three fundamental concepts that summarise the issues Pharmac faces daily:&nbsp;</p>\r\n<ul>\r\n<li>Scarcity &ndash; resources will always be insufficient to support all possible activities.</li>\r\n<li>Choices &ndash; due to scarce resources, decisions must be made about how best to use them.</li>\r\n<li>Opportunity cost &ndash; by choosing to use resources one way, we forgo other opportunities to use the same resources.</li>\r\n</ul>\r\n<p>&nbsp;</p>\r\n<p>For further information on the purpose of, and techniques for, undertaking economic analysis in health care, please refer&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/economic-analysis/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/economic-analysis/</a></p>",
+    "position": 2,
+    "name": "Under Assessment",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "May 2020",
+          "fs": "May 2020",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Working to compare options",
+          "fs": "Working to compare options",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P000005AzUyUAK"
+          },
+          "Id": "a0P2P000005AzUyUAK",
+          "Event_Date__c": "2020-05-15",
+          "Event_Description__c": "Working to compare options",
+          "Stage__c": "Under Assessment",
+          "Formatted_Date__c": "May 2020",
+          "Status_History__c": "a132P000000BlHAQA0"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "May 2020",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Pharmac staff uses a prioritisation process to compare and rank funding options. Possible opportunities for new investment will always exceed the budget Pharmac has available; therefore, prioritisation is an intrinsic part of Pharmac\u2019s decision-making process.</p>\r\n<p>The relative ranking of options aims to support Pharmac&rsquo;s statutory objective &ldquo;to secure for eligible people in need of pharmaceuticals, the best health outcomes that are reasonably achievable from pharmaceutical treatment and from within the amount of funding provided&rdquo;.</p>\r\n<p>A funding application or proposal is considered ready for prioritisation when sufficient information is available to permit it to be reviewed against Pharmac's Factors for Consideration and to inform a comparison with other possible investment decisions.</p>\r\n<p>There is no guarantee when or if a ranked medicine will be funded.&nbsp;&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/prioritisation/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/prioritisation/</a></p>",
+    "position": 3,
+    "name": "Options Compared",
+    "last": false,
+    "events": null,
+    "dateString": null,
+    "collapsed": false,
+    "checked": false
+  },
+  {
+    "text": "<p>Pharmac is consulting on a proposal to either approve or decline the application.&nbsp;We seek the views of all people who have an interest in our proposals, or who may be affected by them, to obtain feedback on our proposed approaches.</p>\r\n<p><a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/having-your-say/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/having-your-say/</a></p>",
+    "position": 4,
+    "name": "Under Consultation",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": "<p><a href=\"https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/consultation-2021-02-05-metabolic-disorders/?page=5\" target=\"_blank\">Proposal to fund treatments for rare metabolic disorders - PHARMAC | New Zealand Government</a></p>",
+          "fs": "<p><a href=\"https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/consultation-2021-02-05-metabolic-disorders/?page=5\" target=\"_blank\">Proposal to fund treatments for rare metabolic disorders - PHARMAC | New Zealand Government</a></p>",
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Feb 2021",
+          "fs": "Feb 2021",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Public consultation for this application is active.",
+          "fs": "Public consultation for this application is active.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P000005AzV0UAK"
+          },
+          "Id": "a0P2P000005AzV0UAK",
+          "Event_Date__c": "2021-02-05",
+          "Event_Description__c": "Public consultation for this application is active.",
+          "Stage__c": "Under Consultation",
+          "Links__c": "<p><a href=\"https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/consultation-2021-02-05-metabolic-disorders/?page=5\" target=\"_blank\">Proposal to fund treatments for rare metabolic disorders - PHARMAC | New Zealand Government</a></p>",
+          "Formatted_Date__c": "Feb 2021",
+          "Status_History__c": "a132P000000Cl87QAC"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Feb 2021",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Following the consultation process, Pharmac staff considers the feedback and identifies any additional information required as part of a gap analysis.&nbsp; The proposal may require further clinical advice, research, and assessment.</p>",
+    "position": 5,
+    "name": "Reviewing Consultation Feedback",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Feb 2021",
+          "fs": "Feb 2021",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Public consultation for this application is now closed. Pharmac is reviewing consultation feedback.",
+          "fs": "Public consultation for this application is now closed. Pharmac is reviewing consultation feedback.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P000005AzV1UAK"
+          },
+          "Id": "a0P2P000005AzV1UAK",
+          "Event_Date__c": "2021-02-22",
+          "Event_Description__c": "Public consultation for this application is now closed. Pharmac is reviewing consultation feedback.",
+          "Stage__c": "Reviewing Consultation Feedback",
+          "Formatted_Date__c": "Feb 2021",
+          "Status_History__c": "a132P000000Cl8HQAS"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Feb 2021",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>We refer to our decisions about whether and how particular pharmaceuticals are publicly-funded, as &ldquo;funding decisions&rdquo;.</p>\r\n<p>We consider and assess all funding decisions using the&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/about/operating-policies-and-procedures/#factorsfc\" rel=\"nofollow\">Factors for Consideration</a>. When we do so, we carefully evaluate clinical and other evidence for the benefits and suitability of a proposal, and to identify and understand the people who will be affected by it.</p>\r\n<p>While our main task is to allocate pharmaceutical funding, we consider the benefits and costs across the whole health system now and with a long-term focus, including the effects for hospitals and primary care, and consider direct costs to patients as well as to all health sector budgets.</p>\r\n<p>Final funding decisions are made by the Pharmac Board or delegated to senior Pharmac staff as required by the Board.</p>\r\n<p>&nbsp;</p>",
+    "position": 6,
+    "name": "Decision",
+    "last": true,
+    "events": [
+      {
+        "Summary": {
+          "s": "<p><span style=\"color: rgb(62, 62, 60);\">We are pleased to announce a decision to fund six treatments for people with rare metabolic disorders. Click the link below to see the treatments that will be listed on the Pharmaceutical Schedule from 1 May 2021.</span></p>",
+          "fs": "<p><span style=\"color: rgb(62, 62, 60);\">We are pleased to announce a decision to fund six treatments for people with rare metabolic disorders. Click the link below to see the treatments that will be listed on the Pharmaceutical Schedule from 1 May 2021.</span></p>",
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": "<p><a href=\"https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/decision-2021-04-12-metabolic-disorders/\" target=\"_blank\" style=\"font-size: 14px; background-color: rgb(255, 255, 255);\">Decision to fund treatments for rare metabolic disorders - PHARMAC | New Zealand Government</a></p>",
+          "fs": "<p><a href=\"https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/decision-2021-04-12-metabolic-disorders/\" target=\"_blank\" style=\"font-size: 14px; background-color: rgb(255, 255, 255);\">Decision to fund treatments for rare metabolic disorders - PHARMAC | New Zealand Government</a></p>",
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Apr 2021",
+          "fs": "Apr 2021",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "The funding application has been .",
+          "fs": "The funding application has been .",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P000005AzV2UAK"
+          },
+          "Id": "a0P2P000005AzV2UAK",
+          "Event_Date__c": "2021-04-12",
+          "Event_Description__c": "The funding application has been .",
+          "Stage__c": "Decision",
+          "Links__c": "<p><a href=\"https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/decision-2021-04-12-metabolic-disorders/\" target=\"_blank\" style=\"font-size: 14px; background-color: rgb(255, 255, 255);\">Decision to fund treatments for rare metabolic disorders - PHARMAC | New Zealand Government</a></p>",
+          "Summary__c": "<p><span style=\"color: rgb(62, 62, 60);\">We are pleased to announce a decision to fund six treatments for people with rare metabolic disorders. Click the link below to see the treatments that will be listed on the Pharmaceutical Schedule from 1 May 2021.</span></p>",
+          "Formatted_Date__c": "Apr 2021",
+          "Status_History__c": "a132P000000Cl8MQAS"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Apr 2021",
+    "collapsed": false,
+    "checked": true
+  }
+]

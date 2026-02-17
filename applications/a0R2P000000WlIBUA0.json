@@ -1,0 +1,566 @@
+[
+  {
+    "text": "<p>New funding applications are referred to one of Pharmac's Funding Application Advisors (FAAs), who'll review the application to ensure they have the relevant information to undertake a preliminary analysis.&nbsp; They may seek more information if required.</p>\r\n<p><a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/new-funding-applications/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/new-funding-applications/</a></p>",
+    "position": 0,
+    "name": "Application Received",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Jul 2016",
+          "fs": "Jul 2016",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Application received",
+          "fs": "Application received",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P0000063z7UUAQ"
+          },
+          "Id": "a0P2P0000063z7UUAQ",
+          "Event_Date__c": "2016-07-18",
+          "Event_Description__c": "Application received",
+          "Stage__c": "Application Received",
+          "Formatted_Date__c": "Jul 2016",
+          "Status_History__c": "a132P000000ArARQA0"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Feb 2017",
+          "fs": "Feb 2017",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Received Additional Information",
+          "fs": "Received Additional Information",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P0000063z7VUAQ"
+          },
+          "Id": "a0P2P0000063z7VUAQ",
+          "Event_Date__c": "2017-02-16",
+          "Event_Description__c": "Received Additional Information",
+          "Stage__c": "Application Received",
+          "Formatted_Date__c": "Feb 2017",
+          "Status_History__c": "a132P000000ArFxQAK"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Jul 2016",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Pharmac is identifying and gathering information required to get clinical advice.  The <a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/pharmacology-and-therapeutics-advisory-committee-ptac/\" rel=\"nofollow\">Pharmacology and Therapeutics Advisory Committee (PTAC)</a>  meets quarterly. There are also around 20 expert <a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/specialist-advisory-committees/\" rel=\"nofollow\">Specialist Advisory Committees (SACs)</a>, previously expert Subcommittees, which provide clinical evaluations in specialist areas. Specialist Advisory Committees meet as required to discuss issues referred to them by PTAC or Pharmac.</p>\n<p style=\"height: 20px\">&nbsp;</p>\n<p>In November 2021, we introduced separate terms of reference for the SACs to make clear that these committees have different, but complementary, roles, expertise and perspectives to PTAC.</p>\n<p style=\"height: 15px\">&nbsp;</p>\n<p>PTAC and SACs may make recommendations to Pharmac that differ from each other when looking at the same evidence. Pharmac considers the recommendations provided by all our clinical advisory committees when assessing applications.</p>\n<p style=\"height: 20px\">&nbsp;</p>\n<p><a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/pharmacology-and-therapeutics-advisory-committee-ptac/ptac-terms-of-reference-july-2021/\" rel=\"nofollow\">PTAC</a>  and <a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/specialist-advisory-committees/specialist-advisory-committee-terms-of-reference//\" rel=\"nofollow\">Specialist Advisory Committees</a> records of the meeting will be published on this website in accordance with the Terms of Reference.</p>",
+    "position": 1,
+    "name": "Seeking Clinical Advice",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Mar 2017",
+          "fs": "Mar 2017",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Clinical advice required",
+          "fs": "Clinical advice required",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P0000063z7WUAQ"
+          },
+          "Id": "a0P2P0000063z7WUAQ",
+          "Event_Date__c": "2017-03-24",
+          "Event_Description__c": "Clinical advice required",
+          "Stage__c": "Seeking Clinical Advice",
+          "Formatted_Date__c": "Mar 2017",
+          "Status_History__c": "a132P000000ArGOQA0"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": "The Subcommittee recommended that the funding application for the listing of teniposide for multiply relapsed multiple myeloma be declined due to a lack of evidence for a health benefit.",
+          "fs": "The Subcommittee recommended that the funding application for the listing of teniposide for multiply relapsed multiple myeloma be declined due to a lack of evidence for a health benefit.",
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": "<p>The Subcommittee recommended that the funding application for the listing of teniposide for multiply relapsed multiple myeloma be declined due to a lack of evidence for a health benefit.</p>",
+          "fs": "<p>The Subcommittee recommended that the funding application for the listing of teniposide for multiply relapsed multiple myeloma be declined due to a lack of evidence for a health benefit.</p>",
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": "<p>The Subcommittee noted multiple myeloma (MM) is an incurable disease characterised by the neoplastic proliferation of plasma cells in the bone marrow that produce a monoclonal immunoglobulin. Most patients with MM present with signs or symptoms related to the infiltration of plasma cells into the bone or other organs or to kidney damage from excess light chains. Anaemia is present in almost three quarters of new presentations, with bone pain and elevated creatinine a feature in about half.</p><p><br></p><p>While the applicant requested use of teniposide in patients progressive through treatment with a proteasome inhibitor as well as lenalidomide, the Subcommittee noted that, in 2017, transplant eligible patients will have progressed through a bone marrow transplant procedure and through two lines of immunomodulating agents - thalidomide and lenalidomide. Thus the application would be essentially for use of teniposide as part of fourth line therapy in a group of patients who are very unwell.</p><p><br></p><p>The Subcommittee noted that refractory MM patients may have pain and be at risk of fracture with a life expectancy measured in short months. The Subcommittee noted that the primary goal of therapy for these patients is symptom improvement and to improve quality of life, with survival (prolongation of life) as a secondary goal.</p><p><br></p><p>The Subcommittee noted the risk of MM is approximately 40% higher in males than females, and that M\u0101ori and Pacific Islanders have a substantially higher risk of being diagnosed with, and dying from, MM than non-M\u0101ori. It is not clear why there is a higher risk of MM in M\u0101ori and Pacific Islanders.</p><p><br></p><p>The Subcommittee noted that teniposide is a very old drug which does not currently have Medsafe approval. It is delivered via intravenous infusion.</p><p><br></p><p>The Subcommittee noted that the most widely used funded treatment options for MM include bortezomib, thalidomide, lenalidomide, melphalan and autologous haematopoietic stem cell transplantation in eligible patients, with the choice of treatment driven by patient fitness/comorbidities and eligibility for transplantation.</p><p><br></p><p>The Subcommittee noted the applicant sought teniposide in the multiply relapsed MM population which have few treatment options and typically have progressive bone disease with pain and bone fractures and a poor prognosis of weeks to months. The Subcommittee considered that the health need of this population was high.</p><p><br></p><p>The Subcommittee noted that in 2017, the alternative unfunded treatments for this patient group in a New Zealand context would be compassionate access carfilzomib, a clinical trial with either an antiCD38 or anti PD-1 therapy, or supportive care. Members noted that they had previously recommended pomalidomide for funding for patients in this setting but it remains unfunded.</p><p><br></p><p>The Subcommittee noted the report from Tirelli et al (Am J Clin Oncol. 1985;8:329-31) dating from 1985 - a single agent phase II trial of 30 patients. Of the study population only 25 were evaluable for response due to loss of follow-up due to early death. Members noted that the authors concluded that the drug has some activity - with 7 responses in the study population using Myeloma Task Force definitions of response (half of whom were previously untreated). The responses were of short duration - median 4 months. Toxicity was not well reported. Emesis appeared to be the primary toxicity contributed to the combination. The Subcommittee noted that in 2017 emesis regimens would be significantly improved so this was unlikely to be such a therapeutic issue.</p><p><br></p><p>The Subcommittee noted the report from Leoni et al. (Leuk Lymphoma. 1992;7:481- 7), who published a combination study of teniposide in 43 patients with refractory MM, 37 evaluable (again due to loss to follow-up due to early death). Prior therapy was by 2017 standards historic - as current patients will be more heavily pre-treated so the therapeutic response may be overestimated. Teniposide was used in combination with cyclophosphamide and dexamethasone. Response was assessed using levels of myeloma protein or marrow indices which is usual in myeloma studies. A Major response was achieved in 18 patients (50% of the patient cohort) and a minor response in a further 9 patients. The report does describe that almost all patients receiving teniposide in combination with cyclophosphamide and dexamethasone experienced relief of bone pain and &quot;an amelioration of their performance status&quot; which is encouraging. Toxicity was deemed acceptable by the authors but is not described in any detail, and with two early deaths is concerning.</p><p><br></p><p>The Subcommittee noted two abstract presentations detailing the responses of 23 heavily pre-treated MM patients receiving teniposide, cyclophosphamide and prednisone chemotherapy at North Shore Hospital, Auckland between January 2012 and July 2014. Twelve patients (52.2%) completed 4-6 cycles chemotherapy containing tenoposide. Treatment response could be calculated in 20 out of the 23 patients in the cohort. Although responses were reported differently in the abstracts, it appears that an overall response rate of 27% was observed. This represents the three patients with a partial response and three having a very good partial response. The median time to progression/next treatment for the 17 patients with partial response or stable disease was 5.2 months. During the follow-up period, 12 of the 23 patients died (52.2%). Toxicity is not described in any detail with the authors reporting that the chemotherapy was fairly-well tolerated with more than half the patients completing 4 to 6 cycles, and only one dying from chemotherapy related toxicity.</p><p><br></p><p>The Subcommittee noted a review of the comparative analysis of single-agent drug activity in MM (Kortuem et al. Clin Lymphoma Myeloma Leuk. 2014;14:284-90). Based on the activity of teniposide in the Tirelli et al study, Korteum et al. rated teniposide response as just above their proposed threshold of interest of &gt;22%.</p><p><br></p><p>The Subcommittee considered that the evidence shows that teniposide does have some limited activity in multiple myeloma. However the level of evidence to support the funding application for use in combination therapy in a heavily pre-treated population, in a 2017 context, is very poor. All the papers suffer from major quality issues, but were published at a time when there was lower publication rigor. All report non-randomised data. The definitions of response and durability of response are unclear, the clinical benefit is unclear and the toxicity impacts are poorly reported. The Subcommittee considered that the applicability of both the Tirelli and Leoni et al. trials to current practice was limited. It is clear that it may add toxicity and as the patient population in 2017 is more heavily pre-treated it could be argued that the potential for toxicity (eg myelosuppression and neurotoxicity) is higher now than at the time of the Tirelli and Leoni papers. There is no quality of life data to support its use and the overall clinical benefit analysis cannot be proven. There is uncertainty as to how much additional benefit teniposide adds to high dose steroids and cyclophosphamide in this population.</p><p><br></p><p>There are now several additional options for prior lines of treatment and the singleagent regimen in Tirelli et al with a large proportion of previously untreated patients is not relevant in the setting applied for.</p><p><br></p><p>The Subcommittee considered it remained unclear whether reported symptom improvement was observed due to the concomitant administration of high-dose steroids.</p><p><br></p><p>The Subcommittee noted that the PEP-C regimen (prednisone, etoposide, procarbazine and cyclophosphamide) was funded and being used in this multiply relapsed MM population as a last-line palliative treatment option. The Subcommittee considered that this was likely a more suitable treatment, that would be preferred by most clinicians, as it was an oral regimen.</p><p><br></p><p>The Subcommittee noted that the fiscal risk of funding teniposide was low, given that only approximately 20 patients per annum would be likely to access this treatment if available. The Subcommittee considered that while there would be additional infusions and management of toxicity (including issues related to myelosuppression), this is likely to be of little impact to Day and Inpatient units, so Health Sector impact was considered minimal.</p><p><br></p><p>The Subcommittee considered that although patients with multiply relapsed MM were likely very unwell, symptomatic and had a life-expectancy of only a few months, the evidence for the use of teniposide in this indication was of poor quality and weak strength, particularly for quality of life gains or a durable response, and additional toxicity was a concern. The Subcommittee concluded that the evidence of a net health benefit remained insufficient at this time to recommend funding.</p>",
+          "fs": "<p>The Subcommittee noted multiple myeloma (MM) is an incurable disease characterised by the neoplastic proliferation of plasma cells in the bone marrow that produce a monoclonal immunoglobulin. Most patients with MM present with signs or symptoms related to the infiltration of plasma cells into the bone or other organs or to kidney damage from excess light chains. Anaemia is present in almost three quarters of new presentations, with bone pain and elevated creatinine a feature in about half.</p><p><br></p><p>While the applicant requested use of teniposide in patients progressive through treatment with a proteasome inhibitor as well as lenalidomide, the Subcommittee noted that, in 2017, transplant eligible patients will have progressed through a bone marrow transplant procedure and through two lines of immunomodulating agents - thalidomide and lenalidomide. Thus the application would be essentially for use of teniposide as part of fourth line therapy in a group of patients who are very unwell.</p><p><br></p><p>The Subcommittee noted that refractory MM patients may have pain and be at risk of fracture with a life expectancy measured in short months. The Subcommittee noted that the primary goal of therapy for these patients is symptom improvement and to improve quality of life, with survival (prolongation of life) as a secondary goal.</p><p><br></p><p>The Subcommittee noted the risk of MM is approximately 40% higher in males than females, and that M\u0101ori and Pacific Islanders have a substantially higher risk of being diagnosed with, and dying from, MM than non-M\u0101ori. It is not clear why there is a higher risk of MM in M\u0101ori and Pacific Islanders.</p><p><br></p><p>The Subcommittee noted that teniposide is a very old drug which does not currently have Medsafe approval. It is delivered via intravenous infusion.</p><p><br></p><p>The Subcommittee noted that the most widely used funded treatment options for MM include bortezomib, thalidomide, lenalidomide, melphalan and autologous haematopoietic stem cell transplantation in eligible patients, with the choice of treatment driven by patient fitness/comorbidities and eligibility for transplantation.</p><p><br></p><p>The Subcommittee noted the applicant sought teniposide in the multiply relapsed MM population which have few treatment options and typically have progressive bone disease with pain and bone fractures and a poor prognosis of weeks to months. The Subcommittee considered that the health need of this population was high.</p><p><br></p><p>The Subcommittee noted that in 2017, the alternative unfunded treatments for this patient group in a New Zealand context would be compassionate access carfilzomib, a clinical trial with either an antiCD38 or anti PD-1 therapy, or supportive care. Members noted that they had previously recommended pomalidomide for funding for patients in this setting but it remains unfunded.</p><p><br></p><p>The Subcommittee noted the report from Tirelli et al (Am J Clin Oncol. 1985;8:329-31) dating from 1985 - a single agent phase II trial of 30 patients. Of the study population only 25 were evaluable for response due to loss of follow-up due to early death. Members noted that the authors concluded that the drug has some activity - with 7 responses in the study population using Myeloma Task Force definitions of response (half of whom were previously untreated). The responses were of short duration - median 4 months. Toxicity was not well reported. Emesis appeared to be the primary toxicity contributed to the combination. The Subcommittee noted that in 2017 emesis regimens would be significantly improved so this was unlikely to be such a therapeutic issue.</p><p><br></p><p>The Subcommittee noted the report from Leoni et al. (Leuk Lymphoma. 1992;7:481- 7), who published a combination study of teniposide in 43 patients with refractory MM, 37 evaluable (again due to loss to follow-up due to early death). Prior therapy was by 2017 standards historic - as current patients will be more heavily pre-treated so the therapeutic response may be overestimated. Teniposide was used in combination with cyclophosphamide and dexamethasone. Response was assessed using levels of myeloma protein or marrow indices which is usual in myeloma studies. A Major response was achieved in 18 patients (50% of the patient cohort) and a minor response in a further 9 patients. The report does describe that almost all patients receiving teniposide in combination with cyclophosphamide and dexamethasone experienced relief of bone pain and &quot;an amelioration of their performance status&quot; which is encouraging. Toxicity was deemed acceptable by the authors but is not described in any detail, and with two early deaths is concerning.</p><p><br></p><p>The Subcommittee noted two abstract presentations detailing the responses of 23 heavily pre-treated MM patients receiving teniposide, cyclophosphamide and prednisone chemotherapy at North Shore Hospital, Auckland between January 2012 and July 2014. Twelve patients (52.2%) completed 4-6 cycles chemotherapy containing tenoposide. Treatment response could be calculated in 20 out of the 23 patients in the cohort. Although responses were reported differently in the abstracts, it appears that an overall response rate of 27% was observed. This represents the three patients with a partial response and three having a very good partial response. The median time to progression/next treatment for the 17 patients with partial response or stable disease was 5.2 months. During the follow-up period, 12 of the 23 patients died (52.2%). Toxicity is not described in any detail with the authors reporting that the chemotherapy was fairly-well tolerated with more than half the patients completing 4 to 6 cycles, and only one dying from chemotherapy related toxicity.</p><p><br></p><p>The Subcommittee noted a review of the comparative analysis of single-agent drug activity in MM (Kortuem et al. Clin Lymphoma Myeloma Leuk. 2014;14:284-90). Based on the activity of teniposide in the Tirelli et al study, Korteum et al. rated teniposide response as just above their proposed threshold of interest of &gt;22%.</p><p><br></p><p>The Subcommittee considered that the evidence shows that teniposide does have some limited activity in multiple myeloma. However the level of evidence to support the funding application for use in combination therapy in a heavily pre-treated population, in a 2017 context, is very poor. All the papers suffer from major quality issues, but were published at a time when there was lower publication rigor. All report non-randomised data. The definitions of response and durability of response are unclear, the clinical benefit is unclear and the toxicity impacts are poorly reported. The Subcommittee considered that the applicability of both the Tirelli and Leoni et al. trials to current practice was limited. It is clear that it may add toxicity and as the patient population in 2017 is more heavily pre-treated it could be argued that the potential for toxicity (eg myelosuppression and neurotoxicity) is higher now than at the time of the Tirelli and Leoni papers. There is no quality of life data to support its use and the overall clinical benefit analysis cannot be proven. There is uncertainty as to how much additional benefit teniposide adds to high dose steroids and cyclophosphamide in this population.</p><p><br></p><p>There are now several additional options for prior lines of treatment and the singleagent regimen in Tirelli et al with a large proportion of previously untreated patients is not relevant in the setting applied for.</p><p><br></p><p>The Subcommittee considered it remained unclear whether reported symptom improvement was observed due to the concomitant administration of high-dose steroids.</p><p><br></p><p>The Subcommittee noted that the PEP-C regimen (prednisone, etoposide, procarbazine and cyclophosphamide) was funded and being used in this multiply relapsed MM population as a last-line palliative treatment option. The Subcommittee considered that this was likely a more suitable treatment, that would be preferred by most clinicians, as it was an oral regimen.</p><p><br></p><p>The Subcommittee noted that the fiscal risk of funding teniposide was low, given that only approximately 20 patients per annum would be likely to access this treatment if available. The Subcommittee considered that while there would be additional infusions and management of toxicity (including issues related to myelosuppression), this is likely to be of little impact to Day and Inpatient units, so Health Sector impact was considered minimal.</p><p><br></p><p>The Subcommittee considered that although patients with multiply relapsed MM were likely very unwell, symptomatic and had a life-expectancy of only a few months, the evidence for the use of teniposide in this indication was of poor quality and weak strength, particularly for quality of life gains or a durable response, and additional toxicity was a concern. The Subcommittee concluded that the evidence of a net health benefit remained insufficient at this time to recommend funding.</p>",
+          "change": null
+        },
+        "Published_Application": {
+          "s": "<p>The Subcommittee considered a clinician funding application from a Haematologist for the use of teniposide in multiply relapsed/refractory multiple myeloma, specifically for patients who have progressed following a proteasome inhibitor, such as bortezomib, and lenalidomide. The Subcommittee noted the applicant requested teniposide be funded for use in combination therapy with cyclophosphomide and steroids for 6 cycles.</p>",
+          "fs": "<p>The Subcommittee considered a clinician funding application from a Haematologist for the use of teniposide in multiply relapsed/refractory multiple myeloma, specifically for patients who have progressed following a proteasome inhibitor, such as bortezomib, and lenalidomide. The Subcommittee noted the applicant requested teniposide be funded for use in combination therapy with cyclophosphomide and steroids for 6 cycles.</p>",
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": "Decline",
+          "fs": "Decline",
+          "change": null
+        },
+        "Links": {
+          "s": "<p><a href=\"https://pharmac.govt.nz/assets/ptac-cancer-treatment-subcommittee-minutes-2017-14.pdf\" target=\"_blank\">CaTSoP Subcommittee minutes</a></p>",
+          "fs": "<p><a href=\"https://pharmac.govt.nz/assets/ptac-cancer-treatment-subcommittee-minutes-2017-14.pdf\" target=\"_blank\">CaTSoP Subcommittee minutes</a></p>",
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Mar 2017",
+          "fs": "Mar 2017",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Clinical advice received from Cancer Treatments Subcommittee (CaTSoP) at meeting Friday 24 March 2017.",
+          "fs": "Clinical advice received from Cancer Treatments Subcommittee (CaTSoP) at meeting Friday 24 March 2017.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P0000063z7XUAQ"
+          },
+          "Id": "a0P2P0000063z7XUAQ",
+          "Event_Date__c": "2017-03-24",
+          "Event_Description__c": "Clinical advice received from Cancer Treatments Subcommittee (CaTSoP) at meeting Friday 24 March 2017.",
+          "Stage__c": "Seeking Clinical Advice",
+          "Links__c": "<p><a href=\"https://pharmac.govt.nz/assets/ptac-cancer-treatment-subcommittee-minutes-2017-14.pdf\" target=\"_blank\">CaTSoP Subcommittee minutes</a></p>",
+          "Outcome__c": "Decline",
+          "Summary__c": "The Subcommittee recommended that the funding application for the listing of teniposide for multiply relapsed multiple myeloma be declined due to a lack of evidence for a health benefit.",
+          "Formatted_Date__c": "Mar 2017",
+          "Published_Recommendation__c": "<p>The Subcommittee recommended that the funding application for the listing of teniposide for multiply relapsed multiple myeloma be declined due to a lack of evidence for a health benefit.</p>",
+          "Published_Application__c": "<p>The Subcommittee considered a clinician funding application from a Haematologist for the use of teniposide in multiply relapsed/refractory multiple myeloma, specifically for patients who have progressed following a proteasome inhibitor, such as bortezomib, and lenalidomide. The Subcommittee noted the applicant requested teniposide be funded for use in combination therapy with cyclophosphomide and steroids for 6 cycles.</p>",
+          "Published_Discussion__c": "<p>The Subcommittee noted multiple myeloma (MM) is an incurable disease characterised by the neoplastic proliferation of plasma cells in the bone marrow that produce a monoclonal immunoglobulin. Most patients with MM present with signs or symptoms related to the infiltration of plasma cells into the bone or other organs or to kidney damage from excess light chains. Anaemia is present in almost three quarters of new presentations, with bone pain and elevated creatinine a feature in about half.</p><p><br></p><p>While the applicant requested use of teniposide in patients progressive through treatment with a proteasome inhibitor as well as lenalidomide, the Subcommittee noted that, in 2017, transplant eligible patients will have progressed through a bone marrow transplant procedure and through two lines of immunomodulating agents - thalidomide and lenalidomide. Thus the application would be essentially for use of teniposide as part of fourth line therapy in a group of patients who are very unwell.</p><p><br></p><p>The Subcommittee noted that refractory MM patients may have pain and be at risk of fracture with a life expectancy measured in short months. The Subcommittee noted that the primary goal of therapy for these patients is symptom improvement and to improve quality of life, with survival (prolongation of life) as a secondary goal.</p><p><br></p><p>The Subcommittee noted the risk of MM is approximately 40% higher in males than females, and that M\u0101ori and Pacific Islanders have a substantially higher risk of being diagnosed with, and dying from, MM than non-M\u0101ori. It is not clear why there is a higher risk of MM in M\u0101ori and Pacific Islanders.</p><p><br></p><p>The Subcommittee noted that teniposide is a very old drug which does not currently have Medsafe approval. It is delivered via intravenous infusion.</p><p><br></p><p>The Subcommittee noted that the most widely used funded treatment options for MM include bortezomib, thalidomide, lenalidomide, melphalan and autologous haematopoietic stem cell transplantation in eligible patients, with the choice of treatment driven by patient fitness/comorbidities and eligibility for transplantation.</p><p><br></p><p>The Subcommittee noted the applicant sought teniposide in the multiply relapsed MM population which have few treatment options and typically have progressive bone disease with pain and bone fractures and a poor prognosis of weeks to months. The Subcommittee considered that the health need of this population was high.</p><p><br></p><p>The Subcommittee noted that in 2017, the alternative unfunded treatments for this patient group in a New Zealand context would be compassionate access carfilzomib, a clinical trial with either an antiCD38 or anti PD-1 therapy, or supportive care. Members noted that they had previously recommended pomalidomide for funding for patients in this setting but it remains unfunded.</p><p><br></p><p>The Subcommittee noted the report from Tirelli et al (Am J Clin Oncol. 1985;8:329-31) dating from 1985 - a single agent phase II trial of 30 patients. Of the study population only 25 were evaluable for response due to loss of follow-up due to early death. Members noted that the authors concluded that the drug has some activity - with 7 responses in the study population using Myeloma Task Force definitions of response (half of whom were previously untreated). The responses were of short duration - median 4 months. Toxicity was not well reported. Emesis appeared to be the primary toxicity contributed to the combination. The Subcommittee noted that in 2017 emesis regimens would be significantly improved so this was unlikely to be such a therapeutic issue.</p><p><br></p><p>The Subcommittee noted the report from Leoni et al. (Leuk Lymphoma. 1992;7:481- 7), who published a combination study of teniposide in 43 patients with refractory MM, 37 evaluable (again due to loss to follow-up due to early death). Prior therapy was by 2017 standards historic - as current patients will be more heavily pre-treated so the therapeutic response may be overestimated. Teniposide was used in combination with cyclophosphamide and dexamethasone. Response was assessed using levels of myeloma protein or marrow indices which is usual in myeloma studies. A Major response was achieved in 18 patients (50% of the patient cohort) and a minor response in a further 9 patients. The report does describe that almost all patients receiving teniposide in combination with cyclophosphamide and dexamethasone experienced relief of bone pain and &quot;an amelioration of their performance status&quot; which is encouraging. Toxicity was deemed acceptable by the authors but is not described in any detail, and with two early deaths is concerning.</p><p><br></p><p>The Subcommittee noted two abstract presentations detailing the responses of 23 heavily pre-treated MM patients receiving teniposide, cyclophosphamide and prednisone chemotherapy at North Shore Hospital, Auckland between January 2012 and July 2014. Twelve patients (52.2%) completed 4-6 cycles chemotherapy containing tenoposide. Treatment response could be calculated in 20 out of the 23 patients in the cohort. Although responses were reported differently in the abstracts, it appears that an overall response rate of 27% was observed. This represents the three patients with a partial response and three having a very good partial response. The median time to progression/next treatment for the 17 patients with partial response or stable disease was 5.2 months. During the follow-up period, 12 of the 23 patients died (52.2%). Toxicity is not described in any detail with the authors reporting that the chemotherapy was fairly-well tolerated with more than half the patients completing 4 to 6 cycles, and only one dying from chemotherapy related toxicity.</p><p><br></p><p>The Subcommittee noted a review of the comparative analysis of single-agent drug activity in MM (Kortuem et al. Clin Lymphoma Myeloma Leuk. 2014;14:284-90). Based on the activity of teniposide in the Tirelli et al study, Korteum et al. rated teniposide response as just above their proposed threshold of interest of &gt;22%.</p><p><br></p><p>The Subcommittee considered that the evidence shows that teniposide does have some limited activity in multiple myeloma. However the level of evidence to support the funding application for use in combination therapy in a heavily pre-treated population, in a 2017 context, is very poor. All the papers suffer from major quality issues, but were published at a time when there was lower publication rigor. All report non-randomised data. The definitions of response and durability of response are unclear, the clinical benefit is unclear and the toxicity impacts are poorly reported. The Subcommittee considered that the applicability of both the Tirelli and Leoni et al. trials to current practice was limited. It is clear that it may add toxicity and as the patient population in 2017 is more heavily pre-treated it could be argued that the potential for toxicity (eg myelosuppression and neurotoxicity) is higher now than at the time of the Tirelli and Leoni papers. There is no quality of life data to support its use and the overall clinical benefit analysis cannot be proven. There is uncertainty as to how much additional benefit teniposide adds to high dose steroids and cyclophosphamide in this population.</p><p><br></p><p>There are now several additional options for prior lines of treatment and the singleagent regimen in Tirelli et al with a large proportion of previously untreated patients is not relevant in the setting applied for.</p><p><br></p><p>The Subcommittee considered it remained unclear whether reported symptom improvement was observed due to the concomitant administration of high-dose steroids.</p><p><br></p><p>The Subcommittee noted that the PEP-C regimen (prednisone, etoposide, procarbazine and cyclophosphamide) was funded and being used in this multiply relapsed MM population as a last-line palliative treatment option. The Subcommittee considered that this was likely a more suitable treatment, that would be preferred by most clinicians, as it was an oral regimen.</p><p><br></p><p>The Subcommittee noted that the fiscal risk of funding teniposide was low, given that only approximately 20 patients per annum would be likely to access this treatment if available. The Subcommittee considered that while there would be additional infusions and management of toxicity (including issues related to myelosuppression), this is likely to be of little impact to Day and Inpatient units, so Health Sector impact was considered minimal.</p><p><br></p><p>The Subcommittee considered that although patients with multiply relapsed MM were likely very unwell, symptomatic and had a life-expectancy of only a few months, the evidence for the use of teniposide in this indication was of poor quality and weak strength, particularly for quality of life gains or a durable response, and additional toxicity was a concern. The Subcommittee concluded that the evidence of a net health benefit remained insufficient at this time to recommend funding.</p>",
+          "Status_History__c": "a132P000000ArGRQA0"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Mar 2017",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Following Clinical Advice, Pharmac staff considers the advice and the funding application under goes an assessment using our&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/factors-for-consideration/\" rel=\"nofollow\">Factors for Consideration</a>&nbsp;framework and seeks additional information as required.</p>\r\n<p>&nbsp;</p>\r\n<p>Research and Economic analysis are undertaken.&nbsp; This focuses on the costs and benefits of a proposed course of action. Economics is based on three fundamental concepts that summarise the issues Pharmac faces daily:&nbsp;</p>\r\n<ul>\r\n<li>Scarcity &ndash; resources will always be insufficient to support all possible activities.</li>\r\n<li>Choices &ndash; due to scarce resources, decisions must be made about how best to use them.</li>\r\n<li>Opportunity cost &ndash; by choosing to use resources one way, we forgo other opportunities to use the same resources.</li>\r\n</ul>\r\n<p>&nbsp;</p>\r\n<p>For further information on the purpose of, and techniques for, undertaking economic analysis in health care, please refer&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/economic-analysis/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/economic-analysis/</a></p>",
+    "position": 2,
+    "name": "Under Assessment",
+    "last": false,
+    "events": null,
+    "dateString": null,
+    "collapsed": false,
+    "checked": false
+  },
+  {
+    "text": "<p>Pharmac staff uses a prioritisation process to compare and rank funding options. Possible opportunities for new investment will always exceed the budget Pharmac has available; therefore, prioritisation is an intrinsic part of Pharmac\u2019s decision-making process.</p>\r\n<p>The relative ranking of options aims to support Pharmac&rsquo;s statutory objective &ldquo;to secure for eligible people in need of pharmaceuticals, the best health outcomes that are reasonably achievable from pharmaceutical treatment and from within the amount of funding provided&rdquo;.</p>\r\n<p>A funding application or proposal is considered ready for prioritisation when sufficient information is available to permit it to be reviewed against Pharmac's Factors for Consideration and to inform a comparison with other possible investment decisions.</p>\r\n<p>There is no guarantee when or if a ranked medicine will be funded.&nbsp;&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/prioritisation/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/prioritisation/</a></p>",
+    "position": 3,
+    "name": "Options Compared",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Sep 2017",
+          "fs": "Sep 2017",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "The relative ranking of the pharmaceutical application has been completed.",
+          "fs": "The relative ranking of the pharmaceutical application has been completed.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P0000063z8WUAQ"
+          },
+          "Id": "a0P2P0000063z8WUAQ",
+          "Event_Date__c": "2017-09-06",
+          "Event_Description__c": "The relative ranking of the pharmaceutical application has been completed.",
+          "Stage__c": "Options Compared",
+          "Formatted_Date__c": "Sep 2017",
+          "Status_History__c": "a132P000000ArKiQAK"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Sep 2017",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Pharmac is consulting on a proposal to either approve or decline the application.&nbsp;We seek the views of all people who have an interest in our proposals, or who may be affected by them, to obtain feedback on our proposed approaches.</p>\r\n<p><a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/having-your-say/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/having-your-say/</a></p>",
+    "position": 4,
+    "name": "Under Consultation",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": "<p><a href=\"https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/2021-06-29-proposal-to-decline-inactive-funding-applications\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255);\">https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/2021-06-29-proposal-to-decline-inactive-funding-applications</a></p>",
+          "fs": "<p><a href=\"https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/2021-06-29-proposal-to-decline-inactive-funding-applications\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255);\">https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/2021-06-29-proposal-to-decline-inactive-funding-applications</a></p>",
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Jun 2021",
+          "fs": "Jun 2021",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Public consultation for this application is active.",
+          "fs": "Public consultation for this application is active.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P0000063z8XUAQ"
+          },
+          "Id": "a0P2P0000063z8XUAQ",
+          "Event_Date__c": "2021-06-28",
+          "Event_Description__c": "Public consultation for this application is active.",
+          "Stage__c": "Under Consultation",
+          "Links__c": "<p><a href=\"https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/2021-06-29-proposal-to-decline-inactive-funding-applications\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255);\">https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/2021-06-29-proposal-to-decline-inactive-funding-applications</a></p>",
+          "Formatted_Date__c": "Jun 2021",
+          "Status_History__c": "a132P000000CxefQAC"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Jun 2021",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Following the consultation process, Pharmac staff considers the feedback and identifies any additional information required as part of a gap analysis.&nbsp; The proposal may require further clinical advice, research, and assessment.</p>",
+    "position": 5,
+    "name": "Reviewing Consultation Feedback",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Aug 2021",
+          "fs": "Aug 2021",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Public consultation for this application is now closed. Pharmac is reviewing consultation feedback.",
+          "fs": "Public consultation for this application is now closed. Pharmac is reviewing consultation feedback.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P0000063z8YUAQ"
+          },
+          "Id": "a0P2P0000063z8YUAQ",
+          "Event_Date__c": "2021-08-02",
+          "Event_Description__c": "Public consultation for this application is now closed. Pharmac is reviewing consultation feedback.",
+          "Stage__c": "Reviewing Consultation Feedback",
+          "Formatted_Date__c": "Aug 2021",
+          "Status_History__c": "a132P000000D3uOQAS"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Aug 2021",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>We refer to our decisions about whether and how particular pharmaceuticals are publicly-funded, as &ldquo;funding decisions&rdquo;.</p>\r\n<p>We consider and assess all funding decisions using the&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/about/operating-policies-and-procedures/#factorsfc\" rel=\"nofollow\">Factors for Consideration</a>. When we do so, we carefully evaluate clinical and other evidence for the benefits and suitability of a proposal, and to identify and understand the people who will be affected by it.</p>\r\n<p>While our main task is to allocate pharmaceutical funding, we consider the benefits and costs across the whole health system now and with a long-term focus, including the effects for hospitals and primary care, and consider direct costs to patients as well as to all health sector budgets.</p>\r\n<p>Final funding decisions are made by the Pharmac Board or delegated to senior Pharmac staff as required by the Board.</p>\r\n<p>&nbsp;</p>",
+    "position": 6,
+    "name": "Decision",
+    "last": true,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": "<p><a href=\"https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/decision-2022-03-08-inactive-declines/\" target=\"_blank\">Notification letter</a></p>",
+          "fs": "<p><a href=\"https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/decision-2022-03-08-inactive-declines/\" target=\"_blank\">Notification letter</a></p>",
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Mar 2022",
+          "fs": "Mar 2022",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "The funding application has been declined.",
+          "fs": "The funding application has been declined.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P0000063z8ZUAQ"
+          },
+          "Id": "a0P2P0000063z8ZUAQ",
+          "Event_Date__c": "2022-03-07",
+          "Event_Description__c": "The funding application has been declined.",
+          "Stage__c": "Decision",
+          "Links__c": "<p><a href=\"https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/decision-2022-03-08-inactive-declines/\" target=\"_blank\">Notification letter</a></p>",
+          "Formatted_Date__c": "Mar 2022",
+          "Status_History__c": "a132P000000DanoQAC"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Mar 2022",
+    "collapsed": false,
+    "checked": true
+  }
+]

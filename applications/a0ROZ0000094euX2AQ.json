@@ -1,0 +1,683 @@
+[
+  {
+    "text": "<p>New funding applications are referred to one of Pharmac's Funding Application Advisors (FAAs), who'll review the application to ensure they have the relevant information to undertake a preliminary analysis.&nbsp; They may seek more information if required.</p>\r\n<p><a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/new-funding-applications/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/new-funding-applications/</a></p>",
+    "position": 0,
+    "name": "Application Received",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Jun 2023",
+          "fs": "Jun 2023",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Application received",
+          "fs": "Application received",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000M95FJ2AZ"
+          },
+          "Id": "a0POZ00000M95FJ2AZ",
+          "Event_Date__c": "2023-06-16",
+          "Event_Description__c": "Application received",
+          "Stage__c": "Application Received",
+          "Formatted_Date__c": "Jun 2023",
+          "Status_History__c": "a132P000000EYk8QAG"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Jun 2023",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Pharmac is identifying and gathering information required to get clinical advice.  The <a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/pharmacology-and-therapeutics-advisory-committee-ptac/\" rel=\"nofollow\">Pharmacology and Therapeutics Advisory Committee (PTAC)</a>  meets quarterly. There are also around 20 expert <a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/specialist-advisory-committees/\" rel=\"nofollow\">Specialist Advisory Committees (SACs)</a>, previously expert Subcommittees, which provide clinical evaluations in specialist areas. Specialist Advisory Committees meet as required to discuss issues referred to them by PTAC or Pharmac.</p>\n<p style=\"height: 20px\">&nbsp;</p>\n<p>In November 2021, we introduced separate terms of reference for the SACs to make clear that these committees have different, but complementary, roles, expertise and perspectives to PTAC.</p>\n<p style=\"height: 15px\">&nbsp;</p>\n<p>PTAC and SACs may make recommendations to Pharmac that differ from each other when looking at the same evidence. Pharmac considers the recommendations provided by all our clinical advisory committees when assessing applications.</p>\n<p style=\"height: 20px\">&nbsp;</p>\n<p><a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/pharmacology-and-therapeutics-advisory-committee-ptac/ptac-terms-of-reference-july-2021/\" rel=\"nofollow\">PTAC</a>  and <a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/specialist-advisory-committees/specialist-advisory-committee-terms-of-reference//\" rel=\"nofollow\">Specialist Advisory Committees</a> records of the meeting will be published on this website in accordance with the Terms of Reference.</p>",
+    "position": 1,
+    "name": "Seeking Clinical Advice",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Jul 2023",
+          "fs": "Jul 2023",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Clinical advice required",
+          "fs": "Clinical advice required",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000M95FK2AZ"
+          },
+          "Id": "a0POZ00000M95FK2AZ",
+          "Event_Date__c": "2023-07-01",
+          "Event_Description__c": "Clinical advice required",
+          "Stage__c": "Seeking Clinical Advice",
+          "Formatted_Date__c": "Jul 2023",
+          "Status_History__c": "a13OZ000001a5GoYAI"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Jul 2023",
+          "fs": "Jul 2023",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Assigned to Cancer Treatments Advisory Committee meeting to provide advice on Friday 21 July 2023",
+          "fs": "Assigned to Cancer Treatments Advisory Committee meeting to provide advice on Friday 21 July 2023",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000M95FL2AZ"
+          },
+          "Id": "a0POZ00000M95FL2AZ",
+          "Event_Date__c": "2023-07-07",
+          "Event_Description__c": "Assigned to Cancer Treatments Advisory Committee meeting to provide advice on Friday 21 July 2023",
+          "Stage__c": "Seeking Clinical Advice",
+          "Formatted_Date__c": "Jul 2023",
+          "Status_History__c": "a13OZ0000040yd3YAA"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": "<p><em>First-line treatment</em></p><p>1.1.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Advisory Committee <strong>recommended</strong> that nivolumab with ipilimumab be funded with a <strong>high priority</strong> as a combination immunotherapy first-line treatment of clear cell renal carcinoma with <strong>intermediate and poor</strong> International Metastatic RCC Database Consortium (IMDC) risk prognoses, within the context of treatment of malignancy, subject to the following Special Authority criteria:</p><p class=\"ql-indent-1\"><strong style=\"font-size: 9pt;\">INITIATION \u2013 Renal cell carcinoma. </strong><span style=\"font-size: 9pt;\">Prescribed by any relevant practitioner. Re-assessment required after 3 months </span></p><p class=\"ql-indent-1\"><span style=\"font-size: 9pt;\">All of the following:</span></p><p class=\"ql-indent-2\"><span style=\"font-size: 9pt;\">1.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">The patient has metastatic renal cell carcinoma; and </span></p><p class=\"ql-indent-2\"><span style=\"font-size: 9pt;\">2.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">The patient is treatment na\u00efve; and</span></p><p class=\"ql-indent-2\"><span style=\"font-size: 9pt;\">3.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">The patient has good performance status (ECOG grade 0-2); and</span></p><p class=\"ql-indent-2\"><span style=\"font-size: 9pt;\">4.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">The disease is of predominant clear cell histology; and </span></p><p class=\"ql-indent-2\"><span style=\"font-size: 9pt;\">5.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">The patient has intermediate or poor prognosis, defined as Any of the following: </span></p><p class=\"ql-indent-3\" style=\"text-align: justify;\"><span style=\"font-size: 9pt;\">5.1.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Haemoglobin level &lt; lower limit of normal; or</span></p><p class=\"ql-indent-3\" style=\"text-align: justify;\"><span style=\"font-size: 9pt;\">5.2.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Corrected serum calcium level &gt; 10mg/dL (2.5 mmol/L); or</span></p><p class=\"ql-indent-3\" style=\"text-align: justify;\"><span style=\"font-size: 9pt;\">5.3.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Neutrophils &gt; upper limit of normal; or</span></p><p class=\"ql-indent-3\" style=\"text-align: justify;\"><span style=\"font-size: 9pt;\">5.4.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Platelets &gt; upper limit of normal; or</span></p><p class=\"ql-indent-3\" style=\"text-align: justify;\"><span style=\"font-size: 9pt;\">5.5.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Interval of &lt; 1 year from original diagnosis to the start of systemic therapy; or </span></p><p class=\"ql-indent-3\" style=\"text-align: justify;\"><span style=\"font-size: 9pt;\">5.6.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Karnofsky performance score of less than or equal to 70</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 9pt;\">\u00a0</span></p><p class=\"ql-indent-1\"><strong style=\"font-size: 9pt;\">CONTINUATION </strong><span style=\"font-size: 9pt;\">-</span><strong style=\"font-size: 9pt;\">Renal cell carcinoma. </strong><span style=\"font-size: 9pt;\">Prescribed by any relevant practitioner. Re-assessment required after 3 months.</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 9pt;\">Both:</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 9pt;\">1.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">No evidence of disease progression; and </span></p><p class=\"ql-indent-1\"><span style=\"font-size: 9pt;\">2.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Treatment remains appropriate.\u00a0</span></p><p class=\"ql-indent-1\"><br></p><p>1.2.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>In making these recommendations, the Advisory Committee considered:</p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The high unmet health need of those with clear cell renal cell carcinoma, particularly those with poor and intermediate IMDC risk</p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The lack of treatment options for those with favourable IMDC risk</p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The high health benefits of these treatments\u00a0</p><p><br></p>",
+          "fs": "<p><em>First-line treatment</em></p><p>1.1.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Advisory Committee <strong>recommended</strong> that nivolumab with ipilimumab be funded with a <strong>high priority</strong> as a combination immunotherapy first-line treatment of clear cell renal carcinoma with <strong>intermediate and poor</strong> International Metastatic RCC Database Consortium (IMDC) risk prognoses, within the context of treatment of malignancy, subject to the following Special Authority criteria:</p><p class=\"ql-indent-1\"><strong style=\"font-size: 9pt;\">INITIATION \u2013 Renal cell carcinoma. </strong><span style=\"font-size: 9pt;\">Prescribed by any relevant practitioner. Re-assessment required after 3 months </span></p><p class=\"ql-indent-1\"><span style=\"font-size: 9pt;\">All of the following:</span></p><p class=\"ql-indent-2\"><span style=\"font-size: 9pt;\">1.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">The patient has metastatic renal cell carcinoma; and </span></p><p class=\"ql-indent-2\"><span style=\"font-size: 9pt;\">2.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">The patient is treatment na\u00efve; and</span></p><p class=\"ql-indent-2\"><span style=\"font-size: 9pt;\">3.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">The patient has good performance status (ECOG grade 0-2); and</span></p><p class=\"ql-indent-2\"><span style=\"font-size: 9pt;\">4.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">The disease is of predominant clear cell histology; and </span></p><p class=\"ql-indent-2\"><span style=\"font-size: 9pt;\">5.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">The patient has intermediate or poor prognosis, defined as Any of the following: </span></p><p class=\"ql-indent-3\" style=\"text-align: justify;\"><span style=\"font-size: 9pt;\">5.1.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Haemoglobin level &lt; lower limit of normal; or</span></p><p class=\"ql-indent-3\" style=\"text-align: justify;\"><span style=\"font-size: 9pt;\">5.2.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Corrected serum calcium level &gt; 10mg/dL (2.5 mmol/L); or</span></p><p class=\"ql-indent-3\" style=\"text-align: justify;\"><span style=\"font-size: 9pt;\">5.3.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Neutrophils &gt; upper limit of normal; or</span></p><p class=\"ql-indent-3\" style=\"text-align: justify;\"><span style=\"font-size: 9pt;\">5.4.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Platelets &gt; upper limit of normal; or</span></p><p class=\"ql-indent-3\" style=\"text-align: justify;\"><span style=\"font-size: 9pt;\">5.5.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Interval of &lt; 1 year from original diagnosis to the start of systemic therapy; or </span></p><p class=\"ql-indent-3\" style=\"text-align: justify;\"><span style=\"font-size: 9pt;\">5.6.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Karnofsky performance score of less than or equal to 70</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 9pt;\">\u00a0</span></p><p class=\"ql-indent-1\"><strong style=\"font-size: 9pt;\">CONTINUATION </strong><span style=\"font-size: 9pt;\">-</span><strong style=\"font-size: 9pt;\">Renal cell carcinoma. </strong><span style=\"font-size: 9pt;\">Prescribed by any relevant practitioner. Re-assessment required after 3 months.</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 9pt;\">Both:</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 9pt;\">1.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">No evidence of disease progression; and </span></p><p class=\"ql-indent-1\"><span style=\"font-size: 9pt;\">2.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Treatment remains appropriate.\u00a0</span></p><p class=\"ql-indent-1\"><br></p><p>1.2.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>In making these recommendations, the Advisory Committee considered:</p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The high unmet health need of those with clear cell renal cell carcinoma, particularly those with poor and intermediate IMDC risk</p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The lack of treatment options for those with favourable IMDC risk</p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The high health benefits of these treatments\u00a0</p><p><br></p>",
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": "<p><em>M\u0101ori impact</em></p><p>1.1.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee discussed the impact of the current treatment paradigm and available international treatments for the treatment of renal clear cell carcinoma on M\u0101ori health areas of focus and M\u0101ori health outcomes. The Committee noted the higher incidence of cases in M\u0101ori, who also present at an earlier age (at an average of 52 years old compared to 63 years old in the general population) (<a href=\"https://pubmed.ncbi.nlm.nih.gov/8134983/\" target=\"_blank\">Delahunt et al Urology. 1994;43:300-9</a>).</p><p><br></p><p><em>Background</em></p><p>1.2.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that the sunitinib and pazopanib TKIs were funded in 2010 and 2012 respectively for the first-line treatment of renal cell carcinoma in those with poor and intermediate prognosis.</p><p>1.3.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted it had <a href=\"https://connect.pharmac.govt.nz/apptracker/s/application-public/a102P00000AUfIW/p001574\" target=\"_blank\">deferred</a> making a recommendation on an application to widen access to sunitinib and pazopanib to allow their use second-line after prior TKI treatment, pending a review of the disease treatment paradigm.</p><p>1.4.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted it had previously reviewed <a href=\"https://www.pharmac.govt.nz/assets/ptac-cancer-treatments-subcommittee-minutes-2017-08.pdf\" target=\"_blank\">axitinib</a>, <a href=\"https://connect.pharmac.govt.nz/apptracker/s/application-public/a102P00000ANEVb/p001560\" target=\"_blank\">lenvatinib with everolimus</a>, and <a href=\"https://www.pharmac.govt.nz/assets/ptac-cancer-treatment-subcommittee-record-2019-04.pdf\" target=\"_blank\">nivolumab</a> for the second-line treatment of renal cell carcinoma, and that these are currently ranked on Pharmac\u2019s Options for Investment list.</p><p>1.5.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted it has also reviewed <a href=\"https://www.pharmac.govt.nz/news/notification-2020-03-20-declines/\" target=\"_blank\">everolimus</a> and <a href=\"https://connect.pharmac.govt.nz/apptracker/s/application-public/a102P000008puFg/p000851\" target=\"_blank\">sorafenib</a> for the second-line treatment of renal cell carcinoma, and recommended both of these applications be declined.</p><p><br></p><p><em>Health need</em></p><p>1.6.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted it had previously reviewed the health need of people with RCC in <a href=\"https://pharmac.govt.nz/assets/2020-10-Cancer-Treatment-Subcommittee-Record-published-25-February-2021.pdf\" target=\"_blank\">October 2020</a>.</p><p>1.7.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that renal clear cell carcinoma can be subdivided by prognostic risk subgroups using International Metastatic RCC Database Consortium (IMDC) risk scores into favourable, intermediate, and poor-risk groups. The scoring system includes six negative clinical prognostic factors. The Committee noted it was a well validated model, with it being a potential guide for selecting therapeutics (<a href=\"https://pubmed.ncbi.nlm.nih.gov/23312463/\" target=\"_blank\">Heng et al Lancet Oncol. 2013;1:141-8</a>).</p><p>1.8.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that cases lacking these negative factors have a good prognosis and may experience longer survival; people presenting with one or two factors have an intermediate risk of death with a median overall survival of approximately 23 months; whilst individuals with three or more factors have an expected poor risk outcome with median survival about 8 months (<a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7733622/\" target=\"_blank\">Guida et al. Oncotarget 2020;11:4582-92</a>).</p><p>1.9.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that there is a group of people who would be considered having favourable risk using the IMDC score but could benefit nonetheless from pharmaceutical treatment. The Committee considered this group is difficult to define and would be best targeted through access criteria allowing funding for all IMDC risk groups.</p><p><span style=\"color: windowtext;\">1.10.</span><span style=\"color: windowtext; font-size: 7pt;\">\u00a0\u00a0\u00a0</span>In New Zealand, renal cell carcinoma is more common in men than women, and presents at a younger age in M\u0101ori when compared with non-M\u0101ori (52.2 years vs. 63.2 years) <a href=\"https://pubmed.ncbi.nlm.nih.gov/8134983/\" target=\"_blank\">Delahunt et al. Urology. 1994;43:300-9</a>).</p><p>1.11.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Committee previously noted in 2017 the Effect of Comorbidity on Care and Cancer Survival Inequalities Study \u2013 known as the C3 (Quantitative) study \u2013 conducted by the University of Otago in 2014 that reported M\u0101ori with kidney cancer were 52% more likely to die of their cancer than non-M\u0101ori (HR: 1.52; 95% CI, 1.01 to 2.29) (<a href=\"https://pubmed.ncbi.nlm.nih.gov/24582212/\" target=\"_blank\">Sarfati et al. 2014. Wellington: University of Otago</a>).</p><p>1.12.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Committee considered whilst there was no evidence to suggest a difference in prevalence in Pacific peoples, these individuals may have more comorbidities that exclude them from current therapy options.</p><p>1.13.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Committee noted within New Zealand people living in the most socioeconomically deprived areas have a reduced survival time, independent of the stage of disease compared to those from less deprived areas (<a href=\"https://pubmed.ncbi.nlm.nih.gov/19223561/\" target=\"_blank\">Jeffreys et al. Cancer Epidemiol Biomarkers Prev. 2009;18:915-21</a>).</p><p>1.14.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Committee considered that there was a high health need for the wh\u0101nau of individuals with metastatic renal cell carcinoma due to the severity of the disease, its incurable nature, and the short survival times associated with it.</p><p>1.15.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Committee noted that there are many histologically different types of renal cell carcinoma, many of which are divided into clear and non-clear cell types. The Committee considered that these often have different driver mutations and react different clinically. The Committee noted that non clear cell histology renal cell carcinomas are rarer, with less data available. The Committee noted some phase two cohort studies and small randomised trials are available but considered the data strength and quality to be immature. The Committee considered that due to the absence of high-quality evidence in non-clear cell histology, there are limited treatment options in comparison to treatments for clear-cell histology, but this disparity in treatment options does not reflect disparities in health needs.</p><p><br></p><p><em>First-line treatments</em></p><p>1.16.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Committee considered the European Society for Medical Oncology (ESMO) 2021 treatment guidelines (<a href=\"https://pubmed.ncbi.nlm.nih.gov/34597799/\" target=\"_blank\">Powles et al. Ann Oncol. 2021;32:1511-9</a>) for first-line treatment of metastatic renal cell carcinoma, which recommended lenvatinib/pembrolizumab, axitinib/pembrolizumab and cabozantinib/nivolumab for combination first-line treatment of all IMDC risk groups, whilst ipilimumab/nivolumab is recommended for those only with intermediate and poor risk.</p><p>1.17.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Committee noted the vascular endothelial growth factor (VEGF) TKI sunitinib or pazopanib are funded as a first-line treatment until progression for those with intermediate or poor prognosis disease. The Committee noted that these agents are not part of the current ESMO guidelines for this treatment line.</p><p>1.18.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Committee noted the currently funded VEGF TKI options are contraindicated in individuals with poorly controlled hypertension, ischaemic heart disease and significant venous thromboembolic disease. The Committee noted that secondary hypertension commonly occurs in those with renal cell carcinoma due to resection of the tumours through nephrectomy.</p><p><br></p><p><em>First-line therapies in ESMO guidelines</em></p><p>1.19.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Committee considered the following combinations outlined in the ESMO guidelines: axitinib with pembrolizumab, lenvatinib with pembrolizumab, axitinib with avelumab.</p><p>1.20.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Committee noted the following studies evaluating the efficacy and/ or safety of first-line treatments for renal cell carcinoma:</p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol; color: windowtext;\">\u00b7</span><span style=\"color: windowtext; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/34546767/\" target=\"_blank\">Nocera et al. J Urol. 2022;207:16-24</a></p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol; color: windowtext;\">\u00b7</span><span style=\"color: windowtext; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/33757737/\" target=\"_blank\">Quhal et al. Eur Urol Oncol. 2021;4:755-65</a></p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol; color: windowtext;\">\u00b7</span><span style=\"color: windowtext; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/33824031/\" target=\"_blank\">Riaz et al. Eur Urol. 2021;80:712-23</a></p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol; color: windowtext;\">\u00b7</span><span style=\"color: windowtext; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/33112003/\" target=\"_blank\">Heo et al. J Clin Pharm Ther. 2021;46:35-49</a></p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol; color: windowtext;\">\u00b7</span><span style=\"color: windowtext; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/35313232/\" target=\"_blank\">Lombardi et al. Cancer Treat Rev. 2022;106:102377</a></p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol; color: windowtext;\">\u00b7</span><span style=\"color: windowtext; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/29393024/\" target=\"_blank\">Edwards et al. Health Technol Assess. 2018;22:1-278</a></p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol; color: windowtext;\">\u00b7</span><span style=\"color: windowtext; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/29656851/\" target=\"_blank\">Wallis et al. Eur Urol. 2018;74:309-321</a></p><p>1.21.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Committee noted the <a href=\"https://ascopubs.org/doi/abs/10.1200/JCO.2023.41.17_suppl.LBA4501\" target=\"_blank\">Rini et al. 2023. J Clin Oncol 41, 17_suppl LBA4501</a> study reporting the 5-year follow up of the randomised, open-label, phase 3 KEYNOTE-426 trial comparing axitinib with pembrolizumab to sunitinib. Median study follow-up was 67.2 months (range, 60.0-75.0). For axitinib with pembrolizumab compared to sunitinib, the 60-month overall survival rates were 41.9% vs 37.1%, and the 60-months progression free survival rates were 18.3% vs 7.3%. The hazard ratio for overall survival when adjusted for subsequent therapy was 0.67 (95% CI, 0.52-0.84).</p><p>1.22.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Committee noted <a href=\"https://meetings.asco.org/abstracts-presentations/226720\" target=\"_blank\">Motzer et al. J Clin Oncol 41, 2023 (suppl 16; abstr 4502)</a> that reported the 4 year follow up of the phase 3 CLEAR trial comparing the effects of levatinib with pembrolizumab vs sunitinib. At a median follow-up (IQR) of 49.8 months (41.4\u201353.1) for levatinib with pembrolizumab and 49.4 months (41.6\u201352.8) for sunitinib, 149 and 159 deaths occurred, respectively. Overall survival benefit with levatinib with pembrolizumab vs sunitinib was maintained (HR 0.79, 95% CI 0.63\u20130.99). Overall survival favored levatinib with pembrolizumab across MSKCC risk groups (HR, 95% CI; favorable: 0.89, 0.53\u20131.50; intermediate: 0.81, 0.62\u20131.06; poor: 0.59, 0.31\u20131.12). Progression free survival benefit of levatinib plus pembrolizumab vs sunitinib was maintained (HR, 95% CI; 0.47, 0.38\u20130.57), including across all MSKCC risk groups. Objective response rate was greater with levatinib plus pembrolizumab (71.3%; complete response [CR], 18.3%) vs sunitinib (36.7%; CR, 4.8%) (relative risk, 95% CI; 1.94, 1.67\u20132.26). Grade \u22653 treatment-related adverse events occurred in 74.1% and 60.3% in the levatinib plus pembrolizumab vs sunitinib arms, respectively.</p><p>1.23.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Committee noted the <a href=\"https://www.nejm.org/doi/full/10.1056/NEJMoa1816047\" target=\"_blank\">Motzer et al N Engl J Med 2019; 380:1103-15</a> multicentre, randomised, open-label, phase three trial comparing avelumab with axitinib to sunitinib. The median progression-free survival was 13.8 months with avelumab plus axitinib, as compared with 7.2 months with sunitinib (hazard ratio for disease progression or death, 0.61; 95% confidence interval [CI], 0.47 to 0.79; P&lt;0.001); in the overall population, the median progression-free survival was 13.8 months, as compared with 8.4 months (hazard ratio, 0.69; 95% CI, 0.56 to 0.84; P&lt;0.001). Adverse events during treatment occurred in 99.5% in the avelumab-plus-axitinib group and in 99.3% in the sunitinib group.</p><p>1.24.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Committee considered that there was uncertainty when comparing the effects of different treatment combinations. The Committee considered that time to response was potentially faster for combination treatments that involved a VEGF TKI, and that people requiring a rapid cytoreductive response may therefore benefit more from a VEGF TKI-based treatment. However, the Committee considered that the overall survival data was generally stronger for nivolumab with ipilimumab combination immunotherapy compared to the other combination regimens.</p><p>1.25.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Committee considered it would be interested in reviewing other first-line combination therapies outlined in the ESMO guidelines, if applications were received for these agents.\u00a0\u00a0</p><p><br></p><p><br></p><p><em>Health benefit</em></p><p><em>First-line treatment -ipilimumab with nivolumab</em></p><p>1.26.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that ipilimumab is a CTLA-4 immune checkpoint inhibitor, whilst nivolumab is an antibody that binds to the programmed death (PD-1) receptor.</p><p>1.27.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that the combination of ipilimumab with nivolumab is clinically suitable when VEGF TKI treatment is contraindicated. The Committee considered that the contraindications to TKI treatment would likely be quite different to contraindications to immunotherapy treatment. The Committee was uncertain for how many people TKIs were contraindicated, but considered the proportion was likely low.</p><p>1.28.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted <a href=\"https://pubmed.ncbi.nlm.nih.gov/31427204/\" target=\"_blank\">Motzer Lancet Oncol. 2019;20:1370-85</a>, <a href=\"https://pubmed.ncbi.nlm.nih.gov/29562145/\" target=\"_blank\">Motzer et al. N Engl J Med .2018;378:1277-90</a>, <a href=\"https://pubmed.ncbi.nlm.nih.gov/33246931/\" target=\"_blank\">Albiges et al. ESMO Open 2020;5:e001079</a>, and <a href=\"https://pubmed.ncbi.nlm.nih.gov/32661118/\" target=\"_blank\">Motzer et al J Immunother Cancer. 2020;8:e000891</a>, which reported the results of the CheckMate 214 study, a randomised controlled phase 3 trial comparing ipilimumab with nivolumab versus sunitinib in 1096 individuals.</p><p>1.29.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted <a href=\"https://pubmed.ncbi.nlm.nih.gov/33246931/\" target=\"_blank\">Albiges et al. l. ESMO Open 2020;5:e001079</a>, which reported the four year follow up to the trial.</p><p class=\"ql-indent-1\">1.29.1.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>Overall survival (Hazard ratio (HR); 95%CI) was superior with ipilimumab with nivolumab vs sunitinib in intent to treat population (ITT) (0.69; 0.59 to 0.81) and intermediate/poor risk group (I/P) (0.65; 0.54 to 0.78). Four-year progression free survival probabilities were: 31.0% vs 17.3% (ITT) and 32.7% vs 12.3% (I/P), with ipilimumab and nivolumab vs sunitinib. Overall response rate: ipilimumab and nivolumab vs sunitinib in ITT (39.1% vs 32.4%) and I/P (41.9% vs 26.8%). In the favourable group: HRs (95%CI) for overall survival and progression free survival =0.93 (0.62 to 1.40) and 1.84 (1.29 to 2.62).</p><p class=\"ql-indent-1\">1.29.2.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Committee noted that in those with favourable risk the progression free survival outcomes favoured sunitinib (HR 1.84; 95%\u2009CI 1.29 to 2.62), with 4-year progression free survival probabilities of 25.4% with ipilimumab and nivolumab vs 31.6% with sunitinib. However, the difference in progression free survival probabilities across arms has decreased over time.</p><p class=\"ql-indent-1\">1.29.3.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Committee considered that those with intermediate or poor IMDC prognosis gained significant benefit from nivolumab with ipilimumab. The Committee considered that the evidence available suggested that nivolumab with ipilimumab offered no incremental health benefit for those with favourable risk status, and treatment may even be associated with harm given the adverse event profile. The Committee noted that evidence for the favourable risk group was from an unplanned exploratory retrospective subgroup analysis and therefore was subject to a greater degree of uncertainty.</p><p class=\"ql-indent-1\">1.29.4.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Committee considered the trial to be well powered, randomised and with the control arm treatment relevant to the New Zealand population and clinical setting.</p><p class=\"ql-indent-1\">1.29.5.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Committee noted that treatment related adverse events leading to discontinuation occurred more frequently in the ipilimumab/nivolumab arm (22% vs 12%). No new safety signals were detected in this trial, with the treatment adverse events occurring in line with the expected experience with these agents. The Committee considered that many of the toxicities experienced on first-line sunitinib were relatively straightforward to treat, and that it was uncommon for these adverse events to require hospitalisation. The Committee further considered that the adverse events experienced on first-line sunitinib often resolved upon discontinuation of treatment. The Committee considered that the immune-related adverse events experienced with nivolumab in combination with ipilimumab can be complex and may require treatment even after treatment discontinuation.</p><p>1.30.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted the <a href=\"https://pubmed.ncbi.nlm.nih.gov/30658932/\" target=\"_blank\">Cella et al. Lancet Oncol. 2019;20:297-310</a> publication that reported the patient-reported outcomes (PROs) of those in CheckMate 214. PROs were more favourable with nivolumab plus ipilimumab vs sunitinib up to 103 weeks after baseline. Treatment with nivolumab plus ipilimumab reported significant improvements in 4/5 Functional Assessment of Cancer Therapy Kidney Symptom Index-19 (FKSI-19) domains (including disease-related symptoms, physical disease-related symptoms, treatment side-effects, and functional wellbeing) and Functional Assessment of Cancer Therapy-General physical and functional wellbeing domains. The Committee noted that the evidence from this publication suggested nivolumab with ipilimumab treatment resulted in improved health-related quality of life compared to sunitinib.</p><p>1.31.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted <a href=\"https://pubmed.ncbi.nlm.nih.gov/32873572/\" target=\"_blank\">Tannir et al. Clin Cancer Res. 2021;27:78-86</a>, a post hoc analysis of CheckMate 214 that reported efficacy for nivolumab with ipilimumab versus sunitinib in advanced renal cell carcinoma with sarcomatoid features. Progression free survival benefits with nivolumab plus ipilimumab were observed [median 26.5 vs. 5.1 months; HR, 0.54 (95% CI, 0.33-0.86; P = 0.0093)]. The confirmed objective response rate was 60.8% with nivolumab plus ipilimumab versus 23.1% with sunitinib, with complete response rates of 18.9% versus 3.1%, respectively.</p><p>1.32.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that if an individual\u2019s disease had a sarcomatoid component then clinicians may favour treatment with nivolumab plus ipilimumab due to the health benefit for this population reported in <a href=\"https://pubmed.ncbi.nlm.nih.gov/32873572/\" target=\"_blank\">Tannir et al. 2021</a>.</p><p>1.33.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted the following studies:</p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol; color: windowtext;\">\u00b7</span><span style=\"color: windowtext; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/31633185/\" target=\"_blank\">Tomita et al. Jpn J Clin Oncol. 2020;50:12-19.</a></p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol; color: windowtext;\">\u00b7</span><span style=\"color: windowtext; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/35442713/\" target=\"_blank\">Atkins et al. J Clin Oncol. 2022;40:2913-23</a></p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol; color: windowtext;\">\u00b7</span><span style=\"color: windowtext; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/28678668/\" target=\"_blank\">Hammers et al. J Clin Oncol. 2017;35:3851-58</a></p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/31732098/\" target=\"_blank\">Escudier et al. Eur Urol. 2020;77:449-53</a>.</p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol; color: windowtext;\">\u00b7</span><span style=\"color: windowtext; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/34784056/\" target=\"_blank\">Emaekhoo et al. Cancer. 2022;128:966-74</a></p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/33058158/\" target=\"_blank\">Hofmann et al. Cochrane Database Syst Rev. 2020;14;10:CD012796.</a></p><p><br></p><p><em>Suitability</em></p><p>1.34.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that the currently funded first-line treatments are orally administered, and therefore other first or second-line treatments which require intravenous infusion would increase the need for a person to travel to infusion centres. This would also increase the need for infusion service time. The Committee noted there would be an increase in the travel time for the person undertaking treatment and their wh\u0101nau.</p><p><br></p><p><em>Cost and savings</em></p><p>1.35.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that due to the safety profile of the ipilimumab with nivolumab combination, there would be a small subset of people with poorer performance status (ECOG&gt;2) who would not receive this treatment.</p><p>1.36.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that the currently funded first-line treatments are orally administered, and therefore other first and second-line treatments which require intravenous infusion would increase the need for infusion service time and staff to be able to administer the treatment.</p><p>1.37.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that while most immune related toxicities would be managed with corticosteroids, there would be a small number of people with refractory or severe toxicity that requires agents such as infliximab for diarrhoea (where &lt;1% would experience diarrhoea, of whom only a small proportion would require infliximab). The Committee considered that there may be a potential increase in the use of radiology imaging if treatments were funded for people with good prognosis (who otherwise would not need imaging clinically).</p><p>1.38.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered there may be an increase in laboratory testing over the current standard of care options.</p><p>1.39.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that a number of individuals with good prognosis disease would not require immediate treatment and would be observed for a period, but considered that quantifying this number would be difficult.</p><p><br></p><p><em>Funding criteria</em></p><p>1.40.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered those with intermediate or poor risk status would gain the most health benefit from treatment with nivolumab with ipilimumab, with less evidence available to support clinical benefit for those with favourable risk status. The Committee considered that for nivolumab with cabozantinib, the evidence of benefit appeared to be strongest for those with poor risk, but that it appeared that those with favourable risk would derive benefit.\u00a0</p>",
+          "fs": "<p><em>M\u0101ori impact</em></p><p>1.1.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee discussed the impact of the current treatment paradigm and available international treatments for the treatment of renal clear cell carcinoma on M\u0101ori health areas of focus and M\u0101ori health outcomes. The Committee noted the higher incidence of cases in M\u0101ori, who also present at an earlier age (at an average of 52 years old compared to 63 years old in the general population) (<a href=\"https://pubmed.ncbi.nlm.nih.gov/8134983/\" target=\"_blank\">Delahunt et al Urology. 1994;43:300-9</a>).</p><p><br></p><p><em>Background</em></p><p>1.2.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that the sunitinib and pazopanib TKIs were funded in 2010 and 2012 respectively for the first-line treatment of renal cell carcinoma in those with poor and intermediate prognosis.</p><p>1.3.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted it had <a href=\"https://connect.pharmac.govt.nz/apptracker/s/application-public/a102P00000AUfIW/p001574\" target=\"_blank\">deferred</a> making a recommendation on an application to widen access to sunitinib and pazopanib to allow their use second-line after prior TKI treatment, pending a review of the disease treatment paradigm.</p><p>1.4.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted it had previously reviewed <a href=\"https://www.pharmac.govt.nz/assets/ptac-cancer-treatments-subcommittee-minutes-2017-08.pdf\" target=\"_blank\">axitinib</a>, <a href=\"https://connect.pharmac.govt.nz/apptracker/s/application-public/a102P00000ANEVb/p001560\" target=\"_blank\">lenvatinib with everolimus</a>, and <a href=\"https://www.pharmac.govt.nz/assets/ptac-cancer-treatment-subcommittee-record-2019-04.pdf\" target=\"_blank\">nivolumab</a> for the second-line treatment of renal cell carcinoma, and that these are currently ranked on Pharmac\u2019s Options for Investment list.</p><p>1.5.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted it has also reviewed <a href=\"https://www.pharmac.govt.nz/news/notification-2020-03-20-declines/\" target=\"_blank\">everolimus</a> and <a href=\"https://connect.pharmac.govt.nz/apptracker/s/application-public/a102P000008puFg/p000851\" target=\"_blank\">sorafenib</a> for the second-line treatment of renal cell carcinoma, and recommended both of these applications be declined.</p><p><br></p><p><em>Health need</em></p><p>1.6.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted it had previously reviewed the health need of people with RCC in <a href=\"https://pharmac.govt.nz/assets/2020-10-Cancer-Treatment-Subcommittee-Record-published-25-February-2021.pdf\" target=\"_blank\">October 2020</a>.</p><p>1.7.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that renal clear cell carcinoma can be subdivided by prognostic risk subgroups using International Metastatic RCC Database Consortium (IMDC) risk scores into favourable, intermediate, and poor-risk groups. The scoring system includes six negative clinical prognostic factors. The Committee noted it was a well validated model, with it being a potential guide for selecting therapeutics (<a href=\"https://pubmed.ncbi.nlm.nih.gov/23312463/\" target=\"_blank\">Heng et al Lancet Oncol. 2013;1:141-8</a>).</p><p>1.8.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that cases lacking these negative factors have a good prognosis and may experience longer survival; people presenting with one or two factors have an intermediate risk of death with a median overall survival of approximately 23 months; whilst individuals with three or more factors have an expected poor risk outcome with median survival about 8 months (<a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7733622/\" target=\"_blank\">Guida et al. Oncotarget 2020;11:4582-92</a>).</p><p>1.9.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that there is a group of people who would be considered having favourable risk using the IMDC score but could benefit nonetheless from pharmaceutical treatment. The Committee considered this group is difficult to define and would be best targeted through access criteria allowing funding for all IMDC risk groups.</p><p><span style=\"color: windowtext;\">1.10.</span><span style=\"color: windowtext; font-size: 7pt;\">\u00a0\u00a0\u00a0</span>In New Zealand, renal cell carcinoma is more common in men than women, and presents at a younger age in M\u0101ori when compared with non-M\u0101ori (52.2 years vs. 63.2 years) <a href=\"https://pubmed.ncbi.nlm.nih.gov/8134983/\" target=\"_blank\">Delahunt et al. Urology. 1994;43:300-9</a>).</p><p>1.11.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Committee previously noted in 2017 the Effect of Comorbidity on Care and Cancer Survival Inequalities Study \u2013 known as the C3 (Quantitative) study \u2013 conducted by the University of Otago in 2014 that reported M\u0101ori with kidney cancer were 52% more likely to die of their cancer than non-M\u0101ori (HR: 1.52; 95% CI, 1.01 to 2.29) (<a href=\"https://pubmed.ncbi.nlm.nih.gov/24582212/\" target=\"_blank\">Sarfati et al. 2014. Wellington: University of Otago</a>).</p><p>1.12.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Committee considered whilst there was no evidence to suggest a difference in prevalence in Pacific peoples, these individuals may have more comorbidities that exclude them from current therapy options.</p><p>1.13.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Committee noted within New Zealand people living in the most socioeconomically deprived areas have a reduced survival time, independent of the stage of disease compared to those from less deprived areas (<a href=\"https://pubmed.ncbi.nlm.nih.gov/19223561/\" target=\"_blank\">Jeffreys et al. Cancer Epidemiol Biomarkers Prev. 2009;18:915-21</a>).</p><p>1.14.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Committee considered that there was a high health need for the wh\u0101nau of individuals with metastatic renal cell carcinoma due to the severity of the disease, its incurable nature, and the short survival times associated with it.</p><p>1.15.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Committee noted that there are many histologically different types of renal cell carcinoma, many of which are divided into clear and non-clear cell types. The Committee considered that these often have different driver mutations and react different clinically. The Committee noted that non clear cell histology renal cell carcinomas are rarer, with less data available. The Committee noted some phase two cohort studies and small randomised trials are available but considered the data strength and quality to be immature. The Committee considered that due to the absence of high-quality evidence in non-clear cell histology, there are limited treatment options in comparison to treatments for clear-cell histology, but this disparity in treatment options does not reflect disparities in health needs.</p><p><br></p><p><em>First-line treatments</em></p><p>1.16.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Committee considered the European Society for Medical Oncology (ESMO) 2021 treatment guidelines (<a href=\"https://pubmed.ncbi.nlm.nih.gov/34597799/\" target=\"_blank\">Powles et al. Ann Oncol. 2021;32:1511-9</a>) for first-line treatment of metastatic renal cell carcinoma, which recommended lenvatinib/pembrolizumab, axitinib/pembrolizumab and cabozantinib/nivolumab for combination first-line treatment of all IMDC risk groups, whilst ipilimumab/nivolumab is recommended for those only with intermediate and poor risk.</p><p>1.17.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Committee noted the vascular endothelial growth factor (VEGF) TKI sunitinib or pazopanib are funded as a first-line treatment until progression for those with intermediate or poor prognosis disease. The Committee noted that these agents are not part of the current ESMO guidelines for this treatment line.</p><p>1.18.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Committee noted the currently funded VEGF TKI options are contraindicated in individuals with poorly controlled hypertension, ischaemic heart disease and significant venous thromboembolic disease. The Committee noted that secondary hypertension commonly occurs in those with renal cell carcinoma due to resection of the tumours through nephrectomy.</p><p><br></p><p><em>First-line therapies in ESMO guidelines</em></p><p>1.19.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Committee considered the following combinations outlined in the ESMO guidelines: axitinib with pembrolizumab, lenvatinib with pembrolizumab, axitinib with avelumab.</p><p>1.20.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Committee noted the following studies evaluating the efficacy and/ or safety of first-line treatments for renal cell carcinoma:</p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol; color: windowtext;\">\u00b7</span><span style=\"color: windowtext; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/34546767/\" target=\"_blank\">Nocera et al. J Urol. 2022;207:16-24</a></p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol; color: windowtext;\">\u00b7</span><span style=\"color: windowtext; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/33757737/\" target=\"_blank\">Quhal et al. Eur Urol Oncol. 2021;4:755-65</a></p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol; color: windowtext;\">\u00b7</span><span style=\"color: windowtext; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/33824031/\" target=\"_blank\">Riaz et al. Eur Urol. 2021;80:712-23</a></p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol; color: windowtext;\">\u00b7</span><span style=\"color: windowtext; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/33112003/\" target=\"_blank\">Heo et al. J Clin Pharm Ther. 2021;46:35-49</a></p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol; color: windowtext;\">\u00b7</span><span style=\"color: windowtext; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/35313232/\" target=\"_blank\">Lombardi et al. Cancer Treat Rev. 2022;106:102377</a></p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol; color: windowtext;\">\u00b7</span><span style=\"color: windowtext; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/29393024/\" target=\"_blank\">Edwards et al. Health Technol Assess. 2018;22:1-278</a></p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol; color: windowtext;\">\u00b7</span><span style=\"color: windowtext; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/29656851/\" target=\"_blank\">Wallis et al. Eur Urol. 2018;74:309-321</a></p><p>1.21.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Committee noted the <a href=\"https://ascopubs.org/doi/abs/10.1200/JCO.2023.41.17_suppl.LBA4501\" target=\"_blank\">Rini et al. 2023. J Clin Oncol 41, 17_suppl LBA4501</a> study reporting the 5-year follow up of the randomised, open-label, phase 3 KEYNOTE-426 trial comparing axitinib with pembrolizumab to sunitinib. Median study follow-up was 67.2 months (range, 60.0-75.0). For axitinib with pembrolizumab compared to sunitinib, the 60-month overall survival rates were 41.9% vs 37.1%, and the 60-months progression free survival rates were 18.3% vs 7.3%. The hazard ratio for overall survival when adjusted for subsequent therapy was 0.67 (95% CI, 0.52-0.84).</p><p>1.22.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Committee noted <a href=\"https://meetings.asco.org/abstracts-presentations/226720\" target=\"_blank\">Motzer et al. J Clin Oncol 41, 2023 (suppl 16; abstr 4502)</a> that reported the 4 year follow up of the phase 3 CLEAR trial comparing the effects of levatinib with pembrolizumab vs sunitinib. At a median follow-up (IQR) of 49.8 months (41.4\u201353.1) for levatinib with pembrolizumab and 49.4 months (41.6\u201352.8) for sunitinib, 149 and 159 deaths occurred, respectively. Overall survival benefit with levatinib with pembrolizumab vs sunitinib was maintained (HR 0.79, 95% CI 0.63\u20130.99). Overall survival favored levatinib with pembrolizumab across MSKCC risk groups (HR, 95% CI; favorable: 0.89, 0.53\u20131.50; intermediate: 0.81, 0.62\u20131.06; poor: 0.59, 0.31\u20131.12). Progression free survival benefit of levatinib plus pembrolizumab vs sunitinib was maintained (HR, 95% CI; 0.47, 0.38\u20130.57), including across all MSKCC risk groups. Objective response rate was greater with levatinib plus pembrolizumab (71.3%; complete response [CR], 18.3%) vs sunitinib (36.7%; CR, 4.8%) (relative risk, 95% CI; 1.94, 1.67\u20132.26). Grade \u22653 treatment-related adverse events occurred in 74.1% and 60.3% in the levatinib plus pembrolizumab vs sunitinib arms, respectively.</p><p>1.23.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Committee noted the <a href=\"https://www.nejm.org/doi/full/10.1056/NEJMoa1816047\" target=\"_blank\">Motzer et al N Engl J Med 2019; 380:1103-15</a> multicentre, randomised, open-label, phase three trial comparing avelumab with axitinib to sunitinib. The median progression-free survival was 13.8 months with avelumab plus axitinib, as compared with 7.2 months with sunitinib (hazard ratio for disease progression or death, 0.61; 95% confidence interval [CI], 0.47 to 0.79; P&lt;0.001); in the overall population, the median progression-free survival was 13.8 months, as compared with 8.4 months (hazard ratio, 0.69; 95% CI, 0.56 to 0.84; P&lt;0.001). Adverse events during treatment occurred in 99.5% in the avelumab-plus-axitinib group and in 99.3% in the sunitinib group.</p><p>1.24.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Committee considered that there was uncertainty when comparing the effects of different treatment combinations. The Committee considered that time to response was potentially faster for combination treatments that involved a VEGF TKI, and that people requiring a rapid cytoreductive response may therefore benefit more from a VEGF TKI-based treatment. However, the Committee considered that the overall survival data was generally stronger for nivolumab with ipilimumab combination immunotherapy compared to the other combination regimens.</p><p>1.25.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Committee considered it would be interested in reviewing other first-line combination therapies outlined in the ESMO guidelines, if applications were received for these agents.\u00a0\u00a0</p><p><br></p><p><br></p><p><em>Health benefit</em></p><p><em>First-line treatment -ipilimumab with nivolumab</em></p><p>1.26.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that ipilimumab is a CTLA-4 immune checkpoint inhibitor, whilst nivolumab is an antibody that binds to the programmed death (PD-1) receptor.</p><p>1.27.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that the combination of ipilimumab with nivolumab is clinically suitable when VEGF TKI treatment is contraindicated. The Committee considered that the contraindications to TKI treatment would likely be quite different to contraindications to immunotherapy treatment. The Committee was uncertain for how many people TKIs were contraindicated, but considered the proportion was likely low.</p><p>1.28.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted <a href=\"https://pubmed.ncbi.nlm.nih.gov/31427204/\" target=\"_blank\">Motzer Lancet Oncol. 2019;20:1370-85</a>, <a href=\"https://pubmed.ncbi.nlm.nih.gov/29562145/\" target=\"_blank\">Motzer et al. N Engl J Med .2018;378:1277-90</a>, <a href=\"https://pubmed.ncbi.nlm.nih.gov/33246931/\" target=\"_blank\">Albiges et al. ESMO Open 2020;5:e001079</a>, and <a href=\"https://pubmed.ncbi.nlm.nih.gov/32661118/\" target=\"_blank\">Motzer et al J Immunother Cancer. 2020;8:e000891</a>, which reported the results of the CheckMate 214 study, a randomised controlled phase 3 trial comparing ipilimumab with nivolumab versus sunitinib in 1096 individuals.</p><p>1.29.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted <a href=\"https://pubmed.ncbi.nlm.nih.gov/33246931/\" target=\"_blank\">Albiges et al. l. ESMO Open 2020;5:e001079</a>, which reported the four year follow up to the trial.</p><p class=\"ql-indent-1\">1.29.1.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>Overall survival (Hazard ratio (HR); 95%CI) was superior with ipilimumab with nivolumab vs sunitinib in intent to treat population (ITT) (0.69; 0.59 to 0.81) and intermediate/poor risk group (I/P) (0.65; 0.54 to 0.78). Four-year progression free survival probabilities were: 31.0% vs 17.3% (ITT) and 32.7% vs 12.3% (I/P), with ipilimumab and nivolumab vs sunitinib. Overall response rate: ipilimumab and nivolumab vs sunitinib in ITT (39.1% vs 32.4%) and I/P (41.9% vs 26.8%). In the favourable group: HRs (95%CI) for overall survival and progression free survival =0.93 (0.62 to 1.40) and 1.84 (1.29 to 2.62).</p><p class=\"ql-indent-1\">1.29.2.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Committee noted that in those with favourable risk the progression free survival outcomes favoured sunitinib (HR 1.84; 95%\u2009CI 1.29 to 2.62), with 4-year progression free survival probabilities of 25.4% with ipilimumab and nivolumab vs 31.6% with sunitinib. However, the difference in progression free survival probabilities across arms has decreased over time.</p><p class=\"ql-indent-1\">1.29.3.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Committee considered that those with intermediate or poor IMDC prognosis gained significant benefit from nivolumab with ipilimumab. The Committee considered that the evidence available suggested that nivolumab with ipilimumab offered no incremental health benefit for those with favourable risk status, and treatment may even be associated with harm given the adverse event profile. The Committee noted that evidence for the favourable risk group was from an unplanned exploratory retrospective subgroup analysis and therefore was subject to a greater degree of uncertainty.</p><p class=\"ql-indent-1\">1.29.4.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Committee considered the trial to be well powered, randomised and with the control arm treatment relevant to the New Zealand population and clinical setting.</p><p class=\"ql-indent-1\">1.29.5.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Committee noted that treatment related adverse events leading to discontinuation occurred more frequently in the ipilimumab/nivolumab arm (22% vs 12%). No new safety signals were detected in this trial, with the treatment adverse events occurring in line with the expected experience with these agents. The Committee considered that many of the toxicities experienced on first-line sunitinib were relatively straightforward to treat, and that it was uncommon for these adverse events to require hospitalisation. The Committee further considered that the adverse events experienced on first-line sunitinib often resolved upon discontinuation of treatment. The Committee considered that the immune-related adverse events experienced with nivolumab in combination with ipilimumab can be complex and may require treatment even after treatment discontinuation.</p><p>1.30.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted the <a href=\"https://pubmed.ncbi.nlm.nih.gov/30658932/\" target=\"_blank\">Cella et al. Lancet Oncol. 2019;20:297-310</a> publication that reported the patient-reported outcomes (PROs) of those in CheckMate 214. PROs were more favourable with nivolumab plus ipilimumab vs sunitinib up to 103 weeks after baseline. Treatment with nivolumab plus ipilimumab reported significant improvements in 4/5 Functional Assessment of Cancer Therapy Kidney Symptom Index-19 (FKSI-19) domains (including disease-related symptoms, physical disease-related symptoms, treatment side-effects, and functional wellbeing) and Functional Assessment of Cancer Therapy-General physical and functional wellbeing domains. The Committee noted that the evidence from this publication suggested nivolumab with ipilimumab treatment resulted in improved health-related quality of life compared to sunitinib.</p><p>1.31.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted <a href=\"https://pubmed.ncbi.nlm.nih.gov/32873572/\" target=\"_blank\">Tannir et al. Clin Cancer Res. 2021;27:78-86</a>, a post hoc analysis of CheckMate 214 that reported efficacy for nivolumab with ipilimumab versus sunitinib in advanced renal cell carcinoma with sarcomatoid features. Progression free survival benefits with nivolumab plus ipilimumab were observed [median 26.5 vs. 5.1 months; HR, 0.54 (95% CI, 0.33-0.86; P = 0.0093)]. The confirmed objective response rate was 60.8% with nivolumab plus ipilimumab versus 23.1% with sunitinib, with complete response rates of 18.9% versus 3.1%, respectively.</p><p>1.32.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that if an individual\u2019s disease had a sarcomatoid component then clinicians may favour treatment with nivolumab plus ipilimumab due to the health benefit for this population reported in <a href=\"https://pubmed.ncbi.nlm.nih.gov/32873572/\" target=\"_blank\">Tannir et al. 2021</a>.</p><p>1.33.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted the following studies:</p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol; color: windowtext;\">\u00b7</span><span style=\"color: windowtext; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/31633185/\" target=\"_blank\">Tomita et al. Jpn J Clin Oncol. 2020;50:12-19.</a></p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol; color: windowtext;\">\u00b7</span><span style=\"color: windowtext; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/35442713/\" target=\"_blank\">Atkins et al. J Clin Oncol. 2022;40:2913-23</a></p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol; color: windowtext;\">\u00b7</span><span style=\"color: windowtext; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/28678668/\" target=\"_blank\">Hammers et al. J Clin Oncol. 2017;35:3851-58</a></p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/31732098/\" target=\"_blank\">Escudier et al. Eur Urol. 2020;77:449-53</a>.</p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol; color: windowtext;\">\u00b7</span><span style=\"color: windowtext; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/34784056/\" target=\"_blank\">Emaekhoo et al. Cancer. 2022;128:966-74</a></p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/33058158/\" target=\"_blank\">Hofmann et al. Cochrane Database Syst Rev. 2020;14;10:CD012796.</a></p><p><br></p><p><em>Suitability</em></p><p>1.34.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that the currently funded first-line treatments are orally administered, and therefore other first or second-line treatments which require intravenous infusion would increase the need for a person to travel to infusion centres. This would also increase the need for infusion service time. The Committee noted there would be an increase in the travel time for the person undertaking treatment and their wh\u0101nau.</p><p><br></p><p><em>Cost and savings</em></p><p>1.35.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that due to the safety profile of the ipilimumab with nivolumab combination, there would be a small subset of people with poorer performance status (ECOG&gt;2) who would not receive this treatment.</p><p>1.36.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that the currently funded first-line treatments are orally administered, and therefore other first and second-line treatments which require intravenous infusion would increase the need for infusion service time and staff to be able to administer the treatment.</p><p>1.37.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that while most immune related toxicities would be managed with corticosteroids, there would be a small number of people with refractory or severe toxicity that requires agents such as infliximab for diarrhoea (where &lt;1% would experience diarrhoea, of whom only a small proportion would require infliximab). The Committee considered that there may be a potential increase in the use of radiology imaging if treatments were funded for people with good prognosis (who otherwise would not need imaging clinically).</p><p>1.38.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered there may be an increase in laboratory testing over the current standard of care options.</p><p>1.39.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that a number of individuals with good prognosis disease would not require immediate treatment and would be observed for a period, but considered that quantifying this number would be difficult.</p><p><br></p><p><em>Funding criteria</em></p><p>1.40.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered those with intermediate or poor risk status would gain the most health benefit from treatment with nivolumab with ipilimumab, with less evidence available to support clinical benefit for those with favourable risk status. The Committee considered that for nivolumab with cabozantinib, the evidence of benefit appeared to be strongest for those with poor risk, but that it appeared that those with favourable risk would derive benefit.\u00a0</p>",
+          "change": null
+        },
+        "Published_Application": {
+          "s": "<p>1.1.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Advisory Committee reviewed the applications for nivolumab with ipilimumab and cabozantanib with nivolumab for the first line treatment of clear cell renal cell carcinoma (RCC).</p><p>1.2.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Advisory Committee took into account, where applicable, Pharmac\u2019s relevant decision-making framework when considering this agenda item.</p>",
+          "fs": "<p>1.1.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Advisory Committee reviewed the applications for nivolumab with ipilimumab and cabozantanib with nivolumab for the first line treatment of clear cell renal cell carcinoma (RCC).</p><p>1.2.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Advisory Committee took into account, where applicable, Pharmac\u2019s relevant decision-making framework when considering this agenda item.</p>",
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Nov 2023",
+          "fs": "Nov 2023",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Clinical advice received from Cancer Treatments Advisory Committee at meeting Friday 21 July 2023.",
+          "fs": "Clinical advice received from Cancer Treatments Advisory Committee at meeting Friday 21 July 2023.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000M95FM2AZ"
+          },
+          "Id": "a0POZ00000M95FM2AZ",
+          "Event_Date__c": "2023-11-21",
+          "Event_Description__c": "Clinical advice received from Cancer Treatments Advisory Committee at meeting Friday 21 July 2023.",
+          "Stage__c": "Seeking Clinical Advice",
+          "Formatted_Date__c": "Nov 2023",
+          "Published_Recommendation__c": "<p><em>First-line treatment</em></p><p>1.1.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Advisory Committee <strong>recommended</strong> that nivolumab with ipilimumab be funded with a <strong>high priority</strong> as a combination immunotherapy first-line treatment of clear cell renal carcinoma with <strong>intermediate and poor</strong> International Metastatic RCC Database Consortium (IMDC) risk prognoses, within the context of treatment of malignancy, subject to the following Special Authority criteria:</p><p class=\"ql-indent-1\"><strong style=\"font-size: 9pt;\">INITIATION \u2013 Renal cell carcinoma. </strong><span style=\"font-size: 9pt;\">Prescribed by any relevant practitioner. Re-assessment required after 3 months </span></p><p class=\"ql-indent-1\"><span style=\"font-size: 9pt;\">All of the following:</span></p><p class=\"ql-indent-2\"><span style=\"font-size: 9pt;\">1.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">The patient has metastatic renal cell carcinoma; and </span></p><p class=\"ql-indent-2\"><span style=\"font-size: 9pt;\">2.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">The patient is treatment na\u00efve; and</span></p><p class=\"ql-indent-2\"><span style=\"font-size: 9pt;\">3.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">The patient has good performance status (ECOG grade 0-2); and</span></p><p class=\"ql-indent-2\"><span style=\"font-size: 9pt;\">4.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">The disease is of predominant clear cell histology; and </span></p><p class=\"ql-indent-2\"><span style=\"font-size: 9pt;\">5.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">The patient has intermediate or poor prognosis, defined as Any of the following: </span></p><p class=\"ql-indent-3\" style=\"text-align: justify;\"><span style=\"font-size: 9pt;\">5.1.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Haemoglobin level &lt; lower limit of normal; or</span></p><p class=\"ql-indent-3\" style=\"text-align: justify;\"><span style=\"font-size: 9pt;\">5.2.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Corrected serum calcium level &gt; 10mg/dL (2.5 mmol/L); or</span></p><p class=\"ql-indent-3\" style=\"text-align: justify;\"><span style=\"font-size: 9pt;\">5.3.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Neutrophils &gt; upper limit of normal; or</span></p><p class=\"ql-indent-3\" style=\"text-align: justify;\"><span style=\"font-size: 9pt;\">5.4.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Platelets &gt; upper limit of normal; or</span></p><p class=\"ql-indent-3\" style=\"text-align: justify;\"><span style=\"font-size: 9pt;\">5.5.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Interval of &lt; 1 year from original diagnosis to the start of systemic therapy; or </span></p><p class=\"ql-indent-3\" style=\"text-align: justify;\"><span style=\"font-size: 9pt;\">5.6.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Karnofsky performance score of less than or equal to 70</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 9pt;\">\u00a0</span></p><p class=\"ql-indent-1\"><strong style=\"font-size: 9pt;\">CONTINUATION </strong><span style=\"font-size: 9pt;\">-</span><strong style=\"font-size: 9pt;\">Renal cell carcinoma. </strong><span style=\"font-size: 9pt;\">Prescribed by any relevant practitioner. Re-assessment required after 3 months.</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 9pt;\">Both:</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 9pt;\">1.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">No evidence of disease progression; and </span></p><p class=\"ql-indent-1\"><span style=\"font-size: 9pt;\">2.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">Treatment remains appropriate.\u00a0</span></p><p class=\"ql-indent-1\"><br></p><p>1.2.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>In making these recommendations, the Advisory Committee considered:</p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The high unmet health need of those with clear cell renal cell carcinoma, particularly those with poor and intermediate IMDC risk</p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The lack of treatment options for those with favourable IMDC risk</p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The high health benefits of these treatments\u00a0</p><p><br></p>",
+          "Published_Application__c": "<p>1.1.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Advisory Committee reviewed the applications for nivolumab with ipilimumab and cabozantanib with nivolumab for the first line treatment of clear cell renal cell carcinoma (RCC).</p><p>1.2.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Advisory Committee took into account, where applicable, Pharmac\u2019s relevant decision-making framework when considering this agenda item.</p>",
+          "Published_Discussion__c": "<p><em>M\u0101ori impact</em></p><p>1.1.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee discussed the impact of the current treatment paradigm and available international treatments for the treatment of renal clear cell carcinoma on M\u0101ori health areas of focus and M\u0101ori health outcomes. The Committee noted the higher incidence of cases in M\u0101ori, who also present at an earlier age (at an average of 52 years old compared to 63 years old in the general population) (<a href=\"https://pubmed.ncbi.nlm.nih.gov/8134983/\" target=\"_blank\">Delahunt et al Urology. 1994;43:300-9</a>).</p><p><br></p><p><em>Background</em></p><p>1.2.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that the sunitinib and pazopanib TKIs were funded in 2010 and 2012 respectively for the first-line treatment of renal cell carcinoma in those with poor and intermediate prognosis.</p><p>1.3.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted it had <a href=\"https://connect.pharmac.govt.nz/apptracker/s/application-public/a102P00000AUfIW/p001574\" target=\"_blank\">deferred</a> making a recommendation on an application to widen access to sunitinib and pazopanib to allow their use second-line after prior TKI treatment, pending a review of the disease treatment paradigm.</p><p>1.4.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted it had previously reviewed <a href=\"https://www.pharmac.govt.nz/assets/ptac-cancer-treatments-subcommittee-minutes-2017-08.pdf\" target=\"_blank\">axitinib</a>, <a href=\"https://connect.pharmac.govt.nz/apptracker/s/application-public/a102P00000ANEVb/p001560\" target=\"_blank\">lenvatinib with everolimus</a>, and <a href=\"https://www.pharmac.govt.nz/assets/ptac-cancer-treatment-subcommittee-record-2019-04.pdf\" target=\"_blank\">nivolumab</a> for the second-line treatment of renal cell carcinoma, and that these are currently ranked on Pharmac\u2019s Options for Investment list.</p><p>1.5.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted it has also reviewed <a href=\"https://www.pharmac.govt.nz/news/notification-2020-03-20-declines/\" target=\"_blank\">everolimus</a> and <a href=\"https://connect.pharmac.govt.nz/apptracker/s/application-public/a102P000008puFg/p000851\" target=\"_blank\">sorafenib</a> for the second-line treatment of renal cell carcinoma, and recommended both of these applications be declined.</p><p><br></p><p><em>Health need</em></p><p>1.6.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted it had previously reviewed the health need of people with RCC in <a href=\"https://pharmac.govt.nz/assets/2020-10-Cancer-Treatment-Subcommittee-Record-published-25-February-2021.pdf\" target=\"_blank\">October 2020</a>.</p><p>1.7.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that renal clear cell carcinoma can be subdivided by prognostic risk subgroups using International Metastatic RCC Database Consortium (IMDC) risk scores into favourable, intermediate, and poor-risk groups. The scoring system includes six negative clinical prognostic factors. The Committee noted it was a well validated model, with it being a potential guide for selecting therapeutics (<a href=\"https://pubmed.ncbi.nlm.nih.gov/23312463/\" target=\"_blank\">Heng et al Lancet Oncol. 2013;1:141-8</a>).</p><p>1.8.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that cases lacking these negative factors have a good prognosis and may experience longer survival; people presenting with one or two factors have an intermediate risk of death with a median overall survival of approximately 23 months; whilst individuals with three or more factors have an expected poor risk outcome with median survival about 8 months (<a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7733622/\" target=\"_blank\">Guida et al. Oncotarget 2020;11:4582-92</a>).</p><p>1.9.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that there is a group of people who would be considered having favourable risk using the IMDC score but could benefit nonetheless from pharmaceutical treatment. The Committee considered this group is difficult to define and would be best targeted through access criteria allowing funding for all IMDC risk groups.</p><p><span style=\"color: windowtext;\">1.10.</span><span style=\"color: windowtext; font-size: 7pt;\">\u00a0\u00a0\u00a0</span>In New Zealand, renal cell carcinoma is more common in men than women, and presents at a younger age in M\u0101ori when compared with non-M\u0101ori (52.2 years vs. 63.2 years) <a href=\"https://pubmed.ncbi.nlm.nih.gov/8134983/\" target=\"_blank\">Delahunt et al. Urology. 1994;43:300-9</a>).</p><p>1.11.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Committee previously noted in 2017 the Effect of Comorbidity on Care and Cancer Survival Inequalities Study \u2013 known as the C3 (Quantitative) study \u2013 conducted by the University of Otago in 2014 that reported M\u0101ori with kidney cancer were 52% more likely to die of their cancer than non-M\u0101ori (HR: 1.52; 95% CI, 1.01 to 2.29) (<a href=\"https://pubmed.ncbi.nlm.nih.gov/24582212/\" target=\"_blank\">Sarfati et al. 2014. Wellington: University of Otago</a>).</p><p>1.12.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Committee considered whilst there was no evidence to suggest a difference in prevalence in Pacific peoples, these individuals may have more comorbidities that exclude them from current therapy options.</p><p>1.13.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Committee noted within New Zealand people living in the most socioeconomically deprived areas have a reduced survival time, independent of the stage of disease compared to those from less deprived areas (<a href=\"https://pubmed.ncbi.nlm.nih.gov/19223561/\" target=\"_blank\">Jeffreys et al. Cancer Epidemiol Biomarkers Prev. 2009;18:915-21</a>).</p><p>1.14.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Committee considered that there was a high health need for the wh\u0101nau of individuals with metastatic renal cell carcinoma due to the severity of the disease, its incurable nature, and the short survival times associated with it.</p><p>1.15.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Committee noted that there are many histologically different types of renal cell carcinoma, many of which are divided into clear and non-clear cell types. The Committee considered that these often have different driver mutations and react different clinically. The Committee noted that non clear cell histology renal cell carcinomas are rarer, with less data available. The Committee noted some phase two cohort studies and small randomised trials are available but considered the data strength and quality to be immature. The Committee considered that due to the absence of high-quality evidence in non-clear cell histology, there are limited treatment options in comparison to treatments for clear-cell histology, but this disparity in treatment options does not reflect disparities in health needs.</p><p><br></p><p><em>First-line treatments</em></p><p>1.16.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Committee considered the European Society for Medical Oncology (ESMO) 2021 treatment guidelines (<a href=\"https://pubmed.ncbi.nlm.nih.gov/34597799/\" target=\"_blank\">Powles et al. Ann Oncol. 2021;32:1511-9</a>) for first-line treatment of metastatic renal cell carcinoma, which recommended lenvatinib/pembrolizumab, axitinib/pembrolizumab and cabozantinib/nivolumab for combination first-line treatment of all IMDC risk groups, whilst ipilimumab/nivolumab is recommended for those only with intermediate and poor risk.</p><p>1.17.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Committee noted the vascular endothelial growth factor (VEGF) TKI sunitinib or pazopanib are funded as a first-line treatment until progression for those with intermediate or poor prognosis disease. The Committee noted that these agents are not part of the current ESMO guidelines for this treatment line.</p><p>1.18.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Committee noted the currently funded VEGF TKI options are contraindicated in individuals with poorly controlled hypertension, ischaemic heart disease and significant venous thromboembolic disease. The Committee noted that secondary hypertension commonly occurs in those with renal cell carcinoma due to resection of the tumours through nephrectomy.</p><p><br></p><p><em>First-line therapies in ESMO guidelines</em></p><p>1.19.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Committee considered the following combinations outlined in the ESMO guidelines: axitinib with pembrolizumab, lenvatinib with pembrolizumab, axitinib with avelumab.</p><p>1.20.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Committee noted the following studies evaluating the efficacy and/ or safety of first-line treatments for renal cell carcinoma:</p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol; color: windowtext;\">\u00b7</span><span style=\"color: windowtext; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/34546767/\" target=\"_blank\">Nocera et al. J Urol. 2022;207:16-24</a></p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol; color: windowtext;\">\u00b7</span><span style=\"color: windowtext; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/33757737/\" target=\"_blank\">Quhal et al. Eur Urol Oncol. 2021;4:755-65</a></p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol; color: windowtext;\">\u00b7</span><span style=\"color: windowtext; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/33824031/\" target=\"_blank\">Riaz et al. Eur Urol. 2021;80:712-23</a></p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol; color: windowtext;\">\u00b7</span><span style=\"color: windowtext; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/33112003/\" target=\"_blank\">Heo et al. J Clin Pharm Ther. 2021;46:35-49</a></p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol; color: windowtext;\">\u00b7</span><span style=\"color: windowtext; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/35313232/\" target=\"_blank\">Lombardi et al. Cancer Treat Rev. 2022;106:102377</a></p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol; color: windowtext;\">\u00b7</span><span style=\"color: windowtext; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/29393024/\" target=\"_blank\">Edwards et al. Health Technol Assess. 2018;22:1-278</a></p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol; color: windowtext;\">\u00b7</span><span style=\"color: windowtext; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/29656851/\" target=\"_blank\">Wallis et al. Eur Urol. 2018;74:309-321</a></p><p>1.21.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Committee noted the <a href=\"https://ascopubs.org/doi/abs/10.1200/JCO.2023.41.17_suppl.LBA4501\" target=\"_blank\">Rini et al. 2023. J Clin Oncol 41, 17_suppl LBA4501</a> study reporting the 5-year follow up of the randomised, open-label, phase 3 KEYNOTE-426 trial comparing axitinib with pembrolizumab to sunitinib. Median study follow-up was 67.2 months (range, 60.0-75.0). For axitinib with pembrolizumab compared to sunitinib, the 60-month overall survival rates were 41.9% vs 37.1%, and the 60-months progression free survival rates were 18.3% vs 7.3%. The hazard ratio for overall survival when adjusted for subsequent therapy was 0.67 (95% CI, 0.52-0.84).</p><p>1.22.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Committee noted <a href=\"https://meetings.asco.org/abstracts-presentations/226720\" target=\"_blank\">Motzer et al. J Clin Oncol 41, 2023 (suppl 16; abstr 4502)</a> that reported the 4 year follow up of the phase 3 CLEAR trial comparing the effects of levatinib with pembrolizumab vs sunitinib. At a median follow-up (IQR) of 49.8 months (41.4\u201353.1) for levatinib with pembrolizumab and 49.4 months (41.6\u201352.8) for sunitinib, 149 and 159 deaths occurred, respectively. Overall survival benefit with levatinib with pembrolizumab vs sunitinib was maintained (HR 0.79, 95% CI 0.63\u20130.99). Overall survival favored levatinib with pembrolizumab across MSKCC risk groups (HR, 95% CI; favorable: 0.89, 0.53\u20131.50; intermediate: 0.81, 0.62\u20131.06; poor: 0.59, 0.31\u20131.12). Progression free survival benefit of levatinib plus pembrolizumab vs sunitinib was maintained (HR, 95% CI; 0.47, 0.38\u20130.57), including across all MSKCC risk groups. Objective response rate was greater with levatinib plus pembrolizumab (71.3%; complete response [CR], 18.3%) vs sunitinib (36.7%; CR, 4.8%) (relative risk, 95% CI; 1.94, 1.67\u20132.26). Grade \u22653 treatment-related adverse events occurred in 74.1% and 60.3% in the levatinib plus pembrolizumab vs sunitinib arms, respectively.</p><p>1.23.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Committee noted the <a href=\"https://www.nejm.org/doi/full/10.1056/NEJMoa1816047\" target=\"_blank\">Motzer et al N Engl J Med 2019; 380:1103-15</a> multicentre, randomised, open-label, phase three trial comparing avelumab with axitinib to sunitinib. The median progression-free survival was 13.8 months with avelumab plus axitinib, as compared with 7.2 months with sunitinib (hazard ratio for disease progression or death, 0.61; 95% confidence interval [CI], 0.47 to 0.79; P&lt;0.001); in the overall population, the median progression-free survival was 13.8 months, as compared with 8.4 months (hazard ratio, 0.69; 95% CI, 0.56 to 0.84; P&lt;0.001). Adverse events during treatment occurred in 99.5% in the avelumab-plus-axitinib group and in 99.3% in the sunitinib group.</p><p>1.24.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Committee considered that there was uncertainty when comparing the effects of different treatment combinations. The Committee considered that time to response was potentially faster for combination treatments that involved a VEGF TKI, and that people requiring a rapid cytoreductive response may therefore benefit more from a VEGF TKI-based treatment. However, the Committee considered that the overall survival data was generally stronger for nivolumab with ipilimumab combination immunotherapy compared to the other combination regimens.</p><p>1.25.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Committee considered it would be interested in reviewing other first-line combination therapies outlined in the ESMO guidelines, if applications were received for these agents.\u00a0\u00a0</p><p><br></p><p><br></p><p><em>Health benefit</em></p><p><em>First-line treatment -ipilimumab with nivolumab</em></p><p>1.26.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that ipilimumab is a CTLA-4 immune checkpoint inhibitor, whilst nivolumab is an antibody that binds to the programmed death (PD-1) receptor.</p><p>1.27.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that the combination of ipilimumab with nivolumab is clinically suitable when VEGF TKI treatment is contraindicated. The Committee considered that the contraindications to TKI treatment would likely be quite different to contraindications to immunotherapy treatment. The Committee was uncertain for how many people TKIs were contraindicated, but considered the proportion was likely low.</p><p>1.28.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted <a href=\"https://pubmed.ncbi.nlm.nih.gov/31427204/\" target=\"_blank\">Motzer Lancet Oncol. 2019;20:1370-85</a>, <a href=\"https://pubmed.ncbi.nlm.nih.gov/29562145/\" target=\"_blank\">Motzer et al. N Engl J Med .2018;378:1277-90</a>, <a href=\"https://pubmed.ncbi.nlm.nih.gov/33246931/\" target=\"_blank\">Albiges et al. ESMO Open 2020;5:e001079</a>, and <a href=\"https://pubmed.ncbi.nlm.nih.gov/32661118/\" target=\"_blank\">Motzer et al J Immunother Cancer. 2020;8:e000891</a>, which reported the results of the CheckMate 214 study, a randomised controlled phase 3 trial comparing ipilimumab with nivolumab versus sunitinib in 1096 individuals.</p><p>1.29.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted <a href=\"https://pubmed.ncbi.nlm.nih.gov/33246931/\" target=\"_blank\">Albiges et al. l. ESMO Open 2020;5:e001079</a>, which reported the four year follow up to the trial.</p><p class=\"ql-indent-1\">1.29.1.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>Overall survival (Hazard ratio (HR); 95%CI) was superior with ipilimumab with nivolumab vs sunitinib in intent to treat population (ITT) (0.69; 0.59 to 0.81) and intermediate/poor risk group (I/P) (0.65; 0.54 to 0.78). Four-year progression free survival probabilities were: 31.0% vs 17.3% (ITT) and 32.7% vs 12.3% (I/P), with ipilimumab and nivolumab vs sunitinib. Overall response rate: ipilimumab and nivolumab vs sunitinib in ITT (39.1% vs 32.4%) and I/P (41.9% vs 26.8%). In the favourable group: HRs (95%CI) for overall survival and progression free survival =0.93 (0.62 to 1.40) and 1.84 (1.29 to 2.62).</p><p class=\"ql-indent-1\">1.29.2.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Committee noted that in those with favourable risk the progression free survival outcomes favoured sunitinib (HR 1.84; 95%\u2009CI 1.29 to 2.62), with 4-year progression free survival probabilities of 25.4% with ipilimumab and nivolumab vs 31.6% with sunitinib. However, the difference in progression free survival probabilities across arms has decreased over time.</p><p class=\"ql-indent-1\">1.29.3.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Committee considered that those with intermediate or poor IMDC prognosis gained significant benefit from nivolumab with ipilimumab. The Committee considered that the evidence available suggested that nivolumab with ipilimumab offered no incremental health benefit for those with favourable risk status, and treatment may even be associated with harm given the adverse event profile. The Committee noted that evidence for the favourable risk group was from an unplanned exploratory retrospective subgroup analysis and therefore was subject to a greater degree of uncertainty.</p><p class=\"ql-indent-1\">1.29.4.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Committee considered the trial to be well powered, randomised and with the control arm treatment relevant to the New Zealand population and clinical setting.</p><p class=\"ql-indent-1\">1.29.5.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0</span>The Committee noted that treatment related adverse events leading to discontinuation occurred more frequently in the ipilimumab/nivolumab arm (22% vs 12%). No new safety signals were detected in this trial, with the treatment adverse events occurring in line with the expected experience with these agents. The Committee considered that many of the toxicities experienced on first-line sunitinib were relatively straightforward to treat, and that it was uncommon for these adverse events to require hospitalisation. The Committee further considered that the adverse events experienced on first-line sunitinib often resolved upon discontinuation of treatment. The Committee considered that the immune-related adverse events experienced with nivolumab in combination with ipilimumab can be complex and may require treatment even after treatment discontinuation.</p><p>1.30.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted the <a href=\"https://pubmed.ncbi.nlm.nih.gov/30658932/\" target=\"_blank\">Cella et al. Lancet Oncol. 2019;20:297-310</a> publication that reported the patient-reported outcomes (PROs) of those in CheckMate 214. PROs were more favourable with nivolumab plus ipilimumab vs sunitinib up to 103 weeks after baseline. Treatment with nivolumab plus ipilimumab reported significant improvements in 4/5 Functional Assessment of Cancer Therapy Kidney Symptom Index-19 (FKSI-19) domains (including disease-related symptoms, physical disease-related symptoms, treatment side-effects, and functional wellbeing) and Functional Assessment of Cancer Therapy-General physical and functional wellbeing domains. The Committee noted that the evidence from this publication suggested nivolumab with ipilimumab treatment resulted in improved health-related quality of life compared to sunitinib.</p><p>1.31.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted <a href=\"https://pubmed.ncbi.nlm.nih.gov/32873572/\" target=\"_blank\">Tannir et al. Clin Cancer Res. 2021;27:78-86</a>, a post hoc analysis of CheckMate 214 that reported efficacy for nivolumab with ipilimumab versus sunitinib in advanced renal cell carcinoma with sarcomatoid features. Progression free survival benefits with nivolumab plus ipilimumab were observed [median 26.5 vs. 5.1 months; HR, 0.54 (95% CI, 0.33-0.86; P = 0.0093)]. The confirmed objective response rate was 60.8% with nivolumab plus ipilimumab versus 23.1% with sunitinib, with complete response rates of 18.9% versus 3.1%, respectively.</p><p>1.32.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that if an individual\u2019s disease had a sarcomatoid component then clinicians may favour treatment with nivolumab plus ipilimumab due to the health benefit for this population reported in <a href=\"https://pubmed.ncbi.nlm.nih.gov/32873572/\" target=\"_blank\">Tannir et al. 2021</a>.</p><p>1.33.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted the following studies:</p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol; color: windowtext;\">\u00b7</span><span style=\"color: windowtext; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/31633185/\" target=\"_blank\">Tomita et al. Jpn J Clin Oncol. 2020;50:12-19.</a></p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol; color: windowtext;\">\u00b7</span><span style=\"color: windowtext; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/35442713/\" target=\"_blank\">Atkins et al. J Clin Oncol. 2022;40:2913-23</a></p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol; color: windowtext;\">\u00b7</span><span style=\"color: windowtext; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/28678668/\" target=\"_blank\">Hammers et al. J Clin Oncol. 2017;35:3851-58</a></p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/31732098/\" target=\"_blank\">Escudier et al. Eur Urol. 2020;77:449-53</a>.</p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol; color: windowtext;\">\u00b7</span><span style=\"color: windowtext; font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/34784056/\" target=\"_blank\">Emaekhoo et al. Cancer. 2022;128:966-74</a></p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/33058158/\" target=\"_blank\">Hofmann et al. Cochrane Database Syst Rev. 2020;14;10:CD012796.</a></p><p><br></p><p><em>Suitability</em></p><p>1.34.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that the currently funded first-line treatments are orally administered, and therefore other first or second-line treatments which require intravenous infusion would increase the need for a person to travel to infusion centres. This would also increase the need for infusion service time. The Committee noted there would be an increase in the travel time for the person undertaking treatment and their wh\u0101nau.</p><p><br></p><p><em>Cost and savings</em></p><p>1.35.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that due to the safety profile of the ipilimumab with nivolumab combination, there would be a small subset of people with poorer performance status (ECOG&gt;2) who would not receive this treatment.</p><p>1.36.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that the currently funded first-line treatments are orally administered, and therefore other first and second-line treatments which require intravenous infusion would increase the need for infusion service time and staff to be able to administer the treatment.</p><p>1.37.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that while most immune related toxicities would be managed with corticosteroids, there would be a small number of people with refractory or severe toxicity that requires agents such as infliximab for diarrhoea (where &lt;1% would experience diarrhoea, of whom only a small proportion would require infliximab). The Committee considered that there may be a potential increase in the use of radiology imaging if treatments were funded for people with good prognosis (who otherwise would not need imaging clinically).</p><p>1.38.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered there may be an increase in laboratory testing over the current standard of care options.</p><p>1.39.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that a number of individuals with good prognosis disease would not require immediate treatment and would be observed for a period, but considered that quantifying this number would be difficult.</p><p><br></p><p><em>Funding criteria</em></p><p>1.40.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered those with intermediate or poor risk status would gain the most health benefit from treatment with nivolumab with ipilimumab, with less evidence available to support clinical benefit for those with favourable risk status. The Committee considered that for nivolumab with cabozantinib, the evidence of benefit appeared to be strongest for those with poor risk, but that it appeared that those with favourable risk would derive benefit.\u00a0</p>",
+          "Status_History__c": "a13OZ000004HZAXYA4"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Jul 2023",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Following Clinical Advice, Pharmac staff considers the advice and the funding application under goes an assessment using our&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/factors-for-consideration/\" rel=\"nofollow\">Factors for Consideration</a>&nbsp;framework and seeks additional information as required.</p>\r\n<p>&nbsp;</p>\r\n<p>Research and Economic analysis are undertaken.&nbsp; This focuses on the costs and benefits of a proposed course of action. Economics is based on three fundamental concepts that summarise the issues Pharmac faces daily:&nbsp;</p>\r\n<ul>\r\n<li>Scarcity &ndash; resources will always be insufficient to support all possible activities.</li>\r\n<li>Choices &ndash; due to scarce resources, decisions must be made about how best to use them.</li>\r\n<li>Opportunity cost &ndash; by choosing to use resources one way, we forgo other opportunities to use the same resources.</li>\r\n</ul>\r\n<p>&nbsp;</p>\r\n<p>For further information on the purpose of, and techniques for, undertaking economic analysis in health care, please refer&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/economic-analysis/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/economic-analysis/</a></p>",
+    "position": 2,
+    "name": "Under Assessment",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Feb 2024",
+          "fs": "Feb 2024",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Working to compare options",
+          "fs": "Working to compare options",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000M95FN2AZ"
+          },
+          "Id": "a0POZ00000M95FN2AZ",
+          "Event_Date__c": "2024-02-08",
+          "Event_Description__c": "Working to compare options",
+          "Stage__c": "Under Assessment",
+          "Formatted_Date__c": "Feb 2024",
+          "Status_History__c": "a13OZ000006cMKFYA2"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Feb 2024",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Pharmac staff uses a prioritisation process to compare and rank funding options. Possible opportunities for new investment will always exceed the budget Pharmac has available; therefore, prioritisation is an intrinsic part of Pharmac\u2019s decision-making process.</p>\r\n<p>The relative ranking of options aims to support Pharmac&rsquo;s statutory objective &ldquo;to secure for eligible people in need of pharmaceuticals, the best health outcomes that are reasonably achievable from pharmaceutical treatment and from within the amount of funding provided&rdquo;.</p>\r\n<p>A funding application or proposal is considered ready for prioritisation when sufficient information is available to permit it to be reviewed against Pharmac's Factors for Consideration and to inform a comparison with other possible investment decisions.</p>\r\n<p>There is no guarantee when or if a ranked medicine will be funded.&nbsp;&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/prioritisation/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/prioritisation/</a></p>",
+    "position": 3,
+    "name": "Options Compared",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Sep 2024",
+          "fs": "Sep 2024",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "The relative ranking of the pharmaceutical application has been completed.",
+          "fs": "The relative ranking of the pharmaceutical application has been completed.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000M95FO2AZ"
+          },
+          "Id": "a0POZ00000M95FO2AZ",
+          "Event_Date__c": "2024-09-09",
+          "Event_Description__c": "The relative ranking of the pharmaceutical application has been completed.",
+          "Stage__c": "Options Compared",
+          "Formatted_Date__c": "Sep 2024",
+          "Status_History__c": "a13OZ00000E40w2YAB"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Feb 2025",
+          "fs": "Feb 2025",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "The relative ranking of the pharmaceutical application has been completed.",
+          "fs": "The relative ranking of the pharmaceutical application has been completed.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000M95FR2AZ"
+          },
+          "Id": "a0POZ00000M95FR2AZ",
+          "Event_Date__c": "2025-02-05",
+          "Event_Description__c": "The relative ranking of the pharmaceutical application has been completed.",
+          "Stage__c": "Options Compared",
+          "Formatted_Date__c": "Feb 2025",
+          "Status_History__c": "a13OZ00000JhjTjYAJ"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Sep 2024",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Pharmac is consulting on a proposal to either approve or decline the application.&nbsp;We seek the views of all people who have an interest in our proposals, or who may be affected by them, to obtain feedback on our proposed approaches.</p>\r\n<p><a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/having-your-say/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/having-your-say/</a></p>",
+    "position": 4,
+    "name": "Under Consultation",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Dec 2024",
+          "fs": "Dec 2024",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Public consultation for this application is active.",
+          "fs": "Public consultation for this application is active.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000M95FP2AZ"
+          },
+          "Id": "a0POZ00000M95FP2AZ",
+          "Event_Date__c": "2024-12-19",
+          "Event_Description__c": "Public consultation for this application is active.",
+          "Stage__c": "Under Consultation",
+          "Formatted_Date__c": "Dec 2024",
+          "Status_History__c": "a13OZ00000K3DhxYAF"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Dec 2024",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Following the consultation process, Pharmac staff considers the feedback and identifies any additional information required as part of a gap analysis.&nbsp; The proposal may require further clinical advice, research, and assessment.</p>",
+    "position": 5,
+    "name": "Reviewing Consultation Feedback",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Jan 2025",
+          "fs": "Jan 2025",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Public consultation for this application is now closed. Pharmac is reviewing consultation feedback.",
+          "fs": "Public consultation for this application is now closed. Pharmac is reviewing consultation feedback.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000M95FQ2AZ"
+          },
+          "Id": "a0POZ00000M95FQ2AZ",
+          "Event_Date__c": "2025-01-27",
+          "Event_Description__c": "Public consultation for this application is now closed. Pharmac is reviewing consultation feedback.",
+          "Stage__c": "Reviewing Consultation Feedback",
+          "Formatted_Date__c": "Jan 2025",
+          "Status_History__c": "a13OZ00000K31leYAB"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Jan 2025",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>We refer to our decisions about whether and how particular pharmaceuticals are publicly-funded, as &ldquo;funding decisions&rdquo;.</p>\r\n<p>We consider and assess all funding decisions using the&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/about/operating-policies-and-procedures/#factorsfc\" rel=\"nofollow\">Factors for Consideration</a>. When we do so, we carefully evaluate clinical and other evidence for the benefits and suitability of a proposal, and to identify and understand the people who will be affected by it.</p>\r\n<p>While our main task is to allocate pharmaceutical funding, we consider the benefits and costs across the whole health system now and with a long-term focus, including the effects for hospitals and primary care, and consider direct costs to patients as well as to all health sector budgets.</p>\r\n<p>Final funding decisions are made by the Pharmac Board or delegated to senior Pharmac staff as required by the Board.</p>\r\n<p>&nbsp;</p>",
+    "position": 6,
+    "name": "Decision",
+    "last": true,
+    "events": [
+      {
+        "Summary": {
+          "s": "<p><a href=\"https://www.pharmac.govt.nz/news-and-resources/consultations-and-decisions/2025-03-decision-to-fund-treatments-for-kidney-cancer\" target=\"_blank\" style=\"color: rgb(11, 92, 171); background-color: rgb(255, 255, 255);\">Notification</a></p>",
+          "fs": "<p><a href=\"https://www.pharmac.govt.nz/news-and-resources/consultations-and-decisions/2025-03-decision-to-fund-treatments-for-kidney-cancer\" target=\"_blank\" style=\"color: rgb(11, 92, 171); background-color: rgb(255, 255, 255);\">Notification</a></p>",
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Mar 2025",
+          "fs": "Mar 2025",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "The funding application has been approved.",
+          "fs": "The funding application has been approved.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000M95FS2AZ"
+          },
+          "Id": "a0POZ00000M95FS2AZ",
+          "Event_Date__c": "2025-03-12",
+          "Event_Description__c": "The funding application has been approved.",
+          "Stage__c": "Decision",
+          "Summary__c": "<p><a href=\"https://www.pharmac.govt.nz/news-and-resources/consultations-and-decisions/2025-03-decision-to-fund-treatments-for-kidney-cancer\" target=\"_blank\" style=\"color: rgb(11, 92, 171); background-color: rgb(255, 255, 255);\">Notification</a></p>",
+          "Formatted_Date__c": "Mar 2025",
+          "Status_History__c": "a13OZ00000OC3ahYAD"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Mar 2025",
+    "collapsed": false,
+    "checked": true
+  }
+]

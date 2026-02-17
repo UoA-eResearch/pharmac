@@ -36,12 +36,10 @@ for record_id in tqdm(df.Id):
             "aura.token": "null",
         },
     ).json()
-    by_id = {}
-    for a in resp["actions"]:
-        by_id[a["id"]] = a
     os.makedirs("applications", exist_ok=True)
     try:
-        df = pd.DataFrame(json.loads(by_id["108;a"]["returnValue"]))
-        df.to_csv(f"applications/{record_id}.csv")
+        with open(f"applications/{record_id}.json", "w") as f:
+            data = json.loads(resp["actions"][0]["returnValue"])
+            json.dump(data, f, indent=2)
     except Exception as e:
         print(f"Error for {record_id}: {e}")

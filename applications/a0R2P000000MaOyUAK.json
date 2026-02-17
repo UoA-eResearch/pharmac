@@ -1,0 +1,444 @@
+[
+  {
+    "text": "<p>New funding applications are referred to one of Pharmac's Funding Application Advisors (FAAs), who'll review the application to ensure they have the relevant information to undertake a preliminary analysis.&nbsp; They may seek more information if required.</p>\r\n<p><a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/new-funding-applications/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/new-funding-applications/</a></p>",
+    "position": 0,
+    "name": "Application Received",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Oct 2014",
+          "fs": "Oct 2014",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Application received",
+          "fs": "Application received",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P000003rNLJUA2"
+          },
+          "Id": "a0P2P000003rNLJUA2",
+          "Event_Date__c": "2014-10-01",
+          "Event_Description__c": "Application received",
+          "Stage__c": "Application Received",
+          "Formatted_Date__c": "Oct 2014",
+          "Status_History__c": "a132P000000AqnAQAS"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Mar 2015",
+          "fs": "Mar 2015",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Application received",
+          "fs": "Application received",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P000003rNLKUA2"
+          },
+          "Id": "a0P2P000003rNLKUA2",
+          "Event_Date__c": "2015-03-13",
+          "Event_Description__c": "Application received",
+          "Stage__c": "Application Received",
+          "Formatted_Date__c": "Mar 2015",
+          "Status_History__c": "a132P000000AqssQAC"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Oct 2014",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Pharmac is identifying and gathering information required to get clinical advice.  The <a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/pharmacology-and-therapeutics-advisory-committee-ptac/\" rel=\"nofollow\">Pharmacology and Therapeutics Advisory Committee (PTAC)</a>  meets quarterly. There are also around 20 expert <a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/specialist-advisory-committees/\" rel=\"nofollow\">Specialist Advisory Committees (SACs)</a>, previously expert Subcommittees, which provide clinical evaluations in specialist areas. Specialist Advisory Committees meet as required to discuss issues referred to them by PTAC or Pharmac.</p>\n<p style=\"height: 20px\">&nbsp;</p>\n<p>In November 2021, we introduced separate terms of reference for the SACs to make clear that these committees have different, but complementary, roles, expertise and perspectives to PTAC.</p>\n<p style=\"height: 15px\">&nbsp;</p>\n<p>PTAC and SACs may make recommendations to Pharmac that differ from each other when looking at the same evidence. Pharmac considers the recommendations provided by all our clinical advisory committees when assessing applications.</p>\n<p style=\"height: 20px\">&nbsp;</p>\n<p><a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/pharmacology-and-therapeutics-advisory-committee-ptac/ptac-terms-of-reference-july-2021/\" rel=\"nofollow\">PTAC</a>  and <a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/specialist-advisory-committees/specialist-advisory-committee-terms-of-reference//\" rel=\"nofollow\">Specialist Advisory Committees</a> records of the meeting will be published on this website in accordance with the Terms of Reference.</p>",
+    "position": 1,
+    "name": "Seeking Clinical Advice",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": "<p>1.1.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee <b>recommended</b> that bedaquiline be funded with a <b>high priority</b> for the treatment of multidrug-resistant tuberculosis (MDR-TB) based on high health need and good evidence supporting the efficacy and safety of bedaquiline.</p><p>1.2.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that in making the above recommendation, it was important to consider the recent update in MDR-TB treatment guidelines from the World Health Organization, which included bedaquiline as one of the Group A agents in the MDR-TB treatment regimen. The Committee considered that bedaquiline for the treatment of MDR-TB should be listed subject to the following Special Authority criteria:</p><p>\t<span style=\"font-size: 9pt;\">BEDAQUILINE \u2013 Special Authority for Subsidy </span></p><p><b style=\"font-size: 9pt;\">Initial application</b><span style=\"font-size: 9pt;\"> </span><b style=\"font-size: 9pt;\">\u2013 (tuberculosis - multidrug-resistant).</b><span style=\"font-size: 9pt;\"> From any relevant practitioner. Approvals valid for 6 months for applications meeting the following criteria:</span></p><p>\t<span style=\"font-size: 9pt;\">Both:</span></p><p><span style=\"font-size: 9pt;\">1.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">The patient has multidrug-resistant tuberculosis (MDR-TB); and</span></p><p><span style=\"font-size: 9pt;\">2.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">The Ministry of Health\u2019s Tuberculosis Clinical Network has reviewed the patient case and recommends bedaquiline as part of the treatment regimen. </span></p><p>1.3.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered<b> </b>that PHARMAC could seek advice from the National Tuberculosis Clinical Network to clarify whether rifampicin-resistant tuberculosis (RR-TB) should be treated with the same regimen and circumstances with bedaquiline as for MDR-TB.\u00a0</p>",
+          "fs": "<p>1.1.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee <b>recommended</b> that bedaquiline be funded with a <b>high priority</b> for the treatment of multidrug-resistant tuberculosis (MDR-TB) based on high health need and good evidence supporting the efficacy and safety of bedaquiline.</p><p>1.2.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that in making the above recommendation, it was important to consider the recent update in MDR-TB treatment guidelines from the World Health Organization, which included bedaquiline as one of the Group A agents in the MDR-TB treatment regimen. The Committee considered that bedaquiline for the treatment of MDR-TB should be listed subject to the following Special Authority criteria:</p><p>\t<span style=\"font-size: 9pt;\">BEDAQUILINE \u2013 Special Authority for Subsidy </span></p><p><b style=\"font-size: 9pt;\">Initial application</b><span style=\"font-size: 9pt;\"> </span><b style=\"font-size: 9pt;\">\u2013 (tuberculosis - multidrug-resistant).</b><span style=\"font-size: 9pt;\"> From any relevant practitioner. Approvals valid for 6 months for applications meeting the following criteria:</span></p><p>\t<span style=\"font-size: 9pt;\">Both:</span></p><p><span style=\"font-size: 9pt;\">1.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">The patient has multidrug-resistant tuberculosis (MDR-TB); and</span></p><p><span style=\"font-size: 9pt;\">2.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">The Ministry of Health\u2019s Tuberculosis Clinical Network has reviewed the patient case and recommends bedaquiline as part of the treatment regimen. </span></p><p>1.3.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered<b> </b>that PHARMAC could seek advice from the National Tuberculosis Clinical Network to clarify whether rifampicin-resistant tuberculosis (RR-TB) should be treated with the same regimen and circumstances with bedaquiline as for MDR-TB.\u00a0</p>",
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": "<p>1.1.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that tuberculosis (TB) is a bacterial infection caused by <i>Mycobacterium tuberculosis</i> and is a leading cause of morbidity and mortality worldwide. The Committee considered that TB poses a great public health risk of spread if the index case is not adequately treated, as one person with active TB can infect more than one in four of their close contacts. </p><p>1.2.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that MDR-TB is defined as resistant to two essential first-line tuberculosis treatments as prescribed by the <a href=\"https://www.health.govt.nz/publication/guidelines-tuberculosis-control-new-zealand-2019\" target=\"_blank\">Ministry of Health (MOH) tuberculosis guidelines</a> (sourced from the World Health Organization [WHO]), isoniazid and rifampicin. The Committee noted MDR-TB has a high mortality rate of 40%, and that 5% of all cases of tuberculosis are classed as MDR-TB but they account for about a third of the total healthcare cost of tuberculosis. </p><p>1.3.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted the treatment regimen from the latest guidelines from the WHO published in 2019 (<a href=\"https://apps.who.int/iris/bitstream/handle/10665/311389/9789241550529-eng.pdf?ua=1\" target=\"_blank\">WHO consolidated guidelines on drug-resistant tuberculosis treatment</a>) comprising of three Group A agents, a fluoroquinolone (either levofloxacin or moxifloxacin), bedaquiline and linezolid, and two Group B agents, clofazimine and cycloserine. The Committee noted that Group C agents should only be used in place of Group A or B agents if they are contraindicated. </p><p>1.4.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that bedaquiline 100 mg tablet had been approved by <a href=\"https://medsafe.govt.nz/regulatory/ProductDetail.asp?ID=17632\" target=\"_blank\">Medsafe</a> in 2016. The Committee noted that bedaquiline is indicated in adults (&gt;18 years) as part of a combination therapy of MDR-TB. The Committee also noted the approved dosing regimen of 400 mg (four tablets) once daily for two weeks, then 200 mg (two tablets) three times per week with at least 48 hours between doses. </p><p>1.5.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered the duration of treatment for bedaquiline as a period of 24 weeks. The Committee noted the advice to discontinue bedaquiline four to five months prior to discontinuing other drugs in the treatment regimen, as bedaquiline has a terminal half-life of four to five months which risks antimicrobial resistance to bedaquiline developing if other agents are taken for insufficient time after stopping bedaquiline. </p><p>1.6.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that a funding application for bedaquiline for the treatment of MDR-TB has been considered by PHARMAC previously. The Committee noted that the Rare Disorders Subcommittee considered the application at its November 2014 meeting and recommended that the Anti-Infective Subcommittee be asked for clinical advice regarding appropriate restrictions on the use of bedaquiline and whether there would be any safety concerns with listing bedaquiline. The Committee noted that the Anti-Infective Subcommittee recommended bedaquiline be funded with a high priority for the treatment of extensively drug-resistant tuberculosis (XDR-TB), on the recommendation of the Ministry of Health MDR-TB Committee at its December 2014 meeting. The Committee noted that both the Anti-Infective Subcommittee and the Rare Disorders Subcommittee noted the unexplained increased mortality in the bedaquiline group in the phase-II, placebo-controlled, double-blind, randomised trial by Diacon et al (<a href=\"https://www.ncbi.nlm.nih.gov/pubmed/25140958\" target=\"_blank\">N Eng J Med. 2014;371:723-32</a>). The Committee noted that it had previously reviewed and accepted the minutes from the respective PTAC Subcommittees (<a href=\"https://www.pharmac.govt.nz/assets/ptac-minutes-2015-02.pdf\" target=\"_blank\">PTAC February 2015 minutes</a>, <a href=\"https://www.pharmac.govt.nz/assets/ptac-minutes-2015-05-updated.pdf\" target=\"_blank\">PTAC May 2015 minutes</a>).\u00a0</p><p>1.7.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted the latest <a href=\"https://apps.who.int/iris/bitstream/handle/10665/311389/9789241550529-eng.pdf?ua=1\" target=\"_blank\">WHO guidelines</a>, which incorporate a meta-analysis of 13,104 patient level data records from 53 studies in 40 countries investigating bedaquiline in MDR-TB. The Committee noted the rate of treatment failure was lower in patients receiving bedaquiline (11.6%) compared with those who did not (48.8%). The Committee noted that treatment failure would require further treatment with other toxic medications and result in patient seclusion/isolation for longer duration of time, especially in regions without infection control isolation facilities with adequate negative pressure etc. The Committee noted that fewer deaths were observed with those taking bedaquiline (15%) when compared with those not taking bedaquiline (22.8%). </p><p>1.8.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted the results from a phase-II, placebo-controlled, double-blind, randomised trial with 208 participants to evaluate the anti-bacterial activity of bedaquiline as part of a combination therapy of MDR-TB (<a href=\"https://www.ncbi.nlm.nih.gov/pubmed/25140958\" target=\"_blank\">Diacon et al, N Eng J Med. 2014;371:723-32</a>). The Committee noted the reduction in the median time to culture conversion in the bedaquiline group (83 days) compared with the placebo group (125 days). The Committee also noted the higher rates of cure observed in the bedaquiline group (58%) compared with placebo group (32%). </p><p>1.9.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted the results from a phase-II, multicentre, open label, single arm study with 241 participants to evaluate the efficacy of bedaquiline as part of an individualised MDR-TB treatment regimen (<a href=\"https://erj.ersjournals.com/content/47/2/564.long\" target=\"_blank\">Pym et al, Eur Respir J. 2016;47(2):564-74</a>). The Committee noted the proportion of patients in the bedaquiline group with confirmed culture conversion at weeks 24 in C209 (79.5%) was similar to that of C208 (72.2%). The Committee also noted the higher rates of cure observed in the bedaquiline group (61%) compared with the placebo group (57.6%). The Committee noted that none of the deaths observed in the bedaquiline group appeared directly related to bedaquiline; reported causes of death included tuberculosis-related illness, haemoptysis, renal impairment, respiratory failure, congestive cardiac failure, and hypertension.\u00a0\u00a0\u00a0</p><p>1.10.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted the results from a meta-analysis based on pooled data from five cohorts of 537 patients treated with bedaquiline in France, Georgia, Armenia, and South Africa (<a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6478224/\" target=\"_blank\">Lawrence et al, Emerg Infect Dis. 2019 May; 25(5): 936\u2013943</a>). The Committee noted positive results for rate of culture conversion at 6 months (78%), treatment success (65.8%) and death (11.7%). The Committee also noted that the results were positive despite many patients suffering from \u201ccavitating diseases\u201d such as HIV (120 patients) and extensively-drug resistant tuberculosis (77 patients). </p><p>1.11.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted the following evidence for bedaquiline as part of MDR-TB treatment regime: </p><p>1.11.1.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>Compassionate use of bedaquiline for the treatment of multidrug-resistant and extensively drug-resistant tuberculosis: interim analysis of a French cohort (<a href=\"https://www.ncbi.nlm.nih.gov/pubmed/25320286\" target=\"_blank\">Guglielmetti et al. Clin Infect Dis. 2015;60(2):188-94</a>).</p><p>1.11.2.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>Effect of bedaquiline on mortality in South African patients with drug-resistant tuberculosis: a retrospective cohort study (<a href=\"https://www.ncbi.nlm.nih.gov/pubmed/30001994\" target=\"_blank\">Schnippel et al. Lancet Respir Med. 2018;6(9):699-706</a>), in which 24,014 tuberculosis cases were registered in the EDRweb between 1 July 2014 and 31 March 2016, with 19,617 patients initiated treatment and meeting analysis eligibility criteria. Bedaquiline-containing regimens were given to 743 (4.0%) patients with MDR-TB or RR-TB. Of the 1016 patients who received bedaquiline, 128 died (12.6%); the Committee noted that 4,612 deaths (24.8%) occurred among 18,601 patients on the standard regimens. Bedaquiline was therefore associated with a two-thirds reduction in the risk of all-cause mortality for patients with multidrug-resistant or rifampicin-resistant tuberculosis (hazard ratio 0.35, 95% CI 0\u00b728\u20130\u00b746) compared with standard regimens.</p><p>1.12.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted one randomised controlled trial submitted by the applicant, but that several non-randomised studies have supported the evidence for bedaquiline as part of individualised multidrug MDR-TB treatment regimen. The Committee noted that in order to comply with the latest guidelines from the World Health Organization, bedaquiline would need to be made available for the treatment of MDR-TB. </p><p>1.13.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered the use of amikacin, one of the second-line anti-tuberculosis agents, as an alternative to bedaquiline. The Committee considered that although this Group C agent has comparable efficacy to Group A agents, amikacin has an unfavourable toxicity profile, being associated with renal impairment, hearing loss and vestibular dysfunction. </p><p>1.14.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered the cardiovascular toxicity profile of bedaquiline, noting that it prolongs the QT interval, especially in combination with moxifloxacin. The Committee noted that very few people stop bedaquiline due to cardiotoxicity, although patients may switch from moxifloxacin to levofloxacin to reduce the combined effect on QT interval. The Committee noted that all patients on bedaquiline would require ECG and serum electrolyte monitoring in line with established guidelines. </p><p>1.15.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that bedaquiline results in a more rapid culture conversion compared with other agents, and this in turn would reduce the isolation time required in hospital i.e. being infected with a difficult to treat fatal organism prior to culture conversion. The Committee considered bedaquiline may also lessen the risk of transmission to healthcare workers and other members of the community, where generally patients could be treated in outpatient and community settings. The Committee noted that bedaquiline enables outpatient oral treatment for extrapulmonary TB and pulmonary TB that is no longer infectious.</p><p>1.16.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered there would be positive health outcomes and reductions in total healthcare costs by adding bedaquiline to current treatment regimens. The Committee noted the potential reduction in total healthcare costs and increased disability-adjusted life years when bedaquiline is added to the individualised MDR-TB treatment regimen. </p><p>1.17.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that resistance to anti-tuberculosis agents is increasing globally, which may impact on the number of imported cases seen in New Zealand. The Committee considered that the expected number of cases in New Zealand could be approximately 4-7 per year.</p><p>1.18.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that over 78% of TB patients are born outside of New Zealand, and the highest incidence rates of MDR-TB is observed mainly in refugee populations. The Committee considered that MDR-TB does not have a disproportionate impact on M\u0101ori health.</p>",
+          "fs": "<p>1.1.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that tuberculosis (TB) is a bacterial infection caused by <i>Mycobacterium tuberculosis</i> and is a leading cause of morbidity and mortality worldwide. The Committee considered that TB poses a great public health risk of spread if the index case is not adequately treated, as one person with active TB can infect more than one in four of their close contacts. </p><p>1.2.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that MDR-TB is defined as resistant to two essential first-line tuberculosis treatments as prescribed by the <a href=\"https://www.health.govt.nz/publication/guidelines-tuberculosis-control-new-zealand-2019\" target=\"_blank\">Ministry of Health (MOH) tuberculosis guidelines</a> (sourced from the World Health Organization [WHO]), isoniazid and rifampicin. The Committee noted MDR-TB has a high mortality rate of 40%, and that 5% of all cases of tuberculosis are classed as MDR-TB but they account for about a third of the total healthcare cost of tuberculosis. </p><p>1.3.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted the treatment regimen from the latest guidelines from the WHO published in 2019 (<a href=\"https://apps.who.int/iris/bitstream/handle/10665/311389/9789241550529-eng.pdf?ua=1\" target=\"_blank\">WHO consolidated guidelines on drug-resistant tuberculosis treatment</a>) comprising of three Group A agents, a fluoroquinolone (either levofloxacin or moxifloxacin), bedaquiline and linezolid, and two Group B agents, clofazimine and cycloserine. The Committee noted that Group C agents should only be used in place of Group A or B agents if they are contraindicated. </p><p>1.4.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that bedaquiline 100 mg tablet had been approved by <a href=\"https://medsafe.govt.nz/regulatory/ProductDetail.asp?ID=17632\" target=\"_blank\">Medsafe</a> in 2016. The Committee noted that bedaquiline is indicated in adults (&gt;18 years) as part of a combination therapy of MDR-TB. The Committee also noted the approved dosing regimen of 400 mg (four tablets) once daily for two weeks, then 200 mg (two tablets) three times per week with at least 48 hours between doses. </p><p>1.5.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered the duration of treatment for bedaquiline as a period of 24 weeks. The Committee noted the advice to discontinue bedaquiline four to five months prior to discontinuing other drugs in the treatment regimen, as bedaquiline has a terminal half-life of four to five months which risks antimicrobial resistance to bedaquiline developing if other agents are taken for insufficient time after stopping bedaquiline. </p><p>1.6.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that a funding application for bedaquiline for the treatment of MDR-TB has been considered by PHARMAC previously. The Committee noted that the Rare Disorders Subcommittee considered the application at its November 2014 meeting and recommended that the Anti-Infective Subcommittee be asked for clinical advice regarding appropriate restrictions on the use of bedaquiline and whether there would be any safety concerns with listing bedaquiline. The Committee noted that the Anti-Infective Subcommittee recommended bedaquiline be funded with a high priority for the treatment of extensively drug-resistant tuberculosis (XDR-TB), on the recommendation of the Ministry of Health MDR-TB Committee at its December 2014 meeting. The Committee noted that both the Anti-Infective Subcommittee and the Rare Disorders Subcommittee noted the unexplained increased mortality in the bedaquiline group in the phase-II, placebo-controlled, double-blind, randomised trial by Diacon et al (<a href=\"https://www.ncbi.nlm.nih.gov/pubmed/25140958\" target=\"_blank\">N Eng J Med. 2014;371:723-32</a>). The Committee noted that it had previously reviewed and accepted the minutes from the respective PTAC Subcommittees (<a href=\"https://www.pharmac.govt.nz/assets/ptac-minutes-2015-02.pdf\" target=\"_blank\">PTAC February 2015 minutes</a>, <a href=\"https://www.pharmac.govt.nz/assets/ptac-minutes-2015-05-updated.pdf\" target=\"_blank\">PTAC May 2015 minutes</a>).\u00a0</p><p>1.7.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted the latest <a href=\"https://apps.who.int/iris/bitstream/handle/10665/311389/9789241550529-eng.pdf?ua=1\" target=\"_blank\">WHO guidelines</a>, which incorporate a meta-analysis of 13,104 patient level data records from 53 studies in 40 countries investigating bedaquiline in MDR-TB. The Committee noted the rate of treatment failure was lower in patients receiving bedaquiline (11.6%) compared with those who did not (48.8%). The Committee noted that treatment failure would require further treatment with other toxic medications and result in patient seclusion/isolation for longer duration of time, especially in regions without infection control isolation facilities with adequate negative pressure etc. The Committee noted that fewer deaths were observed with those taking bedaquiline (15%) when compared with those not taking bedaquiline (22.8%). </p><p>1.8.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted the results from a phase-II, placebo-controlled, double-blind, randomised trial with 208 participants to evaluate the anti-bacterial activity of bedaquiline as part of a combination therapy of MDR-TB (<a href=\"https://www.ncbi.nlm.nih.gov/pubmed/25140958\" target=\"_blank\">Diacon et al, N Eng J Med. 2014;371:723-32</a>). The Committee noted the reduction in the median time to culture conversion in the bedaquiline group (83 days) compared with the placebo group (125 days). The Committee also noted the higher rates of cure observed in the bedaquiline group (58%) compared with placebo group (32%). </p><p>1.9.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted the results from a phase-II, multicentre, open label, single arm study with 241 participants to evaluate the efficacy of bedaquiline as part of an individualised MDR-TB treatment regimen (<a href=\"https://erj.ersjournals.com/content/47/2/564.long\" target=\"_blank\">Pym et al, Eur Respir J. 2016;47(2):564-74</a>). The Committee noted the proportion of patients in the bedaquiline group with confirmed culture conversion at weeks 24 in C209 (79.5%) was similar to that of C208 (72.2%). The Committee also noted the higher rates of cure observed in the bedaquiline group (61%) compared with the placebo group (57.6%). The Committee noted that none of the deaths observed in the bedaquiline group appeared directly related to bedaquiline; reported causes of death included tuberculosis-related illness, haemoptysis, renal impairment, respiratory failure, congestive cardiac failure, and hypertension.\u00a0\u00a0\u00a0</p><p>1.10.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted the results from a meta-analysis based on pooled data from five cohorts of 537 patients treated with bedaquiline in France, Georgia, Armenia, and South Africa (<a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6478224/\" target=\"_blank\">Lawrence et al, Emerg Infect Dis. 2019 May; 25(5): 936\u2013943</a>). The Committee noted positive results for rate of culture conversion at 6 months (78%), treatment success (65.8%) and death (11.7%). The Committee also noted that the results were positive despite many patients suffering from \u201ccavitating diseases\u201d such as HIV (120 patients) and extensively-drug resistant tuberculosis (77 patients). </p><p>1.11.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted the following evidence for bedaquiline as part of MDR-TB treatment regime: </p><p>1.11.1.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>Compassionate use of bedaquiline for the treatment of multidrug-resistant and extensively drug-resistant tuberculosis: interim analysis of a French cohort (<a href=\"https://www.ncbi.nlm.nih.gov/pubmed/25320286\" target=\"_blank\">Guglielmetti et al. Clin Infect Dis. 2015;60(2):188-94</a>).</p><p>1.11.2.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>Effect of bedaquiline on mortality in South African patients with drug-resistant tuberculosis: a retrospective cohort study (<a href=\"https://www.ncbi.nlm.nih.gov/pubmed/30001994\" target=\"_blank\">Schnippel et al. Lancet Respir Med. 2018;6(9):699-706</a>), in which 24,014 tuberculosis cases were registered in the EDRweb between 1 July 2014 and 31 March 2016, with 19,617 patients initiated treatment and meeting analysis eligibility criteria. Bedaquiline-containing regimens were given to 743 (4.0%) patients with MDR-TB or RR-TB. Of the 1016 patients who received bedaquiline, 128 died (12.6%); the Committee noted that 4,612 deaths (24.8%) occurred among 18,601 patients on the standard regimens. Bedaquiline was therefore associated with a two-thirds reduction in the risk of all-cause mortality for patients with multidrug-resistant or rifampicin-resistant tuberculosis (hazard ratio 0.35, 95% CI 0\u00b728\u20130\u00b746) compared with standard regimens.</p><p>1.12.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted one randomised controlled trial submitted by the applicant, but that several non-randomised studies have supported the evidence for bedaquiline as part of individualised multidrug MDR-TB treatment regimen. The Committee noted that in order to comply with the latest guidelines from the World Health Organization, bedaquiline would need to be made available for the treatment of MDR-TB. </p><p>1.13.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered the use of amikacin, one of the second-line anti-tuberculosis agents, as an alternative to bedaquiline. The Committee considered that although this Group C agent has comparable efficacy to Group A agents, amikacin has an unfavourable toxicity profile, being associated with renal impairment, hearing loss and vestibular dysfunction. </p><p>1.14.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered the cardiovascular toxicity profile of bedaquiline, noting that it prolongs the QT interval, especially in combination with moxifloxacin. The Committee noted that very few people stop bedaquiline due to cardiotoxicity, although patients may switch from moxifloxacin to levofloxacin to reduce the combined effect on QT interval. The Committee noted that all patients on bedaquiline would require ECG and serum electrolyte monitoring in line with established guidelines. </p><p>1.15.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that bedaquiline results in a more rapid culture conversion compared with other agents, and this in turn would reduce the isolation time required in hospital i.e. being infected with a difficult to treat fatal organism prior to culture conversion. The Committee considered bedaquiline may also lessen the risk of transmission to healthcare workers and other members of the community, where generally patients could be treated in outpatient and community settings. The Committee noted that bedaquiline enables outpatient oral treatment for extrapulmonary TB and pulmonary TB that is no longer infectious.</p><p>1.16.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered there would be positive health outcomes and reductions in total healthcare costs by adding bedaquiline to current treatment regimens. The Committee noted the potential reduction in total healthcare costs and increased disability-adjusted life years when bedaquiline is added to the individualised MDR-TB treatment regimen. </p><p>1.17.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that resistance to anti-tuberculosis agents is increasing globally, which may impact on the number of imported cases seen in New Zealand. The Committee considered that the expected number of cases in New Zealand could be approximately 4-7 per year.</p><p>1.18.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that over 78% of TB patients are born outside of New Zealand, and the highest incidence rates of MDR-TB is observed mainly in refugee populations. The Committee considered that MDR-TB does not have a disproportionate impact on M\u0101ori health.</p>",
+          "change": null
+        },
+        "Published_Application": {
+          "s": "<p>1.1.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee reviewed the clinician application for <span style=\"color: black;\">bedaquiline </span>in the treatment of multidrug-resistant and rifampicin-resistant tuberculosis (MDR-TB and RR-TB) \u00a0</p><p>1.2.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee took into account, where applicable, PHARMAC\u2019s relevant decision-making framework when considering this agenda item.\u00a0</p>",
+          "fs": "<p>1.1.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee reviewed the clinician application for <span style=\"color: black;\">bedaquiline </span>in the treatment of multidrug-resistant and rifampicin-resistant tuberculosis (MDR-TB and RR-TB) \u00a0</p><p>1.2.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee took into account, where applicable, PHARMAC\u2019s relevant decision-making framework when considering this agenda item.\u00a0</p>",
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": "High",
+          "fs": "High",
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "May 2020",
+          "fs": "May 2020",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Clinical advice received from Pharmacology and Therapeutics Advisory Committee (PTAC) at meeting Thursday 20 February 2020.",
+          "fs": "Clinical advice received from Pharmacology and Therapeutics Advisory Committee (PTAC) at meeting Thursday 20 February 2020.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P000003rNLOUA2"
+          },
+          "Id": "a0P2P000003rNLOUA2",
+          "Event_Date__c": "2020-05-20",
+          "Event_Description__c": "Clinical advice received from Pharmacology and Therapeutics Advisory Committee (PTAC) at meeting Thursday 20 February 2020.",
+          "Stage__c": "Seeking Clinical Advice",
+          "Outcome__c": "High",
+          "Formatted_Date__c": "May 2020",
+          "Published_Recommendation__c": "<p>1.1.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee <b>recommended</b> that bedaquiline be funded with a <b>high priority</b> for the treatment of multidrug-resistant tuberculosis (MDR-TB) based on high health need and good evidence supporting the efficacy and safety of bedaquiline.</p><p>1.2.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that in making the above recommendation, it was important to consider the recent update in MDR-TB treatment guidelines from the World Health Organization, which included bedaquiline as one of the Group A agents in the MDR-TB treatment regimen. The Committee considered that bedaquiline for the treatment of MDR-TB should be listed subject to the following Special Authority criteria:</p><p>\t<span style=\"font-size: 9pt;\">BEDAQUILINE \u2013 Special Authority for Subsidy </span></p><p><b style=\"font-size: 9pt;\">Initial application</b><span style=\"font-size: 9pt;\"> </span><b style=\"font-size: 9pt;\">\u2013 (tuberculosis - multidrug-resistant).</b><span style=\"font-size: 9pt;\"> From any relevant practitioner. Approvals valid for 6 months for applications meeting the following criteria:</span></p><p>\t<span style=\"font-size: 9pt;\">Both:</span></p><p><span style=\"font-size: 9pt;\">1.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">The patient has multidrug-resistant tuberculosis (MDR-TB); and</span></p><p><span style=\"font-size: 9pt;\">2.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">The Ministry of Health\u2019s Tuberculosis Clinical Network has reviewed the patient case and recommends bedaquiline as part of the treatment regimen. </span></p><p>1.3.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered<b> </b>that PHARMAC could seek advice from the National Tuberculosis Clinical Network to clarify whether rifampicin-resistant tuberculosis (RR-TB) should be treated with the same regimen and circumstances with bedaquiline as for MDR-TB.\u00a0</p>",
+          "Published_Application__c": "<p>1.1.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee reviewed the clinician application for <span style=\"color: black;\">bedaquiline </span>in the treatment of multidrug-resistant and rifampicin-resistant tuberculosis (MDR-TB and RR-TB) \u00a0</p><p>1.2.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee took into account, where applicable, PHARMAC\u2019s relevant decision-making framework when considering this agenda item.\u00a0</p>",
+          "Published_Discussion__c": "<p>1.1.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that tuberculosis (TB) is a bacterial infection caused by <i>Mycobacterium tuberculosis</i> and is a leading cause of morbidity and mortality worldwide. The Committee considered that TB poses a great public health risk of spread if the index case is not adequately treated, as one person with active TB can infect more than one in four of their close contacts. </p><p>1.2.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that MDR-TB is defined as resistant to two essential first-line tuberculosis treatments as prescribed by the <a href=\"https://www.health.govt.nz/publication/guidelines-tuberculosis-control-new-zealand-2019\" target=\"_blank\">Ministry of Health (MOH) tuberculosis guidelines</a> (sourced from the World Health Organization [WHO]), isoniazid and rifampicin. The Committee noted MDR-TB has a high mortality rate of 40%, and that 5% of all cases of tuberculosis are classed as MDR-TB but they account for about a third of the total healthcare cost of tuberculosis. </p><p>1.3.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted the treatment regimen from the latest guidelines from the WHO published in 2019 (<a href=\"https://apps.who.int/iris/bitstream/handle/10665/311389/9789241550529-eng.pdf?ua=1\" target=\"_blank\">WHO consolidated guidelines on drug-resistant tuberculosis treatment</a>) comprising of three Group A agents, a fluoroquinolone (either levofloxacin or moxifloxacin), bedaquiline and linezolid, and two Group B agents, clofazimine and cycloserine. The Committee noted that Group C agents should only be used in place of Group A or B agents if they are contraindicated. </p><p>1.4.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that bedaquiline 100 mg tablet had been approved by <a href=\"https://medsafe.govt.nz/regulatory/ProductDetail.asp?ID=17632\" target=\"_blank\">Medsafe</a> in 2016. The Committee noted that bedaquiline is indicated in adults (&gt;18 years) as part of a combination therapy of MDR-TB. The Committee also noted the approved dosing regimen of 400 mg (four tablets) once daily for two weeks, then 200 mg (two tablets) three times per week with at least 48 hours between doses. </p><p>1.5.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered the duration of treatment for bedaquiline as a period of 24 weeks. The Committee noted the advice to discontinue bedaquiline four to five months prior to discontinuing other drugs in the treatment regimen, as bedaquiline has a terminal half-life of four to five months which risks antimicrobial resistance to bedaquiline developing if other agents are taken for insufficient time after stopping bedaquiline. </p><p>1.6.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that a funding application for bedaquiline for the treatment of MDR-TB has been considered by PHARMAC previously. The Committee noted that the Rare Disorders Subcommittee considered the application at its November 2014 meeting and recommended that the Anti-Infective Subcommittee be asked for clinical advice regarding appropriate restrictions on the use of bedaquiline and whether there would be any safety concerns with listing bedaquiline. The Committee noted that the Anti-Infective Subcommittee recommended bedaquiline be funded with a high priority for the treatment of extensively drug-resistant tuberculosis (XDR-TB), on the recommendation of the Ministry of Health MDR-TB Committee at its December 2014 meeting. The Committee noted that both the Anti-Infective Subcommittee and the Rare Disorders Subcommittee noted the unexplained increased mortality in the bedaquiline group in the phase-II, placebo-controlled, double-blind, randomised trial by Diacon et al (<a href=\"https://www.ncbi.nlm.nih.gov/pubmed/25140958\" target=\"_blank\">N Eng J Med. 2014;371:723-32</a>). The Committee noted that it had previously reviewed and accepted the minutes from the respective PTAC Subcommittees (<a href=\"https://www.pharmac.govt.nz/assets/ptac-minutes-2015-02.pdf\" target=\"_blank\">PTAC February 2015 minutes</a>, <a href=\"https://www.pharmac.govt.nz/assets/ptac-minutes-2015-05-updated.pdf\" target=\"_blank\">PTAC May 2015 minutes</a>).\u00a0</p><p>1.7.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted the latest <a href=\"https://apps.who.int/iris/bitstream/handle/10665/311389/9789241550529-eng.pdf?ua=1\" target=\"_blank\">WHO guidelines</a>, which incorporate a meta-analysis of 13,104 patient level data records from 53 studies in 40 countries investigating bedaquiline in MDR-TB. The Committee noted the rate of treatment failure was lower in patients receiving bedaquiline (11.6%) compared with those who did not (48.8%). The Committee noted that treatment failure would require further treatment with other toxic medications and result in patient seclusion/isolation for longer duration of time, especially in regions without infection control isolation facilities with adequate negative pressure etc. The Committee noted that fewer deaths were observed with those taking bedaquiline (15%) when compared with those not taking bedaquiline (22.8%). </p><p>1.8.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted the results from a phase-II, placebo-controlled, double-blind, randomised trial with 208 participants to evaluate the anti-bacterial activity of bedaquiline as part of a combination therapy of MDR-TB (<a href=\"https://www.ncbi.nlm.nih.gov/pubmed/25140958\" target=\"_blank\">Diacon et al, N Eng J Med. 2014;371:723-32</a>). The Committee noted the reduction in the median time to culture conversion in the bedaquiline group (83 days) compared with the placebo group (125 days). The Committee also noted the higher rates of cure observed in the bedaquiline group (58%) compared with placebo group (32%). </p><p>1.9.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted the results from a phase-II, multicentre, open label, single arm study with 241 participants to evaluate the efficacy of bedaquiline as part of an individualised MDR-TB treatment regimen (<a href=\"https://erj.ersjournals.com/content/47/2/564.long\" target=\"_blank\">Pym et al, Eur Respir J. 2016;47(2):564-74</a>). The Committee noted the proportion of patients in the bedaquiline group with confirmed culture conversion at weeks 24 in C209 (79.5%) was similar to that of C208 (72.2%). The Committee also noted the higher rates of cure observed in the bedaquiline group (61%) compared with the placebo group (57.6%). The Committee noted that none of the deaths observed in the bedaquiline group appeared directly related to bedaquiline; reported causes of death included tuberculosis-related illness, haemoptysis, renal impairment, respiratory failure, congestive cardiac failure, and hypertension.\u00a0\u00a0\u00a0</p><p>1.10.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted the results from a meta-analysis based on pooled data from five cohorts of 537 patients treated with bedaquiline in France, Georgia, Armenia, and South Africa (<a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6478224/\" target=\"_blank\">Lawrence et al, Emerg Infect Dis. 2019 May; 25(5): 936\u2013943</a>). The Committee noted positive results for rate of culture conversion at 6 months (78%), treatment success (65.8%) and death (11.7%). The Committee also noted that the results were positive despite many patients suffering from \u201ccavitating diseases\u201d such as HIV (120 patients) and extensively-drug resistant tuberculosis (77 patients). </p><p>1.11.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted the following evidence for bedaquiline as part of MDR-TB treatment regime: </p><p>1.11.1.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>Compassionate use of bedaquiline for the treatment of multidrug-resistant and extensively drug-resistant tuberculosis: interim analysis of a French cohort (<a href=\"https://www.ncbi.nlm.nih.gov/pubmed/25320286\" target=\"_blank\">Guglielmetti et al. Clin Infect Dis. 2015;60(2):188-94</a>).</p><p>1.11.2.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>Effect of bedaquiline on mortality in South African patients with drug-resistant tuberculosis: a retrospective cohort study (<a href=\"https://www.ncbi.nlm.nih.gov/pubmed/30001994\" target=\"_blank\">Schnippel et al. Lancet Respir Med. 2018;6(9):699-706</a>), in which 24,014 tuberculosis cases were registered in the EDRweb between 1 July 2014 and 31 March 2016, with 19,617 patients initiated treatment and meeting analysis eligibility criteria. Bedaquiline-containing regimens were given to 743 (4.0%) patients with MDR-TB or RR-TB. Of the 1016 patients who received bedaquiline, 128 died (12.6%); the Committee noted that 4,612 deaths (24.8%) occurred among 18,601 patients on the standard regimens. Bedaquiline was therefore associated with a two-thirds reduction in the risk of all-cause mortality for patients with multidrug-resistant or rifampicin-resistant tuberculosis (hazard ratio 0.35, 95% CI 0\u00b728\u20130\u00b746) compared with standard regimens.</p><p>1.12.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted one randomised controlled trial submitted by the applicant, but that several non-randomised studies have supported the evidence for bedaquiline as part of individualised multidrug MDR-TB treatment regimen. The Committee noted that in order to comply with the latest guidelines from the World Health Organization, bedaquiline would need to be made available for the treatment of MDR-TB. </p><p>1.13.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered the use of amikacin, one of the second-line anti-tuberculosis agents, as an alternative to bedaquiline. The Committee considered that although this Group C agent has comparable efficacy to Group A agents, amikacin has an unfavourable toxicity profile, being associated with renal impairment, hearing loss and vestibular dysfunction. </p><p>1.14.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered the cardiovascular toxicity profile of bedaquiline, noting that it prolongs the QT interval, especially in combination with moxifloxacin. The Committee noted that very few people stop bedaquiline due to cardiotoxicity, although patients may switch from moxifloxacin to levofloxacin to reduce the combined effect on QT interval. The Committee noted that all patients on bedaquiline would require ECG and serum electrolyte monitoring in line with established guidelines. </p><p>1.15.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that bedaquiline results in a more rapid culture conversion compared with other agents, and this in turn would reduce the isolation time required in hospital i.e. being infected with a difficult to treat fatal organism prior to culture conversion. The Committee considered bedaquiline may also lessen the risk of transmission to healthcare workers and other members of the community, where generally patients could be treated in outpatient and community settings. The Committee noted that bedaquiline enables outpatient oral treatment for extrapulmonary TB and pulmonary TB that is no longer infectious.</p><p>1.16.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered there would be positive health outcomes and reductions in total healthcare costs by adding bedaquiline to current treatment regimens. The Committee noted the potential reduction in total healthcare costs and increased disability-adjusted life years when bedaquiline is added to the individualised MDR-TB treatment regimen. </p><p>1.17.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that resistance to anti-tuberculosis agents is increasing globally, which may impact on the number of imported cases seen in New Zealand. The Committee considered that the expected number of cases in New Zealand could be approximately 4-7 per year.</p><p>1.18.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that over 78% of TB patients are born outside of New Zealand, and the highest incidence rates of MDR-TB is observed mainly in refugee populations. The Committee considered that MDR-TB does not have a disproportionate impact on M\u0101ori health.</p>",
+          "Status_History__c": "a132P000000Bm9sQAC"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "May 2020",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Following Clinical Advice, Pharmac staff considers the advice and the funding application under goes an assessment using our&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/factors-for-consideration/\" rel=\"nofollow\">Factors for Consideration</a>&nbsp;framework and seeks additional information as required.</p>\r\n<p>&nbsp;</p>\r\n<p>Research and Economic analysis are undertaken.&nbsp; This focuses on the costs and benefits of a proposed course of action. Economics is based on three fundamental concepts that summarise the issues Pharmac faces daily:&nbsp;</p>\r\n<ul>\r\n<li>Scarcity &ndash; resources will always be insufficient to support all possible activities.</li>\r\n<li>Choices &ndash; due to scarce resources, decisions must be made about how best to use them.</li>\r\n<li>Opportunity cost &ndash; by choosing to use resources one way, we forgo other opportunities to use the same resources.</li>\r\n</ul>\r\n<p>&nbsp;</p>\r\n<p>For further information on the purpose of, and techniques for, undertaking economic analysis in health care, please refer&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/economic-analysis/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/economic-analysis/</a></p>",
+    "position": 2,
+    "name": "Under Assessment",
+    "last": false,
+    "events": null,
+    "dateString": null,
+    "collapsed": false,
+    "checked": false
+  },
+  {
+    "text": "<p>Pharmac staff uses a prioritisation process to compare and rank funding options. Possible opportunities for new investment will always exceed the budget Pharmac has available; therefore, prioritisation is an intrinsic part of Pharmac\u2019s decision-making process.</p>\r\n<p>The relative ranking of options aims to support Pharmac&rsquo;s statutory objective &ldquo;to secure for eligible people in need of pharmaceuticals, the best health outcomes that are reasonably achievable from pharmaceutical treatment and from within the amount of funding provided&rdquo;.</p>\r\n<p>A funding application or proposal is considered ready for prioritisation when sufficient information is available to permit it to be reviewed against Pharmac's Factors for Consideration and to inform a comparison with other possible investment decisions.</p>\r\n<p>There is no guarantee when or if a ranked medicine will be funded.&nbsp;&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/prioritisation/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/prioritisation/</a></p>",
+    "position": 3,
+    "name": "Options Compared",
+    "last": false,
+    "events": null,
+    "dateString": null,
+    "collapsed": false,
+    "checked": false
+  },
+  {
+    "text": "<p>Pharmac is consulting on a proposal to either approve or decline the application.&nbsp;We seek the views of all people who have an interest in our proposals, or who may be affected by them, to obtain feedback on our proposed approaches.</p>\r\n<p><a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/having-your-say/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/having-your-say/</a></p>",
+    "position": 4,
+    "name": "Under Consultation",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Apr 2016",
+          "fs": "Apr 2016",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Public consultation for this application is active.",
+          "fs": "Public consultation for this application is active.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P000003rNLLUA2"
+          },
+          "Id": "a0P2P000003rNLLUA2",
+          "Event_Date__c": "2016-04-12",
+          "Event_Description__c": "Public consultation for this application is active.",
+          "Stage__c": "Under Consultation",
+          "Formatted_Date__c": "Apr 2016",
+          "Status_History__c": "a132P000000Ar6mQAC"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Apr 2016",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Following the consultation process, Pharmac staff considers the feedback and identifies any additional information required as part of a gap analysis.&nbsp; The proposal may require further clinical advice, research, and assessment.</p>",
+    "position": 5,
+    "name": "Reviewing Consultation Feedback",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": "<a href=\"https://www.pharmac.govt.nz/news/consultation-2016-04-12-bedaquiline-siltuximab-rare-disorders/\" target=\"_blank\">Consultation letter</a>",
+          "fs": "<a href=\"https://www.pharmac.govt.nz/news/consultation-2016-04-12-bedaquiline-siltuximab-rare-disorders/\" target=\"_blank\">Consultation letter</a>",
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Apr 2016",
+          "fs": "Apr 2016",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Public consultation for this application is now closed. Pharmac is reviewing consultation feedback.",
+          "fs": "Public consultation for this application is now closed. Pharmac is reviewing consultation feedback.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P000003rNLMUA2"
+          },
+          "Id": "a0P2P000003rNLMUA2",
+          "Event_Date__c": "2016-04-27",
+          "Event_Description__c": "Public consultation for this application is now closed. Pharmac is reviewing consultation feedback.",
+          "Stage__c": "Reviewing Consultation Feedback",
+          "Links__c": "<a href=\"https://www.pharmac.govt.nz/news/consultation-2016-04-12-bedaquiline-siltuximab-rare-disorders/\" target=\"_blank\">Consultation letter</a>",
+          "Formatted_Date__c": "Apr 2016",
+          "Status_History__c": "a132P000000Ar7AQAS"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Apr 2016",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>We refer to our decisions about whether and how particular pharmaceuticals are publicly-funded, as &ldquo;funding decisions&rdquo;.</p>\r\n<p>We consider and assess all funding decisions using the&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/about/operating-policies-and-procedures/#factorsfc\" rel=\"nofollow\">Factors for Consideration</a>. When we do so, we carefully evaluate clinical and other evidence for the benefits and suitability of a proposal, and to identify and understand the people who will be affected by it.</p>\r\n<p>While our main task is to allocate pharmaceutical funding, we consider the benefits and costs across the whole health system now and with a long-term focus, including the effects for hospitals and primary care, and consider direct costs to patients as well as to all health sector budgets.</p>\r\n<p>Final funding decisions are made by the Pharmac Board or delegated to senior Pharmac staff as required by the Board.</p>\r\n<p>&nbsp;</p>",
+    "position": 6,
+    "name": "Decision",
+    "last": true,
+    "events": [
+      {
+        "Summary": {
+          "s": "Bedaquiline (Sirturo) will be funded in the community and in DHB hospitals for treatment of extensively drug resistant tuberculosis (XDR-TB). Listing in the Pharmaceutical Schedule will occur subject to Medsafe approval of the pharmaceutical and a distribution mechanism being confirmed.",
+          "fs": "Bedaquiline (Sirturo) will be funded in the community and in DHB hospitals for treatment of extensively drug resistant tuberculosis (XDR-TB). Listing in the Pharmaceutical Schedule will occur subject to Medsafe approval of the pharmaceutical and a distribution mechanism being confirmed.",
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": "<a href=\"https://www.pharmac.govt.nz/news/notification-2016-05-12-bedaquiline-siltuximab-rare-disorders/\" target=\"_blank\">Notification letter</a>",
+          "fs": "<a href=\"https://www.pharmac.govt.nz/news/notification-2016-05-12-bedaquiline-siltuximab-rare-disorders/\" target=\"_blank\">Notification letter</a>",
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "May 2016",
+          "fs": "May 2016",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "The funding application has been approved.",
+          "fs": "The funding application has been approved.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0P2P000003rNLNUA2"
+          },
+          "Id": "a0P2P000003rNLNUA2",
+          "Event_Date__c": "2016-05-11",
+          "Event_Description__c": "The funding application has been approved.",
+          "Stage__c": "Decision",
+          "Links__c": "<a href=\"https://www.pharmac.govt.nz/news/notification-2016-05-12-bedaquiline-siltuximab-rare-disorders/\" target=\"_blank\">Notification letter</a>",
+          "Summary__c": "Bedaquiline (Sirturo) will be funded in the community and in DHB hospitals for treatment of extensively drug resistant tuberculosis (XDR-TB). Listing in the Pharmaceutical Schedule will occur subject to Medsafe approval of the pharmaceutical and a distribution mechanism being confirmed.",
+          "Formatted_Date__c": "May 2016",
+          "Status_History__c": "a132P000000Ar8XQAS"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "May 2016",
+    "collapsed": false,
+    "checked": true
+  }
+]

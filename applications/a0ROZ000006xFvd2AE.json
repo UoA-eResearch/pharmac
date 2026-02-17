@@ -1,0 +1,810 @@
+[
+  {
+    "text": "<p>New funding applications are referred to one of Pharmac's Funding Application Advisors (FAAs), who'll review the application to ensure they have the relevant information to undertake a preliminary analysis.&nbsp; They may seek more information if required.</p>\r\n<p><a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/new-funding-applications/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/new-funding-applications/</a></p>",
+    "position": 0,
+    "name": "Application Received",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Feb 2021",
+          "fs": "Feb 2021",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Application received",
+          "fs": "Application received",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000HenbN2AR"
+          },
+          "Id": "a0POZ00000HenbN2AR",
+          "Event_Date__c": "2021-02-18",
+          "Event_Description__c": "Application received",
+          "Stage__c": "Application Received",
+          "Formatted_Date__c": "Feb 2021",
+          "Status_History__c": "a132P000000CcNUQA0"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Feb 2021",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Pharmac is identifying and gathering information required to get clinical advice.  The <a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/pharmacology-and-therapeutics-advisory-committee-ptac/\" rel=\"nofollow\">Pharmacology and Therapeutics Advisory Committee (PTAC)</a>  meets quarterly. There are also around 20 expert <a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/specialist-advisory-committees/\" rel=\"nofollow\">Specialist Advisory Committees (SACs)</a>, previously expert Subcommittees, which provide clinical evaluations in specialist areas. Specialist Advisory Committees meet as required to discuss issues referred to them by PTAC or Pharmac.</p>\n<p style=\"height: 20px\">&nbsp;</p>\n<p>In November 2021, we introduced separate terms of reference for the SACs to make clear that these committees have different, but complementary, roles, expertise and perspectives to PTAC.</p>\n<p style=\"height: 15px\">&nbsp;</p>\n<p>PTAC and SACs may make recommendations to Pharmac that differ from each other when looking at the same evidence. Pharmac considers the recommendations provided by all our clinical advisory committees when assessing applications.</p>\n<p style=\"height: 20px\">&nbsp;</p>\n<p><a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/pharmacology-and-therapeutics-advisory-committee-ptac/ptac-terms-of-reference-july-2021/\" rel=\"nofollow\">PTAC</a>  and <a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/specialist-advisory-committees/specialist-advisory-committee-terms-of-reference//\" rel=\"nofollow\">Specialist Advisory Committees</a> records of the meeting will be published on this website in accordance with the Terms of Reference.</p>",
+    "position": 1,
+    "name": "Seeking Clinical Advice",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": "Please also refer to a consumer application for pembrolizumab in the second-line treatment setting for MSI-H/dMMR cancers",
+          "fs": "Please also refer to a consumer application for pembrolizumab in the second-line treatment setting for MSI-H/dMMR cancers",
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Feb 2021",
+          "fs": "Feb 2021",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Clinical advice required",
+          "fs": "Clinical advice required",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000HenbO2AR"
+          },
+          "Id": "a0POZ00000HenbO2AR",
+          "Event_Date__c": "2021-02-19",
+          "Event_Description__c": "Clinical advice required",
+          "Stage__c": "Seeking Clinical Advice",
+          "Summary__c": "Please also refer to a consumer application for pembrolizumab in the second-line treatment setting for MSI-H/dMMR cancers",
+          "Formatted_Date__c": "Feb 2021",
+          "Status_History__c": "a132P000000CcNeQAK"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "May 2021",
+          "fs": "May 2021",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Assigned to Cancer Treatments Subcommittee (CaTSoP) meeting to provide advice on Friday 9 July 2021",
+          "fs": "Assigned to Cancer Treatments Subcommittee (CaTSoP) meeting to provide advice on Friday 9 July 2021",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000HenbP2AR"
+          },
+          "Id": "a0POZ00000HenbP2AR",
+          "Event_Date__c": "2021-05-06",
+          "Event_Description__c": "Assigned to Cancer Treatments Subcommittee (CaTSoP) meeting to provide advice on Friday 9 July 2021",
+          "Stage__c": "Seeking Clinical Advice",
+          "Formatted_Date__c": "May 2021",
+          "Status_History__c": "a132P000000Cp4tQAC"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": "<p>The Subcommittee <b>recommended</b> that pembrolizumab for the first-line treatment of microsatellite instability-high (MSI-H) or mismatch repair deficient (dMMR) colorectal cancer be listed with a <b>high priority</b> within the context of treatments for malignancy subject to the following Special Authority criteria:</p><p><b style=\"font-size: 9pt;\">INITIAL APPLICATION \u2013 MSI-H/dMMR advanced colorectal cancer</b></p><p><span style=\"font-size: 9pt;\">Only from a medical oncologist; approvals valid for four months.</span></p><ol><li><span style=\"font-size: 9pt;\">Patient has deficient mismatch repair (dMMR); or microsatellite instability-high (MSI-H) metastatic colorectal cancer; and </span></li><li><span style=\"font-size: 9pt;\">The patient has not received prior systemic therapy administered in the metastatic setting; and</span></li><li><span style=\"font-size: 9pt;\">The patient must have an ECOG performance score of 0-1; and</span></li><li><span style=\"font-size: 9pt;\">Baseline measurement of overall tumour burden is documented; and </span></li></ol><p><span style=\"font-size: 9pt;\">\u00a0RENEWAL- </span></p><p><span style=\"font-size: 9pt;\">Only from a medical oncologist; approvals valid for four months.</span></p><p><span style=\"font-size: 9pt;\">1.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">No evidence of disease progression; and </span></p><p><span style=\"font-size: 9pt;\">2.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">The total treatment received must not exceed 24 months</span></p><p><br></p><p>In making this recommendation the Subcommittee considered the high health need of patients with metastatic or unresectable MSI-H/dMMR colorectal cancer and the evidence supporting durability of response and suitability compared to currently available treatments.</p><p><br></p><p>The Subcommittee <b>deferred </b>making a recommendation on pembrolizumab for the treatment of microsatellite instability-high (MSI-H) or mismatch repair deficient (dMMR) cancers that have progressed following prior treatment pending the publication of the KEYNOTE 158 trial.</p><p><br></p><p>In making this recommendation, the Subcommittee considered that the evidence available was of low quality with uncertainty in the validity of pembrolizumab as a tumour agnostic treatment. The Subcommittee considered there was variable positive data within individual tumour entities however this was not consistent enough between tumours to make generalisations about treatment.</p><p><br></p><p>The Subcommittee considered that whilst there was insufficient mature data for pembrolizumab as a tumour agnostic treatment, further assessment could be considered for individual tumour entities based on the availability of evidence demonstrating benefit from pembrolizumab treatment noting the available evidence for treatment of MSI-H/dMMR endometrial cancer appeared promising.\u00a0</p>",
+          "fs": "<p>The Subcommittee <b>recommended</b> that pembrolizumab for the first-line treatment of microsatellite instability-high (MSI-H) or mismatch repair deficient (dMMR) colorectal cancer be listed with a <b>high priority</b> within the context of treatments for malignancy subject to the following Special Authority criteria:</p><p><b style=\"font-size: 9pt;\">INITIAL APPLICATION \u2013 MSI-H/dMMR advanced colorectal cancer</b></p><p><span style=\"font-size: 9pt;\">Only from a medical oncologist; approvals valid for four months.</span></p><ol><li><span style=\"font-size: 9pt;\">Patient has deficient mismatch repair (dMMR); or microsatellite instability-high (MSI-H) metastatic colorectal cancer; and </span></li><li><span style=\"font-size: 9pt;\">The patient has not received prior systemic therapy administered in the metastatic setting; and</span></li><li><span style=\"font-size: 9pt;\">The patient must have an ECOG performance score of 0-1; and</span></li><li><span style=\"font-size: 9pt;\">Baseline measurement of overall tumour burden is documented; and </span></li></ol><p><span style=\"font-size: 9pt;\">\u00a0RENEWAL- </span></p><p><span style=\"font-size: 9pt;\">Only from a medical oncologist; approvals valid for four months.</span></p><p><span style=\"font-size: 9pt;\">1.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">No evidence of disease progression; and </span></p><p><span style=\"font-size: 9pt;\">2.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">The total treatment received must not exceed 24 months</span></p><p><br></p><p>In making this recommendation the Subcommittee considered the high health need of patients with metastatic or unresectable MSI-H/dMMR colorectal cancer and the evidence supporting durability of response and suitability compared to currently available treatments.</p><p><br></p><p>The Subcommittee <b>deferred </b>making a recommendation on pembrolizumab for the treatment of microsatellite instability-high (MSI-H) or mismatch repair deficient (dMMR) cancers that have progressed following prior treatment pending the publication of the KEYNOTE 158 trial.</p><p><br></p><p>In making this recommendation, the Subcommittee considered that the evidence available was of low quality with uncertainty in the validity of pembrolizumab as a tumour agnostic treatment. The Subcommittee considered there was variable positive data within individual tumour entities however this was not consistent enough between tumours to make generalisations about treatment.</p><p><br></p><p>The Subcommittee considered that whilst there was insufficient mature data for pembrolizumab as a tumour agnostic treatment, further assessment could be considered for individual tumour entities based on the availability of evidence demonstrating benefit from pembrolizumab treatment noting the available evidence for treatment of MSI-H/dMMR endometrial cancer appeared promising.\u00a0</p>",
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": "<p>The Subcommittee noted that DNA mismatch repair (MMR) is a key process in maintaining genomic stability and is facilitated by MMR proteins which are responsible for the control and coordination of repair of spontaneous point mutations within cellular proliferation. The Subcommittee noted that defects in the MMR process, leading from deficient MMR (ie dMMR) due to the loss or absence of activity of MMR proteins, are associated with genome-wide instability and the progressive accumulation of mutations especially within regions of simple repetitive DNA sequences known as microsatellites which result in a high microsatellite instability (MSI-H) phenotype, allowing mutations to be accumulated rapidly, resulting in tumour development.</p><p><br></p><p>The Subcommittee noted that dMMR is characterised by immunohistochemically determined loss of one or more MMR proteins (MSH2, MLH1, MSH6, PMS2), and confirmation of MLH1 promoter methylation is used to determine a cohort of patients who should proceed to genetic testing. The Subcommittee noted that MSI-H is determined by PCR assessment and characterised by 3 to 5 tumour microsatellite loci deleted if using a standard 5-panel profile, or &gt;30% if a larger panel is used. The Subcommittee noted that in New Zealand immunohistochemistry is routinely performed for colorectal and endometrial cancers to confirm MSI and MMR status but is typically only performed for other tumour types on request. This would be for patients with a personal or family history suggestive of Lynch Syndrome (a cancer syndrome associated with inherited mutational changes in MMR resulting in genetic predisposition to different cancer types).</p><p><br></p><p>The Subcommittee noted a study of dMMR prevalence across a variety of tumour types (<a href=\"https://pubmed.ncbi.nlm.nih.gov/28596308/\" target=\"_blank\">Le et al. Science. 2017;357:409-13</a>) which reported, from a survey of 12,000 tumours, the most common cancers with dMMR were endometrial, gastric adenocarcinoma, small intestinal malignancies, and colorectal adenocarcinomas, with the proportion of dMMR higher in early stage tumours rather than late stage tumours, though this was not seen in all cancer types. The Subcommittee noted that due to their high mutation burden, dMMR cancers present significantly higher levels of neoantigens, which can provide a preclinical rational for the efficacy of immunotherapy in treating these cancers.</p><p><br></p><p>The Subcommittee noted that prognosis and treatments are variable for MSI-H/dMMR tumour types;</p><p><br></p><p>The Subcommittee noted that 90% of metastatic colon cancer is incurable, and that patients often have a poor prognosis of approximately 24-26 months regardless of chemo-sensitivity with the most aggressive current funded chemotherapy options in New Zealand. The Subcommittee noted that the prevalent patient population in New Zealand is younger than the worldwide average and considered that this attributes to the severe health need of colorectal cancer in New Zealand.</p><p><br></p><p>The Subcommittee noted endometrial cancer MSI is a negative prognostic feature, especially as there is no effective standard of care for metastatic disease and durability of response to current treatments is poor. The Subcommittee noted MSI-H/dMMR status in ovarian cancer is usually associated as being chemo-sensitive, with lower grade disease and longer overall survival.</p><p><br></p><p>The Subcommittee considered that patients with MSI-H/dMMR tumours have different health needs based on response rates to current treatments, durability of response, and the general prognosis associated with each malignancy and the tumour origin. The Subcommittee considered that there is insufficient evidence published to adequately analyse the competing prognostic risks of MSI-H/dMMR tumour subtypes and overall prognosis appears to be less dependent on dMMR status and more on stage of disease when comparing early vs. late-stage disease. The Subcommittee noted that within some tumour types, dMMR cohorts perform better than others especially if compared to BRAF mutational prognosis.</p><p><br></p><p>The Subcommittee also noted that the proportion of patients expected to be dMMR in the metastatic setting differs across tumour types and considered that approximately 5% of stage IV cancers of any type will be MSI-H/dMMR.</p><p><br></p><p>The Subcommittee noted that 15% of colorectal cancers are considered to be dMMR, with approximately 20% of colorectal cancers in the New Zealand patient population metastatic at diagnosis (<a href=\"https://pubmed.ncbi.nlm.nih.gov/29879724/\" target=\"_blank\">Sharples et al. N Z Med J. 2018;131:24-39</a>). The Subcommittee considered it more appropriate to use cancer registrations to estimate patient numbers, since these were associated with histology information. In their estimate of patient numbers, the Subcommittee assumed that 20% of cancer registrations in colorectal cancer (3,189) were metastatic, approximately 5% (based on 4% in the submission) were MSI-H/dMMR and 90% had an ECOG status of 0-1. The Subcommittee considered that this would equate to around 32 patients per year with MSI-H/dMMR solid tumours in New Zealand, among whom 95% could be expected to take up pembrolizumab, with a small a prevalent pool of patients in the first year.</p><p><br></p><p>The Subcommittee noted that there is no evidence that MSI-H/dMMR solid tumours disproportionately affect M\u0101ori, Pacific or other groups in the community who are socially or economically disadvantaged.</p><p><br></p><p><i>Colorectal cancer </i></p><p>The Subcommittee noted four phase II trials investigating immune checkpoint inhibitors (including pembrolizumab) in the treatment of colorectal cancer:</p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/28734759/\" target=\"_blank\">Overman et al. Lancet Oncol. 2017;18:1182-91</a></p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/28596308/\" target=\"_blank\">Le et al. Science. 2017;357:409-13</a></p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/31725351/\" target=\"_blank\">Le et al. J Clin Oncol. 2020;38:11-9</a></p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://meetinglibrary.asco.org/record/182520/abstract\" target=\"_blank\">Andre et al. ASCO 2020. Gastrointestinal Cancers Symposium. Abstract 218</a></p><p><br></p><p>The Subcommittee noted that these were all small phase II studies of less than 450 people, with only three published studies despite a number of reports. The Subcommittee noted that FDA approval was granted to these treatments for colorectal cancer on the basis of this phase II data and biological plausibility. The Subcommittee noted that most of the Phase II studies were uncontrolled platform trials that merged selected arms in order to generate data and considered that randomised controlled trials of immunotherapy compared to placebo will likely never be undertaken, based on the evidence of response to immunotherapy treatment.</p><p><br></p><p>The Subcommittee noted a number of immunotherapy studies investigating treatment with dual immune checkpoint inhibitors as opposed to single agent therapy in MSI-H/dMMR metastatic colorectal cancer:</p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/29355075/\" target=\"_blank\">Overman et al. J Cin Oncol. 2018;36:773-79</a></p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://meetinglibrary.asco.org/record/182537/abstract\" target=\"_blank\">Cohen et al. ASCO 2020. Gastrointestinal Cancers Symposium. Abstract 101</a></p><p><br></p><p>The Subcommittee considered that the PFS results from single and dual immunotherapy agent studies to be promising, demonstrating durable response with over 70% of PFS maintained at 12 months.</p><p><br></p><p>The Subcommittee noted the phase III, randomised, open-label trial (KEYNOTE-177; N=307) of pembrolizumab (200 mg 3-weekly) versus standard of care/investigators choice of chemotherapy for the first-line treatment of patients with MSI-H or dMMR metastatic colorectal cancer (<a href=\"https://pubmed.ncbi.nlm.nih.gov/33264544/\" target=\"_blank\">Andre et al. N Engl J Med. 2020;383:2207-18</a>). The Subcommittee noted pembrolizumab was given for a maximum of 35 cycles (equivalent to approximately 2 years), or until there was unacceptable toxicity or disease progression, with chemotherapy given until evidence of disease progression or toxicity.</p><p><br></p><p>The Subcommittee noted the concept of \u2018sided-ness\u2019 in the management of colorectal cancer was an important consideration in treatment choice and noted that the performance of patients in the control arm accounted for this with respect to enabling investigators choice for exposure to biologic therapies in the control arm. The Subcommittee considered this was appropriate and resulted in a pragmatic appropriate control arm.</p><p><br></p><p>The Subcommittee noted that colorectal patients with <i>BRAF</i> mutations typically have worse outcomes due to the inherently chemo-resistant nature of the mutation and can be over-represented in the dMMR patient population. The Subcommittee considered that patients with <i>BRAF </i>mutations were evenly distributed between the control and treatment arms in KEYNOTE-177.</p><p><br></p><p>The Subcommittee noted that the primary endpoints were progression free survival and overall survival, with secondary endpoints of response rate, safety, duration of response, and quality of life. The Subcommittee noted that crossover was permitted upon progression and considered that this may create challenges for analysis of overall survival, noting approximately 60% of patients accessed immunotherapy second line.</p><p><br></p><p>The Subcommittee noted that the PFS was reported to be 16.5 months compared to</p><p>8.2 months after the median follow up of 32.4 months (24.0-48.3). The Subcommittee noted the hazard ratio for death was reported to be 0.60 (95% CI 0.45 to 0.80; p=0.0002). The authors of the study considered that this hazard ratio was not valid, due to the progression-free survival curves for the two treatment groups crossing and not being parallel, indicating that the proportional hazards assumption was violated. Thus, the authors had considered that the hazard ratio should have been estimated from 8 months onwards or a restricted means analysis used to calculate an overall hazard ratio over the whole period without making the proportional hazards assumption. The Subcommittee agreed with this statistical approach. The Subcommittee considered the estimated restricted means for progression free survival over 24 months to be a more appropriate summary of the treatment effects, at 13.7 months for the pembrolizumab group (95% CI 12 to 15.4 months) versus 10.8 months for chemotherapy (95% CI 9.0 to 12.2 months).</p><p><br></p><p>The Subcommittee noted that 9.2% of participants in KEYNOTE-177 who received pembrolizumab were assumed to undergo surgery with curative intent as a consequence of a response to treatment, while 8.4% were assumed to undergo surgery with chemotherapy.</p><p><br></p><p>The Subcommittee noted grade \u22653 treatment related events differed between arms, occurring in 56% of pembrolizumab treatment patients compared to 78% of the chemotherapy treatment arm indicating pembrolizumab was better tolerated than chemotherapy. The Subcommittee considered that this difference would have significant resource implications however noted that pembrolizumab was associated with greater immune-mediated side effects which typically required more costly treatment interventions.</p><p><br></p><p>The Subcommittee noted an abstract from the <a href=\"https://meetinglibrary.asco.org/record/194079/abstract\" target=\"_blank\" style=\"color: windowtext;\">2021 ASCO Gastrointestinal Cancers Symposium (abstract 6)</a> which presented the updated and now final progression free survival analysis for KEYNOTE-177. The Subcommittee noted that pembrolizumab was superior to chemotherapy for progression free survival (median 16.5 months versus 8.2 months, respectively; HR 0.60; 95% CI 0.45 to 0.80; p= 0.0002) and that the 12- and 24-month progression free survival rates were 55.3% and 48.3% with pembrolizumab vs 37.3% and 18.6% with chemotherapy.</p><p><br></p><p>The Subcommittee noted this data indicated some patients do poorly in the initial months of treatment due to a lack of early treatment efficacy and time until treatment effect, depending on the speed of disease progression.\u00a0\u00a0</p><p><br></p><p>The Subcommittee noted that overall, all subgroups analysed appear to favour pembrolizumab, including the <i>BRAF</i> mutation subgroup, and that there were no new safety signals identified.</p><p><br></p><p>The Subcommittee noted the health-related quality of life results from KEYNOTE-177 reported improvements in global health score, physical functioning, social functioning, and fatigue in the pembrolizumab treated group compared to the control group (<a href=\"https://pubmed.ncbi.nlm.nih.gov/33812497/\" target=\"_blank\">Andre et al. Lancet Oncol. 2021;22:665-77</a>). The Subcommittee considered that the differences in scores between the two treatment groups were clinically significant, and that the quality-of-life improvements presented are very important to patients.</p><p><i>MSI-H/dMMR cancers (non-colorectal)</i></p><p><br></p><p>The Subcommittee noted a phase II observational cohort study investigating the use of pembrolizumab for the second- or subsequent line of treatment for 12 different MSI-H/dMMR tumour types, 55% of which were non-colorectal cancers (<a href=\"https://pubmed.ncbi.nlm.nih.gov/28596308/\" target=\"_blank\">Le et al. Science. 2017;357:409-13).</a> The Subcommittee noted that objective responses were similar between colorectal cancer and other cancer subtypes; 52% (95% CI, 36 to 68%) of patients with colorectal cancers versus 54% (95% CI, 39 to 69%) of the patients with cancers originating in other organs. The Subcommittee noted, however, that the patient numbers in each cohort were very small for groups other than colorectal and endometrial cancers and considered this made comparison of results between subgroups difficult.</p><p><br></p><p>The Subcommittee noted the phase II observational, open-label, non-randomised KEYNOTE-158 study (N=233) of pembrolizumab (200 mg for a maximum of 35 cycles) for the treatment of non-colorectal MSI-H/dMMR malignancy with advanced/metastatic disease who had progressed or had intolerance to standard therapy (<a href=\"https://pubmed.ncbi.nlm.nih.gov/31682550/\" target=\"_blank\">Marabelle et al. J Clin Oncol. 2020;38:1-10</a>). The Subcommittee noted that 27 individual tumour types were assessed, as well as one basket \u2018other\u2019 group.</p><p><br></p><p>The Subcommittee noted that the overall progression free survival was 4.1 months across all tumour types (95% CI 2.4 to 4.9) and that the median overall survival was 23.5 months (95% CI 13.5 to \u2018not reached\u2019), with no new safety signals reported.</p><p><br></p><p>The Subcommittee noted that the greatest anti-tumour activity was observed in the endometrial and gastric cancer subgroups, with median progression free survival of 25.7 months (95% CI 4.9 to \u2018not reached\u2019) and 11.0 months (95% CI 2.1 to \u2018not reached\u2019), respectively.</p><p><br></p><p>The Subcommittee noted updated, unpublished data from KEYNOTE-158 presented at ASCO 2021, which reported that 16% of patients were still on treatment at 37 months follow-up. The Subcommittee also noted that 73% of patients with endometrial cancer were still alive at 12 months, with an objective response rate of 30.8%, and a median duration of response of 47.5 months.</p><p><br></p><p>The Subcommittee also noted the following studies providing evidence for pembrolizumab for the treatment of MSI-H/dMMR solid tumours:</p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/31682550/\" target=\"_blank\">Marabelle et al. J Clin Oncol. 2020;38:1-10</a></p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/26028255/\" target=\"_blank\">Le et al. N Engl J Med. 2015;372:2509-20</a></p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/31151482/\" target=\"_blank\">Zhao et al J Hematol Oncol. 2019;12:54</a></p><h1><i style=\"font-size: 11pt;\">General</i></h1><p>The Subcommittee noted that pembrolizumab for use in the treatment of adult and paediatric patients with unresectable or metastatic, MSI-H/dMMR solid tumours, regardless of tumour site or histology has been approved by the FDA, and that pembrolizumab appears in the <a href=\"https://www.nccn.org/patients/guidelines/content/PDF/colon-patient.pdf\" target=\"_blank\">NCCN guidelines</a> as a treatment option for MSI-H/dMMR colorectal cancer. The Subcommittee also noted that in 2019, the PBAC recommended pembrolizumab as a second-line treatment for unresectable or metastatic MSI-H/dMMR colorectal cancer be declined but considered that the evidence reviewed at the time included very early data. The Subcommittee noted SMC and CADTH recommendations for treatment of MSI-H/dMMR colorectal cancer were pending, and NICE had recommended pembrolizumab for first-line MSI-H/dMMR colorectal cancer provided pembrolizumab was provided in line with a commercial agreement with the supplier.</p><p><br></p><p>The Subcommittee considered that the most significant adverse events requiring either hospitalisation or further pharmacological treatment following pembrolizumab therapy are thyroid disorders, pneumonitis, colitis, hepatitis, skin reactions of various types, and type I diabetes.</p><p><br></p><p>The Subcommittee considered that the strength and quality of evidence for use of pembrolizumab in the treatment of MSI-H/dMMR cancers is strongest for colorectal cancer, and that MSI-H/dMMR tumours are a hypervariable, heterogenous population defined only by a single measure. The Subcommittee considered that the summative data of the different tumour type subgroups and the biological plausibility of using an immune checkpoint inhibitor for all MSI-H/dMMR cancers regardless of tumour subtype is not supported by the currently available evidence.</p><p><br></p><p>The Subcommittee considered that the evidence was too immature to indicate strongly which tumour types expressing dMMR would achieve the greatest gain in OS or PFS relative to currently available treatment and prognosis from pembrolizumab. The Subcommittee noted that KEYNOTE-158 results were soon to be published by ASCO as an update and considered it appropriate to wait for these before assessing which tumour types warranted further review. The Subcommittee considered that endometrial cancer seems to be the most promising treatment candidate after colorectal cancer, and that future review of updated data for endometrial cancer is warranted. The Subcommittee considered that extrapolation of the results from the above trials to imply benefit across all treatment arms is inappropriate as not all dMMR cancers have the same prognosis, respond to pembrolizumab in the same way, and some do not respond to pembrolizumab at all.</p><p><br></p><p>The Subcommittee considered that the phenomenon of clinical trial data evaluating biological plausibility by biological and molecular status definition rather than tumour histological organ specific definition (ie tumour agnostic basket studies) was likely to increase in prevalence and presented difficulties with both assessment of evidence, and assessment of cost-effectiveness due to the lack of homogeneity in outcomes and costs.</p><p><br></p><p>The Subcommittee considered oxaliplatin and capecitabine (CAPOX) to be an important part of the mixed comparator in this proposal noting CAPOX is preferred due to resource implications, relative to other treatment options, but folinic acid, fluorouracil and oxaliplatin (FOLFOX) is often used for patients with comorbidities, intolerance to CAPOX or issues swallowing tablets, for example.</p><p><br></p><p>The Subcommittee considered that the below summarises its interpretation of the most appropriate PICO (population, intervention, comparator, outcomes) information for pembrolizumab if it were to be funded in New Zealand for unresectable or metastatic, MSI-H or dMMR colorectal cancer. This PICO captures key clinical aspects of the proposal and may be used to frame any future economic assessment by PHARMAC staff. This PICO is based on the Subcommittee\u2019s assessment at this time and may differ from that requested by the applicant. The PICO may change based on new information, additional clinical advice, or further analysis by Pharmac staff.\u00a0</p><p><br></p><p><img src=\"/apptracker/servlet/rtaImage?eid=a0POZ00000HenbQ&amp;feoid=00N2P000000YsIc&amp;refid=0EM2P000001djDr\" alt=\"7.PNG\"></img></p>",
+          "fs": "<p>The Subcommittee noted that DNA mismatch repair (MMR) is a key process in maintaining genomic stability and is facilitated by MMR proteins which are responsible for the control and coordination of repair of spontaneous point mutations within cellular proliferation. The Subcommittee noted that defects in the MMR process, leading from deficient MMR (ie dMMR) due to the loss or absence of activity of MMR proteins, are associated with genome-wide instability and the progressive accumulation of mutations especially within regions of simple repetitive DNA sequences known as microsatellites which result in a high microsatellite instability (MSI-H) phenotype, allowing mutations to be accumulated rapidly, resulting in tumour development.</p><p><br></p><p>The Subcommittee noted that dMMR is characterised by immunohistochemically determined loss of one or more MMR proteins (MSH2, MLH1, MSH6, PMS2), and confirmation of MLH1 promoter methylation is used to determine a cohort of patients who should proceed to genetic testing. The Subcommittee noted that MSI-H is determined by PCR assessment and characterised by 3 to 5 tumour microsatellite loci deleted if using a standard 5-panel profile, or &gt;30% if a larger panel is used. The Subcommittee noted that in New Zealand immunohistochemistry is routinely performed for colorectal and endometrial cancers to confirm MSI and MMR status but is typically only performed for other tumour types on request. This would be for patients with a personal or family history suggestive of Lynch Syndrome (a cancer syndrome associated with inherited mutational changes in MMR resulting in genetic predisposition to different cancer types).</p><p><br></p><p>The Subcommittee noted a study of dMMR prevalence across a variety of tumour types (<a href=\"https://pubmed.ncbi.nlm.nih.gov/28596308/\" target=\"_blank\">Le et al. Science. 2017;357:409-13</a>) which reported, from a survey of 12,000 tumours, the most common cancers with dMMR were endometrial, gastric adenocarcinoma, small intestinal malignancies, and colorectal adenocarcinomas, with the proportion of dMMR higher in early stage tumours rather than late stage tumours, though this was not seen in all cancer types. The Subcommittee noted that due to their high mutation burden, dMMR cancers present significantly higher levels of neoantigens, which can provide a preclinical rational for the efficacy of immunotherapy in treating these cancers.</p><p><br></p><p>The Subcommittee noted that prognosis and treatments are variable for MSI-H/dMMR tumour types;</p><p><br></p><p>The Subcommittee noted that 90% of metastatic colon cancer is incurable, and that patients often have a poor prognosis of approximately 24-26 months regardless of chemo-sensitivity with the most aggressive current funded chemotherapy options in New Zealand. The Subcommittee noted that the prevalent patient population in New Zealand is younger than the worldwide average and considered that this attributes to the severe health need of colorectal cancer in New Zealand.</p><p><br></p><p>The Subcommittee noted endometrial cancer MSI is a negative prognostic feature, especially as there is no effective standard of care for metastatic disease and durability of response to current treatments is poor. The Subcommittee noted MSI-H/dMMR status in ovarian cancer is usually associated as being chemo-sensitive, with lower grade disease and longer overall survival.</p><p><br></p><p>The Subcommittee considered that patients with MSI-H/dMMR tumours have different health needs based on response rates to current treatments, durability of response, and the general prognosis associated with each malignancy and the tumour origin. The Subcommittee considered that there is insufficient evidence published to adequately analyse the competing prognostic risks of MSI-H/dMMR tumour subtypes and overall prognosis appears to be less dependent on dMMR status and more on stage of disease when comparing early vs. late-stage disease. The Subcommittee noted that within some tumour types, dMMR cohorts perform better than others especially if compared to BRAF mutational prognosis.</p><p><br></p><p>The Subcommittee also noted that the proportion of patients expected to be dMMR in the metastatic setting differs across tumour types and considered that approximately 5% of stage IV cancers of any type will be MSI-H/dMMR.</p><p><br></p><p>The Subcommittee noted that 15% of colorectal cancers are considered to be dMMR, with approximately 20% of colorectal cancers in the New Zealand patient population metastatic at diagnosis (<a href=\"https://pubmed.ncbi.nlm.nih.gov/29879724/\" target=\"_blank\">Sharples et al. N Z Med J. 2018;131:24-39</a>). The Subcommittee considered it more appropriate to use cancer registrations to estimate patient numbers, since these were associated with histology information. In their estimate of patient numbers, the Subcommittee assumed that 20% of cancer registrations in colorectal cancer (3,189) were metastatic, approximately 5% (based on 4% in the submission) were MSI-H/dMMR and 90% had an ECOG status of 0-1. The Subcommittee considered that this would equate to around 32 patients per year with MSI-H/dMMR solid tumours in New Zealand, among whom 95% could be expected to take up pembrolizumab, with a small a prevalent pool of patients in the first year.</p><p><br></p><p>The Subcommittee noted that there is no evidence that MSI-H/dMMR solid tumours disproportionately affect M\u0101ori, Pacific or other groups in the community who are socially or economically disadvantaged.</p><p><br></p><p><i>Colorectal cancer </i></p><p>The Subcommittee noted four phase II trials investigating immune checkpoint inhibitors (including pembrolizumab) in the treatment of colorectal cancer:</p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/28734759/\" target=\"_blank\">Overman et al. Lancet Oncol. 2017;18:1182-91</a></p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/28596308/\" target=\"_blank\">Le et al. Science. 2017;357:409-13</a></p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/31725351/\" target=\"_blank\">Le et al. J Clin Oncol. 2020;38:11-9</a></p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://meetinglibrary.asco.org/record/182520/abstract\" target=\"_blank\">Andre et al. ASCO 2020. Gastrointestinal Cancers Symposium. Abstract 218</a></p><p><br></p><p>The Subcommittee noted that these were all small phase II studies of less than 450 people, with only three published studies despite a number of reports. The Subcommittee noted that FDA approval was granted to these treatments for colorectal cancer on the basis of this phase II data and biological plausibility. The Subcommittee noted that most of the Phase II studies were uncontrolled platform trials that merged selected arms in order to generate data and considered that randomised controlled trials of immunotherapy compared to placebo will likely never be undertaken, based on the evidence of response to immunotherapy treatment.</p><p><br></p><p>The Subcommittee noted a number of immunotherapy studies investigating treatment with dual immune checkpoint inhibitors as opposed to single agent therapy in MSI-H/dMMR metastatic colorectal cancer:</p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/29355075/\" target=\"_blank\">Overman et al. J Cin Oncol. 2018;36:773-79</a></p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://meetinglibrary.asco.org/record/182537/abstract\" target=\"_blank\">Cohen et al. ASCO 2020. Gastrointestinal Cancers Symposium. Abstract 101</a></p><p><br></p><p>The Subcommittee considered that the PFS results from single and dual immunotherapy agent studies to be promising, demonstrating durable response with over 70% of PFS maintained at 12 months.</p><p><br></p><p>The Subcommittee noted the phase III, randomised, open-label trial (KEYNOTE-177; N=307) of pembrolizumab (200 mg 3-weekly) versus standard of care/investigators choice of chemotherapy for the first-line treatment of patients with MSI-H or dMMR metastatic colorectal cancer (<a href=\"https://pubmed.ncbi.nlm.nih.gov/33264544/\" target=\"_blank\">Andre et al. N Engl J Med. 2020;383:2207-18</a>). The Subcommittee noted pembrolizumab was given for a maximum of 35 cycles (equivalent to approximately 2 years), or until there was unacceptable toxicity or disease progression, with chemotherapy given until evidence of disease progression or toxicity.</p><p><br></p><p>The Subcommittee noted the concept of \u2018sided-ness\u2019 in the management of colorectal cancer was an important consideration in treatment choice and noted that the performance of patients in the control arm accounted for this with respect to enabling investigators choice for exposure to biologic therapies in the control arm. The Subcommittee considered this was appropriate and resulted in a pragmatic appropriate control arm.</p><p><br></p><p>The Subcommittee noted that colorectal patients with <i>BRAF</i> mutations typically have worse outcomes due to the inherently chemo-resistant nature of the mutation and can be over-represented in the dMMR patient population. The Subcommittee considered that patients with <i>BRAF </i>mutations were evenly distributed between the control and treatment arms in KEYNOTE-177.</p><p><br></p><p>The Subcommittee noted that the primary endpoints were progression free survival and overall survival, with secondary endpoints of response rate, safety, duration of response, and quality of life. The Subcommittee noted that crossover was permitted upon progression and considered that this may create challenges for analysis of overall survival, noting approximately 60% of patients accessed immunotherapy second line.</p><p><br></p><p>The Subcommittee noted that the PFS was reported to be 16.5 months compared to</p><p>8.2 months after the median follow up of 32.4 months (24.0-48.3). The Subcommittee noted the hazard ratio for death was reported to be 0.60 (95% CI 0.45 to 0.80; p=0.0002). The authors of the study considered that this hazard ratio was not valid, due to the progression-free survival curves for the two treatment groups crossing and not being parallel, indicating that the proportional hazards assumption was violated. Thus, the authors had considered that the hazard ratio should have been estimated from 8 months onwards or a restricted means analysis used to calculate an overall hazard ratio over the whole period without making the proportional hazards assumption. The Subcommittee agreed with this statistical approach. The Subcommittee considered the estimated restricted means for progression free survival over 24 months to be a more appropriate summary of the treatment effects, at 13.7 months for the pembrolizumab group (95% CI 12 to 15.4 months) versus 10.8 months for chemotherapy (95% CI 9.0 to 12.2 months).</p><p><br></p><p>The Subcommittee noted that 9.2% of participants in KEYNOTE-177 who received pembrolizumab were assumed to undergo surgery with curative intent as a consequence of a response to treatment, while 8.4% were assumed to undergo surgery with chemotherapy.</p><p><br></p><p>The Subcommittee noted grade \u22653 treatment related events differed between arms, occurring in 56% of pembrolizumab treatment patients compared to 78% of the chemotherapy treatment arm indicating pembrolizumab was better tolerated than chemotherapy. The Subcommittee considered that this difference would have significant resource implications however noted that pembrolizumab was associated with greater immune-mediated side effects which typically required more costly treatment interventions.</p><p><br></p><p>The Subcommittee noted an abstract from the <a href=\"https://meetinglibrary.asco.org/record/194079/abstract\" target=\"_blank\" style=\"color: windowtext;\">2021 ASCO Gastrointestinal Cancers Symposium (abstract 6)</a> which presented the updated and now final progression free survival analysis for KEYNOTE-177. The Subcommittee noted that pembrolizumab was superior to chemotherapy for progression free survival (median 16.5 months versus 8.2 months, respectively; HR 0.60; 95% CI 0.45 to 0.80; p= 0.0002) and that the 12- and 24-month progression free survival rates were 55.3% and 48.3% with pembrolizumab vs 37.3% and 18.6% with chemotherapy.</p><p><br></p><p>The Subcommittee noted this data indicated some patients do poorly in the initial months of treatment due to a lack of early treatment efficacy and time until treatment effect, depending on the speed of disease progression.\u00a0\u00a0</p><p><br></p><p>The Subcommittee noted that overall, all subgroups analysed appear to favour pembrolizumab, including the <i>BRAF</i> mutation subgroup, and that there were no new safety signals identified.</p><p><br></p><p>The Subcommittee noted the health-related quality of life results from KEYNOTE-177 reported improvements in global health score, physical functioning, social functioning, and fatigue in the pembrolizumab treated group compared to the control group (<a href=\"https://pubmed.ncbi.nlm.nih.gov/33812497/\" target=\"_blank\">Andre et al. Lancet Oncol. 2021;22:665-77</a>). The Subcommittee considered that the differences in scores between the two treatment groups were clinically significant, and that the quality-of-life improvements presented are very important to patients.</p><p><i>MSI-H/dMMR cancers (non-colorectal)</i></p><p><br></p><p>The Subcommittee noted a phase II observational cohort study investigating the use of pembrolizumab for the second- or subsequent line of treatment for 12 different MSI-H/dMMR tumour types, 55% of which were non-colorectal cancers (<a href=\"https://pubmed.ncbi.nlm.nih.gov/28596308/\" target=\"_blank\">Le et al. Science. 2017;357:409-13).</a> The Subcommittee noted that objective responses were similar between colorectal cancer and other cancer subtypes; 52% (95% CI, 36 to 68%) of patients with colorectal cancers versus 54% (95% CI, 39 to 69%) of the patients with cancers originating in other organs. The Subcommittee noted, however, that the patient numbers in each cohort were very small for groups other than colorectal and endometrial cancers and considered this made comparison of results between subgroups difficult.</p><p><br></p><p>The Subcommittee noted the phase II observational, open-label, non-randomised KEYNOTE-158 study (N=233) of pembrolizumab (200 mg for a maximum of 35 cycles) for the treatment of non-colorectal MSI-H/dMMR malignancy with advanced/metastatic disease who had progressed or had intolerance to standard therapy (<a href=\"https://pubmed.ncbi.nlm.nih.gov/31682550/\" target=\"_blank\">Marabelle et al. J Clin Oncol. 2020;38:1-10</a>). The Subcommittee noted that 27 individual tumour types were assessed, as well as one basket \u2018other\u2019 group.</p><p><br></p><p>The Subcommittee noted that the overall progression free survival was 4.1 months across all tumour types (95% CI 2.4 to 4.9) and that the median overall survival was 23.5 months (95% CI 13.5 to \u2018not reached\u2019), with no new safety signals reported.</p><p><br></p><p>The Subcommittee noted that the greatest anti-tumour activity was observed in the endometrial and gastric cancer subgroups, with median progression free survival of 25.7 months (95% CI 4.9 to \u2018not reached\u2019) and 11.0 months (95% CI 2.1 to \u2018not reached\u2019), respectively.</p><p><br></p><p>The Subcommittee noted updated, unpublished data from KEYNOTE-158 presented at ASCO 2021, which reported that 16% of patients were still on treatment at 37 months follow-up. The Subcommittee also noted that 73% of patients with endometrial cancer were still alive at 12 months, with an objective response rate of 30.8%, and a median duration of response of 47.5 months.</p><p><br></p><p>The Subcommittee also noted the following studies providing evidence for pembrolizumab for the treatment of MSI-H/dMMR solid tumours:</p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/31682550/\" target=\"_blank\">Marabelle et al. J Clin Oncol. 2020;38:1-10</a></p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/26028255/\" target=\"_blank\">Le et al. N Engl J Med. 2015;372:2509-20</a></p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/31151482/\" target=\"_blank\">Zhao et al J Hematol Oncol. 2019;12:54</a></p><h1><i style=\"font-size: 11pt;\">General</i></h1><p>The Subcommittee noted that pembrolizumab for use in the treatment of adult and paediatric patients with unresectable or metastatic, MSI-H/dMMR solid tumours, regardless of tumour site or histology has been approved by the FDA, and that pembrolizumab appears in the <a href=\"https://www.nccn.org/patients/guidelines/content/PDF/colon-patient.pdf\" target=\"_blank\">NCCN guidelines</a> as a treatment option for MSI-H/dMMR colorectal cancer. The Subcommittee also noted that in 2019, the PBAC recommended pembrolizumab as a second-line treatment for unresectable or metastatic MSI-H/dMMR colorectal cancer be declined but considered that the evidence reviewed at the time included very early data. The Subcommittee noted SMC and CADTH recommendations for treatment of MSI-H/dMMR colorectal cancer were pending, and NICE had recommended pembrolizumab for first-line MSI-H/dMMR colorectal cancer provided pembrolizumab was provided in line with a commercial agreement with the supplier.</p><p><br></p><p>The Subcommittee considered that the most significant adverse events requiring either hospitalisation or further pharmacological treatment following pembrolizumab therapy are thyroid disorders, pneumonitis, colitis, hepatitis, skin reactions of various types, and type I diabetes.</p><p><br></p><p>The Subcommittee considered that the strength and quality of evidence for use of pembrolizumab in the treatment of MSI-H/dMMR cancers is strongest for colorectal cancer, and that MSI-H/dMMR tumours are a hypervariable, heterogenous population defined only by a single measure. The Subcommittee considered that the summative data of the different tumour type subgroups and the biological plausibility of using an immune checkpoint inhibitor for all MSI-H/dMMR cancers regardless of tumour subtype is not supported by the currently available evidence.</p><p><br></p><p>The Subcommittee considered that the evidence was too immature to indicate strongly which tumour types expressing dMMR would achieve the greatest gain in OS or PFS relative to currently available treatment and prognosis from pembrolizumab. The Subcommittee noted that KEYNOTE-158 results were soon to be published by ASCO as an update and considered it appropriate to wait for these before assessing which tumour types warranted further review. The Subcommittee considered that endometrial cancer seems to be the most promising treatment candidate after colorectal cancer, and that future review of updated data for endometrial cancer is warranted. The Subcommittee considered that extrapolation of the results from the above trials to imply benefit across all treatment arms is inappropriate as not all dMMR cancers have the same prognosis, respond to pembrolizumab in the same way, and some do not respond to pembrolizumab at all.</p><p><br></p><p>The Subcommittee considered that the phenomenon of clinical trial data evaluating biological plausibility by biological and molecular status definition rather than tumour histological organ specific definition (ie tumour agnostic basket studies) was likely to increase in prevalence and presented difficulties with both assessment of evidence, and assessment of cost-effectiveness due to the lack of homogeneity in outcomes and costs.</p><p><br></p><p>The Subcommittee considered oxaliplatin and capecitabine (CAPOX) to be an important part of the mixed comparator in this proposal noting CAPOX is preferred due to resource implications, relative to other treatment options, but folinic acid, fluorouracil and oxaliplatin (FOLFOX) is often used for patients with comorbidities, intolerance to CAPOX or issues swallowing tablets, for example.</p><p><br></p><p>The Subcommittee considered that the below summarises its interpretation of the most appropriate PICO (population, intervention, comparator, outcomes) information for pembrolizumab if it were to be funded in New Zealand for unresectable or metastatic, MSI-H or dMMR colorectal cancer. This PICO captures key clinical aspects of the proposal and may be used to frame any future economic assessment by PHARMAC staff. This PICO is based on the Subcommittee\u2019s assessment at this time and may differ from that requested by the applicant. The PICO may change based on new information, additional clinical advice, or further analysis by Pharmac staff.\u00a0</p><p><br></p><p><img src=\"/apptracker/servlet/rtaImage?eid=a0POZ00000HenbQ&amp;feoid=00N2P000000YsIc&amp;refid=0EM2P000001djDr\" alt=\"7.PNG\"></img></p>",
+          "change": null
+        },
+        "Published_Application": {
+          "s": "<p><span style=\"color: rgb(62, 62, 60);\">The Committee/Subcommittee reviewed the funding application for Pembrolizumab in the treatment of First-line treatment of unresectable or metastatic, microsatellite instability-high (MSI-H) or mismatch repair deficient (dMMR) colorectal cancer. The Committee/Subcommittee took into account, where applicable, PHARMAC\u2019s relevant decision-making framework when considering this agenda item.</span></p>",
+          "fs": "<p><span style=\"color: rgb(62, 62, 60);\">The Committee/Subcommittee reviewed the funding application for Pembrolizumab in the treatment of First-line treatment of unresectable or metastatic, microsatellite instability-high (MSI-H) or mismatch repair deficient (dMMR) colorectal cancer. The Committee/Subcommittee took into account, where applicable, PHARMAC\u2019s relevant decision-making framework when considering this agenda item.</span></p>",
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": "High",
+          "fs": "High",
+          "change": null
+        },
+        "Links": {
+          "s": "<h3><a href=\"https://pharmac.govt.nz/assets/2021-07-Catsop_record.pdf\" target=\"_blank\">Cancer Treatments Advisory Committee Meeting Record</a></h3><p><br></p>",
+          "fs": "<h3><a href=\"https://pharmac.govt.nz/assets/2021-07-Catsop_record.pdf\" target=\"_blank\">Cancer Treatments Advisory Committee Meeting Record</a></h3><p><br></p>",
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Nov 2021",
+          "fs": "Nov 2021",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Clinical advice received from Cancer Treatments Subcommittee (CaTSoP) at meeting Friday 9 July 2021.",
+          "fs": "Clinical advice received from Cancer Treatments Subcommittee (CaTSoP) at meeting Friday 9 July 2021.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000HenbQ2AR"
+          },
+          "Id": "a0POZ00000HenbQ2AR",
+          "Event_Date__c": "2021-11-10",
+          "Event_Description__c": "Clinical advice received from Cancer Treatments Subcommittee (CaTSoP) at meeting Friday 9 July 2021.",
+          "Stage__c": "Seeking Clinical Advice",
+          "Links__c": "<h3><a href=\"https://pharmac.govt.nz/assets/2021-07-Catsop_record.pdf\" target=\"_blank\">Cancer Treatments Advisory Committee Meeting Record</a></h3><p><br></p>",
+          "Outcome__c": "High",
+          "Formatted_Date__c": "Nov 2021",
+          "Published_Recommendation__c": "<p>The Subcommittee <b>recommended</b> that pembrolizumab for the first-line treatment of microsatellite instability-high (MSI-H) or mismatch repair deficient (dMMR) colorectal cancer be listed with a <b>high priority</b> within the context of treatments for malignancy subject to the following Special Authority criteria:</p><p><b style=\"font-size: 9pt;\">INITIAL APPLICATION \u2013 MSI-H/dMMR advanced colorectal cancer</b></p><p><span style=\"font-size: 9pt;\">Only from a medical oncologist; approvals valid for four months.</span></p><ol><li><span style=\"font-size: 9pt;\">Patient has deficient mismatch repair (dMMR); or microsatellite instability-high (MSI-H) metastatic colorectal cancer; and </span></li><li><span style=\"font-size: 9pt;\">The patient has not received prior systemic therapy administered in the metastatic setting; and</span></li><li><span style=\"font-size: 9pt;\">The patient must have an ECOG performance score of 0-1; and</span></li><li><span style=\"font-size: 9pt;\">Baseline measurement of overall tumour burden is documented; and </span></li></ol><p><span style=\"font-size: 9pt;\">\u00a0RENEWAL- </span></p><p><span style=\"font-size: 9pt;\">Only from a medical oncologist; approvals valid for four months.</span></p><p><span style=\"font-size: 9pt;\">1.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">No evidence of disease progression; and </span></p><p><span style=\"font-size: 9pt;\">2.</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span><span style=\"font-size: 9pt;\">The total treatment received must not exceed 24 months</span></p><p><br></p><p>In making this recommendation the Subcommittee considered the high health need of patients with metastatic or unresectable MSI-H/dMMR colorectal cancer and the evidence supporting durability of response and suitability compared to currently available treatments.</p><p><br></p><p>The Subcommittee <b>deferred </b>making a recommendation on pembrolizumab for the treatment of microsatellite instability-high (MSI-H) or mismatch repair deficient (dMMR) cancers that have progressed following prior treatment pending the publication of the KEYNOTE 158 trial.</p><p><br></p><p>In making this recommendation, the Subcommittee considered that the evidence available was of low quality with uncertainty in the validity of pembrolizumab as a tumour agnostic treatment. The Subcommittee considered there was variable positive data within individual tumour entities however this was not consistent enough between tumours to make generalisations about treatment.</p><p><br></p><p>The Subcommittee considered that whilst there was insufficient mature data for pembrolizumab as a tumour agnostic treatment, further assessment could be considered for individual tumour entities based on the availability of evidence demonstrating benefit from pembrolizumab treatment noting the available evidence for treatment of MSI-H/dMMR endometrial cancer appeared promising.\u00a0</p>",
+          "Published_Application__c": "<p><span style=\"color: rgb(62, 62, 60);\">The Committee/Subcommittee reviewed the funding application for Pembrolizumab in the treatment of First-line treatment of unresectable or metastatic, microsatellite instability-high (MSI-H) or mismatch repair deficient (dMMR) colorectal cancer. The Committee/Subcommittee took into account, where applicable, PHARMAC\u2019s relevant decision-making framework when considering this agenda item.</span></p>",
+          "Published_Discussion__c": "<p>The Subcommittee noted that DNA mismatch repair (MMR) is a key process in maintaining genomic stability and is facilitated by MMR proteins which are responsible for the control and coordination of repair of spontaneous point mutations within cellular proliferation. The Subcommittee noted that defects in the MMR process, leading from deficient MMR (ie dMMR) due to the loss or absence of activity of MMR proteins, are associated with genome-wide instability and the progressive accumulation of mutations especially within regions of simple repetitive DNA sequences known as microsatellites which result in a high microsatellite instability (MSI-H) phenotype, allowing mutations to be accumulated rapidly, resulting in tumour development.</p><p><br></p><p>The Subcommittee noted that dMMR is characterised by immunohistochemically determined loss of one or more MMR proteins (MSH2, MLH1, MSH6, PMS2), and confirmation of MLH1 promoter methylation is used to determine a cohort of patients who should proceed to genetic testing. The Subcommittee noted that MSI-H is determined by PCR assessment and characterised by 3 to 5 tumour microsatellite loci deleted if using a standard 5-panel profile, or &gt;30% if a larger panel is used. The Subcommittee noted that in New Zealand immunohistochemistry is routinely performed for colorectal and endometrial cancers to confirm MSI and MMR status but is typically only performed for other tumour types on request. This would be for patients with a personal or family history suggestive of Lynch Syndrome (a cancer syndrome associated with inherited mutational changes in MMR resulting in genetic predisposition to different cancer types).</p><p><br></p><p>The Subcommittee noted a study of dMMR prevalence across a variety of tumour types (<a href=\"https://pubmed.ncbi.nlm.nih.gov/28596308/\" target=\"_blank\">Le et al. Science. 2017;357:409-13</a>) which reported, from a survey of 12,000 tumours, the most common cancers with dMMR were endometrial, gastric adenocarcinoma, small intestinal malignancies, and colorectal adenocarcinomas, with the proportion of dMMR higher in early stage tumours rather than late stage tumours, though this was not seen in all cancer types. The Subcommittee noted that due to their high mutation burden, dMMR cancers present significantly higher levels of neoantigens, which can provide a preclinical rational for the efficacy of immunotherapy in treating these cancers.</p><p><br></p><p>The Subcommittee noted that prognosis and treatments are variable for MSI-H/dMMR tumour types;</p><p><br></p><p>The Subcommittee noted that 90% of metastatic colon cancer is incurable, and that patients often have a poor prognosis of approximately 24-26 months regardless of chemo-sensitivity with the most aggressive current funded chemotherapy options in New Zealand. The Subcommittee noted that the prevalent patient population in New Zealand is younger than the worldwide average and considered that this attributes to the severe health need of colorectal cancer in New Zealand.</p><p><br></p><p>The Subcommittee noted endometrial cancer MSI is a negative prognostic feature, especially as there is no effective standard of care for metastatic disease and durability of response to current treatments is poor. The Subcommittee noted MSI-H/dMMR status in ovarian cancer is usually associated as being chemo-sensitive, with lower grade disease and longer overall survival.</p><p><br></p><p>The Subcommittee considered that patients with MSI-H/dMMR tumours have different health needs based on response rates to current treatments, durability of response, and the general prognosis associated with each malignancy and the tumour origin. The Subcommittee considered that there is insufficient evidence published to adequately analyse the competing prognostic risks of MSI-H/dMMR tumour subtypes and overall prognosis appears to be less dependent on dMMR status and more on stage of disease when comparing early vs. late-stage disease. The Subcommittee noted that within some tumour types, dMMR cohorts perform better than others especially if compared to BRAF mutational prognosis.</p><p><br></p><p>The Subcommittee also noted that the proportion of patients expected to be dMMR in the metastatic setting differs across tumour types and considered that approximately 5% of stage IV cancers of any type will be MSI-H/dMMR.</p><p><br></p><p>The Subcommittee noted that 15% of colorectal cancers are considered to be dMMR, with approximately 20% of colorectal cancers in the New Zealand patient population metastatic at diagnosis (<a href=\"https://pubmed.ncbi.nlm.nih.gov/29879724/\" target=\"_blank\">Sharples et al. N Z Med J. 2018;131:24-39</a>). The Subcommittee considered it more appropriate to use cancer registrations to estimate patient numbers, since these were associated with histology information. In their estimate of patient numbers, the Subcommittee assumed that 20% of cancer registrations in colorectal cancer (3,189) were metastatic, approximately 5% (based on 4% in the submission) were MSI-H/dMMR and 90% had an ECOG status of 0-1. The Subcommittee considered that this would equate to around 32 patients per year with MSI-H/dMMR solid tumours in New Zealand, among whom 95% could be expected to take up pembrolizumab, with a small a prevalent pool of patients in the first year.</p><p><br></p><p>The Subcommittee noted that there is no evidence that MSI-H/dMMR solid tumours disproportionately affect M\u0101ori, Pacific or other groups in the community who are socially or economically disadvantaged.</p><p><br></p><p><i>Colorectal cancer </i></p><p>The Subcommittee noted four phase II trials investigating immune checkpoint inhibitors (including pembrolizumab) in the treatment of colorectal cancer:</p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/28734759/\" target=\"_blank\">Overman et al. Lancet Oncol. 2017;18:1182-91</a></p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/28596308/\" target=\"_blank\">Le et al. Science. 2017;357:409-13</a></p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/31725351/\" target=\"_blank\">Le et al. J Clin Oncol. 2020;38:11-9</a></p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://meetinglibrary.asco.org/record/182520/abstract\" target=\"_blank\">Andre et al. ASCO 2020. Gastrointestinal Cancers Symposium. Abstract 218</a></p><p><br></p><p>The Subcommittee noted that these were all small phase II studies of less than 450 people, with only three published studies despite a number of reports. The Subcommittee noted that FDA approval was granted to these treatments for colorectal cancer on the basis of this phase II data and biological plausibility. The Subcommittee noted that most of the Phase II studies were uncontrolled platform trials that merged selected arms in order to generate data and considered that randomised controlled trials of immunotherapy compared to placebo will likely never be undertaken, based on the evidence of response to immunotherapy treatment.</p><p><br></p><p>The Subcommittee noted a number of immunotherapy studies investigating treatment with dual immune checkpoint inhibitors as opposed to single agent therapy in MSI-H/dMMR metastatic colorectal cancer:</p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/29355075/\" target=\"_blank\">Overman et al. J Cin Oncol. 2018;36:773-79</a></p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://meetinglibrary.asco.org/record/182537/abstract\" target=\"_blank\">Cohen et al. ASCO 2020. Gastrointestinal Cancers Symposium. Abstract 101</a></p><p><br></p><p>The Subcommittee considered that the PFS results from single and dual immunotherapy agent studies to be promising, demonstrating durable response with over 70% of PFS maintained at 12 months.</p><p><br></p><p>The Subcommittee noted the phase III, randomised, open-label trial (KEYNOTE-177; N=307) of pembrolizumab (200 mg 3-weekly) versus standard of care/investigators choice of chemotherapy for the first-line treatment of patients with MSI-H or dMMR metastatic colorectal cancer (<a href=\"https://pubmed.ncbi.nlm.nih.gov/33264544/\" target=\"_blank\">Andre et al. N Engl J Med. 2020;383:2207-18</a>). The Subcommittee noted pembrolizumab was given for a maximum of 35 cycles (equivalent to approximately 2 years), or until there was unacceptable toxicity or disease progression, with chemotherapy given until evidence of disease progression or toxicity.</p><p><br></p><p>The Subcommittee noted the concept of \u2018sided-ness\u2019 in the management of colorectal cancer was an important consideration in treatment choice and noted that the performance of patients in the control arm accounted for this with respect to enabling investigators choice for exposure to biologic therapies in the control arm. The Subcommittee considered this was appropriate and resulted in a pragmatic appropriate control arm.</p><p><br></p><p>The Subcommittee noted that colorectal patients with <i>BRAF</i> mutations typically have worse outcomes due to the inherently chemo-resistant nature of the mutation and can be over-represented in the dMMR patient population. The Subcommittee considered that patients with <i>BRAF </i>mutations were evenly distributed between the control and treatment arms in KEYNOTE-177.</p><p><br></p><p>The Subcommittee noted that the primary endpoints were progression free survival and overall survival, with secondary endpoints of response rate, safety, duration of response, and quality of life. The Subcommittee noted that crossover was permitted upon progression and considered that this may create challenges for analysis of overall survival, noting approximately 60% of patients accessed immunotherapy second line.</p><p><br></p><p>The Subcommittee noted that the PFS was reported to be 16.5 months compared to</p><p>8.2 months after the median follow up of 32.4 months (24.0-48.3). The Subcommittee noted the hazard ratio for death was reported to be 0.60 (95% CI 0.45 to 0.80; p=0.0002). The authors of the study considered that this hazard ratio was not valid, due to the progression-free survival curves for the two treatment groups crossing and not being parallel, indicating that the proportional hazards assumption was violated. Thus, the authors had considered that the hazard ratio should have been estimated from 8 months onwards or a restricted means analysis used to calculate an overall hazard ratio over the whole period without making the proportional hazards assumption. The Subcommittee agreed with this statistical approach. The Subcommittee considered the estimated restricted means for progression free survival over 24 months to be a more appropriate summary of the treatment effects, at 13.7 months for the pembrolizumab group (95% CI 12 to 15.4 months) versus 10.8 months for chemotherapy (95% CI 9.0 to 12.2 months).</p><p><br></p><p>The Subcommittee noted that 9.2% of participants in KEYNOTE-177 who received pembrolizumab were assumed to undergo surgery with curative intent as a consequence of a response to treatment, while 8.4% were assumed to undergo surgery with chemotherapy.</p><p><br></p><p>The Subcommittee noted grade \u22653 treatment related events differed between arms, occurring in 56% of pembrolizumab treatment patients compared to 78% of the chemotherapy treatment arm indicating pembrolizumab was better tolerated than chemotherapy. The Subcommittee considered that this difference would have significant resource implications however noted that pembrolizumab was associated with greater immune-mediated side effects which typically required more costly treatment interventions.</p><p><br></p><p>The Subcommittee noted an abstract from the <a href=\"https://meetinglibrary.asco.org/record/194079/abstract\" target=\"_blank\" style=\"color: windowtext;\">2021 ASCO Gastrointestinal Cancers Symposium (abstract 6)</a> which presented the updated and now final progression free survival analysis for KEYNOTE-177. The Subcommittee noted that pembrolizumab was superior to chemotherapy for progression free survival (median 16.5 months versus 8.2 months, respectively; HR 0.60; 95% CI 0.45 to 0.80; p= 0.0002) and that the 12- and 24-month progression free survival rates were 55.3% and 48.3% with pembrolizumab vs 37.3% and 18.6% with chemotherapy.</p><p><br></p><p>The Subcommittee noted this data indicated some patients do poorly in the initial months of treatment due to a lack of early treatment efficacy and time until treatment effect, depending on the speed of disease progression.\u00a0\u00a0</p><p><br></p><p>The Subcommittee noted that overall, all subgroups analysed appear to favour pembrolizumab, including the <i>BRAF</i> mutation subgroup, and that there were no new safety signals identified.</p><p><br></p><p>The Subcommittee noted the health-related quality of life results from KEYNOTE-177 reported improvements in global health score, physical functioning, social functioning, and fatigue in the pembrolizumab treated group compared to the control group (<a href=\"https://pubmed.ncbi.nlm.nih.gov/33812497/\" target=\"_blank\">Andre et al. Lancet Oncol. 2021;22:665-77</a>). The Subcommittee considered that the differences in scores between the two treatment groups were clinically significant, and that the quality-of-life improvements presented are very important to patients.</p><p><i>MSI-H/dMMR cancers (non-colorectal)</i></p><p><br></p><p>The Subcommittee noted a phase II observational cohort study investigating the use of pembrolizumab for the second- or subsequent line of treatment for 12 different MSI-H/dMMR tumour types, 55% of which were non-colorectal cancers (<a href=\"https://pubmed.ncbi.nlm.nih.gov/28596308/\" target=\"_blank\">Le et al. Science. 2017;357:409-13).</a> The Subcommittee noted that objective responses were similar between colorectal cancer and other cancer subtypes; 52% (95% CI, 36 to 68%) of patients with colorectal cancers versus 54% (95% CI, 39 to 69%) of the patients with cancers originating in other organs. The Subcommittee noted, however, that the patient numbers in each cohort were very small for groups other than colorectal and endometrial cancers and considered this made comparison of results between subgroups difficult.</p><p><br></p><p>The Subcommittee noted the phase II observational, open-label, non-randomised KEYNOTE-158 study (N=233) of pembrolizumab (200 mg for a maximum of 35 cycles) for the treatment of non-colorectal MSI-H/dMMR malignancy with advanced/metastatic disease who had progressed or had intolerance to standard therapy (<a href=\"https://pubmed.ncbi.nlm.nih.gov/31682550/\" target=\"_blank\">Marabelle et al. J Clin Oncol. 2020;38:1-10</a>). The Subcommittee noted that 27 individual tumour types were assessed, as well as one basket \u2018other\u2019 group.</p><p><br></p><p>The Subcommittee noted that the overall progression free survival was 4.1 months across all tumour types (95% CI 2.4 to 4.9) and that the median overall survival was 23.5 months (95% CI 13.5 to \u2018not reached\u2019), with no new safety signals reported.</p><p><br></p><p>The Subcommittee noted that the greatest anti-tumour activity was observed in the endometrial and gastric cancer subgroups, with median progression free survival of 25.7 months (95% CI 4.9 to \u2018not reached\u2019) and 11.0 months (95% CI 2.1 to \u2018not reached\u2019), respectively.</p><p><br></p><p>The Subcommittee noted updated, unpublished data from KEYNOTE-158 presented at ASCO 2021, which reported that 16% of patients were still on treatment at 37 months follow-up. The Subcommittee also noted that 73% of patients with endometrial cancer were still alive at 12 months, with an objective response rate of 30.8%, and a median duration of response of 47.5 months.</p><p><br></p><p>The Subcommittee also noted the following studies providing evidence for pembrolizumab for the treatment of MSI-H/dMMR solid tumours:</p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/31682550/\" target=\"_blank\">Marabelle et al. J Clin Oncol. 2020;38:1-10</a></p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/26028255/\" target=\"_blank\">Le et al. N Engl J Med. 2015;372:2509-20</a></p><p><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://pubmed.ncbi.nlm.nih.gov/31151482/\" target=\"_blank\">Zhao et al J Hematol Oncol. 2019;12:54</a></p><h1><i style=\"font-size: 11pt;\">General</i></h1><p>The Subcommittee noted that pembrolizumab for use in the treatment of adult and paediatric patients with unresectable or metastatic, MSI-H/dMMR solid tumours, regardless of tumour site or histology has been approved by the FDA, and that pembrolizumab appears in the <a href=\"https://www.nccn.org/patients/guidelines/content/PDF/colon-patient.pdf\" target=\"_blank\">NCCN guidelines</a> as a treatment option for MSI-H/dMMR colorectal cancer. The Subcommittee also noted that in 2019, the PBAC recommended pembrolizumab as a second-line treatment for unresectable or metastatic MSI-H/dMMR colorectal cancer be declined but considered that the evidence reviewed at the time included very early data. The Subcommittee noted SMC and CADTH recommendations for treatment of MSI-H/dMMR colorectal cancer were pending, and NICE had recommended pembrolizumab for first-line MSI-H/dMMR colorectal cancer provided pembrolizumab was provided in line with a commercial agreement with the supplier.</p><p><br></p><p>The Subcommittee considered that the most significant adverse events requiring either hospitalisation or further pharmacological treatment following pembrolizumab therapy are thyroid disorders, pneumonitis, colitis, hepatitis, skin reactions of various types, and type I diabetes.</p><p><br></p><p>The Subcommittee considered that the strength and quality of evidence for use of pembrolizumab in the treatment of MSI-H/dMMR cancers is strongest for colorectal cancer, and that MSI-H/dMMR tumours are a hypervariable, heterogenous population defined only by a single measure. The Subcommittee considered that the summative data of the different tumour type subgroups and the biological plausibility of using an immune checkpoint inhibitor for all MSI-H/dMMR cancers regardless of tumour subtype is not supported by the currently available evidence.</p><p><br></p><p>The Subcommittee considered that the evidence was too immature to indicate strongly which tumour types expressing dMMR would achieve the greatest gain in OS or PFS relative to currently available treatment and prognosis from pembrolizumab. The Subcommittee noted that KEYNOTE-158 results were soon to be published by ASCO as an update and considered it appropriate to wait for these before assessing which tumour types warranted further review. The Subcommittee considered that endometrial cancer seems to be the most promising treatment candidate after colorectal cancer, and that future review of updated data for endometrial cancer is warranted. The Subcommittee considered that extrapolation of the results from the above trials to imply benefit across all treatment arms is inappropriate as not all dMMR cancers have the same prognosis, respond to pembrolizumab in the same way, and some do not respond to pembrolizumab at all.</p><p><br></p><p>The Subcommittee considered that the phenomenon of clinical trial data evaluating biological plausibility by biological and molecular status definition rather than tumour histological organ specific definition (ie tumour agnostic basket studies) was likely to increase in prevalence and presented difficulties with both assessment of evidence, and assessment of cost-effectiveness due to the lack of homogeneity in outcomes and costs.</p><p><br></p><p>The Subcommittee considered oxaliplatin and capecitabine (CAPOX) to be an important part of the mixed comparator in this proposal noting CAPOX is preferred due to resource implications, relative to other treatment options, but folinic acid, fluorouracil and oxaliplatin (FOLFOX) is often used for patients with comorbidities, intolerance to CAPOX or issues swallowing tablets, for example.</p><p><br></p><p>The Subcommittee considered that the below summarises its interpretation of the most appropriate PICO (population, intervention, comparator, outcomes) information for pembrolizumab if it were to be funded in New Zealand for unresectable or metastatic, MSI-H or dMMR colorectal cancer. This PICO captures key clinical aspects of the proposal and may be used to frame any future economic assessment by PHARMAC staff. This PICO is based on the Subcommittee\u2019s assessment at this time and may differ from that requested by the applicant. The PICO may change based on new information, additional clinical advice, or further analysis by Pharmac staff.\u00a0</p><p><br></p><p><img src=\"/apptracker/servlet/rtaImage?eid=a0POZ00000HenbQ&amp;feoid=00N2P000000YsIc&amp;refid=0EM2P000001djDr\" alt=\"7.PNG\"></img></p>",
+          "Status_History__c": "a132P000000DKwCQAW"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Jul 2024",
+          "fs": "Jul 2024",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Clinical advice required",
+          "fs": "Clinical advice required",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000HenbT2AR"
+          },
+          "Id": "a0POZ00000HenbT2AR",
+          "Event_Date__c": "2024-07-02",
+          "Event_Description__c": "Clinical advice required",
+          "Stage__c": "Seeking Clinical Advice",
+          "Formatted_Date__c": "Jul 2024",
+          "Status_History__c": "a13OZ00000JVvwnYAD"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Aug 2024",
+          "fs": "Aug 2024",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Assigned to Cancer Treatments Advisory Committee meeting to provide advice on Thursday 15 August 2024",
+          "fs": "Assigned to Cancer Treatments Advisory Committee meeting to provide advice on Thursday 15 August 2024",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000HenbW2AR"
+          },
+          "Id": "a0POZ00000HenbW2AR",
+          "Event_Date__c": "2024-08-02",
+          "Event_Description__c": "Assigned to Cancer Treatments Advisory Committee meeting to provide advice on Thursday 15 August 2024",
+          "Stage__c": "Seeking Clinical Advice",
+          "Formatted_Date__c": "Aug 2024",
+          "Status_History__c": "a13OZ00000JVzCOYA1"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": "<p>The Cancer Treatment Advisory Committee recommended that pembrolizumab for the treatment of unresectable dMMR/MSI-H colorectal cancer be listed with a high priority, within the context of treatment for malignancy, subject to eligibility criteria.</p>",
+          "fs": "<p>The Cancer Treatment Advisory Committee recommended that pembrolizumab for the treatment of unresectable dMMR/MSI-H colorectal cancer be listed with a high priority, within the context of treatment for malignancy, subject to eligibility criteria.</p>",
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": "High",
+          "fs": "High",
+          "change": null
+        },
+        "Links": {
+          "s": "<p><a href=\"https://pharmac.govt.nz/assets/2024-08-15-Cancer-Treatment-Advisory-Committee-Ad-Hoc-meeting-record-Web-final.pdf#page=3\" target=\"_blank\">Link to the relevant discussion within the meeting record.</a></p>",
+          "fs": "<p><a href=\"https://pharmac.govt.nz/assets/2024-08-15-Cancer-Treatment-Advisory-Committee-Ad-Hoc-meeting-record-Web-final.pdf#page=3\" target=\"_blank\">Link to the relevant discussion within the meeting record.</a></p>",
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Jan 2025",
+          "fs": "Jan 2025",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Clinical advice received from Cancer Treatments Advisory Committee at meeting Thursday 15 August 2024.",
+          "fs": "Clinical advice received from Cancer Treatments Advisory Committee at meeting Thursday 15 August 2024.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000HenbY2AR"
+          },
+          "Id": "a0POZ00000HenbY2AR",
+          "Event_Date__c": "2025-01-31",
+          "Event_Description__c": "Clinical advice received from Cancer Treatments Advisory Committee at meeting Thursday 15 August 2024.",
+          "Stage__c": "Seeking Clinical Advice",
+          "Links__c": "<p><a href=\"https://pharmac.govt.nz/assets/2024-08-15-Cancer-Treatment-Advisory-Committee-Ad-Hoc-meeting-record-Web-final.pdf#page=3\" target=\"_blank\">Link to the relevant discussion within the meeting record.</a></p>",
+          "Outcome__c": "High",
+          "Summary__c": "<p>The Cancer Treatment Advisory Committee recommended that pembrolizumab for the treatment of unresectable dMMR/MSI-H colorectal cancer be listed with a high priority, within the context of treatment for malignancy, subject to eligibility criteria.</p>",
+          "Formatted_Date__c": "Jan 2025",
+          "Status_History__c": "a13OZ00000JW0EwYAL"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Feb 2021",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Following Clinical Advice, Pharmac staff considers the advice and the funding application under goes an assessment using our&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/factors-for-consideration/\" rel=\"nofollow\">Factors for Consideration</a>&nbsp;framework and seeks additional information as required.</p>\r\n<p>&nbsp;</p>\r\n<p>Research and Economic analysis are undertaken.&nbsp; This focuses on the costs and benefits of a proposed course of action. Economics is based on three fundamental concepts that summarise the issues Pharmac faces daily:&nbsp;</p>\r\n<ul>\r\n<li>Scarcity &ndash; resources will always be insufficient to support all possible activities.</li>\r\n<li>Choices &ndash; due to scarce resources, decisions must be made about how best to use them.</li>\r\n<li>Opportunity cost &ndash; by choosing to use resources one way, we forgo other opportunities to use the same resources.</li>\r\n</ul>\r\n<p>&nbsp;</p>\r\n<p>For further information on the purpose of, and techniques for, undertaking economic analysis in health care, please refer&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/economic-analysis/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/economic-analysis/</a></p>",
+    "position": 2,
+    "name": "Under Assessment",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Mar 2022",
+          "fs": "Mar 2022",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Working to compare options",
+          "fs": "Working to compare options",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000HenbR2AR"
+          },
+          "Id": "a0POZ00000HenbR2AR",
+          "Event_Date__c": "2022-03-10",
+          "Event_Description__c": "Working to compare options",
+          "Stage__c": "Under Assessment",
+          "Formatted_Date__c": "Mar 2022",
+          "Status_History__c": "a132P000000Dbc7QAC"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Mar 2022",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Pharmac staff uses a prioritisation process to compare and rank funding options. Possible opportunities for new investment will always exceed the budget Pharmac has available; therefore, prioritisation is an intrinsic part of Pharmac\u2019s decision-making process.</p>\r\n<p>The relative ranking of options aims to support Pharmac&rsquo;s statutory objective &ldquo;to secure for eligible people in need of pharmaceuticals, the best health outcomes that are reasonably achievable from pharmaceutical treatment and from within the amount of funding provided&rdquo;.</p>\r\n<p>A funding application or proposal is considered ready for prioritisation when sufficient information is available to permit it to be reviewed against Pharmac's Factors for Consideration and to inform a comparison with other possible investment decisions.</p>\r\n<p>There is no guarantee when or if a ranked medicine will be funded.&nbsp;&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/prioritisation/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/prioritisation/</a></p>",
+    "position": 3,
+    "name": "Options Compared",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Mar 2024",
+          "fs": "Mar 2024",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "The relative ranking of the pharmaceutical application has been completed.",
+          "fs": "The relative ranking of the pharmaceutical application has been completed.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000HenbS2AR"
+          },
+          "Id": "a0POZ00000HenbS2AR",
+          "Event_Date__c": "2024-03-25",
+          "Event_Description__c": "The relative ranking of the pharmaceutical application has been completed.",
+          "Stage__c": "Options Compared",
+          "Formatted_Date__c": "Mar 2024",
+          "Status_History__c": "a13OZ000008JYsjYAG"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Mar 2024",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Pharmac is consulting on a proposal to either approve or decline the application.&nbsp;We seek the views of all people who have an interest in our proposals, or who may be affected by them, to obtain feedback on our proposed approaches.</p>\r\n<p><a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/having-your-say/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/having-your-say/</a></p>",
+    "position": 4,
+    "name": "Under Consultation",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": "<p><a href=\"https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/proposal-to-widen-access-to-immunotherapy-for-six-types-of-cancer-and-treatments-to-prevent-fungal-infections\" target=\"_blank\">Consultation notification</a></p>",
+          "fs": "<p><a href=\"https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/proposal-to-widen-access-to-immunotherapy-for-six-types-of-cancer-and-treatments-to-prevent-fungal-infections\" target=\"_blank\">Consultation notification</a></p>",
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Jul 2024",
+          "fs": "Jul 2024",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Public consultation for this application is active.",
+          "fs": "Public consultation for this application is active.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000HenbU2AR"
+          },
+          "Id": "a0POZ00000HenbU2AR",
+          "Event_Date__c": "2024-07-05",
+          "Event_Description__c": "Public consultation for this application is active.",
+          "Stage__c": "Under Consultation",
+          "Links__c": "<p><a href=\"https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/proposal-to-widen-access-to-immunotherapy-for-six-types-of-cancer-and-treatments-to-prevent-fungal-infections\" target=\"_blank\">Consultation notification</a></p>",
+          "Formatted_Date__c": "Jul 2024",
+          "Status_History__c": "a13OZ00000CCFikYAH"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Jul 2024",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Following the consultation process, Pharmac staff considers the feedback and identifies any additional information required as part of a gap analysis.&nbsp; The proposal may require further clinical advice, research, and assessment.</p>",
+    "position": 5,
+    "name": "Reviewing Consultation Feedback",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Jul 2024",
+          "fs": "Jul 2024",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Public consultation for this application is now closed. Pharmac is reviewing consultation feedback.",
+          "fs": "Public consultation for this application is now closed. Pharmac is reviewing consultation feedback.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000HenbV2AR"
+          },
+          "Id": "a0POZ00000HenbV2AR",
+          "Event_Date__c": "2024-07-26",
+          "Event_Description__c": "Public consultation for this application is now closed. Pharmac is reviewing consultation feedback.",
+          "Stage__c": "Reviewing Consultation Feedback",
+          "Formatted_Date__c": "Jul 2024",
+          "Status_History__c": "a13OZ00000Ci42cYAB"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Jul 2024",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>We refer to our decisions about whether and how particular pharmaceuticals are publicly-funded, as &ldquo;funding decisions&rdquo;.</p>\r\n<p>We consider and assess all funding decisions using the&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/about/operating-policies-and-procedures/#factorsfc\" rel=\"nofollow\">Factors for Consideration</a>. When we do so, we carefully evaluate clinical and other evidence for the benefits and suitability of a proposal, and to identify and understand the people who will be affected by it.</p>\r\n<p>While our main task is to allocate pharmaceutical funding, we consider the benefits and costs across the whole health system now and with a long-term focus, including the effects for hospitals and primary care, and consider direct costs to patients as well as to all health sector budgets.</p>\r\n<p>Final funding decisions are made by the Pharmac Board or delegated to senior Pharmac staff as required by the Board.</p>\r\n<p>&nbsp;</p>",
+    "position": 6,
+    "name": "Decision",
+    "last": true,
+    "events": [
+      {
+        "Summary": {
+          "s": "<p><a href=\"https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/decision-to-widen-access-to-immunotherapy-for-six-types-of-cancer-and-treatments-to-prevent-fungal-infection\" target=\"_blank\">Notification</a></p>",
+          "fs": "<p><a href=\"https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/decision-to-widen-access-to-immunotherapy-for-six-types-of-cancer-and-treatments-to-prevent-fungal-infection\" target=\"_blank\">Notification</a></p>",
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Sep 2024",
+          "fs": "Sep 2024",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "The funding application has been approved.",
+          "fs": "The funding application has been approved.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000HenbX2AR"
+          },
+          "Id": "a0POZ00000HenbX2AR",
+          "Event_Date__c": "2024-09-10",
+          "Event_Description__c": "The funding application has been approved.",
+          "Stage__c": "Decision",
+          "Summary__c": "<p><a href=\"https://pharmac.govt.nz/news-and-resources/consultations-and-decisions/decision-to-widen-access-to-immunotherapy-for-six-types-of-cancer-and-treatments-to-prevent-fungal-infection\" target=\"_blank\">Notification</a></p>",
+          "Formatted_Date__c": "Sep 2024",
+          "Status_History__c": "a13OZ00000E6PlKYAV"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Sep 2024",
+    "collapsed": false,
+    "checked": true
+  }
+]

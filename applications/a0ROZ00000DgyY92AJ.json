@@ -1,0 +1,624 @@
+[
+  {
+    "text": "<p>New funding applications are referred to one of Pharmac's Funding Application Advisors (FAAs), who'll review the application to ensure they have the relevant information to undertake a preliminary analysis.&nbsp; They may seek more information if required.</p>\r\n<p><a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/new-funding-applications/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/new-funding-applications/</a></p>",
+    "position": 0,
+    "name": "Application Received",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Dec 2021",
+          "fs": "Dec 2021",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Application received",
+          "fs": "Application received",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000WvQEf2AN"
+          },
+          "Id": "a0POZ00000WvQEf2AN",
+          "Event_Date__c": "2021-12-23",
+          "Event_Description__c": "Application received",
+          "Stage__c": "Application Received",
+          "Formatted_Date__c": "Dec 2021",
+          "Status_History__c": "a132P000000DVIPQA4"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Dec 2021",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Pharmac is identifying and gathering information required to get clinical advice.  The <a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/pharmacology-and-therapeutics-advisory-committee-ptac/\" rel=\"nofollow\">Pharmacology and Therapeutics Advisory Committee (PTAC)</a>  meets quarterly. There are also around 20 expert <a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/specialist-advisory-committees/\" rel=\"nofollow\">Specialist Advisory Committees (SACs)</a>, previously expert Subcommittees, which provide clinical evaluations in specialist areas. Specialist Advisory Committees meet as required to discuss issues referred to them by PTAC or Pharmac.</p>\n<p style=\"height: 20px\">&nbsp;</p>\n<p>In November 2021, we introduced separate terms of reference for the SACs to make clear that these committees have different, but complementary, roles, expertise and perspectives to PTAC.</p>\n<p style=\"height: 15px\">&nbsp;</p>\n<p>PTAC and SACs may make recommendations to Pharmac that differ from each other when looking at the same evidence. Pharmac considers the recommendations provided by all our clinical advisory committees when assessing applications.</p>\n<p style=\"height: 20px\">&nbsp;</p>\n<p><a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/pharmacology-and-therapeutics-advisory-committee-ptac/ptac-terms-of-reference-july-2021/\" rel=\"nofollow\">PTAC</a>  and <a class=\"external-link\" href=\"https://pharmac.govt.nz/about/expert-advice/specialist-advisory-committees/specialist-advisory-committee-terms-of-reference//\" rel=\"nofollow\">Specialist Advisory Committees</a> records of the meeting will be published on this website in accordance with the Terms of Reference.</p>",
+    "position": 1,
+    "name": "Seeking Clinical Advice",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Mar 2022",
+          "fs": "Mar 2022",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Clinical advice required",
+          "fs": "Clinical advice required",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000WvQEg2AN"
+          },
+          "Id": "a0POZ00000WvQEg2AN",
+          "Event_Date__c": "2022-03-24",
+          "Event_Description__c": "Clinical advice required",
+          "Stage__c": "Seeking Clinical Advice",
+          "Formatted_Date__c": "Mar 2022",
+          "Status_History__c": "a132P000000DdTDQA0"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": "<p><a href=\"https://pharmac.govt.nz/assets/2022-04-08-Cancer-Treatments-AC-Record.pdf\" target=\"_blank\">2022-04-08-Cancer-Treatments-AC-Record.pdf (pharmac.govt.nz)</a></p>",
+          "fs": "<p><a href=\"https://pharmac.govt.nz/assets/2022-04-08-Cancer-Treatments-AC-Record.pdf\" target=\"_blank\">2022-04-08-Cancer-Treatments-AC-Record.pdf (pharmac.govt.nz)</a></p>",
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Aug 2022",
+          "fs": "Aug 2022",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Clinical advice received from Cancer Treatments Advisory Committee at meeting Friday 8 April 2022.",
+          "fs": "Clinical advice received from Cancer Treatments Advisory Committee at meeting Friday 8 April 2022.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000WvQEh2AN"
+          },
+          "Id": "a0POZ00000WvQEh2AN",
+          "Event_Date__c": "2022-08-05",
+          "Event_Description__c": "Clinical advice received from Cancer Treatments Advisory Committee at meeting Friday 8 April 2022.",
+          "Stage__c": "Seeking Clinical Advice",
+          "Links__c": "<p><a href=\"https://pharmac.govt.nz/assets/2022-04-08-Cancer-Treatments-AC-Record.pdf\" target=\"_blank\">2022-04-08-Cancer-Treatments-AC-Record.pdf (pharmac.govt.nz)</a></p>",
+          "Formatted_Date__c": "Aug 2022",
+          "Status_History__c": "a132P000000Dxr1QAC"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Aug 2022",
+          "fs": "Aug 2022",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Clinical advice required",
+          "fs": "Clinical advice required",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000WvQEi2AN"
+          },
+          "Id": "a0POZ00000WvQEi2AN",
+          "Event_Date__c": "2022-08-30",
+          "Event_Description__c": "Clinical advice required",
+          "Stage__c": "Seeking Clinical Advice",
+          "Formatted_Date__c": "Aug 2022",
+          "Status_History__c": "a132P000000ECj0QAG"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Sep 2022",
+          "fs": "Sep 2022",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Assigned to Cancer Treatments Advisory Committee meeting to provide advice on Friday 28 October 2022",
+          "fs": "Assigned to Cancer Treatments Advisory Committee meeting to provide advice on Friday 28 October 2022",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000WvQEj2AN"
+          },
+          "Id": "a0POZ00000WvQEj2AN",
+          "Event_Date__c": "2022-09-30",
+          "Event_Description__c": "Assigned to Cancer Treatments Advisory Committee meeting to provide advice on Friday 28 October 2022",
+          "Stage__c": "Seeking Clinical Advice",
+          "Formatted_Date__c": "Sep 2022",
+          "Status_History__c": "a132P000000ECjLQAW"
+        },
+        "change": null
+      },
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": "<p>1.1.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Advisory Committee <strong>recommended</strong> that bortezomib in the treatment of Waldenstr\u00f6m macroglobulin be listed with a <strong>medium</strong> <strong>priority</strong> within the context of treatments of malignancy, subject to the following Special Authority criteria:</p><p><br></p><p class=\"ql-indent-1\"><strong style=\"font-family: sans-serif; font-size: 11px;\">BORTEZOMIB</strong></p><p class=\"ql-indent-1\"><strong style=\"font-family: sans-serif; font-size: 11px;\">Initial application \u2013 Waldenstr\u00f6m Macroglobulinaemia (Lymphoplasmacytic Lymphoma)</strong></p><p class=\"ql-indent-1\"><span style=\"font-family: sans-serif; font-size: 11px;\">Applications from any relevant practitioner. Approvals valid for 12 months. </span></p><p class=\"ql-indent-1\"><strong style=\"font-family: sans-serif; font-size: 11px;\">Prerequisites</strong><span style=\"font-family: sans-serif; font-size: 11px;\"> (tick boxes where appropriate):</span></p><p class=\"ql-indent-2\"><span style=\"font-family: sans-serif; font-size: 11px;\">1.\u00a0\u00a0\u00a0\u00a0The patient has Waldenstr\u00f6m Macroglobulinaemia/Lymphoplasmacytic Lymphoma requiring treatment; and</span></p><p class=\"ql-indent-2\"><span style=\"font-family: sans-serif; font-size: 11px;\">2.\u00a0\u00a0\u00a0\u00a0The patient\u2019s condition is bortezomib treatment na\u00efve.</span></p><p class=\"ql-indent-1\"><span style=\"font-family: sans-serif; font-size: 11px;\">\u00a0</span></p><p class=\"ql-indent-1\"><strong style=\"font-family: sans-serif; font-size: 11px;\">Renewal application</strong></p><p class=\"ql-indent-1\"><span style=\"font-family: sans-serif; font-size: 11px;\">Applications from any relevant practitioner. Approvals valid for 12 months. </span></p><p class=\"ql-indent-1\"><strong style=\"font-family: sans-serif; font-size: 11px;\">Prerequisites</strong><span style=\"font-family: sans-serif; font-size: 11px;\"> (tick boxes where appropriate) </span></p><p class=\"ql-indent-2\"><span style=\"font-family: sans-serif; font-size: 11px;\">1.\u00a0\u00a0\u00a0\u00a0No evidence of clinical disease progression and </span></p><p class=\"ql-indent-2\"><span style=\"font-family: sans-serif; font-size: 11px;\">2.\u00a0\u00a0\u00a0\u00a0The treatment remains appropriate, and the patient is benefiting from treatment</span></p><p><span style=\"font-size: 9pt;\">\u00a0</span></p><p>1.2.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>In making this recommendation, the Advisory Committee considered:</p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The high health need for people with untreated WM where bendamustine-rituximab (BR) is not suitable, and for people with relapsed WM.</p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The evidence for the use of bortezomib in WM is of poor quality, especially in the relapsed/refractory setting, with no head-to-head data comparing bortezomib-dexamethasone-rituximab (BDR) with other common regimens (dexamethasone-rituximab-cyclophosphamide (DRC) and rituximab-cyclophosphamide-vincristine-prednisone (R-CVP)).</p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The suitability of bortezomib as a widely used subcutaneous injection that can be administered in both urban and rural outpatient settings.</p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The cost of bortezomib compared to other funded and unfunded treatments for WM</p>",
+          "fs": "<p>1.1.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Advisory Committee <strong>recommended</strong> that bortezomib in the treatment of Waldenstr\u00f6m macroglobulin be listed with a <strong>medium</strong> <strong>priority</strong> within the context of treatments of malignancy, subject to the following Special Authority criteria:</p><p><br></p><p class=\"ql-indent-1\"><strong style=\"font-family: sans-serif; font-size: 11px;\">BORTEZOMIB</strong></p><p class=\"ql-indent-1\"><strong style=\"font-family: sans-serif; font-size: 11px;\">Initial application \u2013 Waldenstr\u00f6m Macroglobulinaemia (Lymphoplasmacytic Lymphoma)</strong></p><p class=\"ql-indent-1\"><span style=\"font-family: sans-serif; font-size: 11px;\">Applications from any relevant practitioner. Approvals valid for 12 months. </span></p><p class=\"ql-indent-1\"><strong style=\"font-family: sans-serif; font-size: 11px;\">Prerequisites</strong><span style=\"font-family: sans-serif; font-size: 11px;\"> (tick boxes where appropriate):</span></p><p class=\"ql-indent-2\"><span style=\"font-family: sans-serif; font-size: 11px;\">1.\u00a0\u00a0\u00a0\u00a0The patient has Waldenstr\u00f6m Macroglobulinaemia/Lymphoplasmacytic Lymphoma requiring treatment; and</span></p><p class=\"ql-indent-2\"><span style=\"font-family: sans-serif; font-size: 11px;\">2.\u00a0\u00a0\u00a0\u00a0The patient\u2019s condition is bortezomib treatment na\u00efve.</span></p><p class=\"ql-indent-1\"><span style=\"font-family: sans-serif; font-size: 11px;\">\u00a0</span></p><p class=\"ql-indent-1\"><strong style=\"font-family: sans-serif; font-size: 11px;\">Renewal application</strong></p><p class=\"ql-indent-1\"><span style=\"font-family: sans-serif; font-size: 11px;\">Applications from any relevant practitioner. Approvals valid for 12 months. </span></p><p class=\"ql-indent-1\"><strong style=\"font-family: sans-serif; font-size: 11px;\">Prerequisites</strong><span style=\"font-family: sans-serif; font-size: 11px;\"> (tick boxes where appropriate) </span></p><p class=\"ql-indent-2\"><span style=\"font-family: sans-serif; font-size: 11px;\">1.\u00a0\u00a0\u00a0\u00a0No evidence of clinical disease progression and </span></p><p class=\"ql-indent-2\"><span style=\"font-family: sans-serif; font-size: 11px;\">2.\u00a0\u00a0\u00a0\u00a0The treatment remains appropriate, and the patient is benefiting from treatment</span></p><p><span style=\"font-size: 9pt;\">\u00a0</span></p><p>1.2.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>In making this recommendation, the Advisory Committee considered:</p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The high health need for people with untreated WM where bendamustine-rituximab (BR) is not suitable, and for people with relapsed WM.</p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The evidence for the use of bortezomib in WM is of poor quality, especially in the relapsed/refractory setting, with no head-to-head data comparing bortezomib-dexamethasone-rituximab (BDR) with other common regimens (dexamethasone-rituximab-cyclophosphamide (DRC) and rituximab-cyclophosphamide-vincristine-prednisone (R-CVP)).</p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The suitability of bortezomib as a widely used subcutaneous injection that can be administered in both urban and rural outpatient settings.</p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The cost of bortezomib compared to other funded and unfunded treatments for WM</p>",
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": "<h3><em>M\u0101ori Impact</em></h3><p>1.1.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee discussed the impact of funding bortezomib for the treatment of WM on M\u0101ori health areas of focus and M\u0101ori health outcomes. The Committee noted that no evidence was identified in this area.</p><h3><em>Background</em></h3><p>1.2.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that an application for ibrutinib for the treatment of WM was assessed at the November 2021 CaTSoP meeting and two recommendations were made. The Committee noted that CaTSoP recommended that ibrutinib for the treatment of first line WM be listed with a low priority, and that ibrutinib for the treatment of patients with relapsed/refractory WM be listed with a medium priority.</p><p>1.3.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that, during this meeting, CaTSoP also noted that bortezomib in combination with dexamethasone +/- rituximab has also been shown to be efficacious in patients with WM. The Subcommittee noted that bortezomib is not currently funded for people with WM and requested to review bortezomib for the treatment of people with WM at a future meeting.</p><h3><em>Health Need</em></h3><p>1.4.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that WM is an incurable lymphoproliferative B-cell disorder characterised by infiltration of lymphoplasmacytic cells into the bone marrow and immunoglobulin M (IgM) monoclonal gammopathy (<a href=\"https://pubmed.ncbi.nlm.nih.gov/23233639/\" target=\"_blank\">Ghobrial. Hematology Am Soc Hematol Educ Program. 2012:586-94</a>; <a href=\"https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=52416\" target=\"_blank\">Orphanet. Waldenstr\u00f6m macroglobulinemia. 2012</a>). The Committee noted that WM is a progressive, incurable disease that results in reduced function and quality of life, leading to early death.</p><p>1.5.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that WM is a rare condition, making up approximately 2% of all blood cancers. The Committee noted that the estimated incidence is four persons per million per year in Europe, classifying it as an orphan disease (<a href=\"https://www.orpha.net/consor/cgi-bin/Disease_Search.php?lng=EN&amp;data_id=10313&amp;Disease_Disease_Search_diseaseGroup=Waldenstrom-macroglobulinemia-&amp;Disease_Disease_Search_diseaseType=Pat&amp;Disease(s)/group%20of%20diseases=Waldenstrom-macroglobulinemia&amp;title=Waldenstr%F6m%20macroglobulinemia&amp;search=Disease_Search_Simple\" target=\"_blank\">Orphanet, 2016</a>). The Committee noted it is more common in men than women, and predominantly diagnosed in older people, with a median age at diagnosis of 68 years (<a href=\"https://www.leukaemia.org.au/blood-cancer-information/types-of-blood-cancer/waldenstroms-macroglobulinaemia/\" target=\"_blank\">Leukaemia Foundation Australia 2021</a>). The Committee considered that at diagnosis treatment is not usually indicated, and that the median time from diagnosis to needing treatment is 5 to 10 years (<a href=\"https://ashpublications.org/blood/article/119/19/4462/29975/Progression-in-smoldering-Waldenstrom\" target=\"_blank\">Kyle et al. Blood. 2012;119:4462-6</a>). The Committee noted that there are approximately 20 to 50 cases in New Zealand per year. The Committee noted that in the funding application received for ibrutinib for treatment of WM, the supplier (Janssen) estimated that approximately 12 people are diagnosed with relapsed/refractory WM per year in New Zealand. The Committee noted that when this application was discussed at the November 2021 CaTSoP Subcommittee meeting, this figure was considered an underestimate, and that actual numbers in New Zealand could be double that estimated by the supplier.</p><p>1.6.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that symptoms of WM develop slowly and may initially include fatigue, weakness, and weight loss. The Committee noted that, as the disease progresses, several morbidities may arise and impact an affected person\u2019s ability to carry out daily activities. The Committee noted that this is particularly debilitating in the elderly population disproportionately affected by WM, who are often affected by comorbidities, limited mobility, and a reduced capacity to tolerate the adverse effects of chemotherapy (<a href=\"https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=52416\" target=\"_blank\">Orphanet. 2012</a>; <a href=\"https://ashpublications.org/blood/article/113/18/4163/25738/International-prognostic-scoring-system-for\" target=\"_blank\">Morel et al. Blood. 2009;113:4163-70</a>).</p><p>1.7.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that, in the November 2021 CaTSoP meeting, the Subcommittee considered the treatment options (rituximab in combination with chemotherapy) to be effective for people with good performance status living with WM and therefore the health need for this treatment na\u00efve group was comparatively low. The Committee noted that at this time, the Subcommittee considered that the health need for those living with WM is greater for those in which rituximab in combination with chemotherapy is not suitable (eg due to their frailty or comorbidities). The Committee also noted that the Subcommittee considered the heath need to also be greater for those who have relapsed after, or are refractory to a prior line of treatment, due to the limited treatment options and shorter progression free survival (PFS) in later lines of treatment. The Committee considered that those who relapse will be older and therefore less likely to be treated with BR again, and that Bruton tyrosine kinase (BTK) inhibitors are not funded and therefore not an option for these individuals in New Zealand.</p><p>1.8.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that in Kastritis et al the WM death rate was 32% and the WM unrelated death rate was 11.5% (<a href=\"https://haematologica.org/article/view/7566\" target=\"_blank\">Kastritis et al. Haematologica. 2015;100:e446-9</a>). The Committee considered that as WM is a disease occurring predominantly in elderly individuals and that not all individuals with WM would die from this disease.</p><p>1.9.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that the currently funded treatments for WM include BR as a preferred option, or DRC or rituximab monotherapy in those with comorbidities or low tumour burden. The Committee considered that, in the first line setting, most individuals with good performance status would receive BR for WM. The Committee considered that that BR would be suitable in &lt;10% of people in the second line setting in New Zealand. The Committee considered that for those in which BR is not suitable in the second line setting, R-CVP, rituximab monotherapy, chlorambucil, or DRC would be used instead. It was noted that at the November 2021 meeting, the Committee considered that individuals with relapsed/refractory WM can be retreated with the previous chemotherapy regimen (if this was effective in the previous line), an alternative chemotherapy regimen, or rituximab monotherapy. The Committee noted that CaTSoP considered that efficacy of treatment and PFS with each successive line of treatment would be expected to diminish.</p><p>1.10.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that treatment with the agents above has been associated with short periods of remission, frequent relapse, and relatively short PFS (<a href=\"https://www.sciencedirect.com/science/article/abs/pii/S088985881400077X?via%3Dihub\" target=\"_blank\">Treon et al. Hematol Oncol Clin North Am. 2014;28:945-70</a><u>;</u> <a href=\"https://ascopubs.org/doi/10.1200/JCO.2005.03.144?url_ver=Z39.88-2003&amp;rfr_id=ori:rid:crossref.org&amp;rfr_dat=cr_pub%20%200pubmed\" target=\"_blank\">Dimopoulos et al. J Clin Oncol. 2005;23:1564-77</a>). The Committee noted that, in the first line setting, the median PFS is 69.5 months (95% CI 26.1 to not reached) for BR treatment (<a href=\"https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(12)61763-2/fulltext\" target=\"_blank\">Rummel et al. Lancet. 2013;381:1203-1210</a>), 34 months (95% CI 23 to not reached) for DRC treatment (<a href=\"https://ashpublications.org/blood/article/126/11/1392/34400/Dexamethasone-rituximab-and-cyclophosphamide-as\" target=\"_blank\">Kastritis et al. Blood. 2015;126:1392-1394</a><u>)</u>, and 27.1 months (95% CI 21.0 to 32.1) for chlorambucil (<a href=\"https://pubmed.ncbi.nlm.nih.gov/23233721/\" target=\"_blank\">Leblond et al. J Clin Oncol. 2013;31:301-7</a>). The Committee noted that, in the relapsed/refractory setting, the median PFS is 35 months (95% CI 15 to 51) for DRC treatment (<a href=\"https://onlinelibrary.wiley.com/doi/full/10.1111/bjh.14826\" target=\"_blank\">Paludo et al. BJH. 2017;179:98-105</a>). The Committee noted that the median PFS is 20.3 months for 8 cycles of rituximab monotherapy, which includes both those who were treatment na\u00efve and relapsed/refractory (<a href=\"https://www.nejm.org/doi/full/10.1056/nejmoa1802917\" target=\"_blank\">Dimopoulos et al. N Engl J Med. 2018;378:2399-2410</a>).</p><p>1.11.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that bortezomib-containing regimens are listed as a treatment option for both previously untreated and relapsed/refractory people with WM in the European Society for Medical Oncology (ESMO) 2018 Guidelines and National Comprehensive Cancer Network Guidelines. The Committee noted that BDR is also listed as an upfront option for treatment naive WM patients in International Waldenstr\u00f6m Working Group (IWWG) and the Australian WM 2022 Guideline. The Committee noted that internationally there is a preference in the relapsed/refractory setting for BTK inhibitors due to their availability, and that BDR should only be considered if BTK inhibitors are contraindicated (IWWG) or if a rapid reduction in IgM is required (Australian WM 2022 Guideline).</p><p>1.12.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that people with WM living in rural areas are more likely to experience difficulty in accessing services including specialist visits, supportive care, and current treatments for WM that are required to be administered in a hospital or outpatient setting. The Committee noted that elderly people with WM are also more likely to have poorer outcomes due to their increased frailty, comorbidities, and susceptibility to developing adverse reactions to treatment such as chemotherapy, thereby highlighting the unmet need for an oral treatment option such as a BTK inhibitor (<a href=\"https://ashpublications.org/blood/article/113/18/4163/25738/International-prognostic-scoring-system-for\" target=\"_blank\">Morel et al. Blood. 2009;113:4163-70</a>).</p><h3><em>Health Benefit</em></h3><p>1.13.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that bortezomib is a proteasome inhibitor and that it is not currently Medsafe approved for treatment of WM.</p><p>1.14.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that the ESMO Guidelines recommend bortezomib is given at a dose of 1.5 mg/m<sup>2</sup> subcutaneously at weekly intervals for the treatment of active WM. The Committee noted that the ESMO states that bortezomib may be administered alone or in combination with rituximab, noting that the addition of dexamethasone may also be beneficial (<a href=\"https://www.annalsofoncology.org/article/S0923-7534(19)31695-3/pdf\" target=\"_blank\">Kastritis et al. ESMO. 2018</a>).</p><p>1.15.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that the key evidence for the use of bortezomib for the treatment of WM comes from a prospective, multicentre, phase II study investigating the efficacy of BDR in 59 previously untreated symptomatic patients with WM. The Committee noted that study participants received a 21-day cycle of bortezomib alone (1.3 mg/m<sup>2</sup> IV on days 1, 4, 8, and 11), followed by weekly IV bortezomib (1.6 mg/m<sup>2</sup> on days 1, 8, 15, and 22) for 4 additional 35-day cycles, with IV dexamethasone (40 mg) and IV rituximab (375 mg/m<sup>2</sup>) on cycles 2 and 5, for a total treatment duration of 23 weeks.</p><p>1.16.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee noted the long-term results of this trial after a median follow-up of 42 months. The Committee noted that the median PFS was 42 months with a 3-year survival of 81%. The Committee noted that the overall response rate (ORR) was 85% (95% confidence interval [CI] 73% to 92%). The Committee noted that the median IgM reduction after bortezomib monotherapy was 18% (range, 278% to 112%; 34% of patients had &gt;25% reduction and 8% had &gt;50% reduction). The Committee noted that 32 (54%) patients experienced disease progression or died, and that the main reasons for discontinuation of BDR were toxicity in 16 (27%) patients and disease progression (or death) in 5 patients (<a href=\"https://ashpublications.org/blood/article/122/19/3276/32003/Primary-therapy-of-Waldenstrom-macroglobulinemia\" target=\"_blank\">Dimopoulos et al. Blood. 2013;122:3276-3282</a>).</p><p>1.17.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee noted the results of a 6-year minimum follow up analysis of the same trial (median duration of follow-up of 86 months). The Committee noted that the median PFS was 43 months (95% CI 23 to 63), and the 7-year PFS per International Prognostic Scoring System for WM (IPSSWM) was 62.5%, 42%, and 15% for low-, intermediate-, and high-risk disease, respectively. The Committee noted that the overall survival (OS) rate at 7 years was 66%, and the OS per IPSSWM was 87.5% for low-, 68.2% for intermediate-, and 48% for high-risk patients. The Committee noted that the ORR was 85%, and the median duration of response (DOR) was 64.5 months. The Committee noted that 40 patients (68%) progressed or died as a result of WM, whereas 9 patients (15%) died of unrelated causes, with peripheral neuropathy occurring in 46% patients (grade 2: 17%; grade &gt;3: 7%) and neuropathic pain occurring in 20% (grade 3: n=1) (<a href=\"https://ashpublications.org/blood/article/129/4/456/36177/BDR-in-newly-diagnosed-patients-with-WM-final\" target=\"_blank\">Gavriatopoulou et al. Blood. 2017;129:456-549</a>)</p><p>1.18.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>In the absence of a relevant combination chemotherapy comparator arm in the key clinical trial above, the Committee noted the following evidence on the use of other agents currently funded for the treatment of WM:</p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://www.dovepress.com/rituximab-based-combination-therapy-in-patients-with-waldenstroumlm-ma-peer-reviewed-fulltext-article-OTT\" target=\"_blank\">Zheng et al. Onco Targets Ther. 2019;12:2751-2766</a></p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://onlinelibrary.wiley.com/doi/10.1111/bjh.16264\" target=\"_blank\">Walewski et al. Br J Haematol. 2020;188;898-906</a></p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://onlinelibrary.wiley.com/doi/epdf/10.1111/bjh.15718\" target=\"_blank\">Laribi et al. Br J Haematol. 2018;186:146-149</a></p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://ashpublications.org/blood/article/126/11/1392/34400/Dexamethasone-rituximab-and-cyclophosphamide-as\" target=\"_blank\">Kastritis et al. Blood. 2015;126:1392-4</a></p><p>1.19.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that the evidence for the use of bortezomib for WM is of poor quality and that there are no head-to-head trials for this treatment in the requested indication. The Committee considered that, in the first line setting, those who would benefit most from bortezomib would be the 40% of those for whom BR is not suitable. The Committee considered that BDR is comparable to DRC, and that DRC would be preferred if neuropathy is present. The Committee considered that, in the second line setting (and in the absence of a BTK inhibitor), bortezomib would be an option for people with WM regardless of performance status and could follow first line DRC chemotherapy for those in which BR is not suitable (in the absence of neuropathy).</p><p>1.20.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that, if access were to be widened, bortezomib would not replace BR in the first line setting, however that bortezomib would be comparable to DRC/R-CVP for those in which BR is not suitable. The Committee considered that in the second line setting, bortezomib (BDR) would be a good option, especially for those who have had DRC in the first line. The Committee however considered that if a BTK inhibitor were to be funded for first line or relapsed/refractory WM then this would be the preferred option.</p><h3><em>Suitability</em></h3><p>1.21.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee noted bortezomib is a subcutaneous injection used widely in New Zealand in both urban and rural outpatient settings.</p><h3><em>Cost and Savings</em></h3><p>1.22.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that bortezomib was relatively inexpensive compared to other treatments for WM. The Committee noted that between 40 to 70 individuals per year could be eligible for treatment of treatment na\u00efve or relapsed/refractory WM.</p><p>1.23.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that, in a first line setting, bortezomib would most likely be considered for people with WM where BR chemotherapy is not suitable. The Committee considered that BR would not be suitable in approximately 40% of people requiring first-line treatment for WM, and these people could be treated with BDR. The Committee noted that currently either RCVP or CDR is the preferred treatment for those in which first-line BR is not suitable, with a roughly equal proportion of individuals between the two regimens.</p><p>1.24.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that BR re-treatment would be suitable for less than 10% of people with relapsed/remitting WM, and that BDR would likely be considered for this group (regardless of performance status).\u00a0The Committee noted that currently R, RCVP, or CDR is the preferred treatment for those in which second-line BR is not suitable, with a roughly equal proportion of patients between the three regimens.</p><h3><em>Summary for Assessment</em></h3><p>1.25.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Advisory Committee considered that the table below summarises its interpretation of the most appropriate PICO (population, intervention, comparator, outcomes) information for bortezomib if it were to be funded in New Zealand for Waldenstr\u00f6m macroglobulinemia. This PICO captures key clinical aspects of the proposal and may be used to frame any future economic assessment by Pharmac staff. This PICO is based on the Advisory Committee\u2019s assessment at this time and may differ from that requested by the applicant. The PICO may change based on new information, additional clinical advice, or further analysis by Pharmac staff.\u00a0</p><p><img src=\"/apptracker/servlet/rtaImage?eid=a0POZ00000WvQEk&amp;feoid=00N2P000000YsIc&amp;refid=0EM2P000002lCqY\" alt=\"image.png\"></img></p>",
+          "fs": "<h3><em>M\u0101ori Impact</em></h3><p>1.1.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee discussed the impact of funding bortezomib for the treatment of WM on M\u0101ori health areas of focus and M\u0101ori health outcomes. The Committee noted that no evidence was identified in this area.</p><h3><em>Background</em></h3><p>1.2.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that an application for ibrutinib for the treatment of WM was assessed at the November 2021 CaTSoP meeting and two recommendations were made. The Committee noted that CaTSoP recommended that ibrutinib for the treatment of first line WM be listed with a low priority, and that ibrutinib for the treatment of patients with relapsed/refractory WM be listed with a medium priority.</p><p>1.3.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that, during this meeting, CaTSoP also noted that bortezomib in combination with dexamethasone +/- rituximab has also been shown to be efficacious in patients with WM. The Subcommittee noted that bortezomib is not currently funded for people with WM and requested to review bortezomib for the treatment of people with WM at a future meeting.</p><h3><em>Health Need</em></h3><p>1.4.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that WM is an incurable lymphoproliferative B-cell disorder characterised by infiltration of lymphoplasmacytic cells into the bone marrow and immunoglobulin M (IgM) monoclonal gammopathy (<a href=\"https://pubmed.ncbi.nlm.nih.gov/23233639/\" target=\"_blank\">Ghobrial. Hematology Am Soc Hematol Educ Program. 2012:586-94</a>; <a href=\"https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=52416\" target=\"_blank\">Orphanet. Waldenstr\u00f6m macroglobulinemia. 2012</a>). The Committee noted that WM is a progressive, incurable disease that results in reduced function and quality of life, leading to early death.</p><p>1.5.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that WM is a rare condition, making up approximately 2% of all blood cancers. The Committee noted that the estimated incidence is four persons per million per year in Europe, classifying it as an orphan disease (<a href=\"https://www.orpha.net/consor/cgi-bin/Disease_Search.php?lng=EN&amp;data_id=10313&amp;Disease_Disease_Search_diseaseGroup=Waldenstrom-macroglobulinemia-&amp;Disease_Disease_Search_diseaseType=Pat&amp;Disease(s)/group%20of%20diseases=Waldenstrom-macroglobulinemia&amp;title=Waldenstr%F6m%20macroglobulinemia&amp;search=Disease_Search_Simple\" target=\"_blank\">Orphanet, 2016</a>). The Committee noted it is more common in men than women, and predominantly diagnosed in older people, with a median age at diagnosis of 68 years (<a href=\"https://www.leukaemia.org.au/blood-cancer-information/types-of-blood-cancer/waldenstroms-macroglobulinaemia/\" target=\"_blank\">Leukaemia Foundation Australia 2021</a>). The Committee considered that at diagnosis treatment is not usually indicated, and that the median time from diagnosis to needing treatment is 5 to 10 years (<a href=\"https://ashpublications.org/blood/article/119/19/4462/29975/Progression-in-smoldering-Waldenstrom\" target=\"_blank\">Kyle et al. Blood. 2012;119:4462-6</a>). The Committee noted that there are approximately 20 to 50 cases in New Zealand per year. The Committee noted that in the funding application received for ibrutinib for treatment of WM, the supplier (Janssen) estimated that approximately 12 people are diagnosed with relapsed/refractory WM per year in New Zealand. The Committee noted that when this application was discussed at the November 2021 CaTSoP Subcommittee meeting, this figure was considered an underestimate, and that actual numbers in New Zealand could be double that estimated by the supplier.</p><p>1.6.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that symptoms of WM develop slowly and may initially include fatigue, weakness, and weight loss. The Committee noted that, as the disease progresses, several morbidities may arise and impact an affected person\u2019s ability to carry out daily activities. The Committee noted that this is particularly debilitating in the elderly population disproportionately affected by WM, who are often affected by comorbidities, limited mobility, and a reduced capacity to tolerate the adverse effects of chemotherapy (<a href=\"https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=52416\" target=\"_blank\">Orphanet. 2012</a>; <a href=\"https://ashpublications.org/blood/article/113/18/4163/25738/International-prognostic-scoring-system-for\" target=\"_blank\">Morel et al. Blood. 2009;113:4163-70</a>).</p><p>1.7.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that, in the November 2021 CaTSoP meeting, the Subcommittee considered the treatment options (rituximab in combination with chemotherapy) to be effective for people with good performance status living with WM and therefore the health need for this treatment na\u00efve group was comparatively low. The Committee noted that at this time, the Subcommittee considered that the health need for those living with WM is greater for those in which rituximab in combination with chemotherapy is not suitable (eg due to their frailty or comorbidities). The Committee also noted that the Subcommittee considered the heath need to also be greater for those who have relapsed after, or are refractory to a prior line of treatment, due to the limited treatment options and shorter progression free survival (PFS) in later lines of treatment. The Committee considered that those who relapse will be older and therefore less likely to be treated with BR again, and that Bruton tyrosine kinase (BTK) inhibitors are not funded and therefore not an option for these individuals in New Zealand.</p><p>1.8.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that in Kastritis et al the WM death rate was 32% and the WM unrelated death rate was 11.5% (<a href=\"https://haematologica.org/article/view/7566\" target=\"_blank\">Kastritis et al. Haematologica. 2015;100:e446-9</a>). The Committee considered that as WM is a disease occurring predominantly in elderly individuals and that not all individuals with WM would die from this disease.</p><p>1.9.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that the currently funded treatments for WM include BR as a preferred option, or DRC or rituximab monotherapy in those with comorbidities or low tumour burden. The Committee considered that, in the first line setting, most individuals with good performance status would receive BR for WM. The Committee considered that that BR would be suitable in &lt;10% of people in the second line setting in New Zealand. The Committee considered that for those in which BR is not suitable in the second line setting, R-CVP, rituximab monotherapy, chlorambucil, or DRC would be used instead. It was noted that at the November 2021 meeting, the Committee considered that individuals with relapsed/refractory WM can be retreated with the previous chemotherapy regimen (if this was effective in the previous line), an alternative chemotherapy regimen, or rituximab monotherapy. The Committee noted that CaTSoP considered that efficacy of treatment and PFS with each successive line of treatment would be expected to diminish.</p><p>1.10.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that treatment with the agents above has been associated with short periods of remission, frequent relapse, and relatively short PFS (<a href=\"https://www.sciencedirect.com/science/article/abs/pii/S088985881400077X?via%3Dihub\" target=\"_blank\">Treon et al. Hematol Oncol Clin North Am. 2014;28:945-70</a><u>;</u> <a href=\"https://ascopubs.org/doi/10.1200/JCO.2005.03.144?url_ver=Z39.88-2003&amp;rfr_id=ori:rid:crossref.org&amp;rfr_dat=cr_pub%20%200pubmed\" target=\"_blank\">Dimopoulos et al. J Clin Oncol. 2005;23:1564-77</a>). The Committee noted that, in the first line setting, the median PFS is 69.5 months (95% CI 26.1 to not reached) for BR treatment (<a href=\"https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(12)61763-2/fulltext\" target=\"_blank\">Rummel et al. Lancet. 2013;381:1203-1210</a>), 34 months (95% CI 23 to not reached) for DRC treatment (<a href=\"https://ashpublications.org/blood/article/126/11/1392/34400/Dexamethasone-rituximab-and-cyclophosphamide-as\" target=\"_blank\">Kastritis et al. Blood. 2015;126:1392-1394</a><u>)</u>, and 27.1 months (95% CI 21.0 to 32.1) for chlorambucil (<a href=\"https://pubmed.ncbi.nlm.nih.gov/23233721/\" target=\"_blank\">Leblond et al. J Clin Oncol. 2013;31:301-7</a>). The Committee noted that, in the relapsed/refractory setting, the median PFS is 35 months (95% CI 15 to 51) for DRC treatment (<a href=\"https://onlinelibrary.wiley.com/doi/full/10.1111/bjh.14826\" target=\"_blank\">Paludo et al. BJH. 2017;179:98-105</a>). The Committee noted that the median PFS is 20.3 months for 8 cycles of rituximab monotherapy, which includes both those who were treatment na\u00efve and relapsed/refractory (<a href=\"https://www.nejm.org/doi/full/10.1056/nejmoa1802917\" target=\"_blank\">Dimopoulos et al. N Engl J Med. 2018;378:2399-2410</a>).</p><p>1.11.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that bortezomib-containing regimens are listed as a treatment option for both previously untreated and relapsed/refractory people with WM in the European Society for Medical Oncology (ESMO) 2018 Guidelines and National Comprehensive Cancer Network Guidelines. The Committee noted that BDR is also listed as an upfront option for treatment naive WM patients in International Waldenstr\u00f6m Working Group (IWWG) and the Australian WM 2022 Guideline. The Committee noted that internationally there is a preference in the relapsed/refractory setting for BTK inhibitors due to their availability, and that BDR should only be considered if BTK inhibitors are contraindicated (IWWG) or if a rapid reduction in IgM is required (Australian WM 2022 Guideline).</p><p>1.12.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that people with WM living in rural areas are more likely to experience difficulty in accessing services including specialist visits, supportive care, and current treatments for WM that are required to be administered in a hospital or outpatient setting. The Committee noted that elderly people with WM are also more likely to have poorer outcomes due to their increased frailty, comorbidities, and susceptibility to developing adverse reactions to treatment such as chemotherapy, thereby highlighting the unmet need for an oral treatment option such as a BTK inhibitor (<a href=\"https://ashpublications.org/blood/article/113/18/4163/25738/International-prognostic-scoring-system-for\" target=\"_blank\">Morel et al. Blood. 2009;113:4163-70</a>).</p><h3><em>Health Benefit</em></h3><p>1.13.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that bortezomib is a proteasome inhibitor and that it is not currently Medsafe approved for treatment of WM.</p><p>1.14.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that the ESMO Guidelines recommend bortezomib is given at a dose of 1.5 mg/m<sup>2</sup> subcutaneously at weekly intervals for the treatment of active WM. The Committee noted that the ESMO states that bortezomib may be administered alone or in combination with rituximab, noting that the addition of dexamethasone may also be beneficial (<a href=\"https://www.annalsofoncology.org/article/S0923-7534(19)31695-3/pdf\" target=\"_blank\">Kastritis et al. ESMO. 2018</a>).</p><p>1.15.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that the key evidence for the use of bortezomib for the treatment of WM comes from a prospective, multicentre, phase II study investigating the efficacy of BDR in 59 previously untreated symptomatic patients with WM. The Committee noted that study participants received a 21-day cycle of bortezomib alone (1.3 mg/m<sup>2</sup> IV on days 1, 4, 8, and 11), followed by weekly IV bortezomib (1.6 mg/m<sup>2</sup> on days 1, 8, 15, and 22) for 4 additional 35-day cycles, with IV dexamethasone (40 mg) and IV rituximab (375 mg/m<sup>2</sup>) on cycles 2 and 5, for a total treatment duration of 23 weeks.</p><p>1.16.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee noted the long-term results of this trial after a median follow-up of 42 months. The Committee noted that the median PFS was 42 months with a 3-year survival of 81%. The Committee noted that the overall response rate (ORR) was 85% (95% confidence interval [CI] 73% to 92%). The Committee noted that the median IgM reduction after bortezomib monotherapy was 18% (range, 278% to 112%; 34% of patients had &gt;25% reduction and 8% had &gt;50% reduction). The Committee noted that 32 (54%) patients experienced disease progression or died, and that the main reasons for discontinuation of BDR were toxicity in 16 (27%) patients and disease progression (or death) in 5 patients (<a href=\"https://ashpublications.org/blood/article/122/19/3276/32003/Primary-therapy-of-Waldenstrom-macroglobulinemia\" target=\"_blank\">Dimopoulos et al. Blood. 2013;122:3276-3282</a>).</p><p>1.17.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee noted the results of a 6-year minimum follow up analysis of the same trial (median duration of follow-up of 86 months). The Committee noted that the median PFS was 43 months (95% CI 23 to 63), and the 7-year PFS per International Prognostic Scoring System for WM (IPSSWM) was 62.5%, 42%, and 15% for low-, intermediate-, and high-risk disease, respectively. The Committee noted that the overall survival (OS) rate at 7 years was 66%, and the OS per IPSSWM was 87.5% for low-, 68.2% for intermediate-, and 48% for high-risk patients. The Committee noted that the ORR was 85%, and the median duration of response (DOR) was 64.5 months. The Committee noted that 40 patients (68%) progressed or died as a result of WM, whereas 9 patients (15%) died of unrelated causes, with peripheral neuropathy occurring in 46% patients (grade 2: 17%; grade &gt;3: 7%) and neuropathic pain occurring in 20% (grade 3: n=1) (<a href=\"https://ashpublications.org/blood/article/129/4/456/36177/BDR-in-newly-diagnosed-patients-with-WM-final\" target=\"_blank\">Gavriatopoulou et al. Blood. 2017;129:456-549</a>)</p><p>1.18.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>In the absence of a relevant combination chemotherapy comparator arm in the key clinical trial above, the Committee noted the following evidence on the use of other agents currently funded for the treatment of WM:</p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://www.dovepress.com/rituximab-based-combination-therapy-in-patients-with-waldenstroumlm-ma-peer-reviewed-fulltext-article-OTT\" target=\"_blank\">Zheng et al. Onco Targets Ther. 2019;12:2751-2766</a></p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://onlinelibrary.wiley.com/doi/10.1111/bjh.16264\" target=\"_blank\">Walewski et al. Br J Haematol. 2020;188;898-906</a></p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://onlinelibrary.wiley.com/doi/epdf/10.1111/bjh.15718\" target=\"_blank\">Laribi et al. Br J Haematol. 2018;186:146-149</a></p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://ashpublications.org/blood/article/126/11/1392/34400/Dexamethasone-rituximab-and-cyclophosphamide-as\" target=\"_blank\">Kastritis et al. Blood. 2015;126:1392-4</a></p><p>1.19.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that the evidence for the use of bortezomib for WM is of poor quality and that there are no head-to-head trials for this treatment in the requested indication. The Committee considered that, in the first line setting, those who would benefit most from bortezomib would be the 40% of those for whom BR is not suitable. The Committee considered that BDR is comparable to DRC, and that DRC would be preferred if neuropathy is present. The Committee considered that, in the second line setting (and in the absence of a BTK inhibitor), bortezomib would be an option for people with WM regardless of performance status and could follow first line DRC chemotherapy for those in which BR is not suitable (in the absence of neuropathy).</p><p>1.20.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that, if access were to be widened, bortezomib would not replace BR in the first line setting, however that bortezomib would be comparable to DRC/R-CVP for those in which BR is not suitable. The Committee considered that in the second line setting, bortezomib (BDR) would be a good option, especially for those who have had DRC in the first line. The Committee however considered that if a BTK inhibitor were to be funded for first line or relapsed/refractory WM then this would be the preferred option.</p><h3><em>Suitability</em></h3><p>1.21.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee noted bortezomib is a subcutaneous injection used widely in New Zealand in both urban and rural outpatient settings.</p><h3><em>Cost and Savings</em></h3><p>1.22.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that bortezomib was relatively inexpensive compared to other treatments for WM. The Committee noted that between 40 to 70 individuals per year could be eligible for treatment of treatment na\u00efve or relapsed/refractory WM.</p><p>1.23.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that, in a first line setting, bortezomib would most likely be considered for people with WM where BR chemotherapy is not suitable. The Committee considered that BR would not be suitable in approximately 40% of people requiring first-line treatment for WM, and these people could be treated with BDR. The Committee noted that currently either RCVP or CDR is the preferred treatment for those in which first-line BR is not suitable, with a roughly equal proportion of individuals between the two regimens.</p><p>1.24.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that BR re-treatment would be suitable for less than 10% of people with relapsed/remitting WM, and that BDR would likely be considered for this group (regardless of performance status).\u00a0The Committee noted that currently R, RCVP, or CDR is the preferred treatment for those in which second-line BR is not suitable, with a roughly equal proportion of patients between the three regimens.</p><h3><em>Summary for Assessment</em></h3><p>1.25.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Advisory Committee considered that the table below summarises its interpretation of the most appropriate PICO (population, intervention, comparator, outcomes) information for bortezomib if it were to be funded in New Zealand for Waldenstr\u00f6m macroglobulinemia. This PICO captures key clinical aspects of the proposal and may be used to frame any future economic assessment by Pharmac staff. This PICO is based on the Advisory Committee\u2019s assessment at this time and may differ from that requested by the applicant. The PICO may change based on new information, additional clinical advice, or further analysis by Pharmac staff.\u00a0</p><p><img src=\"/apptracker/servlet/rtaImage?eid=a0POZ00000WvQEk&amp;feoid=00N2P000000YsIc&amp;refid=0EM2P000002lCqY\" alt=\"image.png\"></img></p>",
+          "change": null
+        },
+        "Published_Application": {
+          "s": "<p>1.1.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Advisory Committee reviewed bortezomib for the treatment of Waldenstr\u00f6m macroglobulinemia (WM), based on its previous considerations at the November 2021 Cancer Treatment Subcommittee of PTAC (CaTSoP) meeting.</p><p>1.2.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Advisory Committee took into account, where applicable, Pharmac\u2019s relevant decision-making framework when considering this agenda item.\u00a0</p>",
+          "fs": "<p>1.1.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Advisory Committee reviewed bortezomib for the treatment of Waldenstr\u00f6m macroglobulinemia (WM), based on its previous considerations at the November 2021 Cancer Treatment Subcommittee of PTAC (CaTSoP) meeting.</p><p>1.2.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Advisory Committee took into account, where applicable, Pharmac\u2019s relevant decision-making framework when considering this agenda item.\u00a0</p>",
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": "Medium",
+          "fs": "Medium",
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "May 2023",
+          "fs": "May 2023",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Clinical advice received from Cancer Treatments Advisory Committee at meeting Friday 28 October 2022.",
+          "fs": "Clinical advice received from Cancer Treatments Advisory Committee at meeting Friday 28 October 2022.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000WvQEk2AN"
+          },
+          "Id": "a0POZ00000WvQEk2AN",
+          "Event_Date__c": "2023-05-22",
+          "Event_Description__c": "Clinical advice received from Cancer Treatments Advisory Committee at meeting Friday 28 October 2022.",
+          "Stage__c": "Seeking Clinical Advice",
+          "Outcome__c": "Medium",
+          "Formatted_Date__c": "May 2023",
+          "Published_Recommendation__c": "<p>1.1.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Advisory Committee <strong>recommended</strong> that bortezomib in the treatment of Waldenstr\u00f6m macroglobulin be listed with a <strong>medium</strong> <strong>priority</strong> within the context of treatments of malignancy, subject to the following Special Authority criteria:</p><p><br></p><p class=\"ql-indent-1\"><strong style=\"font-family: sans-serif; font-size: 11px;\">BORTEZOMIB</strong></p><p class=\"ql-indent-1\"><strong style=\"font-family: sans-serif; font-size: 11px;\">Initial application \u2013 Waldenstr\u00f6m Macroglobulinaemia (Lymphoplasmacytic Lymphoma)</strong></p><p class=\"ql-indent-1\"><span style=\"font-family: sans-serif; font-size: 11px;\">Applications from any relevant practitioner. Approvals valid for 12 months. </span></p><p class=\"ql-indent-1\"><strong style=\"font-family: sans-serif; font-size: 11px;\">Prerequisites</strong><span style=\"font-family: sans-serif; font-size: 11px;\"> (tick boxes where appropriate):</span></p><p class=\"ql-indent-2\"><span style=\"font-family: sans-serif; font-size: 11px;\">1.\u00a0\u00a0\u00a0\u00a0The patient has Waldenstr\u00f6m Macroglobulinaemia/Lymphoplasmacytic Lymphoma requiring treatment; and</span></p><p class=\"ql-indent-2\"><span style=\"font-family: sans-serif; font-size: 11px;\">2.\u00a0\u00a0\u00a0\u00a0The patient\u2019s condition is bortezomib treatment na\u00efve.</span></p><p class=\"ql-indent-1\"><span style=\"font-family: sans-serif; font-size: 11px;\">\u00a0</span></p><p class=\"ql-indent-1\"><strong style=\"font-family: sans-serif; font-size: 11px;\">Renewal application</strong></p><p class=\"ql-indent-1\"><span style=\"font-family: sans-serif; font-size: 11px;\">Applications from any relevant practitioner. Approvals valid for 12 months. </span></p><p class=\"ql-indent-1\"><strong style=\"font-family: sans-serif; font-size: 11px;\">Prerequisites</strong><span style=\"font-family: sans-serif; font-size: 11px;\"> (tick boxes where appropriate) </span></p><p class=\"ql-indent-2\"><span style=\"font-family: sans-serif; font-size: 11px;\">1.\u00a0\u00a0\u00a0\u00a0No evidence of clinical disease progression and </span></p><p class=\"ql-indent-2\"><span style=\"font-family: sans-serif; font-size: 11px;\">2.\u00a0\u00a0\u00a0\u00a0The treatment remains appropriate, and the patient is benefiting from treatment</span></p><p><span style=\"font-size: 9pt;\">\u00a0</span></p><p>1.2.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>In making this recommendation, the Advisory Committee considered:</p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The high health need for people with untreated WM where bendamustine-rituximab (BR) is not suitable, and for people with relapsed WM.</p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The evidence for the use of bortezomib in WM is of poor quality, especially in the relapsed/refractory setting, with no head-to-head data comparing bortezomib-dexamethasone-rituximab (BDR) with other common regimens (dexamethasone-rituximab-cyclophosphamide (DRC) and rituximab-cyclophosphamide-vincristine-prednisone (R-CVP)).</p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The suitability of bortezomib as a widely used subcutaneous injection that can be administered in both urban and rural outpatient settings.</p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The cost of bortezomib compared to other funded and unfunded treatments for WM</p>",
+          "Published_Application__c": "<p>1.1.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Advisory Committee reviewed bortezomib for the treatment of Waldenstr\u00f6m macroglobulinemia (WM), based on its previous considerations at the November 2021 Cancer Treatment Subcommittee of PTAC (CaTSoP) meeting.</p><p>1.2.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Advisory Committee took into account, where applicable, Pharmac\u2019s relevant decision-making framework when considering this agenda item.\u00a0</p>",
+          "Published_Discussion__c": "<h3><em>M\u0101ori Impact</em></h3><p>1.1.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee discussed the impact of funding bortezomib for the treatment of WM on M\u0101ori health areas of focus and M\u0101ori health outcomes. The Committee noted that no evidence was identified in this area.</p><h3><em>Background</em></h3><p>1.2.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that an application for ibrutinib for the treatment of WM was assessed at the November 2021 CaTSoP meeting and two recommendations were made. The Committee noted that CaTSoP recommended that ibrutinib for the treatment of first line WM be listed with a low priority, and that ibrutinib for the treatment of patients with relapsed/refractory WM be listed with a medium priority.</p><p>1.3.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that, during this meeting, CaTSoP also noted that bortezomib in combination with dexamethasone +/- rituximab has also been shown to be efficacious in patients with WM. The Subcommittee noted that bortezomib is not currently funded for people with WM and requested to review bortezomib for the treatment of people with WM at a future meeting.</p><h3><em>Health Need</em></h3><p>1.4.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that WM is an incurable lymphoproliferative B-cell disorder characterised by infiltration of lymphoplasmacytic cells into the bone marrow and immunoglobulin M (IgM) monoclonal gammopathy (<a href=\"https://pubmed.ncbi.nlm.nih.gov/23233639/\" target=\"_blank\">Ghobrial. Hematology Am Soc Hematol Educ Program. 2012:586-94</a>; <a href=\"https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=52416\" target=\"_blank\">Orphanet. Waldenstr\u00f6m macroglobulinemia. 2012</a>). The Committee noted that WM is a progressive, incurable disease that results in reduced function and quality of life, leading to early death.</p><p>1.5.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that WM is a rare condition, making up approximately 2% of all blood cancers. The Committee noted that the estimated incidence is four persons per million per year in Europe, classifying it as an orphan disease (<a href=\"https://www.orpha.net/consor/cgi-bin/Disease_Search.php?lng=EN&amp;data_id=10313&amp;Disease_Disease_Search_diseaseGroup=Waldenstrom-macroglobulinemia-&amp;Disease_Disease_Search_diseaseType=Pat&amp;Disease(s)/group%20of%20diseases=Waldenstrom-macroglobulinemia&amp;title=Waldenstr%F6m%20macroglobulinemia&amp;search=Disease_Search_Simple\" target=\"_blank\">Orphanet, 2016</a>). The Committee noted it is more common in men than women, and predominantly diagnosed in older people, with a median age at diagnosis of 68 years (<a href=\"https://www.leukaemia.org.au/blood-cancer-information/types-of-blood-cancer/waldenstroms-macroglobulinaemia/\" target=\"_blank\">Leukaemia Foundation Australia 2021</a>). The Committee considered that at diagnosis treatment is not usually indicated, and that the median time from diagnosis to needing treatment is 5 to 10 years (<a href=\"https://ashpublications.org/blood/article/119/19/4462/29975/Progression-in-smoldering-Waldenstrom\" target=\"_blank\">Kyle et al. Blood. 2012;119:4462-6</a>). The Committee noted that there are approximately 20 to 50 cases in New Zealand per year. The Committee noted that in the funding application received for ibrutinib for treatment of WM, the supplier (Janssen) estimated that approximately 12 people are diagnosed with relapsed/refractory WM per year in New Zealand. The Committee noted that when this application was discussed at the November 2021 CaTSoP Subcommittee meeting, this figure was considered an underestimate, and that actual numbers in New Zealand could be double that estimated by the supplier.</p><p>1.6.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that symptoms of WM develop slowly and may initially include fatigue, weakness, and weight loss. The Committee noted that, as the disease progresses, several morbidities may arise and impact an affected person\u2019s ability to carry out daily activities. The Committee noted that this is particularly debilitating in the elderly population disproportionately affected by WM, who are often affected by comorbidities, limited mobility, and a reduced capacity to tolerate the adverse effects of chemotherapy (<a href=\"https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=52416\" target=\"_blank\">Orphanet. 2012</a>; <a href=\"https://ashpublications.org/blood/article/113/18/4163/25738/International-prognostic-scoring-system-for\" target=\"_blank\">Morel et al. Blood. 2009;113:4163-70</a>).</p><p>1.7.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that, in the November 2021 CaTSoP meeting, the Subcommittee considered the treatment options (rituximab in combination with chemotherapy) to be effective for people with good performance status living with WM and therefore the health need for this treatment na\u00efve group was comparatively low. The Committee noted that at this time, the Subcommittee considered that the health need for those living with WM is greater for those in which rituximab in combination with chemotherapy is not suitable (eg due to their frailty or comorbidities). The Committee also noted that the Subcommittee considered the heath need to also be greater for those who have relapsed after, or are refractory to a prior line of treatment, due to the limited treatment options and shorter progression free survival (PFS) in later lines of treatment. The Committee considered that those who relapse will be older and therefore less likely to be treated with BR again, and that Bruton tyrosine kinase (BTK) inhibitors are not funded and therefore not an option for these individuals in New Zealand.</p><p>1.8.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that in Kastritis et al the WM death rate was 32% and the WM unrelated death rate was 11.5% (<a href=\"https://haematologica.org/article/view/7566\" target=\"_blank\">Kastritis et al. Haematologica. 2015;100:e446-9</a>). The Committee considered that as WM is a disease occurring predominantly in elderly individuals and that not all individuals with WM would die from this disease.</p><p>1.9.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that the currently funded treatments for WM include BR as a preferred option, or DRC or rituximab monotherapy in those with comorbidities or low tumour burden. The Committee considered that, in the first line setting, most individuals with good performance status would receive BR for WM. The Committee considered that that BR would be suitable in &lt;10% of people in the second line setting in New Zealand. The Committee considered that for those in which BR is not suitable in the second line setting, R-CVP, rituximab monotherapy, chlorambucil, or DRC would be used instead. It was noted that at the November 2021 meeting, the Committee considered that individuals with relapsed/refractory WM can be retreated with the previous chemotherapy regimen (if this was effective in the previous line), an alternative chemotherapy regimen, or rituximab monotherapy. The Committee noted that CaTSoP considered that efficacy of treatment and PFS with each successive line of treatment would be expected to diminish.</p><p>1.10.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that treatment with the agents above has been associated with short periods of remission, frequent relapse, and relatively short PFS (<a href=\"https://www.sciencedirect.com/science/article/abs/pii/S088985881400077X?via%3Dihub\" target=\"_blank\">Treon et al. Hematol Oncol Clin North Am. 2014;28:945-70</a><u>;</u> <a href=\"https://ascopubs.org/doi/10.1200/JCO.2005.03.144?url_ver=Z39.88-2003&amp;rfr_id=ori:rid:crossref.org&amp;rfr_dat=cr_pub%20%200pubmed\" target=\"_blank\">Dimopoulos et al. J Clin Oncol. 2005;23:1564-77</a>). The Committee noted that, in the first line setting, the median PFS is 69.5 months (95% CI 26.1 to not reached) for BR treatment (<a href=\"https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(12)61763-2/fulltext\" target=\"_blank\">Rummel et al. Lancet. 2013;381:1203-1210</a>), 34 months (95% CI 23 to not reached) for DRC treatment (<a href=\"https://ashpublications.org/blood/article/126/11/1392/34400/Dexamethasone-rituximab-and-cyclophosphamide-as\" target=\"_blank\">Kastritis et al. Blood. 2015;126:1392-1394</a><u>)</u>, and 27.1 months (95% CI 21.0 to 32.1) for chlorambucil (<a href=\"https://pubmed.ncbi.nlm.nih.gov/23233721/\" target=\"_blank\">Leblond et al. J Clin Oncol. 2013;31:301-7</a>). The Committee noted that, in the relapsed/refractory setting, the median PFS is 35 months (95% CI 15 to 51) for DRC treatment (<a href=\"https://onlinelibrary.wiley.com/doi/full/10.1111/bjh.14826\" target=\"_blank\">Paludo et al. BJH. 2017;179:98-105</a>). The Committee noted that the median PFS is 20.3 months for 8 cycles of rituximab monotherapy, which includes both those who were treatment na\u00efve and relapsed/refractory (<a href=\"https://www.nejm.org/doi/full/10.1056/nejmoa1802917\" target=\"_blank\">Dimopoulos et al. N Engl J Med. 2018;378:2399-2410</a>).</p><p>1.11.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that bortezomib-containing regimens are listed as a treatment option for both previously untreated and relapsed/refractory people with WM in the European Society for Medical Oncology (ESMO) 2018 Guidelines and National Comprehensive Cancer Network Guidelines. The Committee noted that BDR is also listed as an upfront option for treatment naive WM patients in International Waldenstr\u00f6m Working Group (IWWG) and the Australian WM 2022 Guideline. The Committee noted that internationally there is a preference in the relapsed/refractory setting for BTK inhibitors due to their availability, and that BDR should only be considered if BTK inhibitors are contraindicated (IWWG) or if a rapid reduction in IgM is required (Australian WM 2022 Guideline).</p><p>1.12.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that people with WM living in rural areas are more likely to experience difficulty in accessing services including specialist visits, supportive care, and current treatments for WM that are required to be administered in a hospital or outpatient setting. The Committee noted that elderly people with WM are also more likely to have poorer outcomes due to their increased frailty, comorbidities, and susceptibility to developing adverse reactions to treatment such as chemotherapy, thereby highlighting the unmet need for an oral treatment option such as a BTK inhibitor (<a href=\"https://ashpublications.org/blood/article/113/18/4163/25738/International-prognostic-scoring-system-for\" target=\"_blank\">Morel et al. Blood. 2009;113:4163-70</a>).</p><h3><em>Health Benefit</em></h3><p>1.13.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that bortezomib is a proteasome inhibitor and that it is not currently Medsafe approved for treatment of WM.</p><p>1.14.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that the ESMO Guidelines recommend bortezomib is given at a dose of 1.5 mg/m<sup>2</sup> subcutaneously at weekly intervals for the treatment of active WM. The Committee noted that the ESMO states that bortezomib may be administered alone or in combination with rituximab, noting that the addition of dexamethasone may also be beneficial (<a href=\"https://www.annalsofoncology.org/article/S0923-7534(19)31695-3/pdf\" target=\"_blank\">Kastritis et al. ESMO. 2018</a>).</p><p>1.15.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee noted that the key evidence for the use of bortezomib for the treatment of WM comes from a prospective, multicentre, phase II study investigating the efficacy of BDR in 59 previously untreated symptomatic patients with WM. The Committee noted that study participants received a 21-day cycle of bortezomib alone (1.3 mg/m<sup>2</sup> IV on days 1, 4, 8, and 11), followed by weekly IV bortezomib (1.6 mg/m<sup>2</sup> on days 1, 8, 15, and 22) for 4 additional 35-day cycles, with IV dexamethasone (40 mg) and IV rituximab (375 mg/m<sup>2</sup>) on cycles 2 and 5, for a total treatment duration of 23 weeks.</p><p>1.16.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee noted the long-term results of this trial after a median follow-up of 42 months. The Committee noted that the median PFS was 42 months with a 3-year survival of 81%. The Committee noted that the overall response rate (ORR) was 85% (95% confidence interval [CI] 73% to 92%). The Committee noted that the median IgM reduction after bortezomib monotherapy was 18% (range, 278% to 112%; 34% of patients had &gt;25% reduction and 8% had &gt;50% reduction). The Committee noted that 32 (54%) patients experienced disease progression or died, and that the main reasons for discontinuation of BDR were toxicity in 16 (27%) patients and disease progression (or death) in 5 patients (<a href=\"https://ashpublications.org/blood/article/122/19/3276/32003/Primary-therapy-of-Waldenstrom-macroglobulinemia\" target=\"_blank\">Dimopoulos et al. Blood. 2013;122:3276-3282</a>).</p><p>1.17.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee noted the results of a 6-year minimum follow up analysis of the same trial (median duration of follow-up of 86 months). The Committee noted that the median PFS was 43 months (95% CI 23 to 63), and the 7-year PFS per International Prognostic Scoring System for WM (IPSSWM) was 62.5%, 42%, and 15% for low-, intermediate-, and high-risk disease, respectively. The Committee noted that the overall survival (OS) rate at 7 years was 66%, and the OS per IPSSWM was 87.5% for low-, 68.2% for intermediate-, and 48% for high-risk patients. The Committee noted that the ORR was 85%, and the median duration of response (DOR) was 64.5 months. The Committee noted that 40 patients (68%) progressed or died as a result of WM, whereas 9 patients (15%) died of unrelated causes, with peripheral neuropathy occurring in 46% patients (grade 2: 17%; grade &gt;3: 7%) and neuropathic pain occurring in 20% (grade 3: n=1) (<a href=\"https://ashpublications.org/blood/article/129/4/456/36177/BDR-in-newly-diagnosed-patients-with-WM-final\" target=\"_blank\">Gavriatopoulou et al. Blood. 2017;129:456-549</a>)</p><p>1.18.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>In the absence of a relevant combination chemotherapy comparator arm in the key clinical trial above, the Committee noted the following evidence on the use of other agents currently funded for the treatment of WM:</p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://www.dovepress.com/rituximab-based-combination-therapy-in-patients-with-waldenstroumlm-ma-peer-reviewed-fulltext-article-OTT\" target=\"_blank\">Zheng et al. Onco Targets Ther. 2019;12:2751-2766</a></p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://onlinelibrary.wiley.com/doi/10.1111/bjh.16264\" target=\"_blank\">Walewski et al. Br J Haematol. 2020;188;898-906</a></p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://onlinelibrary.wiley.com/doi/epdf/10.1111/bjh.15718\" target=\"_blank\">Laribi et al. Br J Haematol. 2018;186:146-149</a></p><p class=\"ql-indent-1\"><span style=\"font-family: Symbol;\">\u00b7</span><span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span><a href=\"https://ashpublications.org/blood/article/126/11/1392/34400/Dexamethasone-rituximab-and-cyclophosphamide-as\" target=\"_blank\">Kastritis et al. Blood. 2015;126:1392-4</a></p><p>1.19.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that the evidence for the use of bortezomib for WM is of poor quality and that there are no head-to-head trials for this treatment in the requested indication. The Committee considered that, in the first line setting, those who would benefit most from bortezomib would be the 40% of those for whom BR is not suitable. The Committee considered that BDR is comparable to DRC, and that DRC would be preferred if neuropathy is present. The Committee considered that, in the second line setting (and in the absence of a BTK inhibitor), bortezomib would be an option for people with WM regardless of performance status and could follow first line DRC chemotherapy for those in which BR is not suitable (in the absence of neuropathy).</p><p>1.20.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that, if access were to be widened, bortezomib would not replace BR in the first line setting, however that bortezomib would be comparable to DRC/R-CVP for those in which BR is not suitable. The Committee considered that in the second line setting, bortezomib (BDR) would be a good option, especially for those who have had DRC in the first line. The Committee however considered that if a BTK inhibitor were to be funded for first line or relapsed/refractory WM then this would be the preferred option.</p><h3><em>Suitability</em></h3><p>1.21.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee noted bortezomib is a subcutaneous injection used widely in New Zealand in both urban and rural outpatient settings.</p><h3><em>Cost and Savings</em></h3><p>1.22.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that bortezomib was relatively inexpensive compared to other treatments for WM. The Committee noted that between 40 to 70 individuals per year could be eligible for treatment of treatment na\u00efve or relapsed/refractory WM.</p><p>1.23.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that, in a first line setting, bortezomib would most likely be considered for people with WM where BR chemotherapy is not suitable. The Committee considered that BR would not be suitable in approximately 40% of people requiring first-line treatment for WM, and these people could be treated with BDR. The Committee noted that currently either RCVP or CDR is the preferred treatment for those in which first-line BR is not suitable, with a roughly equal proportion of individuals between the two regimens.</p><p>1.24.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Committee considered that BR re-treatment would be suitable for less than 10% of people with relapsed/remitting WM, and that BDR would likely be considered for this group (regardless of performance status).\u00a0The Committee noted that currently R, RCVP, or CDR is the preferred treatment for those in which second-line BR is not suitable, with a roughly equal proportion of patients between the three regimens.</p><h3><em>Summary for Assessment</em></h3><p>1.25.<span style=\"font-size: 7pt;\">\u00a0\u00a0\u00a0\u00a0</span>The Advisory Committee considered that the table below summarises its interpretation of the most appropriate PICO (population, intervention, comparator, outcomes) information for bortezomib if it were to be funded in New Zealand for Waldenstr\u00f6m macroglobulinemia. This PICO captures key clinical aspects of the proposal and may be used to frame any future economic assessment by Pharmac staff. This PICO is based on the Advisory Committee\u2019s assessment at this time and may differ from that requested by the applicant. The PICO may change based on new information, additional clinical advice, or further analysis by Pharmac staff.\u00a0</p><p><img src=\"/apptracker/servlet/rtaImage?eid=a0POZ00000WvQEk&amp;feoid=00N2P000000YsIc&amp;refid=0EM2P000002lCqY\" alt=\"image.png\"></img></p>",
+          "Status_History__c": "a132P000000EDzcQAG"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Mar 2022",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Following Clinical Advice, Pharmac staff considers the advice and the funding application under goes an assessment using our&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/factors-for-consideration/\" rel=\"nofollow\">Factors for Consideration</a>&nbsp;framework and seeks additional information as required.</p>\r\n<p>&nbsp;</p>\r\n<p>Research and Economic analysis are undertaken.&nbsp; This focuses on the costs and benefits of a proposed course of action. Economics is based on three fundamental concepts that summarise the issues Pharmac faces daily:&nbsp;</p>\r\n<ul>\r\n<li>Scarcity &ndash; resources will always be insufficient to support all possible activities.</li>\r\n<li>Choices &ndash; due to scarce resources, decisions must be made about how best to use them.</li>\r\n<li>Opportunity cost &ndash; by choosing to use resources one way, we forgo other opportunities to use the same resources.</li>\r\n</ul>\r\n<p>&nbsp;</p>\r\n<p>For further information on the purpose of, and techniques for, undertaking economic analysis in health care, please refer&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/economic-analysis/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/economic-analysis/</a></p>",
+    "position": 2,
+    "name": "Under Assessment",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Jun 2023",
+          "fs": "Jun 2023",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Working to compare options",
+          "fs": "Working to compare options",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000WvQEl2AN"
+          },
+          "Id": "a0POZ00000WvQEl2AN",
+          "Event_Date__c": "2023-06-22",
+          "Event_Description__c": "Working to compare options",
+          "Stage__c": "Under Assessment",
+          "Formatted_Date__c": "Jun 2023",
+          "Status_History__c": "a132P000000Ec4VQAS"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Jun 2023",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Pharmac staff uses a prioritisation process to compare and rank funding options. Possible opportunities for new investment will always exceed the budget Pharmac has available; therefore, prioritisation is an intrinsic part of Pharmac\u2019s decision-making process.</p>\r\n<p>The relative ranking of options aims to support Pharmac&rsquo;s statutory objective &ldquo;to secure for eligible people in need of pharmaceuticals, the best health outcomes that are reasonably achievable from pharmaceutical treatment and from within the amount of funding provided&rdquo;.</p>\r\n<p>A funding application or proposal is considered ready for prioritisation when sufficient information is available to permit it to be reviewed against Pharmac's Factors for Consideration and to inform a comparison with other possible investment decisions.</p>\r\n<p>There is no guarantee when or if a ranked medicine will be funded.&nbsp;&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/prioritisation/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/prioritisation/</a></p>",
+    "position": 3,
+    "name": "Options Compared",
+    "last": false,
+    "events": null,
+    "dateString": null,
+    "collapsed": false,
+    "checked": false
+  },
+  {
+    "text": "<p>Pharmac is consulting on a proposal to either approve or decline the application.&nbsp;We seek the views of all people who have an interest in our proposals, or who may be affected by them, to obtain feedback on our proposed approaches.</p>\r\n<p><a class=\"external-link\" href=\"https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/having-your-say/\" rel=\"nofollow\">https://www.pharmac.govt.nz/medicines/how-medicines-are-funded/having-your-say/</a></p>",
+    "position": 4,
+    "name": "Under Consultation",
+    "last": false,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": "<p><a href=\"https://www.pharmac.govt.nz/news-and-resources/consultations-and-decisions/2025-12-proposal-to-widen-access-to-bortezomib-for-the-treatment-of-waldenstroems-macroglobulinemia\" target=\"_blank\" style=\"color: rgb(11, 92, 171); background-color: rgb(255, 255, 255);\">Consultation notification</a></p>",
+          "fs": "<p><a href=\"https://www.pharmac.govt.nz/news-and-resources/consultations-and-decisions/2025-12-proposal-to-widen-access-to-bortezomib-for-the-treatment-of-waldenstroems-macroglobulinemia\" target=\"_blank\" style=\"color: rgb(11, 92, 171); background-color: rgb(255, 255, 255);\">Consultation notification</a></p>",
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Dec 2025",
+          "fs": "Dec 2025",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "Public consultation for this application is active.",
+          "fs": "Public consultation for this application is active.",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000WvQEm2AN"
+          },
+          "Id": "a0POZ00000WvQEm2AN",
+          "Event_Date__c": "2025-12-02",
+          "Event_Description__c": "Public consultation for this application is active.",
+          "Stage__c": "Under Consultation",
+          "Links__c": "<p><a href=\"https://www.pharmac.govt.nz/news-and-resources/consultations-and-decisions/2025-12-proposal-to-widen-access-to-bortezomib-for-the-treatment-of-waldenstroems-macroglobulinemia\" target=\"_blank\" style=\"color: rgb(11, 92, 171); background-color: rgb(255, 255, 255);\">Consultation notification</a></p>",
+          "Formatted_Date__c": "Dec 2025",
+          "Status_History__c": "a13OZ00000X0tRKYAZ"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Dec 2025",
+    "collapsed": false,
+    "checked": true
+  },
+  {
+    "text": "<p>Following the consultation process, Pharmac staff considers the feedback and identifies any additional information required as part of a gap analysis.&nbsp; The proposal may require further clinical advice, research, and assessment.</p>",
+    "position": 5,
+    "name": "Reviewing Consultation Feedback",
+    "last": false,
+    "events": null,
+    "dateString": null,
+    "collapsed": false,
+    "checked": false
+  },
+  {
+    "text": "<p>We refer to our decisions about whether and how particular pharmaceuticals are publicly-funded, as &ldquo;funding decisions&rdquo;.</p>\r\n<p>We consider and assess all funding decisions using the&nbsp;<a class=\"external-link\" href=\"https://www.pharmac.govt.nz/about/operating-policies-and-procedures/#factorsfc\" rel=\"nofollow\">Factors for Consideration</a>. When we do so, we carefully evaluate clinical and other evidence for the benefits and suitability of a proposal, and to identify and understand the people who will be affected by it.</p>\r\n<p>While our main task is to allocate pharmaceutical funding, we consider the benefits and costs across the whole health system now and with a long-term focus, including the effects for hospitals and primary care, and consider direct costs to patients as well as to all health sector budgets.</p>\r\n<p>Final funding decisions are made by the Pharmac Board or delegated to senior Pharmac staff as required by the Board.</p>\r\n<p>&nbsp;</p>",
+    "position": 6,
+    "name": "Decision",
+    "last": true,
+    "events": [
+      {
+        "Summary": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Recommendation": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Discussion": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Published_Application": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "PTAC_Comments": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Outcome": {
+          "s": null,
+          "fs": null,
+          "change": null
+        },
+        "Links": {
+          "s": "<p>https://www.pharmac.govt.nz/news-and-resources/consultations-and-decisions/2026-01-decision-to-brand-change-bortezomib-and-widen-access-to-bortezomib-for-the-treatment-of-waldenstroems-macroglobulinemia</p>",
+          "fs": "<p>https://www.pharmac.govt.nz/news-and-resources/consultations-and-decisions/2026-01-decision-to-brand-change-bortezomib-and-widen-access-to-bortezomib-for-the-treatment-of-waldenstroems-macroglobulinemia</p>",
+          "change": null
+        },
+        "Formatted_Date": {
+          "s": "Jan 2026",
+          "fs": "Jan 2026",
+          "change": null
+        },
+        "Event_Description": {
+          "s": "The funding application has been .",
+          "fs": "The funding application has been .",
+          "change": null
+        },
+        "e": {
+          "attributes": {
+            "type": "Application_Event__c",
+            "url": "/services/data/v65.0/sobjects/Application_Event__c/a0POZ00000WvQEn2AN"
+          },
+          "Id": "a0POZ00000WvQEn2AN",
+          "Event_Date__c": "2026-01-28",
+          "Event_Description__c": "The funding application has been .",
+          "Stage__c": "Decision",
+          "Links__c": "<p>https://www.pharmac.govt.nz/news-and-resources/consultations-and-decisions/2026-01-decision-to-brand-change-bortezomib-and-widen-access-to-bortezomib-for-the-treatment-of-waldenstroems-macroglobulinemia</p>",
+          "Formatted_Date__c": "Jan 2026",
+          "Status_History__c": "a13OZ00000ZHbC0YAL"
+        },
+        "change": null
+      }
+    ],
+    "dateString": "Jan 2026",
+    "collapsed": false,
+    "checked": true
+  }
+]
