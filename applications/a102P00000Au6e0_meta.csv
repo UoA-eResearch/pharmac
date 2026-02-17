@@ -1,2 +1,2 @@
-Applicants,Chemical_Name,Funding_requested_for,Pharmaceutical,Schedules,Therapeutic_group
-Clinician,Riboflavin,Perioperative use (cystoscopy),Riboflavin (riboflavin),Hospital,Genito-Urinary System
+Applicants,Chemical_Name,Funding_requested_for,Pharmaceutical,Priority_List,Schedules,Therapeutic_group
+Clinician,Riboflavin,Perioperative use (cystoscopy),Riboflavin (riboflavin),Only if cost neutral or cost saving,Hospital,Genito-Urinary System

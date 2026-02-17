@@ -6,12 +6,15 @@ from pprint import pprint
 import json
 import os
 from tqdm.auto import tqdm
+import os
 
 URL = "https://connect.pharmac.govt.nz/apptracker/s/sfsites/aura"
 
 df = pd.concat(pd.read_csv(f) for f in ["CS_CN.csv", "Decline.csv", "OFI.csv"])
 print(df)
-record_ids = df.Community_URL.str.replace("/apptracker/s/application-public/", "")
+record_ids = set(df.Community_URL.str.replace("/apptracker/s/application-public/", ""))
+set_of_existing = set([f.replace("_meta.csv", "") for f in os.listdir("applications") if f.endswith("_meta.csv")])
+record_ids = record_ids.union(set_of_existing)
 print(record_ids)
 
 for record_id in tqdm(record_ids):
@@ -50,5 +53,8 @@ for record_id in tqdm(record_ids):
     meta = pd.DataFrame(meta).head(1)
     os.makedirs("applications", exist_ok=True)
     meta.to_csv(f"applications/{record_id}_meta.csv", index=False)
-    df = pd.DataFrame(json.loads(by_id["108;a"]["returnValue"]))
-    df.to_csv(f"applications/{record_id}.csv")
+    try:
+        df = pd.DataFrame(json.loads(by_id["108;a"]["returnValue"]))
+        df.to_csv(f"applications/{record_id}.csv")
+    except Exception as e:
+        print(f"Error for {record_id}: {e}")

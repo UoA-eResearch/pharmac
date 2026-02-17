@@ -1,2 +1,2 @@
-Applicants,Chemical_Name,Funding_requested_for,Pharmaceutical,Schedules,Therapeutic_group
-Clinician,Crizotinib,"Non-small cell lung cancer, locally advanced or metastatic, ROS1 gene translocation",Crizotinib (Xalkori),Hospital,Oncology Agents and Immunosuppressants
+Applicants,Chemical_Name,Funding_requested_for,Pharmaceutical,Priority_List,Schedules,Therapeutic_group
+Clinician,Crizotinib,"Non-small cell lung cancer, locally advanced or metastatic, ROS1 gene translocation",Crizotinib (Xalkori),,Hospital,Oncology Agents and Immunosuppressants
