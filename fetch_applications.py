@@ -10,14 +10,10 @@ import os
 
 URL = "https://connect.pharmac.govt.nz/apptracker/s/sfsites/aura"
 
-df = pd.concat(pd.read_csv(f) for f in ["CS_CN.csv", "Decline.csv", "OFI.csv"])
+df = pd.read_csv("applications.csv")
 print(df)
-record_ids = set(df.Community_URL.str.replace("/apptracker/s/application-public/", ""))
-set_of_existing = set([f.replace("_meta.csv", "") for f in os.listdir("applications") if f.endswith("_meta.csv")])
-record_ids = record_ids.union(set_of_existing)
-print(record_ids)
 
-for record_id in tqdm(record_ids):
+for record_id in tqdm(df.Id):
     resp = requests.post(
         URL,
         data={
@@ -32,13 +28,7 @@ for record_id in tqdm(record_ids):
                                 "applicationId": record_id,
                                 "expandAll": True,
                             },
-                        },
-                        {
-                            "id": "150;a",
-                            "descriptor": "apex://AppTrackerController/ACTION$getAppInfo",
-                            "callingDescriptor": "markup://c:AppTracker_Info",
-                            "params": {"appId": record_id},
-                        },
+                        }
                     ]
                 }
             ),
@@ -49,10 +39,7 @@ for record_id in tqdm(record_ids):
     by_id = {}
     for a in resp["actions"]:
         by_id[a["id"]] = a
-    meta = by_id["150;a"]["returnValue"]
-    meta = pd.DataFrame(meta).head(1)
     os.makedirs("applications", exist_ok=True)
-    meta.to_csv(f"applications/{record_id}_meta.csv", index=False)
     try:
         df = pd.DataFrame(json.loads(by_id["108;a"]["returnValue"]))
         df.to_csv(f"applications/{record_id}.csv")
