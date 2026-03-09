@@ -32,6 +32,7 @@ Carfilzomib,/apptracker/s/application-public/a102P00000BIsC8,"Multiple myeloma, 
 Carglumic acid,/apptracker/s/application-public/a102P000008pu8I,Hyperammonaemia resulting from CPS1 and NAGs deficiencies of urea cycle,Alimentary Tract and Metabolism
 Carglumic acid,/apptracker/s/application-public/a102P000008pubu,"Hyperammonaemia resulting from isovaleric, methylmalonic and propionic organic acidaemias",Alimentary Tract and Metabolism
 Ciclosporin eye preparation,/apptracker/s/application-public/a102P000008pu7u,"Severe keratoconjunctivitis sicca, severe atopic keratoconjunctivitis and severe vernal keratoconjunctivitis",Sensory Organs
+Crovalimab,/apptracker/s/application-public/a10OZ000004CDaH,Paroxysmal nocturnal haemoglobinuria (PNH),
 Daratumumab,/apptracker/s/application-public/a10OZ0000001LOz,2L SC + 4L IV - Multiple Myeloma relapsed or refractory,
 "Daratumumab (in combination with bortezomib, cyclophosphamide and dexamethasone)",/apptracker/s/application-public/a102P00000BD1Sr,"AL amyloidosis, 1L",Oncology Agents and Immunosuppressants
 Daratumumab IV (with bortezomib and dexamethasone),/apptracker/s/application-public/a102P000008ptxu,"Multiple myeloma, relapsed or refractory, 2nd line",Oncology Agents and Immunosuppressants
@@ -41,7 +42,9 @@ Dostarlimab,/apptracker/s/application-public/a10OZ000000e2xZ,"Endometrial cancer
 Dostarlimab,/apptracker/s/application-public/a10OZ000002WKNR,"Endometrial cancer, treatment of advanced or recurrent, irrespective of dMMR status, first line",Oncology Agents and Immunosuppressants
 Durvalumab,/apptracker/s/application-public/a102P00000Bajp3,"biliary tract cancer, Locally advanced or metastatic, in combination with chemotherapy",Oncology Agents and Immunosuppressants
 Durvalumab,/apptracker/s/application-public/a10OZ0000038EnF,"Extensive-stage small cell lung cancer (ES-SCLC),  first-line",Oncology Agents and Immunosuppressants
+Eculizumab,/apptracker/s/application-public/a10OZ000004AhB3,Paroxysmal nocturnal haemoglobinuria (PNH),
 Elexacaftor/tezacaftor/ivacaftor and ivacaftor,/apptracker/s/application-public/a10OZ000000hRHt,"Cystic fibrosis, aged 2-5 years, with F508del mutation(s) in the CFTR gene, G551D mutation or other mutation responsive in vitro to Trikafta",Respiratory System and Allergies
+Empagliflozin,/apptracker/s/application-public/a102P00000BY4ly,"Chronic heart failure, NYHA II-IV and LVEF >40%",Cardiovascular System
 Empagliflozin,/apptracker/s/application-public/a102P00000BaVPW,"Chronic kidney disease (CKD), non-diabetic",Genito-Urinary System
 Enzalutamide,/apptracker/s/application-public/a102P00000BKbSL,"Prostate cancer, metastatic, castration resistant, contraindicated to abiraterone",Oncology Agents and Immunosuppressants
 Eplerenone,/apptracker/s/application-public/a102P000008puD9,"Hypertension, treatment refractory, intolerant to spironolactone",Cardiovascular System
@@ -63,10 +66,12 @@ Guselkumab,/apptracker/s/application-public/a102P00000BaNat,"Plaque psoriasis, m
 Guselkumab,/apptracker/s/application-public/a10OZ000000uZcc,"Psoriatic arthritis, 2nd line biologic",
 Ibrutinib,/apptracker/s/application-public/a102P000008puXu,Relapsed or refractory mantle cell lymphoma (R/R MCL),Oncology Agents and Immunosuppressants
 Inactivated trivalent influenza vaccine prepared in cell cultures (TIVc),/apptracker/s/application-public/a10OZ000003tFaz,Influenza vaccine for people 6 months to under 65 years of age,National Immunisation Schedule
+Infliximab,/apptracker/s/application-public/a102P00000AlWG7,"Crohn's disease and ulcerative colitis, dose escalation, widening access",Alimentary Tract and Metabolism
 Influenza vaccine,/apptracker/s/application-public/a102P00000BRGrN,Options for widened access - Open listing,National Immunisation Schedule
 Influenza vaccine,/apptracker/s/application-public/a102P00000BROFJ,People over 50 years of age -widen access,National Immunisation Schedule
 Influenza vaccine,/apptracker/s/application-public/a102P00000BROGR,Children up to 18 years of age - widen access,National Immunisation Schedule
 Influenza vaccine,/apptracker/s/application-public/a10OZ000001rzeI,Individuals aged 0 to 59 months,
+Iptacopan,/apptracker/s/application-public/a10OZ000004AYis,Paroxysmal nocturnal haemoglobinuria (PNH),
 Lanadelumab,/apptracker/s/application-public/a10OZ000000MfFp,Routine prevention of recurrent attacks of hereditary angioedema,Respiratory System and Allergies
 Lanreotide acetate,/apptracker/s/application-public/a102P000008puZP,"Gastroenteropancreatic neuroendocrine tumours, non-functional",Oncology Agents and Immunosuppressants
 Letermovir,/apptracker/s/application-public/a102P000008puFK,"Cytomegalovirus infection prophylaxis, stem cell transplant patients",Infections - Agents for Systemic Use
@@ -107,6 +112,8 @@ Ripretinib,/apptracker/s/application-public/a102P00000BNzPa,For people with adva
 Risankizumab,/apptracker/s/application-public/a102P000008puXW,"Chronic plaque psoriasis, 1st line biologic",Dermatologicals
 Risankizumab,/apptracker/s/application-public/a102P00000B1Jf9,"Chronic plaque psoriasis, 2nd line biologic",
 Rufinamide,/apptracker/s/application-public/a102P00000BHRQO,Developmental and epileptic encephalopathies,Nervous System
+Ruxolitinib,/apptracker/s/application-public/a10OZ000000wbGw,"Graft-versus-host disease, acute, corticosteroid refractory",Blood and Blood Forming Organs
+Ruxolitinib,/apptracker/s/application-public/a10OZ0000012ERJ,"Graft-versus-host disease, chronic, corticosteroid refractory",Blood and Blood Forming Organs
 SMA treatments,/apptracker/s/application-public/a102P00000BYT2Q,People with SMA type II and III who are aged 19 years and over,Nervous System
 SMA treatments,/apptracker/s/application-public/a10OZ0000000uQP,"People with SMA types IIIb, IIIc and undefined III aged 18 years and under (symptomatic after 3 years of age)",
 Sacituzumab govitecan,/apptracker/s/application-public/a10OZ0000000O2L,"Breast cancer, triple-negative, locally advanced or metastatic",Oncology Agents and Immunosuppressants
@@ -124,6 +131,8 @@ Upadacitinib,/apptracker/s/application-public/a102P00000BR3Xe,"Psoriatic arthrit
 Ustekinumab,/apptracker/s/application-public/a102P000008pucX,"Psoriasis, chronic plaque, 1st line",Dermatologicals
 Ustekinumab,/apptracker/s/application-public/a10OZ000000H0lC,"Psoriasis, chronic plaque, 2nd line",
 Vanzacaftor with tezacaftor and deutivacaftor (Alyftrek),/apptracker/s/application-public/a10OZ000004nC7O,"Cystic fibrosis in people aged 6 years and older with F508del mutation(s) or another responsive mutation in the cystic fibrosis transmembrane conductance regulator (CTFR) gene, ineligible for elexacaftor/tezacaftor/ivacaftor and ivacaftor",
+Vedolizumab,/apptracker/s/application-public/a10OZ000000EevF,"Ulcerative colitis and Crohn's disease, primary non-response to vedolizumab (dose escalation)",Alimentary Tract and Metabolism
+Vedolizumab,/apptracker/s/application-public/a10OZ00000162Ef,"Ulcerative colitis and Crohn's disease, secondary loss of response to vedolizumab (dose escalation)",Alimentary Tract and Metabolism
 Vismodegib,/apptracker/s/application-public/a102P000008puDo,"Basal cell carcinoma, locally advanced or metastatic",Oncology Agents and Immunosuppressants
 Voretigene neparvovec,/apptracker/s/application-public/a102P00000BXTtD,"Inherited retinal dystrophy, biallelic RPE65 mutations",Sensory Organs
 Zanubrutinib,/apptracker/s/application-public/a102P00000BaaQE,Relapsed or refractory mantle cell lymphoma (R/R MCL),Oncology Agents and Immunosuppressants
