@@ -1,5 +1,6 @@
 Chemical_Name,Community_URL,Indication,Therapeutic_group
 Abiraterone Acetate,/apptracker/s/application-public/a102P000008puQ9,"Prostate cancer, metastatic, naive/hormone sensitive",Oncology Agents and Immunosuppressants
+Adalimumab,/apptracker/s/application-public/a102P00000BNlaD,"Crohn’s disease, children, widening access to people who require a course of EEN",Oncology Agents and Immunosuppressants
 "Adalimumab, etanercept and secukinumab",/apptracker/s/application-public/a102P00000BNlQr,"Psoriatic arthritis, remove SA criteria relating to CRP",Oncology Agents and Immunosuppressants
 "Adalimumab, etanercept and secukinumab",/apptracker/s/application-public/a102P00000BaHCo,"Psoriatic arthritis, SA review of number of csDMARDs previously trialled",Oncology Agents and Immunosuppressants
 Adalimumab/etanercept,/apptracker/s/application-public/a102P000009lJ0Y,"Rheumatoid arthritis, reduce number of prior DMARDs from 3 to 2",Oncology Agents and Immunosuppressants
@@ -30,6 +31,7 @@ Carfilzomib,/apptracker/s/application-public/a102P000008pug4,Relapsed or refract
 Carfilzomib,/apptracker/s/application-public/a102P00000BIsC8,"Multiple myeloma, relapsed or refractory, 2nd line",Oncology Agents and Immunosuppressants
 Carglumic acid,/apptracker/s/application-public/a102P000008pu8I,Hyperammonaemia resulting from CPS1 and NAGs deficiencies of urea cycle,Alimentary Tract and Metabolism
 Carglumic acid,/apptracker/s/application-public/a102P000008pubu,"Hyperammonaemia resulting from isovaleric, methylmalonic and propionic organic acidaemias",Alimentary Tract and Metabolism
+Ceftolozane with tazobactam,/apptracker/s/application-public/a102P000008puSW,Significant infections due to multi-resistant aerobic Gram-negative organisms,Infections - Agents for Systemic Use
 Ciclosporin eye preparation,/apptracker/s/application-public/a102P000008pu7u,"Severe keratoconjunctivitis sicca, severe atopic keratoconjunctivitis and severe vernal keratoconjunctivitis",Sensory Organs
 Crovalimab,/apptracker/s/application-public/a10OZ000004CDaH,Paroxysmal nocturnal haemoglobinuria (PNH),
 Daratumumab,/apptracker/s/application-public/a10OZ0000001LOz,2L SC + 4L IV - Multiple Myeloma relapsed or refractory,
@@ -65,6 +67,7 @@ Guselkumab,/apptracker/s/application-public/a10OZ000000uZcc,"Psoriatic arthritis
 Ibrutinib,/apptracker/s/application-public/a102P000008puXu,Relapsed or refractory mantle cell lymphoma (R/R MCL),Oncology Agents and Immunosuppressants
 Inactivated trivalent influenza vaccine prepared in cell cultures (TIVc),/apptracker/s/application-public/a10OZ000003tFaz,Influenza vaccine for people 6 months to under 65 years of age,National Immunisation Schedule
 Infliximab,/apptracker/s/application-public/a102P00000AlWG7,"Crohn's disease and ulcerative colitis, dose escalation, widening access",Alimentary Tract and Metabolism
+Infliximab,/apptracker/s/application-public/a102P00000BNlc9,"Crohn’s disease, paediatric patients, require exclusive enteral nutrition (EEN), widening access",Oncology Agents and Immunosuppressants
 Influenza vaccine,/apptracker/s/application-public/a102P00000BRGrN,Options for widened access - Open listing,National Immunisation Schedule
 Influenza vaccine,/apptracker/s/application-public/a102P00000BROFJ,People over 50 years of age -widen access,National Immunisation Schedule
 Influenza vaccine,/apptracker/s/application-public/a102P00000BROGR,Children up to 18 years of age - widen access,National Immunisation Schedule
@@ -73,6 +76,7 @@ Iptacopan,/apptracker/s/application-public/a10OZ000004AYis,Paroxysmal nocturnal 
 Lanadelumab,/apptracker/s/application-public/a10OZ000000MfFp,Routine prevention of recurrent attacks of hereditary angioedema,Respiratory System and Allergies
 Lanreotide acetate,/apptracker/s/application-public/a102P000008puZP,"Gastroenteropancreatic neuroendocrine tumours, non-functional",Oncology Agents and Immunosuppressants
 Letermovir,/apptracker/s/application-public/a102P000008puFK,"Cytomegalovirus infection prophylaxis, stem cell transplant patients",Infections - Agents for Systemic Use
+Lidocaine with prilocaine,/apptracker/s/application-public/a102P00000BP9zA,Intrauterine device insertion,Genito-Urinary System
 Low Protein Foods,/apptracker/s/application-public/a102P000009LHTR,PKU phenylketonuria,Special Foods
 "Lubricant, non-irritant, water-based, single use packets",/apptracker/s/application-public/a102P000008puQw,Sexual health,Genito-Urinary System
 "Meningococcal  A, C, Y And W-135 Vaccine",/apptracker/s/application-public/a102P000008pu9d,Children aged 1 to 4 years,National Immunisation Schedule
@@ -109,6 +113,9 @@ Ring pessary,/apptracker/s/application-public/a102P00000Au6xl,"Treatment for pel
 Ripretinib,/apptracker/s/application-public/a102P00000BNzPa,For people with advanced metastatic or unresectable GIST who have experienced disease progression following treatment with imatinib and sunitinib,Oncology Agents and Immunosuppressants
 Risankizumab,/apptracker/s/application-public/a102P000008puXW,"Chronic plaque psoriasis, 1st line biologic",Dermatologicals
 Risankizumab,/apptracker/s/application-public/a102P00000B1Jf9,"Chronic plaque psoriasis, 2nd line biologic",
+Rituximab,/apptracker/s/application-public/a10OZ000000TZNO,"Systemic sclerosis with interstitial lung disease (ILD), not responsive or intolerant to mycophenolate mofetil",Oncology Agents and Immunosuppressants
+Rituximab,/apptracker/s/application-public/a10OZ000001ye3d,Maintenance therapy of ANCA associated vasculitis,Oncology Agents and Immunosuppressants
+Rituximab,/apptracker/s/application-public/a10OZ000003NboL,"Connective tissue disease (CTD)-related interstitial lung disease (ILD), second-line treatment",
 Rufinamide,/apptracker/s/application-public/a102P00000BHRQO,Developmental and epileptic encephalopathies,Nervous System
 Ruxolitinib,/apptracker/s/application-public/a10OZ000000wbGw,"Graft-versus-host disease, acute, corticosteroid refractory",Blood and Blood Forming Organs
 Ruxolitinib,/apptracker/s/application-public/a10OZ0000012ERJ,"Graft-versus-host disease, chronic, corticosteroid refractory",Blood and Blood Forming Organs
