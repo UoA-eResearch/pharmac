@@ -64,10 +64,21 @@ Running `find_approvals.py` against the 2,015 Pharmac applications using the com
 | Regulator | Products in database | Pharmac applications matched | Match rate |
 |-----------|---------------------|------------------------------|-----------|
 | FDA | 50,959 products (3,048 unique active ingredients with approval dates) | ≥ 1,227 / 2,015 | ≥ 60% |
-| TGA | — (database not yet populated) | — | — |
+| TGA | 6,950 products (partial — ~7% of ARTG; scrape ongoing) | — | — |
 | MedSafe | 14,828 products | ≥ 1,325 / 2,015 | ≥ 65% |
 
 The remaining unmatched applications are typically very new drugs not yet in the databases, NZ-specific formulations, nutritional/dietary products, vaccines, or combination products where the ingredient name differs significantly between databases. The fuzzy matching in `find_approvals.py` recovers additional matches beyond the substring counts above.
+
+### Date Coverage by Dataset
+
+How many rows in each committed database have a date value defined:
+
+| Dataset | Total rows | Rows **with** date | Rows **without** date | Notes |
+|---------|-----------|-------------------|----------------------|-------|
+| FDA (`Products.txt` linked via `Submissions.txt`) | 50,959 products | 46,127 (90.5%) | 4,832 (9.5%) | Date = earliest `SubmissionStatusDate` where `SubmissionStatus = AP` |
+| MedSafe (`medsafe_register.csv`) — Approval date | 14,828 products | 14,828 (100%) | 0 (0%) | All products have an approval date |
+| MedSafe (`medsafe_register.csv`) — Notification date | 14,828 products | 10,874 (73.3%) | 3,954 (26.7%) | Notification date is optional and not always recorded |
+| TGA (`tga_artg.csv`) — partial scrape | 6,950 products | 0 (0%) | 6,950 (100%) | Registration dates are on individual ARTG product pages, not the listing page; full per-product scrape needed |
 
 ### Running the Approval Date Lookup
 
