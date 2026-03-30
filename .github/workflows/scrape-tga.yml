@@ -44,15 +44,78 @@ on:
 
 jobs:
   # ---------------------------------------------------------------------------
-  # Job 1: fetch RegistrationDate for every row missing one
+  # Job 1: scrape listing pages to add new ARTG entries
+  # ---------------------------------------------------------------------------
+  tga-listings:
+    name: Scrape TGA ARTG listing pages
+    if: >
+      github.event_name == 'workflow_dispatch' && inputs.run_listings == true
+    runs-on: ubuntu-latest
+    # At ~10 s/page the GHA 6-hour limit allows ~2,000 pages (~50,000 records).
+    # Run multiple times to build the full ~97,000-record dataset; the start
+    # page is detected automatically each time from the existing CSV row count.
+    timeout-minutes: 350
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+          cache: 'pip'
+
+      - name: Install Python dependencies
+        run: pip install -r requirements.txt
+
+      - name: Install Xvfb
+        run: sudo apt-get install -y xvfb
+
+      - name: Scrape TGA listing pages
+        run: |
+          EXTRA_ARGS=""
+          if [ -n "${{ inputs.listings_max_pages }}" ]; then
+            EXTRA_ARGS="--tga-max-pages ${{ inputs.listings_max_pages }}"
+          fi
+          # --tga-start-page is intentionally omitted: the script auto-detects
+          # the correct page from the existing row count in tga_artg.csv.
+          python download_databases.py --tga $EXTRA_ARGS
+        env:
+          PYTHONUNBUFFERED: '1'
+
+      - name: Commit updated CSV
+        run: |
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
+          git add data/tga/tga_artg.csv
+          git diff --staged --quiet && echo "No changes to commit" && exit 0
+          ROWS=$(python3 -c "
+          import csv
+          print(sum(1 for _ in csv.DictReader(open('data/tga/tga_artg.csv'))))
+          ")
+          git commit -m "Update TGA ARTG listings: ${ROWS} total rows [skip ci]"
+          git pull --rebase
+          git push
+
+  # ---------------------------------------------------------------------------
+  # Job 2: fetch RegistrationDate for every row missing one
   # ---------------------------------------------------------------------------
   tga-dates:
     name: Fetch TGA registration dates
-    # Skip this job on scheduled runs if the manual trigger explicitly
-    # disabled it, and skip on manual runs if run_dates is false.
+    # Run after tga-listings (if it ran) so that dates are fetched for any
+    # newly added listings, and so the two jobs don't write to tga_artg.csv
+    # at the same time and clobber each other's results.
+    needs: tga-listings
+    # Run on schedule (listings job is skipped on schedule, so tga-dates
+    # result will be 'skipped'), or on manual dispatch when run_dates is true
+    # and tga-listings either succeeded or was skipped (run_listings: false).
     if: >
       github.event_name == 'schedule' ||
-      (github.event_name == 'workflow_dispatch' && inputs.run_dates == true)
+      (github.event_name == 'workflow_dispatch' && inputs.run_dates == true &&
+      (needs.tga-listings.result == 'success' || needs.tga-listings.result == 'skipped'))
     runs-on: ubuntu-latest
     # Individual product pages load in ~1 s; with 2 s delay and ~6,950 rows
     # the first full run takes roughly 6 hours.  Subsequent runs (skipping
@@ -104,67 +167,6 @@ jobs:
           print(sum(1 for _ in csv.DictReader(open('data/tga/tga_artg.csv'))))
           ")
           git commit -m "Update TGA registration dates: ${WITH}/${TOTAL} rows have date [skip ci]"
-          git pull --rebase
-          git push
-
-  # ---------------------------------------------------------------------------
-  # Job 2: scrape listing pages to add new ARTG entries
-  # ---------------------------------------------------------------------------
-  tga-listings:
-    name: Scrape TGA ARTG listing pages
-    # Run after tga-dates (if it ran) so the two jobs don't write to
-    # tga_artg.csv at the same time and clobber each other's results.
-    needs: tga-dates
-    if: >
-      github.event_name == 'workflow_dispatch' && inputs.run_listings == true &&
-      (needs.tga-dates.result == 'success' || needs.tga-dates.result == 'skipped')
-    runs-on: ubuntu-latest
-    # At ~10 s/page the GHA 6-hour limit allows ~2,000 pages (~50,000 records).
-    # Run multiple times to build the full ~97,000-record dataset; the start
-    # page is detected automatically each time from the existing CSV row count.
-    timeout-minutes: 350
-
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-        with:
-          ref: ${{ github.ref }}
-
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.x'
-          cache: 'pip'
-
-      - name: Install Python dependencies
-        run: pip install -r requirements.txt
-
-      - name: Install Xvfb
-        run: sudo apt-get install -y xvfb
-
-      - name: Scrape TGA listing pages
-        run: |
-          EXTRA_ARGS=""
-          if [ -n "${{ inputs.listings_max_pages }}" ]; then
-            EXTRA_ARGS="--tga-max-pages ${{ inputs.listings_max_pages }}"
-          fi
-          # --tga-start-page is intentionally omitted: the script auto-detects
-          # the correct page from the existing row count in tga_artg.csv.
-          python download_databases.py --tga $EXTRA_ARGS
-        env:
-          PYTHONUNBUFFERED: '1'
-
-      - name: Commit updated CSV
-        run: |
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git config user.name "github-actions[bot]"
-          git add data/tga/tga_artg.csv
-          git diff --staged --quiet && echo "No changes to commit" && exit 0
-          ROWS=$(python3 -c "
-          import csv
-          print(sum(1 for _ in csv.DictReader(open('data/tga/tga_artg.csv'))))
-          ")
-          git commit -m "Update TGA ARTG listings: ${ROWS} total rows [skip ci]"
           git pull --rebase
           git push
 
