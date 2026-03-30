@@ -112,8 +112,12 @@ jobs:
   # ---------------------------------------------------------------------------
   tga-listings:
     name: Scrape TGA ARTG listing pages
+    # Run after tga-dates (if it ran) so the two jobs don't write to
+    # tga_artg.csv at the same time and clobber each other's results.
+    needs: tga-dates
     if: >
-      github.event_name == 'workflow_dispatch' && inputs.run_listings == true
+      github.event_name == 'workflow_dispatch' && inputs.run_listings == true &&
+      (needs.tga-dates.result == 'success' || needs.tga-dates.result == 'skipped')
     runs-on: ubuntu-latest
     # At ~10 s/page the GHA 6-hour limit allows ~2,000 pages (~50,000 records).
     # Run multiple times to build the full ~97,000-record dataset; the start
