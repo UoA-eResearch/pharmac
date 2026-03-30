@@ -12,9 +12,11 @@ name: Scrape TGA ARTG
 #                hours once the initial backfill is done.
 #
 #   tga-listings – Scrapes the paginated ARTG listing to add new product
-#                  entries.  Intended to be triggered manually.  Use
-#                  start_page + max_pages to scrape in batches across
-#                  multiple runs (each page ≈ 25 records, ~10 s/page).
+#                  entries.  The start page is determined automatically from
+#                  the number of rows already in tga_artg.csv, so each run
+#                  continues seamlessly from where the last one stopped.
+#                  Use listings_max_pages to limit how many pages each run
+#                  covers (each page ≈ 25 records, ~10 s/page).
 #
 # Both operations are resumable: rows already collected are preserved and
 # the script skips IDs / dates that were already fetched.
@@ -33,9 +35,6 @@ on:
         description: 'Scrape listing pages to add new ARTG entries'
         type: boolean
         default: false
-      listings_start_page:
-        description: 'Listing page to start from (listings job)'
-        default: '1'
       listings_max_pages:
         description: 'Max listing pages to scrape per run; leave blank for all (~3913)'
         default: ''
@@ -116,8 +115,8 @@ jobs:
       github.event_name == 'workflow_dispatch' && inputs.run_listings == true
     runs-on: ubuntu-latest
     # At ~10 s/page the GHA 6-hour limit allows ~2,000 pages (~50,000 records).
-    # Run multiple times with increasing start_page values to build the full
-    # ~97,000-record dataset.
+    # Run multiple times to build the full ~97,000-record dataset; the start
+    # page is detected automatically each time from the existing CSV row count.
     timeout-minutes: 350
 
     steps:
@@ -144,10 +143,9 @@ jobs:
           if [ -n "${{ inputs.listings_max_pages }}" ]; then
             EXTRA_ARGS="--tga-max-pages ${{ inputs.listings_max_pages }}"
           fi
-          python download_databases.py \
-            --tga \
-            --tga-start-page ${{ inputs.listings_start_page || '1' }} \
-            $EXTRA_ARGS
+          # --tga-start-page is intentionally omitted: the script auto-detects
+          # the correct page from the existing row count in tga_artg.csv.
+          python download_databases.py --tga $EXTRA_ARGS
         env:
           PYTHONUNBUFFERED: '1'
 
@@ -163,3 +161,4 @@ jobs:
           ")
           git commit -m "Update TGA ARTG listings: ${ROWS} total rows [skip ci]"
           git push
+

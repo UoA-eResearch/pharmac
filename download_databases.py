@@ -234,7 +234,7 @@ def _parse_tga_artg_page(src):
     return records
 
 
-def download_tga(max_pages=None, start_page=1):
+def download_tga(max_pages=None, start_page=None):
     """Scrape TGA ARTG listing pages and write data/tga/tga_artg.csv.
 
     Parameters
@@ -242,10 +242,12 @@ def download_tga(max_pages=None, start_page=1):
     max_pages : int or None
         Maximum pages to scrape (None = all ~3913 pages).
         Each page has 25 records. Use e.g. 200 for a quick partial run.
-    start_page : int
-        Page number to start from (default: 1). Useful for resuming a
-        previous run: check the last committed row count to estimate the
-        last page (``last_page ≈ row_count // 25``) and add one.
+    start_page : int or None
+        Page number to start from.  When ``None`` (the default) the value is
+        inferred automatically from the number of rows already in
+        ``tga_artg.csv``: ``start_page = max(1, existing_rows // 25)``.
+        This lets every run resume exactly where the last one left off without
+        any manual bookkeeping.  Pass an explicit integer to override.
 
     Notes
     -----
@@ -274,6 +276,17 @@ def download_tga(max_pages=None, start_page=1):
                 all_records.append(row)
                 seen_ids.add(row["ARTG_ID"])
         print(f"  Loaded {len(all_records):,} existing rows from {output_file}")
+
+    # Auto-detect start page from existing row count when not specified.
+    # Each listing page has 25 entries, so existing_rows // 25 gives the last
+    # fully-scraped page.  We back up one page to avoid missing a partial last
+    # page (safe because duplicate IDs are skipped).
+    if start_page is None:
+        if all_records:
+            start_page = max(1, len(all_records) // 25)
+            print(f"  Auto-detected start page: {start_page} ({len(all_records):,} existing rows)")
+        else:
+            start_page = 1
 
     if max_pages is None:
         max_pages = TGA_TOTAL_PAGES
@@ -672,9 +685,11 @@ def main():
              "E.g. --tga-max-pages 200 ≈ 5,000 records in ~30 min."
     )
     parser.add_argument(
-        "--tga-start-page", type=int, default=1, metavar="N",
-        help="Listing page number to start from (default: 1). "
-             "Use to continue a previous partial scrape."
+        "--tga-start-page", type=int, default=None, metavar="N",
+        help="Listing page number to start from. "
+             "Defaults to auto-detection from the existing row count "
+             "(existing_rows // 25), so re-running always continues from "
+             "where the last run left off."
     )
     parser.add_argument(
         "--tga-dates", action="store_true",

@@ -39,9 +39,9 @@ Pre-built copies of the databases are stored in `data/`:
 **TGA Note:** The TGA website (tga.gov.au) may block automated access from cloud/CI environments. Use the **Scrape TGA ARTG** GitHub Actions workflow (see below) or run locally:
 
 ```bash
-# Scrape listing pages in batches (resumable across runs)
-python download_databases.py --tga --tga-max-pages 200          # first ~5,000 records
-python download_databases.py --tga --tga-start-page 201 --tga-max-pages 200  # next batch
+# Scrape listing pages — start page is auto-detected from existing row count
+python download_databases.py --tga --tga-max-pages 200   # scrape up to 200 pages
+python download_databases.py --tga --tga-max-pages 200   # re-run continues from where last left off
 
 # Fetch RegistrationDate for rows that don't have one yet (resumable)
 python download_databases.py --tga-dates
@@ -58,14 +58,15 @@ limit:
 | `run_dates` | `true` | Fetch `RegistrationDate` for rows missing one |
 | `dates_delay` | `2.0` | Seconds between product-page requests |
 | `run_listings` | `false` | Scrape listing pages to add new ARTG entries |
-| `listings_start_page` | `1` | Page to start the listing scrape from |
 | `listings_max_pages` | *(all)* | Max pages per run (~2,000 fits in 6 h) |
+
+The listing scrape **automatically resumes from the last scraped page** on each run — there is no need to track or set a start page manually.
 
 **Typical usage to populate the full ~97,000-record ARTG:**
 
 1. Go to *Actions → Scrape TGA ARTG → Run workflow*
 2. Enable **Scrape listing pages** and set `listings_max_pages` to `2000`
-3. After the run completes, re-run with `listings_start_page` incremented by 2000 each time until all ~3,913 pages are scraped
+3. Repeat until all ~3,913 pages are scraped — each run picks up exactly where the last one stopped
 4. Finally run with only **Fetch registration dates** enabled to backfill `RegistrationDate`
 
 The workflow also runs automatically **every Sunday** to keep `RegistrationDate` up to date for any rows missing a date.
