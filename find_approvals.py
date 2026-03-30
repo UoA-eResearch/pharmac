@@ -320,54 +320,74 @@ def load_tga_database():
 
     print("Loading TGA database...")
     df = pd.read_csv(TGA_DB, dtype=str, encoding="utf-8")
+    df.columns = [c.strip() for c in df.columns]
+
+    # Normalise column names: Selenium scraper uses ARTG_ID / Name / RegistrationDate;
+    # a manually downloaded ARTG extract may use different names.
+    col_map = {}
+    for col in df.columns:
+        low = col.lower().strip()
+        if low in ("name", "product description", "artg description", "description"):
+            col_map[col] = "Name"
+        elif low in ("registrationdate", "registration date", "artg start date",
+                     "start date", "approval date"):
+            col_map[col] = "RegistrationDate"
+    if col_map:
+        df = df.rename(columns=col_map)
+
+    if "Name" in df.columns:
+        df["Name_norm"] = df["Name"].str.lower().str.strip()
+    if "RegistrationDate" in df.columns:
+        df["_date"] = pd.to_datetime(df["RegistrationDate"], errors="coerce")
+
     print(f"TGA database: {len(df)} products")
     return df
 
 
 def lookup_tga(tga_db, chemical_name, brand_name):
-    """Look up TGA approval date for a drug.
+    """Look up TGA registration date for a drug.
 
-    Returns the earliest TGA approval date, or None if not found.
+    Returns the earliest TGA registration date, or None if not found.
     """
     if tga_db is None:
         return None
+    if "Name_norm" not in tga_db.columns or "_date" not in tga_db.columns:
+        return None
 
-    # TGA ARTG columns vary by extract version.
-    # Common columns: ARTG Start Date, Product Description, Ingredient(s)
     candidates = []
     ingredients = split_combination_drug(chemical_name)
     primary = get_primary_ingredient(chemical_name)
 
-    # Try ingredient column (adjust column name as needed)
-    ingredient_col = None
-    for col in ["Ingredient(s)", "Active ingredient(s)", "Ingredients", "Active Ingredient"]:
-        if col in tga_db.columns:
-            ingredient_col = col
-            break
+    # 1. Substring match of each ingredient against Name
+    for ing in ingredients + [primary]:
+        ing_lower = ing.lower().strip()
+        if len(ing_lower) < 3:
+            continue
+        matches = tga_db[
+            tga_db["Name_norm"].str.contains(ing_lower, na=False, regex=False)
+        ]
+        if not matches.empty:
+            candidates.extend(matches["_date"].dropna().tolist())
 
-    date_col = None
-    for col in ["ARTG Start Date", "Start Date", "Registration Date", "Approval Date"]:
-        if col in tga_db.columns:
-            date_col = col
-            break
-
-    if ingredient_col and date_col:
-        tga_db["_ingredient_norm"] = tga_db[ingredient_col].str.lower().str.strip()
-        for ing in ingredients + [primary]:
-            ing_lower = ing.lower().strip()
-            if len(ing_lower) < 3:
-                continue
+    # 2. Brand name substring match
+    if brand_name and not candidates:
+        brand_lower = brand_name.lower().strip()
+        if len(brand_lower) >= 3:
             matches = tga_db[
-                tga_db["_ingredient_norm"].str.contains(ing_lower, na=False, regex=False)
+                tga_db["Name_norm"].str.contains(brand_lower, na=False, regex=False)
             ]
             if not matches.empty:
-                for _, row in matches.iterrows():
-                    try:
-                        d = pd.to_datetime(row[date_col], dayfirst=True, errors="coerce")
-                        if pd.notna(d):
-                            candidates.append(d)
-                    except Exception:
-                        pass
+                candidates.extend(matches["_date"].dropna().tolist())
+
+    # 3. Fuzzy match on primary ingredient against Name
+    if not candidates:
+        primary_norm = normalize_name(primary)
+        if len(primary_norm) >= 4:
+            for _, row in tga_db.iterrows():
+                row_norm = normalize_name(str(row.get("Name_norm", "")))
+                if fuzz.token_set_ratio(primary_norm, row_norm) >= FUZZY_THRESHOLD:
+                    if pd.notna(row.get("_date")):
+                        candidates.append(row["_date"])
 
     if candidates:
         return min(candidates)
