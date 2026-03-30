@@ -185,6 +185,31 @@ def _tga_page_is_blocked(src):
     return "summary__content" not in src
 
 
+def _tga_product_page_is_blocked(src):
+    """True if an individual ARTG product page is a block/challenge page."""
+    return "health-field__label" not in src
+
+
+def _parse_tga_artg_product_date(src):
+    """Extract the ARTG Date from an individual product page source.
+
+    Returns the date as an ISO-8601 string (``YYYY-MM-DD``) or an empty
+    string if no date could be found.
+    """
+    # Prefer the machine-readable datetime attribute on the <time> element
+    m = re.search(r'ARTG Date.*?<time[^>]+datetime="(\d{4}-\d{2}-\d{2})', src, re.DOTALL)
+    if m:
+        return m.group(1)
+    # Fall back to the human-readable date text
+    m = re.search(r'ARTG Date.*?(\d{1,2}\s+\w+\s+\d{4})', src, re.DOTALL)
+    if m:
+        try:
+            return datetime.datetime.strptime(m.group(1), "%d %B %Y").strftime("%Y-%m-%d")
+        except ValueError:
+            return m.group(1)
+    return ""
+
+
 def _parse_tga_artg_page(src):
     """Parse one ARTG listing page; return list of record dicts."""
     records = []
@@ -318,6 +343,138 @@ def download_tga(max_pages=None):
         _quit_tga_driver(driver)
 
     print(f"\nTGA scrape complete: {len(all_records):,} records → {output_file}")
+
+
+def download_tga_dates(delay=3.0):
+    """Fetch the ARTG Date for every row in tga_artg.csv that has no date.
+
+    Visits each individual product page at
+    ``https://www.tga.gov.au/resources/artg/<ARTG_ID>``, extracts the
+    ``ARTG Date`` field, and writes the result back to tga_artg.csv.
+
+    Parameters
+    ----------
+    delay : float
+        Seconds to pause between product-page requests (default: 3 s).
+        Individual product pages are less aggressively rate-limited than
+        the paginated listing, so a shorter delay is safe.
+
+    Notes
+    -----
+    The function is resumable: rows that already have a date are skipped
+    and rows that could not be fetched (blocked/error) are left empty so
+    that re-running the script will retry them.
+    """
+    output_file = os.path.join(TGA_DIR, "tga_artg.csv")
+    if not os.path.exists(output_file):
+        print(f"No TGA data file found at {output_file}. Run --tga first.")
+        return
+
+    # Read existing data
+    with open(output_file, newline="", encoding="utf-8") as f:
+        rows = list(csv.DictReader(f))
+
+    fieldnames = ["ARTG_ID", "Name", "RegistrationDate"]
+    missing = [r for r in rows if not r.get("RegistrationDate", "").strip()]
+    print(
+        f"Fetching ARTG dates for {len(missing):,} / {len(rows):,} rows "
+        f"(already have {len(rows) - len(missing):,})..."
+    )
+    if not missing:
+        print("All rows already have dates.")
+        return
+
+    try:
+        driver = _make_tga_driver()
+    except RuntimeError as exc:
+        print(f"  ERROR: {exc}")
+        return
+
+    artg_dates = {r["ARTG_ID"]: r.get("RegistrationDate", "") for r in rows}
+    consecutive_blocks = 0
+    fetched = 0
+
+    try:
+        for i, row in enumerate(missing):
+            artg_id = row["ARTG_ID"]
+            url = f"{TGA_ARTG_LISTING_URL}/{artg_id}"
+            print(f"  [{i + 1}/{len(missing)}] {url}", flush=True)
+
+            try:
+                driver.get(url)
+                deadline = time.time() + 25
+                while time.time() < deadline:
+                    src = driver.page_source
+                    if "health-field__label" in src or len(src) < 10_000:
+                        break
+                    time.sleep(0.5)
+            except Exception as exc:
+                print(f"    Load error: {exc} — restarting driver")
+                _quit_tga_driver(driver)
+                driver = _make_tga_driver()
+                time.sleep(TGA_BLOCK_BACKOFF)
+                continue
+
+            src = driver.page_source
+
+            if _tga_product_page_is_blocked(src):
+                consecutive_blocks += 1
+                print(
+                    f"    Blocked ({consecutive_blocks}/{TGA_MAX_CONSECUTIVE_BLOCKS}). "
+                    f"Sleeping {TGA_BLOCK_BACKOFF}s..."
+                )
+                if consecutive_blocks >= TGA_MAX_CONSECUTIVE_BLOCKS:
+                    print(
+                        "    Too many consecutive blocks — "
+                        "re-run from a local machine or try later."
+                    )
+                    break
+                _quit_tga_driver(driver)
+                time.sleep(TGA_BLOCK_BACKOFF)
+                driver = _make_tga_driver()
+                continue
+
+            consecutive_blocks = 0
+            date_val = _parse_tga_artg_product_date(src)
+            artg_dates[artg_id] = date_val
+            fetched += 1
+
+            if (i + 1) % 100 == 0 or date_val:
+                print(f"    date={date_val!r}  (fetched {fetched} so far)")
+
+            # Persist after every 50 successful fetches
+            if fetched % 50 == 0:
+                updated = [
+                    {"ARTG_ID": r["ARTG_ID"], "Name": r["Name"],
+                     "RegistrationDate": artg_dates.get(r["ARTG_ID"], "")}
+                    for r in rows
+                ]
+                with open(output_file, "w", newline="", encoding="utf-8") as f:
+                    writer = csv.DictWriter(f, fieldnames=fieldnames)
+                    writer.writeheader()
+                    writer.writerows(updated)
+
+            time.sleep(delay)
+
+    finally:
+        _quit_tga_driver(driver)
+
+    # Final save
+    updated = [
+        {"ARTG_ID": r["ARTG_ID"], "Name": r["Name"],
+         "RegistrationDate": artg_dates.get(r["ARTG_ID"], "")}
+        for r in rows
+    ]
+    with open(output_file, "w", newline="", encoding="utf-8") as f:
+        writer = csv.DictWriter(f, fieldnames=fieldnames)
+        writer.writeheader()
+        writer.writerows(updated)
+
+    with_date = sum(1 for r in updated if r["RegistrationDate"])
+    print(
+        f"\nTGA dates complete: {with_date:,}/{len(updated):,} rows now have a date "
+        f"→ {output_file}"
+    )
 
 
 # =============================================================================
@@ -498,18 +655,30 @@ def main():
         help="Max ARTG pages to scrape (default: all ~3913). "
              "E.g. --tga-max-pages 200 ≈ 5,000 records in ~30 min."
     )
+    parser.add_argument(
+        "--tga-dates", action="store_true",
+        help="Fetch ARTG Date for rows in tga_artg.csv that have no date yet"
+    )
+    parser.add_argument(
+        "--tga-dates-delay", type=float, default=3.0, metavar="SECS",
+        help="Seconds between individual product-page requests when --tga-dates "
+             "is used (default: 3.0)"
+    )
     parser.add_argument("--medsafe", action="store_true", help="Build MedSafe database")
     parser.add_argument("--all", action="store_true", help="Download all databases")
     args = parser.parse_args()
 
     # Default: download all if no flags specified
-    do_all = args.all or not (args.fda or args.tga or args.medsafe)
+    do_all = args.all or not (args.fda or args.tga or args.tga_dates or args.medsafe)
 
     if do_all or args.fda:
         download_fda()
 
     if do_all or args.tga:
         download_tga(max_pages=args.tga_max_pages)
+
+    if args.tga_dates:
+        download_tga_dates(delay=args.tga_dates_delay)
 
     if do_all or args.medsafe:
         download_medsafe()
