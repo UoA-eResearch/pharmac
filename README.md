@@ -36,7 +36,39 @@ Pre-built copies of the databases are stored in `data/`:
 | MedSafe Register | `data/medsafe/medsafe_register.csv` | 14,828 products | https://www.medsafe.govt.nz/DbSearch/ (scraped via wildcard ingredient search) | 2026-03-30 | © Medsafe, New Zealand Ministry of Health. Used under [Crown Copyright](https://www.health.govt.nz/about-site/copyright). |
 | TGA ARTG | `data/tga/tga_artg.csv` | — | https://www.tga.gov.au/resources/artg | *See note below* | © Commonwealth of Australia. [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) |
 
-**TGA Note:** The TGA website (tga.gov.au) may block automated access from cloud/CI environments. To populate the TGA database, download the ARTG Public Summary extract from [tga.gov.au/resources/artg](https://www.tga.gov.au/resources/artg) and save it as `data/tga/tga_artg.csv`. Alternatively, run `python download_databases.py --tga` from your local machine.
+**TGA Note:** The TGA website (tga.gov.au) may block automated access from cloud/CI environments. Use the **Scrape TGA ARTG** GitHub Actions workflow (see below) or run locally:
+
+```bash
+# Scrape listing pages in batches (resumable across runs)
+python download_databases.py --tga --tga-max-pages 200          # first ~5,000 records
+python download_databases.py --tga --tga-start-page 201 --tga-max-pages 200  # next batch
+
+# Fetch RegistrationDate for rows that don't have one yet (resumable)
+python download_databases.py --tga-dates
+```
+
+### GitHub Actions — Scrape TGA ARTG
+
+The [Scrape TGA ARTG](../../actions/workflows/scrape-tga.yml) workflow
+(`scrape-tga.yml`) automates both scraping steps within GitHub's 6-hour job
+limit:
+
+| Input | Default | Description |
+|-------|---------|-------------|
+| `run_dates` | `true` | Fetch `RegistrationDate` for rows missing one |
+| `dates_delay` | `2.0` | Seconds between product-page requests |
+| `run_listings` | `false` | Scrape listing pages to add new ARTG entries |
+| `listings_start_page` | `1` | Page to start the listing scrape from |
+| `listings_max_pages` | *(all)* | Max pages per run (~2,000 fits in 6 h) |
+
+**Typical usage to populate the full ~97,000-record ARTG:**
+
+1. Go to *Actions → Scrape TGA ARTG → Run workflow*
+2. Enable **Scrape listing pages** and set `listings_max_pages` to `2000`
+3. After the run completes, re-run with `listings_start_page` incremented by 2000 each time until all ~3,913 pages are scraped
+4. Finally run with only **Fetch registration dates** enabled to backfill `RegistrationDate`
+
+The workflow also runs automatically **every Sunday** to keep `RegistrationDate` up to date for any rows missing a date.
 
 ### Rebuilding the Databases
 

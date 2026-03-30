@@ -1,0 +1,165 @@
+name: Scrape TGA ARTG
+
+# Scrapes the Australian Register of Therapeutic Goods (ARTG) from
+# https://www.tga.gov.au/resources/artg using undetected-chromedriver + Xvfb
+# to bypass Akamai CDN detection.
+#
+# Two operations are supported and can be run independently:
+#
+#   tga-dates  – Visits each individual ARTG product page to fill in the
+#                RegistrationDate column for rows that don't have one yet.
+#                Runs automatically every Sunday.  Most runs finish in a few
+#                hours once the initial backfill is done.
+#
+#   tga-listings – Scrapes the paginated ARTG listing to add new product
+#                  entries.  Intended to be triggered manually.  Use
+#                  start_page + max_pages to scrape in batches across
+#                  multiple runs (each page ≈ 25 records, ~10 s/page).
+#
+# Both operations are resumable: rows already collected are preserved and
+# the script skips IDs / dates that were already fetched.
+
+on:
+  workflow_dispatch:
+    inputs:
+      run_dates:
+        description: 'Fetch RegistrationDate for rows that are missing one'
+        type: boolean
+        default: true
+      dates_delay:
+        description: 'Seconds between product-page requests (dates job)'
+        default: '2.0'
+      run_listings:
+        description: 'Scrape listing pages to add new ARTG entries'
+        type: boolean
+        default: false
+      listings_start_page:
+        description: 'Listing page to start from (listings job)'
+        default: '1'
+      listings_max_pages:
+        description: 'Max listing pages to scrape per run; leave blank for all (~3913)'
+        default: ''
+  schedule:
+    # Run the dates job every Sunday at 02:00 UTC
+    - cron: '0 2 * * 0'
+
+jobs:
+  # ---------------------------------------------------------------------------
+  # Job 1: fetch RegistrationDate for every row missing one
+  # ---------------------------------------------------------------------------
+  tga-dates:
+    name: Fetch TGA registration dates
+    # Skip this job on scheduled runs if the manual trigger explicitly
+    # disabled it, and skip on manual runs if run_dates is false.
+    if: >
+      github.event_name == 'schedule' ||
+      (github.event_name == 'workflow_dispatch' && inputs.run_dates == true)
+    runs-on: ubuntu-latest
+    # Individual product pages load in ~1 s; with 2 s delay and ~6,950 rows
+    # the first full run takes roughly 6 hours.  Subsequent runs (skipping
+    # already-populated rows) are much faster.
+    timeout-minutes: 350
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          # Check out the branch that triggered the workflow so the commit
+          # goes back to the right place (PR branch or main).
+          ref: ${{ github.ref }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+          cache: 'pip'
+
+      - name: Install Python dependencies
+        run: pip install -r requirements.txt
+
+      - name: Install Xvfb
+        run: sudo apt-get install -y xvfb
+
+      - name: Fetch TGA dates
+        run: |
+          python download_databases.py \
+            --tga-dates \
+            --tga-dates-delay ${{ inputs.dates_delay || '2.0' }}
+        env:
+          PYTHONUNBUFFERED: '1'
+
+      - name: Commit updated CSV
+        run: |
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
+          git add data/tga/tga_artg.csv
+          git diff --staged --quiet && echo "No changes to commit" && exit 0
+          # Count how many rows now have a date
+          WITH=$(python3 -c "
+          import csv
+          rows = list(csv.DictReader(open('data/tga/tga_artg.csv')))
+          print(sum(1 for r in rows if r.get('RegistrationDate','').strip()))
+          ")
+          TOTAL=$(python3 -c "
+          import csv
+          print(sum(1 for _ in csv.DictReader(open('data/tga/tga_artg.csv'))))
+          ")
+          git commit -m "Update TGA registration dates: ${WITH}/${TOTAL} rows have date [skip ci]"
+          git push
+
+  # ---------------------------------------------------------------------------
+  # Job 2: scrape listing pages to add new ARTG entries
+  # ---------------------------------------------------------------------------
+  tga-listings:
+    name: Scrape TGA ARTG listing pages
+    if: >
+      github.event_name == 'workflow_dispatch' && inputs.run_listings == true
+    runs-on: ubuntu-latest
+    # At ~10 s/page the GHA 6-hour limit allows ~2,000 pages (~50,000 records).
+    # Run multiple times with increasing start_page values to build the full
+    # ~97,000-record dataset.
+    timeout-minutes: 350
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+          cache: 'pip'
+
+      - name: Install Python dependencies
+        run: pip install -r requirements.txt
+
+      - name: Install Xvfb
+        run: sudo apt-get install -y xvfb
+
+      - name: Scrape TGA listing pages
+        run: |
+          EXTRA_ARGS=""
+          if [ -n "${{ inputs.listings_max_pages }}" ]; then
+            EXTRA_ARGS="--tga-max-pages ${{ inputs.listings_max_pages }}"
+          fi
+          python download_databases.py \
+            --tga \
+            --tga-start-page ${{ inputs.listings_start_page || '1' }} \
+            $EXTRA_ARGS
+        env:
+          PYTHONUNBUFFERED: '1'
+
+      - name: Commit updated CSV
+        run: |
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
+          git add data/tga/tga_artg.csv
+          git diff --staged --quiet && echo "No changes to commit" && exit 0
+          ROWS=$(python3 -c "
+          import csv
+          print(sum(1 for _ in csv.DictReader(open('data/tga/tga_artg.csv'))))
+          ")
+          git commit -m "Update TGA ARTG listings: ${ROWS} total rows [skip ci]"
+          git push

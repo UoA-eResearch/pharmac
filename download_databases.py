@@ -124,7 +124,10 @@ def _make_tga_driver():
         opts.add_argument("--disable-gpu")
         opts.add_argument("--window-size=1920,1080")
 
-        driver = uc.Chrome(options=opts, version_main=146)
+        # Let undetected-chromedriver detect the installed Chrome version
+        # automatically rather than hard-coding a version number, so the
+        # driver works on any runner (local, GitHub Actions, etc.)
+        driver = uc.Chrome(options=opts)
         driver.set_page_load_timeout(60)
         driver._xvfb_proc = xvfb_proc
         print("  Using undetected-chromedriver" + (" + Xvfb" if xvfb_proc else ""))
@@ -231,7 +234,7 @@ def _parse_tga_artg_page(src):
     return records
 
 
-def download_tga(max_pages=None):
+def download_tga(max_pages=None, start_page=1):
     """Scrape TGA ARTG listing pages and write data/tga/tga_artg.csv.
 
     Parameters
@@ -239,6 +242,10 @@ def download_tga(max_pages=None):
     max_pages : int or None
         Maximum pages to scrape (None = all ~3913 pages).
         Each page has 25 records. Use e.g. 200 for a quick partial run.
+    start_page : int
+        Page number to start from (default: 1). Useful for resuming a
+        previous run: check the last committed row count to estimate the
+        last page (``last_page ≈ row_count // 25``) and add one.
 
     Notes
     -----
@@ -248,23 +255,33 @@ def download_tga(max_pages=None):
     undetected-chromedriver with a virtual Xvfb display bypasses this.
     Run from a local machine if the cloud IP is still blocked.
 
-    Progress is saved after each page so the run can be interrupted/resumed
-    (delete tga_artg.csv to restart from scratch).
+    If ``data/tga/tga_artg.csv`` already exists, its rows are loaded first
+    so that IDs already collected are not duplicated. New records are
+    appended to the file as scraping proceeds.
     """
     os.makedirs(TGA_DIR, exist_ok=True)
     output_file = os.path.join(TGA_DIR, "tga_artg.csv")
 
+    fieldnames = ["ARTG_ID", "Name", "RegistrationDate"]
+    all_records: list = []
+    seen_ids: set = set()
+
+    # Seed from existing data so we never duplicate IDs and so any
+    # dates already fetched are preserved when re-running.
     if os.path.exists(output_file):
-        print("TGA data file already exists. Skipping download.")
-        print(f"  Delete {output_file} to force a re-download.")
-        return
+        with open(output_file, newline="", encoding="utf-8") as f:
+            for row in csv.DictReader(f):
+                all_records.append(row)
+                seen_ids.add(row["ARTG_ID"])
+        print(f"  Loaded {len(all_records):,} existing rows from {output_file}")
 
     if max_pages is None:
         max_pages = TGA_TOTAL_PAGES
 
+    end_page = start_page + max_pages - 1
     print("Scraping TGA ARTG via Selenium/undetected-chromedriver...")
     print(f"  Source: {TGA_ARTG_LISTING_URL}")
-    print(f"  Max pages: {max_pages} (~{max_pages * 25:,} records)")
+    print(f"  Pages {start_page}–{end_page} (~{max_pages * 25:,} records max)")
 
     try:
         driver = _make_tga_driver()
@@ -272,13 +289,12 @@ def download_tga(max_pages=None):
         print(f"  ERROR: {exc}")
         return
 
-    fieldnames = ["ARTG_ID", "Name", "RegistrationDate"]
-    all_records, seen_ids, consecutive_blocks = [], set(), 0
+    consecutive_blocks = 0
 
     try:
-        for page_num in range(1, max_pages + 1):
+        for page_num in range(start_page, end_page + 1):
             url = f"{TGA_ARTG_LISTING_URL}?page={page_num}"
-            print(f"  [{page_num}/{max_pages}] {url}", flush=True)
+            print(f"  [{page_num}/{end_page}] {url}", flush=True)
 
             try:
                 driver.get(url)
@@ -656,6 +672,11 @@ def main():
              "E.g. --tga-max-pages 200 ≈ 5,000 records in ~30 min."
     )
     parser.add_argument(
+        "--tga-start-page", type=int, default=1, metavar="N",
+        help="Listing page number to start from (default: 1). "
+             "Use to continue a previous partial scrape."
+    )
+    parser.add_argument(
         "--tga-dates", action="store_true",
         help="Fetch ARTG Date for rows in tga_artg.csv that have no date yet"
     )
@@ -675,7 +696,7 @@ def main():
         download_fda()
 
     if do_all or args.tga:
-        download_tga(max_pages=args.tga_max_pages)
+        download_tga(max_pages=args.tga_max_pages, start_page=args.tga_start_page)
 
     if args.tga_dates:
         download_tga_dates(delay=args.tga_dates_delay)
