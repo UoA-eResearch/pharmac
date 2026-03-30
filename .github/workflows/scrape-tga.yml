@@ -44,70 +44,7 @@ on:
 
 jobs:
   # ---------------------------------------------------------------------------
-  # Job 1: fetch RegistrationDate for every row missing one
-  # ---------------------------------------------------------------------------
-  tga-dates:
-    name: Fetch TGA registration dates
-    # Skip this job on scheduled runs if the manual trigger explicitly
-    # disabled it, and skip on manual runs if run_dates is false.
-    if: >
-      github.event_name == 'schedule' ||
-      (github.event_name == 'workflow_dispatch' && inputs.run_dates == true)
-    runs-on: ubuntu-latest
-    # Individual product pages load in ~1 s; with 2 s delay and ~6,950 rows
-    # the first full run takes roughly 6 hours.  Subsequent runs (skipping
-    # already-populated rows) are much faster.
-    timeout-minutes: 350
-
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-        with:
-          # Check out the branch that triggered the workflow so the commit
-          # goes back to the right place (PR branch or main).
-          ref: ${{ github.ref }}
-
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.x'
-          cache: 'pip'
-
-      - name: Install Python dependencies
-        run: pip install -r requirements.txt
-
-      - name: Install Xvfb
-        run: sudo apt-get install -y xvfb
-
-      - name: Fetch TGA dates
-        run: |
-          python download_databases.py \
-            --tga-dates \
-            --tga-dates-delay ${{ inputs.dates_delay || '2.0' }}
-        env:
-          PYTHONUNBUFFERED: '1'
-
-      - name: Commit updated CSV
-        run: |
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git config user.name "github-actions[bot]"
-          git add data/tga/tga_artg.csv
-          git diff --staged --quiet && echo "No changes to commit" && exit 0
-          # Count how many rows now have a date
-          WITH=$(python3 -c "
-          import csv
-          rows = list(csv.DictReader(open('data/tga/tga_artg.csv')))
-          print(sum(1 for r in rows if r.get('RegistrationDate','').strip()))
-          ")
-          TOTAL=$(python3 -c "
-          import csv
-          print(sum(1 for _ in csv.DictReader(open('data/tga/tga_artg.csv'))))
-          ")
-          git commit -m "Update TGA registration dates: ${WITH}/${TOTAL} rows have date [skip ci]"
-          git push
-
-  # ---------------------------------------------------------------------------
-  # Job 2: scrape listing pages to add new ARTG entries
+  # Job 1: scrape listing pages to add new ARTG entries
   # ---------------------------------------------------------------------------
   tga-listings:
     name: Scrape TGA ARTG listing pages
@@ -160,5 +97,76 @@ jobs:
           print(sum(1 for _ in csv.DictReader(open('data/tga/tga_artg.csv'))))
           ")
           git commit -m "Update TGA ARTG listings: ${ROWS} total rows [skip ci]"
+          git pull --rebase
+          git push
+
+  # ---------------------------------------------------------------------------
+  # Job 2: fetch RegistrationDate for every row missing one
+  # ---------------------------------------------------------------------------
+  tga-dates:
+    name: Fetch TGA registration dates
+    # Run after tga-listings (if it ran) so that dates are fetched for any
+    # newly added listings, and so the two jobs don't write to tga_artg.csv
+    # at the same time and clobber each other's results.
+    needs: tga-listings
+    # Run on schedule (listings job is skipped on schedule, so tga-dates
+    # result will be 'skipped'), or on manual dispatch when run_dates is true
+    # and tga-listings either succeeded or was skipped (run_listings: false).
+    if: >
+      github.event_name == 'schedule' ||
+      (github.event_name == 'workflow_dispatch' && inputs.run_dates == true &&
+      (needs.tga-listings.result == 'success' || needs.tga-listings.result == 'skipped'))
+    runs-on: ubuntu-latest
+    # Individual product pages load in ~1 s; with 2 s delay and ~6,950 rows
+    # the first full run takes roughly 6 hours.  Subsequent runs (skipping
+    # already-populated rows) are much faster.
+    timeout-minutes: 350
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          # Check out the branch that triggered the workflow so the commit
+          # goes back to the right place (PR branch or main).
+          ref: ${{ github.ref }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+          cache: 'pip'
+
+      - name: Install Python dependencies
+        run: pip install -r requirements.txt
+
+      - name: Install Xvfb
+        run: sudo apt-get install -y xvfb
+
+      - name: Fetch TGA dates
+        run: |
+          python download_databases.py \
+            --tga-dates \
+            --tga-dates-delay ${{ inputs.dates_delay || '2.0' }}
+        env:
+          PYTHONUNBUFFERED: '1'
+
+      - name: Commit updated CSV
+        run: |
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
+          git add data/tga/tga_artg.csv
+          git diff --staged --quiet && echo "No changes to commit" && exit 0
+          # Count how many rows now have a date
+          WITH=$(python3 -c "
+          import csv
+          rows = list(csv.DictReader(open('data/tga/tga_artg.csv')))
+          print(sum(1 for r in rows if r.get('RegistrationDate','').strip()))
+          ")
+          TOTAL=$(python3 -c "
+          import csv
+          print(sum(1 for _ in csv.DictReader(open('data/tga/tga_artg.csv'))))
+          ")
+          git commit -m "Update TGA registration dates: ${WITH}/${TOTAL} rows have date [skip ci]"
+          git pull --rebase
           git push
 
