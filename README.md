@@ -30,11 +30,11 @@ The script uses fuzzy string matching (via the `thefuzz` library) to match drug 
 
 Pre-built copies of the databases are stored in `data/`:
 
-| Database | Path | Source URL | Retrieved |
-|----------|------|------------|-----------|
-| FDA DrugsFDA | `data/fda/Products.txt`, `data/fda/Submissions.txt`, `data/fda/Applications.txt` | https://www.fda.gov/media/89850/download | 2026-03-27 |
-| MedSafe Register | `data/medsafe/medsafe_register.csv` | https://www.medsafe.govt.nz/DbSearch/ (scraped via wildcard ingredient search) | 2026-03-30 |
-| TGA ARTG | `data/tga/tga_artg.csv` | https://www.tga.gov.au/resources/artg | *See note below* |
+| Database | Path | Records | Source URL | Retrieved | License |
+|----------|------|---------|------------|-----------|---------|
+| FDA DrugsFDA | `data/fda/Products.txt`, `data/fda/Submissions.txt`, `data/fda/Applications.txt` | 50,959 products; 3,048 unique active ingredients with approval dates | https://www.fda.gov/media/89850/download | 2026-03-27 | Public domain (US government work) |
+| MedSafe Register | `data/medsafe/medsafe_register.csv` | 14,828 products | https://www.medsafe.govt.nz/DbSearch/ (scraped via wildcard ingredient search) | 2026-03-30 | © Medsafe, New Zealand Ministry of Health. Used under [Crown Copyright](https://www.health.govt.nz/about-site/copyright). |
+| TGA ARTG | `data/tga/tga_artg.csv` | — | https://www.tga.gov.au/resources/artg | *See note below* | © Commonwealth of Australia. [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) |
 
 **TGA Note:** The TGA website (tga.gov.au) may block automated access from cloud/CI environments. To populate the TGA database, download the ARTG Public Summary extract from [tga.gov.au/resources/artg](https://www.tga.gov.au/resources/artg) and save it as `data/tga/tga_artg.csv`. Alternatively, run `python download_databases.py --tga` from your local machine.
 
@@ -57,6 +57,18 @@ python download_databases.py --medsafe # Scrape MedSafe product register (~30-40
 
 **Note:** Building the MedSafe database takes 30–40 minutes because the MedSafe server responds slowly to each query. The database is built by issuing wildcard ingredient searches (a%, b%, ... z%) against the MedSafe product register.
 
+### Match Summary
+
+Running `find_approvals.py` against the 2,015 Pharmac applications using the committed databases gives the following match rates (using substring matching on active ingredient names; fuzzy matching adds additional matches):
+
+| Regulator | Products in database | Pharmac applications matched | Match rate |
+|-----------|---------------------|------------------------------|-----------|
+| FDA | 50,959 products (3,048 unique active ingredients with approval dates) | ≥ 1,227 / 2,015 | ≥ 60% |
+| TGA | — (database not yet populated) | — | — |
+| MedSafe | 14,828 products | ≥ 1,325 / 2,015 | ≥ 65% |
+
+The remaining unmatched applications are typically very new drugs not yet in the databases, NZ-specific formulations, nutritional/dietary products, vaccines, or combination products where the ingredient name differs significantly between databases. The fuzzy matching in `find_approvals.py` recovers additional matches beyond the substring counts above.
+
 ### Running the Approval Date Lookup
 
 ```bash
@@ -73,11 +85,11 @@ Output is saved to `pharmac_approvals.csv`, which contains all columns from `Pha
 
 Dates are in ISO 8601 format (`YYYY-MM-DD`). Empty values indicate no match was found in that regulator's database.
 
-### Data Provenance
+### Data Provenance and Licensing
 
-- **FDA data** is in the public domain and available from the US Food and Drug Administration at https://www.fda.gov/drugs/drug-approvals-and-databases/drugsfda-data-files
-- **MedSafe data** originates from the New Zealand Medicines and Medical Devices Safety Authority product register at https://www.medsafe.govt.nz/DbSearch/
-- **TGA data** originates from the Australian Therapeutic Goods Administration's ARTG Public Summary at https://www.tga.gov.au/resources/artg
+- **FDA data** is in the **public domain** (a work of the US federal government) and available from the US Food and Drug Administration at https://www.fda.gov/drugs/drug-approvals-and-databases/drugsfda-data-files. No restrictions on use.
+- **MedSafe data** is © Medsafe, New Zealand Ministry of Health. It is sourced from the MedSafe product register at https://www.medsafe.govt.nz/DbSearch/ and is reproduced under [Crown Copyright](https://www.health.govt.nz/about-site/copyright). Medsafe does not endorse this project or its use of the data.
+- **TGA data** is © Commonwealth of Australia and is licensed under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) licence. Source: Australian Therapeutic Goods Administration ARTG Public Summary at https://www.tga.gov.au/resources/artg. The TGA does not endorse this project or its use of the data.
 
 ---
 
