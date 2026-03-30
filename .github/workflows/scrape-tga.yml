@@ -104,6 +104,7 @@ jobs:
           print(sum(1 for _ in csv.DictReader(open('data/tga/tga_artg.csv'))))
           ")
           git commit -m "Update TGA registration dates: ${WITH}/${TOTAL} rows have date [skip ci]"
+          git pull --rebase
           git push
 
   # ---------------------------------------------------------------------------
@@ -160,5 +161,6 @@ jobs:
           print(sum(1 for _ in csv.DictReader(open('data/tga/tga_artg.csv'))))
           ")
           git commit -m "Update TGA ARTG listings: ${ROWS} total rows [skip ci]"
+          git pull --rebase
           git push
 
