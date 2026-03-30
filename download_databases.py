@@ -97,9 +97,8 @@ def _make_tga_driver():
     """Create a WebDriver for TGA scraping.
 
     Tries in order:
-    1. undetected-chromedriver + Xvfb virtual display  (bypasses Akamai CDN)
-    2. undetected-chromedriver headless
-    3. Standard selenium Chrome headless (fallback)
+    1. undetected-chromedriver (optionally with Xvfb virtual display to bypass Akamai CDN)
+    2. Standard selenium Chrome headless (fallback)
     """
     import subprocess, shutil
 
@@ -124,10 +123,19 @@ def _make_tga_driver():
         opts.add_argument("--disable-gpu")
         opts.add_argument("--window-size=1920,1080")
 
-        # Let undetected-chromedriver detect the installed Chrome version
-        # automatically rather than hard-coding a version number, so the
-        # driver works on any runner (local, GitHub Actions, etc.)
-        driver = uc.Chrome(options=opts)
+        try:
+            # Let undetected-chromedriver detect the installed Chrome version
+            # automatically rather than hard-coding a version number, so the
+            # driver works on any runner (local, GitHub Actions, etc.)
+            driver = uc.Chrome(options=opts)
+        except Exception:
+            # Chrome launch failed — terminate any Xvfb we started so it
+            # doesn't leak as a background process on the runner.
+            if xvfb_proc is not None:
+                xvfb_proc.terminate()
+                xvfb_proc.wait()
+            raise
+
         driver.set_page_load_timeout(60)
         driver._xvfb_proc = xvfb_proc
         print("  Using undetected-chromedriver" + (" + Xvfb" if xvfb_proc else ""))
@@ -304,6 +312,12 @@ def download_tga(max_pages=None, start_page=None):
 
     consecutive_blocks = 0
 
+    # Prepare the output file: write header now if the file doesn't exist yet,
+    # so we can append individual pages' records without rewriting everything.
+    if not os.path.exists(output_file):
+        with open(output_file, "w", newline="", encoding="utf-8") as f:
+            csv.DictWriter(f, fieldnames=fieldnames).writeheader()
+
     try:
         for page_num in range(start_page, end_page + 1):
             url = f"{TGA_ARTG_LISTING_URL}?page={page_num}"
@@ -315,7 +329,7 @@ def download_tga(max_pages=None, start_page=None):
                 deadline = time.time() + 25
                 while time.time() < deadline:
                     src = driver.page_source
-                    if "summary__content" in src or len(src) < 10_000:
+                    if "summary__content" in src or len(src) > 10_000:
                         break
                     time.sleep(0.5)
             except Exception as exc:
@@ -356,11 +370,12 @@ def download_tga(max_pages=None, start_page=None):
                 f"total: {len(all_records)})"
             )
 
-            # Save after every page so progress is preserved
-            with open(output_file, "w", newline="", encoding="utf-8") as f:
-                writer = csv.DictWriter(f, fieldnames=fieldnames)
-                writer.writeheader()
-                writer.writerows(all_records)
+            # Append only the new records for this page so progress is
+            # preserved without rewriting the full file every iteration
+            # (O(n) total I/O instead of O(n²)).
+            if new_records:
+                with open(output_file, "a", newline="", encoding="utf-8") as f:
+                    csv.DictWriter(f, fieldnames=fieldnames).writerows(new_records)
 
             if not records:
                 print("    No records — last page reached.")
@@ -372,6 +387,26 @@ def download_tga(max_pages=None, start_page=None):
         _quit_tga_driver(driver)
 
     print(f"\nTGA scrape complete: {len(all_records):,} records → {output_file}")
+
+
+def _write_tga_csv_atomic(output_file, fieldnames, rows, artg_dates):
+    """Write updated rows to *output_file* using an atomic temp-file rename.
+
+    Builds the full CSV in a temporary file next to *output_file*, then
+    replaces the destination with a single ``os.replace()`` call so the file
+    is never left in a partial state even if the process is interrupted.
+    """
+    tmp_path = output_file + ".tmp"
+    updated = [
+        {"ARTG_ID": r["ARTG_ID"], "Name": r["Name"],
+         "RegistrationDate": artg_dates.get(r["ARTG_ID"], "")}
+        for r in rows
+    ]
+    with open(tmp_path, "w", newline="", encoding="utf-8") as f:
+        writer = csv.DictWriter(f, fieldnames=fieldnames)
+        writer.writeheader()
+        writer.writerows(updated)
+    os.replace(tmp_path, output_file)
 
 
 def download_tga_dates(delay=3.0):
@@ -434,7 +469,7 @@ def download_tga_dates(delay=3.0):
                 deadline = time.time() + 25
                 while time.time() < deadline:
                     src = driver.page_source
-                    if "health-field__label" in src or len(src) < 10_000:
+                    if "health-field__label" in src or len(src) > 10_000:
                         break
                     time.sleep(0.5)
             except Exception as exc:
@@ -471,33 +506,19 @@ def download_tga_dates(delay=3.0):
             if (i + 1) % 100 == 0 or date_val:
                 print(f"    date={date_val!r}  (fetched {fetched} so far)")
 
-            # Persist after every 50 successful fetches
-            if fetched % 50 == 0:
-                updated = [
-                    {"ARTG_ID": r["ARTG_ID"], "Name": r["Name"],
-                     "RegistrationDate": artg_dates.get(r["ARTG_ID"], "")}
-                    for r in rows
-                ]
-                with open(output_file, "w", newline="", encoding="utf-8") as f:
-                    writer = csv.DictWriter(f, fieldnames=fieldnames)
-                    writer.writeheader()
-                    writer.writerows(updated)
+            # Checkpoint every 500 successful fetches using an atomic rename
+            # so the full CSV is written infrequently and the file is never
+            # left in a partial state.
+            if fetched % 500 == 0:
+                _write_tga_csv_atomic(output_file, fieldnames, rows, artg_dates)
 
             time.sleep(delay)
 
     finally:
         _quit_tga_driver(driver)
 
-    # Final save
-    updated = [
-        {"ARTG_ID": r["ARTG_ID"], "Name": r["Name"],
-         "RegistrationDate": artg_dates.get(r["ARTG_ID"], "")}
-        for r in rows
-    ]
-    with open(output_file, "w", newline="", encoding="utf-8") as f:
-        writer = csv.DictWriter(f, fieldnames=fieldnames)
-        writer.writeheader()
-        writer.writerows(updated)
+    # Final save (atomic)
+    _write_tga_csv_atomic(output_file, fieldnames, rows, artg_dates)
 
     with_date = sum(1 for r in updated if r["RegistrationDate"])
     print(

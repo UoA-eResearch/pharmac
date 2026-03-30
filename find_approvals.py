@@ -300,8 +300,9 @@ def lookup_medsafe(medsafe_db, chemical_name, brand_name):
                 row_norm = normalize_name(str(row.get("Ingredient_norm", "")))
                 score = fuzz.token_set_ratio(ing_norm, row_norm)
                 if score >= FUZZY_THRESHOLD:
-                    if row.get("ApprovalDate"):
-                        candidates.append(row["ApprovalDate"])
+                    approval_date = row.get("ApprovalDate")
+                    if pd.notna(approval_date):
+                        candidates.append(approval_date)
 
     if candidates:
         return min(candidates)
