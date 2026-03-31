@@ -54,7 +54,6 @@ jobs:
     # At ~10 s/page the GHA 6-hour limit allows ~2,000 pages (~50,000 records).
     # Run multiple times to build the full ~97,000-record dataset; the start
     # page is detected automatically each time from the existing CSV row count.
-    timeout-minutes: 350
 
     steps:
       - name: Checkout repository
@@ -75,6 +74,8 @@ jobs:
         run: sudo apt-get install -y xvfb
 
       - name: Scrape TGA listing pages
+        # Timeout on the step so the commit step still runs if time is exceeded
+        timeout-minutes: 350
         run: |
           EXTRA_ARGS=""
           if [ -n "${{ inputs.listings_max_pages }}" ]; then
@@ -87,6 +88,7 @@ jobs:
           PYTHONUNBUFFERED: '1'
 
       - name: Commit updated CSV
+        if: always()
         run: |
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git config user.name "github-actions[bot]"
@@ -111,11 +113,13 @@ jobs:
     needs: tga-listings
     # Run on schedule (listings job is skipped on schedule, so tga-dates
     # result will be 'skipped'), or on manual dispatch when run_dates is true
-    # and tga-listings either succeeded or was skipped (run_listings: false).
+    # and tga-listings either succeeded, was skipped (run_listings: false), or
+    # timed out (failed) — we still want to collect dates after a partial run.
     if: >
       github.event_name == 'schedule' ||
       (github.event_name == 'workflow_dispatch' && inputs.run_dates == true &&
-      (needs.tga-listings.result == 'success' || needs.tga-listings.result == 'skipped'))
+      (needs.tga-listings.result == 'success' || needs.tga-listings.result == 'skipped' ||
+      needs.tga-listings.result == 'failure'))
     runs-on: ubuntu-latest
     # Individual product pages load in ~1 s; with 2 s delay and ~6,950 rows
     # the first full run takes roughly 6 hours.  Subsequent runs (skipping
