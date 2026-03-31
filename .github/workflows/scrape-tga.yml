@@ -113,13 +113,15 @@ jobs:
     needs: tga-listings
     # Run on schedule (listings job is skipped on schedule, so tga-dates
     # result will be 'skipped'), or on manual dispatch when run_dates is true
-    # and tga-listings either succeeded, was skipped (run_listings: false), or
-    # timed out (failed) — we still want to collect dates after a partial run.
+    # and tga-listings either succeeded or was skipped (run_listings: false).
+    # Also always run when tga-listings failed (timed out) so that dates are
+    # collected for any new rows added during a partial run — regardless of
+    # whether run_dates was explicitly requested.
     if: >
       github.event_name == 'schedule' ||
+      needs.tga-listings.result == 'failure' ||
       (github.event_name == 'workflow_dispatch' && inputs.run_dates == true &&
-      (needs.tga-listings.result == 'success' || needs.tga-listings.result == 'skipped' ||
-      needs.tga-listings.result == 'failure'))
+      (needs.tga-listings.result == 'success' || needs.tga-listings.result == 'skipped'))
     runs-on: ubuntu-latest
     # Individual product pages load in ~1 s; with 2 s delay and ~6,950 rows
     # the first full run takes roughly 6 hours.  Subsequent runs (skipping
