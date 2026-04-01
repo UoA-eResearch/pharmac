@@ -101,6 +101,9 @@ jobs:
           print(sum(1 for _ in csv.DictReader(open('data/tga/tga_artg.csv'))))
           ")
           git commit -m "Update TGA ARTG listings: ${ROWS} total rows [skip ci]"
+          # Clean up any unstaged changes (e.g., .tmp files, logs) before rebase
+          git add -A
+          git diff --staged --quiet || git commit --amend --no-edit
           git pull --rebase
           git push
 
@@ -172,6 +175,9 @@ jobs:
           print(sum(1 for _ in csv.DictReader(open('data/tga/tga_artg.csv'))))
           ")
           git commit -m "Update TGA registration dates: ${WITH}/${TOTAL} rows have date [skip ci]"
+          # Clean up any unstaged changes (e.g., .tmp files, logs) before rebase
+          git add -A
+          git diff --staged --quiet || git commit --amend --no-edit
           git pull --rebase
           git push
 
