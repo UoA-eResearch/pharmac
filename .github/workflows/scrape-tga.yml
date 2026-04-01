@@ -73,8 +73,11 @@ jobs:
       - name: Scrape TGA listing pages
         # Use a step-level timeout shorter than the 6h job limit so that when
         # scraping runs long the step times out gracefully and the commit step
-        # below still gets to execute (if: always()).
+        # below still gets to execute.  continue-on-error ensures the job is
+        # not marked as failed due to the timeout, so subsequent steps run
+        # under their normal conditions.
         timeout-minutes: 350
+        continue-on-error: true
         run: |
           EXTRA_ARGS=""
           if [ -n "${{ inputs.listings_max_pages }}" ]; then
