@@ -34,13 +34,13 @@ on:
       run_listings:
         description: 'Scrape listing pages to add new ARTG entries'
         type: boolean
-        default: false
+        default: true
       listings_max_pages:
         description: 'Max listing pages to scrape per run; leave blank for all (~3913)'
         default: ''
   schedule:
-    # Run the dates job every Sunday at 02:00 UTC
-    - cron: '0 2 * * 0'
+    # Run every day at 00:00 UTC
+    - cron: '0 0 * * *'
 
 jobs:
   # ---------------------------------------------------------------------------
