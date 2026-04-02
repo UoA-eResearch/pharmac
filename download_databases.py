@@ -124,10 +124,32 @@ def _make_tga_driver():
         opts.add_argument("--window-size=1920,1080")
 
         try:
-            # Let undetected-chromedriver detect the installed Chrome version
-            # automatically rather than hard-coding a version number, so the
-            # driver works on any runner (local, GitHub Actions, etc.)
-            driver = uc.Chrome(options=opts)
+            # Detect the installed Chrome version to ensure ChromeDriver matches.
+            # This prevents version mismatch errors like "ChromeDriver only supports
+            # Chrome version X" when the installed Chrome is version Y.
+            chrome_version = None
+            chrome_path = shutil.which("google-chrome") or shutil.which("chrome")
+            if chrome_path:
+                try:
+                    version_output = subprocess.check_output(
+                        [chrome_path, "--version"],
+                        stderr=subprocess.DEVNULL,
+                        text=True,
+                    ).strip()
+                    # Parse version like "Google Chrome 146.0.7680.0" -> 146
+                    match = re.search(r"(\d+)\.", version_output)
+                    if match:
+                        chrome_version = int(match.group(1))
+                        print(f"  Detected Chrome version: {chrome_version}")
+                except Exception:
+                    pass
+
+            # Pass version_main to ensure ChromeDriver matches installed Chrome
+            if chrome_version:
+                driver = uc.Chrome(options=opts, version_main=chrome_version)
+            else:
+                # Fallback to auto-detection if version detection failed
+                driver = uc.Chrome(options=opts)
         except Exception:
             # Chrome launch failed — terminate any Xvfb we started so it
             # doesn't leak as a background process on the runner.
