@@ -107,6 +107,16 @@ jobs:
           git pull --rebase
           git push
 
+      - name: Update README with current statistics
+        if: always()
+        run: |
+          python3 update_readme_tga_stats.py
+          git add README.md
+          git diff --staged --quiet && echo "No README changes" && exit 0
+          git commit -m "Update README with TGA statistics [skip ci]"
+          git pull --rebase
+          git push
+
   # ---------------------------------------------------------------------------
   # Job 2: fetch RegistrationDate for every row missing one
   # ---------------------------------------------------------------------------
@@ -180,6 +190,15 @@ jobs:
           # Clean up any unstaged changes (e.g., .tmp files, logs) before rebase
           git add -A
           git diff --staged --quiet || git commit --amend --no-edit
+          git pull --rebase
+          git push
+
+      - name: Update README with current statistics
+        run: |
+          python3 update_readme_tga_stats.py
+          git add README.md
+          git diff --staged --quiet && echo "No README changes" && exit 0
+          git commit -m "Update README with TGA statistics [skip ci]"
           git pull --rebase
           git push
 
