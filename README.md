@@ -97,7 +97,7 @@ Running `find_approvals.py` against the 2,015 Pharmac applications using the com
 | Regulator | Products in database | Pharmac applications matched | Match rate |
 |-----------|---------------------|------------------------------|-----------|
 | FDA | 50,959 products (3,048 unique active ingredients with approval dates) | ≥ 1,227 / 2,015 | ≥ 60% |
-| TGA | 97,593 products (partial — ~100% of ARTG; scrape ongoing) | — | — |
+| TGA | 97,593 products (partial — ~100% of ARTG; scrape ongoing) | ≥ 1,423 / 2,015 | ≥ 70% |
 | MedSafe | 14,828 products | ≥ 1,325 / 2,015 | ≥ 65% |
 
 The remaining unmatched applications are typically very new drugs not yet in the databases, NZ-specific formulations, nutritional/dietary products, vaccines, or combination products where the ingredient name differs significantly between databases. The fuzzy matching in `find_approvals.py` recovers additional matches beyond the substring counts above.
