@@ -398,7 +398,8 @@ def download_tga(max_pages=None, start_page=None):
                     break
                 _quit_tga_driver(driver)
                 time.sleep(TGA_BLOCK_BACKOFF)
-                driver = _make_tga_driver(force_selenium=not getattr(driver, "_is_uc", True))
+                _is_uc = getattr(driver, "_is_uc", True)
+                driver = _make_tga_driver(force_selenium=not _is_uc)
                 continue
 
             consecutive_blocks = 0
@@ -548,7 +549,8 @@ def download_tga_dates(delay=3.0):
                     break
                 _quit_tga_driver(driver)
                 time.sleep(TGA_BLOCK_BACKOFF)
-                driver = _make_tga_driver(force_selenium=not getattr(driver, "_is_uc", True))
+                _is_uc = getattr(driver, "_is_uc", True)
+                driver = _make_tga_driver(force_selenium=not _is_uc)
                 continue
 
             consecutive_blocks = 0
