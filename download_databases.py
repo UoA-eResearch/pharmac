@@ -93,78 +93,88 @@ TGA_MAX_CONSECUTIVE_BLOCKS = 5  # give up after this many consecutive blocks
 TGA_BLOCK_BACKOFF = 60          # seconds to wait after a block
 
 
-def _make_tga_driver():
+def _make_tga_driver(force_selenium=False):
     """Create a WebDriver for TGA scraping.
 
     Tries in order:
     1. undetected-chromedriver (optionally with Xvfb virtual display to bypass Akamai CDN)
+       — skipped when *force_selenium* is ``True``
     2. Standard selenium Chrome headless (fallback)
+
+    The returned driver has two extra attributes set by this function:
+
+    * ``_xvfb_proc`` – the Xvfb :class:`subprocess.Popen` object (or ``None``).
+    * ``_is_uc`` – ``True`` when undetected-chromedriver was used, ``False``
+      for standard selenium.  Callers can inspect this to decide whether to
+      retry with ``force_selenium=True`` after too many blocks.
     """
     import subprocess, shutil
 
     # --- Strategy 1: undetected-chromedriver + Xvfb ---
-    try:
-        import undetected_chromedriver as uc  # noqa: F401
-
-        xvfb_proc = None
-        xvfb_path = shutil.which("Xvfb")
-        if xvfb_path:
-            xvfb_proc = subprocess.Popen(
-                [xvfb_path, ":99", "-screen", "0", "1920x1080x24"],
-                stdout=subprocess.DEVNULL,
-                stderr=subprocess.DEVNULL,
-            )
-            os.environ["DISPLAY"] = ":99"
-            time.sleep(1)
-
-        opts = uc.ChromeOptions()
-        opts.add_argument("--no-sandbox")
-        opts.add_argument("--disable-dev-shm-usage")
-        opts.add_argument("--disable-gpu")
-        opts.add_argument("--window-size=1920,1080")
-
+    if not force_selenium:
         try:
-            # Detect the installed Chrome version to ensure ChromeDriver matches.
-            # This prevents version mismatch errors like "ChromeDriver only supports
-            # Chrome version X" when the installed Chrome is version Y.
-            chrome_version = None
-            chrome_path = shutil.which("google-chrome") or shutil.which("chrome")
-            if chrome_path:
-                try:
-                    version_output = subprocess.check_output(
-                        [chrome_path, "--version"],
-                        stderr=subprocess.DEVNULL,
-                        text=True,
-                    ).strip()
-                    # Parse version like "Google Chrome 146.0.7680.0" -> 146
-                    match = re.search(r"(\d+)\.", version_output)
-                    if match:
-                        chrome_version = int(match.group(1))
-                        print(f"  Detected Chrome version: {chrome_version}")
-                except Exception:
-                    pass
+            import undetected_chromedriver as uc  # noqa: F401
 
-            # Pass version_main to ensure ChromeDriver matches installed Chrome
-            if chrome_version:
-                driver = uc.Chrome(options=opts, version_main=chrome_version)
-            else:
-                # Fallback to auto-detection if version detection failed
-                driver = uc.Chrome(options=opts)
-        except Exception:
-            # Chrome launch failed — terminate any Xvfb we started so it
-            # doesn't leak as a background process on the runner.
-            if xvfb_proc is not None:
-                xvfb_proc.terminate()
-                xvfb_proc.wait()
-            raise
+            xvfb_proc = None
+            xvfb_path = shutil.which("Xvfb")
+            if xvfb_path:
+                xvfb_proc = subprocess.Popen(
+                    [xvfb_path, ":99", "-screen", "0", "1920x1080x24"],
+                    stdout=subprocess.DEVNULL,
+                    stderr=subprocess.DEVNULL,
+                )
+                os.environ["DISPLAY"] = ":99"
+                time.sleep(1)
 
-        driver.set_page_load_timeout(60)
-        driver._xvfb_proc = xvfb_proc
-        print("  Using undetected-chromedriver" + (" + Xvfb" if xvfb_proc else ""))
-        return driver
+            opts = uc.ChromeOptions()
+            opts.add_argument("--no-sandbox")
+            opts.add_argument("--disable-dev-shm-usage")
+            opts.add_argument("--disable-gpu")
+            opts.add_argument("--window-size=1920,1080")
 
-    except Exception as exc:
-        print(f"  undetected-chromedriver failed ({exc}), falling back to selenium")
+            try:
+                # Detect the installed Chrome version to ensure ChromeDriver matches.
+                # This prevents version mismatch errors like "ChromeDriver only supports
+                # Chrome version X" when the installed Chrome is version Y.
+                chrome_version = None
+                chrome_path = shutil.which("google-chrome") or shutil.which("chrome")
+                if chrome_path:
+                    try:
+                        version_output = subprocess.check_output(
+                            [chrome_path, "--version"],
+                            stderr=subprocess.DEVNULL,
+                            text=True,
+                        ).strip()
+                        # Parse version like "Google Chrome 146.0.7680.0" -> 146
+                        match = re.search(r"(\d+)\.", version_output)
+                        if match:
+                            chrome_version = int(match.group(1))
+                            print(f"  Detected Chrome version: {chrome_version}")
+                    except Exception:
+                        pass
+
+                # Pass version_main to ensure ChromeDriver matches installed Chrome
+                if chrome_version:
+                    driver = uc.Chrome(options=opts, version_main=chrome_version)
+                else:
+                    # Fallback to auto-detection if version detection failed
+                    driver = uc.Chrome(options=opts)
+            except Exception:
+                # Chrome launch failed — terminate any Xvfb we started so it
+                # doesn't leak as a background process on the runner.
+                if xvfb_proc is not None:
+                    xvfb_proc.terminate()
+                    xvfb_proc.wait()
+                raise
+
+            driver.set_page_load_timeout(60)
+            driver._xvfb_proc = xvfb_proc
+            driver._is_uc = True
+            print("  Using undetected-chromedriver" + (" + Xvfb" if xvfb_proc else ""))
+            return driver
+
+        except Exception as exc:
+            print(f"  undetected-chromedriver failed ({exc}), falling back to selenium")
 
     # --- Strategy 2/3: standard selenium ---
     try:
@@ -195,6 +205,7 @@ def _make_tga_driver():
         {"source": "Object.defineProperty(navigator, 'webdriver', {get: () => undefined})"},
     )
     driver._xvfb_proc = None
+    driver._is_uc = False
     print("  Using standard selenium headless Chrome")
     return driver
 
@@ -356,8 +367,9 @@ def download_tga(max_pages=None, start_page=None):
                     time.sleep(0.5)
             except Exception as exc:
                 print(f"    Load error: {exc} — restarting driver")
+                _is_uc = getattr(driver, "_is_uc", True)
                 _quit_tga_driver(driver)
-                driver = _make_tga_driver()
+                driver = _make_tga_driver(force_selenium=not _is_uc)
                 time.sleep(TGA_BLOCK_BACKOFF)
                 continue
 
@@ -370,6 +382,15 @@ def download_tga(max_pages=None, start_page=None):
                     f"Sleeping {TGA_BLOCK_BACKOFF}s..."
                 )
                 if consecutive_blocks >= TGA_MAX_CONSECUTIVE_BLOCKS:
+                    if getattr(driver, "_is_uc", False):
+                        print(
+                            "    Too many consecutive blocks with undetected-chromedriver "
+                            "— switching to standard selenium..."
+                        )
+                        _quit_tga_driver(driver)
+                        driver = _make_tga_driver(force_selenium=True)
+                        consecutive_blocks = 0
+                        continue
                     print(
                         "    Too many consecutive blocks — "
                         "re-run from a local machine or try later."
@@ -377,7 +398,8 @@ def download_tga(max_pages=None, start_page=None):
                     break
                 _quit_tga_driver(driver)
                 time.sleep(TGA_BLOCK_BACKOFF)
-                driver = _make_tga_driver()
+                _is_uc = getattr(driver, "_is_uc", True)
+                driver = _make_tga_driver(force_selenium=not _is_uc)
                 continue
 
             consecutive_blocks = 0
@@ -496,8 +518,9 @@ def download_tga_dates(delay=3.0):
                     time.sleep(0.5)
             except Exception as exc:
                 print(f"    Load error: {exc} — restarting driver")
+                _is_uc = getattr(driver, "_is_uc", True)
                 _quit_tga_driver(driver)
-                driver = _make_tga_driver()
+                driver = _make_tga_driver(force_selenium=not _is_uc)
                 time.sleep(TGA_BLOCK_BACKOFF)
                 continue
 
@@ -510,6 +533,15 @@ def download_tga_dates(delay=3.0):
                     f"Sleeping {TGA_BLOCK_BACKOFF}s..."
                 )
                 if consecutive_blocks >= TGA_MAX_CONSECUTIVE_BLOCKS:
+                    if getattr(driver, "_is_uc", False):
+                        print(
+                            "    Too many consecutive blocks with undetected-chromedriver "
+                            "— switching to standard selenium..."
+                        )
+                        _quit_tga_driver(driver)
+                        driver = _make_tga_driver(force_selenium=True)
+                        consecutive_blocks = 0
+                        continue
                     print(
                         "    Too many consecutive blocks — "
                         "re-run from a local machine or try later."
@@ -517,7 +549,8 @@ def download_tga_dates(delay=3.0):
                     break
                 _quit_tga_driver(driver)
                 time.sleep(TGA_BLOCK_BACKOFF)
-                driver = _make_tga_driver()
+                _is_uc = getattr(driver, "_is_uc", True)
+                driver = _make_tga_driver(force_selenium=not _is_uc)
                 continue
 
             consecutive_blocks = 0
