@@ -161,9 +161,10 @@ def update_readme(readme_path, csv_path, pharmac_xlsx_path=None):
     if pharmac_xlsx_path is not None and Path(pharmac_xlsx_path).exists():
         match_count, pharmac_total = get_pharmac_match_count(csv_path, pharmac_xlsx_path)
         if match_count is not None and pharmac_total:
+            match_pct = 100 * match_count // pharmac_total
             match_str = f"≥ {match_count:,} / {pharmac_total:,}"
-            rate_str = f"≥ {100 * match_count // pharmac_total}%"
-            print(f"Pharmac match count: {match_count:,} / {pharmac_total:,} ({100 * match_count // pharmac_total}%)")
+            rate_str = f"≥ {match_pct}%"
+            print(f"Pharmac match count: {match_count:,} / {pharmac_total:,} ({match_pct}%)")
 
     match_rate_row = (
         f"| TGA | {stats['total']:,} products (partial — ~{pct_of_artg:.0f}% of ARTG; scrape ongoing) | "
