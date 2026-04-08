@@ -27,7 +27,7 @@ on:
       use_tor:
         description: 'Route traffic through Tor to avoid Microsoft IP fingerprinting'
         type: boolean
-        default: true
+        default: false
       run_dates:
         description: 'Fetch RegistrationDate for rows that are missing one'
         type: boolean
