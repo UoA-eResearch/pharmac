@@ -236,7 +236,7 @@ def _tga_product_page_is_blocked(src):
 
 def _tga_product_page_not_found(src):
     """True if an individual ARTG product page returns 'Page not found'."""
-    return "Page not found" in src and "Sorry, we can't find that page" in src
+    return "Page not found" in src and "Sorry, we can’t find that page" in src
 
 
 def _parse_tga_artg_product_date(src):
