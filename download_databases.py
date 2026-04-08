@@ -234,6 +234,11 @@ def _tga_product_page_is_blocked(src):
     return "health-field__label" not in src
 
 
+def _tga_product_page_not_found(src):
+    """True if an individual ARTG product page returns 'Page not found'."""
+    return "Page not found" in src and "Sorry, we can't find that page" in src
+
+
 def _parse_tga_artg_product_date(src):
     """Extract the ARTG Date from an individual product page source.
 
@@ -525,6 +530,13 @@ def download_tga_dates(delay=3.0):
                 continue
 
             src = driver.page_source
+
+            if _tga_product_page_not_found(src):
+                print(f"    Page not found — skipping")
+                # Leave the date empty for this product
+                artg_dates[artg_id] = ""
+                time.sleep(delay)
+                continue
 
             if _tga_product_page_is_blocked(src):
                 consecutive_blocks += 1
