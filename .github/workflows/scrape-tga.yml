@@ -24,10 +24,6 @@ name: Scrape TGA ARTG
 on:
   workflow_dispatch:
     inputs:
-      use_tor:
-        description: 'Route traffic through Tor to avoid Microsoft IP fingerprinting'
-        type: boolean
-        default: false
       run_dates:
         description: 'Fetch RegistrationDate for rows that are missing one'
         type: boolean
@@ -76,37 +72,6 @@ jobs:
         run: sudo apt-get install -y xvfb
 
 
-      - name: Set up Tor
-        # Runs on all scheduled/push runs, and on workflow_dispatch unless use_tor is explicitly
-        # set to false. When use_tor is not provided (scheduled runs), it defaults to enabling Tor.
-        if: github.event.inputs.use_tor != 'false'
-        run: |
-          sudo apt-get install -y tor torsocks
-          sudo systemctl start tor
-          # Wait for Tor to establish circuits (up to 2 minutes, checking every 5 seconds)
-          echo "Waiting for Tor to establish circuits..."
-          TIMEOUT_SECONDS=120
-          INTERVAL_SECONDS=5
-          MAX_ATTEMPTS=$((TIMEOUT_SECONDS / INTERVAL_SECONDS))
-          TOR_AVAILABLE=false
-          for i in $(seq 1 $MAX_ATTEMPTS); do
-            if curl --silent --max-time 10 --socks5-hostname 127.0.0.1:9050 https://check.torproject.org/api/ip 2>/dev/null | grep -q '"IsTor":true'; then
-              echo "Tor connection established successfully"
-              TOR_AVAILABLE=true
-              break
-            fi
-            echo "  Waiting... ($i/$MAX_ATTEMPTS)"
-            sleep $INTERVAL_SECONDS
-          done
-          if [ "$TOR_AVAILABLE" = "true" ]; then
-            TOR_IP=$(curl --silent --max-time 10 --socks5-hostname 127.0.0.1:9050 https://api.ipify.org/ 2>/dev/null || echo "Unknown")
-            echo "Tor exit node public IP: $TOR_IP"
-            echo "TOR_AVAILABLE=true" >> "$GITHUB_ENV"
-          else
-            echo "WARNING: Tor failed to establish a connection within ${TIMEOUT_SECONDS} seconds. Falling back to direct connection."
-            echo "TOR_AVAILABLE=false" >> "$GITHUB_ENV"
-          fi
-
       - name: Scrape TGA listing pages
         # Use a step-level timeout shorter than the 6h job limit so that when
         # scraping runs long the step times out gracefully and the commit step
@@ -123,16 +88,7 @@ jobs:
           # --tga-start-page is intentionally omitted: the script auto-detects
           # the correct page from the existing row count in tga_artg.csv.
           
-          if [ "${TOR_AVAILABLE}" = "true" ]; then
-            echo "Using torsocks to route traffic through Tor..."
-            if ! torsocks python download_databases.py --tga $EXTRA_ARGS; then
-              echo "WARNING: torsocks failed; retrying with direct connection..."
-              python download_databases.py --tga $EXTRA_ARGS
-            fi
-          else
-            echo "Using direct connection (Microsoft IP)..."
-            python download_databases.py --tga $EXTRA_ARGS
-          fi
+          python download_databases.py --tga $EXTRA_ARGS
         env:
           PYTHONUNBUFFERED: '1'
 
@@ -208,7 +164,7 @@ jobs:
         timeout-minutes: 350
         continue-on-error: true
         run: |
-          torsocks python download_databases.py \
+          python download_databases.py \
             --tga-dates \
             --tga-dates-delay ${{ inputs.dates_delay || '2.0' }}
         env:
