@@ -135,12 +135,7 @@ jobs:
     # cancelled (e.g. hit the 6h job timeout) so that dates are collected for
     # any new rows added during a partial run — regardless of whether
     # run_dates was explicitly requested.
-    if: >
-      github.event_name == 'schedule' ||
-      needs.tga-listings.result == 'failure' ||
-      needs.tga-listings.result == 'cancelled' ||
-      (github.event_name == 'workflow_dispatch' && inputs.run_dates == true &&
-      (needs.tga-listings.result == 'success' || needs.tga-listings.result == 'skipped'))
+    if: inputs.run_dates == true
     runs-on: ubuntu-latest
 
     steps:
