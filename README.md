@@ -34,9 +34,9 @@ Pre-built copies of the databases are stored in `data/`:
 |----------|------|---------|------------|-----------|---------|
 | FDA DrugsFDA | `data/fda/Products.txt`, `data/fda/Submissions.txt`, `data/fda/Applications.txt` | 50,959 products; 3,048 unique active ingredients with approval dates | https://www.fda.gov/media/89850/download | 2026-03-27 | Public domain (US government work) |
 | MedSafe Register | `data/medsafe/medsafe_register.csv` | 14,828 products | https://www.medsafe.govt.nz/DbSearch/ (scraped via wildcard ingredient search) | 2026-03-30 | © Medsafe, New Zealand Ministry of Health. Used under [Crown Copyright](https://www.health.govt.nz/about-site/copyright). |
-| TGA ARTG | `data/tga/tga_artg.csv` | — | https://www.tga.gov.au/resources/artg | *See note below* | © Commonwealth of Australia. [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) |
+| TGA ARTG | `data/tga/tga_artg.csv` | 97,593 products | https://www.tga.gov.au/resources/artg | 2026-04-13 | © Commonwealth of Australia. [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) |
 
-**TGA Note:** The TGA website (tga.gov.au) may block automated access from cloud/CI environments. Use the **Scrape TGA ARTG** GitHub Actions workflow (see below) or run locally:
+**TGA Note:** The full ARTG dataset has been scraped. To update or rebuild the database, use the **Scrape TGA ARTG** GitHub Actions workflow (see below) or run locally:
 
 ```bash
 # Scrape listing pages — start page is auto-detected from existing row count
@@ -97,7 +97,7 @@ Running `find_approvals.py` against the 2,015 Pharmac applications using the com
 | Regulator | Products in database | Pharmac applications matched | Match rate |
 |-----------|---------------------|------------------------------|-----------|
 | FDA | 50,959 products (3,048 unique active ingredients with approval dates) | ≥ 1,227 / 2,015 | ≥ 60% |
-| TGA | 97,593 products (partial — ~100% of ARTG; scrape ongoing) | ≥ 1,423 / 2,015 | ≥ 70% |
+| TGA | 97,593 products (complete ARTG dataset) | ≥ 1,423 / 2,015 | ≥ 70% |
 | MedSafe | 14,828 products | ≥ 1,325 / 2,015 | ≥ 65% |
 
 The remaining unmatched applications are typically very new drugs not yet in the databases, NZ-specific formulations, nutritional/dietary products, vaccines, or combination products where the ingredient name differs significantly between databases. The fuzzy matching in `find_approvals.py` recovers additional matches beyond the substring counts above.
@@ -111,13 +111,15 @@ How many rows in each committed database have a date value defined:
 | FDA (`Products.txt` linked via `Submissions.txt`) | 50,959 products | 46,127 (90.5%) | 4,832 (9.5%) | Date = earliest `SubmissionStatusDate` where `SubmissionStatus = AP` |
 | MedSafe (`medsafe_register.csv`) — Approval date | 14,828 products | 14,828 (100%) | 0 (0%) | All products have an approval date |
 | MedSafe (`medsafe_register.csv`) — Notification date | 14,828 products | 10,874 (73.3%) | 3,954 (26.7%) | Notification date is optional and not always recorded |
-| TGA (`tga_artg.csv`) — partial scrape | 97,593 products | 97,526 (99.9%) | 67 (0.1%) | Registration dates are on individual ARTG product pages, not the listing page; full per-product scrape needed |
+| TGA (`tga_artg.csv`) | 97,593 products | 97,526 (99.9%) | 67 (0.1%) | Registration dates scraped from individual ARTG product pages |
 
 ### Running the Approval Date Lookup
 
 ```bash
 python find_approvals.py
 ```
+
+This runs automatically every Monday via the [Find Approvals](../../actions/workflows/find-approvals.yml) GitHub Actions workflow, which commits the updated `pharmac_approvals.csv` file.
 
 Output is saved to `pharmac_approvals.csv`, which contains all columns from `Pharmac applications.xlsx` plus:
 
