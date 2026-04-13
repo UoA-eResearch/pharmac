@@ -1,6 +1,7 @@
 # pharmac
 
 [![Update CSVs](https://github.com/UoA-eResearch/pharmac/actions/workflows/fetch.yml/badge.svg)](https://github.com/UoA-eResearch/pharmac/actions/workflows/fetch.yml)
+[![Find Approvals](https://github.com/UoA-eResearch/pharmac/actions/workflows/find-approvals.yml/badge.svg)](https://github.com/UoA-eResearch/pharmac/actions/workflows/find-approvals.yml)
 
 Python script to extract priority lists for funding applications from the Pharmac website (https://connect.pharmac.govt.nz/apptracker/s/ranking-lists-for-funding-applications?reportType=OFI) and monitor for changes
 
@@ -69,7 +70,7 @@ The listing scrape **automatically resumes from the last scraped page** on each 
 3. Repeat until all ~3,913 pages are scraped — each run picks up exactly where the last one stopped
 4. Finally run with only **Fetch registration dates** enabled to backfill `RegistrationDate`
 
-The workflow also runs automatically **every Sunday** to keep `RegistrationDate` up to date for any rows missing a date.
+The workflow also runs automatically **daily** to keep the ARTG dataset up to date and backfill any missing registration dates.
 
 ### Rebuilding the Databases
 
