@@ -1,0 +1,60 @@
+name: Join Data
+
+# Runs join_data.ipynb to combine application data with events and generate
+# Pharmac applications.xlsx with Outcome__c and Summary__c fields extracted
+# from application JSON files.
+
+on:
+  workflow_dispatch: # Allow manual triggering
+  schedule:
+    # Run weekly on Mondays at 01:00 UTC
+    - cron: '0 1 * * 1'
+
+jobs:
+  join-data:
+    name: Run join_data.ipynb
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+          cache: 'pip'
+
+      - name: Install Python dependencies
+        run: pip install -r requirements.txt
+
+      - name: Install Jupyter
+        run: pip install jupyter nbconvert
+
+      - name: Run join_data.ipynb
+        run: jupyter nbconvert --to notebook --execute join_data.ipynb --inplace
+        env:
+          PYTHONUNBUFFERED: '1'
+
+      - name: Render notebook as HTML
+        run: jupyter nbconvert --to html join_data.ipynb --output index.html
+
+      - name: Commit updated files
+        run: |
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
+          git add "Pharmac applications.xlsx" index.html
+          git diff --staged --quiet && echo "No changes to commit" && exit 0
+
+          # Count rows in the Excel file
+          ROWS=$(python3 -c "
+          import pandas as pd
+          df = pd.read_excel('Pharmac applications.xlsx')
+          print(len(df))
+          ")
+
+          git commit -m "Update Pharmac applications.xlsx: ${ROWS} applications [skip ci]"
+          git pull --rebase
+          git push
