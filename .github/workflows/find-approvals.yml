@@ -1,0 +1,64 @@
+name: Find Approvals
+
+# Runs find_approvals.py to match Pharmac applications against FDA, TGA, and
+# MedSafe approval databases and outputs pharmac_approvals.csv with approval
+# dates for each regulator.
+
+on:
+  workflow_dispatch: # Allow manual triggering
+  schedule:
+    # Run weekly on Mondays at 00:00 UTC
+    - cron: '0 0 * * 1'
+
+jobs:
+  find-approvals:
+    name: Find FDA/TGA/MedSafe approval dates
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+          cache: 'pip'
+
+      - name: Install Python dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run find_approvals.py
+        run: python find_approvals.py
+        env:
+          PYTHONUNBUFFERED: '1'
+
+      - name: Commit updated CSV
+        run: |
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
+          git add pharmac_approvals.csv
+          git diff --staged --quiet && echo "No changes to commit" && exit 0
+
+          # Count matches
+          FDA=$(python3 -c "
+          import csv
+          rows = list(csv.DictReader(open('pharmac_approvals.csv')))
+          print(sum(1 for r in rows if r.get('FDA_ApprovalDate','').strip()))
+          ")
+          TGA=$(python3 -c "
+          import csv
+          rows = list(csv.DictReader(open('pharmac_approvals.csv')))
+          print(sum(1 for r in rows if r.get('TGA_ApprovalDate','').strip()))
+          ")
+          MEDSAFE=$(python3 -c "
+          import csv
+          rows = list(csv.DictReader(open('pharmac_approvals.csv')))
+          print(sum(1 for r in rows if r.get('MedSafe_ApprovalDate','').strip()))
+          ")
+
+          git commit -m "Update approval dates: FDA=${FDA}, TGA=${TGA}, MedSafe=${MEDSAFE} [skip ci]"
+          git pull --rebase
+          git push
