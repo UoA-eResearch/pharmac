@@ -34,18 +34,18 @@ jobs:
         run: pip install jupyter nbconvert
 
       - name: Run join_data.ipynb
-        run: jupyter nbconvert --to notebook --execute join_data.ipynb --output join_data.executed.ipynb
+        run: jupyter nbconvert --to notebook --execute join_data.ipynb --inplace
         env:
           PYTHONUNBUFFERED: '1'
 
       - name: Render notebook as HTML
-        run: jupyter nbconvert --to html join_data.executed.ipynb --output index.html
+        run: jupyter nbconvert --to html join_data.ipynb --output index.html
 
       - name: Commit updated files
         run: |
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git config user.name "github-actions[bot]"
-          git add "Pharmac applications.xlsx" index.html
+          git add "Pharmac applications.xlsx" index.html join_data.ipynb
           git diff --staged --quiet && echo "No changes to commit" && exit 0
 
           # Count rows in the Excel file
