@@ -34,12 +34,12 @@ jobs:
         run: pip install jupyter nbconvert
 
       - name: Run join_data.ipynb
-        run: jupyter nbconvert --to notebook --execute join_data.ipynb --inplace
+        run: jupyter nbconvert --to notebook --execute join_data.ipynb --output join_data.executed.ipynb
         env:
           PYTHONUNBUFFERED: '1'
 
       - name: Render notebook as HTML
-        run: jupyter nbconvert --to html join_data.ipynb --output index.html
+        run: jupyter nbconvert --to html join_data.executed.ipynb --output index.html
 
       - name: Commit updated files
         run: |
@@ -49,11 +49,7 @@ jobs:
           git diff --staged --quiet && echo "No changes to commit" && exit 0
 
           # Count rows in the Excel file
-          ROWS=$(python3 -c "
-          import pandas as pd
-          df = pd.read_excel('Pharmac applications.xlsx')
-          print(len(df))
-          ")
+          ROWS=$(python3 -c "import pandas as pd; df = pd.read_excel('Pharmac applications.xlsx'); print(len(df))")
 
           git commit -m "Update Pharmac applications.xlsx: ${ROWS} applications [skip ci]"
           git pull --rebase
