@@ -112,7 +112,7 @@ How many rows in each committed database have a date value defined:
 | FDA (`Products.txt` linked via `Submissions.txt`) | 50,959 products | 46,127 (90.5%) | 4,832 (9.5%) | Date = earliest `SubmissionStatusDate` where `SubmissionStatus = AP` |
 | MedSafe (`medsafe_register.csv`) — Approval date | 14,828 products | 14,828 (100%) | 0 (0%) | All products have an approval date |
 | MedSafe (`medsafe_register.csv`) — Notification date | 14,828 products | 10,874 (73.3%) | 3,954 (26.7%) | Notification date is optional and not always recorded |
-| TGA (`tga_artg.csv`) | 97,593 products | 97,526 (99.9%) | 67 (0.1%) | Registration dates scraped from individual ARTG product pages |
+| TGA (`tga_artg.csv`) — partial scrape | 97,593 products | 97,526 (99.9%) | 67 (0.1%) | Registration dates are on individual ARTG product pages, not the listing page; full per-product scrape needed |
 
 ### Running the Approval Date Lookup
 
