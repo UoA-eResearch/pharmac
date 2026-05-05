@@ -4,6 +4,7 @@ AdVital (special food product),/apptracker/s/application-public/a102P000008puWi,
 Aflibercept,/apptracker/s/application-public/a102P000008pudS,"Wet age-related macular degeneration, 3rd-line",Sensory Organs
 Alemtuzumab,/apptracker/s/application-public/a102P000008puRJ,Chronic lymphocytic leukaemia (CLL) (3rd-line treatment),Oncology Agents and Immunosuppressants
 Alglucosidase alfa,/apptracker/s/application-public/a102P000008pujd,Pompe's disease,Alimentary Tract and Metabolism
+Apixaban,/apptracker/s/application-public/a10OZ0000000XAT,End stage renal disease (ESRD) or intolerable side effects from dabigatran and rivaroxaban,Blood and Blood Forming Organs
 Atezolizumab,/apptracker/s/application-public/a102P000008pufQ,"Urothelial carcinoma, locally advanced or metastatic, 2nd line",Oncology Agents and Immunosuppressants
 Atezolizumab,/apptracker/s/application-public/a102P00000BaPb0,"Non-Small Cell Lung Cancer (NSCLC), PD-L1 positive, Adjuvant treatment",Oncology Agents and Immunosuppressants
 Atezolizumab (with chemotherapy),/apptracker/s/application-public/a102P00000ANEYB,"Triple-negative breast cancer (TNBC), advanced or metastatic, PDL1 expression over 1%",Oncology Agents and Immunosuppressants
@@ -12,9 +13,11 @@ Bee and wasp venom allergy treatment,/apptracker/s/application-public/a102P00000
 Bevacizumab,/apptracker/s/application-public/a102P000008ptvh,"Glioblastoma multiforme, relapsed or recurrent",Oncology Agents and Immunosuppressants
 Bevacizumab with lomustine,/apptracker/s/application-public/a102P000008puCg,"High-grade glioma, relapsed or recurrent",Oncology Agents and Immunosuppressants
 Bruton tyrosine kinase inhibitor (BTKi),/apptracker/s/application-public/a10OZ000000LvBN,"Chronic lymphocytic leukaemia (CLL), without TP53 mutation, relapsed or refractory or experienced intolerable side effects to venetoclax plus rituximab",
+Buprenorphine patches,/apptracker/s/application-public/a102P000008ptrY,"Pain, persistent moderate/severe",Nervous System
 Cannabidiol with tetrahydrocannabinol,/apptracker/s/application-public/a102P000008ptyj,"Multiple sclerosis spasticity, epilepsy, pain and spasticity",Nervous System
 Carboxypeptidase G2,/apptracker/s/application-public/a102P000008pu4B,Methotrexate overdose,Oncology Agents and Immunosuppressants
 Cefuroxime,/apptracker/s/application-public/a102P000008puk7,"Endophthalmitis prophylaxis, post-cataract surgery",Sensory Organs
+Clindamycin vaginal cream,/apptracker/s/application-public/a102P000008ptyF,Bacterial vaginosis and desquamative inflammatory vaginitis,Genito-Urinary System
 Crisantaspase (Erwinia L-asparaginase),/apptracker/s/application-public/a102P000008puKX,"Acute lymphoblastic leukemia, allergic to L-asparaginase",Oncology Agents and Immunosuppressants
 Cyanocobalamin (1mg sub-lingual),/apptracker/s/application-public/a10OZ000000witV,Vitamin B12 deficiency,Alimentary Tract and Metabolism
 D-mannose,/apptracker/s/application-public/a102P000008puQG,"Cystitis, uncomplicated during pregnancy or associated neurogenic bladder",Infections - Agents for Systemic Use
@@ -44,13 +47,16 @@ Lidocaine [Lignocaine] With Prilocaine,/apptracker/s/application-public/a102P000
 Lidocaine [lignocaine] with adrenaline and tetracaine (4%; 0.1%; 0.5%),/apptracker/s/application-public/a102P000008pufj,Wound repair for children,Nervous System
 Lidocaine [lignocaine] with adrenaline and tetracaine (4%; 0.1%; 0.5%),/apptracker/s/application-public/a102P000008puhU,Wound repair (not restricted by age),Nervous System
 Liraglutide,/apptracker/s/application-public/a102P000008pu13,Diabetes - type 2,Alimentary Tract and Metabolism
+Liraglutide,/apptracker/s/application-public/a102P00000BVLHl,"Patients with BMI 55kg per m2 and over, with high cardiovascular risk, without T2DM, unable to access bariatric surgery; or Māori or Pacific people with BMI 50kg per m2 and over, with high cardiovascular risk, without T2DM",Alimentary Tract and Metabolism
 Liraglutide,/apptracker/s/application-public/a102P00000BZ6Xf,"PCOS, weight loss due to insulin resistance",Alimentary Tract and Metabolism
 Macitentan,/apptracker/s/application-public/a102P000008puIy,Pulmonary arterial hypertension,Cardiovascular System
+Macrogol (electrolyte-free),/apptracker/s/application-public/a102P000008puDm,Paediatric constipation,Alimentary Tract and Metabolism
 Memantine hydrochloride,/apptracker/s/application-public/a102P00000BVtzr,"Dementia, 1st line",Nervous System
 Memantine hydrochloride,/apptracker/s/application-public/a102P00000BVu0Q,"Dementia, moderate, cholinesterases not tolerable",Nervous System
 Meningococcal group B vaccine - Invasive meningococcal disease,/apptracker/s/application-public/a10OZ0000000NB7,All adolescents 13-25 years,
 Methoxyflurane,/apptracker/s/application-public/a102P000008puQf,Pain relief,Nervous System
 Metronidazole,/apptracker/s/application-public/a102P000008puDF,Fungating wounds,Dermatologicals
+Metronidazole,/apptracker/s/application-public/a102P000008puaY,Bacterial vaginosis,Genito-Urinary System
 Micronutrient formulas,/apptracker/s/application-public/a102P000008puPl,ADHD and or mood dysregulation,Nervous System
 Miglustat,/apptracker/s/application-public/a102P000008ptzs,Niemann Pick Type C,Alimentary Tract and Metabolism
 Mirabegron,/apptracker/s/application-public/a102P000008pudo,"Overactive bladder, 2nd line",Genito-Urinary System
@@ -67,11 +73,14 @@ Pegylated liposomal doxorubicin,/apptracker/s/application-public/a102P000008ptxY
 Pegylated liposomal doxorubicin,/apptracker/s/application-public/a102P000008ptxf,"Ovarian cancer, advanced, epithelial, platinum sensitive/ partially sensitive/ intolerant, third line",Oncology Agents and Immunosuppressants
 Pembrolizumab,/apptracker/s/application-public/a102P00000BNzRH,"Esophagus or gastroesophageal junction cancer, PD-L1 CPS≥10, locally advanced unresectable or metastatic, 1st line",Oncology Agents and Immunosuppressants
 Pembrolizumab,/apptracker/s/application-public/a102P00000BQMFj,Pembrolizumab in combination with chemotherapy for those with recurrent or metastatic head and neck squamous cell carcinoma irrespective of Combined Positive Score (ie. an all-comers population),
+Physostigmine,/apptracker/s/application-public/a102P00000BUk5r,Moderate to severe simultaneous central and peripheral anticholinergic toxicity when the toxicity is only due to anticholinergic poisoning,Various
+Pristinamycin,/apptracker/s/application-public/a102P00000BVIFA,"Mycoplasma genitalium infection, proven macrolide and quinolone resistance",Infections - Agents for Systemic Use
 "Quadrivalent Influenza virus haemagglutinin, surface antigen, inactivated, prepared in cell cultures",/apptracker/s/application-public/a102P00000BUjqp,Prevention of influenza caused by Influenza Virus Types A and B,
 Quinidine Bisulphate,/apptracker/s/application-public/a102P000008ptxp,Brugada syndrome,Cardiovascular System
 Ribavirin,/apptracker/s/application-public/a10OZ0000002AHp,"Measles, complicated",Infections - Agents for Systemic Use
 Rotigotine,/apptracker/s/application-public/a102P00000BXb9N,Parkinson's disease,Nervous System
 Rotigotine,/apptracker/s/application-public/a102P00000BXb9h,Restless leg syndrome,Nervous System
+Ruxolitinib cream,/apptracker/s/application-public/a102P00000BYYgW,Vitiligo,
 SARS-CoV-2 rS (Omicron XBB.1.5),/apptracker/s/application-public/a10OZ000000N49N,prevention of COVID-19,
 SMA treatments,/apptracker/s/application-public/a10OZ0000000uVF,People with SMA type IV (aged 19 years and over at symptom onset),
 Secukinumab,/apptracker/s/application-public/a102P000008puMJ,"Ankylosing spondylitis, 1st biologic line",Musculoskeletal System
