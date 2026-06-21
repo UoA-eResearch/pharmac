@@ -18,6 +18,7 @@ Eliglustat,/apptracker/s/application-public/a10OZ0000011wKj,type 1 or type 3 Gau
 Emtricitabine - tenofovir alafenamide,/apptracker/s/application-public/a102P000008pucu,HIV treatment,Infections - Agents for Systemic Use
 Etonogestrel,/apptracker/s/application-public/a10OZ000003kaLJ,Contraception,
 Ferrous Sulfate 325mg with Ascorbic Acid 500mg,/apptracker/s/application-public/a102P000008ptyp,Open listing,Alimentary Tract and Metabolism
+Fortisip PlantBased,/apptracker/s/application-public/a10OZ000004o8Eb,"Oral nutrition support, vegan option",Special Foods
 HCU LOPHLEX POWDER,/apptracker/s/application-public/a102P00000ATdn0,Homocystinuria,Special Foods
 Homocystinuria (HCU) Cooler,/apptracker/s/application-public/a102P000008puTM,Homocystinuria (HCU),Special Foods
 Infliximab SC,/apptracker/s/application-public/a102P00000BQBeV,All currently funded indications (adults >18years),
@@ -32,14 +33,17 @@ MSUD LOPHLEX POWDER,/apptracker/s/application-public/a102P00000ATdqi,Maple Syrup
 Macitentan,/apptracker/s/application-public/a10OZ000001jcWn,Portopulmonary hypertension,
 "Mesalazine, granules, 2 g sachets",/apptracker/s/application-public/a102P000008ptyl,Inflammatory bowel disease and similar,Alimentary Tract and Metabolism
 Modafinil,/apptracker/s/application-public/a102P000008pu2H,Narcolepsy - first-line,Nervous System
+Momelotinib,/apptracker/s/application-public/a10OZ0000059XDB,"Primary myelofibrosis (MF), post-polycythaemia vera MF or post-essential thrombocythaemia MF, intermediate or high-risk, with moderate to severe anaemia, 1L (JAKi naive)",
 Nab-paclitaxel,/apptracker/s/application-public/a10OZ0000001REH,"Any cancer, contraindicated or intolerant to taxane chemotherapy",Oncology Agents and Immunosuppressants
 Nab-paclitaxel,/apptracker/s/application-public/a10OZ0000001RFt,"Any cancer, following grade 3+ hypersensitivity reaction on paclitaxel",Oncology Agents and Immunosuppressants
 Natalizumab (subcutaneous administration),/apptracker/s/application-public/a102P00000BYlWI,Relapsing-remitting multiple sclerosis (RRMS),Nervous System
+Netupitant/palonosetron,/apptracker/s/application-public/a10OZ000000umef,Prevention of acute and delayed nausea and vomiting associated with initial and repeat courses of highly emetogenic anti-cancer treatments,
 Nivolumab,/apptracker/s/application-public/a10OZ000002EQr7,"resected melanoma (Stage IIIB, IIIC, IIID or Stage IV), adjuvant to complete surgical resection.",
 Ofatumumab,/apptracker/s/application-public/a102P00000BXRxM,Relapsing Remitting Multiple Sclerosis (MS),Nervous System
 Oral Feed 1.5Kcal/ml - Fortijuce,/apptracker/s/application-public/a102P000008ptz9,Malnutrition,Special Foods
 Oral feed 1.5k cal/ml liquid,/apptracker/s/application-public/a102P000008pu3M,Cystic fibrosis patients > 10 years old,Special Foods
 Paracetamol 1000 mg with ibuprofen 300 mg in 100 mL solution for infusion,/apptracker/s/application-public/a102P00000A9y1G,Acute pain (hospital use),Nervous System
+Pembrolizumab (subcutaneous),/apptracker/s/application-public/a10OZ000005TUe9,All funded IV indications.,Oncology Agents and Immunosuppressants
 Pembrolizumab Axitinib,/apptracker/s/application-public/a10OZ000000APQ9,First line treatment of advanced clear cell renal cell carcinoma,Oncology Agents and Immunosuppressants
 Pembrolizumab Lenvatinib,/apptracker/s/application-public/a10OZ000000Ac41,"advanced clear cell renal cell carcinoma, first line",Oncology Agents and Immunosuppressants
 Prasugrel,/apptracker/s/application-public/a102P00000AnpIO,"Acute coronary syndrome, STEMI or non-STEMI",
@@ -50,14 +54,18 @@ Protein drink MSUD,/apptracker/s/application-public/a102P000008puac,Maple Syrup 
 Riboflavin,/apptracker/s/application-public/a102P00000Au6e0,Perioperative use (cystoscopy),Genito-Urinary System
 Rifampicin/Isoniazid/Pyrazinamide/Ethambutol - fixed dose combinations,/apptracker/s/application-public/a102P000008puVC,Tuberculosis,Infections - Agents for Systemic Use
 SYMBICORT® RAPIHALER® 100/3; metered aerosol inhaler,/apptracker/s/application-public/a102P00000AYn0Z,Asthma,Respiratory System and Allergies
+Sodium chloride oral liquid 2mmol/mL,/apptracker/s/application-public/a10OZ000000fkGb,"Sodium replacement, neonates and children",Blood and Blood Forming Organs
 Sofosbuvir with velpatasvir and voxilaprevir,/apptracker/s/application-public/a102P000008pu4P,"Hepatitis C, second-line after prior direct-acting antiviral treatment, NS5A resistance",Infections - Agents for Systemic Use
 Sofosbuvir with velpatasvir and voxilaprevir,/apptracker/s/application-public/a10OZ0000001QtJ,"Hepatitis C, second-line after prior direct-acting antiviral treatment",
 TYR LOPHLEX POWDER,/apptracker/s/application-public/a102P00000ATdkf,For use from 3 years of age and adults for the dietary management of Tyrosinaemia (TYR).,Special Foods
+Tadalafil,/apptracker/s/application-public/a102P000009fETx,Perioperative use in cardiac surgery patients,Cardiovascular System
+Tadalafil,/apptracker/s/application-public/a10OZ000006KQCb,Pulmonary arterial hypertension (PAH),
 Taurolidine and citrate,/apptracker/s/application-public/a102P000008puSV,Catheter lock solution,Blood and Blood Forming Organs
 Terbinafine creams and gels,/apptracker/s/application-public/a102P000008pu7b,Antifungal cream,Dermatologicals
 "Trastuzumab, subcutaneous",/apptracker/s/application-public/a102P000008ptpR,"Breast cancer, same indication as IV trastuzumab",Oncology Agents and Immunosuppressants
 Upadacitinib,/apptracker/s/application-public/a10OZ000000ul13,"Crohn's disease, severe, 1st line biologic",Alimentary Tract and Metabolism
 Varenicline Tartrate,/apptracker/s/application-public/a102P000008ptwz,"Smoking cessation, open-listing",Nervous System
 Vemurafenib and cobimetinib,/apptracker/s/application-public/a102P000008pu9e,"Melanoma, stage III/IV with BRAF V600 mutation",Oncology Agents and Immunosuppressants
+Whey Protein Concentrate (Unflavoured),/apptracker/s/application-public/a10OZ000002Q3Ir,"Protein supplement for protein losing enteropathy, high protein needs, or use as a component in a modular formula",Special Foods
 Zanubrutinib,/apptracker/s/application-public/a102P00000BahNf,"Relapsed or refractory chronic lymphocytic leukemia (CLL) or Small lymphocytic lymphoma (SLL) , 17p deletion or TP53 mutation disease, second line",
 Zanubrutinib,/apptracker/s/application-public/a102P00000BahwZ,"Relapsed or refractory chronic lymphocytic leukemia (CLL) or small lymphocytic lymphoma (SLL)﻿, third line",

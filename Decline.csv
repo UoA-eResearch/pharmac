@@ -8,12 +8,15 @@ Apixaban,/apptracker/s/application-public/a10OZ0000000XAT,End stage renal diseas
 Atezolizumab,/apptracker/s/application-public/a102P000008pufQ,"Urothelial carcinoma, locally advanced or metastatic, 2nd line",Oncology Agents and Immunosuppressants
 Atezolizumab,/apptracker/s/application-public/a102P00000BaPb0,"Non-Small Cell Lung Cancer (NSCLC), PD-L1 positive, Adjuvant treatment",Oncology Agents and Immunosuppressants
 Atezolizumab (with chemotherapy),/apptracker/s/application-public/a102P00000ANEYB,"Triple-negative breast cancer (TNBC), advanced or metastatic, PDL1 expression over 1%",Oncology Agents and Immunosuppressants
+Avacopan,/apptracker/s/application-public/a10OZ000006ApPB,"ANCA-associated vasculitis, high risk of adverse outcomes from high-dose steroid use",
 Azelastine hydrochloride with fluticasone propionate,/apptracker/s/application-public/a10OZ000003Nbd3,Adenoid hypertrophy,Respiratory System and Allergies
 Bee and wasp venom allergy treatment,/apptracker/s/application-public/a102P000008puiG,Removal of Special Authority,Respiratory System and Allergies
+Bevacizumab,/apptracker/s/application-public/a102P000008ptpo,"Metastatic colorectal cancer, neoadjuvant treatment for metastatic disease confined to the liver",Oncology Agents and Immunosuppressants
 Bevacizumab,/apptracker/s/application-public/a102P000008ptvh,"Glioblastoma multiforme, relapsed or recurrent",Oncology Agents and Immunosuppressants
 Bevacizumab with lomustine,/apptracker/s/application-public/a102P000008puCg,"High-grade glioma, relapsed or recurrent",Oncology Agents and Immunosuppressants
 Bruton tyrosine kinase inhibitor (BTKi),/apptracker/s/application-public/a10OZ000000LvBN,"Chronic lymphocytic leukaemia (CLL), without TP53 mutation, relapsed or refractory or experienced intolerable side effects to venetoclax plus rituximab",
 Buprenorphine patches,/apptracker/s/application-public/a102P000008ptrY,"Pain, persistent moderate/severe",Nervous System
+Cabozantinib,/apptracker/s/application-public/a10OZ000001XFHS,"advanced clear cell renal cancer, second line therapy",
 Cannabidiol with tetrahydrocannabinol,/apptracker/s/application-public/a102P000008ptyj,"Multiple sclerosis spasticity, epilepsy, pain and spasticity",Nervous System
 Carboxypeptidase G2,/apptracker/s/application-public/a102P000008pu4B,Methotrexate overdose,Oncology Agents and Immunosuppressants
 Cefuroxime,/apptracker/s/application-public/a102P000008puk7,"Endophthalmitis prophylaxis, post-cataract surgery",Sensory Organs
@@ -30,6 +33,8 @@ Dostarlimab-gxly,/apptracker/s/application-public/a10OZ000002WKQf,"Endometrial c
 Dupilumab,/apptracker/s/application-public/a102P00000BMJQf,"Moderate to severe atopic dermatitis, following 2nd line treatment(s)",Dermatologicals
 Dupilumab,/apptracker/s/application-public/a102P00000BMh6q,"Chronic rhinosinusitis with nasal polyps (CRSwNP), maintenance treatment of uncontrolled disease",Respiratory System and Allergies
 Esketamine,/apptracker/s/application-public/a10OZ0000001EDp,"treatment resistant depression, post augmentation",
+Everolimus,/apptracker/s/application-public/a102P000008pu1O,"Breast cancer, advanced, hormone receptor positive, HER-2 negative",Oncology Agents and Immunosuppressants
+Everolimus,/apptracker/s/application-public/a102P000008pu1O,"Breast cancer, advanced, hormone receptor positive, HER-2 negative",Oncology Agents and Immunosuppressants
 Fampridine,/apptracker/s/application-public/a102P000008puL3,Symptomatic walking improvement for people with MS,Musculoskeletal System
 Ferric Carboxymaltose,/apptracker/s/application-public/a10OZ000001SFLJ,"Hereditary Haemorrhagic Telangiectasia (HHT), serum ferritin 50 mcg/L or less or transferrin saturation is 20% or less, widening access",Blood and Blood Forming Organs
 Ferric carboxymaltose,/apptracker/s/application-public/a10OZ000003lVzX,"heart failure, without anaemia, with low serum ferritin",
@@ -38,7 +43,10 @@ Fixed duration ibrutinib plus venetoclax,/apptracker/s/application-public/a10OZ0
 "Fluticasone with Vilanterol, 200/25, high dose, severe asthma",/apptracker/s/application-public/a102P000008pu6h,Asthma,Respiratory System and Allergies
 Guselkumab,/apptracker/s/application-public/a10OZ0000001PUD,"First-line biologic, psoriatic arthritis where DMARDs are not effective",
 Ibrutinib,/apptracker/s/application-public/a102P000008pu1K,"Chronic lymphocytic leukaemia (CLL), previously untreated, chemoimmunotherapy is inappropriate (BTKi class recommendation received)",Oncology Agents and Immunosuppressants
+Ibrutinib,/apptracker/s/application-public/a102P00000BEpYC,"Waldenström macroglobulinaemia, first line",Oncology Agents and Immunosuppressants
+Ibrutinib,/apptracker/s/application-public/a102P00000BQ7KI,"Waldenström macroglobulinaemia, relapsed/refractory",Oncology Agents and Immunosuppressants
 Insulin pump (including consumables),/apptracker/s/application-public/a102P000008puM6,Diabetes during pregnancy,Alimentary Tract and Metabolism
+Ipilimumab in combination with nivolumab,/apptracker/s/application-public/a10OZ000000FBET,"metastatic kidney cancer with a clear cell component, with poor, intermediate and favourable  IMDC risk prognoses, first-line therapy,",Oncology Agents and Immunosuppressants
 Lacosamide,/apptracker/s/application-public/a102P000008pu5w,"Epilepsy, move up to 5th line",Nervous System
 Latex oral dams,/apptracker/s/application-public/a102P000008ptz7,Prevention of sexually transmitted infections,Genito-Urinary System
 Leptospermum - Active 100% (16+UMF MGO Manuka Honey),/apptracker/s/application-public/a102P00000BP6tQ,"1st and 2nd degree burns, pressure ulcers, wounds, and diabetic ulcers",Dermatologicals
@@ -66,12 +74,16 @@ Naloxone hydrochloride dihydrate nasal spray,/apptracker/s/application-public/a1
 Naloxone nasal spray,/apptracker/s/application-public/a102P00000BWuid,"Reversal of opioid overdose, use by emergency medical service personnel",Various
 Naltrexone hydrochloride,/apptracker/s/application-public/a102P000008pu3T,Opioid-induced constipation and treatment-resistant cholestasis,Alimentary Tract and Metabolism
 Netupitant/palonosetron,/apptracker/s/application-public/a10OZ0000000WPh,Prevention of acute and delayed nausea and vomiting associated with initial and repeat courses of moderately emetogenic anti-cancer treatments,
+Nivolumab,/apptracker/s/application-public/a10OZ0000038WPB,"Unresectable or metastatic urothelial carcinoma, first line, with cisplatin chemotherapy",
 Nivolumab (with chemotherapy),/apptracker/s/application-public/a10OZ000004a5zl,"Oesophageal adenocarcinoma and gastric/gastro-oesophageal junction cancers, advanced/metastatic, 1st line",Oncology Agents and Immunosuppressants
 Nivolumab (with chemotherapy),/apptracker/s/application-public/a10OZ000004a7of,"Oesophageal squamous cell carcinoma, advanced, 1st line",Oncology Agents and Immunosuppressants
+PDE5 inhibitors,/apptracker/s/application-public/a10OZ000000AjBx,"Erectile dysfunction, following prostate cancer treatment",Cardiovascular System
 Pegylated liposomal doxorubicin,/apptracker/s/application-public/a102P000008ptxY,Advanced epithelial ovarian cancer (3rd-line treatment) - platinum resistant,Oncology Agents and Immunosuppressants
 Pegylated liposomal doxorubicin,/apptracker/s/application-public/a102P000008ptxf,"Ovarian cancer, advanced, epithelial, platinum sensitive/ partially sensitive/ intolerant, third line",Oncology Agents and Immunosuppressants
 Pembrolizumab,/apptracker/s/application-public/a102P00000BNzRH,"Esophagus or gastroesophageal junction cancer, PD-L1 CPS≥10, locally advanced unresectable or metastatic, 1st line",Oncology Agents and Immunosuppressants
 Pembrolizumab,/apptracker/s/application-public/a102P00000BQMFj,Pembrolizumab in combination with chemotherapy for those with recurrent or metastatic head and neck squamous cell carcinoma irrespective of Combined Positive Score (ie. an all-comers population),
+Pembrolizumab,/apptracker/s/application-public/a102P00000BW4LK,"Pancreatic adenocarcinoma, metastatic MMR deficient, Stage 4",Oncology Agents and Immunosuppressants
+Perampanel,/apptracker/s/application-public/a102P00000AeZru,"Generalised epilepsy, with complex myoclonic seizures",
 Physostigmine,/apptracker/s/application-public/a102P00000BUk5r,Moderate to severe simultaneous central and peripheral anticholinergic toxicity when the toxicity is only due to anticholinergic poisoning,Various
 Pristinamycin,/apptracker/s/application-public/a102P00000BVIFA,"Mycoplasma genitalium infection, proven macrolide and quinolone resistance",Infections - Agents for Systemic Use
 "Quadrivalent Influenza virus haemagglutinin, surface antigen, inactivated, prepared in cell cultures",/apptracker/s/application-public/a102P00000BUjqp,Prevention of influenza caused by Influenza Virus Types A and B,
@@ -84,6 +96,9 @@ SARS-CoV-2 rS (Omicron XBB.1.5),/apptracker/s/application-public/a10OZ000000N49N
 SMA treatments,/apptracker/s/application-public/a10OZ0000000uVF,People with SMA type IV (aged 19 years and over at symptom onset),
 Secukinumab,/apptracker/s/application-public/a102P000008puMJ,"Ankylosing spondylitis, 1st biologic line",Musculoskeletal System
 Secukinumab,/apptracker/s/application-public/a10OZ000002qLdW,"moderate to severe hidradenitis suppurativa, first-line biologic treatment",Dermatologicals
+Selexipag,/apptracker/s/application-public/a102P000008ptpc,Pulmonary arterial hypertension - dual therapy,Cardiovascular System
+Selexipag,/apptracker/s/application-public/a102P000008puAq,Pulmonary arterial hypertension - triple therapy,Cardiovascular System
+Selexipag,/apptracker/s/application-public/a102P000008puLz,Pulmonary arterial hypertension - monotherapy,Cardiovascular System
 Sofosbuvir,/apptracker/s/application-public/a102P000008pu04,"Hepatitis C, direct-acting antiviral",Infections - Agents for Systemic Use
 Sofosbuvir,/apptracker/s/application-public/a10OZ0000001Quv,"Hepatitis C, second-line treatment in combination with glecaprevir and pibrentasvir after prior direct-acting antiviral treatment",
 "Sunitinib, pazopanib",/apptracker/s/application-public/a102P00000AUfIW,"Renal cell carcinoma (RCC), advanced or metastatic, 2nd line after prior TKI treatment",Oncology Agents and Immunosuppressants
@@ -91,6 +106,8 @@ Sofosbuvir,/apptracker/s/application-public/a10OZ0000001Quv,"Hepatitis C, second
 Trastuzumab,/apptracker/s/application-public/a102P000008ptzX,Breast cancer-treatment beyond disease progression,Oncology Agents and Immunosuppressants
 Valganciclovir oral solution,/apptracker/s/application-public/a10OZ0000000xJR,Cytomegalovirus,Infections - Agents for Systemic Use
 Vemurafenib,/apptracker/s/application-public/a102P000008puJX,"Melanoma, Stage IIIC/IV with BRAF V600 mutation",Oncology Agents and Immunosuppressants
+Zanubrutinib,/apptracker/s/application-public/a102P00000BaLcj,"Waldenström macroglobulinaemia, relapsed or refractory",Oncology Agents and Immunosuppressants
+Zanubrutinib,/apptracker/s/application-public/a102P00000BaZ6c,"Waldenström macroglobulinaemia, first-line treatment for patients unsuitable or unable to receive chemoimmunotherapy",Oncology Agents and Immunosuppressants
 Ziv Aflibercept  (Aflibercept),/apptracker/s/application-public/a102P00000BQki1,Ocular neovascularisation,
 pembrolizumab,/apptracker/s/application-public/a10OZ000001jcQL,"First line persistent, recurrent or metastatic cervical cancer in addition to chemotherapy, for patients with a PD-L1 combined positive score of 1 or more, with bevacizumab",Oncology Agents and Immunosuppressants
 tacrolimus prolonged - release capsules,/apptracker/s/application-public/a102P00000BXyQv,Immunosuppresssion for all adolescents and young adults ( 12 - 30 years) living with solid organ transplants in New Zealand.,Oncology Agents and Immunosuppressants
