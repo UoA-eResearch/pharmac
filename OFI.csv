@@ -113,10 +113,6 @@ Pneumococcal vaccine (PCV13),/apptracker/s/application-public/a102P00000BZUOn,"P
 Prednisolone oral liquid,/apptracker/s/application-public/a102P000008ptqh,Removal of restrictions,,,,Hormone Preparations - Systemic Excluding Contraceptive Hormones
 Prucalopride succinate,/apptracker/s/application-public/a102P000008ptz8,Chronic slow transit constipation,,,,Alimentary Tract and Metabolism
 Raltitrexed,/apptracker/s/application-public/a102P000008pua2,"Colorectal cancer, intolerant or contraindicated to fluoropyrimidine due to cardiac toxicity",,,,Oncology Agents and Immunosuppressants
-Recombinant Zoster Vaccine,/apptracker/s/application-public/a102P00000BUKp9,People over 65 years of age who require a Shingrix catch-up at least 5 years post Zostavax,,,,National Immunisation Schedule
-Recombinant Zoster Vaccine,/apptracker/s/application-public/a102P00000BUKrt,"Prevention of herpes zoster and post-herpetic neuralgia, people at 50 years of age and a catch-up program  for people 51 to 64 years",,,,National Immunisation Schedule
-Recombinant Zoster Vaccine,/apptracker/s/application-public/a10OZ000000UvLp,Catch-up programme due to COVID-19 pandemic disruption,,,,
-Recombinant Zoster Vaccine,/apptracker/s/application-public/a10OZ000000ioHF,"Prevention of herpes zoster in adults aged 66 to 74 years, plus catch up for those aged 75 years and over",,,,
 Ring pessary,/apptracker/s/application-public/a102P00000Au6xl,"Treatment for pelvic prolapse, vaginal or rectal in women",,,,Genito-Urinary System
 Ripretinib,/apptracker/s/application-public/a102P00000BNzPa,For people with advanced metastatic or unresectable GIST who have experienced disease progression following treatment with imatinib and sunitinib,,,,Oncology Agents and Immunosuppressants
 Risankizumab,/apptracker/s/application-public/a102P000008puXW,"Chronic plaque psoriasis, 1st line biologic",,,,Dermatologicals
@@ -154,6 +150,10 @@ Upadacitinib,/apptracker/s/application-public/a102P00000BX0wJ,"Rheumatoid arthri
 Ustekinumab,/apptracker/s/application-public/a102P000008pucX,"Psoriasis, chronic plaque, 1st line",,,,Dermatologicals
 Ustekinumab,/apptracker/s/application-public/a10OZ000000H0lC,"Psoriasis, chronic plaque, 2nd line",,,,
 Vancomycin oral capsule,/apptracker/s/application-public/a10OZ000004eaaL,For treatment of clostridium difficile diarrhoea,,,,
+Varicella zoster vaccine [Shingles vaccine],/apptracker/s/application-public/a102P00000BUKp9,People over 65 years of age who require a Shingrix catch-up at least 5 years post Zostavax,,,,National Immunisation Schedule
+Varicella zoster vaccine [Shingles vaccine],/apptracker/s/application-public/a102P00000BUKrt,"Prevention of herpes zoster and post-herpetic neuralgia, people at 50 years of age and a catch-up program  for people 51 to 64 years",,,,National Immunisation Schedule
+Varicella zoster vaccine [Shingles vaccine],/apptracker/s/application-public/a10OZ000000UvLp,Catch-up programme due to COVID-19 pandemic disruption,,,,National Immunisation Schedule
+Varicella zoster vaccine [Shingles vaccine],/apptracker/s/application-public/a10OZ000000ioHF,"Prevention of herpes zoster in adults aged 66 to 74 years, plus catch up for those aged 75 years and over",,,,National Immunisation Schedule
 Vismodegib,/apptracker/s/application-public/a102P000008puDo,"Basal cell carcinoma, locally advanced or metastatic",,,,Oncology Agents and Immunosuppressants
 Voretigene neparvovec,/apptracker/s/application-public/a102P00000BXTtD,"Inherited retinal dystrophy, biallelic RPE65 mutations",,,,Sensory Organs
 Zanubrutinib,/apptracker/s/application-public/a102P00000BaaQE,Relapsed or refractory mantle cell lymphoma (R/R MCL),,,,Oncology Agents and Immunosuppressants
