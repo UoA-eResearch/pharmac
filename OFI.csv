@@ -16,7 +16,9 @@ Atogepant,/apptracker/s/application-public/a10OZ00000019E9,Episodic migraine pre
 Atogepant,/apptracker/s/application-public/a10OZ00000019Fl,Chronic migraine prevention,,,,Nervous System
 Azelastine hydrochloride with fluticasone propionate,/apptracker/s/application-public/a10OZ000000Um41,Rhinitis or rhinoconjunctivitis not adequately responding to standard treatments,,,,Respiratory System and Allergies
 Benralizumab,/apptracker/s/application-public/a102P00000BNz5p,"Eosinophilic asthma, ACT and >300 cells/ul eosinophil count criteria (widening access)",,,,Oncology Agents and Immunosuppressants
+Benralizumab,/apptracker/s/application-public/a10OZ000004QmwL,"Eosinophilic granulomatosis with polyangiitis (EGPA) - widening access, 2nd line",,,,Respiratory System and Allergies
 Benralizumab and mepolizumab,/apptracker/s/application-public/a10OZ000002Be2c,"Severe eosinophilic asthma, second biologic line",,,,Respiratory System and Allergies
+"Benzocaine with phenazone, ear drops",/apptracker/s/application-public/a102P00000BauiC,Otitis media or otalgia,,,,Sensory Organs
 Bevacizumab,/apptracker/s/application-public/a102P000008ptxU,"Cervical cancer, advanced",,,,Oncology Agents and Immunosuppressants
 Bevacizumab,/apptracker/s/application-public/a102P00000BTk6R,"Ovarian cancer, advanced, recurrent",,,,Oncology Agents and Immunosuppressants
 Bruton tyrosine kinase inhibitor (BTKi),/apptracker/s/application-public/a10OZ000000LuNN,"Chronic lymphocytic leukaemia (CLL), first-line, without TP53 mutation",,,,Oncology Agents and Immunosuppressants
@@ -34,6 +36,7 @@ Carglumic acid,/apptracker/s/application-public/a102P000008pu8I,Hyperammonaemia 
 Carglumic acid,/apptracker/s/application-public/a102P000008pubu,"Hyperammonaemia resulting from isovaleric, methylmalonic and propionic organic acidaemias",,,,Alimentary Tract and Metabolism
 Ceftolozane with tazobactam,/apptracker/s/application-public/a102P000008puSW,Significant infections due to multi-resistant aerobic Gram-negative organisms,,,,Infections - Agents for Systemic Use
 Ciclosporin eye preparation,/apptracker/s/application-public/a102P000008pu7u,"Severe keratoconjunctivitis sicca, severe atopic keratoconjunctivitis and severe vernal keratoconjunctivitis",,,,Sensory Organs
+Cinacalcet,/apptracker/s/application-public/a102P000008pu8a,"Calciphylaxis, widening access - remove serum calcium level requirement and remove requirement to try other treatments",,,,Hormone Preparations - Systemic Excluding Contraceptive Hormones
 Crovalimab,/apptracker/s/application-public/a10OZ000004CDaH,Paroxysmal nocturnal haemoglobinuria (PNH),,,,
 Daratumumab,/apptracker/s/application-public/a10OZ0000001LOz,2L SC + 4L IV - Multiple Myeloma relapsed or refractory,,,,
 "Daratumumab (in combination with bortezomib, cyclophosphamide and dexamethasone)",/apptracker/s/application-public/a102P00000BD1Sr,"AL amyloidosis, first-line",,,,Oncology Agents and Immunosuppressants
@@ -95,11 +98,14 @@ Non-latex condoms,/apptracker/s/application-public/a102P000008puaC,Sexually tran
 Onasemnogene abeparvovec,/apptracker/s/application-public/a102P00000BY8r2,"Spinal muscular atrophy (SMA), pre-symptomatic or type 1",,,,Nervous System
 Oral feed 1.5k cal/ml liquid ONS,/apptracker/s/application-public/a102P000008ptz6,Head and neck cancer,,,,Special Foods
 Oral feed 2.4kcal/mL (Fortisip Compact Protein),/apptracker/s/application-public/a10OZ000000wbgj,for oral nutrition support,,,,
+PD-1 inhibitor-based combination therapy,/apptracker/s/application-public/a10OZ00000CJcsJ,first-line treatment of advanced or metastatic non-epithelioid malignant pleural mesothelioma,,,,Oncology Agents and Immunosuppressants
 Paliperidone  (three monthly depot),/apptracker/s/application-public/a102P00000Baahe,Schizoaffective disorder,,,,Nervous System
 Pegunigalsidase alfa-iwxj,/apptracker/s/application-public/a10OZ00000466q1,Fabry Disease,,,,
 Pembrolizumab,/apptracker/s/application-public/a102P00000BYrky,"Breast cancer, triple negative, early Stage II or III, neoadjuvant treatment followed by adjuvant monotherapy",,,,Oncology Agents and Immunosuppressants
+Pembrolizumab,/apptracker/s/application-public/a102P00000BYyXy,1st line systemic treatment for recurrent locally advanced (not amendable to definitive treatment) or metastatic merkel cell carcinoma,,,,
 Pembrolizumab,/apptracker/s/application-public/a102P00000BajR0,Biliary tract cancer,,,,Oncology Agents and Immunosuppressants
 Pembrolizumab,/apptracker/s/application-public/a10OZ00000010ij,"First line persistent, recurrent or metastatic cervical cancer in addition to chemotherapy, for patients with a PD-L1 combined positive score of 1 or more.",,,,Oncology Agents and Immunosuppressants
+Pembrolizumab or Nivolumab,/apptracker/s/application-public/a10OZ000008JQS1,Pembrolizumab or nivolumab - first line treatment of oesophageal or gastroesophageal junction cancer (including squamous cell carcinoma and adenocarcinoma) or gastric cancer,,,,
 Perampanel,/apptracker/s/application-public/a102P00000AlVHF,Focal epilepsy,,,,Nervous System
 Perampanel,/apptracker/s/application-public/a102P00000AlVIh,Generalised epilepsy,,,,Nervous System
 Pertussis-containing vaccine,/apptracker/s/application-public/a10OZ000003t4vh,Additional dose of pertussis-containing vaccine in the second year of life: Widening access ,,,,National Immunisation Schedule
@@ -151,6 +157,7 @@ Varicella zoster vaccine [Shingles vaccine],/apptracker/s/application-public/a10
 Varicella zoster vaccine [Shingles vaccine],/apptracker/s/application-public/a102P00000BUKrt,"Prevention of herpes zoster and post-herpetic neuralgia, people at 50 years of age and a catch-up program  for people 51 to 64 years",,,,National Immunisation Schedule
 Varicella zoster vaccine [Shingles vaccine],/apptracker/s/application-public/a10OZ000000UvLp,Catch-up programme due to COVID-19 pandemic disruption,,,,National Immunisation Schedule
 Varicella zoster vaccine [Shingles vaccine],/apptracker/s/application-public/a10OZ000000ioHF,"Prevention of herpes zoster in adults aged 66 to 74 years, plus catch up for those aged 75 years and over",,,,National Immunisation Schedule
+Venetoclax (with rituximab),/apptracker/s/application-public/a102P00000BZUPC,"Chronic lymphocytic leukaemia (CLL) without TP53 mutation, retreatment at relapse following prior treatment with venetoclax plus rituximab (venR) (third line)",,,,Oncology Agents and Immunosuppressants
 Vismodegib,/apptracker/s/application-public/a102P000008puDo,"Basal cell carcinoma, locally advanced or metastatic",,,,Oncology Agents and Immunosuppressants
 Voretigene neparvovec,/apptracker/s/application-public/a102P00000BXTtD,"Inherited retinal dystrophy, biallelic RPE65 mutations",,,,Sensory Organs
 Zanubrutinib,/apptracker/s/application-public/a102P00000BaaQE,Relapsed or refractory mantle cell lymphoma (R/R MCL),,,,Oncology Agents and Immunosuppressants
