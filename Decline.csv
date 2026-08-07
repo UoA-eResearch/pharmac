@@ -2,11 +2,9 @@ Chemical_Name,Community_URL,Indication,Indications_for_listing,Not_Accepted_Reas
 "7% hypertonic saline solution (sodium chloride), 4 mL single-use vial",/apptracker/s/application-public/a10OZ000002Q317,Nebulisation for adjunctive therapy in cystic fibrosis and non-CF bronchiectasis,,,,Respiratory System and Allergies
 AdVital (special food product),/apptracker/s/application-public/a102P000008ptpj,Malnutrition with taste fatigue,,,,Special Foods
 AdVital (special food product),/apptracker/s/application-public/a102P000008puWi,"Malnutrition, peri-surgery, tube feeding, and similar",,,,Special Foods
-Aflibercept,/apptracker/s/application-public/a102P000008pudS,"Wet age-related macular degeneration, 3rd-line",,,,Sensory Organs
 Alemtuzumab,/apptracker/s/application-public/a102P000008puRJ,Chronic lymphocytic leukaemia (CLL) (3rd-line treatment),,,,Oncology Agents and Immunosuppressants
 Alglucosidase alfa,/apptracker/s/application-public/a102P000008pujd,Pompe's disease,,,,Alimentary Tract and Metabolism
 Apixaban,/apptracker/s/application-public/a10OZ0000000XAT,End stage renal disease (ESRD) or intolerable side effects from dabigatran and rivaroxaban,,,,Blood and Blood Forming Organs
-Atezolizumab,/apptracker/s/application-public/a102P000008pufQ,"Urothelial carcinoma, locally advanced or metastatic, 2nd line",,,,Oncology Agents and Immunosuppressants
 Atezolizumab,/apptracker/s/application-public/a102P00000BaPb0,"Non-Small Cell Lung Cancer (NSCLC), PD-L1 positive, Adjuvant treatment",,,,Oncology Agents and Immunosuppressants
 Atezolizumab (with chemotherapy),/apptracker/s/application-public/a102P00000ANEYB,"Triple-negative breast cancer (TNBC), advanced or metastatic, PDL1 expression over 1%",,,,Oncology Agents and Immunosuppressants
 Avacopan,/apptracker/s/application-public/a10OZ000006ApPB,"ANCA-associated vasculitis, high risk of adverse outcomes from high-dose steroid use",,,,
@@ -20,12 +18,10 @@ Buprenorphine patches,/apptracker/s/application-public/a102P000008ptrY,"Pain, pe
 Cabozantinib,/apptracker/s/application-public/a10OZ000001XFHS,"advanced clear cell renal cancer, second line therapy",,,,
 Cannabidiol with tetrahydrocannabinol,/apptracker/s/application-public/a102P000008ptyj,"Multiple sclerosis spasticity, epilepsy, pain and spasticity",,,,Nervous System
 Carboxypeptidase G2,/apptracker/s/application-public/a102P000008pu4B,Methotrexate overdose,,,,Oncology Agents and Immunosuppressants
-Cefuroxime,/apptracker/s/application-public/a102P000008puk7,"Endophthalmitis prophylaxis, post-cataract surgery",,,,Sensory Organs
 Clindamycin vaginal cream,/apptracker/s/application-public/a102P000008ptyF,Bacterial vaginosis and desquamative inflammatory vaginitis,,,,Genito-Urinary System
 Crisantaspase (Erwinia L-asparaginase),/apptracker/s/application-public/a102P000008puKX,"Acute lymphoblastic leukemia, allergic to L-asparaginase",,,,Oncology Agents and Immunosuppressants
 Cyanocobalamin (1mg sub-lingual),/apptracker/s/application-public/a10OZ000000witV,Vitamin B12 deficiency,,,,Alimentary Tract and Metabolism
 D-mannose,/apptracker/s/application-public/a102P000008puQG,"Cystitis, uncomplicated during pregnancy or associated neurogenic bladder",,,,Infections - Agents for Systemic Use
-Dabrafenib,/apptracker/s/application-public/a102P000008pu2y,"Melanoma, stage III/IV with BRAF V600 mutation",,,,Oncology Agents and Immunosuppressants
 Deflazacort,/apptracker/s/application-public/a102P000008pujy,Duchenne muscular dystrophy,,,,Musculoskeletal System
 Desmopressin,/apptracker/s/application-public/a10OZ000000qI8v,"Arginine vasopressin deficiency (previously central diabetes insipidus), 60mcg and 240mcg desmopressin wafers for dose titration",,,,
 Dexcom G5 Continuous Glucose Monitors,/apptracker/s/application-public/a102P00000BBg62,Type 2 diabetes,,,,Alimentary Tract and Metabolism
@@ -34,12 +30,10 @@ Dostarlimab-gxly,/apptracker/s/application-public/a10OZ000002WKQf,"Endometrial c
 Dupilumab,/apptracker/s/application-public/a102P00000BMJQf,"Moderate to severe atopic dermatitis, following 2nd line treatment(s)",,,,Dermatologicals
 Dupilumab,/apptracker/s/application-public/a102P00000BMh6q,"Chronic rhinosinusitis with nasal polyps (CRSwNP), maintenance treatment of uncontrolled disease",,,,Respiratory System and Allergies
 Everolimus,/apptracker/s/application-public/a102P000008pu1O,"Breast cancer, advanced, hormone receptor positive, HER-2 negative",,,,Oncology Agents and Immunosuppressants
-Fampridine,/apptracker/s/application-public/a102P000008puL3,Symptomatic walking improvement for people with MS,,,,Musculoskeletal System
 Ferric Carboxymaltose,/apptracker/s/application-public/a10OZ000001SFLJ,"Hereditary Haemorrhagic Telangiectasia (HHT), serum ferritin 50 mcg/L or less or transferrin saturation is 20% or less, widening access",,,,Blood and Blood Forming Organs
 Ferric carboxymaltose,/apptracker/s/application-public/a10OZ000003lVzX,"heart failure, without anaemia, with low serum ferritin",,,,
 Fexofenadine hydrochloride,/apptracker/s/application-public/a102P00000AX1tz,"Urticaria, children aged 6 months to 2 years",,,,
 "Fluticasone with Vilanterol, 200/25, high dose, severe asthma",/apptracker/s/application-public/a102P000008pu6h,Asthma,,,,Respiratory System and Allergies
-Guselkumab,/apptracker/s/application-public/a10OZ0000001PUD,"First-line biologic, psoriatic arthritis where DMARDs are not effective",,,,
 Hepatitis A vaccine,/apptracker/s/application-public/a102P000008pu4n,Widened access to at-risk groups,,,,National Immunisation Schedule
 Hepatitis A vaccine,/apptracker/s/application-public/a102P000008puOU,Immunisation of HIV patients,,,,National Immunisation Schedule
 Ibrutinib,/apptracker/s/application-public/a102P000008pu1K,"Chronic lymphocytic leukaemia (CLL), previously untreated, chemoimmunotherapy is inappropriate (BTKi class recommendation received)",,,,Oncology Agents and Immunosuppressants
@@ -96,8 +90,6 @@ Rotigotine,/apptracker/s/application-public/a102P00000BXb9N,Parkinson's disease,
 Rotigotine,/apptracker/s/application-public/a102P00000BXb9h,Restless leg syndrome,,,,Nervous System
 Ruxolitinib cream,/apptracker/s/application-public/a102P00000BYYgW,Vitiligo,,,,
 SARS-CoV-2 rS (Omicron XBB.1.5),/apptracker/s/application-public/a10OZ000000N49N,prevention of COVID-19,,,,
-SMA treatments,/apptracker/s/application-public/a10OZ0000000uVF,People with SMA type IV (aged 19 years and over at symptom onset),,,,
-Secukinumab,/apptracker/s/application-public/a102P000008puMJ,"Ankylosing spondylitis, 1st biologic line",,,,Musculoskeletal System
 Secukinumab,/apptracker/s/application-public/a10OZ000002qLdW,"moderate to severe hidradenitis suppurativa, first-line biologic treatment",,,,Dermatologicals
 Selexipag,/apptracker/s/application-public/a102P000008ptpc,Pulmonary arterial hypertension - dual therapy,,,,Cardiovascular System
 Selexipag,/apptracker/s/application-public/a102P000008puAq,Pulmonary arterial hypertension - triple therapy,,,,Cardiovascular System
@@ -107,7 +99,6 @@ Sofosbuvir,/apptracker/s/application-public/a10OZ0000001Quv,"Hepatitis C, second
 "Topical non-steroidal anti-inflammatory drugs (NSAIDs) - Diclofenac, Ibuprofen, Ketoprofen, Piroxicam",/apptracker/s/application-public/a102P000008puNS,Osteoarthritis,,,,Musculoskeletal System
 Trastuzumab,/apptracker/s/application-public/a102P000008ptzX,Breast cancer-treatment beyond disease progression,,,,Oncology Agents and Immunosuppressants
 Valganciclovir oral solution,/apptracker/s/application-public/a10OZ0000000xJR,Cytomegalovirus,,,,Infections - Agents for Systemic Use
-Vemurafenib,/apptracker/s/application-public/a102P000008puJX,"Melanoma, Stage IIIC/IV with BRAF V600 mutation",,,,Oncology Agents and Immunosuppressants
 Zanubrutinib,/apptracker/s/application-public/a102P00000BaLcj,"Waldenström macroglobulinaemia, relapsed or refractory",,,,Oncology Agents and Immunosuppressants
 Zanubrutinib,/apptracker/s/application-public/a102P00000BaZ6c,"Waldenström macroglobulinaemia, first-line treatment for patients unsuitable or unable to receive chemoimmunotherapy",,,,Oncology Agents and Immunosuppressants
 Ziv Aflibercept  (Aflibercept),/apptracker/s/application-public/a102P00000BQki1,Ocular neovascularisation,,,,
