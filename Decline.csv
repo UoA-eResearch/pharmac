@@ -1,4 +1,5 @@
 Chemical_Name,Community_URL,Indication,Indications_for_listing,Not_Accepted_Reason,Registered_name_of_active_ingredient,Therapeutic_group
+"7% hypertonic saline solution (sodium chloride), 4 mL single-use vial",/apptracker/s/application-public/a10OZ000002Q317,Nebulisation for adjunctive therapy in cystic fibrosis and non-CF bronchiectasis,,,,Respiratory System and Allergies
 AdVital (special food product),/apptracker/s/application-public/a102P000008ptpj,Malnutrition with taste fatigue,,,,Special Foods
 AdVital (special food product),/apptracker/s/application-public/a102P000008puWi,"Malnutrition, peri-surgery, tube feeding, and similar",,,,Special Foods
 Aflibercept,/apptracker/s/application-public/a102P000008pudS,"Wet age-related macular degeneration, 3rd-line",,,,Sensory Organs
@@ -40,11 +41,14 @@ Ferric carboxymaltose,/apptracker/s/application-public/a10OZ000003lVzX,"heart fa
 Fexofenadine hydrochloride,/apptracker/s/application-public/a102P00000AX1tz,"Urticaria, children aged 6 months to 2 years",,,,
 "Fluticasone with Vilanterol, 200/25, high dose, severe asthma",/apptracker/s/application-public/a102P000008pu6h,Asthma,,,,Respiratory System and Allergies
 Guselkumab,/apptracker/s/application-public/a10OZ0000001PUD,"First-line biologic, psoriatic arthritis where DMARDs are not effective",,,,
+Hepatitis A vaccine,/apptracker/s/application-public/a102P000008pu4n,Widened access to at-risk groups,,,,National Immunisation Schedule
+Hepatitis A vaccine,/apptracker/s/application-public/a102P000008puOU,Immunisation of HIV patients,,,,National Immunisation Schedule
 Ibrutinib,/apptracker/s/application-public/a102P000008pu1K,"Chronic lymphocytic leukaemia (CLL), previously untreated, chemoimmunotherapy is inappropriate (BTKi class recommendation received)",,,,Oncology Agents and Immunosuppressants
 Ibrutinib,/apptracker/s/application-public/a102P00000BEpYC,"Waldenström macroglobulinaemia, first line",,,,Oncology Agents and Immunosuppressants
 Ibrutinib,/apptracker/s/application-public/a102P00000BQ7KI,"Waldenström macroglobulinaemia, relapsed/refractory",,,,Oncology Agents and Immunosuppressants
 Insulin pump (including consumables),/apptracker/s/application-public/a102P000008puM6,Diabetes during pregnancy,,,,Alimentary Tract and Metabolism
 Ipilimumab in combination with nivolumab,/apptracker/s/application-public/a10OZ000000FBET,"metastatic kidney cancer with a clear cell component, with poor, intermediate and favourable  IMDC risk prognoses, first-line therapy,",,,,Oncology Agents and Immunosuppressants
+Ivabradine,/apptracker/s/application-public/a102P000008ptpB,Inappropriate sinus tachycardia (IST),,,,Cardiovascular System
 Lacosamide,/apptracker/s/application-public/a102P000008pu5w,"Epilepsy, move up to 5th line",,,,Nervous System
 Latex oral dams,/apptracker/s/application-public/a102P000008ptz7,Prevention of sexually transmitted infections,,,,Genito-Urinary System
 Leptospermum - Active 100% (16+UMF MGO Manuka Honey),/apptracker/s/application-public/a102P00000BP6tQ,"1st and 2nd degree burns, pressure ulcers, wounds, and diabetic ulcers",,,,Dermatologicals
@@ -62,6 +66,7 @@ Memantine hydrochloride,/apptracker/s/application-public/a102P00000BVtzr,"Dement
 Memantine hydrochloride,/apptracker/s/application-public/a102P00000BVu0Q,"Dementia, moderate, cholinesterases not tolerable",,,,Nervous System
 Meningococcal B multicomponent vaccine,/apptracker/s/application-public/a10OZ0000000NB7,All adolescents 13-25 years,,,,National Immunisation Schedule
 Methoxyflurane,/apptracker/s/application-public/a102P000008puQf,Pain relief,,,,Nervous System
+Methylphenidate long-acting,/apptracker/s/application-public/a10OZ000001Zasr,Widening access - first line treatment option for Attention Deficit and Hyperactivity Disorder (ADHD),,,,
 Metronidazole,/apptracker/s/application-public/a102P000008puDF,Fungating wounds,,,,Dermatologicals
 Metronidazole,/apptracker/s/application-public/a102P000008puaY,Bacterial vaginosis,,,,Genito-Urinary System
 Micronutrient formulas,/apptracker/s/application-public/a102P000008puPl,ADHD and or mood dysregulation,,,,Nervous System
@@ -76,17 +81,22 @@ Netupitant/palonosetron,/apptracker/s/application-public/a10OZ0000000WPh,Prevent
 Nivolumab,/apptracker/s/application-public/a10OZ0000038WPB,"Unresectable or metastatic urothelial carcinoma, first line, with cisplatin chemotherapy",,,,
 Nivolumab (with chemotherapy),/apptracker/s/application-public/a10OZ000004a5zl,"Oesophageal adenocarcinoma and gastric/gastro-oesophageal junction cancers, advanced/metastatic, 1st line",,,,Oncology Agents and Immunosuppressants
 Nivolumab (with chemotherapy),/apptracker/s/application-public/a10OZ000004a7of,"Oesophageal squamous cell carcinoma, advanced, 1st line",,,,Oncology Agents and Immunosuppressants
+Nivolumab Ipilimumab,/apptracker/s/application-public/a10OZ000002ERaH,"Mesothelioma, unresectable, malignant, all histological subtypes",,,,Oncology Agents and Immunosuppressants
+Nivolumab Ipilimumab,/apptracker/s/application-public/a10OZ000004Qm6j,"Mesothelioma, unresectable, malignant (sarcomatoid or biphasic subtypes)",,,,Oncology Agents and Immunosuppressants
 PDE5 inhibitors,/apptracker/s/application-public/a10OZ000000AjBx,"Erectile dysfunction, following prostate cancer treatment",,,,Cardiovascular System
 Pegylated liposomal doxorubicin,/apptracker/s/application-public/a102P000008ptxY,Advanced epithelial ovarian cancer (3rd-line treatment) - platinum resistant,,,,Oncology Agents and Immunosuppressants
 Pegylated liposomal doxorubicin,/apptracker/s/application-public/a102P000008ptxf,"Ovarian cancer, advanced, epithelial, platinum sensitive/ partially sensitive/ intolerant, third line",,,,Oncology Agents and Immunosuppressants
 Pembrolizumab,/apptracker/s/application-public/a102P00000BNzRH,"Esophagus or gastroesophageal junction cancer, PD-L1 CPS≥10, locally advanced unresectable or metastatic, 1st line",,,,Oncology Agents and Immunosuppressants
 Pembrolizumab,/apptracker/s/application-public/a102P00000BQMFj,Pembrolizumab in combination with chemotherapy for those with recurrent or metastatic head and neck squamous cell carcinoma irrespective of Combined Positive Score (ie. an all-comers population),,,,
 Pembrolizumab,/apptracker/s/application-public/a102P00000BW4LK,"Pancreatic adenocarcinoma, metastatic MMR deficient, Stage 4",,,,Oncology Agents and Immunosuppressants
+Pembrolizumab (with pemetrexed and chemotherapy),/apptracker/s/application-public/a10OZ000004iMLt,"Malignant pleural mesothelioma, non-epithelioid histological subtypes, unresectable advanced, 1st line",,,,Oncology Agents and Immunosuppressants
+Pembrolizumab (with pemetrexed and chemotherapy),/apptracker/s/application-public/a10OZ000006KWoH,"Malignant pleural mesothelioma, all histological subtypes, unresectable advanced, 1st line",,,,
 Perampanel,/apptracker/s/application-public/a102P00000AeZru,"Generalised epilepsy, with complex myoclonic seizures",,,,
 Physostigmine,/apptracker/s/application-public/a102P00000BUk5r,Moderate to severe simultaneous central and peripheral anticholinergic toxicity when the toxicity is only due to anticholinergic poisoning,,,,Various
 Pristinamycin,/apptracker/s/application-public/a102P00000BVIFA,"Mycoplasma genitalium infection, proven macrolide and quinolone resistance",,,,Infections - Agents for Systemic Use
 "Quadrivalent Influenza virus haemagglutinin, surface antigen, inactivated, prepared in cell cultures",/apptracker/s/application-public/a102P00000BUjqp,Prevention of influenza caused by Influenza Virus Types A and B,,,,
 Quinidine Bisulphate,/apptracker/s/application-public/a102P000008ptxp,Brugada syndrome,,,,Cardiovascular System
+Ribavirin,/apptracker/s/application-public/a102P000008pu1P,"RSV infection, recipients of lung or allogeneic stem cell transplants",,,,Infections - Agents for Systemic Use
 Ribavirin,/apptracker/s/application-public/a10OZ0000002AHp,"Measles, complicated",,,,Infections - Agents for Systemic Use
 Rotigotine,/apptracker/s/application-public/a102P00000BXb9N,Parkinson's disease,,,,Nervous System
 Rotigotine,/apptracker/s/application-public/a102P00000BXb9h,Restless leg syndrome,,,,Nervous System
