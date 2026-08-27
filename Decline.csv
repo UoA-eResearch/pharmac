@@ -1,5 +1,6 @@
 Chemical_Name,Community_URL,Indication,Indications_for_listing,Not_Accepted_Reason,Registered_name_of_active_ingredient,Therapeutic_group
 "7% hypertonic saline solution (sodium chloride), 4 mL single-use vial",/apptracker/s/application-public/a10OZ000002Q317,Nebulisation for adjunctive therapy in cystic fibrosis and non-CF bronchiectasis,,,,Respiratory System and Allergies
+Acalabrutinib,/apptracker/s/application-public/a102P00000BYQ0K,"Chronic lymphocytic leukaemia (CLL), treatment-naïve, with 17p or TP53 mutation (class recommendation received)",,,,Oncology Agents and Immunosuppressants
 AdVital (special food product),/apptracker/s/application-public/a102P000008ptpj,Malnutrition with taste fatigue,,,,Special Foods
 AdVital (special food product),/apptracker/s/application-public/a102P000008puWi,"Malnutrition, peri-surgery, tube feeding, and similar",,,,Special Foods
 Alemtuzumab,/apptracker/s/application-public/a102P000008puRJ,Chronic lymphocytic leukaemia (CLL) (3rd-line treatment),,,,Oncology Agents and Immunosuppressants
@@ -101,6 +102,7 @@ Trastuzumab,/apptracker/s/application-public/a102P000008ptzX,Breast cancer-treat
 Valganciclovir oral solution,/apptracker/s/application-public/a10OZ0000000xJR,Cytomegalovirus,,,,Infections - Agents for Systemic Use
 Zanubrutinib,/apptracker/s/application-public/a102P00000BaLcj,"Waldenström macroglobulinaemia, relapsed or refractory",,,,Oncology Agents and Immunosuppressants
 Zanubrutinib,/apptracker/s/application-public/a102P00000BaZ6c,"Waldenström macroglobulinaemia, first-line treatment for patients unsuitable or unable to receive chemoimmunotherapy",,,,Oncology Agents and Immunosuppressants
+Zanubrutinib,/apptracker/s/application-public/a102P00000Bacdp,"Chronic lymphocytic leukemia (CLL) or Small lymphocytic lymphoma (SLL) , 17p deletion or TP53 mutation disease, first line (class recommendation received)",,,,
 Ziv Aflibercept  (Aflibercept),/apptracker/s/application-public/a102P00000BQki1,Ocular neovascularisation,,,,
 pembrolizumab,/apptracker/s/application-public/a10OZ000001jcQL,"First line persistent, recurrent or metastatic cervical cancer in addition to chemotherapy, for patients with a PD-L1 combined positive score of 1 or more, with bevacizumab",,,,Oncology Agents and Immunosuppressants
 tacrolimus prolonged - release capsules,/apptracker/s/application-public/a102P00000BXyQv,Immunosuppresssion for all adolescents and young adults ( 12 - 30 years) living with solid organ transplants in New Zealand.,,,,Oncology Agents and Immunosuppressants
