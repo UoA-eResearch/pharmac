@@ -39,8 +39,15 @@ on:
         description: 'Max listing pages to scrape per run; leave blank for all (~3913)'
         default: ''
   schedule:
-    # Run every day at 00:00 UTC
-    - cron: '0 0 * * *'
+    # Run weekly on Sundays at 00:00 UTC. The ARTG listing backfill is
+    # complete, so daily runs spent ~10 minutes each mostly rediscovering
+    # rows we already have; weekly picks up new registrations just as well.
+    - cron: '0 0 * * 0'
+
+# Never let two scrape runs overlap and clobber each other's CSV commits.
+concurrency:
+  group: scrape-tga
+  cancel-in-progress: false
 
 jobs:
   # ---------------------------------------------------------------------------

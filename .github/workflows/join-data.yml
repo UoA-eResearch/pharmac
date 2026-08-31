@@ -10,10 +10,17 @@ on:
     # Run weekly on Mondays at 01:00 UTC
     - cron: '0 1 * * 1'
 
+concurrency:
+  group: join-data
+  cancel-in-progress: false
+
 jobs:
   join-data:
     name: Run join_data.ipynb
     runs-on: ubuntu-latest
+    # Normal runs take ~5 min (occasionally ~100); without a timeout a hung
+    # run holds the runner for the full 6h job limit.
+    timeout-minutes: 120
 
     steps:
       - name: Checkout repository
