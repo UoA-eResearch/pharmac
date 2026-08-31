@@ -3,24 +3,38 @@ name: Update CSVs
 on:
   workflow_dispatch: # Allow manual triggering
   schedule:
-    - cron: "*/5 * * * *" # Run every 5 minutes
+    # Run hourly (at :17 to avoid the congested top of the hour). The
+    # priority lists only change a handful of times per month, so polling
+    # every 5 minutes burned ~280 runner-minutes/day for no extra data.
+    - cron: "17 * * * *"
+
+# Never let two runs overlap (e.g. a manual dispatch during a scheduled run);
+# the newer run wins.
+concurrency:
+  group: update-csvs
+  cancel-in-progress: true
 
 jobs:
   update-csvs:
     runs-on: ubuntu-latest
+    # Safety net: a hung request can otherwise hold the runner for 6 hours.
+    timeout-minutes: 10
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
           python-version: "3.x"
           cache: 'pip'
 
       - name: Install dependencies
-        run: pip install -r requirements.txt
+        # fetch.py only needs requests + pandas; installing the full
+        # requirements.txt pulls in selenium/undetected-chromedriver/plotly
+        # which this job never uses.
+        run: pip install requests pandas
 
       - name: Run fetch script
         run: python fetch.py

@@ -10,10 +10,17 @@ on:
     # Run weekly on Mondays at 00:00 UTC
     - cron: '0 0 * * 1'
 
+concurrency:
+  group: find-approvals
+  cancel-in-progress: false
+
 jobs:
   find-approvals:
     name: Find FDA/TGA/MedSafe approval dates
     runs-on: ubuntu-latest
+    # Normal runs take 40-80 min; without a timeout a hung run holds the
+    # runner for the full 6h job limit.
+    timeout-minutes: 120
 
     steps:
       - name: Checkout repository
