@@ -15,6 +15,7 @@ Atezolizumab (with chemotherapy),/apptracker/s/application-public/a102P00000B08F
 Atogepant,/apptracker/s/application-public/a10OZ00000019E9,Episodic migraine prevention,,,,
 Atogepant,/apptracker/s/application-public/a10OZ00000019Fl,Chronic migraine prevention,,,,Nervous System
 Azelastine hydrochloride with fluticasone propionate,/apptracker/s/application-public/a10OZ000000Um41,Rhinitis or rhinoconjunctivitis not adequately responding to standard treatments,,,,Respiratory System and Allergies
+Belzutifan,/apptracker/s/application-public/a10OZ000000q7VF,Von Hippel-Lindau (VHL) disease,,,,
 Benralizumab,/apptracker/s/application-public/a102P00000BNz5p,"Eosinophilic asthma, ACT and >300 cells/ul eosinophil count criteria (widening access)",,,,Oncology Agents and Immunosuppressants
 Benralizumab,/apptracker/s/application-public/a10OZ000004QmwL,"Eosinophilic granulomatosis with polyangiitis (EGPA) - widening access, 2nd line",,,,Respiratory System and Allergies
 Benralizumab and mepolizumab,/apptracker/s/application-public/a10OZ000002Be2c,"Severe eosinophilic asthma, second biologic line",,,,Respiratory System and Allergies
@@ -112,8 +113,12 @@ Pertussis-containing vaccine,/apptracker/s/application-public/a10OZ000003t4vh,Ad
 Pertuzumab (IV form),/apptracker/s/application-public/a102P000008ptqk,"Breast cancer, HER2-positive, locally advanced, inflammatory or early-stage, neoadjuvant treatment",,,,Oncology Agents and Immunosuppressants
 "Pertuzumab and trastuzumab (SC, as PHESGO)",/apptracker/s/application-public/a102P00000BSgcX,"Breast cancer, HER2-positive, locally advanced, inflammatory or early-stage, neoadjuvant treatment",,,,Oncology Agents and Immunosuppressants
 Phlexy-Vits,/apptracker/s/application-public/a102P00000ATdvF,"Intractable epilepsy, pyruvate dehydrogenase, glucose transporter Type 1 deficiency, people with other inborn errors of metabolism, requiring a ketogenic diet or taking a protein supplement without micronutrients",,,,Special Foods
+"Polatuzumab vedotin (with rituximab, cyclophosphamide, doxorubicin, and prednisone)",/apptracker/s/application-public/a10OZ000001oeJR,"Diffuse large B-cell lymphoma (DLBCL), 1st line, International Prognostic Index (IPI) 2-5",,,,Oncology Agents and Immunosuppressants
+"Polatuzumab vedotin (with rituximab, cyclophosphamide, doxorubicin, and prednisone)",/apptracker/s/application-public/a10OZ000007g74H,"Diffuse large B-cell lymphoma (DLBCL), 1st line, International Prognostic Index (IPI) 3-5",,,,Oncology Agents and Immunosuppressants
 Prednisolone oral liquid,/apptracker/s/application-public/a102P000008ptqh,Removal of restrictions,,,,Hormone Preparations - Systemic Excluding Contraceptive Hormones
 Prucalopride succinate,/apptracker/s/application-public/a102P000008ptz8,Chronic slow transit constipation,,,,Alimentary Tract and Metabolism
+RSVPreF3 Vaccine,/apptracker/s/application-public/a10OZ000000aMGX,prevention of lower respiratory tract disease (LRTD) caused by respiratory syncytial virus RSV-A and RSV-B subtypes in adults 60 years of age and older,,,,
+RSVPreF3 Vaccine,/apptracker/s/application-public/a10OZ000009k7m5,prevention of lower respiratory tract disease (LRTD) caused by respiratory syncytial virus RSV-A and RSV-B subtypes in high-risk adults aged 60 to 74 years with eligible comorbidities and all adults 75 years of age and older,,,,National Immunisation Schedule
 Raltitrexed,/apptracker/s/application-public/a102P000008pua2,"Colorectal cancer, intolerant or contraindicated to fluoropyrimidine due to cardiac toxicity",,,,Oncology Agents and Immunosuppressants
 Ring pessary,/apptracker/s/application-public/a102P00000Au6xl,"Treatment for pelvic prolapse, vaginal or rectal in women",,,,Genito-Urinary System
 Ripretinib,/apptracker/s/application-public/a102P00000BNzPa,For people with advanced metastatic or unresectable GIST who have experienced disease progression following treatment with imatinib and sunitinib,,,,Oncology Agents and Immunosuppressants
