@@ -40,6 +40,7 @@ Hepatitis A vaccine,/apptracker/s/application-public/a102P000008puOU,Immunisatio
 Ibrutinib,/apptracker/s/application-public/a102P000008pu1K,"Chronic lymphocytic leukaemia (CLL), previously untreated, chemoimmunotherapy is inappropriate (BTKi class recommendation received)",,,,Oncology Agents and Immunosuppressants
 Ibrutinib,/apptracker/s/application-public/a102P00000BEpYC,"Waldenström macroglobulinaemia, first line",,,,Oncology Agents and Immunosuppressants
 Ibrutinib,/apptracker/s/application-public/a102P00000BQ7KI,"Waldenström macroglobulinaemia, relapsed/refractory",,,,Oncology Agents and Immunosuppressants
+"Inactivated quadrivalent influenza vaccine, split virion (high dose)",/apptracker/s/application-public/a102P00000BUk3C,"Given the indication will be for 60 plus, it is proposed to replace SD on the Schedule, for people aged 60 plus who meet the criteria",,,,
 Insulin pump (including consumables),/apptracker/s/application-public/a102P000008puM6,Diabetes during pregnancy,,,,Alimentary Tract and Metabolism
 Ipilimumab in combination with nivolumab,/apptracker/s/application-public/a10OZ000000FBET,"metastatic kidney cancer with a clear cell component, with poor, intermediate and favourable  IMDC risk prognoses, first-line therapy,",,,,Oncology Agents and Immunosuppressants
 Ivabradine,/apptracker/s/application-public/a102P000008ptpB,Inappropriate sinus tachycardia (IST),,,,Cardiovascular System
@@ -81,6 +82,10 @@ Pembrolizumab (with pemetrexed and chemotherapy),/apptracker/s/application-publi
 Pembrolizumab (with pemetrexed and chemotherapy),/apptracker/s/application-public/a10OZ000006KWoH,"Malignant pleural mesothelioma, all histological subtypes, unresectable advanced, 1st line",,,,
 Perampanel,/apptracker/s/application-public/a102P00000AeZru,"Generalised epilepsy, with complex myoclonic seizures",,,,
 Physostigmine,/apptracker/s/application-public/a102P00000BUk5r,Moderate to severe simultaneous central and peripheral anticholinergic toxicity when the toxicity is only due to anticholinergic poisoning,,,,Various
+Pneumococcal 21-valent conjugate vaccine,/apptracker/s/application-public/a10OZ000004OFtF,Prevention of invasive pneumococcal disease in high-risk adults,,,,National Immunisation Schedule
+Pneumococcal polysaccharide vaccine (PPV23),/apptracker/s/application-public/a10OZ000001rAiD,"Individuals who have had invasive pneumococcal disease, secondary prophylaxis",,,,
+Pneumococcal polysaccharide vaccine (PPV23),/apptracker/s/application-public/a10OZ000001rCFN,Non-cystic fibrosis bronchiectasis,,,,
+Pneumococcal vaccine (PCV13),/apptracker/s/application-public/a102P00000BZUOn,"Prevention of IPD, supplemental dose for children currently aged 12 to 59 months who received PCV10 as their childhood vaccine",,,,National Immunisation Schedule
 Pristinamycin,/apptracker/s/application-public/a102P00000BVIFA,"Mycoplasma genitalium infection, proven macrolide and quinolone resistance",,,,Infections - Agents for Systemic Use
 "Quadrivalent Influenza virus haemagglutinin, surface antigen, inactivated, prepared in cell cultures",/apptracker/s/application-public/a102P00000BUjqp,Prevention of influenza caused by Influenza Virus Types A and B,,,,
 Quinacrine [mepacrine],/apptracker/s/application-public/a102P000008pu4u,Giardiasis,,,,Infections - Agents for Systemic Use
@@ -95,6 +100,7 @@ Secukinumab,/apptracker/s/application-public/a10OZ000002qLdW,"moderate to severe
 Selexipag,/apptracker/s/application-public/a102P000008ptpc,Pulmonary arterial hypertension - dual therapy,,,,Cardiovascular System
 Selexipag,/apptracker/s/application-public/a102P000008puAq,Pulmonary arterial hypertension - triple therapy,,,,Cardiovascular System
 Selexipag,/apptracker/s/application-public/a102P000008puLz,Pulmonary arterial hypertension - monotherapy,,,,Cardiovascular System
+Selpercatinib,/apptracker/s/application-public/a10OZ000004Aprm,"Advanced or metastatic medullary thyroid cancer, germline or somatic mutation in the RET gene",,,,
 Sofosbuvir,/apptracker/s/application-public/a10OZ0000001Quv,"Hepatitis C, second-line treatment in combination with glecaprevir and pibrentasvir after prior direct-acting antiviral treatment",,,,
 "Sunitinib, pazopanib",/apptracker/s/application-public/a102P00000AUfIW,"Renal cell carcinoma (RCC), advanced or metastatic, 2nd line after prior TKI treatment",,,,Oncology Agents and Immunosuppressants
 "Topical non-steroidal anti-inflammatory drugs (NSAIDs) - Diclofenac, Ibuprofen, Ketoprofen, Piroxicam",/apptracker/s/application-public/a102P000008puNS,Osteoarthritis,,,,Musculoskeletal System
@@ -103,6 +109,7 @@ Valganciclovir oral solution,/apptracker/s/application-public/a10OZ0000000xJR,Cy
 Zanubrutinib,/apptracker/s/application-public/a102P00000BaLcj,"Waldenström macroglobulinaemia, relapsed or refractory",,,,Oncology Agents and Immunosuppressants
 Zanubrutinib,/apptracker/s/application-public/a102P00000BaZ6c,"Waldenström macroglobulinaemia, first-line treatment for patients unsuitable or unable to receive chemoimmunotherapy",,,,Oncology Agents and Immunosuppressants
 Zanubrutinib,/apptracker/s/application-public/a102P00000Bacdp,"Chronic lymphocytic leukemia (CLL) or Small lymphocytic lymphoma (SLL) , 17p deletion or TP53 mutation disease, first line (class recommendation received)",,,,
+Zinc paste,/apptracker/s/application-public/a102P000008puCq,Dermatological conditions,,,,Dermatologicals
 Ziv Aflibercept  (Aflibercept),/apptracker/s/application-public/a102P00000BQki1,Ocular neovascularisation,,,,
 pembrolizumab,/apptracker/s/application-public/a10OZ000001jcQL,"First line persistent, recurrent or metastatic cervical cancer in addition to chemotherapy, for patients with a PD-L1 combined positive score of 1 or more, with bevacizumab",,,,Oncology Agents and Immunosuppressants
 tacrolimus prolonged - release capsules,/apptracker/s/application-public/a102P00000BXyQv,Immunosuppresssion for all adolescents and young adults ( 12 - 30 years) living with solid organ transplants in New Zealand.,,,,Oncology Agents and Immunosuppressants
