@@ -22,6 +22,7 @@ Benralizumab and mepolizumab,/apptracker/s/application-public/a10OZ000002Be2c,"S
 "Benzocaine with phenazone, ear drops",/apptracker/s/application-public/a102P00000BauiC,Otitis media or otalgia,,,,Sensory Organs
 Bevacizumab,/apptracker/s/application-public/a102P000008ptxU,"Cervical cancer, advanced",,,,Oncology Agents and Immunosuppressants
 Bevacizumab,/apptracker/s/application-public/a102P00000BTk6R,"Ovarian cancer, advanced, recurrent",,,,Oncology Agents and Immunosuppressants
+Bevacizumab,/apptracker/s/application-public/a10OZ000004UUsp,"Hereditary haemorrhagic telangiectasia (HHT), severe",,,,Oncology Agents and Immunosuppressants
 Bruton tyrosine kinase inhibitor (BTKi),/apptracker/s/application-public/a10OZ000000LuNN,"Chronic lymphocytic leukaemia (CLL), first-line, without TP53 mutation",,,,Oncology Agents and Immunosuppressants
 Bruton tyrosine kinase inhibitor (BTKi),/apptracker/s/application-public/a10OZ000000LuVR,"Chronic lymphocytic leukaemia (CLL), first-line, with TP53 mutation",,,,Oncology Agents and Immunosuppressants
 Bruton tyrosine kinase inhibitor (BTKi),/apptracker/s/application-public/a10OZ00000ArH8D,"Waldenström macroglobulinaemia, relapsed or refractory",,,,Oncology Agents and Immunosuppressants
@@ -45,6 +46,7 @@ Daratumumab IV (with bortezomib and dexamethasone),/apptracker/s/application-pub
 Daratumumab subcutaneous,/apptracker/s/application-public/a102P00000BD0yw,"Multiple myeloma, received one prior line of myeloma therapy (1PL).",,,,Oncology Agents and Immunosuppressants
 Darolutamide,/apptracker/s/application-public/a102P00000BSUIe,"Prostate cancer, high risk,  non-metastatic, castration-resistant (nmCRPC)",,,,
 Desmopressin Acetate DDAVP,/apptracker/s/application-public/a102P00000BRdUc,"To increase the FVIII concentration in people with Haemophilia A, von Willebrand disease or inherited platelet disorders.",,,,
+"Diphtheria, tetanus and pertussis vaccine",/apptracker/s/application-public/a10OZ00000BMksH,Pertussis protection - widened access for parents and primary caregivers of infants admitted to neonatal intensive care unit or specialist baby care units,,,,National Immunisation Schedule
 Dostarlimab,/apptracker/s/application-public/a10OZ000000e2xZ,"Endometrial cancer, advanced or recurrent, with deficient mismatch repair (dMMR) status, first line",,,,Oncology Agents and Immunosuppressants
 Dostarlimab,/apptracker/s/application-public/a10OZ000002WKNR,"Endometrial cancer, treatment of advanced or recurrent, irrespective of dMMR status, first line",,,,Oncology Agents and Immunosuppressants
 Durvalumab,/apptracker/s/application-public/a102P00000Bajp3,"Biliary tract cancer, locally advanced or metastatic, in combination with chemotherapy",,,,Oncology Agents and Immunosuppressants
@@ -85,6 +87,8 @@ Low protein foods,/apptracker/s/application-public/a102P000009LHTR,PKU phenylket
 "Meningococcal (groups A, C, Y and W-135) conjugate vaccine",/apptracker/s/application-public/a102P000008pu50,"Young people aged 5 to 21 years, ongoing vaccination at 14 years of age",,,,National Immunisation Schedule
 "Meningococcal (groups A, C, Y and W-135) conjugate vaccine",/apptracker/s/application-public/a102P000008pu9d,Children aged 1 to 4 years,,,,National Immunisation Schedule
 "Meningococcal (groups A, C, Y and W-135) conjugate vaccine",/apptracker/s/application-public/a102P000008puDK,"Young people aged 13 to 21 years, ongoing vaccination at 14 years of age",,,,National Immunisation Schedule
+"Meningococcal (groups A, C, Y and W-135) conjugate vaccine",/apptracker/s/application-public/a10OZ000007O83d,Booster dose for adolescents on entering a second congregate setting,,,,National Immunisation Schedule
+Meningococcal B multicomponent vaccine,/apptracker/s/application-public/a10OZ000007O7SX,Booster dose for adolescents on entering a second congregate setting,,,,National Immunisation Schedule
 Mepolizumab,/apptracker/s/application-public/a102P00000AYn1O,"Eosinophilic asthma, lowering minimum blood eosinophil count to 300 cells per microlitre",,,,Oncology Agents and Immunosuppressants
 Mepolizumab,/apptracker/s/application-public/a102P00000AnQL4,"Eosinophilic asthma, remove requirement for Asthma Control Test (ACT)",,,,Oncology Agents and Immunosuppressants
 Mepolizumab,/apptracker/s/application-public/a10OZ000001Mo8r,"Chronic rhinosinusitis with nasal polyps (CRSwNP), after one nasal polyp surgery unless surgery is contraindicated",,,,Respiratory System and Allergies
@@ -135,6 +139,7 @@ SMA treatments,/apptracker/s/application-public/a102P00000BYT2Q,People with SMA 
 SMA treatments,/apptracker/s/application-public/a10OZ0000000uQP,"People with SMA types IIIb, IIIc and undefined III aged 18 years and under (symptomatic after 3 years of age)",,,,
 Sacituzumab govitecan,/apptracker/s/application-public/a10OZ0000000O2L,"Breast cancer, triple-negative, locally advanced or metastatic",,,,Oncology Agents and Immunosuppressants
 Sapropterin,/apptracker/s/application-public/a102P000008puXt,Phenylketonuria (PKU),,,,Alimentary Tract and Metabolism
+Selexipag,/apptracker/s/application-public/a10OZ00000A44gn,Pulmonary arterial hypertension (PAH),,,,
 Semaglutide,/apptracker/s/application-public/a10OZ000006OUj3,"Chronic weight management, Body Mass Index (BMI) ≥50, or 35 kg/m2, with two or more weight-related comorbidities",,,,Alimentary Tract and Metabolism
 Semaglutide,/apptracker/s/application-public/a10OZ000008U2vq,"Chronic weight management, Body Mass Index (BMI) ≥50, or 40 kg/m2, with two or more weight-related comorbidities",,,,
 Sirolimus (Rapamycin),/apptracker/s/application-public/a102P00000BYYkJ,Facial angiofibromas associated with Tuberous Sclerosis Complex,,,,
