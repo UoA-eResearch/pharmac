@@ -28,13 +28,13 @@ Blinatumomab,/apptracker/s/application-public/a10OZ000000e52b,Measurable residua
 Bruton tyrosine kinase inhibitor (BTKi),/apptracker/s/application-public/a10OZ000000LuNN,"Chronic lymphocytic leukaemia (CLL), first-line, without TP53 mutation",,,,Oncology Agents and Immunosuppressants
 Bruton tyrosine kinase inhibitor (BTKi),/apptracker/s/application-public/a10OZ000000LuVR,"Chronic lymphocytic leukaemia (CLL), first-line, with TP53 mutation",,,,Oncology Agents and Immunosuppressants
 Bruton tyrosine kinase inhibitor (BTKi),/apptracker/s/application-public/a10OZ00000ArH8D,"Waldenström macroglobulinaemia, relapsed or refractory",,,,Oncology Agents and Immunosuppressants
+Bruton tyrosine kinase inhibitor (BTKi),/apptracker/s/application-public/a10OZ00000ArWIX,"Waldenström macroglobulinaemia, first-line treatment where bendamustine with rituximab is unsuitable",,,,Oncology Agents and Immunosuppressants
 Budesonide controlled-release,/apptracker/s/application-public/a102P000008pu9g,"Ulcerative colitis, mild to moderately active",,,,Alimentary Tract and Metabolism
 Budesonide orodispersible tablets,/apptracker/s/application-public/a102P00000BY17Q,"Eosinophilic oesophagitis, 2nd line after fluticasone",,,,Alimentary Tract and Metabolism
 Buprenorphine injection (Buvidal),/apptracker/s/application-public/a102P00000BHRv4,"Opioid dependence, maintenance treatment",,,,Nervous System
 Buprenorphine modified release solution for injection (Sublocade),/apptracker/s/application-public/a102P00000Al9Ir,"Opioid dependence, maintenance treatment",,,,Nervous System
 Cannabidiol,/apptracker/s/application-public/a102P00000BTLIN,"Dravet Syndrome, adjunctive therapy",,,,Nervous System
 Carfilzomib,/apptracker/s/application-public/a102P000008pug4,Relapsed or refractory multiple myeloma,,,,Oncology Agents and Immunosuppressants
-Carfilzomib,/apptracker/s/application-public/a102P00000BIsC8,"Multiple myeloma, relapsed or refractory, 2nd line",,,,Oncology Agents and Immunosuppressants
 Carglumic acid,/apptracker/s/application-public/a102P000008pu8I,Hyperammonaemia resulting from CPS1 and NAGs deficiencies of urea cycle,,,,Alimentary Tract and Metabolism
 Carglumic acid,/apptracker/s/application-public/a102P000008pubu,"Hyperammonaemia resulting from isovaleric, methylmalonic and propionic organic acidaemias",,,,Alimentary Tract and Metabolism
 Ciclosporin eye preparation,/apptracker/s/application-public/a102P000008pu7u,"Severe keratoconjunctivitis sicca, severe atopic keratoconjunctivitis and severe vernal keratoconjunctivitis",,,,Sensory Organs
@@ -168,6 +168,8 @@ Varicella zoster vaccine [Shingles vaccine],/apptracker/s/application-public/a10
 Varicella zoster vaccine [Shingles vaccine],/apptracker/s/application-public/a102P00000BUKrt,"Prevention of herpes zoster and post-herpetic neuralgia, people at 50 years of age and a catch-up program  for people 51 to 64 years",,,,National Immunisation Schedule
 Varicella zoster vaccine [Shingles vaccine],/apptracker/s/application-public/a10OZ000000UvLp,Catch-up programme due to COVID-19 pandemic disruption,,,,National Immunisation Schedule
 Varicella zoster vaccine [Shingles vaccine],/apptracker/s/application-public/a10OZ000000ioHF,"Prevention of herpes zoster in adults aged 66 to 74 years, plus catch up for those aged 75 years and over",,,,National Immunisation Schedule
+Vedolizumab,/apptracker/s/application-public/a10OZ000000EevF,"Ulcerative colitis and Crohn's disease, primary non-response to vedolizumab (dose escalation)",,,,Alimentary Tract and Metabolism
+Vedolizumab,/apptracker/s/application-public/a10OZ00000162Ef,"Ulcerative colitis and Crohn's disease, secondary loss of response to vedolizumab (dose escalation)",,,,Alimentary Tract and Metabolism
 Venetoclax (with rituximab),/apptracker/s/application-public/a102P00000BZUPC,"Chronic lymphocytic leukaemia (CLL) without TP53 mutation, retreatment at relapse following prior treatment with venetoclax plus rituximab (venR) (third line)",,,,Oncology Agents and Immunosuppressants
 Vismodegib,/apptracker/s/application-public/a102P000008puDo,"Basal cell carcinoma, locally advanced or metastatic",,,,Oncology Agents and Immunosuppressants
 Voretigene neparvovec,/apptracker/s/application-public/a102P00000BXTtD,"Inherited retinal dystrophy, biallelic RPE65 mutations",,,,Sensory Organs
