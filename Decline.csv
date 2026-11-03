@@ -18,14 +18,18 @@ Buprenorphine patches,/apptracker/s/application-public/a102P000008ptrY,"Pain, pe
 Cabozantinib,/apptracker/s/application-public/a10OZ000001XFHS,"advanced clear cell renal cancer, second line therapy",,,,
 Cannabidiol with tetrahydrocannabinol,/apptracker/s/application-public/a102P000008ptyj,"Multiple sclerosis spasticity, epilepsy, pain and spasticity",,,,Nervous System
 Carboxypeptidase G2,/apptracker/s/application-public/a102P000008pu4B,Methotrexate overdose,,,,Oncology Agents and Immunosuppressants
+Carfilzomib,/apptracker/s/application-public/a102P00000BIsC8,"Multiple myeloma, relapsed or refractory, 2nd line",,,,Oncology Agents and Immunosuppressants
+Carfilzomib,/apptracker/s/application-public/a102P00000BIsCD,"Multiple myeloma, relapsed, refractory, 3rd line",,,,Oncology Agents and Immunosuppressants
 Clindamycin vaginal cream,/apptracker/s/application-public/a102P000008ptyF,Bacterial vaginosis and desquamative inflammatory vaginitis,,,,Genito-Urinary System
 Crisantaspase (Erwinia L-asparaginase),/apptracker/s/application-public/a102P000008puKX,"Acute lymphoblastic leukemia, allergic to L-asparaginase",,,,Oncology Agents and Immunosuppressants
 Cyanocobalamin (1mg sub-lingual),/apptracker/s/application-public/a10OZ000000witV,Vitamin B12 deficiency,,,,Alimentary Tract and Metabolism
 D-mannose,/apptracker/s/application-public/a102P000008puQG,"Cystitis, uncomplicated during pregnancy or associated neurogenic bladder",,,,Infections - Agents for Systemic Use
+Daratumumab (with bortezomib and dexamethasone),/apptracker/s/application-public/a102P00000BQDzw,"Multiple myeloma, 3rd line",,,,
 Deflazacort,/apptracker/s/application-public/a102P000008pujy,Duchenne muscular dystrophy,,,,Musculoskeletal System
 Desmopressin,/apptracker/s/application-public/a10OZ000000qI8v,"Arginine vasopressin deficiency (previously central diabetes insipidus), 60mcg and 240mcg desmopressin wafers for dose titration",,,,
 Dexcom G5 Continuous Glucose Monitors,/apptracker/s/application-public/a102P00000BBg62,Type 2 diabetes,,,,Alimentary Tract and Metabolism
 Diflunisal,/apptracker/s/application-public/a102P00000ABk8y,ATTRwt induced cardiomyopathy,,,,Blood and Blood Forming Organs
+Dostarlimab,/apptracker/s/application-public/a10OZ000002WKP3,"Endometrial cancer, treatment of advanced or recurrent, dMMR deficient, second line",,,,Oncology Agents and Immunosuppressants
 Dostarlimab,/apptracker/s/application-public/a10OZ000002WKQf,"Endometrial cancer, treatment of advanced or recurrent, irrespective of dMMR status, second line",,,,Oncology Agents and Immunosuppressants
 Dupilumab,/apptracker/s/application-public/a102P00000BMJQf,"Moderate to severe atopic dermatitis, following 2nd line treatment(s)",,,,Dermatologicals
 Dupilumab,/apptracker/s/application-public/a102P00000BMh6q,"Chronic rhinosinusitis with nasal polyps (CRSwNP), maintenance treatment of uncontrolled disease",,,,Respiratory System and Allergies
@@ -36,9 +40,12 @@ Fexofenadine hydrochloride,/apptracker/s/application-public/a102P00000AX1tz,"Urt
 "Fluticasone with vilanterol, 200/25, high dose",/apptracker/s/application-public/a102P000008pu6h,Asthma,,,,Respiratory System and Allergies
 Hepatitis A vaccine,/apptracker/s/application-public/a102P000008pu4n,Widened access to at-risk groups,,,,National Immunisation Schedule
 Hepatitis A vaccine,/apptracker/s/application-public/a102P000008puOU,Immunisation of HIV patients,,,,National Immunisation Schedule
+Hexylaminolevulinate hydrochloride,/apptracker/s/application-public/a102P000008pu6O,Diagnostic detection of bladder cancer under blue fluorescent light,,,,Oncology Agents and Immunosuppressants
+Human Papillomavirus 9-valent vaccine,/apptracker/s/application-public/a10OZ000002rScv,Widen access to people aged 9 to 45 years who are living with HIV,,,,National Immunisation Schedule
 Ibrutinib,/apptracker/s/application-public/a102P000008pu1K,"Chronic lymphocytic leukaemia (CLL), previously untreated, chemoimmunotherapy is inappropriate (BTKi class recommendation received)",,,,Oncology Agents and Immunosuppressants
 Ibrutinib,/apptracker/s/application-public/a102P00000BEpYC,"Waldenström macroglobulinaemia, first line",,,,Oncology Agents and Immunosuppressants
 Ibrutinib,/apptracker/s/application-public/a102P00000BQ7KI,"Waldenström macroglobulinaemia, relapsed/refractory",,,,Oncology Agents and Immunosuppressants
+Ichthammol powder,/apptracker/s/application-public/a102P000008pttA,Dermatology,,,,Dermatologicals
 "Inactivated quadrivalent influenza vaccine, split virion (high dose)",/apptracker/s/application-public/a102P00000BUk3C,"Given the indication will be for 60 plus, it is proposed to replace SD on the Schedule, for people aged 60 plus who meet the criteria",,,,
 Insulin pump (including consumables),/apptracker/s/application-public/a102P000008puM6,Diabetes during pregnancy,,,,Alimentary Tract and Metabolism
 Ipilimumab in combination with nivolumab,/apptracker/s/application-public/a10OZ000000FBET,"metastatic kidney cancer with a clear cell component, with poor, intermediate and favourable  IMDC risk prognoses, first-line therapy,",,,,Oncology Agents and Immunosuppressants
@@ -81,6 +88,7 @@ Pembrolizumab,/apptracker/s/application-public/a102P00000BW4LK,"Pancreatic adeno
 Pembrolizumab (with pemetrexed and chemotherapy),/apptracker/s/application-public/a10OZ000004iMLt,"Malignant pleural mesothelioma, non-epithelioid histological subtypes, unresectable advanced, 1st line",,,,Oncology Agents and Immunosuppressants
 Pembrolizumab (with pemetrexed and chemotherapy),/apptracker/s/application-public/a10OZ000006KWoH,"Malignant pleural mesothelioma, all histological subtypes, unresectable advanced, 1st line",,,,
 Perampanel,/apptracker/s/application-public/a102P00000AeZru,"Generalised epilepsy, with complex myoclonic seizures",,,,
+Pertuzumab and trastuzumab,/apptracker/s/application-public/a102P00000BZPBQ,Adjuvant treatment of individuals with HER2-positive early breast cancer at high risk of recurrence in combination with chemotherapy,,,,Oncology Agents and Immunosuppressants
 Physostigmine,/apptracker/s/application-public/a102P00000BUk5r,Moderate to severe simultaneous central and peripheral anticholinergic toxicity when the toxicity is only due to anticholinergic poisoning,,,,Various
 Pneumococcal 21-valent conjugate vaccine,/apptracker/s/application-public/a10OZ000004OFtF,Prevention of invasive pneumococcal disease in high-risk adults,,,,National Immunisation Schedule
 Pneumococcal polysaccharide vaccine (PPV23),/apptracker/s/application-public/a10OZ000001rAiD,"Individuals who have had invasive pneumococcal disease, secondary prophylaxis",,,,
@@ -96,6 +104,7 @@ Rotigotine,/apptracker/s/application-public/a102P00000BXb9N,Parkinson's disease,
 Rotigotine,/apptracker/s/application-public/a102P00000BXb9h,Restless leg syndrome,,,,Nervous System
 Ruxolitinib cream,/apptracker/s/application-public/a102P00000BYYgW,Vitiligo,,,,
 SARS-CoV-2 rS (Omicron XBB.1.5),/apptracker/s/application-public/a10OZ000000N49N,prevention of COVID-19,,,,
+Salbutamol dry powder inhaler,/apptracker/s/application-public/a102P00000BYrtH,COPD and asthma,,,,Respiratory System and Allergies
 Secukinumab,/apptracker/s/application-public/a10OZ000002qLdW,"moderate to severe hidradenitis suppurativa, first-line biologic treatment",,,,Dermatologicals
 Selexipag,/apptracker/s/application-public/a102P000008ptpc,Pulmonary arterial hypertension - dual therapy,,,,Cardiovascular System
 Selexipag,/apptracker/s/application-public/a102P000008puAq,Pulmonary arterial hypertension - triple therapy,,,,Cardiovascular System
@@ -103,6 +112,8 @@ Selexipag,/apptracker/s/application-public/a102P000008puLz,Pulmonary arterial hy
 Selpercatinib,/apptracker/s/application-public/a10OZ000004Aprm,"Advanced or metastatic medullary thyroid cancer, germline or somatic mutation in the RET gene",,,,
 Sofosbuvir,/apptracker/s/application-public/a10OZ0000001Quv,"Hepatitis C, second-line treatment in combination with glecaprevir and pibrentasvir after prior direct-acting antiviral treatment",,,,
 "Sunitinib, pazopanib",/apptracker/s/application-public/a102P00000AUfIW,"Renal cell carcinoma (RCC), advanced or metastatic, 2nd line after prior TKI treatment",,,,Oncology Agents and Immunosuppressants
+Synthamin 17 (amino acid) (without electrolytes),/apptracker/s/application-public/a10OZ000007O5ll,Prevention of acute kidney injury after cardiac surgery with cardiopulmonary bypass,,,,
+Tocilizumab,/apptracker/s/application-public/a102P000008pubH,AA amyloidosis,,,,Oncology Agents and Immunosuppressants
 "Topical non-steroidal anti-inflammatory drugs (NSAIDs) - Diclofenac, Ibuprofen, Ketoprofen, Piroxicam",/apptracker/s/application-public/a102P000008puNS,Osteoarthritis,,,,Musculoskeletal System
 Trastuzumab,/apptracker/s/application-public/a102P000008ptzX,Breast cancer-treatment beyond disease progression,,,,Oncology Agents and Immunosuppressants
 Valganciclovir oral solution,/apptracker/s/application-public/a10OZ0000000xJR,Cytomegalovirus,,,,Infections - Agents for Systemic Use
